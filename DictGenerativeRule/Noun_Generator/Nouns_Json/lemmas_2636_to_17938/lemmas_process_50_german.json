@@ -1,0 +1,272 @@
+[
+  {
+    "lemma": "detergent",
+    "meanings_de": ["Reinigungsmittel"],
+    "definitions_de": ["Synthetisches Reinigungsmittel, das Schmutz und Fett von Oberflächen entfernt und dabei die Oberflächenspannung des Wassers herabsetzt"],
+    "examples_de": [["Sie gab **Waschmittel** in die Maschine, bevor sie das Programm startete", "Der Geschirrspüler benötigt spezielles **Reinigungsmittel** für optimale Sauberkeit"]]
+  },
+  {
+    "lemma": "deterioration",
+    "meanings_de": ["Verschlechterungsprozess"],
+    "definitions_de": ["Allmählicher Prozess der zunehmenden Verschlechterung von Qualität, Zustand oder Funktion"],
+    "examples_de": [["Die **Verschlechterung** des Gebäudezustands erforderte dringende Sanierungsmaßnahmen", "Witterungseinflüsse führten zur erheblichen **Verschlechterung** der Gartenmöbel"]]
+  },
+  {
+    "lemma": "determinant",
+    "meanings_de": ["bestimmender Faktor", "mathematischer Wert"],
+    "definitions_de": ["Faktor, der maßgeblich die Art oder das Ergebnis von etwas beeinflusst", "Skalarer Wert, der aus einer quadratischen Matrix berechnet wird"],
+    "examples_de": [["Der Bildungsgrad ist eine wesentliche **Determinante** für das Einkommenspotenzial", "Die soziale Herkunft bleibt eine wichtige **Determinante** für Gesundheitschancen"], ["Die **Determinante** dieser Matrix ist gleich null", "Berechnen Sie die **Determinante**, um diese lineare Gleichung zu lösen"]]
+  },
+  {
+    "lemma": "determinism",
+    "meanings_de": ["philosophische Lehre"],
+    "definitions_de": ["Philosophische Theorie, nach der alle Ereignisse durch zuvor existierende Ursachen vorherbestimmt sind"],
+    "examples_de": [["Der wissenschaftliche **Determinismus** besagt, dass jedes Ereignis eine vorhersagbare Ursache hat", "Die Debatte zwischen freiem Willen und **Determinismus** dauert bis heute an"]]
+  },
+  {
+    "lemma": "deterrence",
+    "meanings_de": ["Abschreckungsstrategie"],
+    "definitions_de": ["Handlung, die darauf abzielt, etwas durch Furcht vor Konsequenzen zu verhindern"],
+    "examples_de": [["Atomwaffen dienen der **Abschreckung** gegen militärische Aggressionen", "Die harten Strafen sollen zur **Abschreckung** potenzieller Straftäter beitragen"]]
+  },
+  {
+    "lemma": "deterrent",
+    "meanings_de": ["Abschreckungsmittel"],
+    "definitions_de": ["Etwas, das jemanden davon abhält oder abschreckt, eine bestimmte Handlung auszuführen"],
+    "examples_de": [["Hohe Preise wirken als **Abschreckung** für viele Käufer", "Die Überwachungskameras dienen als **Abschreckungsmittel** gegen Diebstahl"]]
+  },
+  {
+    "lemma": "detonation",
+    "meanings_de": ["Explosionsereignis"],
+    "definitions_de": ["Vorgang des Auslösens einer Bombe oder eines Sprengstoffs zur Explosion"],
+    "examples_de": [["Die kontrollierte **Sprengung** zerstörte das alte Gebäude sicher", "Zeugen hörten die **Detonation** noch aus mehreren Kilometern Entfernung"]]
+  },
+  {
+    "lemma": "detonator",
+    "meanings_de": ["Zündvorrichtung"],
+    "definitions_de": ["Vorrichtung zum Auslösen einer Sprengladung oder Bombe"],
+    "examples_de": [["Das Bombenentschärfungskommando entfernte zuerst vorsichtig den **Zünder**", "Elektronische **Zünder** ermöglichen eine präzise Zeitsteuerung von Sprengungen"]]
+  },
+  {
+    "lemma": "detour",
+    "meanings_de": ["Umleitung"],
+    "definitions_de": ["Längere Strecke, die genommen wird, um etwas zu umgehen oder unterwegs einen Ort zu besuchen"],
+    "examples_de": [["Die Baustelle zwang die Autofahrer zu einer **Umleitung**", "Wir machten einen kleinen **Umweg**, um das historische Denkmal zu besichtigen"]]
+  },
+  {
+    "lemma": "detox",
+    "meanings_de": ["Entgiftungsprozess"],
+    "definitions_de": ["Prozess der Entfernung giftiger Substanzen aus dem Körper"],
+    "examples_de": [["Sie begann eine Saftkur zur **Entgiftung** ihres Körpers", "Die Klinik ist auf **Entgiftungsprogramme** bei Alkoholabhängigkeit spezialisiert"]]
+  },
+  {
+    "lemma": "detoxification",
+    "meanings_de": ["Entgiftungsverfahren"],
+    "definitions_de": ["Medizinischer Prozess zur Entfernung toxischer Substanzen aus einem lebenden Organismus"],
+    "examples_de": [["Der Patient unterzog sich einer **Entgiftung**, bevor die neue Medikation begann", "Die **Entgiftung** der Leber hilft, schädliche Chemikalien auf natürliche Weise zu eliminieren"]]
+  },
+  {
+    "lemma": "detriment",
+    "meanings_de": ["Schaden oder Nachteil"],
+    "definitions_de": ["Zustand des Geschädigtseins oder der Beeinträchtigung, besonders der eigenen Interessen"],
+    "examples_de": [["Rauchen ist zum erheblichen **Nachteil** Ihrer Gesundheit", "Die vielen Überstunden erwiesen sich als **Schaden** für die Familienbeziehungen"]]
+  },
+  {
+    "lemma": "deuce",
+    "meanings_de": ["Tennispunktestand", "Spielkarte"],
+    "definitions_de": ["Tennispunktestand, wenn beide Spieler vierzig Punkte haben", "Spielkarte oder Würfel mit zwei Punkten"],
+    "examples_de": [["Das Match ging fünfmal auf **Einstand**, bevor es endete", "Sie spielten mehrere **Einstände** im letzten Satz"], ["Er zog eine **Zwei** aus dem Kartendeck", "Eine **Zwei** zu würfeln bedeutete, zwei Felder vorzurücken"]]
+  },
+  {
+    "lemma": "devaluation",
+    "meanings_de": ["Währungsabwertung", "Wertminderung"],
+    "definitions_de": ["Offizielle Senkung des Wertes einer Landeswährung", "Reduzierung oder Unterschätzung des Wertes oder der Bedeutung von etwas"],
+    "examples_de": [["Die **Abwertung** der Währung verteuerte Importe erheblich", "Die Regierung kündigte eine zehnprozentige **Abwertung** an"], ["Die ständige Kritik führte zur **Abwertung** ihrer Leistungen", "Die gesellschaftliche **Geringschätzung** körperlicher Arbeit beunruhigt viele Pädagogen"]]
+  },
+  {
+    "lemma": "devastation",
+    "meanings_de": ["schwere Zerstörung"],
+    "definitions_de": ["Schwere und überwältigende Erschütterung, Schädigung oder Zerstörung von etwas"],
+    "examples_de": [["Der Hurrikan hinterließ völlige **Verwüstung** entlang der Küste", "Der Krieg brachte **Zerstörung** über die einst friedliche Region"]]
+  },
+  {
+    "lemma": "deviance",
+    "meanings_de": ["Abweichung von Normen"],
+    "definitions_de": ["Verhalten, das gegen akzeptierte soziale Normen oder Erwartungen verstößt"],
+    "examples_de": [["Soziologen untersuchen Muster der **Abweichung** in verschiedenen Kulturen", "Kleinere **Normabweichungen** bleiben in großen Gemeinschaften oft unbemerkt"]]
+  },
+  {
+    "lemma": "deviant",
+    "meanings_de": ["normabweichende Person"],
+    "definitions_de": ["Person, deren Verhalten von dem abweicht, was als akzeptabel gilt"],
+    "examples_de": [["Die Studie untersuchte, wie die Gesellschaft bestimmte Individuen als **Abweichler** etikettiert", "Soziale **Abweichler** fordern oft konventionelles Denken heraus und fördern Fortschritt"]]
+  },
+  {
+    "lemma": "deviate",
+    "meanings_de": ["abweichende Person"],
+    "definitions_de": ["Person, die von üblichen oder akzeptierten Standards abweicht"],
+    "examples_de": [["Statistische **Ausreißer** wurden aus der finalen Analyse entfernt", "Der Forscher identifizierte mehrere **Abweichler** in den Daten"]]
+  },
+  {
+    "lemma": "deviation",
+    "meanings_de": ["Abweichung vom Standard"],
+    "definitions_de": ["Handlung des Abweichens von einem etablierten Kurs oder akzeptierten Standard"],
+    "examples_de": [["Jede **Abweichung** vom Protokoll muss dokumentiert werden", "Die **Standardabweichung** misst die Streuung in den Daten"]]
+  },
+  {
+    "lemma": "devising",
+    "meanings_de": ["Planungsvorgang"],
+    "definitions_de": ["Prozess des Planens oder Erfindens von etwas durch sorgfältiges Nachdenken"],
+    "examples_de": [["Das **Entwickeln** neuer Strategien dauerte mehrere Monate", "Ihre Fähigkeit beim **Ausarbeiten** von Lösungen beeindruckte das Team"]]
+  },
+  {
+    "lemma": "devolution",
+    "meanings_de": ["Machtübertragung"],
+    "definitions_de": ["Übertragung von Macht von der Zentralregierung auf lokale oder regionale Verwaltungen"],
+    "examples_de": [["Schottland gewann durch politische **Dezentralisierung** mehr Autonomie", "Die **Übertragung** von Verantwortlichkeiten verbesserte lokale Entscheidungsprozesse"]]
+  },
+  {
+    "lemma": "devotee",
+    "meanings_de": ["begeisterter Anhänger"],
+    "definitions_de": ["Person, die sehr interessiert und begeistert von etwas ist"],
+    "examples_de": [["Sie ist eine **Liebhaberin** klassischer Musik und Oper", "Yoga-**Anhänger** versammelten sich zur Morgensitzung"]]
+  },
+  {
+    "lemma": "devotion",
+    "meanings_de": ["tiefe Hingabe", "religiöse Andacht"],
+    "definitions_de": ["Liebe, Loyalität oder Begeisterung für eine Person oder Aktivität", "Religiöse Verehrung oder Andacht"],
+    "examples_de": [["Ihre **Hingabe** zum Unterrichten inspirierte viele Schüler", "Ihre **Zuneigung** zueinander hielt fünfzig Jahre"], ["Die morgendliche **Andacht** umfasste Gebet und Meditation", "Die Mönche übten ihre **Andacht** in vollkommener Stille"]]
+  },
+  {
+    "lemma": "devotional",
+    "meanings_de": ["religiöser Text"],
+    "definitions_de": ["Kurzer religiöser Gottesdienst oder Text für private Andacht"],
+    "examples_de": [["Sie las ihre tägliche **Andacht**, bevor sie mit der Arbeit begann", "Die Buchhandlung verkauft verschiedene **Andachtsbücher** für unterschiedliche Glaubensrichtungen"]]
+  },
+  {
+    "lemma": "dew",
+    "meanings_de": ["Wassertröpfchen"],
+    "definitions_de": ["Winzige Wassertropfen, die sich während kühler Nächte auf Oberflächen bilden"],
+    "examples_de": [["Der morgendliche **Tau** bedeckte das Gras mit funkelnden Tröpfchen", "Das Spinnennetz glitzerte im **Morgentau** bei Sonnenaufgang"]]
+  },
+  {
+    "lemma": "dexterity",
+    "meanings_de": ["Geschicklichkeit"],
+    "definitions_de": ["Fertigkeit bei der Ausführung von Aufgaben, besonders mit den Händen"],
+    "examples_de": [["Die **Geschicklichkeit** des Chirurgen rettete viele Leben bei Operationen", "Klavierspielen erfordert erhebliche manuelle **Fingerfertigkeit**"]]
+  },
+  {
+    "lemma": "diabetic",
+    "meanings_de": ["Person mit Diabetes"],
+    "definitions_de": ["Person, die an Diabetes leidet, einer Stoffwechselstörung, die den Blutzucker betrifft"],
+    "examples_de": [["Der **Diabetiker** muss regelmäßig seinen Blutzuckerspiegel kontrollieren", "Viele **Diabetiker** können ihre Erkrankung allein durch Ernährung kontrollieren"]]
+  },
+  {
+    "lemma": "diadem",
+    "meanings_de": ["juwelenbesetzte Krone"],
+    "definitions_de": ["Mit Juwelen besetzte Krone oder Stirnband als Symbol der Herrschaft"],
+    "examples_de": [["Die Königin trug ein diamantbesetztes **Diadem** zur Zeremonie", "Antike Herrscher zeigten ihre Macht durch prächtige **Diademe**"]]
+  },
+  {
+    "lemma": "diagnosing",
+    "meanings_de": ["medizinischer Identifikationsprozess"],
+    "definitions_de": ["Prozess der Identifizierung einer Krankheit oder eines Problems durch Untersuchung von Symptomen"],
+    "examples_de": [["Das **Diagnostizieren** seltener Krankheiten erfordert spezialisiertes medizinisches Wissen", "Die **Diagnose** mechanischer Probleme ersparte kostspielige Reparaturen"]]
+  },
+  {
+    "lemma": "diagonal",
+    "meanings_de": ["schräge Linie"],
+    "definitions_de": ["Gerade Linie, die zwei gegenüberliegende Ecken einer Form verbindet"],
+    "examples_de": [["Zeichnen Sie eine **Diagonale** von Ecke zu Ecke", "Das Stoffmuster zeigt kräftige **diagonale** Streifen"]]
+  },
+  {
+    "lemma": "diagram",
+    "meanings_de": ["erklärende Zeichnung"],
+    "definitions_de": ["Vereinfachte Zeichnung, die das Aussehen oder die Struktur von etwas zeigt"],
+    "examples_de": [["Das **Diagramm** erklärt deutlich, wie der Motor funktioniert", "Die Schüler müssen jeden Teil auf dem **Schaubild** beschriften"]]
+  },
+  {
+    "lemma": "dial",
+    "meanings_de": ["kreisförmige Steuerung", "Zifferblatt"],
+    "definitions_de": ["Kreisförmige Platte mit Markierungen zur Messung oder Steuerung", "Vorderseite einer Uhr oder Armbanduhr"],
+    "examples_de": [["Drehen Sie den **Regler** im Uhrzeigersinn, um die Temperatur zu erhöhen", "Die **Skala** des Radios zeigte alle verfügbaren Sender"], ["Die antike Uhr hatte ein wunderschön verziertes **Zifferblatt**", "Römische Zahlen markierten die Stunden auf dem **Zifferblatt**"]]
+  },
+  {
+    "lemma": "dialect",
+    "meanings_de": ["regionale Sprachvarietät"],
+    "definitions_de": ["Besondere Form einer Sprache, die für eine Region oder soziale Gruppe spezifisch ist"],
+    "examples_de": [["Der süddeutsche **Dialekt** enthält viele einzigartige Ausdrücke", "Linguisten untersuchen, wie sich **Mundarten** im Laufe der Zeit entwickeln"]]
+  },
+  {
+    "lemma": "dialectic",
+    "meanings_de": ["logische Diskussionsmethode"],
+    "definitions_de": ["Logische Diskussion von Ideen und Meinungen zur Wahrheitsfindung durch Vernunft"],
+    "examples_de": [["Philosophen nutzen die **Dialektik**, um komplexe ethische Fragen zu erforschen", "Die **Dialektik** zwischen Tradition und Fortschritt prägt die Gesellschaft"]]
+  },
+  {
+    "lemma": "dialog",
+    "meanings_de": ["Gesprächsaustausch"],
+    "definitions_de": ["Gespräch zwischen zwei oder mehr Personen in schriftlicher oder gesprochener Form"],
+    "examples_de": [["Der Film enthält geistreiche **Dialoge** zwischen den Hauptfiguren", "Friedlicher **Dialog** kann viele internationale Konflikte lösen"]]
+  },
+  {
+    "lemma": "diameter",
+    "meanings_de": ["Breitenmessung"],
+    "definitions_de": ["Gerade Linie, die durch den Mittelpunkt eines Kreises verläuft"],
+    "examples_de": [["Das Rohr hat einen **Durchmesser** von fünfzehn Zentimetern", "Messen Sie den **Durchmesser**, bevor Sie das kreisförmige Stück schneiden"]]
+  },
+  {
+    "lemma": "diamondback",
+    "meanings_de": ["Klapperschlangenart"],
+    "definitions_de": ["Giftige Klapperschlange mit rautenförmigen Markierungen auf dem Rücken"],
+    "examples_de": [["Die **Diamantklapperschlange** rasselte mit ihrem Schwanz als Warnung", "Östliche **Diamantklapperschlangen** bewohnen den Südosten der Vereinigten Staaten"]]
+  },
+  {
+    "lemma": "diaper",
+    "meanings_de": ["Babykleidungsstück"],
+    "definitions_de": ["Saugfähiges Kleidungsstück, das von Babys getragen wird, um Ausscheidungen aufzufangen"],
+    "examples_de": [["Das Baby braucht alle paar Stunden eine frische **Windel**", "Eltern geben monatlich beträchtliche Summen für **Windeln** aus"]]
+  },
+  {
+    "lemma": "diaphragm",
+    "meanings_de": ["Atemmuskel", "Verhütungsmittel"],
+    "definitions_de": ["Kuppelförmiger Muskel, der Brust vom Bauch trennt und die Atmung unterstützt", "Kuppelförmiges Verhütungsmittel, das vor dem Geschlechtsverkehr eingesetzt wird"],
+    "examples_de": [["Das **Zwerchfell** zieht sich zusammen, wenn Sie tief einatmen", "Sänger lernen, mit dem **Zwerchfell** zu atmen"], ["Die Ärztin erklärte, wie das **Diaphragma** richtig einzusetzen ist", "Sie wählte ein **Pessar** zur Empfängnisverhütung"]]
+  },
+  {
+    "lemma": "diarist",
+    "meanings_de": ["Tagebuchschreiber"],
+    "definitions_de": ["Person, die regelmäßig ein Tagebuch oder Journal schreibt"],
+    "examples_de": [["Die berühmte **Tagebuchschreiberin** dokumentierte das tägliche Leben während des Krieges", "Viele **Tagebuchautoren** veröffentlichen später ihre persönlichen Aufzeichnungen"]]
+  },
+  {
+    "lemma": "diarrhea",
+    "meanings_de": ["Darmerkrankung"],
+    "definitions_de": ["Zustand häufiger lockerer oder flüssiger Stuhlgänge"],
+    "examples_de": [["Der Reisende litt an **Durchfall** nach dem Trinken verunreinigten Wassers", "Schwerer **Durchfall** kann schnell zu gefährlicher Dehydrierung führen"]]
+  },
+  {
+    "lemma": "diarrhoea",
+    "meanings_de": ["Darmerkrankung"],
+    "definitions_de": ["Zustand häufiger lockerer oder flüssiger Stuhlgänge"],
+    "examples_de": [["Das Kind bekam **Durchfall** nach dem Verzehr verdorbener Lebensmittel", "Anhaltender **Durchfall** erfordert sofortige ärztliche Aufmerksamkeit"]]
+  },
+  {
+    "lemma": "diaspora",
+    "meanings_de": ["verstreute Bevölkerung"],
+    "definitions_de": ["Zerstreuung von Menschen aus ihrer ursprünglichen Heimat in andere Regionen"],
+    "examples_de": [["Die jüdische **Diaspora** verbreitete Gemeinden über viele Kontinente", "Technologie hilft **Diaspora**-Gemeinschaften, kulturelle Verbindungen aufrechtzuerhalten"]]
+  },
+  {
+    "lemma": "diatribe",
+    "meanings_de": ["bittere Kritik"],
+    "definitions_de": ["Kraftvoller und bitterer verbaler Angriff gegen jemanden oder etwas"],
+    "examples_de": [["Der Politiker startete eine **Tirade** gegen die Medienberichterstattung", "Seine **Schmährede** über moderne Musik dauerte zwanzig Minuten"]]
+  },
+  {
+    "lemma": "dichotomy",
+    "meanings_de": ["Zweiteilung"],
+    "definitions_de": ["Teilung oder Gegensatz zwischen zwei Dingen, die entgegengesetzt oder völlig verschieden sind"],
+    "examples_de": [["Die **Dichotomie** zwischen Arm und Reich wächst weiter", "Natur versus Erziehung stellt eine falsche **Zweiteilung** dar"]]
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "lemma": "nonfiction",
+    "meanings_de": ["Sachliteratur"],
+    "definitions_de": ["Literarische Werke, die sich mit realen Themen, Personen, Ereignissen oder Sachverhalten befassen und dabei Wissen vermitteln oder dokumentieren"],
+    "examples_de": [["Die Bibliothek verfügt über eine umfangreiche **Sachliteratur**-Abteilung zur Geschichte", "Sie liest zurzeit lieber **Sachbücher** als Romane"]]
+  },
+  {
+    "lemma": "nonpartisan",
+    "meanings_de": ["überparteiliche Person"],
+    "definitions_de": ["Person oder Organisation, die keiner politischen Partei angehört oder verpflichtet ist und unabhängig von Parteiinteressen handelt"],
+    "examples_de": [["Die **überparteiliche** Kommission prüfte die Wahlkreisgrenzen neutral", "Mehrere **Parteilose** beteiligten sich an der Diskussion, um ausgewogene Perspektiven einzubringen"]]
+  },
+  {
+    "lemma": "nonproliferation",
+    "meanings_de": ["Nichtverbreitung von Waffen"],
+    "definitions_de": ["Verhinderung der Ausbreitung oder Vermehrung von etwas, insbesondere von Atomwaffen oder Waffentechnologie"],
+    "examples_de": [["Der Vertrag konzentrierte sich auf die **Nichtverbreitung** von Kernwaffen in der Region", "Die **Nichtverbreitungsbemühungen** haben das Risiko verringert, dass Waffen in falsche Hände geraten"]]
+  },
+  {
+    "lemma": "nonsteroidal",
+    "meanings_de": ["nichtsteroidaler Medikamententyp"],
+    "definitions_de": ["Art von Medikament, das Entzündungen ohne Steroide reduziert und häufig zur Schmerzlinderung eingesetzt wird"],
+    "examples_de": [["Der Arzt verschrieb ein **nichtsteroidales** Antirheumatikum gegen ihre Arthritis", "**Nichtsteroidale** Entzündungshemmer können Fieber und Entzündungen reduzieren"]]
+  },
+  {
+    "lemma": "nonstop",
+    "meanings_de": ["Direktverbindung"],
+    "definitions_de": ["Flug oder Reise, die ohne Unterbrechung vom Start zum Ziel führt"],
+    "examples_de": [["Wir buchten einen **Nonstop**-Flug von Frankfurt nach New York", "Die **Direktverbindung** mit dem ICE verkürzte die Reisezeit erheblich"]]
+  },
+  {
+    "lemma": "nonviolence",
+    "meanings_de": ["Gewaltlosigkeit"],
+    "definitions_de": ["Prinzip und Praxis, Ziele durch friedliche Mittel ohne Anwendung von physischer Gewalt zu erreichen"],
+    "examples_de": [["Gandhi setzte sich für **Gewaltlosigkeit** als wirksames Mittel für gesellschaftlichen Wandel ein", "Die Bewegung hielt trotz aggressiver Gegenwehr an der **Gewaltfreiheit** fest"]]
+  },
+  {
+    "lemma": "noodle",
+    "meanings_de": ["Nudel"],
+    "definitions_de": ["Dünner Streifen aus Teig, typischerweise aus Weizen oder Reis hergestellt"],
+    "examples_de": [["Sie bestellte mittags eine Hühner**nudel**suppe", "Das Rezept verlangt frische Ei**nudeln** statt getrocknete"]]
+  },
+  {
+    "lemma": "nook",
+    "meanings_de": ["Nische"],
+    "definitions_de": ["Kleine Ecke oder geschützter Bereich in einem Raum oder Gebäude"],
+    "examples_de": [["Sie richtete sich eine gemütliche Lese**nische** am Fenster ein", "Die Frühstücks**ecke** war perfekt für den Morgenkaffee"]]
+  },
+  {
+    "lemma": "noose",
+    "meanings_de": ["Schlinge"],
+    "definitions_de": ["Seilschlaufe mit laufendem Knoten, die sich beim Ziehen am Seil zuzieht"],
+    "examples_de": [["Der Cowboy warf gekonnt eine **Schlinge** um das Kalb", "Sie fanden eine alte **Schlinge** in der verlassenen Scheune"]]
+  },
+  {
+    "lemma": "normalcy",
+    "meanings_de": ["Normalzustand"],
+    "definitions_de": ["Zustand des Normalen, Üblichen oder Erwarteten in Umständen oder Verhalten"],
+    "examples_de": [["Nach dem Sturm kehrte die Stadt langsam zur **Normalität** zurück", "Sie sehnte sich nach etwas **Normalität** nach monatelangen Reisen"]]
+  },
+  {
+    "lemma": "normalisation",
+    "meanings_de": ["Normalisierungsprozess"],
+    "definitions_de": ["Vorgang, bei dem etwas an einen Standard angepasst oder in einen normalen Zustand zurückversetzt wird"],
+    "examples_de": [["Die **Normalisierung** der Beziehungen zwischen den Ländern dauerte Jahre", "Die Daten**normalisierung** hilft, Redundanzen in Datenbanken zu beseitigen"]]
+  },
+  {
+    "lemma": "normality",
+    "meanings_de": ["Normalität"],
+    "definitions_de": ["Zustand des Normalen oder Üblichen, Übereinstimmung mit einem Standard oder regelmäßigen Muster"],
+    "examples_de": [["Die Testergebnisse zeigten, dass alles im Bereich der **Normalität** lag", "Sie hinterfragte, was **Normalität** unter solch ungewöhnlichen Umständen bedeutete"]]
+  },
+  {
+    "lemma": "normalization",
+    "meanings_de": ["Normalisierung"],
+    "definitions_de": ["Prozess, etwas normal zu machen oder es in einen Standardzustand zurückzuführen"],
+    "examples_de": [["Die **Normalisierung** der diplomatischen Beziehungen verbesserte den Handel erheblich", "Die Datenbank**normalisierung** reduzierte den Speicherbedarf und verbesserte die Effizienz"]]
+  },
+  {
+    "lemma": "northeastward",
+    "meanings_de": ["nordostwärts"],
+    "definitions_de": ["Richtung oder Bewegung zum Nordostpunkt zwischen Norden und Osten"],
+    "examples_de": [["Das Sturmsystem zog **nordostwärts** entlang der Küste", "Sie reisten **nordostwärts** durch die Gebirgspässe"]]
+  },
+  {
+    "lemma": "northerly",
+    "meanings_de": ["Nordwind"],
+    "definitions_de": ["Wind, der aus dem Norden weht, oder Richtung nach Norden"],
+    "examples_de": [["Ein kalter **Nordwind** brachte über Nacht frostige Temperaturen", "Die **nördlichen** Winde machten die Segelbedingungen anspruchsvoll"]]
+  },
+  {
+    "lemma": "northland",
+    "meanings_de": ["Nordland"],
+    "definitions_de": ["Nördliche Region eines Landes oder der nördliche Teil eines bestimmten Gebiets"],
+    "examples_de": [["Sie verbrachten die Sommer im **Nordland** beim Angeln und Campen", "Die **Nordland**-Provinzen erlebten diesen Winter starke Schneefälle"]]
+  },
+  {
+    "lemma": "northward",
+    "meanings_de": ["nordwärts"],
+    "definitions_de": ["Richtung oder Bewegung nach Norden von einem Ausgangspunkt"],
+    "examples_de": [["Die Gänse begannen ihre **nordwärts** gerichtete Wanderung im frühen Frühling", "Wir fuhren **nordwärts**, bis wir die kanadische Grenze erreichten"]]
+  },
+  {
+    "lemma": "northwestward",
+    "meanings_de": ["nordwestwärts"],
+    "definitions_de": ["Richtung oder Bewegung zum Nordwestpunkt zwischen Norden und Westen"],
+    "examples_de": [["Die Expedition zog **nordwestwärts** in unerforschtes Gebiet", "Wettersysteme bewegen sich in dieser Region typischerweise **nordwestwärts**"]]
+  },
+  {
+    "lemma": "nostalgia",
+    "meanings_de": ["Nostalgie"],
+    "definitions_de": ["Sentimentale Sehnsucht oder Zuneigung für eine vergangene Zeit, oft idealisiert"],
+    "examples_de": [["Das Durchblättern alter Fotos erfüllte sie mit **Nostalgie**", "Der Film weckte **Nostalgie** für einfachere Zeiten"]]
+  },
+  {
+    "lemma": "nostril",
+    "meanings_de": ["Nasenloch"],
+    "definitions_de": ["Eine der beiden äußeren Öffnungen der Nase, durch die Luft strömt"],
+    "examples_de": [["Die **Nasenlöcher** des Pferdes blähten sich beim schnelleren Laufen", "Sie hielt sich die **Nasenlöcher** zu, um den schrecklichen Geruch zu vermeiden"]]
+  },
+  {
+    "lemma": "notability",
+    "meanings_de": ["Bemerkenswertheit"],
+    "definitions_de": ["Eigenschaft, beachtenswert oder bemerkenswert genug zu sein, um wahrgenommen zu werden"],
+    "examples_de": [["Die Künstlerin erlangte **Bekanntheit** durch ihre innovativen Skulpturtechniken", "Seine **Bedeutung** auf dem Gebiet brachte ihm zahlreiche Vortragseinladungen ein"]]
+  },
+  {
+    "lemma": "notable",
+    "meanings_de": ["bedeutende Persönlichkeit"],
+    "definitions_de": ["Person, die wichtig, angesehen oder beachtenswert in ihrem Bereich ist"],
+    "examples_de": [["Mehrere **Persönlichkeiten** aus der Unterhaltungsbranche besuchten die Gala", "Die Konferenz zog **Größen** aus verschiedenen wissenschaftlichen Disziplinen an"]]
+  },
+  {
+    "lemma": "notary",
+    "meanings_de": ["Notar"],
+    "definitions_de": ["Öffentlich bestellte Person, die befugt ist, Dokumente zu beglaubigen, eidesstattliche Erklärungen entgegenzunehmen und Unterschriften zu bezeugen"],
+    "examples_de": [["Sie müssen diesen Vertrag vor einem **Notar** unterschreiben", "Der **Notar** überprüfte unsere Identitäten, bevor er die Dokumente abstempelte"]]
+  },
+  {
+    "lemma": "notation",
+    "meanings_de": ["Notationssystem", "schriftliche Anmerkung"],
+    "definitions_de": ["System schriftlicher Symbole zur Darstellung von Zahlen, Mengen oder Elementen", "Notiz oder Anmerkung zu einem Text oder Diagramm"],
+    "examples_de": [["Die musikalische **Notation** ermöglicht es Komponisten, ihre Werke zu teilen", "Die Wissenschaftlerin verwendete die chemische Standard**notation** in ihrer Formel"], ["Sie machte eine **Anmerkung** am Rand über den Fehler", "Die Karte enthielt **Notizen** zur Erklärung verschiedener Symbole"]]
+  },
+  {
+    "lemma": "notch",
+    "meanings_de": ["Kerbe", "Stufe"],
+    "definitions_de": ["V-förmiger Einschnitt oder Vertiefung an einer Kante oder Oberfläche", "Grad oder Stufe auf einer Mess- oder Qualitätsskala"],
+    "examples_de": [["Er schnitzte eine **Kerbe** in den Baum, um den Pfad zu markieren", "Die **Kerbe** im Pfeil passt perfekt auf die Bogensehne"], ["Sie müssen ihre Leistung um eine **Stufe** steigern", "Die Qualität des Restaurants sank um eine **Stufe** nach dem Küchenwechsel"]]
+  },
+  {
+    "lemma": "notebook",
+    "meanings_de": ["Notizbuch", "Notebook-Computer"],
+    "definitions_de": ["Buch mit leeren Seiten zum Schreiben von Notizen oder Aufzeichnen von Informationen", "Tragbarer Computer, der sich wie ein Buch zusammenklappen lässt"],
+    "examples_de": [["Sie trägt immer ein **Notizbuch** bei sich, um Ideen festzuhalten", "Der Student füllte während des Semesters drei **Notizhefte**"], ["Sein **Notebook** wiegt weniger als anderthalb Kilogramm", "Das **Notebook** hat genug Akkulaufzeit für einen ganzen Arbeitstag"]]
+  },
+  {
+    "lemma": "notepad",
+    "meanings_de": ["Notizblock"],
+    "definitions_de": ["Kleiner Papierblock zum Schreiben kurzer Notizen oder Nachrichten"],
+    "examples_de": [["Halten Sie einen **Notizblock** neben dem Telefon für Nachrichten bereit", "Sie riss ein Blatt von ihrem **Notizblock** und schrieb die Adresse auf"]]
+  },
+  {
+    "lemma": "notification",
+    "meanings_de": ["Benachrichtigung"],
+    "definitions_de": ["Formelle Mitteilung oder Ankündigung von etwas, oft offiziell oder elektronisch übermittelt"],
+    "examples_de": [["Sie erhielt eine **Benachrichtigung** über ihre Paketlieferung", "Die App sendet **Benachrichtigungen**, wenn jemand Ihren Beitrag kommentiert"]]
+  },
+  {
+    "lemma": "notoriety",
+    "meanings_de": ["Berüchtigtheit"],
+    "definitions_de": ["Zustand, berühmt oder bekannt zu sein, typischerweise für eine schlechte Eigenschaft oder Tat"],
+    "examples_de": [["Der Verbrecher erlangte **Berüchtigtheit** nach dem Banküberfall", "Das Restaurant erlangte **Berüchtigtheit** für seinen schrecklichen Service"]]
+  },
+  {
+    "lemma": "nougat",
+    "meanings_de": ["Nougat"],
+    "definitions_de": ["Süße Konfekt aus Zucker, Honig, Nüssen und Eiweiß"],
+    "examples_de": [["Der Schokoriegel enthält Schichten aus Schokolade und **Nougat**", "Sie kaufte hausgemachten **Nougat** in der örtlichen Konditorei"]]
+  },
+  {
+    "lemma": "noun",
+    "meanings_de": ["Substantiv"],
+    "definitions_de": ["Wort zur Bezeichnung von Personen, Orten, Dingen oder Ideen"],
+    "examples_de": [["Im Satz sind 'Hund' und 'Park' beide **Substantive**", "Eigennamen als **Substantive** beginnen immer mit Großbuchstaben"]]
+  },
+  {
+    "lemma": "nourishment",
+    "meanings_de": ["Nahrung"],
+    "definitions_de": ["Lebensmittel und andere Substanzen, die für Wachstum, Gesundheit und guten Zustand notwendig sind"],
+    "examples_de": [["Der Patient benötigt angemessene **Nahrung**, um sich vollständig zu erholen", "Pflanzen erhalten **Nährstoffe** aus Boden, Wasser und Sonnenlicht"]]
+  },
+  {
+    "lemma": "novelette",
+    "meanings_de": ["Kurzroman"],
+    "definitions_de": ["Literarisches Werk, das länger als eine Kurzgeschichte, aber kürzer als ein Roman ist"],
+    "examples_de": [["Das Magazin veröffentlichte ihren Science-Fiction-**Kurzroman**", "Er gewann einen Preis für seinen romantischen **Kurzroman**"]]
+  },
+  {
+    "lemma": "novelisation",
+    "meanings_de": ["Romanfassung"],
+    "definitions_de": ["Adaption eines Films, einer Fernsehsendung oder eines anderen Werks in Romanform"],
+    "examples_de": [["Die **Romanfassung** des Films enthielt gelöschte Szenen", "Sie schrieb die offizielle **Romanfassung** der beliebten Fernsehserie"]]
+  },
+  {
+    "lemma": "novelist",
+    "meanings_de": ["Romanautor"],
+    "definitions_de": ["Person, die beruflich oder regelmäßig Romane schreibt"],
+    "examples_de": [["Der berühmte **Romanautor** signierte Bücher in der örtlichen Buchhandlung", "Sie wurde nach jahrelanger Übung eine erfolgreiche **Romanautorin**"]]
+  },
+  {
+    "lemma": "novelization",
+    "meanings_de": ["Romanadaption"],
+    "definitions_de": ["Prozess der Anpassung eines Drehbuchs oder anderen Werks in ein Romanformat"],
+    "examples_de": [["Die **Romanadaption** erweiterte die Hintergrundgeschichten der Charaktere erheblich", "Film**romanadaptionen** offenbaren oft die inneren Gedanken der Charaktere"]]
+  },
+  {
+    "lemma": "novella",
+    "meanings_de": ["Novelle"],
+    "definitions_de": ["Fiktive Prosaerzählung, die länger als eine Kurzgeschichte, aber kürzer als ein Roman ist"],
+    "examples_de": [["Die neueste **Novelle** der Autorin erforscht Themen der Isolation", "Viele berühmte **Novellen** wurden verfilmt"]]
+  },
+  {
+    "lemma": "novelty",
+    "meanings_de": ["Neuheit", "Scherzartikel"],
+    "definitions_de": ["Eigenschaft, neu, originell oder ungewöhnlich auf interessante Weise zu sein", "Kleines und preiswertes Spielzeug oder Schmuckstück"],
+    "examples_de": [["Die **Neuheit** des Geräts verflog nach einer Woche", "Touristen schätzten die **Neuartigkeit** der lokalen Bräuche"], ["Der Laden verkauft **Scherzartikel** und Souvenirs an Besucher", "Kinder lieben die **Kleinigkeiten** aus Partytüten"]]
+  },
+  {
+    "lemma": "novice",
+    "meanings_de": ["Anfänger"],
+    "definitions_de": ["Person, die neu oder unerfahren in einem Bereich oder einer Tätigkeit ist"],
+    "examples_de": [["Der Schach**anfänger** lernte schnell vom Meister", "Als **Anfängerin** im Gärtnern machte sie mehrere typische Fehler"]]
+  },
+  {
+    "lemma": "nozzle",
+    "meanings_de": ["Düse"],
+    "definitions_de": ["Vorstehende Tülle oder Auslass zur Kontrolle des Flusses von Flüssigkeit oder Gas"],
+    "examples_de": [["Verstellen Sie die **Düse**, um das Sprühmuster zu ändern", "Die Zapf**düse** stoppt automatisch, wenn der Tank voll ist"]]
+  },
+  {
+    "lemma": "nuance",
+    "meanings_de": ["Nuance"],
+    "definitions_de": ["Feiner Unterschied oder Schattierung in Bedeutung, Ausdruck oder Klang"],
+    "examples_de": [["Der Übersetzer erfasste jede **Nuance** des Originaltexts", "Das Verständnis kultureller **Nuancen** hilft, Missverständnisse zu vermeiden"]]
+  },
+  {
+    "lemma": "nude",
+    "meanings_de": ["Aktdarstellung", "Hautfarbe"],
+    "definitions_de": ["Künstlerische Darstellung eines unbekleideten menschlichen Körpers", "Blassrosa-beige Farbe, die dem Hautton ähnelt"],
+    "examples_de": [["Das Museum zeigt klassische **Akt**skulpturen", "Kunststudenten übten das Zeichnen nach **Akt**modellen"], ["Sie wählte **hautfarbene** Schuhe passend zu ihrem Outfit", "Der **nude** Lippenstift wirkte sehr natürlich bei ihr"]]
+  },
+  {
+    "lemma": "nudge",
+    "meanings_de": ["Stupser"],
+    "definitions_de": ["Sanfter Stoß oder Stups mit dem Ellbogen, um Aufmerksamkeit zu erregen"],
+    "examples_de": [["Sie gab ihm einen **Stupser**, um ihn aufzuwecken", "Ein sanfter **Stups** erinnerte ihn daran, aufzupassen"]]
+  },
+  {
+    "lemma": "nudist",
+    "meanings_de": ["Nudist"],
+    "definitions_de": ["Person, die das Nacktsein in ausgewiesenen Bereichen aus gesundheitlichen oder natürlichen Gründen praktiziert"],
+    "examples_de": [["Die **Nudisten**kolonie begrüßte jeden Sommer neue Mitglieder", "Viele **Nudisten** glauben, dass ihr Lebensstil Körperpositivität fördert"]]
+  },
+  {
+    "lemma": "nudity",
+    "meanings_de": ["Nacktheit"],
+    "definitions_de": ["Zustand, keine Kleidung zu tragen oder nackt zu sein"],
+    "examples_de": [["Der Film enthält kurze **Nacktheit** und Erwachsenenthemen", "Öffentliche **Nacktheit** ist an den meisten Orten verboten"]]
+  }
+]

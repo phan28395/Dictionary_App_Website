@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "ravenous",
+    "meanings_de": ["extrem hungrig", "gierig verlangend"],
+    "definitions_de": ["von extremem Hunger geplagt mit verzweifeltem Bedürfnis nach Nahrung, wobei der Magen schmerzt und die Gedanken nur ums Essen kreisen", "extremes Verlangen zeigend, etwas gierig zu erlangen oder zu verzehren, dabei von unstillbarer Begierde getrieben"],
+    "examples_de": [["Die **ausgehungerten** Wölfe jagten die ganze Nacht nach Beute", "Nach der langen Wanderung waren wir **heißhungrig** auf das Abendessen"], ["Das Unternehmen zeigte einen **gierigen** Appetit auf kleinere Konkurrenten", "Sie hatte ein **unstillbares** Verlangen nach Wissen und Büchern"]]
+  },
+  {
+    "lemma": "raving",
+    "meanings_de": ["wild irrational", "extrem begeistert"],
+    "definitions_de": ["in wilder, irrationaler Weise sprechend oder sich verhaltend, oft aufgrund von Fieber oder Wahnsinn", "extreme Begeisterung oder Bewunderung für etwas ausdrückend mit überschwänglichen Worten"],
+    "examples_de": [["Das Fieber ließ ihn **irre** von eingebildeten Gefahren reden", "Sie war **rasend** vor Wut nach dem schockierenden Verrat"], ["Die Kritiker waren **begeistert** vom neuen Restaurant in der Innenstadt", "Das Publikum gab **schwärmerische** Kritiken über die Aufführung ab"]]
+  },
+  {
+    "lemma": "razed",
+    "meanings_de": ["vollständig zerstört"],
+    "definitions_de": ["vollständig zerstört oder niedergerissen bis auf die Grundmauern, sodass nichts mehr steht"],
+    "examples_de": [["Die alte Fabrik wurde **dem Erdboden gleichgemacht**, um Platz für Wohnungen zu schaffen", "Das Erdbeben hatte ganze Stadtviertel **niedergewalzt** und nur Trümmer hinterlassen"]]
+  },
+  {
+    "lemma": "reachable",
+    "meanings_de": ["physisch erreichbar", "kontaktierbar"],
+    "definitions_de": ["physisch erreichbar oder zu einem Ort gelangend durch Bewegung oder Transport möglich", "erfolgreich kontaktierbar oder für Kommunikation verfügbar über verschiedene Kommunikationswege"],
+    "examples_de": [["Der Gipfel ist nur für **erfahrene** Bergsteiger **erreichbar**", "Bewahren Sie Medikamente in Schränken auf, die für Kinder **nicht erreichbar** sind"], ["Sie ist während der Geschäftszeiten immer telefonisch **erreichbar**", "Das Kundenservice-Team ist über mehrere Kanäle **kontaktierbar**"]]
+  },
+  {
+    "lemma": "reactionary",
+    "meanings_de": ["politischen Fortschritt ablehnend"],
+    "definitions_de": ["politischen oder sozialen Fortschritt ablehnend und die Rückkehr zu früheren Zuständen bevorzugend, dabei konservative Ideale verteidigend"],
+    "examples_de": [["Die **reaktionäre** Politik der Partei stieß jüngere Wähler vollständig ab", "Seine **rückschrittlichen** Ansichten über Bildung gehörten in ein anderes Jahrhundert"]]
+  },
+  {
+    "lemma": "reactive",
+    "meanings_de": ["chemisch reagierend", "auf Reize reagierend"],
+    "definitions_de": ["die Tendenz zeigend, chemische Reaktionen mit anderen Substanzen einzugehen durch Elektronenaustausch oder Bindungsbildung", "als Antwort auf Situationen handelnd anstatt diese zu erschaffen oder zu kontrollieren, dabei nur nachträglich agierend"],
+    "examples_de": [["Natrium ist hochgradig **reaktiv** mit Wasser und produziert dabei Wasserstoffgas", "Die **reaktiven** Metalle müssen vorsichtig unter Öl gelagert werden"], ["Ihr **reaktiver** Führungsstil behandelte Probleme erst nach deren Auftreten", "Das Team braucht proaktive statt **reaktive** Sicherheitsmaßnahmen"]]
+  },
+  {
+    "lemma": "readable",
+    "meanings_de": ["gut lesbar", "angenehm zu lesen"],
+    "definitions_de": ["klar und leicht zu lesen oder zu entziffern durch deutliche Schrift oder Formatierung", "interessant und angenehm zu lesen als geschriebenes Material mit flüssigem Stil"],
+    "examples_de": [["Bitte verwenden Sie **leserliche** Handschrift auf allen medizinischen Formularen", "Die neue Schriftart macht die Website viel **besser lesbar**"], ["Ihr neuester Roman ist trotz komplexer Themen sehr **gut lesbar**", "Die Biografie bietet **unterhaltsame** Berichte historischer Ereignisse"]]
+  },
+  {
+    "lemma": "realised",
+    "meanings_de": ["verwirklicht", "vollständig verstanden"],
+    "definitions_de": ["real gemacht oder in tatsächliche Existenz gebracht nach längerer Planung oder Bemühung", "sich einer Sache als Tatsache vollständig bewusst geworden durch plötzliche Erkenntnis"],
+    "examples_de": [["Ihre Träume wurden nach Jahren harter Arbeit endlich **verwirklicht**", "Die Vision des Architekten wurde im atemberaubenden Gebäude **realisiert**"], ["Er **erkannte** seinen Fehler erst nach Abgabe des Berichts", "Sie **begriffen** das wahre Ausmaß des Schadens während der Inspektion"]]
+  },
+  {
+    "lemma": "realized",
+    "meanings_de": ["verwirklicht", "vollständig verstanden"],
+    "definitions_de": ["real gemacht oder in tatsächliche Existenz gebracht nach längerer Planung oder Bemühung", "sich einer Sache als Tatsache vollständig bewusst geworden durch plötzliche Erkenntnis"],
+    "examples_de": [["Ihre Investitionsziele wurden durch sorgfältige Planung **verwirklicht**", "Das Unternehmen **realisierte** enorme Gewinne mit dem neuen Produkt"], ["Sie **bemerkte** plötzlich, dass sie ihren Reisepass vergessen hatte", "Wir **erkannten** die Bedeutung von Backup-Systemen zu spät"]]
+  },
+  {
+    "lemma": "reanimated",
+    "meanings_de": ["wiederbelebt"],
+    "definitions_de": ["nach scheinbarem Tod wieder zum Leben oder Bewusstsein erweckt durch medizinische oder übernatürliche Einwirkung"],
+    "examples_de": [["Die **wiederbelebte** Leiche terrorisierte das Dorf im Horrorfilm", "Wissenschaftler **reanimierten** gefrorene Gewebeproben für Forschungszwecke"]]
+  },
+  {
+    "lemma": "rear",
+    "meanings_de": ["hinten befindlich"],
+    "definitions_de": ["am oder nahe dem hinteren Teil von etwas gelegen oder positioniert"],
+    "examples_de": [["Der **hintere** Eingang bietet Zugang zum Parkplatz", "Passagiere auf den **hinteren** Sitzen müssen Sicherheitsgurte tragen"]]
+  },
+  {
+    "lemma": "rearing",
+    "meanings_de": ["sich aufbäumend"],
+    "definitions_de": ["sich auf den Hinterbeinen erhebend oder den vorderen Teil nach oben richtend in drohender oder erschreckter Haltung"],
+    "examples_de": [["Das **sich aufbäumende** Pferd warf seinen unerfahrenen Reiter fast ab", "Eine **sich aufrichtende** Kobra ist ein äußerst gefährlicher Anblick"]]
+  },
+  {
+    "lemma": "rearmost",
+    "meanings_de": ["am weitesten hinten"],
+    "definitions_de": ["am allerweitesten hinten gelegen oder am weitesten vom vorderen Teil entfernt positioniert"],
+    "examples_de": [["Das **hinterste** Abteil lagert Notfallvorräte und Ausrüstung", "Soldaten in den **hintersten** Reihen konnten das Geschehen nicht sehen"]]
+  },
+  {
+    "lemma": "rearward",
+    "meanings_de": ["nach hinten gerichtet"],
+    "definitions_de": ["zum hinteren Teil hin gerichtet oder am hinteren Teil befindlich in Bewegung oder Position"],
+    "examples_de": [["Die **rückwärtige** Bewegung des Zuges überraschte wartende Fahrgäste", "Installieren Sie **nach hinten gerichtete** Kameras für bessere Einparkhilfe"]]
+  },
+  {
+    "lemma": "reasoned",
+    "meanings_de": ["auf Logik basierend"],
+    "definitions_de": ["auf logischem Denken basierend anstatt auf Emotionen oder Impulsen, dabei systematisch durchdacht"],
+    "examples_de": [["Sie präsentierte eine **durchdachte** Argumentation für notwendige Politikänderungen", "Sein **vernunftbasierter** Ansatz bei Problemen erwarb großen Respekt der Kollegen"]]
+  },
+  {
+    "lemma": "reasoning",
+    "meanings_de": ["logisch denkend"],
+    "definitions_de": ["logisches Denken verwendend, um Schlussfolgerungen zu ziehen oder Entscheidungen zu treffen mit rationaler Überlegung"],
+    "examples_de": [["Die **denkenden** Köpfe der Wissenschaftler lösen komplexe Probleme systematisch", "Kinder entwickeln **logische** Fähigkeiten durch Bildung und Erfahrung"]]
+  },
+  {
+    "lemma": "reassured",
+    "meanings_de": ["weniger besorgt fühlend"],
+    "definitions_de": ["dazu gebracht, sich weniger ängstlich, besorgt oder unsicher über etwas zu fühlen durch beruhigende Worte oder Handlungen"],
+    "examples_de": [["Die Patienten fühlten sich durch die zuversichtliche Erklärung des Arztes **beruhigt**", "Die **beruhigten** Investoren entschieden sich, ihre Positionen beizubehalten"]]
+  },
+  {
+    "lemma": "reassuring",
+    "meanings_de": ["Sorgen mindernd"],
+    "definitions_de": ["dazu dienend, Zweifel, Ängste oder Besorgnis bei anderen zu beseitigen durch tröstende Präsenz oder Worte"],
+    "examples_de": [["Ihre **beruhigenden** Worte besänftigten das verängstigte Kind schnell", "Die Testergebnisse waren **beruhigend** für die besorgten Eltern"]]
+  },
+  {
+    "lemma": "rebellious",
+    "meanings_de": ["Autorität widerstehend", "Trotz zeigend"],
+    "definitions_de": ["den Wunsch zeigend, sich Autorität, Kontrolle oder Konventionen zu widersetzen mit aktivem Widerstand", "Trotz gegenüber normalen Standards des Verhaltens oder der Kleidung zeigend aus Protest oder Individualität"],
+    "examples_de": [["Der **rebellische** Teenager forderte ständig Schulregeln und Vorschriften heraus", "**Aufständische** Provinzen bedrohten die Stabilität des Reiches"], ["Ihre **rebellischen** Modewahlen schockierten konservative Familienmitglieder", "Der **aufsässige** Geist des Künstlers beeinflusste eine ganze Generation"]]
+  },
+  {
+    "lemma": "reborn",
+    "meanings_de": ["wieder zum Leben erweckt", "spirituell erneuert"],
+    "definitions_de": ["nach dem Tod wieder zum Leben gebracht oder neu geboren in physischer Form", "spirituelle Erneuerung oder grundlegende Transformation im Leben erfahrend mit neuem Zweck"],
+    "examples_de": [["Der mythische Phönix wird aus seiner eigenen Asche **wiedergeboren**", "Der **wiedergeborene** Vampir behielt keine menschlichen Erinnerungen oder Gefühle"], ["Sie fühlte sich **neugeboren** nach erfolgreicher Überwindung ihrer Sucht", "Das **erneuerte** Unternehmen ging gestärkt aus dem Insolvenzverfahren hervor"]]
+  },
+  {
+    "lemma": "recalcitrant",
+    "meanings_de": ["störrisch unkooperativ"],
+    "definitions_de": ["störrisch weigernd, Regeln zu befolgen oder Anweisungen von Autoritäten zu befolgen mit hartnäckigem Widerstand"],
+    "examples_de": [["Der **widerspenstige** Schüler weigerte sich, jegliche zugewiesene Hausaufgaben zu erledigen", "**Widerborstige** Nationen sahen sich wirtschaftlichen Sanktionen der internationalen Gemeinschaft gegenüber"]]
+  },
+  {
+    "lemma": "receding",
+    "meanings_de": ["allmählich zurückweichend", "weniger auffällig werdend"],
+    "definitions_de": ["sich allmählich von einer früheren Position zurück oder weg bewegend in kontinuierlicher Bewegung", "allmählich kleiner, schwächer oder weniger bemerkbar werdend über die Zeit durch natürliche Prozesse"],
+    "examples_de": [["Das **zurückgehende** Hochwasser enthüllte umfangreiche Schäden an Gebäuden", "Sein **zurückweichender** Haaransatz wurde mit jedem Jahr auffälliger"], ["Die **nachlassende** Bedrohung erlaubte Bewohnern, sicher nach Hause zurückzukehren", "**Zurückgehendes** Zahnfleisch kann auf ernsthafte Zahngesundheitsprobleme hinweisen"]]
+  },
+  {
+    "lemma": "receivable",
+    "meanings_de": ["empfangbar", "als Zahlung geschuldet"],
+    "definitions_de": ["in der Lage, auf eine bestimmte Weise empfangen oder akzeptiert zu werden durch geeignete Mittel", "Geld darstellend, das einem Unternehmen von seinen Kunden für erbrachte Leistungen geschuldet wird"],
+    "examples_de": [["Das Signal ist nur mit spezieller Antennenausrüstung **empfangbar**", "Diese Dokumente sind als Beweise vor Gericht **zulässig**"], ["Die **offenen** Forderungen stiegen während der Weihnachtszeit erheblich", "Die **ausstehenden** Rechnungen des Unternehmens beliefen sich auf über zwei Millionen"]]
+  },
+  {
+    "lemma": "received",
+    "meanings_de": ["allgemein akzeptiert"],
+    "definitions_de": ["allgemein als wahr oder würdig von den meisten Menschen akzeptiert durch lange Tradition"],
+    "examples_de": [["Die **gängige** Weisheit über Ernährung hat sich in letzter Zeit dramatisch verändert", "Sie stellte **überlieferte** Vorstellungen über Frauen in den Naturwissenschaften in Frage"]]
+  },
+  {
+    "lemma": "receptive",
+    "meanings_de": ["aufnahmebereit", "empfangsfähig"],
+    "definitions_de": ["bereit, neue Vorschläge und Ideen offen zu berücksichtigen oder zu akzeptieren mit offenem Geist", "fähig oder bereit, etwas zu empfangen, insbesondere Signale oder Reize durch spezialisierte Strukturen"],
+    "examples_de": [["Der Manager war **aufgeschlossen** gegenüber Verbesserungsvorschlägen der Mitarbeiter", "Schüler sind am **empfänglichsten** für Lernen in komfortablen Umgebungen"], ["Die **empfänglichen** Zellen in unseren Augen erkennen verschiedene Lichtwellenlängen", "Pflanzen haben **aufnahmefähige** Gewebe, die Nährstoffe aus dem Boden absorbieren"]]
+  },
+  {
+    "lemma": "recessed",
+    "meanings_de": ["zurückversetzt"],
+    "definitions_de": ["von der umgebenden Oberfläche oder Wand zurückgesetzt oder eingetieft in einer Vertiefung"],
+    "examples_de": [["**Eingelassene** Beleuchtung schafft subtile Atmosphäre im modernen Zuhause", "Der **zurückversetzte** Türeingang bot Schutz vor dem strömenden Regen"]]
+  },
+  {
+    "lemma": "recessive",
+    "meanings_de": ["zurücktretend", "genetisch verdeckt"],
+    "definitions_de": ["dazu neigend, zurückzugehen oder von der Prominenz zurückzutreten in untergeordnete Position", "sich auf genetische Merkmale beziehend, die von dominanten Allelen verdeckt werden, außer wenn sie von beiden Eltern vererbt werden"],
+    "examples_de": [["Die **zurückweichende** Flut legte verborgene Felsen entlang der Küste frei", "Ihre von Natur aus **zurückhaltende** Persönlichkeit machte öffentliches Sprechen extrem schwierig"], ["Blaue Augen resultieren aus **rezessiven** Genen, die von beiden Eltern vererbt wurden", "Das **rezessive** Merkmal erschien bei einem Viertel der Nachkommen"]]
+  },
+  {
+    "lemma": "rechargeable",
+    "meanings_de": ["wiederaufladbar"],
+    "definitions_de": ["in der Lage, elektrische Energie für wiederholte Verwendung wiederherstellen zu lassen durch Aufladevorgang"],
+    "examples_de": [["Diese **wiederaufladbaren** Batterien halten für Hunderte von Ladezyklen", "Die **aufladbare** Taschenlampe bietet zuverlässige Notbeleuchtung zu Hause"]]
+  },
+  {
+    "lemma": "reciprocal",
+    "meanings_de": ["gegenseitig", "mathematisch umgekehrt"],
+    "definitions_de": ["zwischen zwei Parteien gegeben, gefühlt oder getan in ausgewogenem Austausch", "sich auf mathematische Größen beziehend, deren Produkt eins ergibt als Kehrwert"],
+    "examples_de": [["Ihr **gegenseitiger** Respekt machte die Partnerschaft äußerst erfolgreich", "Länder unterzeichneten **reziproke** Handelsabkommen zum Nutzen beider Volkswirtschaften"], ["Der **Kehrwert** von 5 ist 1/5 in der Mathematik", "Schüler lernten über **reziproke** Brüche im Algebraunterricht"]]
+  },
+  {
+    "lemma": "reckless",
+    "meanings_de": ["rücksichtslos gefährlich"],
+    "definitions_de": ["handelnd ohne über gefährliche Konsequenzen nachzudenken oder sich darum zu kümmern mit fahrlässiger Missachtung"],
+    "examples_de": [["Seine **rücksichtslose** Fahrweise gefährdete alle auf der vielbefahrenen Autobahn", "Die **leichtsinnigen** Ausgaben des Unternehmens führten zur unvermeidlichen Insolvenz"]]
+  },
+  {
+    "lemma": "reclaimed",
+    "meanings_de": ["nutzbar gemacht", "moralisch reformiert"],
+    "definitions_de": ["aus Abfall oder ungenutztem Zustand in nützlichen Zustand oder Kultivierung zurückgebracht durch Aufbereitung", "von einem unmoralischen oder erniedrigten Zustand zu einem besseren Zustand reformiert durch innere Wandlung"],
+    "examples_de": [["Die **renaturierten** Feuchtgebiete unterstützen jetzt wieder vielfältige Wildtierpopulationen", "Künstler schaffen wunderschöne Möbel aus **wiederverwertetem** Holzmaterial"], ["Der **geläuterte** Gefangene wurde schließlich ein respektierter Gemeindeleiter", "Viele **rehabilitierte** Süchtige helfen anderen, ähnliche Kämpfe zu überwinden"]]
+  },
+  {
+    "lemma": "recluse",
+    "meanings_de": ["sozialen Kontakt meidend"],
+    "definitions_de": ["gekennzeichnet durch Rückzug aus der Gesellschaft und Vorliebe für einsames Leben in Isolation"],
+    "examples_de": [["Die **zurückgezogene** Autorin hatte ihr Berghaus seit Jahren nicht verlassen", "Sein **einsiedlerischer** Lebensstil beunruhigte Freunde, die ihn selten sahen"]]
+  },
+  {
+    "lemma": "reclusive",
+    "meanings_de": ["Gesellschaft meidend"],
+    "definitions_de": ["Einsamkeit suchend und die Gesellschaft anderer Menschen gewohnheitsmäßig meidend aus persönlicher Neigung"],
+    "examples_de": [["Der **zurückgezogen lebende** Milliardär nahm selten an öffentlichen Veranstaltungen teil", "Ihre **menschenscheue** Natur machte es extrem schwierig, Freundschaften zu schließen"]]
+  },
+  {
+    "lemma": "recognisable",
+    "meanings_de": ["erkennbar"],
+    "definitions_de": ["in der Lage, aus früheren Begegnungen oder Wissen identifiziert zu werden durch charakteristische Merkmale"],
+    "examples_de": [["Ihre Stimme war auf der Telefonaufnahme sofort **erkennbar**", "Die **unverkennbare** Architektur des Gebäudes machte es zu einem Wahrzeichen der Stadt"]]
+  },
+  {
+    "lemma": "recognised",
+    "meanings_de": ["als gültig anerkannt", "wiedererkannt"],
+    "definitions_de": ["als gültig, legal oder mit offiziellem Status anerkannt durch Autoritäten oder Konvention", "als etwas oder jemand identifiziert, dem man zuvor begegnet ist oder den man kennt"],
+    "examples_de": [["Sie ist eine weltweit **anerkannte** Expertin in der Meeresbiologie-Forschung", "Die Universität bietet nur **anerkannte** Qualifikationen für internationale Studenten"], ["Er **erkannte** seinen Kindheitsfreund trotz zwanzig Jahren Trennung", "Die Symptome wurden als frühe Anzeichen einer Krankheit **erkannt**"]]
+  },
+  {
+    "lemma": "recognizable",
+    "meanings_de": ["erkennbar"],
+    "definitions_de": ["in der Lage, aus früheren Begegnungen oder Wissen identifiziert zu werden durch charakteristische Merkmale"],
+    "examples_de": [["Der Schauspieler trug eine Sonnenbrille, um öffentlich weniger **erkennbar** zu sein", "Diese **erkennbaren** Symptome deuten auf eine sich entwickelnde Erkältung hin"]]
+  },
+  {
+    "lemma": "recognized",
+    "meanings_de": ["als gültig anerkannt", "wiedererkannt"],
+    "definitions_de": ["als gültig, legal oder mit offiziellem Status anerkannt durch Autoritäten oder Konvention", "als etwas oder jemand identifiziert, dem man zuvor begegnet ist oder den man kennt"],
+    "examples_de": [["Die Behandlung wird von großen medizinischen Vereinigungen weltweit **anerkannt**", "Er ist eine **anerkannte** Autorität in Verfassungsrechtsfragen"], ["Sie **erkannte** mehrere Gesichter von der vorherigen Konferenz", "Die Software **erkannte** das Stimmmuster fast augenblicklich"]]
+  },
+  {
+    "lemma": "reconciled",
+    "meanings_de": ["wieder versöhnt", "widerwillig akzeptiert"],
+    "definitions_de": ["nach Konflikt oder Entfremdung wieder zu Freundschaft oder Harmonie zurückgebracht durch Aussöhnung", "sich selbst dazu gebracht, etwas Unangenehmes aber Unvermeidliches zu akzeptieren"],
+    "examples_de": [["Das **versöhnte** Paar erneuerte letzten Sommer sein Ehegelübde", "Die **abgeglichenen** Konten zeigten keine Diskrepanzen bei den Ausgaben"], ["Er **fand sich** schließlich damit ab, in der Stadt zu leben", "Sie **versöhnte** ihre Träume mit praktischen Karriereentscheidungen"]]
+  },
+  {
+    "lemma": "reconciling",
+    "meanings_de": ["vereinbar machend"],
+    "definitions_de": ["Dinge miteinander kompatibel oder konsistent machend durch Anpassung oder Kompromiss"],
+    "examples_de": [["Das **Versöhnen** unterschiedlicher Standpunkte erfordert Geduld und offene Kommunikation", "Der **Aussöhnungsprozess** zwischen den Nationen dauerte mehrere Jahre"]]
+  },
+  {
+    "lemma": "reconstructed",
+    "meanings_de": ["wieder aufgebaut", "zusammengesetzt"],
+    "definitions_de": ["nach Beschädigung oder Zerstörung wieder aufgebaut mit neuen oder restaurierten Materialien", "aus Fragmenten oder Teilbeweisen zusammengesetzt, um ein vollständiges Bild zu bilden"],
+    "examples_de": [["Die **wiederaufgebaute** Brücke verwendet moderne erdbebenresistente Konstruktionsmerkmale", "Chirurgen **rekonstruierten** ihr Gesicht nach dem schrecklichen Unfall"], ["Die Polizei **rekonstruierte** den Tatort anhand von Zeugenaussagen sorgfältig", "Wissenschaftler **rekonstruierten** das Verhalten von Dinosauriern aus fossilen Beweisen"]]
+  },
+  {
+    "lemma": "reconstructive",
+    "meanings_de": ["wiederherstellend"],
+    "definitions_de": ["sich auf den Wiederaufbau oder die Wiederherstellung von etwas Beschädigtem zu einem funktionsfähigen Zustand beziehend"],
+    "examples_de": [["**Rekonstruktive** Chirurgie half Brandopfern, ein normales Aussehen wiederzuerlangen", "Die **wiederaufbauenden** Bemühungen nach dem Krieg erforderten internationale Hilfe"]]
+  },
+  {
+    "lemma": "recorded",
+    "meanings_de": ["aufgezeichnet", "höchster je gemessen"],
+    "definitions_de": ["schriftlich oder in anderer dauerhafter Form zur Bezugnahme festgehalten für spätere Verwendung", "offiziell als höchster, niedrigster, schnellster oder bester jemals gemessen in der Geschichte"],
+    "examples_de": [["Alle Sitzungen müssen **protokollierte** Notizen für die rechtliche Einhaltung haben", "Das Gespräch wurde zu Qualitätssicherungszwecken **aufgezeichnet**"], ["Dieser Sommer hatte **aufgezeichnete** Temperaturen, die frühere Hitzerekorde übertrafen", "Der Athlet erreichte **gemessene** Geschwindigkeiten, die noch nie zuvor gesehen wurden"]]
+  },
+  {
+    "lemma": "recoverable",
+    "meanings_de": ["wiederherstellbar"],
+    "definitions_de": ["in der Lage, nach Verlust wiedergewonnen, wiedererlangt oder wiederhergestellt zu werden durch geeignete Maßnahmen"],
+    "examples_de": [["Die meisten gelöschten Dateien sind mit geeigneten Software-Tools **wiederherstellbar**", "Der Anwalt versicherte ihnen, dass die Schäden rechtlich **erstattungsfähig** seien"]]
+  },
+  {
+    "lemma": "recovered",
+    "meanings_de": ["wiedererlangt", "genesen"],
+    "definitions_de": ["nach Verlust von Besitz oder Kontrolle über etwas wieder erlangt durch Bemühung oder Glück", "nach Krankheit oder Verletzung zur normalen Gesundheit zurückgekehrt durch Heilung"],
+    "examples_de": [["Die Polizei **fand** gestohlene Kunstwerke im Wert von Millionen im Lagerhaus", "Sie **fasste** sich nach den schockierenden Nachrichten wieder"], ["Der Patient **erholte** sich innerhalb von sechs Wochen vollständig von der Operation", "Die Märkte **erholten** sich schnell nach dem anfänglichen Pandemieschock"]]
+  },
+  {
+    "lemma": "recovering",
+    "meanings_de": ["genesend"],
+    "definitions_de": ["im Prozess der Rückkehr zur normalen Gesundheit nach Krankheit oder Sucht befindlich"],
+    "examples_de": [["Der **genesende** Patient braucht viel Ruhe und Nahrung", "Selbsthilfegruppen helfen **genesenden** Süchtigen, ihre Nüchternheit aufrechtzuerhalten"]]
+  },
+  {
+    "lemma": "recreational",
+    "meanings_de": ["der Erholung dienend"],
+    "definitions_de": ["sich auf Aktivitäten beziehend, die zum Vergnügen in der Freizeit ausgeübt werden zur Entspannung"],
+    "examples_de": [["Der Park bietet viele **Freizeitaktivitäten** für besuchende Familien", "**Freizeitangeln** erfordert eine gültige Lizenz von den staatlichen Behörden"]]
+  },
+  {
+    "lemma": "rectal",
+    "meanings_de": ["rektal"],
+    "definitions_de": ["sich auf das Rektum im Verdauungssystem beziehend oder es betreffend als medizinischer Begriff"],
+    "examples_de": [["Der Arzt verschrieb **rektale** Zäpfchen zur Behandlung von Verstopfung", "**Rektale** Temperaturmessungen sind bei Säuglingen am genauesten"]]
+  },
+  {
+    "lemma": "rectangular",
+    "meanings_de": ["rechteckig"],
+    "definitions_de": ["die Form eines Rechtecks mit vier rechten Winkeln habend als geometrische Form"],
+    "examples_de": [["Der **rechteckige** Swimmingpool passt perfekt in den Hinterhof", "Die meisten Smartphones haben **rechteckige** Bildschirme für optimale Anzeige"]]
+  },
+  {
+    "lemma": "rectified",
+    "meanings_de": ["berichtigt"],
+    "definitions_de": ["korrigiert oder richtiggestellt nach Identifizierung eines Fehlers oder Problems durch geeignete Maßnahmen"],
+    "examples_de": [["Der Buchhaltungsfehler wurde schnell **berichtigt**, bevor die Prüfung begann", "Ingenieure **korrigierten** den Konstruktionsfehler in der nächsten Produktversion"]]
+  },
+  {
+    "lemma": "recumbent",
+    "meanings_de": ["liegend"],
+    "definitions_de": ["in einer Position der Ruhe oder des Komforts liegend in horizontaler Haltung"],
+    "examples_de": [["Die **liegende** Gestalt auf der Couch schien tief zu schlafen", "**Liegefahrräder** bieten komfortable Bewegung für Senioren mit Rückenproblemen"]]
+  }
+]

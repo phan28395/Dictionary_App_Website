@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "affluent",
+    "meanings_de": ["wohlhabend und reich"],
+    "definitions_de": ["über beträchtlichen materiellen Besitz, Vermögen oder finanzielle Mittel verfügend, die einen gehobenen Lebensstandard ermöglichen"],
+    "examples_de": [["Die **wohlhabenden** Familien des Viertels besaßen prächtige Villen mit gepflegten Gärten", "Viele **reiche** Unternehmer investieren in nachhaltige Projekte"]]
+  },
+  {
+    "lemma": "bhutanese",
+    "meanings_de": ["bhutanisch"],
+    "definitions_de": ["zu Bhutan, seinen Einwohnern, seiner Kultur oder Sprache gehörend oder damit verbunden"],
+    "examples_de": [["Die **bhutanische** Regierung misst das Bruttonationalglück ihrer Bürger", "**Bhutanische** Architektur zeichnet sich durch farbenprächtige Holzbauten aus"]]
+  },
+  {
+    "lemma": "blessed",
+    "meanings_de": ["göttlich gesegnet", "glücklich beschenkt"],
+    "definitions_de": ["durch religiösen Ritus oder göttliche Gnade geheiligt und unter besonderem Schutz stehend", "mit besonderem Glück, Freude oder günstigen Umständen beschenkt"],
+    "examples_de": [["Das **geweihte** Wasser wurde in der Zeremonie verwendet", "Sie fühlten sich **gesegnet**, solch wunderbare Kinder zu haben"], ["Wir sind mit guter Gesundheit **gesegnet**", "Die **glückliche** Geburt brachte der ganzen Familie Freude"]]
+  },
+  {
+    "lemma": "bohemian",
+    "meanings_de": ["unkonventionell künstlerisch", "böhmisch"],
+    "definitions_de": ["einen unkonventionellen Lebensstil pflegend, oft mit künstlerischen oder intellektuellen Interessen verbunden", "zu Böhmen oder seiner Bevölkerung und Kultur gehörend"],
+    "examples_de": [["Der **bohèmehafte** Künstler lebte in einem chaotischen Atelier in der Altstadt", "Sie liebte die **unkonventionelle** Atmosphäre des Szene-Cafés"], ["**Böhmisches** Kristall ist weltweit für seine Qualität bekannt", "Der **böhmische** Volkstanz begeisterte das Publikum"]]
+  },
+  {
+    "lemma": "bolivian",
+    "meanings_de": ["bolivianisch"],
+    "definitions_de": ["zu Bolivien, seinen Einwohnern, seiner Kultur oder Sprache gehörend oder damit verbunden"],
+    "examples_de": [["Die **bolivianische** Küche umfasst Gerichte wie Salteñas und Llajwa", "Die **bolivianische** Flagge zeigt rote, gelbe und grüne Streifen"]]
+  },
+  {
+    "lemma": "bolshevik",
+    "meanings_de": ["bolschewistisch"],
+    "definitions_de": ["zum Bolschewismus oder den Bolschewiken gehörend, die einen revolutionären Kommunismus vertraten"],
+    "examples_de": [["Die **bolschewistische** Revolution veränderte die russische Geschichte grundlegend", "Sein Großvater floh während der **bolschewistischen** Machtübernahme aus Russland"]]
+  },
+  {
+    "lemma": "boolean",
+    "meanings_de": ["boolesch"],
+    "definitions_de": ["zu einem System der algebraischen Logik gehörend, das mit den binären Werten wahr oder falsch arbeitet"],
+    "examples_de": [["Der **boolesche** Ausdruck wird entweder als wahr oder falsch ausgewertet", "Programmierer verwenden **boolesche** Operatoren in ihrem Code"]]
+  },
+  {
+    "lemma": "bosnian",
+    "meanings_de": ["bosnisch"],
+    "definitions_de": ["zu Bosnien, seinen Einwohnern, seiner Kultur oder Sprache gehörend oder damit verbunden"],
+    "examples_de": [["**Bosnischer** Kaffee wird traditionell in kleinen Kupferkannen serviert", "Die **bosnische** Sprache verwendet sowohl lateinische als auch kyrillische Schrift"]]
+  },
+  {
+    "lemma": "brazilian",
+    "meanings_de": ["brasilianisch"],
+    "definitions_de": ["zu Brasilien, seinen Einwohnern, seiner Kultur oder Sprache gehörend oder damit verbunden"],
+    "examples_de": [["**Brasilianische** Musik umfasst Samba, Bossa Nova und Forró", "Der **brasilianische** Regenwald beherbergt eine unglaubliche Artenvielfalt"]]
+  },
+  {
+    "lemma": "afire",
+    "meanings_de": ["in Flammen stehend"],
+    "definitions_de": ["von Feuer erfasst oder in aktiver Verbrennung mit sichtbaren Flammen befindlich"],
+    "examples_de": [["Die alte Scheune stand bereits **in Flammen**, als die Feuerwehr eintraf", "Seine Augen schienen **entflammt** vor leidenschaftlicher Entschlossenheit"]]
+  },
+  {
+    "lemma": "aflame",
+    "meanings_de": ["hell brennend"],
+    "definitions_de": ["in Flammen stehend oder wie von Feuer erleuchtet mit hellem Licht glühend"],
+    "examples_de": [["Die Herbstbäume waren **flammend** rot und gold gefärbt", "Das Gebäude stand binnen Minuten nach der Explosion **in hellen Flammen**"]]
+  },
+  {
+    "lemma": "afloat",
+    "meanings_de": ["auf Wasser treibend", "finanziell überlebensfähig"],
+    "definitions_de": ["an der Wasseroberfläche schwimmend ohne unterzugehen", "über genügend Geldmittel verfügend, um Schulden zu bezahlen und weiterzubestehen"],
+    "examples_de": [["Die Schwimmweste hielt den Schwimmer **über Wasser**", "Mehrere Boote blieben nach dem Sturm **schwimmfähig**"], ["Das kleine Unternehmen kämpfte darum, sich **über Wasser zu halten**", "Staatliche Förderung hielt das Programm **am Leben**"]]
+  },
+  {
+    "lemma": "afoot",
+    "meanings_de": ["im Gange"],
+    "definitions_de": ["geplant oder geschehend mit aktiv laufenden Vorbereitungen"],
+    "examples_de": [["Es sind Pläne **im Gange**, das Gebäude zu renovieren", "Etwas Verdächtiges war **im Gange** in dem verlassenen Lagerhaus"]]
+  },
+  {
+    "lemma": "aforementioned",
+    "meanings_de": ["vorher erwähnt"],
+    "definitions_de": ["früher im selben Text oder Gespräch erwähnt oder beschrieben"],
+    "examples_de": [["Die **oben genannten** Probleme erfordern sofortige Aufmerksamkeit", "Bitte beziehen Sie sich auf die **vorgenannten** Richtlinien für Details"]]
+  },
+  {
+    "lemma": "aforesaid",
+    "meanings_de": ["vorstehend genannt"],
+    "definitions_de": ["zuvor in einem Dokument oder einer formellen Erklärung gesagt oder erwähnt"],
+    "examples_de": [["Die **besagte** Vereinbarung bleibt in Kraft", "Alle **vorgenannten** Bedingungen müssen erfüllt sein, bevor fortgefahren wird"]]
+  },
+  {
+    "lemma": "afoul",
+    "meanings_de": ["in Konflikt mit"],
+    "definitions_de": ["in Konflikt oder Schwierigkeiten mit Regeln, Gesetzen oder anderen Personen geratend"],
+    "examples_de": [["Das Unternehmen geriet **in Konflikt** mit Umweltvorschriften", "Sein Verhalten brachte ihn **in Schwierigkeiten** mit der Schulleitung"]]
+  },
+  {
+    "lemma": "aft",
+    "meanings_de": ["achtern gelegen"],
+    "definitions_de": ["am oder zum Heck oder hinteren Teil eines Schiffes gelegen"],
+    "examples_de": [["Die Kapitänskajüte befand sich **achtern**", "Die Passagiere bewegten sich **nach achtern**, um den Sonnenuntergang zu beobachten"]]
+  },
+  {
+    "lemma": "agape",
+    "meanings_de": ["weit geöffnet"],
+    "definitions_de": ["weit offen stehend, besonders vor Staunen, Überraschung oder Erwartung"],
+    "examples_de": [["Die Kinder standen mit **weit aufgerissenen** Mündern vor dem Zaubertrick", "Die Tür stand **sperrangelweit offen** im verlassenen Haus"]]
+  },
+  {
+    "lemma": "aged",
+    "meanings_de": ["betagt", "gereift"],
+    "definitions_de": ["viele Jahre gelebt oder existiert habend mit sichtbaren Zeichen des Alters", "durch Lagerung über einen Zeitraum verbessert oder gereift"],
+    "examples_de": [["Der **betagte** Professor teilte Weisheit aus Jahrzehnten der Erfahrung", "Ihre **hochbetagte** Großmutter benötigte tägliche Unterstützung"], ["Der **gereifte** Käse hatte einen scharfen, komplexen Geschmack", "Dieser **gelagerte** Whisky reift seit zwölf Jahren"]]
+  },
+  {
+    "lemma": "ageing",
+    "meanings_de": ["alternd"],
+    "definitions_de": ["älter werdend oder die Auswirkungen des zunehmenden Alters im Laufe der Zeit zeigend"],
+    "examples_de": [["Die **alternde** Bevölkerung benötigt mehr Gesundheitsdienste", "Regelmäßige Bewegung kann den **Alterungsprozess** verlangsamen"]]
+  },
+  {
+    "lemma": "ageless",
+    "meanings_de": ["zeitlos jung"],
+    "definitions_de": ["keine Auswirkungen des Alters zeigend oder scheinbar außerhalb der Zeit existierend"],
+    "examples_de": [["Ihre **zeitlose** Schönheit erstaunte alle beim Klassentreffen", "Klassische Literatur enthält **zeitlose** Themen über die menschliche Natur"]]
+  },
+  {
+    "lemma": "aggravated",
+    "meanings_de": ["verschlimmert", "rechtlich erschwert"],
+    "definitions_de": ["ernster, schwerer oder intensiver als zuvor gemacht", "rechtlich als schwerwiegender definiert aufgrund von Umständen wie Gewalt"],
+    "examples_de": [["Seine **verschlimmerte** Verletzung zwang ihn, mit dem Sport aufzuhören", "Die **verschärften** Symptome erforderten sofortige medizinische Behandlung"], ["Er wurde wegen **schwerer** Körperverletzung angeklagt", "Der **erschwerte** Raub zog eine längere Gefängnisstrafe nach sich"]]
+  },
+  {
+    "lemma": "aggravating",
+    "meanings_de": ["verschlimmernd", "ärgerlich"],
+    "definitions_de": ["ein Problem, eine Verletzung oder ein Vergehen schlimmer oder ernster machend", "Irritation, Frustration oder Ärger bei jemandem verursachend"],
+    "examples_de": [["Die **erschwerenden** Faktoren erhöhten sein Strafmaß", "Kaltes Wetter kann **verschlimmernd** auf Arthritis wirken"], ["Seine **nervige** Angewohnheit zu unterbrechen ärgerte alle", "Die **ärgerliche** Verspätung ließ Passagiere Anschlüsse verpassen"]]
+  },
+  {
+    "lemma": "aggregate",
+    "meanings_de": ["zusammengefasst"],
+    "definitions_de": ["durch Kombination mehrerer separater Elemente zu einem Ganzen gebildet"],
+    "examples_de": [["Die **zusammengefasste** Punktzahl bestimmt den endgültigen Gewinner", "**Aggregierte** Daten aus allen Quellen zeigten interessante Muster"]]
+  },
+  {
+    "lemma": "aggregated",
+    "meanings_de": ["zusammengetragen"],
+    "definitions_de": ["aus verschiedenen Quellen zusammengebracht und zu einem Ganzen kombiniert"],
+    "examples_de": [["Die **zusammengetragenen** Ergebnisse zeigten klare Trends", "**Gesammelte** Kundenfeedbacks halfen, das Produkt zu verbessern"]]
+  },
+  {
+    "lemma": "aghast",
+    "meanings_de": ["entsetzt"],
+    "definitions_de": ["von Entsetzen, Schock oder Erstaunen über etwas Schreckliches erfüllt"],
+    "examples_de": [["Sie war **entsetzt** über die Zerstörung durch den Sturm", "Das Publikum saß **fassungslos** bei der schockierenden Enthüllung"]]
+  },
+  {
+    "lemma": "agile",
+    "meanings_de": ["körperlich gewandt", "geistig flexibel"],
+    "definitions_de": ["sich schnell und leicht mit körperlicher Koordination bewegen könnend", "schnell denken und verstehen könnend mit geistiger Flexibilität"],
+    "examples_de": [["Die **wendige** Turnerin führte komplexe Übungen mühelos aus", "Kletterer müssen **beweglich** sein, um schwierige Routen zu bewältigen"], ["Ein **agiler** Geist kann Probleme kreativ lösen", "Der **flexible** Ansatz des Unternehmens half bei schneller Anpassung"]]
+  },
+  {
+    "lemma": "aging",
+    "meanings_de": ["alternd"],
+    "definitions_de": ["älter werdend oder die Auswirkungen des zunehmenden Alters im Laufe der Zeit zeigend"],
+    "examples_de": [["Die **alternde** Infrastruktur benötigt erhebliche Reparaturen", "**Reifender** Wein in Eichenfässern verbessert seinen Geschmack"]]
+  },
+  {
+    "lemma": "agitated",
+    "meanings_de": ["aufgewühlt"],
+    "definitions_de": ["nervöse Erregung, Angst oder körperliche Unruhe fühlend oder zeigend"],
+    "examples_de": [["Die **aufgebrachte** Menge forderte sofortige Antworten", "Sie wurde **unruhig**, als ihr Flug gestrichen wurde"]]
+  },
+  {
+    "lemma": "agitating",
+    "meanings_de": ["beunruhigend"],
+    "definitions_de": ["jemanden emotional beunruhigt, nervös oder verstört machend"],
+    "examples_de": [["Die **beunruhigenden** Nachrichten verbreiteten sich schnell über soziale Medien", "Seine **aufwieglerischen** Kommentare störten das friedliche Treffen"]]
+  },
+  {
+    "lemma": "agnostic",
+    "meanings_de": ["Gottes Existenz bezweifelnd", "neutral eingestellt"],
+    "definitions_de": ["glaubend, dass die Existenz Gottes nicht gewusst oder bewiesen werden kann", "nicht verpflichtet, an die Existenz oder Nichtexistenz von etwas zu glauben"],
+    "examples_de": [["Er blieb **agnostisch** in religiösen Angelegenheiten", "Viele Wissenschaftler nehmen eine **agnostische** Sicht auf spirituelle Fragen ein"], ["Das Komitee war **unentschieden**, welchen Anbieter es wählen sollte", "Sie ist **plattformunabhängig** bei der Softwareentwicklung"]]
+  },
+  {
+    "lemma": "agonizing",
+    "meanings_de": ["qualvoll schmerzhaft", "äußerst schwierig"],
+    "definitions_de": ["intensive körperliche oder geistige Schmerzen und Leiden verursachend", "schmerzhafte Anstrengung erfordernd oder extreme Schwierigkeit beim Entscheiden verursachend"],
+    "examples_de": [["Der Athlet ertrug **quälende** Schmerzen durch die Verletzung", "Das Warten auf Testergebnisse war eine **qualvolle** Erfahrung"], ["Sie stand vor einer **quälenden** Entscheidung über ihre Karriere", "Der **zermürbende** Prozess dauerte Monate"]]
+  },
+  {
+    "lemma": "agrarian",
+    "meanings_de": ["landwirtschaftlich"],
+    "definitions_de": ["sich auf kultiviertes Land, Landwirtschaft oder Landbesitz beziehend"],
+    "examples_de": [["Die **agrarische** Gesellschaft war auf saisonale Niederschläge angewiesen", "**Agrarreformen** verteilten Land an Kleinbauern um"]]
+  },
+  {
+    "lemma": "agreeable",
+    "meanings_de": ["angenehm", "einverstanden"],
+    "definitions_de": ["angenehm und erfreulich in Natur oder Erscheinung für die Sinne", "bereit, etwas zuzustimmen oder zur Zustimmung bereit"],
+    "examples_de": [["Das **angenehme** Wetter bot perfekte Bedingungen für ein Picknick", "Sie hat eine **liebenswürdige** Persönlichkeit, die Freunde anzieht"], ["Er war mit allen vorgeschlagenen Änderungen **einverstanden**", "Die Bedingungen waren für beide Parteien **akzeptabel**"]]
+  },
+  {
+    "lemma": "agreed",
+    "meanings_de": ["vereinbart"],
+    "definitions_de": ["durch gegenseitiges Einverständnis zwischen Parteien arrangiert oder festgelegt"],
+    "examples_de": [["Sie trafen sich zur **vereinbarten** Zeit am **vereinbarten** Ort", "Die **abgesprochenen** Bedingungen wurden im Vertrag dokumentiert"]]
+  },
+  {
+    "lemma": "agronomic",
+    "meanings_de": ["agronomisch"],
+    "definitions_de": ["sich auf die Wissenschaft der Bodenbewirtschaftung und Pflanzenproduktion beziehend"],
+    "examples_de": [["**Agronomische** Forschung verbessert Ernteerträge nachhaltig", "Die **agronomischen** Bedingungen waren perfekt für Weizenanbau"]]
+  },
+  {
+    "lemma": "aground",
+    "meanings_de": ["auf Grund gelaufen"],
+    "definitions_de": ["das Ufer oder den Boden flachen Wassers berührend oder darauf festsitzend"],
+    "examples_de": [["Das Schiff lief während des Sturms **auf Grund**", "Mehrere Boote lagen bei Ebbe **auf dem Trockenen**"]]
+  },
+  {
+    "lemma": "aided",
+    "meanings_de": ["unterstützt"],
+    "definitions_de": ["mit Hilfe, Unterstützung oder Beistand versehen, um etwas zu erreichen"],
+    "examples_de": [["Die **geförderten** Schüler schnitten bei Tests besser ab", "**Computergestütztes** Design revolutionierte das Ingenieurwesen"]]
+  },
+  {
+    "lemma": "ailing",
+    "meanings_de": ["kränkelnd"],
+    "definitions_de": ["an Krankheit oder schlechter Gesundheit leidend und sich nicht bessernd"],
+    "examples_de": [["Ihre **kranke** Mutter benötigte ständige Pflege", "Die **schwächelnde** Wirtschaft brauchte staatliche Intervention"]]
+  },
+  {
+    "lemma": "aimless",
+    "meanings_de": ["ziellos"],
+    "definitions_de": ["ohne Zweck, Richtung oder klare Ziele im Handeln oder Leben"],
+    "examples_de": [["Er verbrachte **ziellose** Stunden mit Internetsurfen", "Ihr **planloses** Umherwandern führte sie zu unerwarteten Orten"]]
+  },
+  {
+    "lemma": "airborne",
+    "meanings_de": ["luftgetragen", "in der Luft"],
+    "definitions_de": ["durch die Luft transportiert oder getragen durch Wind oder Flugzeug", "abgehoben habend und durch die Luft fliegend"],
+    "examples_de": [["**Luftgetragene** Pollen verursachen im Frühling Allergien", "Das **aerogene** Virus verbreitete sich schnell im Büro"], ["Das Flugzeug war binnen Minuten **in der Luft**", "Fallschirmjäger sind für **Luftlandeoperationen** ausgebildet"]]
+  },
+  {
+    "lemma": "aired",
+    "meanings_de": ["ausgestrahlt", "gelüftet"],
+    "definitions_de": ["im Fernsehen oder Radio für die Öffentlichkeit ausgestrahlt", "frischer Luft ausgesetzt zum Trocknen, Kühlen oder Auffrischen"],
+    "examples_de": [["Die Dokumentation wurde gestern Abend zur besten Sendezeit **ausgestrahlt**", "Ihre Beschwerden wurden während der Sitzung **geäußert**"], ["Die frisch **gelüftete** Wäsche duftete nach Sonne", "Der Raum muss nach dem Streichen **durchgelüftet** werden"]]
+  },
+  {
+    "lemma": "airtight",
+    "meanings_de": ["luftdicht", "lückenlos"],
+    "definitions_de": ["vollständig versiegelt, sodass keine Luft ein- oder austreten kann", "keine Schwächen oder Fehler habend, die angefochten werden könnten"],
+    "examples_de": [["Kaffee in einem **luftdichten** Behälter aufbewahren", "Die **hermetische** Versiegelung bewahrte das Essen perfekt"], ["Der Staatsanwalt präsentierte einen **wasserdichten** Fall", "Ihr **lückenloses** Alibi entlastete sie vom Verdacht"]]
+  },
+  {
+    "lemma": "airworthy",
+    "meanings_de": ["flugtauglich"],
+    "definitions_de": ["in einem Zustand, sicher zu fliegen gemäß Luftfahrtstandards"],
+    "examples_de": [["Das Flugzeug wurde nach der Inspektion als **flugtauglich** zertifiziert", "Nur **lufttüchtige** Flugzeuge dürfen kommerziell Passagiere befördern"]]
+  },
+  {
+    "lemma": "airy",
+    "meanings_de": ["luftig geräumig", "leicht und zart"],
+    "definitions_de": ["viel frische Luft und Raum mit guter Belüftung habend", "leicht, zart oder substanzlos in Qualität oder Art"],
+    "examples_de": [["Die **luftige** Wohnung hatte überall große Fenster", "Sie liebte das **luftige** Gefühl des Strandhauses"], ["Ihre **leichtfertige** Ablehnung von Bedenken beunruhigte das Team", "Das Gebäck hatte eine **luftige** Textur"]]
+  },
+  {
+    "lemma": "akin",
+    "meanings_de": ["verwandt"],
+    "definitions_de": ["ähnlich in Charakter, Natur oder Eigenschaften zu etwas anderem"],
+    "examples_de": [["Seine Gefühle waren **verwandt** mit Erleichterung und Dankbarkeit", "Die beiden Sprachen sind eng miteinander **verwandt**"]]
+  },
+  {
+    "lemma": "alabaster",
+    "meanings_de": ["alabasterweiß"],
+    "definitions_de": ["dem Alabasterstein ähnelnd in weiß, glatt und durchscheinend zu sein"],
+    "examples_de": [["Ihre **alabasterweiße** Haut schien im Mondlicht zu leuchten", "Die **alabasterne** Statue war mit unglaublichem Detail geschnitzt"]]
+  },
+  {
+    "lemma": "alarmed",
+    "meanings_de": ["alarmiert"],
+    "definitions_de": ["plötzliche Angst oder Besorgnis über mögliche Gefahr fühlend"],
+    "examples_de": [["Die Bewohner waren durch die Erdbebenwarnung **alarmiert**", "Sie sah **beunruhigt** aus, als sie die Nachricht hörte"]]
+  },
+  {
+    "lemma": "alarming",
+    "meanings_de": ["besorgniserregend"],
+    "definitions_de": ["Sorge und Angst über Gefahr oder Probleme verursachend"],
+    "examples_de": [["Der **alarmierende** Anstieg der Kriminalität beunruhigte die Anwohner", "Der Klimawandel schreitet mit **besorgniserregender** Geschwindigkeit voran"]]
+  },
+  {
+    "lemma": "albino",
+    "meanings_de": ["albinotisch"],
+    "definitions_de": ["ein angeborenes Fehlen von Pigment in Haut, Haaren und Augen habend"],
+    "examples_de": [["Das **albinotische** Kaninchen hatte reinweißes Fell und rosa Augen", "**Albino**-Tiere haben Schwierigkeiten, in der Wildnis zu überleben"]]
+  }
+]

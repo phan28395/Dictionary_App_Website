@@ -1,0 +1,290 @@
+[
+  {
+    "lemma": "triangle",
+    "meanings_de": ["geometrische Form", "Musikinstrument", "Dreierbeziehung"],
+    "definitions_de": ["ebene geometrische Figur mit drei geraden Seiten und drei Winkeln, die eine geschlossene Form bildet", "kleines Schlaginstrument aus gebogenem Metallstab, der mit einem Metallstab angeschlagen wird", "Beziehung oder Situation, bei der drei Personen oder Dinge in komplexer Wechselwirkung stehen"],
+    "examples_de": [["Die Schüler lernten, wie man die Fläche eines **Dreiecks** berechnet", "Sie zeichnete ein perfektes gleichseitiges **Dreieck** an die Tafel"], ["Der Schlagzeuger schlug das **Triangel** beim Höhepunkt des Stücks", "Ein silbernes **Triangel** hängt am Notenständer"], ["Ihre Freundschaft entwickelte sich zu einem komplizierten **Dreiecksverhältnis**", "Das Handels**dreieck** verband drei verschiedene Kontinente miteinander"]]
+  },
+  {
+    "lemma": "triangulation",
+    "meanings_de": ["Vermessungsmethode", "Ortungstechnik", "strategische Positionierung"],
+    "definitions_de": ["Verfahren zur Standortbestimmung durch Winkelmessung von bekannten Punkten aus, um die Position zu berechnen", "Methode zur Positionsbestimmung mithilfe von Signalen aus mehreren Referenzpunkten oder Quellen", "strategischer Ansatz, bei dem mehrere Perspektiven oder Quellen genutzt werden, um eine Situation zu verstehen oder zu beeinflussen"],
+    "examples_de": [["Die Landvermesser nutzten **Triangulation** zur Kartierung des Geländes", "Die **Triangulation** half bei der präzisen Festlegung der Grenzmarkierungen"], ["GPS-Satelliten verwenden **Triangulation** zur genauen Standortbestimmung", "Mobilfunkmasten nutzen **Triangulation** für Notrufe"], ["Der Detektiv wendete **Triangulation** der Zeugenaussagen an", "Politische **Triangulation** positionierte ihn zwischen zwei Extremen"]]
+  },
+  {
+    "lemma": "tribalism",
+    "meanings_de": ["Gruppenloyalitätsverhalten", "Stammesgesellschaft"],
+    "definitions_de": ["starke Loyalität zur eigenen Gruppe, die zu Vorurteilen gegenüber Außenstehenden oder anderen Gruppen führt", "soziales System, in dem sich Menschen aufgrund von Verwandtschaft und gemeinsamer Kultur in Stämmen organisieren"],
+    "examples_de": [["Politischer **Tribalismus** hat die Nation tief gespalten", "Soziale Medien fördern oft **Tribalismus** zwischen Nutzern"], ["Anthropologen untersuchten **Tribalismus** in traditionellen Gesellschaften", "Früher **Tribalismus** prägte die menschlichen Zivilisationen"]]
+  },
+  {
+    "lemma": "tribulation",
+    "meanings_de": ["schweres Leiden"],
+    "definitions_de": ["große Not, Leiden oder Bedrängnis, die über einen längeren Zeitraum erfahren wird"],
+    "examples_de": [["Sie ertrugen viele **Trübsale** während der Kriegsjahre", "Die **Prüfungen** des Lebens hatten sie bemerkenswert stark gemacht"]]
+  },
+  {
+    "lemma": "tribunal",
+    "meanings_de": ["Gerichtshof", "Richterstuhl"],
+    "definitions_de": ["Gerichtshof oder rechtliche Instanz, die zur Beilegung bestimmter Streitigkeiten eingerichtet wurde", "Sitz oder Bank, auf der Richter bei Verhandlungen Platz nehmen"],
+    "examples_de": [["Das Kriegsverbrecher**tribunal** hörte monatelang Zeugenaussagen an", "Ein Arbeits**tribunal** entschied zugunsten der Arbeitnehmer"], ["Die Richter nahmen ihre Plätze am **Tribunal** ein", "Antike Herrscher sprachen Recht von steinernen **Tribunalen** aus"]]
+  },
+  {
+    "lemma": "tribune",
+    "meanings_de": ["römischer Beamter", "Rednertribüne", "Zeitungsname"],
+    "definitions_de": ["gewählter Beamter im alten Rom, der die Interessen der einfachen Bürger schützte", "erhöhte Plattform, von der aus Reden an ein Publikum gehalten werden", "verbreiteter Zeitungsname, der die Stimme des Volkes suggeriert"],
+    "examples_de": [["Der **Tribun** verteidigte die Rechte der Plebejer gegen die Senatoren", "Römische **Tribune** besaßen erhebliche politische Macht"], ["Der Redner sprach von der marmornen **Tribüne** zur Menge", "Demonstranten versammelten sich nahe der **Tribüne** auf dem Platz"], ["Sie arbeitete als Reporterin für die Chicago **Tribune**", "Die **Tribune** unterstützte den Reformkandidaten"]]
+  },
+  {
+    "lemma": "tributary",
+    "meanings_de": ["Nebenfluss", "tributpflichtige Nation"],
+    "definitions_de": ["Fluss oder Bach, der in einen größeren Fluss oder See mündet", "Staat oder Nation, die einem mächtigeren Herrscher Tribut zahlt"],
+    "examples_de": [["Der Missouri River ist ein bedeutender **Nebenfluss** des Mississippi", "Kleine **Nebenflüsse** speisen den See aus den umliegenden Hügeln"], ["Alte Königreiche wurden zu **Tributstaaten** des Imperiums", "Die **tributpflichtigen** Staaten sandten jährliche Goldzahlungen"]]
+  },
+  {
+    "lemma": "tribute",
+    "meanings_de": ["Zahlung an Herrscher", "Ehrenbezeugung", "künstlerische Hommage"],
+    "definitions_de": ["Zahlung, die eine Nation oder ein Herrscher an einen anderen zum Schutz leistet", "Handlung, Aussage oder Geschenk zum Ausdruck von Respekt, Dankbarkeit oder Bewunderung", "künstlerisches Werk, das zu Ehren eines anderen Künstlers oder dessen Werk geschaffen wurde"],
+    "examples_de": [["Die eroberten Länder zahlten jährlichen **Tribut** in Silber", "**Tribute** sicherten den Frieden zwischen verfeindeten Königreichen"], ["Das Denkmal steht als **Tribut** an die gefallenen Soldaten", "Ihre Rede war eine bewegende **Würdigung** ihres Mentors"], ["Das Album enthält **Tribute**-Songs an Jazz-Legenden", "Das Filmfestival zeigte **Hommagen** an klassische Regisseure"]]
+  },
+  {
+    "lemma": "trice",
+    "meanings_de": ["kurzer Augenblick"],
+    "definitions_de": ["sehr kurze Zeitspanne oder Moment"],
+    "examples_de": [["Der Zauberer ließ die Münze im **Nu** verschwinden", "Sie löste das Rätsel im **Handumdrehen**"]]
+  },
+  {
+    "lemma": "triceps",
+    "meanings_de": ["Armmuskel"],
+    "definitions_de": ["großer Muskel an der Rückseite des Oberarms mit drei Ansatzpunkten"],
+    "examples_de": [["Liegestütze stärken **Trizeps** und Brustmuskeln", "Der Bodybuilder spannte seinen beeindruckenden **Trizeps** an"]]
+  },
+  {
+    "lemma": "trickery",
+    "meanings_de": ["betrügerische Praktik"],
+    "definitions_de": ["Anwendung von Tricks oder Täuschung, um Ziele zu erreichen oder andere zu betrügen"],
+    "examples_de": [["Der Betrüger verließ sich auf **Trickserei**, um Geld zu stehlen", "Politische **Täuschungsmanöver** untergruben den demokratischen Prozess"]]
+  },
+  {
+    "lemma": "trickle",
+    "meanings_de": ["dünner Wasserfluss", "allmähliche Bewegung"],
+    "definitions_de": ["dünner, langsamer Flüssigkeitsstrom, der in Tropfen oder kleinen Mengen fließt", "langsame, allmähliche Bewegung oder Ankunft von Menschen, Dingen oder Informationen"],
+    "examples_de": [["Ein **Rinnsal** tropfte aus dem Wasserhahn", "Das Berg**rinnsal** wird schließlich zu einem Fluss"], ["Nachrichten begannen aus abgelegenen Gebieten **einzutröpfeln**", "Nur ein **Rinnsal** von Kunden besuchte das Geschäft"]]
+  },
+  {
+    "lemma": "trickster",
+    "meanings_de": ["betrügerische Person", "mythologische Figur"],
+    "definitions_de": ["Person, die andere täuscht oder ihnen Streiche spielt", "Figur in der Folklore, die List einsetzt, um Autoritäten herauszufordern"],
+    "examples_de": [["Der **Trickbetrüger** täuschte Touristen mit Taschenspielertricks", "Online-**Betrüger** erstellen ausgeklügelte Betrugsmaschen"], ["Kojote dient als **Trickster** in Geschichten der amerikanischen Ureinwohner", "Der **Trickstergott** Loki erscheint in der nordischen Mythologie"]]
+  },
+  {
+    "lemma": "tricolor",
+    "meanings_de": ["dreifarbige Flagge"],
+    "definitions_de": ["Flagge oder Banner mit drei Farben, besonders in gleichen Streifen"],
+    "examples_de": [["Die französische **Trikolore** weht über Regierungsgebäuden", "Revolutionäre Bewegungen übernahmen oft **Trikoloren**-Designs"]]
+  },
+  {
+    "lemma": "tricolour",
+    "meanings_de": ["dreifarbige Flagge"],
+    "definitions_de": ["Flagge oder Banner mit drei Farben, besonders in gleichen Streifen"],
+    "examples_de": [["Die indische **Trikolore** zeigt Safran, Weiß und Grün", "Schiffe hissten die **Trikolore**, um ihre Nationalität zu zeigen"]]
+  },
+  {
+    "lemma": "tricycle",
+    "meanings_de": ["dreirädriges Fahrzeug"],
+    "definitions_de": ["Fahrzeug mit drei Rädern, typischerweise mit zwei hinten und einem vorn"],
+    "examples_de": [["Das Kleinkind fuhr mit seinem roten **Dreirad** im Garten herum", "**Dreiräder** für Erwachsene bieten älteren Fahrern Stabilität"]]
+  },
+  {
+    "lemma": "trident",
+    "meanings_de": ["dreizackiger Speer"],
+    "definitions_de": ["Speer mit drei Zinken zum Fischen oder als Waffe oder Symbol"],
+    "examples_de": [["Neptun trägt einen goldenen **Dreizack** in der klassischen Kunst", "Fischer nutzten **Dreizacke** zum Fang großer Fische"]]
+  },
+  {
+    "lemma": "triennial",
+    "meanings_de": ["Dreijahresperiode", "dreijährliche Veranstaltung"],
+    "definitions_de": ["Zeitraum von drei Jahren oder etwas, das drei Jahre dauert", "Veranstaltung oder Feier, die alle drei Jahre stattfindet"],
+    "examples_de": [["Das Unternehmen plant Projekte auf **dreijähriger** Basis", "Eine **dreijährliche** Überprüfung bewertet langfristige Fortschritte"], ["Die Kunst-**Triennale** zieht internationale Besucher an", "Städte wetteifern um die Ausrichtung der **dreijährlichen** Konferenz"]]
+  },
+  {
+    "lemma": "trier",
+    "meanings_de": ["beharrliche Person", "Prüfgerät"],
+    "definitions_de": ["Person, die sich anstrengt und trotz Schwierigkeiten durchhält", "Gerät oder Person, die etwas testet oder bewertet"],
+    "examples_de": [["Sie ist eine echte **Kämpferin**, die niemals aufgibt", "Der Trainer schätzt **Kämpfernaturen** mehr als natürliches Talent"], ["Der Qualitäts**prüfer** kontrollierte jede Produktcharge", "Elektronische **Prüfgeräte** testen Leiterplattenverbindungen"]]
+  },
+  {
+    "lemma": "trifle",
+    "meanings_de": ["Kleinigkeit", "Schichtdessert"],
+    "definitions_de": ["etwas von geringem Wert, geringer Bedeutung oder Wichtigkeit", "britisches Dessert aus in Alkohol getränktem Biskuit, geschichtet mit Pudding und Obst"],
+    "examples_de": [["Sorgen Sie sich nicht um solche **Kleinigkeiten**", "Der fehlende Knopf war eine bloße **Bagatelle**"], ["Großmutters Sherry-**Trifle** erscheint zu jedem Feiertag", "Die **Trifle**-Schüssel zeigte die bunten Dessertschichten"]]
+  },
+  {
+    "lemma": "trifling",
+    "meanings_de": ["belanglose Angelegenheiten"],
+    "definitions_de": ["Angelegenheiten oder Belange von sehr geringer Bedeutung oder geringem Wert"],
+    "examples_de": [["Verschwenden Sie keine Zeit mit **belanglosen** Details", "Solche **geringfügigen** Beschwerden ärgerten den Manager"]]
+  },
+  {
+    "lemma": "trig",
+    "meanings_de": ["Trigonometrie-Fach"],
+    "definitions_de": ["informeller Begriff für Trigonometrie als akademisches Fach"],
+    "examples_de": [["Schüler kämpfen mit **Trigo**-Identitäten und Formeln", "Die **Trigo**-Prüfung behandelte Sinus- und Kosinusfunktionen"]]
+  },
+  {
+    "lemma": "trigonometry",
+    "meanings_de": ["Mathematikzweig"],
+    "definitions_de": ["Zweig der Mathematik, der sich mit den Beziehungen zwischen Winkeln und Seiten von Dreiecken befasst"],
+    "examples_de": [["Der Ingenieur nutzte **Trigonometrie** zur Berechnung von Gebäudehöhen", "**Trigonometrie** hilft bei der Navigation von Schiffen über die Ozeane"]]
+  },
+  {
+    "lemma": "trike",
+    "meanings_de": ["dreirädriges Fahrzeug"],
+    "definitions_de": ["informeller Begriff für Dreirad oder dreirädriges Motorrad"],
+    "examples_de": [["Das blaue **Dreirad** des Kindes stand in der Garage", "Motorrad-**Trikes** bieten Stabilität für Tourenfahrten"]]
+  },
+  {
+    "lemma": "trilateral",
+    "meanings_de": ["dreiseitiges Abkommen"],
+    "definitions_de": ["Abkommen, Treffen oder Beziehung zwischen drei Parteien oder Nationen"],
+    "examples_de": [["Das **trilaterale** Handelsabkommen nutzte allen Ländern", "**Trilaterale** Gespräche behandelten regionale Sicherheitsbelange"]]
+  },
+  {
+    "lemma": "trilby",
+    "meanings_de": ["weicher Filzhut"],
+    "definitions_de": ["weicher Filzhut mit schmaler Krempe und eingedrückter Krone"],
+    "examples_de": [["Er tippte mit seinem **Trilby** an vorbeigehende Damen", "Der Detektiv trug einen braunen **Trilby** und Trenchcoat"]]
+  },
+  {
+    "lemma": "trill",
+    "meanings_de": ["musikalischer Klang", "Vogelgesang"],
+    "definitions_de": ["schneller Wechsel zwischen zwei benachbarten Musiknoten", "trillernder oder vibrierender Klang von Vögeln oder in der Sprache"],
+    "examples_de": [["Der **Triller** der Sopranistin erfüllte das Opernhaus", "Flötisten üben **Triller** für technische Fertigkeiten"], ["Das morgendliche **Trillern** des Kanarienvogels weckte den Haushalt", "Sie sprach mit einem leichten **Trillern** in der Stimme"]]
+  },
+  {
+    "lemma": "trillium",
+    "meanings_de": ["Waldblume"],
+    "definitions_de": ["nordamerikanische Waldpflanze mit drei Blättern und dreiblättrigen Blüten"],
+    "examples_de": [["Weiße **Trillien** bedecken im Frühling den Waldboden", "Das seltene gemalte **Trillium** wächst in schattigen Bereichen"]]
+  },
+  {
+    "lemma": "trilobite",
+    "meanings_de": ["ausgestorbenes Gliederfüßer"],
+    "definitions_de": ["ausgestorbenes marines Gliederfüßer mit segmentiertem Körper, das in den Meeren des Paläozoikums lebte"],
+    "examples_de": [["Museumsvitrinen zeigen perfekt erhaltene **Trilobiten**-Fossilien", "**Trilobiten** beherrschten die alten Ozeane über Millionen von Jahren"]]
+  },
+  {
+    "lemma": "trilogy",
+    "meanings_de": ["dreiteiliges Werk"],
+    "definitions_de": ["Gruppe von drei zusammenhängenden Romanen, Theaterstücken, Filmen oder anderen Werken"],
+    "examples_de": [["Die Autorin vollendete ihre Fantasy-**Trilogie** letztes Jahr", "Filmstudios planen oft **Trilogien** für beliebte Franchises"]]
+  },
+  {
+    "lemma": "trim",
+    "meanings_de": ["Zierborte", "gepflegter Zustand", "Haarschnitt"],
+    "definitions_de": ["dekoratives Material als Bordüre oder Einfassung an Kleidung oder Einrichtungsgegenständen", "ordentlicher, gepflegter Zustand oder gute körperliche Verfassung", "Vorgang des Schneidens kleiner Mengen zur Verschönerung des Aussehens"],
+    "examples_de": [["Gold**borte** schmückte die formellen Militäruniformen", "Sie fügte Spitzen**borte** an die Vorhänge"], ["Der Garten wurde in perfektem **Zustand** gehalten", "Athleten bleiben während der Saison in **Form**"], ["Nur ein leichtes **Nachschneiden** an den Spitzen bitte", "Die Hecke braucht ihren monatlichen **Schnitt**"]]
+  },
+  {
+    "lemma": "trimaran",
+    "meanings_de": ["dreirumpfiges Boot"],
+    "definitions_de": ["Segelfahrzeug mit drei parallelen Rümpfen für Stabilität und Geschwindigkeit"],
+    "examples_de": [["Der Renn-**Trimaran** schnitt mühelos durch die Wellen", "**Trimarane** bieten mehr Deckfläche als Katamarane"]]
+  },
+  {
+    "lemma": "trimester",
+    "meanings_de": ["Dreimonatszeitraum"],
+    "definitions_de": ["Zeitraum von drei Monaten, besonders in der Schwangerschaft oder im akademischen Kalender"],
+    "examples_de": [["Morgenübelkeit tritt oft im ersten **Trimester** auf", "Die Universität arbeitet mit einem **Trimester**-System"]]
+  },
+  {
+    "lemma": "trimmer",
+    "meanings_de": ["Schneidwerkzeug", "opportunistische Person"],
+    "definitions_de": ["Werkzeug oder Gerät zum Schneiden oder Trimmen von Hecken, Haaren oder Kanten", "Person, die Meinungen oder Verhalten zum persönlichen Vorteil ändert"],
+    "examples_de": [["Der elektrische **Trimmer** ließ die Rasenkanten scharf aussehen", "Friseure haben mehrere Haar**trimmer** für verschiedene Schnitte"], ["Politische **Wendehälse** wechseln Parteien für bessere Positionen", "Der **Opportunist** passte seine Ansichten an, um allen zu gefallen"]]
+  },
+  {
+    "lemma": "trimming",
+    "meanings_de": ["dekorative Zugaben", "Schnittabfall"],
+    "definitions_de": ["dekorative Zugaben zu Kleidung, Möbeln oder Speisen", "abgeschnittene Stücke beim Formen oder Reduzieren von etwas"],
+    "examples_de": [["Das Truthahnessen kam mit allen traditionellen **Beilagen**", "Viktorianische Kleider zeigten aufwendige **Verzierungen**"], ["Sammeln Sie Gras**schnitt** für den Komposthaufen", "Haar**schnitt** bedeckte den Salonboden"]]
+  },
+  {
+    "lemma": "trinity",
+    "meanings_de": ["Dreiergruppe", "christliche Lehre"],
+    "definitions_de": ["Gruppe von drei Personen oder Dingen, die als Einheit betrachtet werden", "christliche Lehre von Gott als drei Personen in einem göttlichen Wesen"],
+    "examples_de": [["Das Führungs**trio** traf alle wichtigen Entscheidungen", "Diese **Dreiheit** von Werten leitet unsere Organisation"], ["Kirchen lehren die **Dreifaltigkeit** von Vater, Sohn und Geist", "Die **Trinität** bleibt ein zentrales christliches Mysterium"]]
+  },
+  {
+    "lemma": "trio",
+    "meanings_de": ["Dreiergruppe", "Musikensemble"],
+    "definitions_de": ["Gruppe oder Satz von drei Personen oder Dingen", "Musikkomposition für drei Ausführende oder Gruppe von drei Musikern"],
+    "examples_de": [["Das **Trio** von Freunden reiste gemeinsam durch Europa", "Ein **Trio** von Problemen verzögerte das Projekt"], ["Das Jazz-**Trio** spielte im Innenstadtclub", "Beethoven komponierte wunderschöne Klavier**trios**"]]
+  },
+  {
+    "lemma": "tripe",
+    "meanings_de": ["Kutteln", "Unsinn"],
+    "definitions_de": ["essbare Magenschleimhaut von Wiederkäuern als Nahrungsmittel", "Unsinn, Müll oder wertloses Gerede oder Schreiben"],
+    "examples_de": [["Das Restaurant serviert traditionelle **Kuttelsuppe**", "Metzger verkaufen gereinigte **Kutteln** zum Kochen"], ["Glauben Sie nicht diesen **Unsinn** in den Boulevardzeitungen", "Seine Erklärung war vollkommener **Quatsch**"]]
+  },
+  {
+    "lemma": "triple",
+    "meanings_de": ["dreifache Menge", "Baseball-Schlag"],
+    "definitions_de": ["Menge, Zahl oder Quantität, die dreimal so groß ist wie eine andere", "Baseball-Schlag, der es dem Schläger ermöglicht, die dritte Base zu erreichen"],
+    "examples_de": [["Die Verkäufe zeigten eine **dreifache** Steigerung gegenüber dem Vorjahr", "Das Rezept ergibt die **dreifache** Portion"], ["Der Schläger schlug ein **Triple** ins rechte Feld", "Sein **Dreier** brachte zwei Runs ein"]]
+  },
+  {
+    "lemma": "triplet",
+    "meanings_de": ["Drilling", "Dreiergruppe"],
+    "definitions_de": ["eines von drei Kindern, die bei derselben Geburt von derselben Mutter geboren werden", "Gruppe oder Satz von drei ähnlichen Dingen, die zusammen auftreten"],
+    "examples_de": [["Die **Drillinge** feierten gemeinsam ihren fünften Geburtstag", "**Drillinge** großzuziehen erfordert enorme Energie und Geduld"], ["Das Gedicht enthält **Dreizeiler** mit reimenden Versen", "Musikalische **Triolen** erzeugen interessante rhythmische Muster"]]
+  },
+  {
+    "lemma": "tripling",
+    "meanings_de": ["Verdreifachung"],
+    "definitions_de": ["Vorgang des Multiplizierens mit drei oder des Dreimal-größer-Werdens"],
+    "examples_de": [["Die **Verdreifachung** der Preise schockierte landesweit die Verbraucher", "Die **Verdreifachung** der Bevölkerung belastete die städtischen Ressourcen erheblich"]]
+  },
+  {
+    "lemma": "tripod",
+    "meanings_de": ["dreibeinige Stütze"],
+    "definitions_de": ["Ständer mit drei Beinen zur Unterstützung von Kamera, Teleskop oder anderer Ausrüstung"],
+    "examples_de": [["Die Fotografin justierte ihre Kamera auf dem **Stativ**", "Ein stabiles **Stativ** verhindert verschwommene Teleskopbilder"]]
+  },
+  {
+    "lemma": "tripoli",
+    "meanings_de": ["Polierpulver"],
+    "definitions_de": ["feines Pulver aus verwittertem Kalkstein zum Polieren und Schleifen"],
+    "examples_de": [["Juweliere verwenden **Tripel** zum Polieren von Silberstücken", "Der Handwerker trug **Tripel** für den letzten Schliff auf"]]
+  },
+  {
+    "lemma": "tripper",
+    "meanings_de": ["Ausflugstourist", "Auslösevorrichtung"],
+    "definitions_de": ["Person, die einen kurzen Vergnügungsausflug oder eine Exkursion unternimmt", "mechanische Vorrichtung, die einen Mechanismus auslöst oder freigibt"],
+    "examples_de": [["Tages**touristen** überfüllten den Strand an Wochenenden", "Reisebusse brachten **Ausflügler** zum Schloss"], ["Der Sicherheits**auslöser** stoppt die Maschine automatisch", "Justieren Sie den **Auslöser**mechanismus für richtiges Timing"]]
+  },
+  {
+    "lemma": "triptych",
+    "meanings_de": ["dreiteiliges Kunstwerk"],
+    "definitions_de": ["Bild oder Schnitzerei auf drei Tafeln, typischerweise seitlich mit Scharnieren verbunden"],
+    "examples_de": [["Das mittelalterliche **Triptychon** zeigt Szenen aus dem Leben der Heiligen", "Moderne Künstler schaffen abstrakte **Triptychen** für Galerien"]]
+  },
+  {
+    "lemma": "triton",
+    "meanings_de": ["Meeresgottheit", "große Schnecke"],
+    "definitions_de": ["griechischer Meeresgott, dargestellt als Meermann mit Dreizack und Muschelhorn", "große Meeresschnecke mit spiralförmigem Gehäuse, das als Trompete verwendet wird"],
+    "examples_de": [["Antike Mosaike zeigen **Triton**, wie er sein Muschelhorn bläst", "**Triton** diente als Bote für seinen Vater Poseidon"], ["Sammler schätzen die schönen **Tritonschnecken**", "Pazifikinseln nutzten **Tritonshörner** für Zeremonien"]]
+  },
+  {
+    "lemma": "triumph",
+    "meanings_de": ["großer Sieg", "Siegesfreude"],
+    "definitions_de": ["großer Sieg oder Erfolg, besonders nach schwierigem Kampf", "Gefühl großer Befriedigung oder Freude als Ergebnis eines Erfolgs"],
+    "examples_de": [["Die Meisterschaft des Teams war ihr größter **Triumph**", "Wissenschaftliche **Triumphe** haben die moderne Medizin verwandelt"], ["Sie empfand **Triumph**, nachdem sie die Anwaltsprüfung bestanden hatte", "Sein Gesicht zeigte **Triumphgefühl**, als er die Ziellinie überquerte"]]
+  },
+  {
+    "lemma": "triumvirate",
+    "meanings_de": ["Dreierherrschaft"],
+    "definitions_de": ["Gruppe von drei Personen, die Macht, Autorität oder Einfluss gleichmäßig teilen"],
+    "examples_de": [["Das römische **Triumvirat** teilte die Kontrolle über das Reich", "Ein Unternehmens**triumvirat** führt jetzt die Firma"]]
+  }
+]

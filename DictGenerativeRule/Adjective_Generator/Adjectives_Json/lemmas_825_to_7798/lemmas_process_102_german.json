@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "stout",
+    "meanings_de": ["kräftig und stark", "mutig und entschlossen"],
+    "definitions_de": ["von kräftigem, stabilem Körperbau, der physische Stärke und Widerstandsfähigkeit ausstrahlt", "tapfere Entschlossenheit und Standhaftigkeit zeigend, wenn man schwierigen oder gefährlichen Situationen gegenübersteht"],
+    "examples_de": [["Die **stabilen** Holzbalken trugen das Dach der alten Scheune", "Sie schenkte Kaffee in einen **robusten** Keramikbecher ein"], ["Seine **mutige** Verteidigung seiner Prinzipien erntete allgemeinen Respekt", "Die Soldaten leisteten **tapferen** Widerstand gegen die Übermacht"]]
+  },
+  {
+    "lemma": "straggling",
+    "meanings_de": ["unregelmäßig ausgebreitet", "langsam hinterhertrottelnd"],
+    "definitions_de": ["in unordentlicher, unregelmäßiger Weise wachsend oder sich ausbreitend ohne klares Muster oder Ordnung", "sich langsam bewegend und hinter der Hauptgruppe zurückbleibend oder aus der Formation fallend"],
+    "examples_de": [["Die **wild wuchernden** Ranken bedeckten den Gartenzaun ungleichmäßig", "Ein paar **vereinzelte** Häuser markierten den Stadtrand"], ["Die **nachzügelnden** Wanderer erreichten das Lager erst nach Einbruch der Dunkelheit", "**Versprengte** Soldaten trafen Stunden nach der Haupttruppe ein"]]
+  },
+  {
+    "lemma": "straightaway",
+    "meanings_de": ["unmittelbar und direkt"],
+    "definitions_de": ["sofort ohne Verzögerung geschehend oder auf direktem Wege verlaufend"],
+    "examples_de": [["Sie gab eine **sofortige** Antwort auf die Frage", "Die **unmittelbare** Reaktion überraschte alle Anwesenden"]]
+  },
+  {
+    "lemma": "straightforward",
+    "meanings_de": ["einfach und klar", "ehrlich und direkt"],
+    "definitions_de": ["leicht zu verstehen oder durchzuführen ohne Komplikationen oder Schwierigkeiten", "ehrlich und offen in Art und Weise oder Sprache ohne Ausflüchte oder Täuschung"],
+    "examples_de": [["Die Anweisungen waren **unkompliziert** und leicht zu befolgen", "Diese Matheaufgabe hat eine **einfache** Lösung"], ["Ich schätze Ihre **direkte** Herangehensweise an das Problem", "Sie ist immer **geradlinig**, was ihre Gefühle und Meinungen betrifft"]]
+  },
+  {
+    "lemma": "strained",
+    "meanings_de": ["angespannt zeigend", "gezwungen und unnatürlich"],
+    "definitions_de": ["Anzeichen von nervöser Anspannung, Sorge oder Stress zeigend", "nicht natürlich oder echt, sondern mit offensichtlicher Anstrengung erzwungen"],
+    "examples_de": [["Ihr **angespannter** Gesichtsausdruck verriet den Druck, unter dem sie stand", "Die **gespannte** Atmosphäre machte alle unbehaglich"], ["Ihre **verkrampfte** Unterhaltung entbehrte der gewohnten Wärme", "Er brachte nur ein **gequältes** Lächeln über den Witz zustande"]]
+  },
+  {
+    "lemma": "straining",
+    "meanings_de": ["sich sehr anstrengend", "bis zur Grenze dehnend"],
+    "definitions_de": ["eine anstrengende Bemühung unternehmend, um etwas Schwieriges zu tun oder zu erreichen", "etwas bis zu seiner maximalen Kapazität oder Grenze dehnend oder ziehend"],
+    "examples_de": [["Die **sich abmühenden** Athleten kämpften sich zur Ziellinie vor", "Ihre **angestrengte** Stimme zeigte, dass sie sich zu sehr bemühte"], ["Das **gespannte** Seil sah aus, als würde es gleich reißen", "Das **überstrapazierte** Budget konnte keine weiteren Ausgaben verkraften"]]
+  },
+  {
+    "lemma": "strait",
+    "meanings_de": ["eng und begrenzt"],
+    "definitions_de": ["wenig Platz oder Raum habend und daher schwierig zu passieren"],
+    "examples_de": [["Die **enge** Passage zwischen den Klippen war gefährlich", "Sie navigierten durch **schmale** Kanäle im Riff"]]
+  },
+  {
+    "lemma": "stranded",
+    "meanings_de": ["hilflos zurückgelassen"],
+    "definitions_de": ["ohne Mittel zur Fortbewegung von einem Ort oder in hilfloser Position zurückgelassen"],
+    "examples_de": [["Die **gestrandeten** Reisenden warteten auf Rettung", "**Gestrandete** Wale brauchen sofortige Hilfe zum Überleben"]]
+  },
+  {
+    "lemma": "strangled",
+    "meanings_de": ["erstickt oder eingeengt", "unterdrückt oder eingeschränkt"],
+    "definitions_de": ["gewürgt oder eingeengt, als ob durch Druck um den Hals", "zurückgehalten, unterdrückt oder daran gehindert, sich natürlich auszudrücken oder zu entwickeln"],
+    "examples_de": [["Sein **erstickter** Schrei entwich kaum seiner Kehle", "Das **erstickte** Keuchen zeigte ihren Schock und ihre Angst"], ["Die **erdrosselte** Wirtschaft kämpfte unter schweren Regulierungen", "Ihre **unterdrückte** Kreativität brauchte Freiheit zum Aufblühen"]]
+  },
+  {
+    "lemma": "strapping",
+    "meanings_de": ["groß und kräftig"],
+    "definitions_de": ["von großer, kräftiger und gesunder körperlicher Erscheinung, die Vitalität ausstrahlt"],
+    "examples_de": [["Der **stämmige** junge Mann hob mühelos die schweren Kisten", "Mehrere **kräftige** Landarbeiter halfen bei der Ernte"]]
+  },
+  {
+    "lemma": "stratified",
+    "meanings_de": ["in Schichten angeordnet"],
+    "definitions_de": ["in Lagen oder Schichten gebildet, angeordnet oder abgelagert, oft verschiedene Ebenen zeigend"],
+    "examples_de": [["Die **geschichteten** Felsformationen offenbarten die geologische Geschichte", "Ihre **stratifizierte** Gesellschaft hatte starre Klassenunterschiede"]]
+  },
+  {
+    "lemma": "straw",
+    "meanings_de": ["blassgelbe Farbe"],
+    "definitions_de": ["die blassgelbe Farbe getrockneter Getreidehalme habend"],
+    "examples_de": [["Sie trug einen **strohfarbenen** Hut zum Sonnenschutz", "Das **strohblonde** Haar glänzte im hellen Sonnenlicht"]]
+  },
+  {
+    "lemma": "stray",
+    "meanings_de": ["vom Weg abgekommen", "vereinzelt oder zufällig"],
+    "definitions_de": ["vom richtigen Weg oder von zu Hause weggewandert", "zufällig oder isoliert auftretend statt als Teil einer Gruppe"],
+    "examples_de": [["Ein **streunender** Hund tauchte an ihrer Türschwelle auf", "Das **verirrte** Schaf hatte sich von der Herde entfernt"], ["Ein paar **vereinzelte** Haare entwichen aus ihrem Pferdeschwanz", "**Zerstreute** Gedanken störten seine Konzentration bei der Arbeit"]]
+  },
+  {
+    "lemma": "straying",
+    "meanings_de": ["vom Kurs abweichend"],
+    "definitions_de": ["sich vom beabsichtigten Weg, Thema oder angemessenen Verhalten entfernend"],
+    "examples_de": [["Seine **abschweifende** Aufmerksamkeit erschwerte die Konzentration", "Das **abschweifen de** Gespräch entfernte sich weit vom eigentlichen Punkt"]]
+  },
+  {
+    "lemma": "streaked",
+    "meanings_de": ["mit Streifen versehen"],
+    "definitions_de": ["mit langen dünnen Linien oder Bändern kontrastierender Farbe oder Textur markiert"],
+    "examples_de": [["Ihr **gestreiftes** Haar kombinierte Blond und Braun", "Die **verschmierten** Fenster brauchten eine gründliche Reinigung"]]
+  },
+  {
+    "lemma": "streaky",
+    "meanings_de": ["ungleichmäßig gestreift", "inkonsistent in Qualität"],
+    "definitions_de": ["durch unregelmäßige Streifen oder Linien oft in ungleichmäßigem Muster gekennzeichnet", "unbeständige Leistung oder Qualität zeigend, die zwischen gut und schlecht schwankt"],
+    "examples_de": [["Die **streifige** Lackierung brauchte noch einen Anstrich", "**Durchwachsener** Speck hat abwechselnd Fett und Fleisch"], ["Die **wechselhafte** Leistung des Teams frustrierte ihre Fans", "Sein **unbeständiger** Schlagdurchschnitt verbesserte sich gegen Saisonende"]]
+  },
+  {
+    "lemma": "streaming",
+    "meanings_de": ["kontinuierlich fließend"],
+    "definitions_de": ["kontinuierlich in einem stetigen Strom wie Wasser fließend oder sich bewegend"],
+    "examples_de": [["**Strömende** Tränen liefen über ihr Gesicht", "Die **strömenden** Daten erforderten eine hohe Bandbreite"]]
+  },
+  {
+    "lemma": "streamlined",
+    "meanings_de": ["glatt geformt", "effizient organisiert"],
+    "definitions_de": ["eine glatte Form habend, die den Widerstand beim Bewegen durch Luft oder Wasser reduziert", "so organisiert, dass es einfacher und effizienter funktioniert durch Entfernen unnötiger Elemente"],
+    "examples_de": [["Das **stromlinienförmige** Autodesign verbesserte die Kraftstoffeffizienz", "Vögel haben **stromlinienförmige** Körper für effizienten Flug"], ["Der **verschlankte** Prozess sparte Zeit und Geld", "Sie erstellten eine **optimierte** Version der Anwendung"]]
+  },
+  {
+    "lemma": "streetwise",
+    "meanings_de": ["straßenerfahren"],
+    "definitions_de": ["das Wissen und die Erfahrung besitzend, die man braucht, um mit dem modernen Stadtleben umzugehen"],
+    "examples_de": [["Der **straßenkluge** Teenager wusste, wie er sicher bleiben konnte", "Ihre **weltgewandte** Einstellung kam von jahrelangem Stadtleben"]]
+  },
+  {
+    "lemma": "strengthened",
+    "meanings_de": ["verstärkt gemacht"],
+    "definitions_de": ["stärker oder kraftvoller gemacht in physischer Kraft oder struktureller Integrität"],
+    "examples_de": [["Die **verstärkten** Wände konnten Erdbeben besser standhalten", "Ihre **gefestigte** Beziehung überstand viele Herausforderungen"]]
+  },
+  {
+    "lemma": "strenuous",
+    "meanings_de": ["große Anstrengung erfordernd"],
+    "definitions_de": ["große Anstrengung, Energie oder Kraftaufwand erfordernd oder verwendend, um etwas zu vollbringen"],
+    "examples_de": [["Die **anstrengende** Wanderung ließ alle erschöpft zurück", "Sie protestierte gegen die **strapaziösen** Arbeitsbedingungen"]]
+  },
+  {
+    "lemma": "stressed",
+    "meanings_de": ["unter psychischer Belastung", "stark betont"],
+    "definitions_de": ["mentale oder emotionale Belastung durch anspruchsvolle Umstände erlebend", "besondere Betonung oder Wichtigkeit durch Kraft oder Akzent verliehen"],
+    "examples_de": [["Die **gestressten** Studenten bereiteten sich auf die Abschlussprüfungen vor", "Er fühlte sich **gestresst** wegen der Deadline"], ["Die **betonte** Silbe bestimmt die Aussprache des Wortes", "Sie betonte bestimmte Punkte in ihrer Präsentation **nachdrücklich**"]]
+  },
+  {
+    "lemma": "stressful",
+    "meanings_de": ["psychische Belastung verursachend"],
+    "definitions_de": ["mentale oder emotionale Spannung, Sorge oder Angst verursachend"],
+    "examples_de": [["Der Umzug in eine neue Stadt ist immer **stressig**", "Der **belastende** Job beeinträchtigte seine Gesundheit"]]
+  },
+  {
+    "lemma": "stretched",
+    "meanings_de": ["in Länge ausgedehnt", "bis zur Grenze gebracht"],
+    "definitions_de": ["gezogen oder ausgedehnt, um länger oder breiter als normal zu werden", "bis zur maximalen Kapazität oder über bequeme Grenzen hinaus ausgedehnt"],
+    "examples_de": [["Der **gedehnte** Stoff verlor seine ursprüngliche Form", "Ein **gespanntes** Gummiband speichert potenzielle Energie"], ["Ihr **überspanntes** Budget deckte kaum die Grundbedürfnisse", "Die **überstrapazierten** Ressourcen konnten den wachsenden Anforderungen nicht gerecht werden"]]
+  },
+  {
+    "lemma": "stricken",
+    "meanings_de": ["schwer betroffen von"],
+    "definitions_de": ["ernsthaft von etwas Unangenehmem wie Krankheit, Trauer oder Katastrophe betroffen"],
+    "examples_de": [["Die **heimgesuchte** Gemeinde kämpfte nach der Überschwemmung", "Ihr **schmerzerfüllter** Ausdruck offenbarte ihre tiefe Trauer"]]
+  },
+  {
+    "lemma": "strident",
+    "meanings_de": ["laut und schrill"],
+    "definitions_de": ["laut, schrill und kratzig im Klang oder in der Art des Ausdrucks"],
+    "examples_de": [["Seine **schrille** Stimme trug durch den ganzen Raum", "Die **scharfe** Kritik verärgerte viele Ausschussmitglieder"]]
+  },
+  {
+    "lemma": "striking",
+    "meanings_de": ["Aufmerksamkeit erregend", "bemerkenswert oder beeindruckend"],
+    "definitions_de": ["Aufmerksamkeit erregend durch Ungewöhnlichkeit, Extremität oder Auffälligkeit", "eine bemerkenswerte oder beeindruckende Qualität habend, die einen starken Eindruck hinterlässt"],
+    "examples_de": [["Ihr **auffälliges** Erscheinungsbild zog überall Blicke auf sich", "Der **markante** Kontrast zwischen alter und neuer Architektur"], ["Die Daten zeigten **bemerkenswerte** Leistungsverbesserungen", "Es gibt eine **verblüffende** Ähnlichkeit zwischen den beiden Fällen"]]
+  },
+  {
+    "lemma": "stringent",
+    "meanings_de": ["streng und präzise"],
+    "definitions_de": ["streng, präzise und anspruchsvoll in Regeln, Anforderungen oder Standards"],
+    "examples_de": [["Das Labor befolgt **strenge** Sicherheitsprotokolle", "**Rigorose** Budgetkontrollen verhinderten Überschreitungen"]]
+  },
+  {
+    "lemma": "striped",
+    "meanings_de": ["mit Streifen versehen"],
+    "definitions_de": ["mit langen Bändern kontrastierender Farbe markiert, die parallel verlaufen"],
+    "examples_de": [["Das **gestreifte** Hemd war sein Lieblingsstück", "Eine **gestreifte** Markise spendete dem Schaufenster Schatten"]]
+  },
+  {
+    "lemma": "stripped",
+    "meanings_de": ["der Bedeckung beraubt", "auf das Wesentliche reduziert"],
+    "definitions_de": ["Bedeckung, Kleidung oder äußere Schicht entfernt habend", "auf die grundlegendsten oder wesentlichen Elemente reduziert mit entfernten Extras"],
+    "examples_de": [["Die **abgezogenen** Wände warteten auf neue Farbe", "**Abisolierte** Drähte können gefährlich sein, wenn man sie berührt"], ["Die **abgespeckte** Version enthielt nur Kernfunktionen", "Sein **schmuckloser** Prosastil vermied alle Schnörkel"]]
+  },
+  {
+    "lemma": "struck",
+    "meanings_de": ["tief beeindruckt von"],
+    "definitions_de": ["stark von etwas betroffen oder beeindruckt auf eine Weise, die Aufmerksamkeit fesselt"],
+    "examples_de": [["Ich war **beeindruckt** von ihrer bemerkenswerten Intelligenz", "Er schien **ergriffen** von der Schönheit der Landschaft"]]
+  },
+  {
+    "lemma": "structured",
+    "meanings_de": ["systematisch organisiert"],
+    "definitions_de": ["nach einem System oder Plan mit klarem Rahmen angeordnet oder organisiert"],
+    "examples_de": [["Der **strukturierte** Ansatz half den Schülern, besser zu lernen", "Ein **strukturiertes** Interview folgt spezifischen Fragen"]]
+  },
+  {
+    "lemma": "struggling",
+    "meanings_de": ["Schwierigkeiten habend"],
+    "definitions_de": ["Schwierigkeiten erlebend oder große Anstrengungen unternehmend, um etwas zu erreichen oder zu überleben"],
+    "examples_de": [["Das **kämpfende** Unternehmen brauchte sofortige Hilfe", "**Schwache** Schüler erhielten zusätzliche Nachhilfe"]]
+  },
+  {
+    "lemma": "strung",
+    "meanings_de": ["an Schnur aufgehängt", "angespannt und nervös"],
+    "definitions_de": ["an einer Schnur, einem Faden oder Draht aufgehängt oder angeordnet", "in einem Zustand nervöser Anspannung oder emotionaler Belastung"],
+    "examples_de": [["**Aufgehängte** Lichter schmückten die Terrasse", "Auf Seide **aufgereihte** Perlen ergaben eine elegante Halskette"], ["Sie fühlte sich **angespannt** und ängstlich vor dem Vorstellungsgespräch", "Die **gespannte** Atmosphäre machte alle unbehaglich"]]
+  },
+  {
+    "lemma": "stubborn",
+    "meanings_de": ["sich weigernd zu ändern", "schwer zu entfernen"],
+    "definitions_de": ["sich weigernd, die eigene Meinung oder Handlungsweise trotz Überredung zu ändern", "schwer zu bewegen, zu entfernen oder zu heilen trotz Bemühungen"],
+    "examples_de": [["Seine **sture** Weigerung, Kompromisse einzugehen, verursachte Probleme", "Das **eigensinnige** Kind wollte sein Gemüse nicht essen"], ["Der **hartnäckige** Fleck erforderte spezielle Reinigungsprodukte", "Ein **hartnäckiger** Husten hielt mehrere Wochen an"]]
+  },
+  {
+    "lemma": "stubby",
+    "meanings_de": ["kurz und dick"],
+    "definitions_de": ["kurz und dick in Form oder Gestalt statt lang und dünn"],
+    "examples_de": [["Seine **stumpfen** Finger hatten Schwierigkeiten bei filigraner Arbeit", "Der Hund wedelte begeistert mit seinem **kurzen** Schwanz"]]
+  },
+  {
+    "lemma": "stuck",
+    "meanings_de": ["unfähig sich zu bewegen", "unfähig voranzukommen"],
+    "definitions_de": ["in Position fixiert und unfähig, sich zu bewegen oder bewegt zu werden", "unfähig, Fortschritte zu machen oder mit etwas fortzufahren"],
+    "examples_de": [["Die **klemmende** Tür öffnete sich trotz Drückens nicht", "Mein Auto blieb im Schlamm **stecken**"], ["Ich **hänge** bei dieser Matheaufgabe **fest**", "Sie fühlte sich in einem Sackgassenjob **gefangen**"]]
+  },
+  {
+    "lemma": "studded",
+    "meanings_de": ["mit Nieten verziert"],
+    "definitions_de": ["mit Nieten, Juwelen oder ähnlichen erhabenen Ornamenten verziert oder bedeckt"],
+    "examples_de": [["Ihre **nietenbesetzte** Lederjacke sah kantig aus", "Das **nietenbesetzte** Halsband gehörte einem großen Hund"]]
+  },
+  {
+    "lemma": "studied",
+    "meanings_de": ["sorgfältig geplant"],
+    "definitions_de": ["sorgfältig überlegt und bewusst statt natürlich oder spontan"],
+    "examples_de": [["Seine **gespielte** Gleichgültigkeit täuschte niemanden", "Sie sprach mit **kalkulierter** Präzision über das Thema"]]
+  },
+  {
+    "lemma": "studious",
+    "meanings_de": ["dem Studium gewidmet"],
+    "definitions_de": ["viel Zeit mit Studieren oder Lesen mit sorgfältiger Aufmerksamkeit verbringend"],
+    "examples_de": [["Der **fleißige** Student verbrachte Stunden in der Bibliothek", "Ihre **lernbegierige** Natur half ihr, akademisch zu glänzen"]]
+  },
+  {
+    "lemma": "stuffed",
+    "meanings_de": ["mit Füllung gefüllt", "unangenehm voll"],
+    "definitions_de": ["mit weichem Material oder Essensfüllung im Inneren von etwas gefüllt", "so viel gegessen habend, dass man sich unangenehm voll fühlt"],
+    "examples_de": [["Die **Stofftiere** reihten sich auf dem Kinderbett auf", "Wir bestellten **gefüllte** Paprika zum Abendessen"], ["Ich fühlte mich nach dem riesigen Essen völlig **vollgestopft**", "Alle waren zu **satt**, um noch Nachtisch zu essen"]]
+  },
+  {
+    "lemma": "stuffy",
+    "meanings_de": ["ohne frische Luft", "förmlich und langweilig"],
+    "definitions_de": ["ohne frische Luft oder Belüftung und sich drückend warm anfühlend", "förmlich, aufgeblasen und altmodisch in der Art, ohne Spontaneität"],
+    "examples_de": [["Der **stickige** Raum brauchte dringend geöffnete Fenster", "Ohne Klimaanlage wird es hier drin **schwül**"], ["Der **steife** Professor lächelte nie", "Dieser **spießige** Club hat zu viele Regeln"]]
+  },
+  {
+    "lemma": "stung",
+    "meanings_de": ["durch Kritik verletzt"],
+    "definitions_de": ["emotional durch harte Worte, Kritik oder Ablehnung verletzt"],
+    "examples_de": [["Er fühlte sich **getroffen** von ihren harschen Kommentaren", "Sie war **verletzt** durch ihren Mangel an Wertschätzung"]]
+  },
+  {
+    "lemma": "stunned",
+    "meanings_de": ["schockiert und verwirrt"],
+    "definitions_de": ["so schockiert oder überrascht, dass man vorübergehend unfähig ist zu reagieren"],
+    "examples_de": [["Das **fassungslose** Publikum saß in völliger Stille", "Sie sah **verblüfft** aus, als sie die Nachricht hörte"]]
+  },
+  {
+    "lemma": "stunted",
+    "meanings_de": ["am Wachsen gehindert"],
+    "definitions_de": ["daran gehindert, richtig zur normalen Größe zu wachsen oder sich zu entwickeln"],
+    "examples_de": [["Die **verkümmerten** Bäume zeigten die Auswirkungen schlechten Bodens", "Unterernährung verursachte **gehemmtes** Wachstum bei Kindern"]]
+  },
+  {
+    "lemma": "stupendous",
+    "meanings_de": ["äußerst beeindruckend"],
+    "definitions_de": ["äußerst beeindruckend oder erstaunlich aufgrund von Größe, Kraft oder Exzellenz"],
+    "examples_de": [["Das **überwältigende** Feuerwerk begeisterte alle", "Sie unternahm eine **gewaltige** Anstrengung, um fertig zu werden"]]
+  },
+  {
+    "lemma": "sturdy",
+    "meanings_de": ["stabil gebaut"],
+    "definitions_de": ["stark gebaut oder hergestellt, um haltbar zu sein und rauem Gebrauch standzuhalten"],
+    "examples_de": [["Der **robuste** Tisch konnte schweres Gewicht tragen", "Kinder brauchen **strapazierfähige** Schuhe für aktives Spielen"]]
+  },
+  {
+    "lemma": "stylised",
+    "meanings_de": ["künstlich formalisiert"],
+    "definitions_de": ["in einem vereinfachten, konventionellen oder künstlichen künstlerischen Stil dargestellt"],
+    "examples_de": [["Die **stilisierten** Zeichnungen erfassten wesentliche Merkmale", "Ihre **stilisierten** Tanzbewegungen folgten bestimmten Mustern"]]
+  },
+  {
+    "lemma": "stylish",
+    "meanings_de": ["modisch elegant"],
+    "definitions_de": ["einen guten Sinn für Stil und modische Eleganz habend oder zeigend"],
+    "examples_de": [["Ihr **stilvolles** Outfit beeindruckte alle auf der Party", "Das Restaurant hatte ein **schickes** modernes Dekor"]]
+  },
+  {
+    "lemma": "stylistic",
+    "meanings_de": ["den Stil betreffend"],
+    "definitions_de": ["sich auf den Stil von etwas beziehend statt auf dessen Substanz oder Inhalt"],
+    "examples_de": [["Die **stilistischen** Unterschiede zwischen den Autoren waren deutlich", "Sie nahm **stilistische** Änderungen vor, um das Schreiben zu verbessern"]]
+  }
+]

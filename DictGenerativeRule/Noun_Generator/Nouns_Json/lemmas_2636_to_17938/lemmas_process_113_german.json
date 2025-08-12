@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "intercom",
+    "meanings_de": ["Gegensprechanlage"],
+    "definitions_de": ["Elektronisches Kommunikationssystem, das Sprachverbindungen zwischen verschiedenen Räumen oder Gebäuden ermöglicht"],
+    "examples_de": [["Bitte nutzen Sie die **Gegensprechanlage**, um die Rezeption zu erreichen", "Die Durchsage über die **Sprechanlage** der Schule kündigte die Feueralarmübung an"]]
+  },
+  {
+    "lemma": "interconnection",
+    "meanings_de": ["gegenseitige Verbindung"],
+    "definitions_de": ["Zustand der wechselseitigen Verbindung durch gemeinsame Verknüpfungen oder Beziehungen"],
+    "examples_de": [["Die **Verflechtung** der globalen Märkte beeinflusst lokale Wirtschaftsräume", "Wissenschaftler erforschen die **Vernetzung** von Ökosystemen in Naturschutzgebieten"]]
+  },
+  {
+    "lemma": "intercourse",
+    "meanings_de": ["Geschlechtsverkehr", "Austausch und Kommunikation"],
+    "definitions_de": ["Körperliche sexuelle Aktivität zwischen Menschen mit Beteiligung der Geschlechtsorgane", "Gesellschaftliche Kommunikation oder Umgang zwischen Personen oder Gruppen"],
+    "examples_de": [["**Geschlechtsverkehr** sollte stets einvernehmlich zwischen Erwachsenen stattfinden", "Der Arzt klärte über sicheren **Verkehr** und Verhütungsmethoden auf"], ["Der diplomatische **Austausch** zwischen Nationen erfordert sorgfältige Protokolle", "Der wirtschaftliche **Verkehr** zwischen beiden Ländern hat deutlich zugenommen"]]
+  },
+  {
+    "lemma": "interdependence",
+    "meanings_de": ["wechselseitige Abhängigkeit"],
+    "definitions_de": ["Zustand, in dem zwei oder mehr Dinge voneinander abhängen und sich gegenseitig stützen"],
+    "examples_de": [["Die **Interdependenz** von Pflanzen und Bestäubern erhält Ökosysteme aufrecht", "Die wirtschaftliche **Verflechtung** zwischen Ländern schafft sowohl Chancen als auch Risiken"]]
+  },
+  {
+    "lemma": "interdict",
+    "meanings_de": ["offizielles Verbot"],
+    "definitions_de": ["Autoritatives Verbot oder Untersagung durch ein Gericht oder eine religiöse Autorität"],
+    "examples_de": [["Das Gericht erließ ein **Interdikt** gegen die Veröffentlichung der Geschichte", "Das päpstliche **Verbot** untersagte religiöse Handlungen in der Region"]]
+  },
+  {
+    "lemma": "interdiction",
+    "meanings_de": ["Unterbindung"],
+    "definitions_de": ["Handlung des Verbietens oder Unterbindens, besonders durch rechtliche oder militärische Mittel"],
+    "examples_de": [["Die **Unterbindung** des Drogenhandels konzentriert sich auf Grenzkontrollen", "Die maritime **Abfangaktion** verhinderte Waffenlieferungen ins Konfliktgebiet"]]
+  },
+  {
+    "lemma": "interference",
+    "meanings_de": ["störende Einmischung"],
+    "definitions_de": ["Handlung des Eingreifens oder Zustand der Störung, der Unterbrechungen verursacht"],
+    "examples_de": [["Die **Störung** im Funkverkehr erschwerte den Empfang der Sendung erheblich", "Eltern beklagten die staatliche **Einmischung** in Bildungsentscheidungen"]]
+  },
+  {
+    "lemma": "interim",
+    "meanings_de": ["Übergangszeit"],
+    "definitions_de": ["Vorübergehender Zeitraum zwischen zwei Ereignissen oder provisorische Regelung"],
+    "examples_de": [["Sie fungierte als **Interims**direktorin bis zur Einstellung eines dauerhaften Nachfolgers", "Der **Zwischenbericht** zeigte vielversprechende Ergebnisse des Forschungsprojekts"]]
+  },
+  {
+    "lemma": "interlock",
+    "meanings_de": ["Verriegelungsmechanismus"],
+    "definitions_de": ["Vorrichtung oder Mechanismus, der Teile miteinander verbindet und unabhängigen Betrieb verhindert"],
+    "examples_de": [["Die Sicherheits**verriegelung** verhindert ein versehentliches Starten der Maschine", "Die Puzzleteile **greifen ineinander** und ergeben ein vollständiges Bild"]]
+  },
+  {
+    "lemma": "interlocking",
+    "meanings_de": ["ineinandergreifendes Muster"],
+    "definitions_de": ["Anordnung, bei der Teile zusammenpassen oder sich gegenseitig abhängig verbinden"],
+    "examples_de": [["Die **ineinandergreifenden** Beweisstücke bildeten eine starke Rechtsgrundlage", "Unternehmensgremien mit **verflochtenen** Aufsichtsratsmandaten werfen Governance-Fragen auf"]]
+  },
+  {
+    "lemma": "interlocutor",
+    "meanings_de": ["Gesprächspartner"],
+    "definitions_de": ["Person, die an einem Dialog oder Gespräch mit einer anderen Person teilnimmt"],
+    "examples_de": [["Der erfahrene **Gesprächspartner** hielt die diplomatischen Verhandlungen in Gang", "Sie empfand die Argumente ihres **Gegenübers** als herausfordernd und anregend"]]
+  },
+  {
+    "lemma": "interlude",
+    "meanings_de": ["kurze Zwischenzeit"],
+    "definitions_de": ["Kurzer Zeitraum zwischen Hauptereignissen oder vorübergehende Unterhaltung zwischen Akten"],
+    "examples_de": [["Die friedliche **Zwischenphase** zwischen den Stürmen ermöglichte Reparaturarbeiten", "Musiker führten ein musikalisches **Zwischenspiel** auf, während die Bühnenbilder gewechselt wurden"]]
+  },
+  {
+    "lemma": "intermarriage",
+    "meanings_de": ["Mischehe"],
+    "definitions_de": ["Eheschließung zwischen Menschen verschiedener Rassen, Religionen oder sozialer Gruppen"],
+    "examples_de": [["**Mischehen** zwischen den Gemeinschaften haben die soziale Integration im Laufe der Zeit gefördert", "Historische Gesetze, die **interkonfessionelle Ehen** verboten, wurden für verfassungswidrig erklärt"]]
+  },
+  {
+    "lemma": "intermediary",
+    "meanings_de": ["Vermittler"],
+    "definitions_de": ["Person, die als Bindeglied zwischen Menschen fungiert, um eine Einigung zu erzielen"],
+    "examples_de": [["Der Anwalt fungierte als **Vermittler** in den Geschäftsverhandlungen", "Finanz**intermediäre** helfen dabei, Kreditnehmer mit potenziellen Geldgebern zu verbinden"]]
+  },
+  {
+    "lemma": "intermediate",
+    "meanings_de": ["mittlere Stufe"],
+    "definitions_de": ["Zwischen zwei Dingen in Zeit, Ort, Reihenfolge oder Charakter liegend"],
+    "examples_de": [["Schüler entwickeln sich von der Anfänger- über die **Mittelstufe** zur Fortgeschrittenenstufe", "Die **Zwischenphase** des Projekts erfordert sorgfältige Qualitätskontrolle"]]
+  },
+  {
+    "lemma": "interment",
+    "meanings_de": ["Beisetzung"],
+    "definitions_de": ["Handlung oder Zeremonie der Beerdigung einer verstorbenen Person in einem Grab"],
+    "examples_de": [["Die **Beisetzung** fand auf dem Familienfriedhof statt", "Archäologische Ausgrabungen enthüllten alte **Bestattungs**praktiken und Grabbeigaben"]]
+  },
+  {
+    "lemma": "intermezzo",
+    "meanings_de": ["musikalisches Zwischenspiel"],
+    "definitions_de": ["Kurzer verbindender Instrumentalsatz in einer Oper oder einem anderen Musikwerk"],
+    "examples_de": [["Das Orchester führte ein zartes **Intermezzo** zwischen den dramatischen Akten auf", "Brahms komponierte mehrere wunderschöne **Intermezzi** für Soloklavier"]]
+  },
+  {
+    "lemma": "intermission",
+    "meanings_de": ["Aufführungspause"],
+    "definitions_de": ["Pause oder Unterbrechung zwischen Teilen eines Theaterstücks, Konzerts oder einer anderen Aufführung"],
+    "examples_de": [["In der **Pause** sind Erfrischungen im Foyer erhältlich", "Die zwanzigminütige **Unterbrechung** erlaubte dem Publikum, sich zu strecken und zu unterhalten"]]
+  },
+  {
+    "lemma": "intern",
+    "meanings_de": ["Praktikant"],
+    "definitions_de": ["Student oder Absolvent, der arbeitet, um praktische Erfahrungen im Beruf zu sammeln"],
+    "examples_de": [["Der Medizin**praktikant** arbeitete lange Stunden im Lehrkrankenhaus", "Sommer**praktikanten** sammeln wertvolle Erfahrungen und tragen zu Firmenprojekten bei"]]
+  },
+  {
+    "lemma": "internalization",
+    "meanings_de": ["Verinnerlichungsprozess"],
+    "definitions_de": ["Prozess der Aufnahme von Wissen, Werten oder Mustern in das eigene Denken"],
+    "examples_de": [["Die **Verinnerlichung** kultureller Werte beginnt in der frühen Kindheitsentwicklung", "Die Therapie half bei der Bewältigung der **Internalisierung** negativer Selbstüberzeugungen"]]
+  },
+  {
+    "lemma": "internationalism",
+    "meanings_de": ["Internationalismus"],
+    "definitions_de": ["Politisches Prinzip, das für größere Zusammenarbeit zwischen Nationen und Völkern weltweit eintritt"],
+    "examples_de": [["Der Nachkriegs**internationalismus** führte zur Gründung der Vereinten Nationen", "Der wirtschaftliche **Internationalismus** fördert den freien Handel zwischen allen Ländern"]]
+  },
+  {
+    "lemma": "internationalist",
+    "meanings_de": ["Internationalist"],
+    "definitions_de": ["Person, die sich für Zusammenarbeit zwischen Nationen statt Nationalismus einsetzt"],
+    "examples_de": [["Der **Internationalist** plädierte für stärkere globale Institutionen und Verträge", "Viele **Internationalisten** unterstützen humanitäre Interventionen zum Schutz der Menschenrechte"]]
+  },
+  {
+    "lemma": "internist",
+    "meanings_de": ["Internist"],
+    "definitions_de": ["Facharzt für Diagnose und Behandlung von Erkrankungen der inneren Organe"],
+    "examples_de": [["Der **Internist** ordnete Bluttests an, um die mysteriösen Symptome zu diagnostizieren", "Viele **Internisten** fungieren als Hausärzte für erwachsene Patienten"]]
+  },
+  {
+    "lemma": "internment",
+    "meanings_de": ["Internierung"],
+    "definitions_de": ["Zustand der Gefangenschaft, besonders aus politischen oder militärischen Gründen"],
+    "examples_de": [["Die **Internierung** von Bürgern während des Krieges bleibt eine umstrittene Politik", "Ehemalige **Internierungslager** dienen heute als historische Museen und Gedenkstätten"]]
+  },
+  {
+    "lemma": "internship",
+    "meanings_de": ["Praktikum"],
+    "definitions_de": ["Position als Auszubildender oder Praktikant zum Sammeln praktischer Arbeitserfahrung"],
+    "examples_de": [["Ihr **Praktikum** in der Anwaltskanzlei führte zu einem Festanstellungsangebot", "Medizinstudenten müssen **Praktika** absolvieren, bevor sie selbstständig praktizieren dürfen"]]
+  },
+  {
+    "lemma": "interoperability",
+    "meanings_de": ["Interoperabilität"],
+    "definitions_de": ["Fähigkeit von Computersystemen oder Software, Informationen auszutauschen und zu nutzen"],
+    "examples_de": [["Die **Interoperabilität** von Software ermöglicht verschiedenen Programmen nahtlosen Datenaustausch", "Militärische Kräfte benötigen **Kompatibilität** für effektive gemeinsame Operationen"]]
+  },
+  {
+    "lemma": "interplay",
+    "meanings_de": ["Wechselspiel"],
+    "definitions_de": ["Art und Weise, wie zwei oder mehr Dinge sich durch Interaktion gegenseitig beeinflussen"],
+    "examples_de": [["Das **Wechselspiel** zwischen Genetik und Umwelt prägt die menschliche Entwicklung", "Künstler erforschen das **Zusammenspiel** von Licht und Schatten in ihren Werken"]]
+  },
+  {
+    "lemma": "interpolation",
+    "meanings_de": ["Einfügung"],
+    "definitions_de": ["Einfügung von etwas in bestehenden Text oder Schätzung von Werten zwischen bekannten Punkten"],
+    "examples_de": [["Gelehrte identifizierten spätere **Einschübe** im alten Manuskripttext", "Mathematische **Interpolation** hilft bei der Schätzung fehlender Datenpunkte in der Forschung"]]
+  },
+  {
+    "lemma": "interpreter",
+    "meanings_de": ["Dolmetscher", "Interpreter-Programm"],
+    "definitions_de": ["Person, die gesprochene Worte von einer Sprache in eine andere übersetzt", "Computerprogramm, das in einer Programmiersprache geschriebene Anweisungen ausführt"],
+    "examples_de": [["Der Gerichts**dolmetscher** übersetzte die Aussagen für nicht englischsprachige Zeugen", "Professionelle **Dolmetscher** arbeiten bei internationalen Konferenzen und diplomatischen Treffen"], ["Der Python-**Interpreter** führt Code während der Entwicklung zeilenweise aus", "JavaScript-**Interpreter** in Webbrowsern führen Code auf Client-Rechnern aus"]]
+  },
+  {
+    "lemma": "interpreting",
+    "meanings_de": ["Dolmetschtätigkeit"],
+    "definitions_de": ["Professionelle Tätigkeit der Übersetzung gesprochener Sprache zwischen verschiedenen Sprachen in Echtzeit"],
+    "examples_de": [["Simultan**dolmetschen** erfordert intensive Konzentration und Sprachkenntnisse", "Sie studierte **Dolmetschen**, um bei internationalen Organisationen zu arbeiten"]]
+  },
+  {
+    "lemma": "interregnum",
+    "meanings_de": ["Zwischenherrschaft"],
+    "definitions_de": ["Zeitraum, in dem die normale Regierung ausgesetzt ist, besonders zwischen aufeinanderfolgenden Herrschaften"],
+    "examples_de": [["Das **Interregnum** nach dem Tod des Königs schuf politische Unsicherheit", "Während der **Zwischenregierung** regierte ein Adelsrat das Königreich"]]
+  },
+  {
+    "lemma": "interrogation",
+    "meanings_de": ["Verhör"],
+    "definitions_de": ["Formelle und systematische Befragung, besonders durch Polizei oder Militärpersonal"],
+    "examples_de": [["Der Verdächtige unterzog sich stundenlangen **Verhören** auf der Polizeistation", "**Vernehmungs**techniken müssen Menschenrechtsgesetzen und -standards entsprechen"]]
+  },
+  {
+    "lemma": "interrogative",
+    "meanings_de": ["Fragewort"],
+    "definitions_de": ["Wort, das in Fragen verwendet wird, wie was, wo, wann oder wie"],
+    "examples_de": [["Schüler lernten, **Fragewörter** bei der Bildung von Fragen im Englischen zu verwenden", "Das **Interrogativpronomen** 'wer' beginnt viele Kriminalromantitel"]]
+  },
+  {
+    "lemma": "interrogator",
+    "meanings_de": ["Vernehmer"],
+    "definitions_de": ["Person, die jemanden eingehend, aggressiv oder formell befragt, besonders in offiziellen Kontexten"],
+    "examples_de": [["Der erfahrene **Vernehmer** erhielt durch geduldige Befragung wichtige Informationen", "Militärische **Verhörspezialisten** erhalten spezialisierte Ausbildung in Befragungstechniken"]]
+  },
+  {
+    "lemma": "interruption",
+    "meanings_de": ["Unterbrechung"],
+    "definitions_de": ["Handlung des Unterbrechens oder Zustand des Unterbrochen-Werdens, der eine Aktivitätspause verursacht"],
+    "examples_de": [["Ständige **Unterbrechungen** erschwerten die Konzentration auf die Arbeit", "Die Strom**unterbrechung** führte zum unerwarteten Herunterfahren der Computer"]]
+  },
+  {
+    "lemma": "intersection",
+    "meanings_de": ["Kreuzung"],
+    "definitions_de": ["Punkt oder Bereich, an dem sich zwei oder mehr Straßen oder Wege kreuzen"],
+    "examples_de": [["Ampeln regeln den Verkehrsfluss an stark befahrenen städtischen **Kreuzungen**", "Der Unfall ereignete sich an der **Kreuzung** von Haupt- und Erste Straße"]]
+  },
+  {
+    "lemma": "intersex",
+    "meanings_de": ["Intersexualität"],
+    "definitions_de": ["Person, die mit reproduktiver oder sexueller Anatomie geboren wurde, die nicht in typische männliche oder weibliche Kategorien passt"],
+    "examples_de": [["Das medizinische Verständnis von **Intersex**-Bedingungen hat sich im Laufe der Zeit erheblich entwickelt", "**Intersex**-Aktivisten arbeiten daran, Kinder vor unnötigen medizinischen Eingriffen zu schützen"]]
+  },
+  {
+    "lemma": "interstate",
+    "meanings_de": ["Autobahn zwischen Bundesstaaten"],
+    "definitions_de": ["Hauptautobahn in den Vereinigten Staaten, die verschiedene Bundesstaaten verbindet"],
+    "examples_de": [["Das **Interstate**-Autobahnsystem revolutionierte den amerikanischen Transport und Handel", "Schwere Lastwagen nutzen die **Fernstraße**, um Waren durchs Land zu transportieren"]]
+  },
+  {
+    "lemma": "interviewee",
+    "meanings_de": ["Interviewter"],
+    "definitions_de": ["Person, die in einem Interview für Arbeit, Medien oder Forschung Fragen beantwortet"],
+    "examples_de": [["Der **Interviewte** bereitete sich gründlich auf schwierige Fragen zu seiner Erfahrung vor", "Forscher schützen die Identität der **Befragten** in sensiblen Studien"]]
+  },
+  {
+    "lemma": "interviewer",
+    "meanings_de": ["Interviewer"],
+    "definitions_de": ["Person, die in einem Interview für Beschäftigung, Medien oder Forschung Fragen stellt"],
+    "examples_de": [["Der **Interviewer** stellte tiefgreifende Fragen zu den Qualifikationen des Kandidaten", "Fernseh**interviewer** müssen schnell denken, um auf Antworten zu reagieren"]]
+  },
+  {
+    "lemma": "intestine",
+    "meanings_de": ["Darm"],
+    "definitions_de": ["Langes röhrenförmiges Organ im Verdauungssystem, in dem Nahrung aufgenommen wird"],
+    "examples_de": [["Der Dünn**darm** absorbiert die meisten Nährstoffe aus verdauter Nahrung", "Ärzte untersuchten den **Darm** des Patienten mit fortschrittlicher Bildgebungstechnologie"]]
+  },
+  {
+    "lemma": "intifada",
+    "meanings_de": ["Intifada"],
+    "definitions_de": ["Palästinensischer Aufstand gegen israelische Besatzung, insbesondere die ab 1987 und 2000 beginnenden"],
+    "examples_de": [["Die erste **Intifada** begann mit zivilem Ungehorsam und eskalierte im Laufe der Zeit", "Historiker analysieren die Auswirkungen der **Intifada** auf die Politik im Nahen Osten"]]
+  },
+  {
+    "lemma": "intimacy",
+    "meanings_de": ["Intimität"],
+    "definitions_de": ["Enge Vertrautheit oder Freundschaft mit privatem und persönlichem Wissen oder Erfahrung"],
+    "examples_de": [["Der Aufbau von **Intimität** in Beziehungen erfordert Vertrauen und offene Kommunikation", "Der Roman erforscht Themen emotionaler **Nähe** zwischen den Charakteren"]]
+  },
+  {
+    "lemma": "intimidation",
+    "meanings_de": ["Einschüchterung"],
+    "definitions_de": ["Handlung, jemanden zu erschrecken oder zu bedrohen, um ihn zu zwingen, das zu tun, was man will"],
+    "examples_de": [["**Einschüchterung** am Arbeitsplatz schafft feindliche Umgebungen und verringert die Produktivität", "Wähler**einschüchterung** an Wahllokalen verletzt demokratische Prinzipien"]]
+  },
+  {
+    "lemma": "intolerance",
+    "meanings_de": ["Intoleranz"],
+    "definitions_de": ["Unwilligkeit, Ansichten, Überzeugungen oder Verhaltensweisen zu akzeptieren, die von den eigenen abweichen"],
+    "examples_de": [["Religiöse **Intoleranz** hat in der gesamten Menschheitsgeschichte Konflikte verursacht", "Nahrungsmittel**unverträglichkeit** kann Verdauungsprobleme und Unbehagen verursachen"]]
+  },
+  {
+    "lemma": "intonation",
+    "meanings_de": ["Sprachmelodie"],
+    "definitions_de": ["Anstieg und Abfall der Stimme beim Sprechen, der Bedeutung oder Emotion ausdrückt"],
+    "examples_de": [["Die englische **Intonation** hilft dabei, Fragen von Aussagen zu unterscheiden", "Die perfekte **Betonung** des Schauspielers erweckte die Figur zum Leben"]]
+  },
+  {
+    "lemma": "intoxication",
+    "meanings_de": ["Rauschzustand"],
+    "definitions_de": ["Zustand des Betrunkenseins oder unter Drogeneinfluss, der die körperliche und geistige Kontrolle beeinträchtigt"],
+    "examples_de": [["Öffentliche **Trunkenheit** kann zu Verhaftung und rechtlichen Konsequenzen führen", "Der Arzt bewertete den Grad der Alkohol**vergiftung** des Patienten"]]
+  },
+  {
+    "lemma": "intranet",
+    "meanings_de": ["Intranet"],
+    "definitions_de": ["Privates Netzwerk innerhalb einer Organisation, das Internetprotokolle für interne Kommunikation nutzt"],
+    "examples_de": [["Mitarbeiter greifen über das Unternehmens**intranet**-Portal auf Firmenressourcen zu", "Das Krankenhaus**intranet** ermöglicht sicheren Austausch von Patienteninformationen"]]
+  },
+  {
+    "lemma": "intransigence",
+    "meanings_de": ["Unnachgiebigkeit"],
+    "definitions_de": ["Weigerung, die eigenen Ansichten zu ändern oder sich trotz Vernunft auf etwas zu einigen"],
+    "examples_de": [["Politische **Unnachgiebigkeit** verhinderte Kompromisse bei wichtigen Gesetzesvorlagen", "Die **Kompromisslosigkeit** des Verhandlungsführers führte letztlich zu gescheiterten Friedensgesprächen"]]
+  },
+  {
+    "lemma": "intransitive",
+    "meanings_de": ["intransitives Verb"],
+    "definitions_de": ["Verb, das kein direktes Objekt in einem Satz benötigt"],
+    "examples_de": [["Das Verb 'schlafen' ist **intransitiv**, weil man nicht etwas schlafen kann", "Schüler lernen, **intransitive** Verben im Grammatikunterricht zu identifizieren"]]
+  }
+]

@@ -1,0 +1,278 @@
+[
+  {
+    "lemma": "cone",
+    "meanings_de": ["geometrische Form", "Zapfen der Nadelbäume", "Verkehrskegel", "Eistüte"],
+    "definitions_de": ["dreidimensionale Form mit kreisförmiger Grundfläche, die zu einer Spitze zuläuft", "verholzte, samentragende Struktur, die bei Kiefern, Tannen und anderen Nadelbäumen vorkommt", "leuchtend orangefarbener Kunststoffkegel zur Verkehrslenkung oder Markierung von Bereichen", "knusprige essbare Waffel in Spitzform zum Halten von Speiseeis"],
+    "examples_de": [["Der Mathematiklehrer zeichnete einen perfekten **Kegel** an die Tafel", "Berechnen Sie das Volumen eines **Kegels** mit diesen Maßangaben"], ["Kiefern**zapfen** bedeckten den Waldboden unter den Bäumen", "Sie sammelte **Zapfen** für weihnachtliche Dekorationen"], ["Orange Verkehrs**kegel** sperrten die beschädigte Fahrspur ab", "Beim Fußballtraining markierten **Pylonen** die Übungsgrenzen"], ["Die Kinder bestellten sich jeweils eine **Eistüte** mit zwei Kugeln", "Möchten Sie Ihr Eis in der **Waffel** oder im Becher?"]]
+  },
+  {
+    "lemma": "confection",
+    "meanings_de": ["süße Leckerei", "kunstvolle Kreation"],
+    "definitions_de": ["süße Speise aus Zucker, oft mit Schokolade, Nüssen oder Früchten verfeinert", "kunstvolle oder filigrane Kreation, besonders in der Mode oder bei dekorativen Künsten"],
+    "examples_de": [["Der Konditor kreierte wunderschöne **Konfekte** für die Hochzeit", "Schokoladentrüffel sind ihre liebste **Süßigkeit** zum Herstellen"], ["Die neueste **Kreation** der Designerin bestand aus mehreren Lagen Seide und Spitze", "Ihr Hut war eine aufwendige **Komposition** aus Federn und Bändern"]]
+  },
+  {
+    "lemma": "confectioner",
+    "meanings_de": ["Konditor"],
+    "definitions_de": ["Person, die beruflich Süßigkeiten, Pralinen und andere süße Leckereien herstellt oder verkauft"],
+    "examples_de": [["Der **Konditor** arbeitete die ganze Nacht an Valentinstags-Pralinen", "Sie machte eine Lehre bei einem **Konfiseur**-Meister in der Schweiz"]]
+  },
+  {
+    "lemma": "confectionery",
+    "meanings_de": ["Süßwaren", "Konditorei"],
+    "definitions_de": ["Süßigkeiten, Pralinen und andere süße Speisen als Sammelbegriff einer Warenkategorie", "Geschäft oder Betrieb, in dem Süßwaren hergestellt oder verkauft werden"],
+    "examples_de": [["Das Geschäft spezialisierte sich auf importierte **Süßwaren** aus Europa", "Kinder drückten ihre Nasen gegen die Scheibe mit den **Konfekt**-Auslagen"], ["Ihre Familie besaß eine kleine **Konditorei** in der Hauptstraße", "Die **Confiserie** stellte seit fünfzig Jahren handgemachte Pralinen her"]]
+  },
+  {
+    "lemma": "confederacy",
+    "meanings_de": ["politisches Bündnis", "Verschwörergruppe"],
+    "definitions_de": ["Bündnis oder Liga von Staaten, Gruppen oder Menschen, die für einen gemeinsamen Zweck vereint sind", "Gruppe von Personen, die sich für einen unrechtmäßigen oder geheimen Zweck zusammengeschlossen haben"],
+    "examples_de": [["Die **Konföderation** der Stämme kämpfte gegen die koloniale Expansion", "Mehrere Staaten bildeten einen **Staatenbund** gegen die neuen Gesetze"], ["Die Polizei deckte eine **Verschwörung** zum Schmuggel gestohlener Waren auf", "Die **Bande** von Dieben operierte über drei Bezirke hinweg"]]
+  },
+  {
+    "lemma": "confederate",
+    "meanings_de": ["Bündnismitglied", "Komplize"],
+    "definitions_de": ["Person, Staat oder Gruppe, die mit anderen in einem politischen oder militärischen Bündnis verbunden ist", "Person, die jemandem bei der Durchführung eines Plans hilft, insbesondere bei etwas Illegalem"],
+    "examples_de": [["Die **Verbündeten** trafen sich zur Besprechung ihres Verteidigungsvertrags", "Jede **konföderierte** Nation stellte Truppen für das Bündnis"], ["Der **Komplize** des Diebes wartete draußen im Fluchtauto", "Die Polizei verhaftete ihn und seine **Mittäter** im Betrugssystem"]]
+  },
+  {
+    "lemma": "confederation",
+    "meanings_de": ["politische Union"],
+    "definitions_de": ["Organisation oder Bündnis verschiedener Gruppen, Staaten oder Parteien, die sich zur gegenseitigen Unterstützung oder gemeinsamen Aktion vereint haben"],
+    "examples_de": [["Der **Gewerkschaftsbund** organisierte einen landesweiten Streik", "Die Schweiz ist offiziell als Schweizerische **Eidgenossenschaft** bekannt"]]
+  },
+  {
+    "lemma": "confession",
+    "meanings_de": ["Schuldeingeständnis", "religiöse Beichte", "persönliches Bekenntnis"],
+    "definitions_de": ["formelle Aussage, in der Schuld, Fehlverhalten oder Verantwortung für etwas eingestanden wird", "religiöse Praxis des Bekennens von Sünden vor einem Priester zur Erlangung von Vergebung", "intime Eingeständnis oder Offenbarung persönlicher Gedanken, Gefühle oder Geheimnisse"],
+    "examples_de": [["Der Verdächtige unterzeichnete nach stundenlangen Verhören ein **Geständnis**", "Sein **Schuldbekenntnis** enthielt Details, die nur der Täter kennen konnte"], ["Sie ging jeden Samstag vor der Abendmesse zur **Beichte**", "Der Priester hörte die **Beichten** im kleinen Holzbeichtstuhl"], ["Ihre Memoiren lesen sich wie ein **Bekenntnis** vergangener Fehler", "In einem tränenreichen **Geständnis** gab er seine wahren Gefühle zu"]]
+  },
+  {
+    "lemma": "confessional",
+    "meanings_de": ["Beichtstuhl", "bekenntnishaftes Genre"],
+    "definitions_de": ["kleine geschlossene Kabine in einer Kirche, in der Priester die Beichte hören", "Art des Schreibens oder der Medien, die intime persönliche Details offenbart"],
+    "examples_de": [["Der alte hölzerne **Beichtstuhl** stand in der Ecke der Kirche", "Sie betrat den **Beichtstuhl** und kniete auf dem abgenutzten Kissen nieder"], ["Ihr neuestes Buch ist ein **Bekenntnisroman** über ihre schwierige Kindheit", "Die Dokumentation verfolgte einen **bekenntnishaften** Ansatz zum Thema Sucht"]]
+  },
+  {
+    "lemma": "confessor",
+    "meanings_de": ["Beichtvater", "Glaubensbekenner"],
+    "definitions_de": ["Priester, der in der katholischen Kirche befugt ist, die Beichte zu hören und Absolution zu erteilen", "Person, die für ihren religiösen Glauben gelitten hat, aber nicht den Märtyrertod starb"],
+    "examples_de": [["Pater Michael diente als **Beichtvater** der königlichen Familie", "Sie bat immer denselben **Beichtiger** um geistliche Führung"], ["Eduard der **Bekenner** regierte England vor der normannischen Eroberung", "Der **Glaubensbekenner** ertrug Gefangenschaft, behielt aber seinen Glauben"]]
+  },
+  {
+    "lemma": "confetti",
+    "meanings_de": ["Konfetti"],
+    "definitions_de": ["kleine Stücke buntes Papier, die bei Feiern, Hochzeiten oder Paraden geworfen werden"],
+    "examples_de": [["**Konfetti** regnete herab, als Braut und Bräutigam die Kirche verließen", "Die Reinigungskräfte der Parade fegten kiloweise **Konfetti** von den Straßen"]]
+  },
+  {
+    "lemma": "confidant",
+    "meanings_de": ["männlicher Vertrauter"],
+    "definitions_de": ["vertrauter männlicher Freund, mit dem man persönliche Angelegenheiten und Geheimnisse teilt"],
+    "examples_de": [["Sein Bruder war schon immer sein engster **Vertrauter**", "Der Präsident verließ sich auf seinen **Vertrauten** für ehrlichen Rat"]]
+  },
+  {
+    "lemma": "confidante",
+    "meanings_de": ["weibliche Vertraute"],
+    "definitions_de": ["vertraute weibliche Freundin, mit der man persönliche Angelegenheiten und Geheimnisse teilt"],
+    "examples_de": [["Sie betrachtete ihre Schwester als ihre vertrauenswürdigste **Vertraute**", "Die Schauspielerin und ihre **Vertraute** waren seit der Kindheit befreundet"]]
+  },
+  {
+    "lemma": "confidentiality",
+    "meanings_de": ["Vertraulichkeit"],
+    "definitions_de": ["ethisches und rechtliches Prinzip, sensible Informationen privat zu halten und vor unbefugter Weitergabe zu schützen"],
+    "examples_de": [["Die ärztliche **Schweigepflicht** verhindert die Weitergabe von Krankenakten", "Das Unternehmen verlangte von allen Mitarbeitern die Unterzeichnung von **Vertraulichkeitsvereinbarungen**"]]
+  },
+  {
+    "lemma": "configuration",
+    "meanings_de": ["Anordnungsmuster", "Computereinstellungen"],
+    "definitions_de": ["bestimmte Anordnung oder Muster von Teilen, Elementen oder Komponenten in einem System", "Art und Weise, wie Computer-Hardware oder -Software eingerichtet oder angeordnet ist, um zu funktionieren"],
+    "examples_de": [["Die **Konfiguration** der Moleküle bestimmt die Eigenschaften der Verbindung", "Sie testeten verschiedene Sitz**anordnungen** für den Konferenzraum"], ["Die Netzwerk**konfiguration** musste für bessere Sicherheit aktualisiert werden", "Überprüfen Sie Ihre E-Mail-**Einstellungen**, wenn Nachrichten nicht gesendet werden"]]
+  },
+  {
+    "lemma": "confinement",
+    "meanings_de": ["Freiheitsbeschränkung", "Wochenbett"],
+    "definitions_de": ["Zustand des Eingesperrtseins, der Beschränkung oder des Festhaltens innerhalb bestimmter Grenzen", "Zeit vor und während der Geburt, in der eine Frau ruht und sich vorbereitet"],
+    "examples_de": [["Seine **Haft** in einer kleinen Zelle dauerte drei Jahre", "Der Gefangene protestierte gegen die Bedingungen der **Einzelhaft**"], ["Die Herzogin begann ihr **Wochenbett** zwei Wochen vor der Entbindung", "Frauen hielten traditionell einen Monat **Schonung** nach der Geburt ein"]]
+  },
+  {
+    "lemma": "confirmation",
+    "meanings_de": ["Bestätigung", "Firmung"],
+    "definitions_de": ["Handlung des Bestätigens, dass etwas wahr, genau oder gültig ist, durch Beweise oder Autorität", "christliche Zeremonie zur Aufnahme getaufter Personen in die volle Kirchenmitgliedschaft"],
+    "examples_de": [["Die E-Mail-**Bestätigung** Ihrer Bestellung kommt innerhalb von Minuten", "Die Laborergebnisse lieferten die **Bestätigung** der Erstdiagnose"], ["Ihre **Firmung** fand am Palmsonntag statt", "Der Bischof spendete zwanzig Jugendlichen die **Firmung**"]]
+  },
+  {
+    "lemma": "confiscation",
+    "meanings_de": ["Beschlagnahme"],
+    "definitions_de": ["Handlung der behördlichen Wegnahme von jemandes Eigentum, insbesondere als Strafe oder aus rechtlichen Gründen"],
+    "examples_de": [["Die **Beschlagnahme** illegaler Waffen reduzierte die Kriminalität im Viertel", "Der Zoll ordnete die **Konfiszierung** der nicht deklarierten Ware an"]]
+  },
+  {
+    "lemma": "conflagration",
+    "meanings_de": ["Großbrand"],
+    "definitions_de": ["ausgedehntes Feuer, das große Landflächen oder Eigentum zerstört"],
+    "examples_de": [["Die **Feuersbrunst** zerstörte drei Häuserblocks, bevor die Feuerwehr sie eindämmen konnte", "Historische Aufzeichnungen beschreiben den großen **Brand** von 1666 in London"]]
+  },
+  {
+    "lemma": "confluence",
+    "meanings_de": ["Flusszusammenfluss", "Zusammentreffen"],
+    "definitions_de": ["Stelle, an der zwei oder mehr Flüsse oder Bäche zusammenfließen und einen bilden", "Vorgang oder Prozess des Zusammenfließens oder Verschmelzens verschiedener Dinge oder Ideen"],
+    "examples_de": [["Die Stadt entwickelte sich am **Zusammenfluss** zweier großer Flüsse", "Das Angeln ist ausgezeichnet an der **Mündung**, wo sich die Gewässer mischen"], ["Das Projekt gelang durch ein **Zusammentreffen** von Talent und Timing", "Ein **Zusammenspiel** von Faktoren führte zur Wirtschaftskrise"]]
+  },
+  {
+    "lemma": "conformance",
+    "meanings_de": ["Übereinstimmung"],
+    "definitions_de": ["Handlung der Einhaltung oder Erfüllung von Regeln, Standards oder Gesetzen"],
+    "examples_de": [["Die Fabrik hielt strikte **Übereinstimmung** mit den Sicherheitsvorschriften ein", "Die Produkt**konformität** mit Industriestandards gewährleistet Qualitätskontrolle"]]
+  },
+  {
+    "lemma": "conformation",
+    "meanings_de": ["strukturelle Anordnung", "Anpassungsakt"],
+    "definitions_de": ["Form, Struktur oder Anordnung von Teilen eines Gegenstands, besonders in Bezug auf die Funktion", "Handlung der Anpassung an oder Einhaltung von Konventionen, Regeln oder Standards"],
+    "examples_de": [["Die **Konformation** des Proteins bestimmt seine biologische Aktivität", "Richter bewerteten die **Körperform** jedes Hundes nach Rassestandards"], ["Ihre **Anpassung** an soziale Normen half ihnen, sich einzufügen", "Die Schule verlangte strikte **Konformität** mit ihrer Kleiderordnung"]]
+  },
+  {
+    "lemma": "conformist",
+    "meanings_de": ["Konformist"],
+    "definitions_de": ["Person, die sich ohne Hinterfragen an akzeptiertes Verhalten, Praktiken oder Standards anpasst"],
+    "examples_de": [["Er war zu sehr **Konformist**, um die Firmenpolitik in Frage zu stellen", "Die 1950er Jahre brachten eine Generation vorstädtischer **Angepasster** hervor"]]
+  },
+  {
+    "lemma": "conformity",
+    "meanings_de": ["Verhaltensanpassung", "Übereinstimmung"],
+    "definitions_de": ["Verhalten, das den akzeptierten Standards, Regeln oder Konventionen einer Gruppe oder Gesellschaft folgt", "Zustand der Übereinstimmung mit etwas in Form, Natur oder Charakter"],
+    "examples_de": [["Sozialer **Konformitätsdruck** zwingt Teenager, sich wie ihre Altersgenossen zu kleiden", "Die Unternehmenskultur verlangte **Anpassung** in Aussehen und Verhalten"], ["Das Gebäudedesign zeigt **Übereinstimmung** mit lokalen Architekturstilen", "Die Qualitätskontrolle prüft die **Konformität** zwischen Produkten und Spezifikationen"]]
+  },
+  {
+    "lemma": "confrontation",
+    "meanings_de": ["Konfrontation"],
+    "definitions_de": ["feindseliges oder streitbares Aufeinandertreffen zwischen gegnerischen Parteien, Ideen oder Kräften"],
+    "examples_de": [["Die **Konfrontation** zwischen Demonstranten und Polizei dauerte mehrere Stunden", "Sie vermied die **Auseinandersetzung**, indem sie seinen Forderungen zustimmte"]]
+  },
+  {
+    "lemma": "conga",
+    "meanings_de": ["lateinamerikanischer Tanz", "hohe Trommel"],
+    "definitions_de": ["lateinamerikanischer Tanz, bei dem Menschen in einer Reihe tanzen und die Person vor sich festhalten", "hohe schmale Trommel, die in lateinamerikanischer Musik mit den Händen geschlagen wird"],
+    "examples_de": [["Hochzeitsgäste bildeten eine **Conga**-Schlange durch den Empfangssaal", "Der **Conga**-Rhythmus brachte alle auf der Tanzfläche in Bewegung"], ["Er spielte die **Conga**-Trommeln in einer Salsa-Band", "Die **Conga**-Fähigkeiten des Musikers verliehen der Aufführung Energie"]]
+  },
+  {
+    "lemma": "congestion",
+    "meanings_de": ["Verkehrsstauung", "Körperflüssigkeitsstau"],
+    "definitions_de": ["Zustand schwerer Verkehrsansammlung, die zu langsamer Bewegung oder völligem Stillstand führt", "abnormale Ansammlung von Blut oder Schleim in Körperteilen, die Blockaden oder Unbehagen verursacht"],
+    "examples_de": [["Der **Stau** zur Stoßzeit verlängerte ihren Arbeitsweg um eine Stunde", "Die Stadt führte Mautgebühren ein, um die **Verkehrsüberlastung** in der Innenstadt zu reduzieren"], ["Die **Nasenverstopfung** erschwerte ihm das Atmen", "Das Medikament hilft, die **Verschleimung** der Brust bei Erkältungen zu lösen"]]
+  },
+  {
+    "lemma": "conglomerate",
+    "meanings_de": ["Mischkonzern", "Gesteinsformation"],
+    "definitions_de": ["großes Unternehmen, das durch Fusion verschiedener Firmen entsteht, die in nicht verwandten Geschäftsbereichen tätig sind", "grobkörniges Sedimentgestein aus gerundeten Fragmenten, die zusammenzementiert sind"],
+    "examples_de": [["Der Medien**konzern** besaß Zeitungen, Fernsehsender und Websites", "Internationale **Mischkonzerne** dominieren heute viele Branchen"], ["Geologen untersuchten die alte **Konglomerat**-Formation im Canyon", "Das **Konglomerat** enthielt Kieselsteine verschiedener Gesteinsarten"]]
+  },
+  {
+    "lemma": "conglomeration",
+    "meanings_de": ["Ansammlung"],
+    "definitions_de": ["Sammlung oder Mischung verschiedener Dinge oder Menschen, die ohne Ordnung zusammengruppiert sind"],
+    "examples_de": [["Der Flohmarkt war eine **Ansammlung** von Antiquitäten und Trödel", "Eine **Anhäufung** von Ideen entstand aus der Brainstorming-Sitzung"]]
+  },
+  {
+    "lemma": "congo",
+    "meanings_de": ["afrikanisches Land", "Flusssystem", "Tanzrhythmus"],
+    "definitions_de": ["zentralafrikanisches Land, offiziell als Demokratische Republik Kongo bekannt", "großer afrikanischer Fluss, der durch Zentralafrika zum Atlantik fließt", "afro-kubanischer Tanz- und Trommelstil mit charakteristischen Rhythmusmustern"],
+    "examples_de": [["Der **Kongo** erlangte 1960 die Unabhängigkeit von Belgien", "Bergbauunternehmen sind in den mineralreichen Regionen des **Kongo** stark vertreten"], ["Der **Kongo**-Fluss ist der zweitlängste Fluss Afrikas", "Händler nutzten den **Kongo** als wichtige Transportroute"], ["Die Band spielte einen energiegeladenen **Congo**-Rhythmus für die Tänzer", "Traditionelle **Congo**-Trommeln bilden die Grundlage der Musik"]]
+  },
+  {
+    "lemma": "congregation",
+    "meanings_de": ["Kirchengemeinde", "allgemeine Versammlung"],
+    "definitions_de": ["Gruppe von Menschen, die sich zum religiösen Gottesdienst versammeln, besonders in christlichen Kirchen", "Ansammlung oder Sammlung von Menschen, Tieren oder Dingen an einem Ort"],
+    "examples_de": [["Die **Gemeinde** erhob sich, um gemeinsam das Eröffnungslied zu singen", "Ihre **Kirchengemeinde** betet seit 1850 in diesem Gebäude"], ["Eine **Versammlung** von Demonstranten füllte den Stadtplatz", "Die **Ansammlung** von Vögeln auf dem Draht deutete auf herannahende Stürme hin"]]
+  },
+  {
+    "lemma": "congresswoman",
+    "meanings_de": ["Kongressabgeordnete"],
+    "definitions_de": ["weibliches gewähltes Mitglied eines Kongresses, insbesondere des US-Repräsentantenhauses"],
+    "examples_de": [["Die **Kongressabgeordnete** brachte ein Gesetz zur Verbesserung des Gesundheitszugangs ein", "Sie wurde zur ersten **Abgeordneten** gewählt, die ihren Wahlkreis vertrat"]]
+  },
+  {
+    "lemma": "congruence",
+    "meanings_de": ["mathematische Deckungsgleichheit", "allgemeine Übereinstimmung"],
+    "definitions_de": ["exakte Übereinstimmung in Größe und Form zwischen geometrischen Figuren", "Zustand der Übereinstimmung, Harmonie oder Kompatibilität zwischen Dingen"],
+    "examples_de": [["Der Geometrielehrer demonstrierte **Kongruenz** mit überlappenden Dreiecken", "Der Nachweis der **Deckungsgleichheit** erfordert, dass alle entsprechenden Teile übereinstimmen"], ["Es gab bemerkenswerte **Übereinstimmung** zwischen ihren unabhängigen Forschungsergebnissen", "Der Therapeut bemerkte **Kongruenz** zwischen seinen Worten und Taten"]]
+  },
+  {
+    "lemma": "conifer",
+    "meanings_de": ["Nadelbaum"],
+    "definitions_de": ["Baum, der Zapfen trägt und nadelartige oder schuppenartige Blätter hat, meist immergrün"],
+    "examples_de": [["**Nadelbäume** wie Kiefer und Fichte dominieren die nördlichen Wälder", "Die Baumschule spezialisierte sich auf Zwerg**koniferen** für kleine Gärten"]]
+  },
+  {
+    "lemma": "conjecture",
+    "meanings_de": ["Vermutung"],
+    "definitions_de": ["Meinung oder Schlussfolgerung, die auf unvollständigen Informationen ohne feste Beweise gebildet wird"],
+    "examples_de": [["Seine Theorie blieb bloße **Vermutung** ohne experimentellen Beweis", "Finanzanalysten boten **Mutmaßungen** über die zukünftige Marktrichtung an"]]
+  },
+  {
+    "lemma": "conjugation",
+    "meanings_de": ["Verbkonjugation", "biologische Vereinigung"],
+    "definitions_de": ["Variation von Verbformen zur Ausdrückung von Zeit, Modus, Person und Zahl in der Grammatik", "vorübergehende Vereinigung von Organismen, besonders Einzelzellen, zum Austausch genetischen Materials"],
+    "examples_de": [["Die spanische **Konjugation** ändert Verbendungen für jedes Pronomen", "Schüler übten die **Beugung** unregelmäßiger Verben als Hausaufgabe"], ["Die bakterielle **Konjugation** ermöglicht den Gentransfer zwischen Zellen", "Wissenschaftler beobachteten die **Paarung** unter dem Mikroskop"]]
+  },
+  {
+    "lemma": "conjunction",
+    "meanings_de": ["Bindewort", "Zusammentreffen"],
+    "definitions_de": ["Wort, das verwendet wird, um Sätze, Satzteile oder Wörter zu verbinden, wie 'und', 'aber', 'oder'", "Auftreten von Ereignissen oder Umständen, die zur gleichen Zeit geschehen"],
+    "examples_de": [["Die **Konjunktion** 'aber' zeigt einen Gegensatz zwischen zwei Ideen", "Entfernen Sie unnötige **Bindewörter**, um Ihren Schreibstil zu verbessern"], ["Das **Zusammentreffen** von günstigem Wetter und Timing sicherte den Erfolg", "Eine seltene **Konstellation** von Planeten wird heute Nacht sichtbar sein"]]
+  },
+  {
+    "lemma": "conjuring",
+    "meanings_de": ["Zauberei"],
+    "definitions_de": ["Aufführung von Tricks, die magisch erscheinen, typischerweise mit schnellen Handbewegungen und Ablenkung"],
+    "examples_de": [["Seine **Zaubershow** begeisterte die Kinder auf der Geburtstagsfeier", "Sie studierte **Zaubertricks** von berühmten Magiern"]]
+  },
+  {
+    "lemma": "connective",
+    "meanings_de": ["Bindewort", "Bindegewebe"],
+    "definitions_de": ["Wort oder Phrase, die Teile von Text oder Sprache logisch miteinander verbindet", "Gewebe, das andere Gewebe und Organe im Körper verbindet, stützt oder umgibt"],
+    "examples_de": [["Das **Bindewort** 'jedoch' signalisiert, dass eine gegensätzliche Idee folgen wird", "Lehrer betonten die richtige Verwendung von **Konnektoren** beim Schreiben von Aufsätzen"], ["Sehnen sind **Bindegewebe**, das Muskeln mit Knochen verbindet", "Der Chirurg reparierte beschädigtes **Bindegewebe** in ihrem Knie"]]
+  },
+  {
+    "lemma": "connectivity",
+    "meanings_de": ["Konnektivität"],
+    "definitions_de": ["Zustand oder Fähigkeit, verbunden oder vernetzt zu sein, insbesondere bei Computernetzwerken oder -systemen"],
+    "examples_de": [["Das ländliche Gebiet erhielt endlich Hochgeschwindigkeits-Internet**verbindung**", "Die Bluetooth-**Konnektivität** ermöglicht drahtlose Kopplung mit mehreren Geräten"]]
+  },
+  {
+    "lemma": "connector",
+    "meanings_de": ["Verbindungsstück"],
+    "definitions_de": ["Gerät oder Komponente, das elektrische Schaltungen, Kabel oder mechanische Teile miteinander verbindet"],
+    "examples_de": [["Der Kabel**stecker** brach und musste sofort ersetzt werden", "Verschiedene Arten von **Verbindungsstücken** verbinden verschiedene Computerkomponenten"]]
+  },
+  {
+    "lemma": "connexion",
+    "meanings_de": ["britische Schreibweise für Verbindung"],
+    "definitions_de": ["britische Schreibvariante von 'connection', bedeutet eine Verbindung oder Beziehung zwischen Dingen"],
+    "examples_de": [["Das alte Dokument verwendete durchgehend '**connexion**' im Rechtstext", "Britische Autoren bevorzugen manchmal **connexion** gegenüber connection"]]
+  },
+  {
+    "lemma": "connoisseur",
+    "meanings_de": ["Kenner"],
+    "definitions_de": ["Person mit Expertenwissen und feinem Unterscheidungsvermögen in Geschmacksfragen, besonders in Kunst oder Küche"],
+    "examples_de": [["Der Wein**kenner** konnte das Weingut allein am Geschmack identifizieren", "Kunst**kenner** versammelten sich zur privaten Galerieeröffnung"]]
+  },
+  {
+    "lemma": "connotation",
+    "meanings_de": ["Konnotation"],
+    "definitions_de": ["Idee oder Gefühl, das ein Wort zusätzlich zu seiner wörtlichen oder primären Bedeutung hervorruft"],
+    "examples_de": [["Das Wort 'kindisch' hat negative **Konnotationen** im Gegensatz zu 'kindlich'", "Schriftsteller müssen **Nebenbedeutungen** bedenken, wenn sie beschreibende Wörter wählen"]]
+  },
+  {
+    "lemma": "conquering",
+    "meanings_de": ["Eroberung"],
+    "definitions_de": ["Akt des Besiegens oder Überwindens von Feinden, Hindernissen oder Herausforderungen durch Kraft oder Anstrengung"],
+    "examples_de": [["Die **Bezwingung** des Mount Everest erforderte monatelange Vorbereitung", "Ihre **Überwindung** des Lampenfiebers dauerte Jahre der Übung"]]
+  },
+  {
+    "lemma": "conqueror",
+    "meanings_de": ["Eroberer"],
+    "definitions_de": ["Person, die Menschen, Land oder Situationen durch Gewalt besiegt und die Kontrolle übernimmt"],
+    "examples_de": [["Wilhelm der **Eroberer** fiel 1066 in England ein", "Die **Eroberer** zwangen den Besiegten ihre Sprache auf"]]
+  }
+]

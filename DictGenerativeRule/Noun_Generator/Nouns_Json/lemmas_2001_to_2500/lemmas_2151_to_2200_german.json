@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "mill",
+    "meanings_de": ["Mahlbetrieb", "Verarbeitungsanlage"],
+    "definitions_de": ["Ein Gebäude mit Maschinen zum Mahlen von Getreide zu Mehl, oft historisch durch Wasser- oder Windkraft betrieben", "Eine Fabrik oder Anlage mit spezialisierten Maschinen zur industriellen Verarbeitung von Rohstoffen"],
+    "examples_de": [["Die alte **Wassermühle** am Fluss ist heute ein beliebtes Ausflugsziel", "In der historischen **Getreidemühle** wird noch immer nach traditioneller Art gemahlen"], ["Das **Stahlwerk** prägte die Industrielandschaft der Region", "Die **Papierfabrik** verarbeitet täglich tonnenweise Holz zu hochwertigem Papier"]]
+  },
+  {
+    "lemma": "processing",
+    "meanings_de": ["Verarbeitungsverfahren"],
+    "definitions_de": ["Eine Abfolge von Schritten oder Handlungen zur Bearbeitung, Umwandlung oder Vorbereitung von Materialien, Daten oder Anträgen"],
+    "examples_de": [["Die **Datenverarbeitung** erfolgt vollautomatisch in wenigen Sekunden", "Bei der **Lebensmittelverarbeitung** gelten strenge Hygienevorschriften"]]
+  },
+  {
+    "lemma": "sentiment",
+    "meanings_de": ["Gefühlsregung", "Stimmungslage"],
+    "definitions_de": ["Ein Gefühl oder eine emotionale Einstellung gegenüber etwas oder jemandem, oft verbunden mit persönlichen Erinnerungen", "Die vorherrschende Meinung oder Stimmung in einer Gruppe oder Gesellschaft zu einem bestimmten Thema"],
+    "examples_de": [["Das alte Fotoalbum weckte nostalgische **Gefühle** bei ihr", "Die **Empfindungen** beim Wiedersehen nach Jahren waren überwältigend"], ["Die **Stimmung** an den Börsen kippte nach den schlechten Nachrichten", "Die öffentliche **Meinung** zum Bauprojekt war überwiegend negativ"]]
+  },
+  {
+    "lemma": "offering",
+    "meanings_de": ["Angebot", "Opfergabe"],
+    "definitions_de": ["Etwas, das anderen zur Verfügung gestellt oder angeboten wird, besonders im geschäftlichen Kontext", "Eine Gabe oder Spende, die als religiöse Handlung oder Zeichen der Verehrung dargebracht wird"],
+    "examples_de": [["Das **Sortiment** des Restaurants umfasst auch vegane Gerichte", "Die Bank erweiterte ihr **Angebot** um nachhaltige Anlageprodukte"], ["Die Gläubigen brachten **Opfergaben** zum Erntedankfest", "Die **Kollekte** am Sonntag ist für die Renovierung der Kirche bestimmt"]]
+  },
+  {
+    "lemma": "photography",
+    "meanings_de": ["Fotografie"],
+    "definitions_de": ["Die Kunst und Technik, dauerhafte Bilder durch Aufzeichnung von Licht oder elektromagnetischer Strahlung zu erzeugen"],
+    "examples_de": [["Die **Fotografie** entwickelte sich von der Daguerreotypie zur digitalen Bildgebung", "Sie studierte **Fotografie** an der Kunsthochschule und spezialisierte sich auf Porträts"]]
+  },
+  {
+    "lemma": "coin",
+    "meanings_de": ["Münze"],
+    "definitions_de": ["Ein flaches, rundes Stück Metall, das als gesetzliches Zahlungsmittel geprägt und verwendet wird"],
+    "examples_de": [["Die seltene **Goldmünze** erzielte bei der Auktion einen Rekordpreis", "Im Brunnen lagen unzählige **Münzen** von Touristen"]]
+  },
+  {
+    "lemma": "laptop",
+    "meanings_de": ["Laptop"],
+    "definitions_de": ["Ein tragbarer Computer, der kompakt genug ist, um auf dem Schoß verwendet zu werden und über Akku betrieben werden kann"],
+    "examples_de": [["Der **Laptop** ermöglicht mobiles Arbeiten von überall", "Studierende nutzen ihre **Laptops** in Vorlesungen für digitale Mitschriften"]]
+  },
+  {
+    "lemma": "goodness",
+    "meanings_de": ["Güte", "Nährstoffgehalt"],
+    "definitions_de": ["Die Eigenschaft, moralisch gut, tugendhaft oder wohlwollend zu sein", "Der gesundheitsfördernde oder nahrhafte Bestandteil von Lebensmitteln"],
+    "examples_de": [["Ihre **Herzensgüte** zeigte sich in unzähligen kleinen Gesten", "Die **Güte** des alten Lehrers prägte Generationen von Schülern"], ["Die natürliche **Nährstoffdichte** von Vollkornprodukten ist beeindruckend", "Um die **Vitamine** im Gemüse zu erhalten, sollte es nur kurz gedünstet werden"]]
+  },
+  {
+    "lemma": "affiliation",
+    "meanings_de": ["Zugehörigkeit"],
+    "definitions_de": ["Eine formelle Verbindung oder Mitgliedschaft bei einer Organisation, Institution oder Gruppe"],
+    "examples_de": [["Seine **Zugehörigkeit** zur Universität ermöglichte ihm Zugang zur Bibliothek", "Die parteipolitische **Bindung** beeinflusste ihre öffentlichen Aussagen"]]
+  },
+  {
+    "lemma": "bee",
+    "meanings_de": ["Biene"],
+    "definitions_de": ["Ein fliegendes Insekt, das Nektar und Pollen sammelt und dabei Honig und Wachs produziert"],
+    "examples_de": [["Die **Biene** flog von Blüte zu Blüte im Sommergarten", "Das **Bienenvolk** produzierte dieses Jahr besonders viel Honig"]]
+  },
+  {
+    "lemma": "blessing",
+    "meanings_de": ["Segen", "Glücksfall"],
+    "definitions_de": ["Ein Gebet oder eine rituelle Handlung, die göttlichen Schutz und Beistand erbittet", "Etwas, das als besonders glückliche Fügung oder positive Entwicklung empfunden wird"],
+    "examples_de": [["Der Pfarrer erteilte dem Brautpaar seinen **Segen**", "Die Großeltern sprachen den **Segen** über das neugeborene Enkelkind"], ["Der Regen nach der Dürre war ein wahrer **Segen** für die Landwirte", "Die gute Gesundheit im Alter ist ein unbezahlbarer **Glücksfall**"]]
+  },
+  {
+    "lemma": "landing",
+    "meanings_de": ["Landung", "Treppenabsatz"],
+    "definitions_de": ["Das Aufsetzen eines Flugzeugs oder anderen Fluggeräts auf dem Boden nach einem Flug", "Eine ebene Fläche zwischen zwei Treppenläufen oder am oberen Ende einer Treppe"],
+    "examples_de": [["Die **Landung** verlief trotz Seitenwind butterweich", "Die spektakuläre **Mondlandung** wurde weltweit im Fernsehen übertragen"], ["Auf dem **Treppenabsatz** standen Blumentöpfe", "Der **Absatz** zwischen den Stockwerken bot Platz für eine kleine Sitzbank"]]
+  },
+  {
+    "lemma": "repair",
+    "meanings_de": ["Reparatur"],
+    "definitions_de": ["Die Tätigkeit des Instandsetzens oder Ausbesserung von etwas Beschädigtem oder Defektem"],
+    "examples_de": [["Die **Reparatur** der Waschmaschine dauerte länger als erwartet", "Nach dem Sturm waren umfangreiche **Dachausbesserungen** nötig"]]
+  },
+  {
+    "lemma": "worry",
+    "meanings_de": ["Sorge"],
+    "definitions_de": ["Ein Zustand der Unruhe und Besorgnis über tatsächliche oder mögliche Probleme"],
+    "examples_de": [["Die **Sorge** um die kranke Mutter ließ sie nicht schlafen", "Finanzielle **Sorgen** belasteten die junge Familie"]]
+  },
+  {
+    "lemma": "ritual",
+    "meanings_de": ["Ritual"],
+    "definitions_de": ["Eine festgelegte Abfolge zeremonieller Handlungen mit symbolischer Bedeutung, oft religiöser oder kultureller Natur"],
+    "examples_de": [["Das morgendliche **Ritual** des Zeitungslesens beim Kaffee war ihm heilig", "Alte **Rituale** zur Sommersonnenwende werden noch heute gepflegt"]]
+  },
+  {
+    "lemma": "bath",
+    "meanings_de": ["Badewanne", "Bad"],
+    "definitions_de": ["Ein großer Behälter zum Baden, in dem der ganze Körper mit Wasser bedeckt werden kann", "Der Vorgang des Badens oder Waschens des ganzen Körpers im Wasser"],
+    "examples_de": [["Die freistehende **Badewanne** war das Herzstück des neuen Badezimmers", "In der antiken **Wanne** badeten schon Generationen"], ["Ein heißes **Bad** nach einem langen Arbeitstag wirkt Wunder", "Das abendliche **Bad** gehörte zum festen Ritual der Kinder"]]
+  },
+  {
+    "lemma": "mud",
+    "meanings_de": ["Schlamm"],
+    "definitions_de": ["Weiche, nasse Erde, die entsteht, wenn Boden sich mit Wasser vermischt"],
+    "examples_de": [["Nach dem Regen war der Waldweg voller **Schlamm**", "Die Kinder spielten begeistert im **Matsch**"]]
+  },
+  {
+    "lemma": "reminder",
+    "meanings_de": ["Erinnerung"],
+    "definitions_de": ["Etwas, das dazu dient, jemanden an etwas zu erinnern oder nicht vergessen zu lassen"],
+    "examples_de": [["Die **Erinnerung** im Smartphone half ihr, keinen Termin zu verpassen", "Der Knoten im Taschentuch diente als simple **Gedächtnisstütze**"]]
+  },
+  {
+    "lemma": "slavery",
+    "meanings_de": ["Sklaverei"],
+    "definitions_de": ["Der Zustand, in dem Menschen als Eigentum anderer gelten und zu unbezahlter Arbeit gezwungen werden"],
+    "examples_de": [["Die Abschaffung der **Sklaverei** war ein Meilenstein der Menschheitsgeschichte", "Museen dokumentieren die grausame Geschichte der **Sklaverei**"]]
+  },
+  {
+    "lemma": "supervisor",
+    "meanings_de": ["Vorgesetzter"],
+    "definitions_de": ["Eine Person, die die Arbeit anderer überwacht, anleitet und für deren Leistung verantwortlich ist"],
+    "examples_de": [["Der **Vorgesetzte** führte regelmäßige Mitarbeitergespräche", "Bei Problemen sollten Sie sich an Ihre **Teamleitung** wenden"]]
+  },
+  {
+    "lemma": "quantity",
+    "meanings_de": ["Menge"],
+    "definitions_de": ["Die Anzahl oder das Ausmaß von etwas, das gemessen oder gezählt werden kann"],
+    "examples_de": [["Die **Menge** der benötigten Zutaten stand genau im Rezept", "Große **Datenmengen** erfordern leistungsfähige Server"]]
+  },
+  {
+    "lemma": "olympics",
+    "meanings_de": ["Olympische Spiele"],
+    "definitions_de": ["Internationale Sportwettkämpfe, die alle vier Jahre als Sommer- und Winterspiele ausgetragen werden"],
+    "examples_de": [["Die **Olympischen Spiele** vereinen Athleten aus aller Welt", "Bei den **Olympischen Spielen** in München 1972 ereignete sich eine Tragödie"]]
+  },
+  {
+    "lemma": "slope",
+    "meanings_de": ["Hang", "Gefälle"],
+    "definitions_de": ["Eine geneigte Fläche, die in einem Winkel zur Horizontalen steht", "Das Maß der Neigung, ausgedrückt als Verhältnis von Höhe zu Länge"],
+    "examples_de": [["Der steile **Hang** war nur für geübte Skifahrer geeignet", "Am sanften **Abhang** blühten Wildblumen"], ["Das **Gefälle** der Straße betrug 12 Prozent", "Ingenieure berechneten die optimale **Neigung** für die Entwässerung"]]
+  },
+  {
+    "lemma": "skirt",
+    "meanings_de": ["Rock"],
+    "definitions_de": ["Ein Kleidungsstück, das um die Taille getragen wird und nach unten über die Beine hängt"],
+    "examples_de": [["Der elegante **Rock** reichte bis zu den Knöcheln", "Zur Schuluniform gehörte ein karierter **Faltenrock**"]]
+  },
+  {
+    "lemma": "outlet",
+    "meanings_de": ["Steckdose", "Outlet-Store", "Ventil"],
+    "definitions_de": ["Eine Wanddose zum Anschluss elektrischer Geräte an das Stromnetz", "Ein Geschäft, das Waren direkt vom Hersteller zu reduzierten Preisen verkauft", "Eine Möglichkeit, Emotionen oder Energie auszudrücken oder abzubauen"],
+    "examples_de": [["Die **Steckdose** neben dem Schreibtisch war ständig belegt", "Der Elektriker installierte zusätzliche **Steckdosen** in der Küche"], ["Im **Outlet-Center** fanden sie Designermode zum halben Preis", "Das **Werksverkauf** lockte Schnäppchenjäger aus der ganzen Region"], ["Sport war für ihn das perfekte **Ventil** für Stress", "Die Malerei wurde zu ihrem kreativen **Ausdrucksmittel**"]]
+  },
+  {
+    "lemma": "curtain",
+    "meanings_de": ["Vorhang"],
+    "definitions_de": ["Ein Stück Stoff, das zur Abdeckung von Fenstern oder zur Raumteilung aufgehängt wird"],
+    "examples_de": [["Die schweren **Vorhänge** hielten das Sonnenlicht ab", "Sie zog die **Gardinen** zu, um ihre Privatsphäre zu schützen"]]
+  },
+  {
+    "lemma": "declaration",
+    "meanings_de": ["Erklärung"],
+    "definitions_de": ["Eine formelle oder offizielle Bekanntmachung oder Stellungnahme zu etwas"],
+    "examples_de": [["Die **Unabhängigkeitserklärung** der USA prägte die moderne Demokratie", "Die **Erklärung** der Geschäftsführung beruhigte die Investoren"]]
+  },
+  {
+    "lemma": "switch",
+    "meanings_de": ["Schalter", "Wechsel"],
+    "definitions_de": ["Ein Gerät zum Öffnen oder Schließen eines elektrischen Stromkreises", "Der Vorgang des Wechselns von einer Sache zu einer anderen"],
+    "examples_de": [["Der **Lichtschalter** befand sich direkt neben der Tür", "Ein **Sicherheitsschalter** verhinderte elektrische Unfälle"], ["Der **Wechsel** zur digitalen Kommunikation verlief rasant", "Der **Umstieg** auf erneuerbare Energien erfordert sorgfältige Planung"]]
+  },
+  {
+    "lemma": "calendar",
+    "meanings_de": ["Kalender"],
+    "definitions_de": ["Ein System zur Darstellung von Tagen, Wochen und Monaten eines bestimmten Jahres"],
+    "examples_de": [["Wichtige Termine trug sie sofort in ihren **Kalender** ein", "Der **Schulkalender** zeigte alle Ferien und Feiertage"]]
+  },
+  {
+    "lemma": "paragraph",
+    "meanings_de": ["Absatz"],
+    "definitions_de": ["Ein abgegrenzter Abschnitt eines Textes, der sich mit einem einzelnen Thema befasst"],
+    "examples_de": [["Jeder **Absatz** sollte einen klaren Gedanken entwickeln", "Der einleitende **Paragraph** fesselte die Leser sofort"]]
+  },
+  {
+    "lemma": "quest",
+    "meanings_de": ["Suche"],
+    "definitions_de": ["Eine lange oder beschwerliche Suche nach etwas Wichtigem oder Bedeutsamem"],
+    "examples_de": [["Die **Suche** nach dem Heiligen Gral wurde zur Legende", "Wissenschaftler setzen ihre **Suche** nach einem Heilmittel gegen Krebs fort"]]
+  },
+  {
+    "lemma": "flat",
+    "meanings_de": ["ebene Fläche", "Wohnung"],
+    "definitions_de": ["Eine Oberfläche ohne Erhebungen oder Vertiefungen", "Eine Wohnung auf einer Etage eines Gebäudes"],
+    "examples_de": [["Die **flache** Landschaft erstreckte sich bis zum Horizont", "Der Tisch muss absolut **eben** sein für die Montage"], ["Die **Wohnung** im dritten Stock hatte einen Balkon", "Sie bezogen eine gemütliche **Zweizimmerwohnung** in der Altstadt"]]
+  },
+  {
+    "lemma": "entrepreneur",
+    "meanings_de": ["Unternehmer"],
+    "definitions_de": ["Eine Person, die ein Unternehmen gründet und betreibt und dabei finanzielle Risiken auf sich nimmt"],
+    "examples_de": [["Der **Unternehmer** gründete bereits sein drittes Start-up", "Junge **Gründer** treiben die Innovation im Technologiesektor voran"]]
+  },
+  {
+    "lemma": "clay",
+    "meanings_de": ["Ton"],
+    "definitions_de": ["Eine feste, klebrige Erdart, die sich im feuchten Zustand formen lässt und beim Erhitzen aushärtet"],
+    "examples_de": [["Künstler formten aus **Ton** kunstvolle Keramiken", "Der **Lehmboden** war zu schwer für den Gemüseanbau"]]
+  },
+  {
+    "lemma": "noon",
+    "meanings_de": ["Mittag"],
+    "definitions_de": ["Zwölf Uhr mittags, die Mitte des Tages"],
+    "examples_de": [["Das Treffen ist für morgen **Mittag** angesetzt", "Um **zwölf Uhr mittags** steht die Sonne am höchsten"]]
+  },
+  {
+    "lemma": "elbow",
+    "meanings_de": ["Ellbogen"],
+    "definitions_de": ["Das Gelenk zwischen Unterarm und Oberarm"],
+    "examples_de": [["Er stieß sich den **Ellbogen** beim Basketball", "Die **Ellenbogen** gehören beim Essen nicht auf den Tisch"]]
+  },
+  {
+    "lemma": "unity",
+    "meanings_de": ["Einheit"],
+    "definitions_de": ["Der Zustand des Zusammenhalts oder der Geschlossenheit als Ganzes"],
+    "examples_de": [["Die nationale **Einheit** wurde in der Krise gestärkt", "Das Team zeigte bemerkenswerte **Geschlossenheit** beim Verfolgen ihres Ziels"]]
+  },
+  {
+    "lemma": "rent",
+    "meanings_de": ["Miete", "Riss"],
+    "definitions_de": ["Eine regelmäßige Zahlung eines Mieters an einen Vermieter für die Nutzung einer Immobilie", "Ein großer Riss oder eine Öffnung in Stoff oder Material"],
+    "examples_de": [["Die monatliche **Miete** schloss Nebenkosten und Parkplatz ein", "Die **Mietpreise** in Großstädten stiegen erheblich"], ["Der Sturm hinterließ einen großen **Riss** im Zeltstoff", "Der **Riss** im Segel musste sofort repariert werden"]]
+  },
+  {
+    "lemma": "airplane",
+    "meanings_de": ["Flugzeug"],
+    "definitions_de": ["Ein motorgetriebenes Luftfahrzeug mit festen Flügeln für den Luftverkehr"],
+    "examples_de": [["Das **Flugzeug** startete trotz Wetterproblemen pünktlich", "Moderne **Flugzeuge** können nonstop über Ozeane fliegen"]]
+  },
+  {
+    "lemma": "portfolio",
+    "meanings_de": ["Arbeitsmappe", "Anlageportfolio"],
+    "definitions_de": ["Eine Sammlung von Arbeitsproben, die Fähigkeiten und Leistungen demonstriert", "Eine Zusammenstellung von Investitionen einer Person oder Organisation"],
+    "examples_de": [["Die **Mappe** der Künstlerin zeigte ihre besten Gemälde", "Bewerber sollten ihre **Arbeitsproben** zum Vorstellungsgespräch mitbringen"], ["Ihr **Anlageportfolio** umfasste Aktien und Anleihen", "Die **Diversifizierung** des Portfolios reduziert finanzielle Risiken"]]
+  },
+  {
+    "lemma": "northwest",
+    "meanings_de": ["Nordwesten"],
+    "definitions_de": ["Die Himmelsrichtung oder Region zwischen Norden und Westen"],
+    "examples_de": [["Im Winter wehen starke Winde aus **Nordwesten**", "Sie reisten durch die Berge in **nordwestlicher** Richtung"]]
+  },
+  {
+    "lemma": "sweat",
+    "meanings_de": ["Schweiß"],
+    "definitions_de": ["Feuchtigkeit, die durch die Poren der Haut ausgeschieden wird, typischerweise bei körperlicher Anstrengung"],
+    "examples_de": [["Der **Schweiß** tropfte ihm während des Trainings von der Stirn", "Der Körper produziert **Schweiß** zur Temperaturregulierung"]]
+  },
+  {
+    "lemma": "treasure",
+    "meanings_de": ["Schatz", "Kostbarkeit"],
+    "definitions_de": ["Eine Sammlung wertvoller Gegenstände wie Gold, Silber oder Juwelen", "Etwas, das wegen seines Wertes oder seiner Bedeutung hoch geschätzt wird"],
+    "examples_de": [["Piraten vergruben **Schätze** auf abgelegenen Inseln", "Das Museum zeigt **Schätze** aus antiken Zivilisationen"], ["Kinder sind der größte **Schatz** ihrer Eltern", "Sie hütete die handgeschriebenen Briefe ihrer Großmutter wie einen **Schatz**"]]
+  },
+  {
+    "lemma": "flour",
+    "meanings_de": ["Mehl"],
+    "definitions_de": ["Pulver, das durch Mahlen von Getreide, insbesondere Weizen, gewonnen wird"],
+    "examples_de": [["**Weizenmehl** Type 405 eignet sich besonders für Kuchen", "Sie maß zwei Tassen **Mehl** für das Rezept ab"]]
+  },
+  {
+    "lemma": "rally",
+    "meanings_de": ["Kundgebung", "Erholung"],
+    "definitions_de": ["Eine Massenversammlung von Menschen für eine politische oder andere Sache", "Eine Erholung oder Steigerung nach einer Phase des Rückgangs"],
+    "examples_de": [["Tausende nahmen an der **Kundgebung** für Klimaschutz teil", "Die **Demonstration** mobilisierte Anhänger aus dem ganzen Land"], ["Die **Erholung** am Aktienmarkt überraschte viele Investoren", "Die **Aufholjagd** des Teams im vierten Viertel sicherte den Sieg"]]
+  },
+  {
+    "lemma": "default",
+    "meanings_de": ["Zahlungsausfall", "Standardeinstellung"],
+    "definitions_de": ["Das Versäumnis, eine Verpflichtung zu erfüllen, insbesondere die Rückzahlung eines Kredits", "Eine voreingestellte Option, die verwendet wird, wenn keine Alternative angegeben wird"],
+    "examples_de": [["Die **Zahlungsausfälle** bei Hypotheken stiegen während der Rezession", "Das Unternehmen stand vor dem **Ausfall** seiner Anleihen"], ["Die **Standardeinstellungen** funktionieren für die meisten Nutzer gut", "Ändern Sie die **Voreinstellung** der Schriftart in Ihrer Textverarbeitung"]]
+  },
+  {
+    "lemma": "plain",
+    "meanings_de": ["Ebene", "schlicht"],
+    "definitions_de": ["Ein großes Gebiet flachen Landes mit wenigen Bäumen", "Ohne Verzierung oder Schmuck, einfach gestaltet"],
+    "examples_de": [["Büffel durchstreiften einst in Millionen die großen **Ebenen**", "Die fruchtbare **Tiefebene** ermöglichte extensive Landwirtschaft"], ["Sie bevorzugte **schlichte** Kleidung ohne Muster", "Schreiben Sie in **einfacher** Sprache, die jeder versteht"]]
+  },
+  {
+    "lemma": "exploration",
+    "meanings_de": ["Erforschung"],
+    "definitions_de": ["Die Tätigkeit, durch ein unbekanntes Gebiet zu reisen, um es zu erkunden und kennenzulernen"],
+    "examples_de": [["Die **Weltraumforschung** erweitert die Grenzen menschlichen Wissens", "Die frühe **Erforschung** Amerikas veränderte die Weltgeschichte"]]
+  },
+  {
+    "lemma": "limb",
+    "meanings_de": ["Gliedmaße", "Ast"],
+    "definitions_de": ["Ein Arm oder Bein einer Person oder eines Tieres", "Ein großer Zweig eines Baumes"],
+    "examples_de": [["Der Unfall hinterließ ihn mit einer gebrochenen **Gliedmaße**", "Physiotherapie half, ihre verletzte **Extremität** zu stärken"], ["Der Sturm brach mehrere große **Äste** von der Eiche", "Vögel nisteten in den oberen **Zweigen** der Bäume"]]
+  },
+  {
+    "lemma": "charter",
+    "meanings_de": ["Gründungsurkunde", "Chartervertrag"],
+    "definitions_de": ["Ein schriftliches Dokument, das Rechte oder Privilegien von einem Herrscher oder einer Regierung gewährt", "Die Anmietung eines Flugzeugs, Schiffes oder Fahrzeugs für private Zwecke"],
+    "examples_de": [["Die Universität arbeitet unter einer königlichen **Charta**", "Die **Gründungsurkunde** legte grundlegende Rechte und Freiheiten fest"], ["Sie organisierten einen **Charterflug** für das Team", "**Angel-Charterboote** verlassen den Hafen bei Morgengrauen"]]
+  }
+]

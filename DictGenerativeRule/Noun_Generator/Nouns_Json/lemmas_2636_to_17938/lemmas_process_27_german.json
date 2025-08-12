@@ -1,0 +1,254 @@
+[
+  {
+    "lemma": "cipher",
+    "meanings_de": ["Geheimschriftsystem", "Zahlennull", "unbedeutende Person"],
+    "definitions_de": ["System der Geheimschrift, das Symbole oder Buchstaben verwendet, um Bedeutungen zu verschleiern", "Symbol oder Zeichen, das in der Mathematik oder beim Zählen die Null darstellt", "Person, die in einem bestimmten Kontext keinen Einfluss oder keine Bedeutung hat"],
+    "examples_de": [["Der Spion verwendete eine komplexe **Chiffre**, um die Nachricht zu verschlüsseln", "Alte Zivilisationen entwickelten **Geheimschriften** zum Schutz militärischer Geheimnisse"], ["Schreiben Sie die Zahl mit der **Ziffer** am Ende auf", "Der Abakus stellt die Null durch eine leere **Ziffernposition** dar"], ["Er fühlte sich wie eine bloße **Nummer** in der Unternehmenshierarchie", "Der Diktator behandelte seine Minister als bedeutungslose **Marionetten**"]]
+  },
+  {
+    "lemma": "circuitry",
+    "meanings_de": ["elektronisches Schaltungssystem"],
+    "definitions_de": ["Verbundenes System aus elektronischen Bauteilen und Leiterbahnen, die elektrische Schaltkreise bilden"],
+    "examples_de": [["Die **Schaltkreise** des Computers wurden durch den Stromstoß beschädigt", "Ingenieure entwarfen sorgfältig die **Schaltungstechnik** für das neue Smartphone"], ["Komplexe **Elektronik** steuert die Bewegungen und Sensoren des Roboters", "Der Techniker untersuchte die **Leiterbahnen** mit einer Lupe"]]
+  },
+  {
+    "lemma": "circular",
+    "meanings_de": ["gedrucktes Rundschreiben"],
+    "definitions_de": ["Gedruckte Werbung oder Mitteilung, die an viele Personen verteilt oder öffentlich ausgehängt wird"],
+    "examples_de": [["Das Unternehmen verschickte ein **Rundschreiben** zur neuen Richtlinie", "Wir erhielten ein **Informationsblatt** über die Nachbarschaftsversammlung nächste Woche"], ["Die **Werbeprospekte** der Geschäfte lagen der Sonntagszeitung bei", "Die Schule verteilte ein **Rundschreiben** an alle Eltern über kommende Veranstaltungen"]]
+  },
+  {
+    "lemma": "circulation",
+    "meanings_de": ["Bewegung durch System", "Verbreitung von Publikationen", "Blutkreislaufsystem"],
+    "definitions_de": ["Kontinuierliche Bewegung von etwas durch ein geschlossenes System oder einen definierten Pfad", "Anzahl der Exemplare einer Publikation, die an Leser verteilt oder verkauft werden", "Bewegung des Blutes durch die Körpergefäße, angetrieben vom Herzen"],
+    "examples_de": [["Die **Luftzirkulation** im Gebäude verbesserte sich nach Installation neuer Ventilatoren", "Der **Geldumlauf** in der Wirtschaft beeinflusst die Inflationsrate"], ["Die **Auflage** der Zeitung sank im letzten Jahr erheblich", "Digitale Abonnements übersteigen mittlerweile die **Druckauflage** bei den meisten Zeitschriften"], ["Schlechte **Durchblutung** in seinen Beinen verursachte Taubheit und Kribbeln", "Bewegung hilft, die **Blutzirkulation** im ganzen Körper zu verbessern"]]
+  },
+  {
+    "lemma": "circumcision",
+    "meanings_de": ["operative Vorhautentfernung"],
+    "definitions_de": ["Chirurgischer Eingriff zur Entfernung der Vorhaut am männlichen Geschlechtsorgan aus religiösen, kulturellen oder medizinischen Gründen"],
+    "examples_de": [["Die **Beschneidung** wurde von einem ausgebildeten Mediziner durchgeführt", "Viele Religionen praktizieren die **Zirkumzision** als heiliges Ritual"], ["Der Arzt besprach Nutzen und Risiken der **Beschneidung** mit den Eltern", "Die **Beschneidungsraten** variieren erheblich zwischen verschiedenen Ländern und Kulturen"]]
+  },
+  {
+    "lemma": "circumference",
+    "meanings_de": ["Kreisumfang"],
+    "definitions_de": ["Abstand um den äußeren Rand eines Kreises oder gekrümmten Objekts"],
+    "examples_de": [["Berechnen Sie den **Umfang** eines Kreises mit Radius fünf Zentimeter", "Der **Stammumfang** des Baumes maß über drei Meter an der Basis"], ["Wir liefen den gesamten **Seeumfang** in zwei Stunden ab", "Der **Erdumfang** am Äquator beträgt ungefähr 40.075 Kilometer"]]
+  },
+  {
+    "lemma": "circumnavigation",
+    "meanings_de": ["vollständige Umrundung"],
+    "definitions_de": ["Handlung des vollständigen Umrundens von etwas, insbesondere das Umsegeln der Welt"],
+    "examples_de": [["Magellans Expedition vollendete die erste **Weltumsegelung**", "Der Yachtclub plante eine **Inselumrundung**"], ["Ihre **Weltumsegelung** im Alleingang dauerte drei Jahre", "Moderne **Erdumrundungsrekorde** werden in Tagen statt Jahren gemessen"]]
+  },
+  {
+    "lemma": "circumvention",
+    "meanings_de": ["Umgehung von Hindernissen"],
+    "definitions_de": ["Handlung des Findens eines Weges um ein Hindernis, eine Regel oder ein Problem herum, anstatt es direkt anzugehen"],
+    "examples_de": [["Die **Umgehung** der Sicherheitsprotokolle führte zu einer Datenpanne", "Anwälte fanden eine legale **Umgehung** der Handelsbeschränkungen"], ["Seine **Umgehung** der Unternehmensrichtlinien führte zur sofortigen Kündigung", "Die Software ermöglicht die **Umgehung** regionaler Inhaltssperren"]]
+  },
+  {
+    "lemma": "cistern",
+    "meanings_de": ["Wasserspeichertank"],
+    "definitions_de": ["Großer Tank oder unterirdisches Reservoir zur Speicherung von Wasser, insbesondere Regenwasser"],
+    "examples_de": [["Die antike **Zisterne** hält nach zweitausend Jahren immer noch Wasser", "Sie installierten eine **Zisterne** zum Sammeln von Regenwasser für den Garten"], ["Die **Zisterne** unter der Festung konnte während Belagerungen Wasser liefern", "Moderne **Zisternen** helfen beim Wassersparen in dürregefährdeten Regionen"]]
+  },
+  {
+    "lemma": "citadel",
+    "meanings_de": ["Festungsburg"],
+    "definitions_de": ["Festung, die auf erhöhtem Gelände gebaut wurde, um eine Stadt zu schützen oder zu beherrschen"],
+    "examples_de": [["Die **Zitadelle** überblickte das gesamte Tal", "Feindliche Truppen konnten die massiven Mauern der **Festung** nicht durchbrechen"], ["Touristen stiegen zur **Zitadelle** hinauf für Panoramablicke", "Die alte **Festungsanlage** diente als letzte Verteidigung gegen Eindringlinge"]]
+  },
+  {
+    "lemma": "citation",
+    "meanings_de": ["Verweis auf Quelle", "amtliche Vorladung", "förmliche Belobigung"],
+    "definitions_de": ["Formaler Verweis auf eine Informationsquelle in wissenschaftlichen oder juristischen Arbeiten", "Amtliche Aufforderung, vor Gericht zu erscheinen oder eine Strafe für einen Verstoß zu zahlen", "Offizielle Anerkennung oder Belobigung für herausragenden Dienst oder Leistung"],
+    "examples_de": [["Fügen Sie korrekte **Zitate** für alle zitierten Materialien in Ihre Arbeit ein", "Das **Zitierformat** variiert zwischen akademischen Disziplinen"], ["Der Beamte stellte einen **Strafzettel** für illegales Parken aus", "Sie erhielt letzten Monat drei **Verwarnungen** wegen Geschwindigkeitsüberschreitung"], ["Der Soldat erhielt eine **Auszeichnung** für Tapferkeit unter Feuer", "Die **Belobigung** würdigte ihre jahrzehntelange Gemeindearbeit"]]
+  },
+  {
+    "lemma": "citizenry",
+    "meanings_de": ["Bürgerschaft"],
+    "definitions_de": ["Alle Bürger eines bestimmten Ortes, betrachtet als kollektive Gruppe"],
+    "examples_de": [["Die **Bürgerschaft** forderte Maßnahmen gegen den Klimawandel", "Eine informierte **Bürgerschaft** ist für das Funktionieren der Demokratie unerlässlich"], ["Der Bürgermeister ging auf Bedenken der örtlichen **Einwohnerschaft** ein", "Die **Bürger** stimmten mit überwältigender Mehrheit für den neuen Park"]]
+  },
+  {
+    "lemma": "citron",
+    "meanings_de": ["große zitronenähnliche Frucht"],
+    "definitions_de": ["Große duftende Zitrusfrucht mit dicker buckliger Schale, hauptsächlich für ihre Schale verwendet"],
+    "examples_de": [["Das Rezept verlangt kandierte **Zitronatzitronenschale**", "Frische **Zedratzitronen** verleihen mediterranen Gerichten einen einzigartigen Geschmack"], ["Buddhistische Opfergaben enthalten oft **Zitronen** wegen ihrer symbolischen Bedeutung", "Der **Zitronatbaum** trägt in warmen Klimazonen fast ganzjährig Früchte"]]
+  },
+  {
+    "lemma": "cityscape",
+    "meanings_de": ["städtisches Panorama"],
+    "definitions_de": ["Visuelles Erscheinungsbild der Gebäude und Strukturen einer Stadt als Gesamtszene betrachtet"],
+    "examples_de": [["Der Fotograf hielt die **Stadtsilhouette** bei Sonnenuntergang fest", "Wolkenkratzer dominieren das moderne **Stadtbild** von Manhattan"], ["Das **Stadtpanorama** veränderte sich dramatisch nach dem Bau der neuen Türme", "Künstler malen oft **Stadtansichten** von Dachterrassen aus"]]
+  },
+  {
+    "lemma": "civilisation",
+    "meanings_de": ["fortgeschrittene menschliche Gesellschaft"],
+    "definitions_de": ["Komplexe menschliche Gesellschaft mit entwickelter Kultur, Regierung, Technologie und sozialen Institutionen"],
+    "examples_de": [["Die altägyptische **Zivilisation** bestand über dreitausend Jahre", "Der Aufstieg der **Zivilisation** begann mit Landwirtschaft und dauerhaften Siedlungen"], ["Die westliche **Zivilisation** hat ihren Einfluss global verbreitet", "Jede **Hochkultur** trägt einzigartige Errungenschaften zum menschlichen Fortschritt bei"]]
+  },
+  {
+    "lemma": "civility",
+    "meanings_de": ["höfliches respektvolles Verhalten"],
+    "definitions_de": ["Formale Höflichkeit und Zuvorkommenheit im Verhalten oder in der Sprache zwischen Menschen"],
+    "examples_de": [["Die Debatte behielt trotz starker Meinungsverschiedenheiten ihre **Höflichkeit**", "Grundlegende **Umgangsformen** scheinen in Online-Diskussionen zu fehlen"], ["Sie behandelte jeden mit **Respekt**, unabhängig von dessen Status", "**Höflichkeit** kostet nichts, bringt aber große soziale Vorteile"]]
+  },
+  {
+    "lemma": "clack",
+    "meanings_de": ["scharfes Klickgeräusch"],
+    "definitions_de": ["Kurzes scharfes Geräusch, das entsteht, wenn harte Gegenstände wiederholt aufeinanderschlagen"],
+    "examples_de": [["Die Schreibmaschinentasten machten ein rhythmisches **Klackern**", "Wir hörten das **Klappern** von hohen Absätzen auf Marmorboden"], ["Die Zugräder erzeugten ein stetiges **Rattern** auf den Schienen", "Das **Klacken** der Billardkugeln erfüllte die Spielhalle"]]
+  },
+  {
+    "lemma": "cladding",
+    "meanings_de": ["schützende Verkleidung"],
+    "definitions_de": ["Material, das als schützende oder dekorative Abdeckung für Gebäudewände oder andere Strukturen verwendet wird"],
+    "examples_de": [["Die **Aluminiumverkleidung** des Gebäudes reflektierte das Sonnenlicht", "Feuerbeständige **Fassadenverkleidung** ist jetzt durch Bauvorschriften vorgeschrieben"], ["Arbeiter installierten neue **Außenverkleidung** am Lagerhaus", "Die **Verkleidung** schützt die Struktur vor Witterungsschäden"]]
+  },
+  {
+    "lemma": "claimant",
+    "meanings_de": ["Person mit Anspruch"],
+    "definitions_de": ["Person, die einen formellen Antrag oder eine Forderung für etwas stellt, auf das sie Anspruch zu haben glaubt"],
+    "examples_de": [["Der **Antragsteller** bei der Versicherung reichte alle notwendigen Unterlagen ein", "Mehrere **Anspruchsberechtigte** erschienen zur Erbschaft"], ["Der **Kläger** muss Beweise zur Unterstützung seines Falls vorlegen", "Die Zahl der **Arbeitslosen**leistungsempfänger stieg während der Rezession"]]
+  },
+  {
+    "lemma": "clairvoyance",
+    "meanings_de": ["übernatürliche Wahrnehmungsfähigkeit"],
+    "definitions_de": ["Angebliche Fähigkeit, Dinge jenseits normaler sensorischer Kontakte wahrzunehmen oder zukünftige Ereignisse vorherzusagen"],
+    "examples_de": [["Sie behauptete, **Hellsichtigkeit** zu besitzen und bot übersinnliche Beratungen an", "Wissenschaftler fanden keine Beweise für Behauptungen von **Hellseherei**"], ["Die **Hellsichtigkeit** der Wahrsagerin zog viele verzweifelte Kunden an", "Seine scheinbare **Vorahnung** war lediglich geschickte Beobachtung und Vermutung"]]
+  },
+  {
+    "lemma": "clairvoyant",
+    "meanings_de": ["Person mit Vorhersehungsgabe"],
+    "definitions_de": ["Person, die behauptet, übernatürliche Fähigkeiten zu haben, Ereignisse jenseits normaler sensorischer Kontakte wahrzunehmen"],
+    "examples_de": [["Die **Hellseherin** sagte große Veränderungen in ihrem Leben voraus", "Die Polizei konsultiert manchmal **Hellseher** bei Vermisstenfällen"], ["Die selbsternannte **Wahrsagerin** verlangte hohe Gebühren für Beratungen", "Viele **Hellseher** verwenden Cold-Reading-Techniken, um glaubwürdig zu wirken"]]
+  },
+  {
+    "lemma": "clam",
+    "meanings_de": ["essbare Meeresmuschel"],
+    "definitions_de": ["Marine Muschel mit zwei gelenkigen Schalen, die im Sand oder Schlamm vergraben lebt"],
+    "examples_de": [["Wir gruben bei Ebbe am Strand nach **Muscheln**", "Das Restaurant serviert frische **Venusmuscheln** in Knoblauchbutter"], ["**Muscheln** filtern ihre Nahrung, indem sie Wasser durch ihre Körper pumpen", "Die **Riesenmuschel** kann über 200 Kilogramm wiegen"]]
+  },
+  {
+    "lemma": "clamor",
+    "meanings_de": ["lauter verworrener Lärm"],
+    "definitions_de": ["Lauter und verworrener Lärm aus vielen Quellen, besonders von rufenden Menschen"],
+    "examples_de": [["Der **Tumult** des Protests war noch Straßen entfernt zu hören", "Ein **Aufruhr** entstand, als das Urteil verkündet wurde"], ["Kinder machten fröhlichen **Lärm** auf dem Spielplatz", "Der **Ruf** nach Reformen wurde täglich lauter"]]
+  },
+  {
+    "lemma": "clamp",
+    "meanings_de": ["Befestigungswerkzeug"],
+    "definitions_de": ["Gerät mit beweglichen Backen, das verwendet wird, um Gegenstände fest zusammen oder in Position zu halten"],
+    "examples_de": [["Verwenden Sie eine **Schraubzwinge**, um die Holzstücke zu halten, während der Leim trocknet", "Der Mechaniker zog die **Schlauchklemme** fest, um das Leck zu stoppen"], ["Schwere **Spannvorrichtungen** sicherten die Ausrüstung während des Transports", "Sie befestigte die Lampe mit einer **Klemme** an ihrem Schreibtisch"]]
+  },
+  {
+    "lemma": "clamshell",
+    "meanings_de": ["klappbares Behälterdesign"],
+    "definitions_de": ["Behälter oder Gerät mit zwei gelenkigen Teilen, die sich wie eine Muschelschale öffnen und schließen"],
+    "examples_de": [["Das **Klappdesign** des Laptops schützt den Bildschirm beim Schließen", "Das Essen kam in einem weißen **Klappbehälter**"], ["Das **Klapphandy** war vor Smartphones beliebt", "**Klappverpackungen** halten Beeren während des Versands frisch"]]
+  },
+  {
+    "lemma": "clan",
+    "meanings_de": ["verwandte Familiengruppe"],
+    "definitions_de": ["Gruppe von Familien oder Menschen mit gemeinsamer Abstammung, besonders in der schottischen Hochlandkultur"],
+    "examples_de": [["Der MacDonald-**Clan** versammelte sich zu seinem jährlichen Treffen", "Jeder **Clan** trug charakteristische Tartanmuster"], ["Das **Clansystem** bot soziale Struktur in alten Gesellschaften", "Gaming-**Clans** treten gemeinsam in Online-Turnieren an"]]
+  },
+  {
+    "lemma": "clank",
+    "meanings_de": ["metallisches Schlaggeräusch"],
+    "definitions_de": ["Lautes dumpfes Geräusch, das entsteht, wenn schwere Metallgegenstände aufeinanderschlagen"],
+    "examples_de": [["Gefängnisketten machten bei jedem Schritt ein **Klirren**", "Das **Scheppern** der Maschinen erfüllte die Fabrikhalle"], ["Wir hörten ein mysteriöses **Rasseln** aus dem Keller", "Die Rüstung des Ritters erzeugte ein **Klirren**, als er ging"]]
+  },
+  {
+    "lemma": "clap",
+    "meanings_de": ["plötzlicher lauter Schall", "Donnerschlag"],
+    "definitions_de": ["Scharfes plötzliches Geräusch durch Zusammenschlagen der Hände oder Kollision von Gegenständen", "Plötzliches lautes Donnergeräusch"],
+    "examples_de": [["Ein einzelner **Schlag** hallte durch die leere Halle", "Die Tür schloss mit einem lauten **Knall**"], ["Ein ohrenbetäubender **Donnerschlag** erschütterte das Haus", "Der Sturm begann mit einem hellen Blitz gefolgt von einem **Krachen**"]]
+  },
+  {
+    "lemma": "clapboard",
+    "meanings_de": ["hölzernes Verkleidungsbrett"],
+    "definitions_de": ["Langes dünnes Holzbrett, das als Außenverkleidung an Gebäuden verwendet wird, horizontal überlappend"],
+    "examples_de": [["Das Kolonialhaus hatte weiße **Schindelverschalung**", "Wir müssen mehrere beschädigte **Fassadenbretter** ersetzen"], ["**Stülpschalung** verleiht Häusern ein traditionelles Neuengland-Aussehen", "Der Maler kratzte alte Farbe von der **Holzverschalung**"]]
+  },
+  {
+    "lemma": "clapper",
+    "meanings_de": ["Glockenschwengel"],
+    "definitions_de": ["Metallstück im Inneren einer Glocke, das an die Seiten schlägt, um Klang zu erzeugen"],
+    "examples_de": [["Der gebrochene **Klöppel** verhinderte das Läuten der Kirchenglocke", "Der **Schwengel** schwang frei, als die Glocke läutete"], ["Bronze-**Klöppel** halten länger als eiserne", "Der **Glockenschwengel** wiegt über fünfundzwanzig Kilogramm"]]
+  },
+  {
+    "lemma": "clapping",
+    "meanings_de": ["Beifallklatschen"],
+    "definitions_de": ["Handlung des wiederholten Zusammenschlagens der Hände, um Zustimmung zu zeigen oder Rhythmus zu halten"],
+    "examples_de": [["Begeistertes **Klatschen** erfüllte die Konzerthalle nach der Aufführung", "Das Publikum brach in spontanes **Applaudieren** aus"], ["Rhythmisches **Klatschen** begleitete die Volkstänzer", "Das **Beifall**klatschen wurde lauter, als das Team das Feld betrat"]]
+  },
+  {
+    "lemma": "claret",
+    "meanings_de": ["roter Bordeauxwein"],
+    "definitions_de": ["Trockener Rotwein aus der Bordeaux-Region Frankreichs"],
+    "examples_de": [["Er bestellte einen feinen **Bordeaux** zum Steak", "Der Weinkeller enthielt mehrere Jahrgänge **Claret**"], ["**Bordeauxwein** passt wunderbar zu gebratenem Fleisch", "Britische Weinhändler machten **Claret** im 18. Jahrhundert populär"]]
+  },
+  {
+    "lemma": "clarification",
+    "meanings_de": ["Klärungsprozess"],
+    "definitions_de": ["Handlung des Klarermachens oder leichter Verständlichmachens durch detailliertere Erklärung"],
+    "examples_de": [["Der Lehrer gab **Erläuterungen** zur verwirrenden Hausaufgabe", "Wir brauchen **Klarstellung** zur neuen Unternehmensrichtlinie"], ["Weitere **Klärung** der Regeln verhinderte zukünftige Streitigkeiten", "Der Sprecher gab eine **Richtigstellung** nach der missverstandenen Aussage heraus"]]
+  },
+  {
+    "lemma": "clarinet",
+    "meanings_de": ["Holzblasmusikinstrument"],
+    "definitions_de": ["Einfachrohrblatt-Holzblasinstrument mit zylindrischer Bohrung und ausgestelltem Schallbecher"],
+    "examples_de": [["Sie spielte eine schöne Melodie auf ihrer **Klarinette**", "Die **Klarinettensektion** führt diesen Teil der Symphonie an"], ["Anfänger-**Klarinettisten** beginnen mit einem Kunststoffinstrument", "Das **Klarinettensolo** des Jazzmusikers brachte die Menge zum Jubeln"]]
+  },
+  {
+    "lemma": "clarinetist",
+    "meanings_de": ["Klarinettenspieler"],
+    "definitions_de": ["Person, die professionell oder als geschickter Amateur Klarinette spielt"],
+    "examples_de": [["Der Solo-**Klarinettist** spielt seit zwanzig Jahren beim Orchester", "Junge **Klarinettisten** traten beim staatlichen Musikfestival auf"], ["Der Jazz-**Klarinettist** improvisierte ein atemberaubendes Solo", "Berühmte **Klarinettisten** geben oft Meisterkurse für Studenten"]]
+  },
+  {
+    "lemma": "clarity",
+    "meanings_de": ["Klarheitseigenschaft"],
+    "definitions_de": ["Eigenschaft des Klarseins, Durchsichtigseins oder leicht Verständlichseins"],
+    "examples_de": [["Die **Reinheit** des Diamanten machte ihn extrem wertvoll", "Sie sprach mit bemerkenswerter **Klarheit** über komplexe Themen"], ["Die **Durchsichtigkeit** des Wassers erlaubte uns, die Korallen darunter zu sehen", "Geistige **Klarheit** verbesserte sich nach einer guten Nachtruhe"]]
+  },
+  {
+    "lemma": "clash",
+    "meanings_de": ["gewaltsamer Zusammenstoß"],
+    "definitions_de": ["Gewaltsame Konfrontation oder starke Meinungsverschiedenheit zwischen gegnerischen Kräften oder Ideen"],
+    "examples_de": [["Der **Zusammenstoß** zwischen Demonstranten und Polizei dauerte Stunden", "Ein **Konflikt** der Persönlichkeiten machte Teamarbeit unmöglich"], ["Der **Schlag** der Becken markierte den Höhepunkt der Symphonie", "Kulturelle **Zusammenstöße** entstehen oft an vielfältigen Arbeitsplätzen"]]
+  },
+  {
+    "lemma": "clasp",
+    "meanings_de": ["Verschlussmechanismus"],
+    "definitions_de": ["Vorrichtung zum Befestigen zweier Dinge zusammen, typischerweise mit ineinandergreifenden Teilen"],
+    "examples_de": [["Der **Verschluss** der Halskette war schwer zu öffnen", "Sie sicherte ihre Handtasche mit einem magnetischen **Verschluss**"], ["Die **Schließe** seiner Uhr brach und musste repariert werden", "Sicherheits**verschlüsse** verhindern, dass Schmuck abfällt"]]
+  },
+  {
+    "lemma": "classicism",
+    "meanings_de": ["antiker Kunststil"],
+    "definitions_de": ["Künstlerische und kulturelle Prinzipien basierend auf antiken griechischen und römischen Traditionen mit Betonung auf Harmonie und Zurückhaltung"],
+    "examples_de": [["Das Design des Gebäudes zeigt deutliche Einflüsse des **Klassizismus**", "**Klassizismus** in der Literatur schätzt Vernunft über Emotion"], ["Der Künstler lehnte die Moderne zugunsten des **Klassizismus** ab", "Französischer **Klassizismus** dominierte jahrhundertelang die europäische Kunst"]]
+  },
+  {
+    "lemma": "classicist",
+    "meanings_de": ["Altphilologe"],
+    "definitions_de": ["Person, die klassische Antike, Sprachen und Literatur studiert oder sich dafür einsetzt"],
+    "examples_de": [["Der **Altphilologe** übersetzte antike griechische Texte", "Als **Klassikerin** spezialisierte sie sich auf römische Dichtung"], ["Die Universität stellte einen renommierten **Altphilologen** für die geisteswissenschaftliche Fakultät ein", "**Altphilologen** debattieren über die Echtheit neu entdeckter Manuskripte"]]
+  },
+  {
+    "lemma": "classification",
+    "meanings_de": ["systematischer Kategorisierungsprozess"],
+    "definitions_de": ["Systematische Anordnung von Dingen in Gruppen oder Kategorien basierend auf gemeinsamen Eigenschaften"],
+    "examples_de": [["Die **Klassifizierung** von Pflanzen folgt wissenschaftlichen Prinzipien", "Die **Dokumentenklassifikation** hilft bei der Organisation der Archive"], ["Die Sicherheits**einstufung** beschränkt den Zugang zu sensiblen Informationen", "Das **Klassifikationssystem** gruppiert Tiere nach gemeinsamen Merkmalen"]]
+  },
+  {
+    "lemma": "classified",
+    "meanings_de": ["Kleinanzeigenteil"],
+    "definitions_de": ["Bereich kleiner Anzeigen in Zeitungen oder online, nach Kategorien organisiert"],
+    "examples_de": [["Sie fand ihre Wohnung durch die **Kleinanzeigen**", "Die **Anzeigenseiten** der Zeitung enthalten Stellenangebote und Verkaufsartikel"], ["Online-**Kleinanzeigen** ersetzten traditionelle Zeitungs**annoncen**", "Er schaltete eine **Kleinanzeige**, um sein altes Auto zu verkaufen"]]
+  }
+]

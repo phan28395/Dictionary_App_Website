@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "sheared",
+    "meanings_de": ["geschoren oder gestutzt"],
+    "definitions_de": ["mit einer Schere oder einem ähnlichen scharfen Werkzeug geschnitten oder gekürzt worden"],
+    "examples_de": [["Die Schafe sahen mit ihrer **geschorenen** Wolle ganz anders aus", "Wir bewunderten die sauber **gestutzten** Hecken im Garten"]]
+  },
+  {
+    "lemma": "sheathed",
+    "meanings_de": ["umhüllt oder eingeschlossen"],
+    "definitions_de": ["mit einer schützenden Schicht oder Hülle bedeckt, die etwas umgibt und vor äußeren Einflüssen bewahrt"],
+    "examples_de": [["Das Schwert blieb in seiner Lederscheide **umhüllt**", "Das Gebäude hatte **ummantelte** Kupferrohre zum Schutz"]]
+  },
+  {
+    "lemma": "shed",
+    "meanings_de": ["natürlich abgeworfen"],
+    "definitions_de": ["auf natürliche Weise vom Körper abgefallen oder verloren gegangen"],
+    "examples_de": [["Die **abgeworfene** Schlangenhaut lag zwischen den Felsen", "Wissenschaftler sammelten **abgeworfene** Federn für DNA-Analysen"]]
+  },
+  {
+    "lemma": "shelled",
+    "meanings_de": ["von Schale befreit", "mit Granaten beschossen"],
+    "definitions_de": ["die äußere Schale oder Hülse von etwas entfernt habend", "mit explosiven Geschossen oder Artilleriefeuer angegriffen worden"],
+    "examples_de": [["Das Rezept verlangt **geschälte** Walnüsse und Mandeln", "Wir kauften **enthülste** Erbsen, um Zeit zu sparen"], ["Die **beschossenen** Gebäude zeigten Anzeichen schwerer Schäden", "Zivilisten flohen aus den **bombardierten** Vierteln während des Konflikts"]]
+  },
+  {
+    "lemma": "sheltered",
+    "meanings_de": ["vor Elementen geschützt", "vor Härten geschützt"],
+    "definitions_de": ["vor Wetter, Wind oder anderen natürlichen Elementen geschützt", "vor Schwierigkeiten, Gefahren oder unangenehmen Erfahrungen im Leben bewahrt"],
+    "examples_de": [["Die **geschützte** Bucht bot sicheren Ankerplatz für Boote", "Wir fanden einen **windgeschützten** Platz für unser Picknick"], ["Ihre **behütete** Erziehung ließ sie unvorbereitet für Herausforderungen", "Die **behüteten** Schüler hatten nie echte Entbehrungen erlebt"]]
+  },
+  {
+    "lemma": "shielded",
+    "meanings_de": ["durch Barriere geschützt"],
+    "definitions_de": ["durch eine physische oder metaphorische Barriere vor Schaden oder Entdeckung geschützt"],
+    "examples_de": [["Die **abgeschirmten** Kabel verhinderten elektromagnetische Störungen", "Arbeiter trugen **geschützte** Helme auf der Baustelle"]]
+  },
+  {
+    "lemma": "shifting",
+    "meanings_de": ["ständig Position wechselnd"],
+    "definitions_de": ["kontinuierlich die Position, Richtung oder den Fokus bewegend oder verändernd"],
+    "examples_de": [["Der **wandernde** Sand machte das Laufen am Strand schwierig", "Ihre **wechselnden** Meinungen verwirrten alle im Meeting"]]
+  },
+  {
+    "lemma": "shifty",
+    "meanings_de": ["unehrlich wirkend"],
+    "definitions_de": ["ausweichend, unvertrauenswürdig oder wahrscheinlich unehrlich erscheinend"],
+    "examples_de": [["Seine **verschlagenen** Augen vermieden direkten Kontakt während der Befragung", "Das **zwielichtige** Verhalten des Händlers verunsicherte die Kunden"]]
+  },
+  {
+    "lemma": "shining",
+    "meanings_de": ["hell leuchtend", "herausragend in Qualität"],
+    "definitions_de": ["helles Licht mit einem stetigen Glanz ausstrahlend oder reflektierend", "außergewöhnlich gut, ausgezeichnet oder bewundernswert in Leistung oder Qualität"],
+    "examples_de": [["Die **leuchtenden** Sterne füllten den klaren Nachthimmel", "Ihr **glänzendes** Haar zog auf der Party alle Blicke auf sich"], ["Sie war ein **leuchtendes** Beispiel für Hingabe und harte Arbeit", "Sein **herausragender** akademischer Werdegang beeindruckte alle Professoren"]]
+  },
+  {
+    "lemma": "shiny",
+    "meanings_de": ["Licht glatt reflektierend"],
+    "definitions_de": ["eine glatte Oberfläche habend, die Licht hell reflektiert"],
+    "examples_de": [["Das Kind sammelte **glänzende** Kieselsteine vom Flussbett", "Seine **blanken** neuen Schuhe quietschten auf dem Boden"]]
+  },
+  {
+    "lemma": "shipboard",
+    "meanings_de": ["auf einem Schiff"],
+    "definitions_de": ["auf einem Schiff stattfindend oder sich auf Aktivitäten an Bord eines Schiffes beziehend"],
+    "examples_de": [["Die **Bord**-Durchsage warnte Passagiere vor rauer See", "Die **schiffseigene** Unterhaltung umfasste Tanzen und Live-Musikshows"]]
+  },
+  {
+    "lemma": "shivering",
+    "meanings_de": ["vor Kälte zitternd"],
+    "definitions_de": ["leicht und unkontrollierbar zitternd vor Kälte, Angst oder Aufregung"],
+    "examples_de": [["Der **zitternde** Welpe brauchte sofort eine warme Decke", "Wir fanden die **frierenden** Wanderer im Schnee verloren"]]
+  },
+  {
+    "lemma": "shocked",
+    "meanings_de": ["emotional erschüttert", "elektrisch betroffen"],
+    "definitions_de": ["plötzliche Bestürzung, Überraschung oder Abscheu bei etwas Unerwartetem empfindend", "von einem elektrischen Schock oder plötzlichen physischen Aufprall betroffen"],
+    "examples_de": [["Das **schockierte** Publikum keuchte bei der Enthüllung auf", "Ihr **entsetzter** Gesichtsausdruck zeigte, dass sie die Nachricht nicht erwartet hatte"], ["Der **geschockte** Patient erholte sich schnell vom Defibrillator", "Er fühlte sich **geschockt**, nachdem er den freiliegenden Draht berührt hatte"]]
+  },
+  {
+    "lemma": "shocking",
+    "meanings_de": ["große Überraschung verursachend"],
+    "definitions_de": ["intensive Überraschung, Abscheu oder Anstoß bei jemandem verursachend"],
+    "examples_de": [["Die **schockierenden** Nachrichten verbreiteten sich schnell im Büro", "Ihr **grelles** pinkfarbenes Kleid fiel bei der Beerdigung auf"]]
+  },
+  {
+    "lemma": "shod",
+    "meanings_de": ["Schuhe tragend"],
+    "definitions_de": ["Schuhe tragend oder Schuhe an den Füßen habend"],
+    "examples_de": [["Die schlecht **beschuhten** Kinder brauchten neue Winterstiefel", "Alle Pferde müssen vor dem Rennen ordentlich **beschlagen** sein"]]
+  },
+  {
+    "lemma": "shoddy",
+    "meanings_de": ["schlecht gemacht"],
+    "definitions_de": ["schlecht hergestellt oder ausgeführt mit minderwertigen Materialien und nachlässiger Arbeit"],
+    "examples_de": [["Die **schludrige** Konstruktion führte zu zahlreichen Kundenbeschwerden", "Wir brachten die **minderwertige** Möbel zurück zum Geschäft"]]
+  },
+  {
+    "lemma": "shorn",
+    "meanings_de": ["kurz geschnittenes Haar"],
+    "definitions_de": ["Haare oder Wolle sehr kurz geschnitten oder vollständig entfernt habend"],
+    "examples_de": [["Die frisch **geschorenen** Schafe sahen ohne Wolle kleiner aus", "Sein **kahlgeschorener** Kopf enthüllte mehrere alte Narben darunter"]]
+  },
+  {
+    "lemma": "shortened",
+    "meanings_de": ["weniger lang gemacht"],
+    "definitions_de": ["in Länge, Dauer oder Umfang kleiner gemacht als zuvor"],
+    "examples_de": [["Die **gekürzte** Version ließ mehrere wichtige Szenen aus", "Wir nahmen die **verkürzte** Route, um Verkehr zu vermeiden"]]
+  },
+  {
+    "lemma": "shorthand",
+    "meanings_de": ["abgekürztes Schreibsystem"],
+    "definitions_de": ["in oder bezogen auf eine schnelle abgekürzte Schreibmethode geschrieben"],
+    "examples_de": [["Die **stenografischen** Notizen der Sekretärin erfassten jedes wichtige Detail", "Das Erlernen von **Kurzschrift** half Journalisten effizienter zu arbeiten"]]
+  },
+  {
+    "lemma": "shouldered",
+    "meanings_de": ["bestimmte Schultern habend"],
+    "definitions_de": ["Schultern eines bestimmten Typs habend oder etwas auf den Schultern tragend"],
+    "examples_de": [["Der **breitschultrige** Athlet glänzte bei Schwimmwettbewerben", "Sie bahnte sich **schulternd** ihren Weg durch den überfüllten Markt"]]
+  },
+  {
+    "lemma": "shouted",
+    "meanings_de": ["laut gerufen"],
+    "definitions_de": ["in einer sehr lauten Stimme gesprochen oder gerufen"],
+    "examples_de": [["Seine **gerufenen** Warnungen retteten Menschen vor herabfallenden Trümmern", "Die **geschrienen** Anweisungen waren schwer klar zu verstehen"]]
+  },
+  {
+    "lemma": "showy",
+    "meanings_de": ["auffällig grell"],
+    "definitions_de": ["ein auffälliges Erscheinungsbild habend, das darauf abzielt, Aufmerksamkeit oder Bewunderung zu erregen"],
+    "examples_de": [["Der **prächtige** Pfau zeigte seine bunten Schwanzfedern", "Ihr **auffälliger** Schmuck schien für den Anlass unpassend"]]
+  },
+  {
+    "lemma": "shredded",
+    "meanings_de": ["in Streifen gerissen", "sehr muskulös"],
+    "definitions_de": ["in viele dünne Streifen oder kleine Stücke zerrissen oder geschnitten", "sehr definierte Muskeln mit niedrigem Körperfettanteil habend"],
+    "examples_de": [["Das Rezept verlangte zwei Tassen **geriebenen** Käse", "Wichtige **geschredderte** Dokumente füllten den Papierkorb"], ["Der **durchtrainierte** Bodybuilder gewann den ersten Platz im Wettkampf", "Seine **definierte** Körperform erforderte jahrelanges Training"]]
+  },
+  {
+    "lemma": "shrewd",
+    "meanings_de": ["scharfes Urteilsvermögen habend"],
+    "definitions_de": ["scharfes Urteilsvermögen und cleveres Verständnis zeigend oder habend, besonders in praktischen Angelegenheiten"],
+    "examples_de": [["Die **kluge** Investorin verdoppelte ihr Geld in einem Jahr", "Seine **scharfsinnigen** Beobachtungen über Markttrends erwiesen sich als zutreffend"]]
+  },
+  {
+    "lemma": "shrill",
+    "meanings_de": ["hoch und durchdringend"],
+    "definitions_de": ["einen hohen, durchdringenden Ton von sich gebend, der unangenehm zu hören ist"],
+    "examples_de": [["Der **schrille** Pfiff ließ alle ihre Ohren bedecken", "Ihre **gellende** Stimme trug über den lauten Spielplatz"]]
+  },
+  {
+    "lemma": "shrubby",
+    "meanings_de": ["strauchähnlich"],
+    "definitions_de": ["viele Sträucher habend oder einem Strauch im Wachstumsmuster ähnelnd"],
+    "examples_de": [["Die **buschige** Landschaft erforderte minimale Pflege und Bewässerung", "Wir pflanzten **strauchige** Ränder entlang des Gartenwegs"]]
+  },
+  {
+    "lemma": "shrunken",
+    "meanings_de": ["in Größe reduziert"],
+    "definitions_de": ["kleiner geworden als die normale oder vorherige Größe"],
+    "examples_de": [["Der **eingelaufene** Pullover passte nach dem Waschen nicht mehr", "Sein **eingefallenes** Aussehen beunruhigte seine Familie und Freunde"]]
+  },
+  {
+    "lemma": "shuttered",
+    "meanings_de": ["mit Läden geschlossen", "dauerhaft geschlossen"],
+    "definitions_de": ["Fenster mit Fensterläden oder Schutzplatten bedeckt habend", "dauerhaft als Geschäft oder Betrieb geschlossen"],
+    "examples_de": [["Die **verladenen** Fenster schützten Möbel vor Sonnenschäden", "Wir gingen während des Sturms an **verriegelten** Häusern vorbei"], ["Die **stillgelegte** Fabrik ließ Hunderte ohne Beschäftigung zurück", "Viele **geschlossene** Restaurants öffneten nach der Krise nie wieder"]]
+  },
+  {
+    "lemma": "sickening",
+    "meanings_de": ["Übelkeit verursachend", "moralisch abstoßend"],
+    "definitions_de": ["ein Gefühl von Übelkeit oder körperlichem Ekel verursachend", "moralische Abscheu oder extreme Missbilligung verursachend"],
+    "examples_de": [["Der **widerliche** Geruch ließ alle den Raum verlassen", "Die **übelkeitserregenden** Loopings der Fahrt waren nichts für schwache Mägen"], ["Die **abscheuliche** Grausamkeit schockierte selbst abgehärtete Ermittler", "Seine **empörende** Missachtung der Sicherheit verursachte mehrere Unfälle"]]
+  },
+  {
+    "lemma": "sickly",
+    "meanings_de": ["oft krank", "ungesund aussehend"],
+    "definitions_de": ["häufig krank oder in schlechtem Gesundheitszustand", "ein ungesundes Aussehen habend, das Krankheit oder Schwäche andeutet"],
+    "examples_de": [["Das **kränkliche** Kind verpasste viele Schultage", "Ihre **schwächliche** Konstitution erforderte ständige ärztliche Betreuung"], ["Die **kränklich** gelben Blätter der Pflanze deuteten auf Nährstoffmangel hin", "Sein **fahler** Teint beunruhigte seine Kollegen"]]
+  },
+  {
+    "lemma": "sidearm",
+    "meanings_de": ["von der Seite geworfen"],
+    "definitions_de": ["mit einer Armbewegung parallel zum Boden geworfen anstatt über Kopf"],
+    "examples_de": [["Die **seitliche** Wurfbewegung des Pitchers verwirrte viele Schlagmänner konstant", "Er entwickelte nach einer Verletzung einen **seitlichen** Wurfstil"]]
+  },
+  {
+    "lemma": "sideways",
+    "meanings_de": ["zur Seite", "indirekt oder schräg"],
+    "definitions_de": ["sich zu einer Seite bewegend oder gerichtet anstatt nach vorne", "indirekt, ausweichend oder nicht direkt in der Art"],
+    "examples_de": [["Die Krabbe bewegte sich **seitwärts** über den sandigen Strand", "Sie warf ihm während des Meetings einen **seitlichen** Blick zu"], ["Seine **indirekte** Herangehensweise an Kritik ärgerte seinen Chef", "Die **versteckte** Bemerkung enthüllte ihre wahren Gefühle"]]
+  },
+  {
+    "lemma": "sighted",
+    "meanings_de": ["sehen könnend", "beobachtet oder gesichtet"],
+    "definitions_de": ["die Fähigkeit zu sehen habend, nicht blind", "gesehen oder beobachtet, besonders etwas Seltenes oder Ungewöhnliches"],
+    "examples_de": [["Der **sehende** Führer half blinden Touristen durch das Museum zu navigieren", "Programme dienten sowohl **sehenden** als auch sehbehinderten Schülern"], ["Der selten **gesichtete** Vogel begeisterte alle Fotografen", "Schiffe wurden **gesichtet**, wie sie sich vom östlichen Horizont näherten"]]
+  },
+  {
+    "lemma": "signed",
+    "meanings_de": ["eine Unterschrift tragend", "Gebärdensprache verwendend"],
+    "definitions_de": ["mit der Unterschrift einer Person als Authentifizierung oder Genehmigung versehen", "mittels Gebärdensprache für Gehörlose kommuniziert"],
+    "examples_de": [["Der **unterzeichnete** Vertrag wurde sofort rechtlich bindend", "Fans schätzten ihre **signierten** Fotografien vom Prominenten"], ["Das **gebärdete** Gespräch ermöglichte gehörlosen Schülern volle Teilnahme", "Die **gebärdete** Aufführung machte das Theater für alle zugänglich"]]
+  },
+  {
+    "lemma": "silenced",
+    "meanings_de": ["zum Schweigen gebracht"],
+    "definitions_de": ["unfähig gemacht zu sprechen oder Meinungen durch Gewalt oder Autorität auszudrücken"],
+    "examples_de": [["Die **zum Schweigen gebrachten** Kritiker konnten keinen Widerstand mehr äußern", "Der **gedämpfte** Motor machte das Auto viel angenehmer"]]
+  },
+  {
+    "lemma": "silken",
+    "meanings_de": ["glatt wie Seide"],
+    "definitions_de": ["die glatten, weichen, glänzenden Eigenschaften habend, die für Seide charakteristisch sind"],
+    "examples_de": [["Ihr **seidiges** Haar schimmerte im Nachmittagssonnenlicht", "Das **seidenartige** Fell der Katze fühlte sich wunderbar an"]]
+  },
+  {
+    "lemma": "silky",
+    "meanings_de": ["glatt und weich"],
+    "definitions_de": ["eine glatte, weiche und glänzende Textur wie Seide habend"],
+    "examples_de": [["Die **seidigen** Ohren des Hundes waren angenehm zu streicheln", "Sie liebte die **seidige** Textur des Stoffes"]]
+  },
+  {
+    "lemma": "silty",
+    "meanings_de": ["feines Sediment enthaltend"],
+    "definitions_de": ["feine Sedimentpartikel enthaltend oder damit bedeckt, die kleiner als Sand sind"],
+    "examples_de": [["Das **schlammige** Flusswasser war nicht zum Trinken geeignet", "Bauern schätzten den **schlickhaltigen** Boden für den Anbau von Feldfrüchten"]]
+  },
+  {
+    "lemma": "silvery",
+    "meanings_de": ["wie Silber", "klar und klingend"],
+    "definitions_de": ["die glänzende grau-weiße Farbe oder das Aussehen von Silber habend", "eine klare, leichte, klingende Qualität wie Silberglocken habend"],
+    "examples_de": [["Die **silbrigen** Schuppen des Fisches glitzerten im Wasser", "Ihr **silbergraues** Haar sah vornehm und elegant aus"], ["Ihr **silberhelles** Lachen erfreute alle auf der Party", "Die **silbernen** Töne der Flöte erfüllten den Saal"]]
+  },
+  {
+    "lemma": "simian",
+    "meanings_de": ["affenähnlich"],
+    "definitions_de": ["sich auf Affen oder Menschenaffen beziehend oder ihnen in Aussehen oder Verhalten ähnelnd"],
+    "examples_de": [["Seine **affenartigen** Merkmale umfassten ausgeprägte Augenbrauen und lange Arme", "Die **affenähnlichen** Bewegungen des Schauspielers porträtierten die Figur perfekt"]]
+  },
+  {
+    "lemma": "simplistic",
+    "meanings_de": ["übervereinfacht"],
+    "definitions_de": ["komplexe Themen behandelnd, als wären sie viel einfacher als in der Realität"],
+    "examples_de": [["Ihre **simplistische** Lösung ignorierte viele wichtige beteiligte Faktoren", "Die **vereinfachende** Analyse versäumte es, grundlegende Probleme anzusprechen"]]
+  },
+  {
+    "lemma": "simulated",
+    "meanings_de": ["künstlich erstellt"],
+    "definitions_de": ["künstlich geschaffen, um reale Bedingungen oder Prozesse zu imitieren oder zu reproduzieren"],
+    "examples_de": [["Der **simulierte** Flug half Piloten ohne Risiko zu trainieren", "Wissenschaftler verwendeten **simulierte** Umgebungen, um neue Theorien zu testen"]]
+  },
+  {
+    "lemma": "simultaneous",
+    "meanings_de": ["gleichzeitig geschehend"],
+    "definitions_de": ["genau zur selben Zeit auftretend, operierend oder durchgeführt"],
+    "examples_de": [["Die **simultanen** Explosionen deuteten auf koordinierte Planung hin", "Die Übersetzung bot **simultane** Dolmetschung für ausländische Delegierte"]]
+  },
+  {
+    "lemma": "sincere",
+    "meanings_de": ["aufrichtig und ehrlich"],
+    "definitions_de": ["frei von Verstellung oder Täuschung, echte Gefühle oder Überzeugungen ausdrückend"],
+    "examples_de": [["Seine **aufrichtige** Entschuldigung half, ihre beschädigte Freundschaft zu reparieren", "Wir schätzten ihre **ehrlichen** Bemühungen, allen zu helfen"]]
+  },
+  {
+    "lemma": "sinful",
+    "meanings_de": ["moralisch falsch"],
+    "definitions_de": ["als moralisch falsch gemäß religiösen oder ethischen Prinzipien betrachtet"],
+    "examples_de": [["Viele Religionen betrachten Lügen als **sündige** Tat", "Er fühlte **sündhafte** Gedanken in seinen geplagten Geist eindringen"]]
+  },
+  {
+    "lemma": "singing",
+    "meanings_de": ["musikalische Töne erzeugend", "pfeifendes Geräusch machend"],
+    "definitions_de": ["musikalische Töne mit der Stimme in Melodie erzeugend", "ein hohes pfeifendes oder klingendes Geräusch machend"],
+    "examples_de": [["Die **singenden** Vögel begrüßten den Morgen mit Melodie", "Ihre **singende** Stimme fesselte das gesamte Publikum"], ["Der **pfeifende** Wasserkocher kündigte an, dass das Wasser kochte", "Wir hörten **pfeifende** Kugeln im Kampf über uns hinwegfliegen"]]
+  },
+  {
+    "lemma": "singular",
+    "meanings_de": ["außergewöhnlich bemerkenswert", "einzeln oder einzigartig"],
+    "definitions_de": ["außerordentlich oder bemerkenswert in Charakter, Grad oder Qualität", "das einzige seiner Art seiend, einzigartig oder individuell"],
+    "examples_de": [["Sie zeigte **einzigartige** Hingabe bei der Hilfe für Obdachlose", "Seine **außergewöhnliche** Leistung erhielt internationale Anerkennung"], ["Jede Schneeflocke hat ein **einzigartiges** Muster, das nie wiederholt wird", "Das **einzelne** Exemplar verwirrte selbst erfahrene Wissenschaftler"]]
+  },
+  {
+    "lemma": "sinister",
+    "meanings_de": ["Böses drohend"],
+    "definitions_de": ["den Eindruck erweckend, dass etwas Schädliches oder Böses geschehen wird"],
+    "examples_de": [["Die **unheilvolle** Wolken versprachen einen gefährlichen Sturm voraus", "Sein **finsteres** Lächeln ließ alle sich zutiefst unwohl fühlen"]]
+  },
+  {
+    "lemma": "sinuous",
+    "meanings_de": ["viele Kurven habend"],
+    "definitions_de": ["viele Kurven und Windungen in einer glatten, fließenden Weise habend"],
+    "examples_de": [["Der **gewundene** Fluss schlängelte sich durch das Bergtal", "Tänzer bewegten sich in **geschmeidigen** Mustern über die Bühne"]]
+  },
+  {
+    "lemma": "sissy",
+    "meanings_de": ["weibisch oder schwach"],
+    "definitions_de": ["als unmännlich oder Schwäche zeigend gemäß traditionellen Geschlechterstereotypen betrachtet"],
+    "examples_de": [["Sein Vater nannte ihn fälschlicherweise **weichlich**, weil er Gefühle zeigte", "Das **Weichei**-Stereotyp hindert Jungen daran, Gefühle auszudrücken"]]
+  }
+]

@@ -1,0 +1,296 @@
+[
+  {
+    "lemma": "zenith",
+    "meanings_de": ["höchster Punkt oben"],
+    "definitions_de": ["Punkt am Himmel senkrecht über dem Beobachter oder höchste Position, die ein Himmelskörper erreicht"],
+    "examples_de": [["Die Sonne erreichte mittags ihren **Zenit**", "Ihre Karriere befand sich in den Neunzigern auf dem **Höhepunkt**"]]
+  },
+  {
+    "lemma": "zephyr",
+    "meanings_de": ["sanfter Westwind"],
+    "definitions_de": ["leichter, angenehmer Wind, besonders aus westlicher Richtung"],
+    "examples_de": [["Ein kühler **Zephyr** ließ die Gartenblätter rascheln", "Der sanfte **Westwind** brachte Erleichterung von der Nachmittagshitze"]]
+  },
+  {
+    "lemma": "zeppelin",
+    "meanings_de": ["starres Luftschiff"],
+    "definitions_de": ["großes Luftschiff mit innerem Metallgerüst, das mit Stoff bespannt ist"],
+    "examples_de": [["Der **Zeppelin** schwebte majestätisch über der Stadtsilhouette", "Passagiere bestiegen den **Zeppelin** für ihre Transatlantikreise"]]
+  },
+  {
+    "lemma": "zero",
+    "meanings_de": ["Zahlenwert nichts", "Ausgangspunkt"],
+    "definitions_de": ["numerisches Symbol, das keine Menge oder einen Nullwert darstellt", "Punkt auf einer Skala, von dem aus positive oder negative Werte gemessen werden"],
+    "examples_de": [["Die Temperatur fiel letzte Nacht unter **null** Grad", "Sie erzielte in der ersten Runde **null** Punkte"], ["Wir müssen auf **Null** zurückkehren, bevor wir neu anfangen", "Die Waage wurde vor dem Wiegen auf **Null** kalibriert"]]
+  },
+  {
+    "lemma": "zest",
+    "meanings_de": ["begeisterte Lebensfreude", "Zitrusschale"],
+    "definitions_de": ["große Begeisterung und Energie beim Erleben des Lebens oder bei Aktivitäten", "äußerer farbiger Teil der Schale von Zitrusfrüchten, der zum Würzen verwendet wird"],
+    "examples_de": [["Sie ging jede Herausforderung mit bemerkenswertem **Elan** an", "Seine **Begeisterung** für Abenteuer schien nie nachzulassen"], ["Fügen Sie **Zitronenschale** hinzu, um den Geschmack aufzuhellen", "Das Rezept verlangt **Orangenschale** und -saft"]]
+  },
+  {
+    "lemma": "zeta",
+    "meanings_de": ["griechischer Buchstabe sechster"],
+    "definitions_de": ["sechster Buchstabe des griechischen Alphabets"],
+    "examples_de": [["Der Mathematiker verwendete **Zeta** zur Darstellung der Variable", "**Zeta** folgt auf Epsilon im griechischen Alphabet"]]
+  },
+  {
+    "lemma": "zig",
+    "meanings_de": ["scharfe Richtungsänderung"],
+    "definitions_de": ["abrupte Richtungsänderung, die einen Winkel in einem Pfad oder einer Linie bildet"],
+    "examples_de": [["Der Pfad machte einen plötzlichen **Zick** nach links", "Er zeichnete einen **Zacken**, bevor er das Muster fortsetzte"]]
+  },
+  {
+    "lemma": "ziggurat",
+    "meanings_de": ["Stufentempelturm"],
+    "definitions_de": ["altmesopotamischer Tempelturm mit aufeinanderfolgenden Stockwerken, von denen jedes kleiner ist als das darunter"],
+    "examples_de": [["Die antike **Zikkurat** beherrschte die Skyline der Stadt", "Archäologen entdeckten Überreste einer massiven **Stufenpyramide**"]]
+  },
+  {
+    "lemma": "zigzag",
+    "meanings_de": ["alternierendes Winkelmuster"],
+    "definitions_de": ["Muster oder Pfad mit abwechselnden scharfen Links- und Rechtskurven"],
+    "examples_de": [["Der Blitz bildete ein **Zickzack** am Himmel", "Sie nähte ein dekoratives **Zickzackmuster** entlang des Saums"]]
+  },
+  {
+    "lemma": "zinc",
+    "meanings_de": ["metallisches chemisches Element"],
+    "definitions_de": ["bläulich-weißes Metallelement, das in Legierungen und zum Verzinken verwendet wird"],
+    "examples_de": [["Das Dach war mit **Zinkblech** gedeckt", "**Zink**präparate können Ihr Immunsystem stärken"]]
+  },
+  {
+    "lemma": "zinfandel",
+    "meanings_de": ["Rotweintraube"],
+    "definitions_de": ["Rotweinrebsorte, die besonders in Kalifornien angebaut wird"],
+    "examples_de": [["Sie bestellten eine Flasche **Zinfandel** zum Abendessen", "Das Weingut spezialisiert sich auf den Anbau von altem **Zinfandel**"]]
+  },
+  {
+    "lemma": "zing",
+    "meanings_de": ["scharfer hoher Ton", "lebhafte Qualität"],
+    "definitions_de": ["scharfes, hochfrequentes Summ- oder Klingelgeräusch", "Eigenschaft, aufregend, lebhaft oder anregend zu sein"],
+    "examples_de": [["Der Pfeil machte ein **Sirren**, als er vorbeiflog", "Wir hörten das **Zischen** der Kugeln über uns"], ["Ihre Präsentation hatte wirklich **Schwung**", "Diese Soße braucht mehr **Pfiff** durch zusätzliche Gewürze"]]
+  },
+  {
+    "lemma": "zip",
+    "meanings_de": ["Verschlussvorrichtung", "Energie oder Tempo", "überhaupt nichts"],
+    "definitions_de": ["Verschlussvorrichtung mit ineinandergreifenden Metall- oder Kunststoffzähnen", "Energie, Vitalität oder schwungvolle Bewegung", "nichts, null oder keinerlei Menge"],
+    "examples_de": [["Der **Reißverschluss** an meiner Jacke klemmte wieder", "Sie zog den **Reißverschluss** ganz nach oben"], ["Er bewegte sich mit bemerkenswertem **Schwung** für sein Alter", "Bringen Sie etwas **Pep** in Ihren Präsentationsstil"], ["Wir bekamen **nichts** für unsere gestrigen Bemühungen", "Der Spielstand blieb in der ersten Halbzeit bei **null**"]]
+  },
+  {
+    "lemma": "zipper",
+    "meanings_de": ["Verschlussvorrichtung"],
+    "definitions_de": ["Vorrichtung mit zwei Reihen ineinandergreifender Zähne zum Verschließen von Öffnungen"],
+    "examples_de": [["Der **Reißverschluss** an ihrem Rucksack ging gestern kaputt", "Er zog vorsichtig den **Reißverschluss** über den Schlafsack"]]
+  },
+  {
+    "lemma": "zippo",
+    "meanings_de": ["Metall-Feuerzeug"],
+    "definitions_de": ["Marke eines nachfüllbaren Metallfeuerzeugs mit Klappdeckel"],
+    "examples_de": [["Das alte **Zippo** seines Großvaters funktionierte noch einwandfrei", "Der Soldat trug das **Feuerzeug** während des ganzen Krieges bei sich"]]
+  },
+  {
+    "lemma": "zircon",
+    "meanings_de": ["Edelsteinmineral"],
+    "definitions_de": ["hartes, glänzendes Mineral, das als Edelstein und Zirkoniumquelle verwendet wird"],
+    "examples_de": [["Der Ring zeigte einen brillanten blauen **Zirkon**", "**Zirkon**kristalle können Millionen Jahre alt sein"]]
+  },
+  {
+    "lemma": "zirconia",
+    "meanings_de": ["Keramikmaterial"],
+    "definitions_de": ["weißes kristallines Zirkoniumoxid, das in Keramik und Schmuck verwendet wird"],
+    "examples_de": [["Die Zahnkrone wurde aus **Zirkonoxid** gefertigt", "Kubisches **Zirkonia** ähnelt Diamanten, kostet aber viel weniger"]]
+  },
+  {
+    "lemma": "zither",
+    "meanings_de": ["Saiteninstrument"],
+    "definitions_de": ["Musikinstrument mit vielen Saiten, die über einen flachen Resonanzboden gespannt sind"],
+    "examples_de": [["Sie spielte eine eindringliche Melodie auf der **Zither**", "Die **Zither** erzeugt einen charakteristischen, ätherischen Klang"]]
+  },
+  {
+    "lemma": "zodiac",
+    "meanings_de": ["Himmelskoordinatengürtel"],
+    "definitions_de": ["imaginärer Gürtel am Himmel, der die Bahnen von Sonne, Mond und Planeten enthält und in zwölf Zeichen unterteilt ist"],
+    "examples_de": [["Ihr **Sternzeichen** ist Skorpion", "Alte Astronomen kartierten die Sternbilder des **Tierkreises**"]]
+  },
+  {
+    "lemma": "zombie",
+    "meanings_de": ["wiederbelebte Leiche", "erschöpfte Person"],
+    "definitions_de": ["wiederbelebte tote Person in Horrorliteratur und Folklore", "Person, die leblos, erschöpft oder ohne eigenständiges Denken erscheint"],
+    "examples_de": [["Der Film zeigte **Zombies**, die die Überlebenden angriffen", "Sie verbarrikadierten sich gegen die **Zombiehorde**"], ["Nach der durchgemachten Nacht fühlte sie sich wie ein **Zombie**", "Er wanderte wie ein **Zombie** umher, bevor er Kaffee hatte"]]
+  },
+  {
+    "lemma": "zoning",
+    "meanings_de": ["Flächennutzungsregelung"],
+    "definitions_de": ["rechtlicher Mechanismus zur Regulierung der Landnutzung innerhalb einer Gemeinde durch Einteilung in Zonen"],
+    "examples_de": [["Die **Bebauungsvorschriften** verbieten hier gewerbliche Gebäude", "Sie beantragten eine **Ausnahmegenehmigung**, um Wohnungen zu bauen"]]
+  },
+  {
+    "lemma": "zoo",
+    "meanings_de": ["Tierausstellungspark"],
+    "definitions_de": ["Einrichtung, in der wilde Tiere zur öffentlichen Ausstellung, Erhaltung und Forschung gehalten werden"],
+    "examples_de": [["Die Kinder genossen ihren Ausflug in den **Zoo**", "Der **Tierpark** hat ein erfolgreiches Zuchtprogramm für Pandas"]]
+  },
+  {
+    "lemma": "zoologist",
+    "meanings_de": ["Tierwissenschaftsexperte"],
+    "definitions_de": ["Wissenschaftler, der Tiere, ihr Verhalten, ihre Physiologie, Klassifikation und Verbreitung studiert"],
+    "examples_de": [["Der **Zoologe** verbrachte Jahre mit dem Studium des Primatenverhaltens", "Sie wurde **Zoologin**, um gefährdete Arten zu schützen"]]
+  },
+  {
+    "lemma": "zoology",
+    "meanings_de": ["wissenschaftliche Tierkunde"],
+    "definitions_de": ["wissenschaftliche Studie von Tieren einschließlich ihrer Struktur, Physiologie, Entwicklung und Klassifikation"],
+    "examples_de": [["Er promovierte in **Zoologie** an der Universität Oxford", "Die **Tierkunde** umfasst alles von Insekten bis zu Säugetieren"]]
+  },
+  {
+    "lemma": "zoom",
+    "meanings_de": ["schnelle Bewegung", "Kameravergrößerung"],
+    "definitions_de": ["sich sehr schnell mit einem summenden oder brummenden Geräusch bewegen oder reisen", "Brennweite eines Kameraobjektivs ändern, um das Bild zu vergrößern oder zu verkleinern"],
+    "examples_de": [["Das Motorrad **sauste** auf der Autobahn an uns vorbei", "Vögel **flitzten** über uns und jagten Insekten"], ["Sie nutzte den **Zoom**, um nähere Aufnahmen von Wildtieren zu machen", "Die Kamera kann für detaillierte Ansichten **heranzoomen**"]]
+  },
+  {
+    "lemma": "zucchini",
+    "meanings_de": ["Sommerkürbisgemüse"],
+    "definitions_de": ["zylindrisches grünes Sommerkürbisgemüse, das unreif geerntet wird"],
+    "examples_de": [["Sie rieb frische **Zucchini** für das Brotrezept", "Der Garten brachte dieses Jahr riesige **Zucchini** hervor"]]
+  },
+  {
+    "lemma": "zydeco",
+    "meanings_de": ["Louisiana-Musikstil"],
+    "definitions_de": ["Form amerikanischer Volksmusik aus dem Südwesten Louisianas, die Blues und Rhythm and Blues mit einheimischer Musik vermischt"],
+    "examples_de": [["Das Festival präsentierte authentische **Zydeco**-Bands aus Louisiana", "Sie tanzten die ganze Nacht zur **Zydeco**-Musik"]]
+  },
+  {
+    "lemma": "zygote",
+    "meanings_de": ["befruchtete Eizelle"],
+    "definitions_de": ["Zelle, die durch Vereinigung männlicher und weiblicher Keimzellen vor der embryonalen Entwicklung gebildet wird"],
+    "examples_de": [["Die **Zygote** beginnt kurz nach der Befruchtung mit der Teilung", "Eine menschliche **Zygote** enthält genetisches Material von beiden Eltern"]]
+  },
+  {
+    "lemma": "malawian",
+    "meanings_de": ["Person aus Malawi"],
+    "definitions_de": ["Einheimischer oder Bewohner von Malawi, einem Binnenstaat im südöstlichen Afrika"],
+    "examples_de": [["Der **malawische** Athlet gewann Gold bei den Spielen", "Viele **Malawier** arbeiten in der Landwirtschaft und Fischerei"]]
+  },
+  {
+    "lemma": "malay",
+    "meanings_de": ["südostasiatisches Volk", "austronesische Sprache"],
+    "definitions_de": ["Angehöriger eines Volkes, das Malaysia und benachbarte Regionen bewohnt", "austronesische Sprache, die in Malaysia, Indonesien und umliegenden Gebieten gesprochen wird"],
+    "examples_de": [["Die **malaiische** Gemeinschaft feiert Hari Raya Aidilfitri", "Die traditionelle **malaiische** Küche basiert auf Reis und Gewürzen"], ["Sie lernte **Malaiisch**, um mit den Einheimischen zu kommunizieren", "**Malaiisch** dient als Verkehrssprache in der Region"]]
+  },
+  {
+    "lemma": "malayalam",
+    "meanings_de": ["südindische Sprache"],
+    "definitions_de": ["dravidische Sprache, die hauptsächlich im Bundesstaat Kerala im Südwesten Indiens gesprochen wird"],
+    "examples_de": [["Das **Malayalam**-Kino produziert von Kritikern gelobte Filme", "Sie lernte **Malayalam** von ihrer Großmutter"]]
+  },
+  {
+    "lemma": "malayan",
+    "meanings_de": ["bezüglich Malaya"],
+    "definitions_de": ["Person oder Sache aus der ehemaligen Föderation Malaya in Südostasien"],
+    "examples_de": [["Der **malaiische** Tiger ist vom Aussterben bedroht", "Die **malaiische** Geschichte umfasst vielfältige kulturelle Einflüsse"]]
+  },
+  {
+    "lemma": "malaysian",
+    "meanings_de": ["Person aus Malaysia"],
+    "definitions_de": ["Einheimischer oder Bewohner von Malaysia, einem südostasiatischen Land"],
+    "examples_de": [["Der **malaysische** Koch eröffnete ein Restaurant in der Innenstadt", "Die **malaysische** Kultur vereint malaiische, chinesische und indische Einflüsse"]]
+  },
+  {
+    "lemma": "maldivian",
+    "meanings_de": ["Person aus Malediven"],
+    "definitions_de": ["Einheimischer oder Bewohner der Malediven, einem Inselstaat im Indischen Ozean"],
+    "examples_de": [["Der **maledivische** Führer zeigte uns die Korallenriffe", "Die **maledivische** Küche bietet frische Meeresfrüchte und Kokosnuss"]]
+  },
+  {
+    "lemma": "malian",
+    "meanings_de": ["Person aus Mali"],
+    "definitions_de": ["Einheimischer oder Bewohner von Mali, einem Binnenstaat in Westafrika"],
+    "examples_de": [["Der **malische** Musiker spielte traditionelle Instrumente", "Viele **Malier** sprechen Französisch als Zweitsprache"]]
+  },
+  {
+    "lemma": "maltese",
+    "meanings_de": ["Person aus Malta", "kleine Hunderasse"],
+    "definitions_de": ["Einheimischer oder Bewohner von Malta, einem Inselstaat im Mittelmeer", "kleine weiße Spielzeughunderasse mit langem, seidigem Fell"],
+    "examples_de": [["Der **maltesische** Künstler stellte seine Werke in der Galerie aus", "Die **maltesische** Geschichte erstreckt sich über Jahrtausende"], ["Ihr **Malteser** gewann die Auszeichnung als bester Hund der Show", "Der **Malteser** benötigt regelmäßige Fellpflege"]]
+  },
+  {
+    "lemma": "malthusian",
+    "meanings_de": ["Bevölkerungstheorie-Anhänger"],
+    "definitions_de": ["Person, die glaubt, dass das Bevölkerungswachstum die Nahrungsmittelversorgung übertreffen und eine Katastrophe verursachen wird"],
+    "examples_de": [["**Malthusianische** Ökonomen warnten vor Ressourcenknappheit", "Die **malthusianische** Perspektive beeinflusste die Bevölkerungspolitik"]]
+  },
+  {
+    "lemma": "mam",
+    "meanings_de": ["informelle Mutterbezeichnung"],
+    "definitions_de": ["informelles Wort für Mutter, besonders in Wales und Irland verwendet"],
+    "examples_de": [["Das Kind rief nach seiner **Mam**", "**Mam** machte immer den besten Sonntagsbraten"]]
+  },
+  {
+    "lemma": "mami",
+    "meanings_de": ["informelle Mutterbezeichnung"],
+    "definitions_de": ["informeller spanischer Begriff für Mutter oder attraktive Frau"],
+    "examples_de": [["Das Kleinkind streckte die Arme nach seiner **Mami** aus", "Sie rief ihre **Mami** jeden Sonntagmorgen an"]]
+  },
+  {
+    "lemma": "manchu",
+    "meanings_de": ["chinesische Volksgruppe", "tungusische Sprache"],
+    "definitions_de": ["Angehöriger eines Volkes, das China eroberte und die Qing-Dynastie gründete", "tungusische Sprache des Mandschu-Volkes, heute fast ausgestorben"],
+    "examples_de": [["Die **Mandschu** herrschten über 250 Jahre über China", "Traditionelle **mandschurische** Kleidung beeinflusste die chinesische Mode"], ["Nur wenige Menschen sprechen heute noch fließend **Mandschurisch**", "Wissenschaftler arbeiten daran, **mandschurische** Sprachdokumente zu erhalten"]]
+  },
+  {
+    "lemma": "mandarin",
+    "meanings_de": ["chinesische Sprachvarietät", "Regierungsbeamter", "Zitrusfrucht"],
+    "definitions_de": ["Standardform des Chinesischen, basierend auf dem Pekinger Dialekt", "hochrangiger Regierungsbeamter, besonders im kaiserlichen China", "kleine süße Orange mit lockerer, leicht zu schälender Haut"],
+    "examples_de": [["Sie lernte **Mandarin** für die Geschäftskommunikation", "**Hochchinesisch** wird von über einer Milliarde Menschen gesprochen"], ["Der **Mandarin** übte beträchtliche Macht am Hof aus", "**Beamte** verwalteten das kaiserliche Prüfungssystem"], ["Frische **Mandarinen** sind ein gesunder Wintersnack", "Der **Mandarinenbaum** trug reichlich Früchte"]]
+  },
+  {
+    "lemma": "mannerism",
+    "meanings_de": ["charakteristische Verhaltenseigenart", "Kunstbewegungsstil"],
+    "definitions_de": ["gewohnheitsmäßige Geste, Sprechweise oder Verhalten, das für eine Person charakteristisch ist", "europäischer Kunststil des 16. Jahrhunderts, gekennzeichnet durch Verlängerung und Verzerrung"],
+    "examples_de": [["Sein ständiges Räuspern war eine störende **Angewohnheit**", "Sie übernahm mehrere **Eigenarten** von ihrer Mentorin"], ["Der **Manierismus** bildete eine Brücke zwischen Renaissance und Barock", "Das Gemälde zeigte typische **manieristische** Figuren mit verlängerten Proportionen"]]
+  },
+  {
+    "lemma": "mantle",
+    "meanings_de": ["ärmelloser Umhang", "Erdgesteinsschicht", "Verantwortung oder Rolle"],
+    "definitions_de": ["loser, ärmelloser Umhang, der über anderen Kleidungsstücken getragen wird", "Schicht der Erde zwischen Kruste und Kern", "wichtige Rolle oder Verantwortung, die von einer Person an eine andere weitergegeben wird"],
+    "examples_de": [["Sie legte sich den samtenen **Mantel** um die Schultern", "Der Zauberer trug einen mit Sternen bedeckten **Umhang**"], ["Der **Erdmantel** macht den größten Teil des Erdvolumens aus", "**Mantelgestein** erreicht manchmal durch Vulkane die Oberfläche"], ["Er übernahm nur widerwillig den **Mantel** der Führung", "Sie erbte die **Verantwortung** von ihrem Vorgänger"]]
+  },
+  {
+    "lemma": "manx",
+    "meanings_de": ["Isle of Man bezogen", "schwanzlose Katzenrasse"],
+    "definitions_de": ["bezogen auf die Isle of Man, ihre Menschen oder keltische Sprache", "Hauskatzenrasse ohne Schwanz oder mit sehr kurzem Schwanz"],
+    "examples_de": [["Die **Manx**-Sprache erlebt eine Wiederbelebung", "Die **Manx**-Folklore umfasst viele keltische Legenden"], ["Ihre **Manx**-Katze war trotz fehlendem Schwanz verspielt", "Die **Manx**-Rasse stammt von der Isle of Man"]]
+  },
+  {
+    "lemma": "maoism",
+    "meanings_de": ["chinesische kommunistische Ideologie"],
+    "definitions_de": ["von Mao Zedong entwickelte kommunistische Ideologie, die Bauernrevolution und kontinuierlichen Klassenkampf betont"],
+    "examples_de": [["Der **Maoismus** beeinflusste revolutionäre Bewegungen weltweit", "Studenten debattierten über die Prinzipien des **Maoismus**"]]
+  },
+  {
+    "lemma": "maoist",
+    "meanings_de": ["Maoismus-Ideologie-Anhänger"],
+    "definitions_de": ["Person, die der kommunistischen Ideologie von Mao Zedong folgt oder sie unterstützt"],
+    "examples_de": [["Die **maoistischen** Rebellen kontrollierten ländliche Gebiete", "Ehemalige **Maoisten** nehmen jetzt an der demokratischen Politik teil"]]
+  },
+  {
+    "lemma": "maori",
+    "meanings_de": ["neuseeländisches Urvolk"],
+    "definitions_de": ["Angehöriger des indigenen polynesischen Volkes Neuseelands"],
+    "examples_de": [["Die **Maori** führten einen traditionellen Haka-Tanz auf", "Die **Maori**-Kultur spielt eine wichtige Rolle in der neuseeländischen Identität"]]
+  },
+  {
+    "lemma": "mar",
+    "meanings_de": ["Monatsname"],
+    "definitions_de": ["dritter Monat des Jahres im gregorianischen Kalender zwischen Februar und April"],
+    "examples_de": [["Der Frühling beginnt offiziell im **März**", "Sie planten ihre Hochzeit für nächsten **März**"]]
+  },
+  {
+    "lemma": "marathi",
+    "meanings_de": ["indische Sprache"],
+    "definitions_de": ["indoarische Sprache, die hauptsächlich im Bundesstaat Maharashtra in Westindien gesprochen wird"],
+    "examples_de": [["Die **Marathi**-Literatur hat eine reiche tausendjährige Geschichte", "Sie schreibt Gedichte sowohl auf **Marathi** als auch auf Englisch"]]
+  }
+]

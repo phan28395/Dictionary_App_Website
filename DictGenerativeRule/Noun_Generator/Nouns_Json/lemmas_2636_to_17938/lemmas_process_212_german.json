@@ -1,0 +1,278 @@
+[
+  {
+    "lemma": "simplification",
+    "meanings_de": ["Prozess der Vereinfachung"],
+    "definitions_de": ["Der Vorgang, bei dem etwas weniger kompliziert oder leichter verständlich gemacht wird, indem die Komplexität reduziert wird"],
+    "examples_de": [["Die **Vereinfachung** der mathematischen Aufgabe durch die Lehrerin half allen beim Verstehen", "Dieses Diagramm ist eine **Vereinfachung** des tatsächlichen Herstellungsprozesses"]]
+  },
+  {
+    "lemma": "simulation",
+    "meanings_de": ["nachbildende Darstellung"],
+    "definitions_de": ["Erstellung eines künstlichen Modells oder einer Darstellung, die reale Prozesse oder Systeme nachahmt"],
+    "examples_de": [["Die Flug**simulation** bereitete Piloten auf Notfallsituationen vor", "Wissenschaftler führten eine Computer**simulation** durch, um Wettermuster vorherzusagen"]]
+  },
+  {
+    "lemma": "simulator",
+    "meanings_de": ["Gerät zur Simulation"],
+    "definitions_de": ["Maschine oder Gerät, das künstliche Bedingungen schafft, um reale Situationen für Training oder Tests nachzubilden"],
+    "examples_de": [["Der Fahr**simulator** half neuen Fahrern, sicher zu üben", "Astronauten trainierten vor der Mission in einem Schwerelosigkeits**simulator**"]]
+  },
+  {
+    "lemma": "simulcast",
+    "meanings_de": ["gleichzeitige Übertragung"],
+    "definitions_de": ["Programm oder Veranstaltung, die gleichzeitig auf mehreren Kanälen oder Plattformen ausgestrahlt wird"],
+    "examples_de": [["Das Konzert war eine **Simultanübertragung** in Radio und Fernsehen", "Sie boten eine **Simulcast**-Streaming-Option für internationale Zuschauer an"]]
+  },
+  {
+    "lemma": "simultaneity",
+    "meanings_de": ["Eigenschaft des Gleichzeitigen"],
+    "definitions_de": ["Der Zustand oder die Tatsache, dass zwei oder mehr Dinge genau zur gleichen Zeit existieren oder geschehen"],
+    "examples_de": [["Die **Gleichzeitigkeit** der beiden Explosionen deutete auf eine Koordination hin", "Wissenschaftler untersuchten die **Simultaneität** von Gehirnsignalen während der Entscheidungsfindung"]]
+  },
+  {
+    "lemma": "sincerity",
+    "meanings_de": ["Eigenschaft der Aufrichtigkeit"],
+    "definitions_de": ["Die Eigenschaft, frei von Verstellung oder Täuschung zu sein und echte Gefühle oder Überzeugungen auszudrücken"],
+    "examples_de": [["Ihre **Aufrichtigkeit** war in jedem Wort spürbar", "Der Entschuldigung mangelte es an **Ehrlichkeit** und sie wirkte einstudiert"]]
+  },
+  {
+    "lemma": "sine",
+    "meanings_de": ["mathematische Funktion"],
+    "definitions_de": ["Trigonometrische Funktion, die das Verhältnis der Gegenkathete zur Hypotenuse in einem rechtwinkligen Dreieck darstellt"],
+    "examples_de": [["Die Schüler berechneten den **Sinus** verschiedener Winkel im Mathematikunterricht", "Das **Sinus**wellenmuster erscheint häufig in der Physik"]]
+  },
+  {
+    "lemma": "sinecure",
+    "meanings_de": ["Amt ohne Pflichten"],
+    "definitions_de": ["Position oder Amt, das wenig oder keine Arbeit erfordert, aber Gehalt oder Prestige bietet"],
+    "examples_de": [["Die Beraterrolle war im Grunde eine **Pfründe** ohne echte Verantwortung", "Kritiker nannten die Ernennung eine **Sinekure** für politische Unterstützer"]]
+  },
+  {
+    "lemma": "singalong",
+    "meanings_de": ["gemeinsames Singen"],
+    "definitions_de": ["Informelles Treffen, bei dem Menschen gemeinsam Lieder singen, typischerweise nach Texten oder einem Vorsänger"],
+    "examples_de": [["Das **Mitsingen** am Lagerfeuer umfasste alle beliebten Volkslieder", "Sie organisierten ein weihnachtliches **Singalong** im Gemeindezentrum"]]
+  },
+  {
+    "lemma": "singe",
+    "meanings_de": ["leichte Brandstelle"],
+    "definitions_de": ["Oberflächliche Brandstelle oder Versengung auf einer Oberfläche durch kurzen Kontakt mit Flamme oder Hitze"],
+    "examples_de": [["Von der Kerze war eine **Sengstelle** auf der Tischdecke", "Das Bügeleisen hinterließ eine **Versengung** auf ihrem Lieblingshemd"]]
+  },
+  {
+    "lemma": "singing",
+    "meanings_de": ["stimmliche Musikproduktion"],
+    "definitions_de": ["Die Tätigkeit, musikalische Klänge mit der Stimme zu erzeugen, typischerweise mit Worten"],
+    "examples_de": [["Ihr **Gesang** erfüllte den Konzertsaal mit wunderschönen Melodien", "Das **Singen** der Kinder war vom Spielplatz zu hören"]]
+  },
+  {
+    "lemma": "singlet",
+    "meanings_de": ["ärmelloses Kleidungsstück"],
+    "definitions_de": ["Ärmelloses Sporthemd oder Unterhemd, das typischerweise von Ringern oder Läufern getragen wird"],
+    "examples_de": [["Der Ringer trug ein rotes **Ringerhemd** während des Kampfes", "Er packte mehrere **Unterhemd** für den Leichtathletikwettkampf ein"]]
+  },
+  {
+    "lemma": "singleton",
+    "meanings_de": ["einzelne Einheit"],
+    "definitions_de": ["Etwas, das allein als einziges seiner Art oder Klasse existiert"],
+    "examples_de": [["Die Datenbankabfrage lieferte ein **Singleton**-Ergebnis", "Bei Kartenspielen ist ein **Singleton** eine Karte, die als einzige ihrer Farbe vorhanden ist"]]
+  },
+  {
+    "lemma": "singular",
+    "meanings_de": ["grammatische Form"],
+    "definitions_de": ["Grammatische Form, die eine Person, Sache oder Instanz im Gegensatz zum Plural bezeichnet"],
+    "examples_de": [["Das Wort 'Katze' ist **Singular**, während 'Katzen' Plural ist", "Die Schüler übten, **Singular**-Substantive in ihre Pluralformen umzuwandeln"]]
+  },
+  {
+    "lemma": "singularity",
+    "meanings_de": ["einzigartiger Punkt", "technologisches Ereignis"],
+    "definitions_de": ["Punkt, an dem eine Funktion einen unendlichen Wert annimmt oder ein einzigartiges Ereignis", "Hypothetischer zukünftiger Zeitpunkt, an dem künstliche Intelligenz die menschliche Intelligenz exponentiell übertrifft"],
+    "examples_de": [["Wissenschaftler untersuchten die **Singularität** im Zentrum des Schwarzen Lochs", "Die mathematische Gleichung hat eine **Singularität** bei null"], ["Zukunftsforscher debattieren, wann die technologische **Singularität** eintreten könnte", "Die **Singularität** könnte die menschliche Zivilisation grundlegend verändern"]]
+  },
+  {
+    "lemma": "sinker",
+    "meanings_de": ["Angelgewicht", "sinkender Wurf"],
+    "definitions_de": ["Beschwertes Objekt an der Angelschnur, um den Köder sinken zu lassen", "Baseball-Wurf, der sich beim Erreichen der Home Plate stark nach unten bewegt"],
+    "examples_de": [["Er befestigte ein schwereres **Bleigewicht**, um tieferes Wasser zu erreichen", "Das **Senkblei** half, den Köder am Grund zu halten"], ["Der **Sinker** des Werfers täuschte die Schlagmänner das ganze Spiel über", "Sein **Sinkball** hatte eine außergewöhnliche Abwärtsbewegung"]]
+  },
+  {
+    "lemma": "sinkhole",
+    "meanings_de": ["Bodenvertiefung"],
+    "definitions_de": ["Vertiefung oder Loch im Boden, das durch den Einsturz der Oberflächenschicht in einen unterirdischen Hohlraum entsteht"],
+    "examples_de": [["Über Nacht öffnete sich ein riesiges **Erdloch** auf dem Parkplatz", "Das **Sinkloch** verschluckte mehrere Autos, bevor die Behörden eintrafen"]]
+  },
+  {
+    "lemma": "sinking",
+    "meanings_de": ["Abwärtsbewegung"],
+    "definitions_de": ["Der Prozess oder die Handlung, unter die Wasseroberfläche zu gehen oder auf ein niedrigeres Niveau abzusinken"],
+    "examples_de": [["Das **Sinken** des Schiffes wurde auf Video festgehalten", "Sie hatte ein **beklemmendes** Gefühl, dass etwas nicht stimmte"]]
+  },
+  {
+    "lemma": "sinner",
+    "meanings_de": ["Person die sündigt"],
+    "definitions_de": ["Person, die Handlungen begeht, die als moralisch falsch gelten oder gegen religiöse Prinzipien verstößt"],
+    "examples_de": [["Der Prediger sprach über Vergebung für alle **Sünder**", "Er betrachtete sich als **Sünder**, der Erlösung suchte"]]
+  },
+  {
+    "lemma": "sinus",
+    "meanings_de": ["Körperhöhle"],
+    "definitions_de": ["Hohlraum in den Gesichtsknochen, der mit den Nasengängen verbunden ist"],
+    "examples_de": [["Der Arzt diagnostizierte eine **Nebenhöhlen**entzündung als Ursache ihrer Kopfschmerzen", "Sein **Nasennebenhöhlen**druck stieg während der Allergiesaison"]]
+  },
+  {
+    "lemma": "sip",
+    "meanings_de": ["kleine Trinkmenge"],
+    "definitions_de": ["Sehr kleine Menge Flüssigkeit, die auf einmal in den Mund genommen wird"],
+    "examples_de": [["Sie nahm einen vorsichtigen **Schluck** vom heißen Kaffee", "Nur ein **Schlückchen** Wasser half, seinen Hals zu beruhigen"]]
+  },
+  {
+    "lemma": "siphon",
+    "meanings_de": ["Flüssigkeitsübertragungsrohr"],
+    "definitions_de": ["Rohr oder Schlauch zur Übertragung von Flüssigkeit von einem Behälter zum anderen unter Nutzung des Luftdrucks"],
+    "examples_de": [["Er benutzte einen **Saugheber**, um das Aquarium zu entleeren", "Der **Siphon** übertrug Benzin aus dem Tank des Autos"]]
+  },
+  {
+    "lemma": "sire",
+    "meanings_de": ["männlicher Elternteil", "respektvolle Anrede"],
+    "definitions_de": ["Männlicher Elternteil eines Tieres, besonders eines Pferdes oder Hundes", "Respektvolle Anredeform für einen König oder Lord"],
+    "examples_de": [["Der **Vater** des Pferdes war ein Champion-Rennpferd", "Der **Vatertier** dieses Welpen hat einen ausgezeichneten Stammbaum"], ["Der Ritter sprach den König mit '**Majestät**' an, bevor er sprach", "Ja, **Herr**, Ihre Befehle werden sofort ausgeführt"]]
+  },
+  {
+    "lemma": "siren",
+    "meanings_de": ["Warngerät", "mythische Kreatur"],
+    "definitions_de": ["Lautes Warngerät, das einen anhaltenden heulenden Ton erzeugt", "Mythologisches Wesen, dargestellt als halb Frau und halb Vogel, das Seeleute anlockte"],
+    "examples_de": [["Die **Sirene** des Krankenwagens heulte, als er durch den Verkehr raste", "Feuer**sirenen** alarmierten die Bewohner zur sofortigen Evakuierung"], ["Antike Seeleute fürchteten die bezaubernden Gesänge der **Sirenen**", "Die **Sirenen** der griechischen Mythologie lebten auf felsigen Inseln"]]
+  },
+  {
+    "lemma": "sisal",
+    "meanings_de": ["Faserpflanze"],
+    "definitions_de": ["Starke Faser aus Agavenblättern, die zur Herstellung von Seilen und Bindfäden verwendet wird"],
+    "examples_de": [["Das Seil war aus strapazierfähigen **Sisal**fasern gefertigt", "Bauern ernteten **Sisal**pflanzen wegen ihrer wertvollen Fasern"]]
+  },
+  {
+    "lemma": "sissy",
+    "meanings_de": ["verweichlichter Mensch"],
+    "definitions_de": ["Person, besonders ein Junge oder Mann, der als schwach, feige oder übermäßig empfindlich angesehen wird"],
+    "examples_de": [["Mobber nannten ihn fälschlicherweise einen **Weichling**, weil er Gefühle zeigte", "Der veraltete Begriff '**Memme**' verstärkt schädliche Geschlechterstereotypen"]]
+  },
+  {
+    "lemma": "sisterhood",
+    "meanings_de": ["weibliche Solidarität", "religiöse Gemeinschaft"],
+    "definitions_de": ["Beziehung zwischen Schwestern oder Gefühl der Verwandtschaft unter Frauen", "Gesellschaft oder Gemeinschaft von Frauen, die unter religiösen Gelübden zusammenleben"],
+    "examples_de": [["Die Frauengruppe förderte **Schwesternschaft** und gegenseitige Unterstützung", "Ihre **Schwesterlichkeit** wurde durch gemeinsame Erfahrungen stärker"], ["Sie trat einer **Schwesternschaft** bei, die sich der Armenhilfe widmete", "Die **Schwesterngemeinschaft** diente der Gemeinde seit Jahrzehnten"]]
+  },
+  {
+    "lemma": "sitar",
+    "meanings_de": ["Saiteninstrument"],
+    "definitions_de": ["Gezupftes Saiteninstrument aus Indien mit langem Hals und resonierendem Kürbis"],
+    "examples_de": [["Der Musiker spielte wunderschöne Melodien auf der **Sitar**", "Das Erlernen der **Sitar** erfordert jahrelange Übung"]]
+  },
+  {
+    "lemma": "sitcom",
+    "meanings_de": ["Fernsehkomödienserie"],
+    "definitions_de": ["Fernsehserie mit wiederkehrenden Charakteren in humorvollen Situationen, typischerweise mit eingeblendeten Lachern"],
+    "examples_de": [["Die **Sitcom** lief acht erfolgreiche Staffeln lang", "Sie schauten jeden Donnerstagabend ihre Lieblings**sitcom**"]]
+  },
+  {
+    "lemma": "sitter",
+    "meanings_de": ["Person die sitzt", "Betreuungsperson"],
+    "definitions_de": ["Person, die für ein Porträt oder Foto posiert", "Person, die auf Kinder oder Haustiere aufpasst, während die Besitzer weg sind"],
+    "examples_de": [["Der Künstler bat das **Modell**, still zu bleiben", "Das Porträt**modell** hielt stundenlang ihre Pose"], ["Wir brauchen einen zuverlässigen **Babysitter** für Samstagabend", "Die **Tiersitterin** kam zweimal täglich, um die Katzen zu füttern"]]
+  },
+  {
+    "lemma": "sitting",
+    "meanings_de": ["sitzende Sitzung"],
+    "definitions_de": ["Ununterbrochener Zeitraum des Sitzens für eine bestimmte Aktivität oder einen bestimmten Zweck"],
+    "examples_de": [["Der Ausschuss erledigte seine Arbeit in einer **Sitzung**", "Sie las das ganze Buch in einer einzigen **Sitzung**"]]
+  },
+  {
+    "lemma": "six",
+    "meanings_de": ["Zahl nach fünf"],
+    "definitions_de": ["Kardinalzahl zwischen fünf und sieben, dargestellt durch die Ziffer 6"],
+    "examples_de": [["Der Würfel zeigte beim letzten Wurf eine **Sechs**", "Es sind noch **sechs** Tage bis zur Deadline"]]
+  },
+  {
+    "lemma": "sixpence",
+    "meanings_de": ["ehemalige britische Münze"],
+    "definitions_de": ["Britische Münze im Wert von sechs alten Pence, verwendet vor der Dezimalisierung 1971"],
+    "examples_de": [["Sie fand einen alten **Sixpence** in der Schmuckschatulle ihrer Großmutter", "Das Lied erwähnte eine Tasche voller **Sixpence**"]]
+  },
+  {
+    "lemma": "sixteen",
+    "meanings_de": ["Zahl nach fünfzehn"],
+    "definitions_de": ["Kardinalzahl gleich der Summe von zehn und sechs"],
+    "examples_de": [["Sie feierte ihren **sechzehnten** Geburtstag mit Freunden", "Das Rezept verlangt **sechzehn** Unzen Mehl"]]
+  },
+  {
+    "lemma": "sixteenth",
+    "meanings_de": ["Ordnungszahl", "Musiknote"],
+    "definitions_de": ["Nummer sechzehn in einer Reihenfolge oder Ordnung", "Musiknote mit einem Sechzehntel der Dauer einer ganzen Note"],
+    "examples_de": [["Heute ist der **sechzehnte** Jahrestag ihres Geschäfts", "Sie wurde **Sechzehnte** beim Marathon"], ["Der Pianist übte die **Sechzehntelnoten** wiederholt", "Die schnellen **Sechzehntel** erzeugten eine fließende Melodie"]]
+  },
+  {
+    "lemma": "sixth",
+    "meanings_de": ["Ordnungszahl", "musikalisches Intervall"],
+    "definitions_de": ["Nummer sechs in einer Reihenfolge oder Ordnung", "Intervall, das sechs aufeinanderfolgende Töne in einer Tonleiter umfasst"],
+    "examples_de": [["Sie wurde **Sechste** im Schwimmwettbewerb", "Das **sechste** Kapitel erklärt die Haupttheorie"], ["Die Harmonie beinhaltete eine große **Sexte** über dem Grundton", "Musiker übten das Spielen von **Sexten** auf ihren Instrumenten"]]
+  },
+  {
+    "lemma": "sixtieth",
+    "meanings_de": ["Ordnungszahl"],
+    "definitions_de": ["Nummer sechzig in einer Reihenfolge oder Ordnung"],
+    "examples_de": [["Sie feierten gemeinsam ihren **sechzigsten** Hochzeitstag", "Der **sechzigste** Breitengrad markiert eine wichtige geografische Grenze"]]
+  },
+  {
+    "lemma": "sixty",
+    "meanings_de": ["Zahl nach neunundfünfzig"],
+    "definitions_de": ["Kardinalzahl gleich sechs mal zehn"],
+    "examples_de": [["Das Tempolimit beträgt hier **sechzig** Meilen pro Stunde", "Sie ging mit **sechzig** nach einer langen Karriere in Rente"]]
+  },
+  {
+    "lemma": "sizing",
+    "meanings_de": ["Größenbestimmung", "Beschichtungssubstanz"],
+    "definitions_de": ["Prozess der Bestimmung oder Anpassung der Größe von etwas", "Substanz, die auf Materialien wie Papier oder Stoff aufgetragen wird, um Poren zu füllen"],
+    "examples_de": [["Die richtige **Größenanpassung** stellt sicher, dass das Kleid perfekt passt", "Die **Größentabelle** half Kunden bei der richtigen Auswahl"], ["Das Papier benötigt eine **Grundierung**, bevor es bemalt werden kann", "Künstler tragen **Leimung** auf Leinwand vor der Ölmalerei auf"]]
+  },
+  {
+    "lemma": "skate",
+    "meanings_de": ["Eiskufenschuh", "flacher Fisch"],
+    "definitions_de": ["Stiefel mit einer Kufe oder Rädern zum Gleiten auf Eis oder Boden", "Flachkörperfisch, verwandt mit Rochen, mit flügelartigen Flossen"],
+    "examples_de": [["Sie schnürte ihre **Schlittschuhe**, bevor sie aufs Eis trat", "Seine Hockey**schlittschuhe** mussten geschärft werden"], ["Der **Rochen** glitt über den Meeresboden", "Fischer fingen mehrere **Rochen** in ihren Netzen"]]
+  },
+  {
+    "lemma": "skateboard",
+    "meanings_de": ["Rollbrett"],
+    "definitions_de": ["Kurzes Brett mit Rädern zum Fahren und für Tricks"],
+    "examples_de": [["Er führte einen beeindruckenden Trick auf seinem **Skateboard** vor", "Sie kaufte ein neues **Skateboard** mit besseren Rädern"]]
+  },
+  {
+    "lemma": "skateboarder",
+    "meanings_de": ["Skateboardfahrer"],
+    "definitions_de": ["Person, die Skateboard fährt, besonders als Sport oder Hobby"],
+    "examples_de": [["Der professionelle **Skateboarder** gewann mehrere Wettbewerbe", "Junge **Skateboardfahrer** übten im örtlichen Skatepark"]]
+  },
+  {
+    "lemma": "skateboarding",
+    "meanings_de": ["Brettreitensport"],
+    "definitions_de": ["Aktivität oder Sport des Fahrens und Ausführens von Tricks auf einem Skateboard"],
+    "examples_de": [["**Skateboarding** wurde in den letzten Jahren olympische Sportart", "Er begann als Teenager mit dem **Skateboardfahren**"]]
+  },
+  {
+    "lemma": "skater",
+    "meanings_de": ["Person die Schlittschuh läuft"],
+    "definitions_de": ["Person, die Schlittschuh oder Rollschuh läuft als Sport oder zur Erholung"],
+    "examples_de": [["Die Eiskunst**läuferin** führte einen perfekten Dreifachsprung aus", "Eisschnell**läufer** rasten um die ovale Bahn"]]
+  },
+  {
+    "lemma": "skating",
+    "meanings_de": ["Gleiten auf Schlittschuhen"],
+    "definitions_de": ["Aktivität oder Sport des Gleitens auf Schlittschuhen oder Rollschuhen"],
+    "examples_de": [["Sie gingen jedes Wochenende zum **Schlittschuhlaufen** auf die Außeneisbahn", "Eis**kunstlauf** erfordert Anmut und sportliche Fähigkeiten"]]
+  },
+  {
+    "lemma": "skeet",
+    "meanings_de": ["Tontaubenschießen"],
+    "definitions_de": ["Schießsport, bei dem Tontauben von zwei festen Stationen aus gestartet werden"],
+    "examples_de": [["Er gewann drei Jahre in Folge die **Skeet**-Meisterschaft", "Sie übten jeden Samstag **Wurfscheibenschießen** im Schützenverein"]]
+  }
+]

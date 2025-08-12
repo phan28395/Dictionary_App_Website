@@ -1,0 +1,296 @@
+[
+  {
+    "lemma": "positioning",
+    "meanings_de": ["Platzierungsstrategie"],
+    "definitions_de": ["Strategische Platzierung oder Anordnung von Personen, Dingen oder Ideen in Bezug auf andere, oft zur Erzielung eines Wettbewerbsvorteils"],
+    "examples_de": [["Die **Positionierung** der Marke im Premiumsegment war ein voller Erfolg", "Durch geschickte **Positionierung** der Möbel wirkt der Raum deutlich größer"]]
+  },
+  {
+    "lemma": "positivity",
+    "meanings_de": ["optimistische Einstellung"],
+    "definitions_de": ["Eigenschaft oder Zustand des Positiv-, Optimistisch- oder Konstruktivseins in Einstellung und Herangehensweise"],
+    "examples_de": [["Ihre **Positivität** steckte das gesamte Team mit Begeisterung an", "**Positivität** in schwierigen Zeiten zu bewahren erfordert bewusste Anstrengung"]]
+  },
+  {
+    "lemma": "posse",
+    "meanings_de": ["Hilfstrupp der Polizei", "informelle Freundesgruppe"],
+    "definitions_de": ["Vom Sheriff einberufene Gruppe zur Durchsetzung des Gesetzes", "Informelle Gruppe von Freunden oder Bekannten, die Zeit miteinander verbringen"],
+    "examples_de": [["Der Sheriff stellte einen **Hilfstrupp** zusammen, um die entflohenen Gefangenen zu verfolgen", "Im Western jagte die **Bürgerwehr** die Banditen durch die Wüste"], ["Sie kam mit ihrer ganzen **Clique** zur Party", "Seine **Truppe** von Musikern trat jeden Samstag in lokalen Clubs auf"]]
+  },
+  {
+    "lemma": "possessive",
+    "meanings_de": ["Grammatikform", "besitzergreifende Eigenschaft"],
+    "definitions_de": ["Grammatischer Fall oder Form, der Besitz oder Zugehörigkeit anzeigt", "Übermäßiges Verlangen, jemanden oder etwas zu besitzen oder zu kontrollieren"],
+    "examples_de": [["Der **Possessiv** von 'Katze' wird im Deutschen durch den Genitiv 'der Katze' gebildet", "Schüler verwechseln oft **possessive** Formen mit dem Plural"], ["Sein **besitzergreifendes** Verhalten vertrieb selbst seine engsten Freunde", "Sie erkannte ihre **possessiven** Tendenzen und suchte professionelle Hilfe"]]
+  },
+  {
+    "lemma": "possessor",
+    "meanings_de": ["Besitzer von etwas"],
+    "definitions_de": ["Person, die etwas besitzt, innehat oder im Besitz von etwas ist"],
+    "examples_de": [["Der **Besitzer** des Gewinnloses blieb anonym", "Als **Besitzerin** seltener Artefakte fühlte sie sich für deren Erhaltung verantwortlich"]]
+  },
+  {
+    "lemma": "possum",
+    "meanings_de": ["Beuteltiergattung"],
+    "definitions_de": ["Nachtaktives Beuteltier mit spitzer Schnauze und Greifschwanz, das in Amerika oder Australien vorkommt"],
+    "examples_de": [["Ein **Opossum** durchsuchte letzte Nacht unsere Mülltonnen nach Futter", "Das **Beutelrattenmutter** trug ihre Jungen auf dem Rücken durch die Bäume"]]
+  },
+  {
+    "lemma": "postage",
+    "meanings_de": ["Postgebühr"],
+    "definitions_de": ["Betrag, der für die Versendung von Briefen oder Paketen über den Postdienst erhoben wird"],
+    "examples_de": [["Das **Porto** für internationale Briefe ist dieses Jahr erheblich gestiegen", "Sie vergaß ausreichend **Briefmarken** aufzukleben, weshalb das Paket zurückgeschickt wurde"]]
+  },
+  {
+    "lemma": "postcard",
+    "meanings_de": ["Postkarte"],
+    "definitions_de": ["Karte zum Versenden von Nachrichten per Post ohne Umschlag, typischerweise mit einem Bild auf einer Seite"],
+    "examples_de": [["Er schickte **Postkarten** aus jeder Stadt, die er auf seiner Europareise besuchte", "Die Sammlung alter **Ansichtskarten** zeigte, wie die Stadt vor hundert Jahren aussah"]]
+  },
+  {
+    "lemma": "postcode",
+    "meanings_de": ["Postleitzahl"],
+    "definitions_de": ["Zahlen- und Buchstabenkombination, die der Postadresse hinzugefügt wird, um die Postsortierung zu erleichtern"],
+    "examples_de": [["Bitte geben Sie Ihre vollständige **Postleitzahl** an, damit die Lieferung korrekt zugestellt wird", "Das **Postleitzahlensystem** hilft den Postboten, die Post effizienter zu sortieren"]]
+  },
+  {
+    "lemma": "postdoc",
+    "meanings_de": ["Forschungsposition nach Promotion"],
+    "definitions_de": ["Forscher, der nach Abschluss der Promotion an fortgeschrittener Forschung arbeitet, typischerweise eine befristete Stelle"],
+    "examples_de": [["Sie nahm eine **Postdoc-Stelle** in Stanford an, um ihre Krebsforschung fortzusetzen", "Der **Postdoktorand** präsentierte bahnbrechende Ergebnisse auf der internationalen Konferenz"]]
+  },
+  {
+    "lemma": "postdoctoral",
+    "meanings_de": ["nach der Promotion"],
+    "definitions_de": ["Bezogen auf akademische Arbeit oder Forschung, die nach Erhalt des Doktorgrades durchgeführt wird"],
+    "examples_de": [["Sein **postdoktorales** Stipendium konzentrierte sich auf die Entwicklung nachhaltiger Energielösungen", "Die Universität bietet attraktive **Postdoc-Positionen** in verschiedenen wissenschaftlichen Bereichen"]]
+  },
+  {
+    "lemma": "posterior",
+    "meanings_de": ["hinterer Körperteil", "nachfolgend"],
+    "definitions_de": ["Gesäß oder hinterer Teil des menschlichen Körpers", "Hinter oder auf der Rückseite von etwas gelegen"],
+    "examples_de": [["Der Patient klagte nach dem Sturz über Schmerzen im **posterioren** Bereich", "Die Injektion wurde in den **Gesäßmuskel** verabreicht für bessere Absorption"], ["Der **hintere** Abschnitt des Gehirns steuert bestimmte motorische Funktionen", "In der **nachträglichen** Analyse entdeckten wir Fehler in der ursprünglichen Hypothese"]]
+  },
+  {
+    "lemma": "posterity",
+    "meanings_de": ["Nachwelt"],
+    "definitions_de": ["Alle zukünftigen Generationen von Menschen, insbesondere Nachkommen einer bestimmten Person oder Gruppe"],
+    "examples_de": [["Wir müssen diese historischen Dokumente für die **Nachwelt** bewahren", "Die Künstlerin schuf ihr Meisterwerk in der Hoffnung, dass es von der **Nachwelt** geschätzt würde"]]
+  },
+  {
+    "lemma": "postgraduate",
+    "meanings_de": ["Postgraduiertenstudent"],
+    "definitions_de": ["Student, der nach Abschluss des ersten Studiums weiterstudiert und einen Master- oder Doktorgrad anstrebt"],
+    "examples_de": [["Das **Masterprogramm** in Betriebswirtschaft zieht Studierende aus der ganzen Welt an", "Als **Postgraduierte** hatte sie Zugang zu spezialisierten Forschungseinrichtungen"]]
+  },
+  {
+    "lemma": "posting",
+    "meanings_de": ["Stellenzuweisung", "Online-Nachricht"],
+    "definitions_de": ["Ernennung zu einer bestimmten Stelle, insbesondere an einem anderen Ort", "Online oder auf einem schwarzen Brett veröffentlichte Nachricht oder Artikel"],
+    "examples_de": [["Seine militärische **Versetzung** führte ihn zu Stützpunkten auf drei verschiedenen Kontinenten", "Sie erhielt eine diplomatische **Entsendung** zur Botschaft in Tokio"], ["Die **Stellenausschreibung** zog innerhalb weniger Tage hunderte qualifizierte Bewerber an", "Ihr **Blogbeitrag** über nachhaltiges Leben ging in den sozialen Medien viral"]]
+  },
+  {
+    "lemma": "postman",
+    "meanings_de": ["Briefträger"],
+    "definitions_de": ["Person, die damit beauftragt ist, Post und Pakete an Häuser und Unternehmen zuzustellen"],
+    "examples_de": [["Der **Postbote** klingelt immer zweimal, wenn er Pakete zustellt, die eine Unterschrift erfordern", "Unser freundlicher **Briefträger** beliefert diese Nachbarschaft seit zwanzig Jahren"]]
+  },
+  {
+    "lemma": "postmark",
+    "meanings_de": ["Poststempel"],
+    "definitions_de": ["Offizieller Stempel auf Post, der Ort und Datum der Versendung anzeigt"],
+    "examples_de": [["Der **Poststempel** bewies, dass der Brief vor Ablauf der Frist abgeschickt wurde", "Sammler schätzen Umschläge mit seltenen oder historischen **Poststempeln**"]]
+  },
+  {
+    "lemma": "postmaster",
+    "meanings_de": ["Postamtsleiter"],
+    "definitions_de": ["Person, die für ein Postamt oder Postverteilungszentrum verantwortlich ist"],
+    "examples_de": [["Der **Postamtsleiter** kümmerte sich um Beschwerden über verspätete Postzustellung im Bezirk", "Sie arbeitete sich vom Briefträger zur **Postmeisterin** der Stadt hoch"]]
+  },
+  {
+    "lemma": "postmodernism",
+    "meanings_de": ["kulturelle Bewegung"],
+    "definitions_de": ["Bewegung des späten 20. Jahrhunderts in Kunst, Architektur und Kritik, die sich durch Skepsis gegenüber großen Erzählungen vom Modernismus abwendet"],
+    "examples_de": [["Die **Postmoderne** stellte traditionelle Vorstellungen von objektiver Wahrheit und universellen Werten in Frage", "Das Design des Gebäudes spiegelt die **Postmoderne** mit ihrer spielerischen Mischung historischer Stile wider"]]
+  },
+  {
+    "lemma": "postmortem",
+    "meanings_de": ["Leichenuntersuchung", "Projektanalyse"],
+    "definitions_de": ["Medizinische Untersuchung einer Leiche zur Bestimmung der Todesursache", "Analyse oder Diskussion eines Ereignisses nach dessen Eintreten"],
+    "examples_de": [["Die **Obduktion** ergab, dass das Opfer eines natürlichen Todes starb", "Der Gerichtsmediziner ordnete eine **Autopsie** an, um den verdächtigen Tod zu untersuchen"], ["Das Team führte eine **Nachbesprechung** durch, um zu verstehen, warum das Projekt scheiterte", "Unsere **Retrospektive** identifizierte mehrere Verbesserungsbereiche"]]
+  },
+  {
+    "lemma": "postponement",
+    "meanings_de": ["Verschiebung eines Ereignisses"],
+    "definitions_de": ["Handlung des Verzögerns oder Verschiebens eines Ereignisses oder einer Aktion auf einen späteren Zeitpunkt"],
+    "examples_de": [["Die **Verschiebung** des Konzerts enttäuschte tausende Ticketinhaber", "Wetterbedingungen erzwangen die **Verlegung** des Freiluftfestivals auf nächsten Monat"]]
+  },
+  {
+    "lemma": "postscript",
+    "meanings_de": ["Nachschrift"],
+    "definitions_de": ["Zusätzliche Bemerkung am Ende eines Briefes, eingeleitet durch P.S., oder nach dem Hauptinhalt hinzugefügt"],
+    "examples_de": [["Sie fügte ihrer E-Mail eine **Nachschrift** hinzu, um alle an die Besprechungszeit zu erinnern", "Der Autor fügte ein wichtiges **P.S.** hinzu, das die Bedeutung des gesamten Briefes veränderte"]]
+  },
+  {
+    "lemma": "postulate",
+    "meanings_de": ["Grundannahme"],
+    "definitions_de": ["Aussage oder Prinzip, das ohne Beweis als wahr angenommen wird als Grundlage für Argumentation"],
+    "examples_de": [["Euklids geometrische **Postulate** bilden die Grundlage der klassischen Geometrie", "Das **Postulat** des Wissenschaftlers über dunkle Materie führte zu bahnbrechender Forschung"]]
+  },
+  {
+    "lemma": "posture",
+    "meanings_de": ["Körperhaltung", "Einstellungshaltung"],
+    "definitions_de": ["Position, in der jemand seinen Körper beim Stehen oder Sitzen hält", "Bestimmte Herangehensweise oder Einstellung zu etwas"],
+    "examples_de": [["Eine gute **Körperhaltung** beugt Rückenschmerzen vor und verbessert die allgemeine Gesundheit", "Die Yogalehrerin korrigierte die **Haltung** ihrer Schüler bei jeder Pose"], ["Die defensive **Haltung** des Landes beunruhigte seine Nachbarstaaten", "Das Unternehmen nahm eine aggressive **Position** gegenüber seinen Konkurrenten ein"]]
+  },
+  {
+    "lemma": "posturing",
+    "meanings_de": ["anmaßendes Verhalten"],
+    "definitions_de": ["Verhalten, das darauf abzielt, andere durch künstliche Zurschaustellung von Haltung oder Position zu beeindrucken oder zu täuschen"],
+    "examples_de": [["Politisches **Gehabe** verschleiert oft die wahren Probleme, die angegangen werden müssen", "Seine **Machtdemonstration** täuschte niemanden, der seine sanfte Natur kannte"]]
+  },
+  {
+    "lemma": "potable",
+    "meanings_de": ["trinkbare Flüssigkeit"],
+    "definitions_de": ["Flüssigkeit, insbesondere Wasser, die sicher und zum Trinken geeignet ist"],
+    "examples_de": [["Die Wanderer trugen Tabletten bei sich, um Bachwasser **trinkbar** zu machen", "Der Zugang zu **Trinkwasser** bleibt in vielen Entwicklungsregionen eine Herausforderung"]]
+  },
+  {
+    "lemma": "potassium",
+    "meanings_de": ["chemisches Element"],
+    "definitions_de": ["Weiches, silbrig-weißes metallisches Element, das für pflanzliches und tierisches Leben unerlässlich ist, Symbol K"],
+    "examples_de": [["Bananen sind bekannt als ausgezeichnete Quelle für **Kalium** in der Ernährung", "Der Arzt verschrieb **Kaliumpräparate**, um ihren Mangel zu beheben"]]
+  },
+  {
+    "lemma": "potency",
+    "meanings_de": ["Wirkungsstärke"],
+    "definitions_de": ["Kraft oder Stärke von etwas, insbesondere eines Medikaments, einer Droge oder eines Arguments, eine Wirkung zu erzeugen"],
+    "examples_de": [["Die **Wirksamkeit** des Medikaments nimmt nach dem Verfallsdatum erheblich ab", "Niemand stellte die **Schlagkraft** ihrer Argumente während der Debatte in Frage"]]
+  },
+  {
+    "lemma": "pothole",
+    "meanings_de": ["Schlagloch"],
+    "definitions_de": ["Loch oder Vertiefung in der Straßenoberfläche, verursacht durch Abnutzung, Wetter oder schlechte Bauweise"],
+    "examples_de": [["Das riesige **Schlagloch** in der Hauptstraße beschädigte diese Woche mehrere Autos", "Stadtarbeiter füllten **Schlaglöcher** im ganzen Viertel nach Beschwerden der Anwohner"]]
+  },
+  {
+    "lemma": "potion",
+    "meanings_de": ["magischer Trank"],
+    "definitions_de": ["Flüssigkeit mit heilenden, magischen oder giftigen Eigenschaften, besonders in Geschichten oder Folklore"],
+    "examples_de": [["Die Hexe braute um Mitternacht einen **Liebestrank** in ihrem Kessel", "Im Fantasy-Spiel stellen **Heiltränke** die Gesundheit des Spielers sofort wieder her"]]
+  },
+  {
+    "lemma": "potter",
+    "meanings_de": ["Töpfer"],
+    "definitions_de": ["Person, die Töpferwaren herstellt, indem sie Ton formt und in einem Brennofen brennt"],
+    "examples_de": [["Der **Töpfer** demonstrierte das Drehen von Ton auf der Scheibe beim Kunsthandwerksmarkt", "Lokale **Töpfer** verkaufen ihre handgefertigten Schalen und Vasen auf dem Wochenmarkt"]]
+  },
+  {
+    "lemma": "pottery",
+    "meanings_de": ["Keramikwaren", "Töpferhandwerk"],
+    "definitions_de": ["Aus gebranntem Ton hergestellte Gegenstände wie Schüsseln, Teller und Vasen", "Kunst oder Handwerk der Herstellung von Keramikgegenständen durch Formen und Brennen von Ton"],
+    "examples_de": [["Die **Keramiksammlung** des Museums umfasst Stücke aus antiken Zivilisationen", "Sie dekorierte ihre Küchenregale mit bunter handgefertigter **Töpferware**"], ["**Töpferkurse** halfen ihr, Geduld und kreative Fähigkeiten zu entwickeln", "Das **Töpferstudio** bietet jeden Samstag Workshops für Anfänger an"]]
+  },
+  {
+    "lemma": "potty",
+    "meanings_de": ["Kindertoilette"],
+    "definitions_de": ["Kleine Toilette, die von kleinen Kindern während des Toilettentrainings verwendet wird"],
+    "examples_de": [["Ihr Kleinkind benutzte heute zum ersten Mal erfolgreich das **Töpfchen**", "Wir packten ein tragbares **Töpfchen** für unsere Autofahrt mit den Kindern ein"]]
+  },
+  {
+    "lemma": "pouch",
+    "meanings_de": ["kleine Tasche", "Körpertasche"],
+    "definitions_de": ["Kleine Tasche oder taschenähnlicher Behälter zum Tragen von Dingen", "Hauttasche am Körper eines Tieres zum Tragen von Jungen"],
+    "examples_de": [["Sie bewahrte ihre Münzen in einem kleinen **Lederbeutel** an ihrem Gürtel auf", "Die **Tasche** des Briefträgers enthielt Briefe und Pakete zur Zustellung"], ["Das Kängurubaby lugte aus dem **Beutel** seiner Mutter heraus", "Der Pelikan speicherte Fische in seinem **Kehlsack**"]]
+  },
+  {
+    "lemma": "poultry",
+    "meanings_de": ["Hausgeflügel"],
+    "definitions_de": ["Hausgeflügel wie Hühner, Truthähne, Enten und Gänse, die für Fleisch oder Eier gezüchtet werden"],
+    "examples_de": [["Der Hof spezialisiert sich auf freilaufendes **Geflügel** und Bio-Gemüse", "**Geflügel** muss gründlich durchgegart werden, um lebensmittelbedingte Krankheiten zu vermeiden"]]
+  },
+  {
+    "lemma": "pounder",
+    "meanings_de": ["Gewichtsmaß-Artikel", "Zerkleinerungswerkzeug"],
+    "definitions_de": ["Etwas, das eine bestimmte Anzahl von Pfund wiegt", "Werkzeug oder Person, die Dinge stampft oder zerkleinert"],
+    "examples_de": [["Er fing gestern beim Angeln am See einen **Fünfpfünder**", "Das Burgerrestaurant ist berühmt für seinen **Viertelpfünder** mit Käse"], ["Der Koch benutzte einen **Fleischklopfer**, um die Steaks zart zu machen", "Der traditionelle Mörser und **Stößel** werden noch immer zum Mahlen von Gewürzen verwendet"]]
+  },
+  {
+    "lemma": "pounding",
+    "meanings_de": ["heftiges Schlagen"],
+    "definitions_de": ["Schweres, wiederholtes Schlagen, Hämmern oder pochendes Geräusch oder Aktion"],
+    "examples_de": [["Das **Donnern** der Wellen gegen das Ufer war die ganze Nacht zu hören", "Sie nahm Aspirin, um die **pochenden** Kopfschmerzen zu lindern, die sie den ganzen Tag geplagt hatten"]]
+  },
+  {
+    "lemma": "powerboat",
+    "meanings_de": ["Motorboot"],
+    "definitions_de": ["Boot, das von einem Motor angetrieben wird und nicht von Segeln oder Rudern"],
+    "examples_de": [["Das **Motorboot** raste mit unglaublicher Geschwindigkeit über den See", "Sie mieteten ein **Speedboot** zum Wasserskifahren während ihres Urlaubs"]]
+  },
+  {
+    "lemma": "powerhouse",
+    "meanings_de": ["starke einflussreiche Einheit"],
+    "definitions_de": ["Person, Organisation oder Sache von großer Energie, Stärke oder Einfluss in einem bestimmten Bereich"],
+    "examples_de": [["Das Technologieunternehmen wurde zu einem **Kraftzentrum** in der Künstlichen-Intelligenz-Branche", "Sie ist eine **Ausnahmesportlerin**, die jeden Wettkampf dominiert, an dem sie teilnimmt"]]
+  },
+  {
+    "lemma": "pox",
+    "meanings_de": ["Krankheit mit Pusteln"],
+    "definitions_de": ["Eine von mehreren Krankheiten, die Hautausschlag mit Pusteln verursachen, insbesondere Pocken oder Windpocken"],
+    "examples_de": [["Der **Windpockenausbruch** an der Schule betraf dutzende Kinder", "Historische Aufzeichnungen beschreiben verheerende **Pockenepidemien** in der Kolonialzeit"]]
+  },
+  {
+    "lemma": "practicality",
+    "meanings_de": ["Nützlichkeitsqualität"],
+    "definitions_de": ["Eigenschaft, für den tatsächlichen Gebrauch geeignet zu sein, vernünftig und realistisch statt idealistisch"],
+    "examples_de": [["Die **Praktikabilität** des Designs machte es bei vielbeschäftigten Berufstätigen beliebt", "Sie schätzte **Zweckmäßigkeit** mehr als Ästhetik bei der Wahl ihres neuen Autos"]]
+  },
+  {
+    "lemma": "pragmatic",
+    "meanings_de": ["praktische Person"],
+    "definitions_de": ["Person, die mit Dingen vernünftig und realistisch umgeht, basierend auf praktischen Überlegungen"],
+    "examples_de": [["Als **Pragmatiker** konzentrierte sie sich auf Lösungen, die sofort umgesetzt werden konnten", "Das Komitee brauchte einen **Praktiker**, der Idealismus mit Realität ausbalancieren konnte"]]
+  },
+  {
+    "lemma": "pragmatism",
+    "meanings_de": ["praktischer Ansatz als Philosophie"],
+    "definitions_de": ["Ansatz, der Theorien oder Überzeugungen basierend auf praktischer Anwendung und beobachtbaren Ergebnissen bewertet"],
+    "examples_de": [["Ihr **Pragmatismus** half dem Team, sich auf erreichbare Ziele statt auf Wunschdenken zu konzentrieren", "Der amerikanische **Pragmatismus** beeinflusste die Bildungsphilosophie während des gesamten zwanzigsten Jahrhunderts"]]
+  },
+  {
+    "lemma": "pragmatist",
+    "meanings_de": ["praktisch denkende Person"],
+    "definitions_de": ["Person, die Situationen praktisch angeht und sich darauf konzentriert, was funktioniert, anstatt auf abstrakte Prinzipien"],
+    "examples_de": [["Der **Pragmatiker** im Vorstand drängte auf kostengünstige Lösungen", "Als **Pragmatist** glaubte er daran, Ideen durch reale Anwendung zu testen"]]
+  },
+  {
+    "lemma": "prairie",
+    "meanings_de": ["Graslandebene"],
+    "definitions_de": ["Große offene Grasfläche, besonders in Nordamerika"],
+    "examples_de": [["Die Pioniere durchquerten weite **Prärien** in ihren Planwagen auf dem Weg nach Westen", "**Prärieblumen** blühen im Frühling in spektakulären Farben"]]
+  },
+  {
+    "lemma": "pram",
+    "meanings_de": ["Kinderwagen"],
+    "definitions_de": ["Rädriger Wagen für ein Baby, der von einer Person zu Fuß geschoben wird"],
+    "examples_de": [["Sie schob den **Kinderwagen** durch den Park, während ihr Baby friedlich schlief", "Der antike **Kinderwagen** wurde über drei Generationen weitergegeben"]]
+  },
+  {
+    "lemma": "prank",
+    "meanings_de": ["spielerischer Streich"],
+    "definitions_de": ["Spielerischer oder schelmischer Streich, der jemandem zur Unterhaltung gespielt wird"],
+    "examples_de": [["Der harmlose **Streich** bestand darin, die Salz- und Zuckerbehälter zu vertauschen", "Der 1. April bringt aufwendige **Streiche** von kreativen Spaßvögeln hervor"]]
+  },
+  {
+    "lemma": "prankster",
+    "meanings_de": ["Spaßvogel"],
+    "definitions_de": ["Person, die anderen Streiche oder Scherze spielt"],
+    "examples_de": [["Der **Büroscherzkeks** schlug wieder zu und füllte über Nacht die Büros mit Luftballons", "Als **Klassenclown** bekannt, hielt er alle mit harmlosen Scherzen bei Laune"]]
+  },
+  {
+    "lemma": "prawn",
+    "meanings_de": ["Garnele"],
+    "definitions_de": ["Essbares Meereskrustentier, das einer großen Garnele mit schlanken Beinen und langen Antennen ähnelt"],
+    "examples_de": [["Das Restaurant serviert gegrillte **Garnelen** mit Knoblauchbutter und frischen Kräutern", "Frische **Riesengarnelen** vom lokalen Markt waren die perfekte Ergänzung zur Paella"]]
+  }
+]

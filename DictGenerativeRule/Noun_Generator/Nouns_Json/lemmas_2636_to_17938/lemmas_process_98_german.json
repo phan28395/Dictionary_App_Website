@@ -1,0 +1,284 @@
+[
+  {
+    "lemma": "hematoma",
+    "meanings_de": ["Bluterguss"],
+    "definitions_de": ["Ansammlung von geronnenem Blut im Gewebe außerhalb der Blutgefäße, die durch Verletzung von Blutgefäßen entsteht"],
+    "examples_de": [["Der Boxer hatte einen großen **Bluterguss** über dem Auge", "Ein Kühlpack kann helfen, den **Bluterguss** zu verkleinern"], ["Der Arzt untersuchte das **Hämatom** an ihrem Oberschenkel nach dem Sturz", "Schwere **Blutergüsse** müssen manchmal operativ entfernt werden"]]
+  },
+  {
+    "lemma": "hemisphere",
+    "meanings_de": ["Halbkugel", "Gehirnhälfte"],
+    "definitions_de": ["Hälfte einer Kugel, insbesondere eine durch den Äquator oder einen Meridian geteilte Erdhälfte", "eine der beiden Hälften des Gehirns, die durch unterschiedliche Spezialisierungen gekennzeichnet sind"],
+    "examples_de": [["Australien liegt auf der südlichen **Hemisphäre**", "Der Sommer auf der nördlichen **Halbkugel** beginnt im Juni"], ["Die linke **Gehirnhälfte** steuert bei den meisten Menschen die Sprache", "Die beiden **Hemisphären** des Gehirns haben unterschiedliche Aufgaben"]]
+  },
+  {
+    "lemma": "hemlock",
+    "meanings_de": ["Schierling", "Hemlocktanne"],
+    "definitions_de": ["hochgiftige Pflanze mit kleinen weißen Blüten und fein geteilten Blättern", "großer immergrüner Nadelbaum, der in Nordamerika heimisch ist"],
+    "examples_de": [["Sokrates wurde mit dem Gift des **Schierlings** hingerichtet", "Wilder **Schierling** wächst oft an Bachufern und feuchten Stellen"], ["Der Wald war voller mächtiger **Hemlocktannen**", "Das Holz der **Hemlocktanne** wird im Bauwesen und zur Papierherstellung verwendet"]]
+  },
+  {
+    "lemma": "hemoglobin",
+    "meanings_de": ["Sauerstoffträger-Protein"],
+    "definitions_de": ["roter Eiweißstoff in den Blutkörperchen, der Sauerstoff von der Lunge zu den Körpergeweben transportiert"],
+    "examples_de": [["Niedrige **Hämoglobinwerte** können auf eine Blutarmut hinweisen", "Der Arzt ordnete einen **Hämoglobin**-Test an"], ["**Hämoglobin** verleiht dem Blut seine charakteristische rote Farbe", "Sportler haben oft höhere **Hämoglobin**-Konzentrationen"]]
+  },
+  {
+    "lemma": "hemophilia",
+    "meanings_de": ["Bluterkrankheit"],
+    "definitions_de": ["erbliche Störung der Blutgerinnung, bei der das Blut nicht richtig gerinnt und es zu übermäßigen Blutungen kommt"],
+    "examples_de": [["Seine **Hämophilie** erfordert regelmäßige Injektionen von Gerinnungsfaktoren", "Die **Bluterkrankheit** betrifft hauptsächlich Männer aufgrund des Vererbungsmusters"], ["Die europäischen Königshäuser waren historisch von der **Bluterkrankheit** betroffen", "Moderne Behandlungen haben das Leben für **Hämophilie**-Patienten erheblich verbessert"]]
+  },
+  {
+    "lemma": "hemorrhage",
+    "meanings_de": ["schwere Blutung", "rapider Verlust"],
+    "definitions_de": ["Austritt von Blut aus einem geplatzten Blutgefäß, besonders wenn er stark ist", "schneller und unkontrollierbarer Verlust oder Abfluss von etwas"],
+    "examples_de": [["Der Patient erlitt nach dem Unfall eine **Hirnblutung**", "Eine Notoperation stoppte die innere **Blutung**"], ["Das Unternehmen erlebte eine **Abwanderung** talentierter Mitarbeiter", "Der Skandal führte zu einem massiven **Verlust** der öffentlichen Unterstützung"]]
+  },
+  {
+    "lemma": "hemp",
+    "meanings_de": ["Faserpflanze"],
+    "definitions_de": ["hochwachsende Pflanze, die wegen ihrer starken Fasern für Seile, Textilien und andere Produkte angebaut wird"],
+    "examples_de": [["**Hanfseile** sind für ihre Stärke und Haltbarkeit bekannt", "Landwirte bauen **Hanf** für industrielle Zwecke an"], ["**Hanfsamen** sind nahrhaft und proteinreich", "Der Anbau von **Hanf** ist mittlerweile in vielen Ländern legal"]]
+  },
+  {
+    "lemma": "hen",
+    "meanings_de": ["weibliches Huhn"],
+    "definitions_de": ["erwachsenes weibliches Huhn, das wegen seiner Eier oder seines Fleisches gehalten wird"],
+    "examples_de": [["Die **Henne** legte jeden Morgen frische Eier", "Mehrere **Hennen** pickten auf dem Bauernhof herum"], ["Eine brütende **Henne** saß schützend auf ihrem Nest", "Freilaufende **Hennen** produzieren qualitativ bessere Eier"]]
+  },
+  {
+    "lemma": "henchman",
+    "meanings_de": ["treuer Gefolgsmann"],
+    "definitions_de": ["treuer Anhänger oder Unterstützer, besonders einer, der bereit ist, sich an Verbrechen oder Gewalt zu beteiligen"],
+    "examples_de": [["Die **Handlanger** des Bösewichts führten seine üblen Pläne aus", "Politische **Schergen** verteilten Bestechungsgelder an Wähler"], ["Der Mafiaboss ging nie ohne seine **Gefolgsleute** irgendwohin", "Die **Handlanger** des Konzerns setzten die unpopulären Maßnahmen des Chefs durch"]]
+  },
+  {
+    "lemma": "henna",
+    "meanings_de": ["Färbepflanze"],
+    "definitions_de": ["rotbrauner Farbstoff aus einer Pflanze, der besonders zum Färben von Haaren und zur Hautverzierung verwendet wird"],
+    "examples_de": [["Sie schmückte ihre Hände mit kunstvollen **Henna**-Mustern", "Die **Henna**-Zeremonie der Braut dauerte mehrere Stunden"], ["Natürliches **Henna** verleiht dem Haar einen rötlichen Schimmer", "**Henna**-Tattoos sind auf Sommerfesten sehr beliebt"]]
+  },
+  {
+    "lemma": "herald",
+    "meanings_de": ["Verkünder", "Vorbote"],
+    "definitions_de": ["offizieller Bote, der Nachrichten überbringt oder Bekanntmachungen macht", "Person oder Sache, die das Herannahen von etwas ankündigt oder signalisiert"],
+    "examples_de": [["Der **Herold** verkündete die Ankunft des Königs bei Hofe", "Königliche **Herolde** trugen farbenprächtige Zeremoniengewänder"], ["Frühlingsblumen sind **Vorboten** des Winterendes", "Die neue Technologie ist der **Vorbote** einer Revolution in der Medizin"]]
+  },
+  {
+    "lemma": "heraldry",
+    "meanings_de": ["Wappenkunde"],
+    "definitions_de": ["System zur Gestaltung, Darstellung und Erforschung von Wappen und heraldischen Symbolen"],
+    "examples_de": [["Die mittelalterliche **Heraldik** half, Ritter im Kampf zu identifizieren", "Die Familie studierte die **Wappenkunde**, um ihre Abstammung zu erforschen"], ["Die **Heraldik** verwendet spezielle Begriffe für Farben und Muster", "Das Heroldsamt führt offizielle **Wappenregister**"]]
+  },
+  {
+    "lemma": "herbal",
+    "meanings_de": ["Kräuterbuch"],
+    "definitions_de": ["Buch, das Pflanzen und ihre kulinarischen sowie medizinischen Eigenschaften beschreibt"],
+    "examples_de": [["Das alte **Kräuterbuch** enthielt Heilmittel für häufige Beschwerden", "Sie konsultierte ein **Herbarium** für natürliche Heilmethoden"], ["Mittelalterliche Mönche stellten detaillierte **Kräuterbücher** zusammen", "Moderne **Pflanzenlexika** enthalten wissenschaftliche Informationen"]]
+  },
+  {
+    "lemma": "herbalist",
+    "meanings_de": ["Kräuterkundiger"],
+    "definitions_de": ["Person, die Heilkunde mit Pflanzen praktiziert und Kräuter für medizinische Zwecke zubereitet oder verkauft"],
+    "examples_de": [["Die **Kräuterfrau** empfahl Echinacea gegen ihre Erkältung", "Einheimische **Kräuterkundige** sammeln Wildpflanzen für Heilmittel"], ["Sie ließ sich zur **Phytotherapeutin** in traditioneller chinesischer Medizin ausbilden", "Der Laden des **Kräuterhändlers** duftete nach getrockneten Pflanzen und Wurzeln"]]
+  },
+  {
+    "lemma": "herbicide",
+    "meanings_de": ["Unkrautvernichter"],
+    "definitions_de": ["chemische Substanz zur Bekämpfung unerwünschter Pflanzen, insbesondere Unkraut"],
+    "examples_de": [["Bauern sprühen **Herbizide**, um ihre Ernten zu schützen", "Biogärten verzichten auf chemische **Unkrautvernichtungsmittel**"], ["Das **Herbizid** bekämpfte das invasive Unkraut wirksam", "Übermäßiger Einsatz von **Unkrautvernichtern** kann der Umwelt schaden"]]
+  },
+  {
+    "lemma": "herbivore",
+    "meanings_de": ["Pflanzenfresser"],
+    "definitions_de": ["Tier, das sich ausschließlich von Pflanzen und pflanzlichen Materialien ernährt"],
+    "examples_de": [["Kühe und Schafe sind typische **Pflanzenfresser**", "**Herbivoren** haben spezielle Verdauungssysteme für Pflanzennahrung"], ["Die größten Dinosaurier waren **Pflanzenfresser**", "**Herbivoren** spielen wichtige Rollen in ihren Ökosystemen"]]
+  },
+  {
+    "lemma": "herd",
+    "meanings_de": ["Tierherde", "Menschenmenge"],
+    "definitions_de": ["große Gruppe von Tieren, die zusammen leben oder gehalten werden", "große Gruppe von Menschen, typischerweise mit gemeinsamen Merkmalen"],
+    "examples_de": [["Eine **Rinderherde** graste auf der Weide", "Die **Elefantenherde** beschützte ihre Jungen"], ["Die **Touristenhorde** folgte ihrem Reiseführer", "Folge nicht der **Masse**, denke selbst nach"]]
+  },
+  {
+    "lemma": "herder",
+    "meanings_de": ["Viehhüter"],
+    "definitions_de": ["Person, die sich um eine Tierherde kümmert oder ihren Lebensunterhalt mit Viehzucht verdient"],
+    "examples_de": [["Der **Hirte** führte die Schafe über den Bergpass", "Nomadische **Viehhüter** ziehen saisonal mit ihren Tieren umher"], ["Junge **Hirten** lernen die Fertigkeiten von ihren Älteren", "Der **Ziegenhirt** zählte jeden Abend seine Tiere"]]
+  },
+  {
+    "lemma": "herdsman",
+    "meanings_de": ["männlicher Viehhüter"],
+    "definitions_de": ["Mann, der eine Herde von Haustieren besitzt oder sich um sie kümmert"],
+    "examples_de": [["Der **Viehhirt** führte sein Vieh zu frischen Weiden", "Ein erfahrener **Hirte** kann jedes Tier einzeln erkennen"], ["Das Leben des **Hirten** folgt dem Rhythmus der Jahreszeiten", "Örtliche **Viehhirten** versorgten das Dorf mit Milch"]]
+  },
+  {
+    "lemma": "hereafter",
+    "meanings_de": ["künftige Zeit", "Jenseits"],
+    "definitions_de": ["von jetzt an oder zu irgendeinem Zeitpunkt in der Zukunft", "Leben nach dem Tod gemäß einigen religiösen Überzeugungen"],
+    "examples_de": [["**Künftig** beginnen alle Besprechungen um neun Uhr", "Die **nachfolgend** genannten Regeln müssen befolgt werden"], ["Viele Religionen versprechen Belohnungen im **Jenseits**", "Sie glaubte, sie würden sich im **Jenseits** wiedersehen"]]
+  },
+  {
+    "lemma": "heredity",
+    "meanings_de": ["genetische Vererbung"],
+    "definitions_de": ["Weitergabe von körperlichen oder geistigen Eigenschaften von einer Generation zur nächsten durch Gene"],
+    "examples_de": [["Die Augenfarbe wird durch **Vererbung** bestimmt", "Wissenschaftler erforschen die **Vererbungslehre**, um genetische Krankheiten zu verstehen"], ["Sowohl **Erbgut** als auch Umwelt prägen die Persönlichkeit", "Die Gesetze der **Vererbung** wurden von Mendel entdeckt"]]
+  },
+  {
+    "lemma": "heresy",
+    "meanings_de": ["religiöse Abweichung"],
+    "definitions_de": ["Glaube oder Meinung, die der orthodoxen religiösen Lehre, insbesondere des Christentums, widerspricht"],
+    "examples_de": [["Die Kirche verurteilte seine Lehren als **Ketzerei**", "Mittelalterliche **Häresie** wurde oft streng bestraft"], ["Wissenschaftliche Entdeckungen wurden manchmal als **Ketzerei** gebrandmarkt", "Sie wurde der **Häresie** angeklagt, weil sie die Lehre hinterfragte"]]
+  },
+  {
+    "lemma": "heretic",
+    "meanings_de": ["religiöser Abweichler"],
+    "definitions_de": ["Person, die an religiöse Ketzerei glaubt oder sie praktiziert"],
+    "examples_de": [["Der **Ketzer** wurde aus der Kirche ausgeschlossen", "Mittelalterliche **Häretiker** wurden verfolgt und getötet"], ["Galileo wurde als **Ketzer** gebrandmarkt wegen seiner wissenschaftlichen Ansichten", "Einige **Ketzer** wurden später als Reformatoren anerkannt"]]
+  },
+  {
+    "lemma": "hermaphrodite",
+    "meanings_de": ["zweigeschlechtlicher Organismus"],
+    "definitions_de": ["Lebewesen, das sowohl männliche als auch weibliche Fortpflanzungsorgane besitzt"],
+    "examples_de": [["Viele Schneckenarten sind **Zwitter**", "Manche Fische wandeln sich vom **Hermaphroditen** zu einem Geschlecht"], ["**Zwittrige** Pflanzen können sich selbst bestäuben", "Regenwürmer sind **Zwitter**, paaren sich aber trotzdem"]]
+  },
+  {
+    "lemma": "hermit",
+    "meanings_de": ["Einsiedler"],
+    "definitions_de": ["Person, die aus religiöser Überzeugung oder aus dem einfachen Wunsch nach Alleinsein in Einsamkeit lebt"],
+    "examples_de": [["Der **Eremit** lebte allein in einer Berghöhle", "Nach Jahren in der Stadt wurde sie zur **Einsiedlerin**"], ["Buddhistische **Eremiten** suchen Erleuchtung durch Isolation", "Der alte **Einsiedler** sprach selten mit Besuchern"]]
+  },
+  {
+    "lemma": "hermitage",
+    "meanings_de": ["Einsiedelei"],
+    "definitions_de": ["abgelegene Wohnstätte eines Einsiedlers oder einer Gruppe von Einsiedlern"],
+    "examples_de": [["Die alte **Einsiedelei** klammerte sich an die Felswand", "Pilger besuchten die **Klause**, um Weisheit zu suchen"], ["Sie zog sich zur Meditation in eine **Eremitage** zurück", "Die **Einsiedelei** bot einfachen Schutz und Einsamkeit"]]
+  },
+  {
+    "lemma": "hernia",
+    "meanings_de": ["Organvorfall"],
+    "definitions_de": ["Zustand, bei dem ein Teil eines Organs durch die Wand der Körperhöhle drückt, die es enthält"],
+    "examples_de": [["Schweres Heben verschlimmerte seinen **Leistenbruch**", "Der Chirurg operierte ihren **Nabelbruch**"], ["**Hernien** erfordern oft eine chirurgische Behandlung", "Er trug ein Stützband für seinen **Bruch**"]]
+  },
+  {
+    "lemma": "heroic",
+    "meanings_de": ["Heldentat"],
+    "definitions_de": ["sehr mutige oder dramatische Handlung oder Verhalten, das großen Mut zeigt"],
+    "examples_de": [["Die **heldenhafte** Rettung des Feuerwehrmanns rettete drei Leben", "Trotz **heroischer** Bemühungen konnten sie das Gebäude nicht retten"], ["Ihr **heldenhafter** Kampf gegen den Krebs inspirierte viele", "Das Team schaffte ein **heroisches** Comeback in den letzten Minuten"]]
+  },
+  {
+    "lemma": "heroin",
+    "meanings_de": ["Suchtdroge"],
+    "definitions_de": ["hochgradig süchtig machende illegale Droge, die aus Morphin gewonnen wird"],
+    "examples_de": [["Die **Heroinsucht** zerstört Leben und Familien", "Die Klinik behandelt Patienten, die sich vom **Heroin** erholen"], ["Die Polizei beschlagnahmte eine große **Heroin**-Lieferung", "**Heroin**-Überdosierungen haben epidemische Ausmaße erreicht"]]
+  },
+  {
+    "lemma": "heroine",
+    "meanings_de": ["weibliche Heldin", "weibliche Hauptfigur"],
+    "definitions_de": ["Frau, die für ihren Mut, ihre herausragenden Leistungen oder ihre edlen Eigenschaften bewundert wird", "weibliche Hauptfigur in einem Buch, Theaterstück oder Film"],
+    "examples_de": [["Die Kriegs**heldin** erhielt die höchste Auszeichnung der Nation", "Lokale **Heldinnen** wurden bei der Zeremonie geehrt"], ["Die **Heldin** des Romans überwindet viele Hindernisse", "Sie spielte die **Hauptdarstellerin** im Actionfilm"]]
+  },
+  {
+    "lemma": "heroism",
+    "meanings_de": ["mutiges Verhalten"],
+    "definitions_de": ["große Tapferkeit und Mut, besonders angesichts von Gefahr"],
+    "examples_de": [["Der **Heldenmut** des Soldaten brachte ihm eine Medaille ein", "Akte des **Heroismus** während der Katastrophe retteten viele Leben"], ["Alltäglicher **Heldenmut** bleibt oft unerkannt", "Ihr **Heldenmut** im Kampf gegen Ungerechtigkeit inspirierte andere"]]
+  },
+  {
+    "lemma": "heron",
+    "meanings_de": ["Watvogel"],
+    "definitions_de": ["großer Watvogel mit langen Beinen, Hals und Schnabel, typischerweise grau oder weiß"],
+    "examples_de": [["Ein **Graureiher** stand bewegungslos im seichten Wasser", "Der **Reiher** fing Fische mit blitzschnellen Stößen"], ["**Reiher** nisten in Kolonien, die Reiherkolonien genannt werden", "Wir entdeckten mehrere **Reiher** am Flussufer"]]
+  },
+  {
+    "lemma": "herpes",
+    "meanings_de": ["Virusinfektion"],
+    "definitions_de": ["ansteckende Virusinfektion, die Bläschen auf der Haut oder den Schleimhäuten verursacht"],
+    "examples_de": [["Lippenherpes wird durch das **Herpes**-simplex-Virus verursacht", "**Herpes**-Ausbrüche können mit Medikamenten behandelt werden"], ["Der Arzt erklärte, dass **Herpes** sehr verbreitet ist", "Stress kann **Herpes**-Schübe auslösen"]]
+  },
+  {
+    "lemma": "herring",
+    "meanings_de": ["Speisefisch"],
+    "definitions_de": ["kleiner silbriger Fisch, der in großen Schwärmen schwimmt und als Nahrungsmittel wichtig ist"],
+    "examples_de": [["Eingelegter **Hering** ist ein traditionelles skandinavisches Gericht", "Fischerboote fingen tonnenweise **Heringe**"], ["Geräucherter **Hering** ergibt ein schmackhaftes Frühstück", "**Heringe** sind ein wichtiger Teil der marinen Nahrungskette"]]
+  },
+  {
+    "lemma": "herringbone",
+    "meanings_de": ["Fischgrätmuster"],
+    "definitions_de": ["Muster aus Reihen paralleler Linien, die in entgegengesetzte Richtungen geneigt sind"],
+    "examples_de": [["Sie trug eine klassische Tweedjacke im **Fischgrätmuster**", "Das **Fischgrätmuster** verlieh dem Boden visuelles Interesse"], ["**Fischgrät**-Fliesen schaffen eine elegante Küchenrückwand", "Sein Anzug hatte ein dezentes **Fischgrätmuster**"]]
+  },
+  {
+    "lemma": "hertz",
+    "meanings_de": ["Frequenzeinheit"],
+    "definitions_de": ["Einheit der Frequenz, die einem Zyklus pro Sekunde entspricht"],
+    "examples_de": [["Radiowellen werden in Mega**hertz** gemessen", "Die Bildwiederholfrequenz des Monitors beträgt sechzig **Hertz**"], ["Das menschliche Gehör reicht von 20 bis 20.000 **Hertz**", "Das Stromnetz arbeitet mit fünfzig **Hertz**"]]
+  },
+  {
+    "lemma": "hesitancy",
+    "meanings_de": ["Zögerlichkeit"],
+    "definitions_de": ["Zustand des Zögerns oder langsamen Handelns oder Sprechens aufgrund von Unsicherheit"],
+    "examples_de": [["Ihre **Unentschlossenheit** frustrierte das Team", "In seiner Antwort war deutliche **Zögerlichkeit** zu spüren"], ["**Impfskepsis** stellt Herausforderungen für die öffentliche Gesundheit dar", "Seine **Unschlüssigkeit** kostete sie die Gelegenheit"]]
+  },
+  {
+    "lemma": "hesitation",
+    "meanings_de": ["Zögern aus Unsicherheit"],
+    "definitions_de": ["Pause vor dem Sprechen oder Handeln, besonders aufgrund von Unsicherheit"],
+    "examples_de": [["Sie nahm das Stellenangebot ohne **Zögern** an", "Sein kurzes **Zögern** verriet seine Zweifel"], ["Ein Moment des **Zögerns** kann bedeuten, seine Chance zu verpassen", "In ihrer Stimme lag **Unsicherheit**"]]
+  },
+  {
+    "lemma": "heterogeneity",
+    "meanings_de": ["vielfältige Zusammensetzung"],
+    "definitions_de": ["Eigenschaft oder Zustand der Verschiedenartigkeit in Charakter oder Inhalt"],
+    "examples_de": [["Die **Heterogenität** der Bevölkerung schuf reichen kulturellen Austausch", "Genetische **Vielfalt** erschwert die Krankheitsforschung"], ["Die **Unterschiedlichkeit** der Meinungen erschwerte einen Konsens", "Die **Heterogenität** von Tumoren beeinflusst die Behandlungseffektivität"]]
+  },
+  {
+    "lemma": "heterosexual",
+    "meanings_de": ["gegengeschlechtlich orientierte Person"],
+    "definitions_de": ["Person, die sich sexuell zu Menschen des anderen Geschlechts hingezogen fühlt"],
+    "examples_de": [["Die meisten Umfragen gehen davon aus, dass die Befragten **heterosexuell** sind", "Die Selbsthilfegruppe heißt Menschen aller Orientierungen willkommen, einschließlich **Heterosexueller**"], ["**Heterosexuelle** Paare können weltweit legal heiraten", "Sowohl **heterosexuelle** als auch homosexuelle Beziehungen verdienen Respekt"]]
+  },
+  {
+    "lemma": "heterosexuality",
+    "meanings_de": ["gegengeschlechtliche Anziehung"],
+    "definitions_de": ["Eigenschaft oder Merkmal, sich sexuell zu Menschen des anderen Geschlechts hingezogen zu fühlen"],
+    "examples_de": [["**Heterosexualität** wurde in vielen Gesellschaften als Norm angenommen", "Die Studie untersuchte Einstellungen zur **Heterosexualität**"], ["**Heterosexualität** ist eine von mehreren sexuellen Orientierungen", "Kulturelle Ansichten über **Heterosexualität** variieren weltweit"]]
+  },
+  {
+    "lemma": "heuristic",
+    "meanings_de": ["Problemlösungsmethode"],
+    "definitions_de": ["praktische Methode zur Problemlösung, die möglicherweise nicht optimal, aber für unmittelbare Ziele ausreichend ist"],
+    "examples_de": [["Der Programmierer verwendete eine **Heuristik**, um die Suche zu beschleunigen", "Einfache **Faustregeln** liefern oft gute Ergebnisse"], ["Versuch und Irrtum ist eine grundlegende **Heuristik**", "Der **heuristische** Ansatz lieferte schnelle Lösungen"]]
+  },
+  {
+    "lemma": "hex",
+    "meanings_de": ["Zauberfluch", "sechsseitige Form"],
+    "definitions_de": ["Zauberspruch oder Fluch, der Unglück bringen soll", "Hexagon oder sechseckige Form"],
+    "examples_de": [["Die Hexe soll einen **Fluch** über das Dorf gelegt haben", "Sie glaubten, ein **Verwünschung** verursachte ihr Unglück"], ["Die Bodenfliesen waren in einem **Sechseck**-Muster angeordnet", "**Sechskant**schrauben haben sechseckige Köpfe"]]
+  },
+  {
+    "lemma": "hexagon",
+    "meanings_de": ["sechsseitige Form"],
+    "definitions_de": ["ebene Figur mit sechs geraden Seiten und sechs Winkeln"],
+    "examples_de": [["Bienenwabenzellen bilden perfekte **Sechsecke**", "Das Stoppschild hat die Form eines regelmäßigen **Hexagons**"], ["Sie zeichnete ein **Sechseck** mit Zirkel und Lineal", "**Sechsecke** lassen sich lückenlos aneinanderfügen"]]
+  },
+  {
+    "lemma": "hexagram",
+    "meanings_de": ["sechszackiger Stern"],
+    "definitions_de": ["sternförmige Figur, die aus zwei sich schneidenden gleichseitigen Dreiecken gebildet wird"],
+    "examples_de": [["Das **Hexagramm** erscheint auf der Flagge Israels", "Das I Ging verwendet **Hexagramme** zur Weissagung"], ["Sie trug einen silbernen **Davidstern** als Anhänger", "Das **Hexagramm**-Symbol hat uralte Ursprünge"]]
+  },
+  {
+    "lemma": "heyday",
+    "meanings_de": ["Blütezeit"],
+    "definitions_de": ["Zeitraum des größten Erfolgs, der Beliebtheit, Aktivität oder Kraft"],
+    "examples_de": [["In ihrer **Blütezeit** beschäftigte die Fabrik Tausende", "Die Schauspielerin erinnerte sich an ihre **Glanzzeit** in Hollywood"], ["Die **Hochzeit** der Eisenbahn endete mit dem Automobil", "Der Jazz hatte seine **Blütezeit** in den 1920er Jahren"]]
+  },
+  {
+    "lemma": "hiatus",
+    "meanings_de": ["zeitliche Lücke"],
+    "definitions_de": ["Pause oder Lücke in einer Abfolge, Serie oder einem Prozess"],
+    "examples_de": [["Die Band kehrte nach einer fünfjährigen **Pause** zurück", "Sie machte eine **Auszeit** von der Schauspielerei, um ihre Kinder großzuziehen"], ["Die Show ging während des Sommers in die **Sendepause**", "Nach einer kurzen **Unterbrechung** wurden die Verhandlungen wieder aufgenommen"]]
+  }
+]

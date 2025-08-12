@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "uruguayan",
+    "meanings_de": ["aus Uruguay stammend oder Uruguay betreffend"],
+    "definitions_de": ["Uruguay, seine Einwohner, deren Kultur oder Sprache betreffend oder von dort stammend"],
+    "examples_de": [["Die **uruguayische** Fußballmannschaft gewann überraschend die Weltmeisterschaft", "Er lernte **uruguayische** Traditionen durch seine Großeltern kennen"]]
+  },
+  {
+    "lemma": "utopian",
+    "meanings_de": ["ideal perfekte Gesellschaft", "unrealistisch idealistisch"],
+    "definitions_de": ["sich auf eine ideale Gesellschaft beziehend, in der alles harmonisch funktioniert und soziale Probleme gelöst sind", "unrealistische oder unpraktische Vorstellungen von Perfektion in gesellschaftlichen oder politischen Angelegenheiten habend"],
+    "examples_de": [["Der Roman beschrieb eine **utopische** Gemeinschaft ohne Armut oder Konflikte", "Sie lebten in einer **utopischen** Siedlung nach dem Prinzip der Gleichheit"], ["Seine **utopischen** Träume ignorierten die wirtschaftlichen Realitäten völlig", "Die **utopischen** Wahlversprechen des Politikers erschienen kaum umsetzbar"]]
+  },
+  {
+    "lemma": "uzbekistani",
+    "meanings_de": ["aus Usbekistan stammend oder Usbekistan betreffend"],
+    "definitions_de": ["Usbekistan, seine Einwohner, deren Kultur oder Sprache betreffend oder von dort stammend"],
+    "examples_de": [["Die **usbekistanische** Botschaft veranstaltete ein beeindruckendes Kulturfestival", "Sie studierte **usbekistanische** Kunst und Architektur an der Universität"]]
+  },
+  {
+    "lemma": "vedic",
+    "meanings_de": ["die Veden betreffend"],
+    "definitions_de": ["die Veden, die ältesten heiligen Texte des Hinduismus, oder die Zeit ihrer Entstehung betreffend"],
+    "examples_de": [["Die Studenten analysierten **vedische** Hymnen in ihrem Sanskritunterricht", "Die **vedische** Periode prägte viele hinduistische Glaubenspraktiken nachhaltig"]]
+  },
+  {
+    "lemma": "venetian",
+    "meanings_de": ["aus Venedig stammend oder Venedig betreffend"],
+    "definitions_de": ["Venedig in Italien, seine Bewohner, deren Kultur, Architektur oder charakteristischen Stil betreffend"],
+    "examples_de": [["Das **venezianische** Glas war kunstvoll mundgeblasen und farbenprächtig", "Sie übernachteten in einem **venezianischen** Palazzo mit Kanalblick"]]
+  },
+  {
+    "lemma": "venezuelan",
+    "meanings_de": ["aus Venezuela stammend oder Venezuela betreffend"],
+    "definitions_de": ["Venezuela, seine Einwohner, deren Kultur oder Sprache betreffend oder von dort stammend"],
+    "examples_de": [["Die **venezolanische** Künstlerin stellte ihre Gemälde in der Innenstadt aus", "Beim Festival servierten sie traditionelle **venezolanische** Arepas"]]
+  },
+  {
+    "lemma": "victorian",
+    "meanings_de": ["aus Königin Victorias Ära", "prüde oder altmodisch"],
+    "definitions_de": ["die Regierungszeit von Königin Victoria (1837-1901) oder die Kunst, Kultur und Einstellungen dieser Periode betreffend", "Einstellungen oder Werte habend, die als typisch für die viktorianische Ära gelten, besonders sehr streng in moralischen Belangen"],
+    "examples_de": [["Das **viktorianische** Herrenhaus hatte kunstvolle Holzverzierungen", "Sie sammelte **viktorianische** Möbel und Dekorationsgegenstände"], ["Seine **viktorianischen** Ansichten über Anstand wirkten hoffnungslos veraltet", "Die Schule hatte **viktorianische** Regeln für das Verhalten der Schüler"]]
+  },
+  {
+    "lemma": "viennese",
+    "meanings_de": ["aus Wien stammend oder Wien betreffend"],
+    "definitions_de": ["Wien, die Hauptstadt Österreichs, ihre Bewohner, deren Kultur, Musik oder Küche betreffend"],
+    "examples_de": [["Der **Wiener** Walzer erfordert elegante, fließende Bewegungen", "Sie genossen jeden Morgen **Wiener** Kaffee und Mehlspeisen"]]
+  },
+  {
+    "lemma": "vietnamese",
+    "meanings_de": ["aus Vietnam stammend oder Vietnam betreffend"],
+    "definitions_de": ["Vietnam, seine Einwohner, deren Kultur oder Sprache betreffend oder von dort stammend"],
+    "examples_de": [["Das **vietnamesische** Restaurant servierte authentische Pho-Suppe", "Sie studierte **vietnamesische** Geschichte während der Kriegszeit"]]
+  },
+  {
+    "lemma": "wysiwyg",
+    "meanings_de": ["exakte Endansicht zeigend"],
+    "definitions_de": ["eine Computeranzeige beschreibend, die Text und Grafiken genau so zeigt, wie sie beim Drucken erscheinen werden"],
+    "examples_de": [["Der **WYSIWYG**-Editor machte die Webseitengestaltung erheblich einfacher", "Moderne Textverarbeitungen nutzen **WYSIWYG**-Oberflächen für Dokumente"]]
+  },
+  {
+    "lemma": "wagnerian",
+    "meanings_de": ["Wagners Stil betreffend", "dramatisch großartig"],
+    "definitions_de": ["den deutschen Komponisten Richard Wagner oder seinen dramatischen Opernstil betreffend", "Eigenschaften von Größe, Intensität oder dramatischer Kraft besitzend, die an Wagners Opern erinnern"],
+    "examples_de": [["Die **wagnersche** Oper dauerte über vier Stunden", "Sie studierte **wagnersche** Themen in ihrer Musiktheorievorlesung"], ["Der Sturm hatte eine fast **wagnersche** Intensität", "Seine **wagnerschen** Ambitionen erforderten gewaltige Ressourcen"]]
+  },
+  {
+    "lemma": "washingtonian",
+    "meanings_de": ["aus Washington D.C.", "aus dem Bundesstaat Washington"],
+    "definitions_de": ["Washington D.C., die Hauptstadt der Vereinigten Staaten, oder deren Bewohner betreffend", "den Bundesstaat Washington im pazifischen Nordwesten oder dessen Bewohner betreffend"],
+    "examples_de": [["Das **Washingtoner** Magazin berichtet über lokale Politik", "Viele **Washingtoner** Fachleute arbeiten in Regierungsbehörden"], ["Das **Washingtoner** Klima zeichnet sich durch milde, regnerische Winter aus", "Die **Washingtoner** Kaffeekultur konkurriert mit der von Seattle"]]
+  },
+  {
+    "lemma": "welsh",
+    "meanings_de": ["aus Wales stammend oder Wales betreffend"],
+    "definitions_de": ["Wales, seine Einwohner, deren Kultur oder keltische Sprache betreffend oder von dort stammend"],
+    "examples_de": [["Der **walisische** Chor sang traditionelle Volkslieder", "Sie studierte **walisische** Mythologie und alte keltische Legenden"]]
+  },
+  {
+    "lemma": "wesleyan",
+    "meanings_de": ["John Wesley betreffend", "methodistische Konfession"],
+    "definitions_de": ["John Wesley, den Gründer des Methodismus, oder seine religiösen Lehren betreffend", "den wesleyanischen Zweig des Methodismus oder nach Wesley benannte Institutionen betreffend"],
+    "examples_de": [["Die **wesleyanische** Lehre betonte persönliche Heiligkeit", "Er studierte **wesleyanische** Theologie am Priesterseminar"], ["Sie besuchte die **Wesleyan** University in Connecticut", "Die **wesleyanische** Kapelle hielt jeden Sonntag Gottesdienste ab"]]
+  },
+  {
+    "lemma": "wiccan",
+    "meanings_de": ["die Wicca-Religion betreffend"],
+    "definitions_de": ["Wicca betreffend, eine moderne heidnische Religion, die Hexerei und Naturverehrung einschließt"],
+    "examples_de": [["Die **Wicca**-Zeremonie feierte die Sommersonnenwende", "Sie studierte **Wicca**-Glaubensvorstellungen über Natur und Spiritualität"]]
+  },
+  {
+    "lemma": "yankee",
+    "meanings_de": ["aus den Nordstaaten der USA", "amerikanisch (internationale Sicht)"],
+    "definitions_de": ["die nördlichen Vereinigten Staaten, besonders Neuengland, betreffend oder charakteristisch dafür", "Amerikaner im Allgemeinen betreffend, wie von Menschen aus anderen Ländern gesehen"],
+    "examples_de": [["Der **Yankee**-Akzent unterschied sich deutlich vom Südstaaten-Dialekt", "Sie servierten traditionellen **Yankee**-Schmorbraten zum Abendessen"], ["Die **Yankee**-Touristen fielen in der europäischen Stadt auf", "Ausländische Zeitungen verwenden oft Yankee als Synonym für Amerikaner"]]
+  },
+  {
+    "lemma": "yemeni",
+    "meanings_de": ["aus dem Jemen stammend oder den Jemen betreffend"],
+    "definitions_de": ["den Jemen, seine Einwohner, deren Kultur oder arabischen Dialekt betreffend oder von dort stammend"],
+    "examples_de": [["Der **jemenitische** Kaffee hatte einen charakteristischen, kräftigen Geschmack", "Sie trug traditionellen **jemenitischen** Schmuck zur Hochzeit"]]
+  },
+  {
+    "lemma": "yugoslav",
+    "meanings_de": ["aus dem ehemaligen Jugoslawien"],
+    "definitions_de": ["das ehemalige Land Jugoslawien, seine Völker, Kulturen oder Sprachen betreffend"],
+    "examples_de": [["Die **jugoslawische** Botschaft schloss nach der Auflösung des Landes", "Sein **jugoslawischer** Pass wurde in den 1990er Jahren ungültig"]]
+  },
+  {
+    "lemma": "yugoslavian",
+    "meanings_de": ["aus dem ehemaligen Jugoslawien"],
+    "definitions_de": ["das ehemalige Land Jugoslawien, seine Völker, Kulturen oder Sprachen betreffend"],
+    "examples_de": [["Die **jugoslawische** Basketballmannschaft war äußerst erfolgreich", "Sie sammelte **jugoslawische** Briefmarken vor der Teilung des Landes"]]
+  },
+  {
+    "lemma": "zambian",
+    "meanings_de": ["aus Sambia stammend oder Sambia betreffend"],
+    "definitions_de": ["Sambia, seine Einwohner, deren Kultur oder Sprachen betreffend oder von dort stammend"],
+    "examples_de": [["Die **sambischen** Kupferminen beschäftigen Tausende von Arbeitern", "Sie lernten über **sambische** Bemühungen zum Schutz der Wildtiere"]]
+  },
+  {
+    "lemma": "zimbabwean",
+    "meanings_de": ["aus Simbabwe stammend oder Simbabwe betreffend"],
+    "definitions_de": ["Simbabwe, seine Einwohner, deren Kultur oder Sprachen betreffend oder von dort stammend"],
+    "examples_de": [["Die **simbabwische** Skulpturenausstellung zog viele Besucher an", "Sie studierte **simbabwische** Geschichte während der Kolonialzeit"]]
+  },
+  {
+    "lemma": "zionist",
+    "meanings_de": ["jüdische Heimstätte unterstützend"],
+    "definitions_de": ["den Zionismus betreffend oder unterstützend, die Bewegung zur Gründung und Entwicklung einer jüdischen Nation in Israel"],
+    "examples_de": [["Die **zionistische** Bewegung gewann nach dem Zweiten Weltkrieg an Schwung", "Sie studierte **zionistische** Literatur des frühen 20. Jahrhunderts"]]
+  },
+  {
+    "lemma": "zoroastrian",
+    "meanings_de": ["den Zoroastrismus betreffend"],
+    "definitions_de": ["den Zoroastrismus betreffend, eine alte persische Religion, die von Zoroaster gegründet wurde und auf der Verehrung von Ahura Mazda basiert"],
+    "examples_de": [["Der **zoroastrische** Feuertempel unterhielt eine ewige Flamme", "Sie studierten **zoroastrische** Einflüsse auf andere Weltreligionen"]]
+  },
+  {
+    "lemma": "abandoned",
+    "meanings_de": ["leer gelassen oder verlassen", "vollständig aufgegeben"],
+    "definitions_de": ["von Menschen, die es zuvor bewohnten oder nutzten, leer gelassen oder verlassen", "aufgegeben, eingestellt oder ohne Hemmung oder Zurückhaltung zurückgelassen worden"],
+    "examples_de": [["Das **verlassene** Gebäude hatte zerbrochene Fenster und Graffiti", "Sie erkundeten die **verlassene** Bergbaustadt in der Wüste"], ["Sie tanzte mit **hemmungsloser** Freude bei der Feier", "Seine **aufgegebenen** Versuche, Klavier zu lernen, verstaubten"]]
+  },
+  {
+    "lemma": "abbreviated",
+    "meanings_de": ["in verkürzter Form"],
+    "definitions_de": ["durch Weglassen von Buchstaben oder Wörtern verkürzt, wobei die wesentliche Bedeutung erhalten bleibt"],
+    "examples_de": [["Die **abgekürzte** Version sparte Platz im Dokument", "Studenten verwendeten **abgekürzte** Notizen während der schnellen Vorlesung"]]
+  },
+  {
+    "lemma": "abdominal",
+    "meanings_de": ["den Bauch betreffend"],
+    "definitions_de": ["den Bauch betreffend, den Körperteil, der den Magen und andere Verdauungsorgane enthält"],
+    "examples_de": [["Der Patient verspürte starke **abdominale** Schmerzen nach dem Essen", "Regelmäßige **Bauch**übungen stärken die Rumpfmuskulatur"]]
+  },
+  {
+    "lemma": "abducting",
+    "meanings_de": ["entführend oder wegnehmend"],
+    "definitions_de": ["in der Handlung begriffen, jemanden illegal mit Gewalt oder Täuschung wegzunehmen"],
+    "examples_de": [["Der **entführende** Verdächtige wurde von Sicherheitskameras erfasst", "Die Polizei untersuchte Berichte über jemanden, der Haustiere **entführte**"]]
+  },
+  {
+    "lemma": "aberrant",
+    "meanings_de": ["vom Normalen abweichend"],
+    "definitions_de": ["von einem akzeptierten Standard oder normalen Typ abweichend; abnormales oder untypisches Verhalten zeigend"],
+    "examples_de": [["Der Wissenschaftler untersuchte **aberrantes** Zellwachstum in Tumoren", "Sein **abweichendes** Verhalten bei der Arbeit beunruhigte seine Kollegen"]]
+  },
+  {
+    "lemma": "abhorrent",
+    "meanings_de": ["Abscheu oder Hass erregend"],
+    "definitions_de": ["Ekel und Abscheu hervorrufend; vollständig im Widerspruch zu den eigenen Werten oder der Moral stehend"],
+    "examples_de": [["Die meisten Menschen finden Tierquälerei absolut **abscheulich**", "Die **verabscheuungswürdigen** Zustände im Gefängnis lösten öffentliche Empörung aus"]]
+  },
+  {
+    "lemma": "abiding",
+    "meanings_de": ["dauerhaft oder beständig"],
+    "definitions_de": ["ohne Veränderung fortbestehend; für lange Zeit oder dauerhaft andauernd"],
+    "examples_de": [["Sie hatte eine **bleibende** Liebe zur klassischen Musik", "Sein **beständiger** Glaube half ihm durch schwierige Zeiten"]]
+  },
+  {
+    "lemma": "abject",
+    "meanings_de": ["extrem schlecht oder erniedrigend", "ohne jeden Stolz"],
+    "definitions_de": ["äußerst unangenehm und erniedrigend; unter den schlimmstmöglichen Bedingungen existierend", "vollständig ohne Stolz oder Würde; Unterwerfung oder Hoffnungslosigkeit zeigend"],
+    "examples_de": [["Sie lebten in **bitterer** Armut ohne Grundversorgung", "Die Dokumentation enthüllte **erbärmliche** Lebensbedingungen in Slums"], ["Er bot eine **demütige** Entschuldigung für seine Fehler an", "Ihre **bedingungslose** Kapitulation überraschte alle, die sie kannten"]]
+  },
+  {
+    "lemma": "ablaze",
+    "meanings_de": ["heftig brennend", "hell erleuchtet oder gefärbt"],
+    "definitions_de": ["heftig brennend mit großen Flammen, die etwas verzehren", "sehr hell erleuchtet, gefärbt oder glühend, als ob es brennen würde"],
+    "examples_de": [["Das Gebäude stand **in Flammen**, bevor die Feuerwehr eintraf", "Der trockene Wald war innerhalb von Minuten **lichterloh** brennend"], ["Die Herbstbäume **leuchteten** in Rot und Orange", "Ihre Augen **glühten** vor Aufregung und Entschlossenheit"]]
+  },
+  {
+    "lemma": "abnormal",
+    "meanings_de": ["nicht typisch oder üblich"],
+    "definitions_de": ["von dem abweichend, was normal, durchschnittlich oder erwartet ist; auf problematische Weise ungewöhnlich"],
+    "examples_de": [["Der Arzt bemerkte **abnormale** Testergebnisse, die weitere Untersuchung erforderten", "Seine **abnorme** Reaktion auf das Medikament beunruhigte die Krankenschwestern"]]
+  },
+  {
+    "lemma": "abominable",
+    "meanings_de": ["moralische Abscheu erregend"],
+    "definitions_de": ["moralische Abscheu hervorrufend; sehr schlecht oder unangenehm; starke Verurteilung verdienend"],
+    "examples_de": [["Die **abscheuliche** Behandlung der Gefangenen verletzte die Menschenrechte", "Das Essen in diesem Restaurant war absolut **grauenhaft**"]]
+  },
+  {
+    "lemma": "aboriginal",
+    "meanings_de": ["einheimisch oder ursprünglich", "früheste bekannte Bewohner"],
+    "definitions_de": ["von den frühesten Zeiten an einheimisch oder an einem Ort beheimatet", "die Ureinwohner Australiens oder ihre Sprachen und Kulturen betreffend"],
+    "examples_de": [["Das Museum zeigte **ursprüngliche** Kunst und Artefakte", "Sie studierten **einheimische** Pflanzen für medizinische Zwecke"], ["Die **Aboriginal**-Gemeinschaft feierte ihr traditionelles Fest", "Sie lernte über **Aboriginal**-Traumzeitgeschichten und Glaubensvorstellungen"]]
+  },
+  {
+    "lemma": "abortive",
+    "meanings_de": ["seinen Zweck verfehlend"],
+    "definitions_de": ["das beabsichtigte Ergebnis nicht hervorbringend; erfolglos oder fruchtlos beim Erreichen von Zielen"],
+    "examples_de": [["Ihr **gescheiterter** Versuch, den Berg zu besteigen, endete im Rückzug", "Die **erfolglosen** Friedensgespräche ließen beide Seiten frustriert zurück"]]
+  },
+  {
+    "lemma": "aboveground",
+    "meanings_de": ["über der Erdoberfläche"],
+    "definitions_de": ["über der Oberfläche des Bodens existierend, vorkommend oder befindlich"],
+    "examples_de": [["Der **oberirdische** Pool war einfacher zu installieren als zu graben", "Die meisten **oberirdischen** Versorgungsleitungen sind anfällig für Wetterschäden"]]
+  },
+  {
+    "lemma": "abrasive",
+    "meanings_de": ["zum Abreiben fähig", "schroff im Umgang"],
+    "definitions_de": ["fähig, eine harte Oberfläche durch Reiben oder Schleifen zu polieren oder zu reinigen", "wenig Rücksicht auf die Gefühle anderer zeigend; schroff oder rau im Umgang"],
+    "examples_de": [["Der **scheuernde** Reiniger entfernte hartnäckige Flecken effektiv", "Schleifpapier nutzt **abrasive** Partikel zum Glätten von Holz"], ["Seine **schroffe** Persönlichkeit machte ihn bei der Arbeit unbeliebt", "Ihre **verletzenden** Kommentare trafen mehrere Menschen"]]
+  },
+  {
+    "lemma": "abreast",
+    "meanings_de": ["nebeneinander", "auf dem Laufenden"],
+    "definitions_de": ["nebeneinander und in dieselbe Richtung blickend", "auf dem neuesten Stand mit den aktuellen Nachrichten, Entwicklungen oder Informationen"],
+    "examples_de": [["Die Soldaten marschierten zu viert **nebeneinander** die Straße hinunter", "Zwei Pferde liefen **Seite an Seite** auf die Ziellinie zu"], ["Sie hielt sich durch tägliches Lesen **auf dem Laufenden** über aktuelle Ereignisse", "Um mit technologischen Veränderungen **Schritt zu halten**, ist ständiges Lernen erforderlich"]]
+  },
+  {
+    "lemma": "abridged",
+    "meanings_de": ["verkürzt aber vollständig"],
+    "definitions_de": ["durch Verdichten oder Umschreiben verkürzt, wobei die grundlegenden Inhalte und Bedeutungen erhalten bleiben"],
+    "examples_de": [["Das **gekürzte** Wörterbuch war perfekt für reisende Studenten", "Kinder beginnen oft mit **gekürzten** Versionen klassischer Romane"]]
+  },
+  {
+    "lemma": "abrupt",
+    "meanings_de": ["plötzlich und unerwartet", "schroff bis unhöflich"],
+    "definitions_de": ["plötzlich und unerwartet; schnell ohne Warnung oder Vorbereitung geschehend", "so kurz, dass es unhöflich wirkt; barsch oder brüsk in Sprache oder Art"],
+    "examples_de": [["Das Auto machte eine **abrupte** Vollbremsung an der roten Ampel", "Sein **plötzlicher** Abgang aus der Firma überraschte alle"], ["Ihre **schroffe** Antwort machte deutlich, dass sie verärgert war", "Die **barsche** Art des Managers schüchterte neue Mitarbeiter ein"]]
+  },
+  {
+    "lemma": "absent",
+    "meanings_de": ["nicht anwesend", "unaufmerksam"],
+    "definitions_de": ["nicht an einem Ort anwesend, wo man erwartet wird", "einen Mangel an Aufmerksamkeit oder Bewusstsein zeigend; gedankenverloren oder abgelenkt"],
+    "examples_de": [["Drei Schüler waren wegen Krankheit **abwesend** vom Unterricht", "Die **abwesende** Managerin ließ ihre Assistentin die Leitung übernehmen"], ["Er hatte einen **geistesabwesenden** Ausdruck während der langen Besprechung", "Ihre **zerstreute** Antwort zeigte, dass sie nicht wirklich zuhörte"]]
+  },
+  {
+    "lemma": "absolutist",
+    "meanings_de": ["keine Ausnahmen zulassend"],
+    "definitions_de": ["sich auf das Prinzip beziehend, dass etwas absolut ist und keine Ausnahme oder Einschränkung zulässt"],
+    "examples_de": [["Seine **absolutistischen** Ansichten zur Moral ließen keinen Raum für Kompromisse", "Der **absolutistische** Herrscher verlangte vollständigen Gehorsam von seinen Untertanen"]]
+  },
+  {
+    "lemma": "absolved",
+    "meanings_de": ["von Schuld befreit"],
+    "definitions_de": ["von Schuld, Verantwortung oder den Konsequenzen einer Handlung befreit"],
+    "examples_de": [["Die Jury sprach ihn von allen strafrechtlichen Anklagen **frei**", "Sie fühlte sich **entlastet**, nachdem sie ihre Fehler gestanden hatte"]]
+  },
+  {
+    "lemma": "absorbed",
+    "meanings_de": ["vollständig aufgesogen", "tief versunken"],
+    "definitions_de": ["Flüssigkeit oder andere Substanz aufgenommen oder aufgesogen habend", "tief beschäftigt oder interessiert; seine ganze Aufmerksamkeit etwas widmend"],
+    "examples_de": [["Das **aufgesogene** Wasser machte den Schwamm schwer", "Die verschüttete Milch wurde vollständig von Küchentüchern **absorbiert**"], ["Sie war so **vertieft** in ihr Buch, dass sie ihre Haltestelle verpasste", "Die **versunkenen** Schüler hörten das Klingeln nicht"]]
+  },
+  {
+    "lemma": "absorbent",
+    "meanings_de": ["aufnahmefähig für Flüssigkeiten"],
+    "definitions_de": ["fähig, Flüssigkeit leicht durch Poren oder Zwischenräume im Material aufzusaugen"],
+    "examples_de": [["Diese **saugfähigen** Handtücher können das Doppelte ihres Gewichts an Wasser aufnehmen", "Das **absorbierende** Material verhinderte die Ausbreitung von Verschüttungen"]]
+  },
+  {
+    "lemma": "absorbing",
+    "meanings_de": ["äußerst interessant"],
+    "definitions_de": ["äußerst interessant oder fesselnd; fähig, die vollständige Aufmerksamkeit zu halten"],
+    "examples_de": [["Der **fesselnde** Kriminalroman hielt sie die ganze Nacht wach", "Er fand Quantenphysik ein **faszinierendes** Studienfach"]]
+  },
+  {
+    "lemma": "abstracted",
+    "meanings_de": ["in Gedanken verloren", "aus dem Kontext gelöst"],
+    "definitions_de": ["einen Mangel an Aufmerksamkeit für das Geschehen zeigend; gedankenverloren oder in Gedanken versunken", "getrennt von konkreter Existenz oder einem spezifischen Beispiel betrachtet; theoretisch"],
+    "examples_de": [["Er hatte eine **zerstreute** Miene, während er über das Problem nachdachte", "Ihre **geistesabwesende** Art beunruhigte ihre sonst aufmerksamen Freunde"], ["Das **abstrakte** Konzept war für Studenten schwer zu erfassen", "Sie diskutierten **abstrakte** Theorien statt praktischer Anwendungen"]]
+  },
+  {
+    "lemma": "absurd",
+    "meanings_de": ["lächerlich unvernünftig"],
+    "definitions_de": ["völlig unvernünftig, unlogisch oder unangemessen; des Spotts würdig"],
+    "examples_de": [["Der **absurde** Preis für ein einfaches Sandwich schockierte die Kunden", "Seine **lächerliche** Ausrede für die Verspätung brachte alle zum Lachen"]]
+  },
+  {
+    "lemma": "abundant",
+    "meanings_de": ["in großen Mengen vorhanden"],
+    "definitions_de": ["in großen Mengen vorhanden oder verfügbar; mehr als genug; reichlich"],
+    "examples_de": [["Der Garten produzierte **reichlich** Tomaten in dieser Sommersaison", "Natürliche Ressourcen waren **üppig** in der unerforschten Region vorhanden"]]
+  }
+]

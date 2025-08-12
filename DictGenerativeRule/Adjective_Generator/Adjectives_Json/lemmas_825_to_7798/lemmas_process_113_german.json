@@ -1,0 +1,296 @@
+[
+  {
+    "lemma": "unavailable",
+    "meanings_de": ["nicht erhältlich", "nicht verfügbar"],
+    "definitions_de": ["im Moment nicht nutzbar, erhältlich oder zugänglich aufgrund von Umständen oder temporären Einschränkungen", "aufgrund anderer Verpflichtungen nicht frei, um Menschen zu treffen oder Termine wahrzunehmen"],
+    "examples_de": [["Das Produkt ist momentan in allen Filialen **nicht erhältlich**", "Diese Funktion ist bei älteren Gerätemodellen **nicht verfügbar**"], ["Der Arzt ist diese Woche für Termine **nicht verfügbar**", "Sie war nach der Bekanntgabe für Stellungnahmen **nicht erreichbar**"]]
+  },
+  {
+    "lemma": "unavoidable",
+    "meanings_de": ["unvermeidbar", "zwangsläufig eintretend"],
+    "definitions_de": ["aufgrund der Umstände nicht zu verhindern, vermeiden oder ignorieren, wobei das Eintreten mit Sicherheit zu erwarten ist", "mit Sicherheit geschehend oder erlebt werdend aufgrund innewohnender Notwendigkeit oder naturgegebener Gesetzmäßigkeiten"],
+    "examples_de": [["Die Verkehrsverzögerungen waren wegen des Unfalls **unvermeidbar**", "Beim Erlernen neuer Fähigkeiten sind manche Fehler **unvermeidlich**"], ["Tod und Steuern sind **unvermeidbare** Aspekte des Lebens", "Das Kennenlernen der Schwiegereltern ist ein **unvermeidbarer** Teil der Ehe"]]
+  },
+  {
+    "lemma": "unaware",
+    "meanings_de": ["unwissend"],
+    "definitions_de": ["kein Wissen oder Bewusstsein über eine Situation oder Tatsache habend"],
+    "examples_de": [["Sie war sich der lauernden Gefahr **nicht bewusst**", "Die Studenten waren **unwissend**, dass der Unterricht ausfiel"]]
+  },
+  {
+    "lemma": "unbalanced",
+    "meanings_de": ["instabil", "geistig gestört", "unausgewogen"],
+    "definitions_de": ["nicht stabil oder fest in physischer Position oder emotionalem Zustand, dabei Schwankungen oder Unsicherheit zeigend", "emotional oder geistig gestört, wobei unberechenbares oder instabiles Verhalten gezeigt wird", "nicht in gleichen oder angemessenen Proportionen angeordnet, wobei die Symmetrie oder Ausgewogenheit fehlt"],
+    "examples_de": [["Die **ungleichmäßige** Beladung brachte die Waschmaschine zum Wackeln", "Nach dem vielen Drehen fühlte er sich **unsicher** auf den Beinen"], ["Ihr **labiles** Verhalten beunruhigte Familie und Freunde gleichermaßen", "Der Bösewicht wurde als **unausgeglichen** und gefährlich dargestellt"], ["Die **einseitige** Ernährung enthielt keine wichtigen Vitamine und Mineralstoffe", "Das Gemälde wirkte **unausgewogen** mit allem auf einer Seite"]]
+  },
+  {
+    "lemma": "unbearable",
+    "meanings_de": ["unerträglich"],
+    "definitions_de": ["aufgrund extremer Intensität nicht zu ertragen oder auszuhalten"],
+    "examples_de": [["Die **unerträgliche** Hitze zwang alle, drinnen zu bleiben", "Der Schmerz wurde ohne Medikamente **unerträglich**"]]
+  },
+  {
+    "lemma": "unbeatable",
+    "meanings_de": ["unschlagbar", "unübertroffen günstig"],
+    "definitions_de": ["in Wettbewerb oder Qualität nicht zu besiegen oder zu übertreffen, dabei eine überlegene Position einnehmend", "ein so gutes Preis-Leistungs-Verhältnis bietend, dass nichts anderes mithalten kann"],
+    "examples_de": [["Ihr Team scheint nach zehn Siegen in Folge **unschlagbar**", "Ihre Rekordzeit bleibt seit zwanzig Jahren **unübertroffen**"], ["Diese Preise sind während unseres Ausverkaufs **unschlagbar**", "Das Restaurant bietet **unschlagbare** Qualität für den Preis"]]
+  },
+  {
+    "lemma": "unbeaten",
+    "meanings_de": ["unbesiegt"],
+    "definitions_de": ["noch nicht besiegt worden oder in Wettbewerb oder Wettkampf verloren habend"],
+    "examples_de": [["Die Mannschaft bleibt nach zwölf aufeinanderfolgenden Spielen **unbesiegt**", "Die Boxmeisterin trat **unbesiegt** vom aktiven Sport zurück"]]
+  },
+  {
+    "lemma": "unbecoming",
+    "meanings_de": ["unpassend", "unvorteilhaft"],
+    "definitions_de": ["nicht passend oder angemessen für die Position oder den Charakter einer Person", "im Aussehen oder Stil nicht attraktiv oder schmeichelhaft wirkend"],
+    "examples_de": [["Solches Verhalten ist für einen Profisportler **unziemlich**", "Diese Ausdrucksweise ist für einen Lehrer **unangebracht**"], ["Diese Frisur ist für die meisten Menschen eher **unvorteilhaft**", "Das Kleid war **unvorteilhaft** und ließ sie plump aussehen"]]
+  },
+  {
+    "lemma": "unbeknown",
+    "meanings_de": ["ohne jemandes Wissen"],
+    "definitions_de": ["geschehend oder existierend ohne das Wissen der genannten Person"],
+    "examples_de": [["**Ohne Wissen** ihrer Eltern hatte sie das Studium abgebrochen", "Die Änderungen erfolgten **unbemerkt** von den meisten Mitarbeitern"]]
+  },
+  {
+    "lemma": "unbeknownst",
+    "meanings_de": ["ohne jemandes Wissen"],
+    "definitions_de": ["geschehend oder existierend ohne das Wissen der erwähnten Person"],
+    "examples_de": [["**Ohne Wissen** der Kinder planten die Eltern eine Überraschung", "Er war **ohne Wissen** seiner Kollegen befördert worden"]]
+  },
+  {
+    "lemma": "unbiased",
+    "meanings_de": ["unvoreingenommen"],
+    "definitions_de": ["keine unfaire Bevorzugung oder Vorurteile gegenüber bestimmten Meinungen oder Seiten zeigend"],
+    "examples_de": [["Der Richter muss während des gesamten Prozesses **unparteiisch** bleiben", "Wir brauchen eine **unvoreingenommene** Meinung von jemandem außerhalb"]]
+  },
+  {
+    "lemma": "unborn",
+    "meanings_de": ["ungeboren"],
+    "definitions_de": ["noch nicht geboren, aber als Fötus im Mutterleib existierend"],
+    "examples_de": [["Das **ungeborene** Kind konnte bereits die Stimme seiner Mutter hören", "Neue Gesetze schützen die Rechte **ungeborener** Kinder"]]
+  },
+  {
+    "lemma": "unbound",
+    "meanings_de": ["nicht gebunden", "unbegrenzt", "ungebunden"],
+    "definitions_de": ["nicht durch physische Fesseln oder Bande gebunden, befestigt oder gehalten", "keinen Grenzen, Einschränkungen oder Kontrollen jedweder Art unterworfen", "sich auf gedruckte Seiten beziehend, die nicht in Buchform zusammengefasst sind"],
+    "examples_de": [["Die Hände des Gefangenen wurden nach dem Verhör **losgebunden**", "Ihr Haar floss **ungebunden** in der Sommerbrise"], ["Seine Kreativität schien von konventionellem Denken **unbeschränkt**", "Ihre Begeisterung war nach dem Meisterschaftsgewinn **grenzenlos**"], ["Das Manuskript blieb bis zu den finalen Korrekturen **ungebunden**", "Diese **losen** Blätter müssen ordentlich zusammengefügt werden"]]
+  },
+  {
+    "lemma": "unbounded",
+    "meanings_de": ["grenzenlos"],
+    "definitions_de": ["keine Grenzen oder Beschränkungen in Ausdehnung, Größe oder Begeisterung habend"],
+    "examples_de": [["Ihre **grenzenlose** Begeisterung inspirierte alle im Team", "Das Universum erscheint in seiner Weite **unbegrenzt**"]]
+  },
+  {
+    "lemma": "unbranched",
+    "meanings_de": ["unverzweigt"],
+    "definitions_de": ["keine Äste habend, die sich vom Hauptstamm oder der Hauptstruktur erstrecken"],
+    "examples_de": [["Der **unverzweigte** Stamm ragte gerade in den Himmel", "Dieses **unverzweigte** Molekül hat eine einfache lineare Struktur"]]
+  },
+  {
+    "lemma": "unbreakable",
+    "meanings_de": ["unzerbrechlich", "unverbrüchlich"],
+    "definitions_de": ["nicht zerbrechbar oder beschädigbar, selbst unter extremer Krafteinwirkung", "unter keinen Umständen verletzbar, beendbar oder ungültig zu machen"],
+    "examples_de": [["Der neue Handybildschirm soll praktisch **unzerbrechlich** sein", "Ihre Bindung schien nach Jahren der Freundschaft **unzerbrechlich**"], ["Sie gaben sich ein **unverbrüchliches** Versprechen zusammenzubleiben", "Der Verschlüsselungscode wurde als **unknackbar** konzipiert"]]
+  },
+  {
+    "lemma": "unbridled",
+    "meanings_de": ["ungezügelt"],
+    "definitions_de": ["nicht kontrolliert oder zurückgehalten, dabei keine Grenzen in Ausdruck oder Verhalten zeigend"],
+    "examples_de": [["Seine **ungezügelte** Begeisterung überwältigte manchmal seine Kollegen in Besprechungen", "Der Roman schildert **ungezügelte** Leidenschaft zwischen den Hauptfiguren"]]
+  },
+  {
+    "lemma": "unbroken",
+    "meanings_de": ["unbeschädigt", "ununterbrochen"],
+    "definitions_de": ["ganz und intakt bleibend ohne Risse, Brüche oder Beschädigungen", "ohne Pause, Unterbrechung oder Veränderung über einen Zeitraum fortdauernd"],
+    "examples_de": [["Die Vase blieb trotz des Sturzes vom Regal **unversehrt**", "Alle Eier kamen **unbeschädigt** in ihrer Schutzverpackung an"], ["Sie hielt drei Stunden lang **ununterbrochene** Konzentration aufrecht", "Die Familie pflegte eine **ungebrochene** Tradition über fünfzig Jahre"]]
+  },
+  {
+    "lemma": "uncanny",
+    "meanings_de": ["unheimlich", "verblüffend genau"],
+    "definitions_de": ["seltsam oder mysteriös auf beunruhigende Weise, dabei übernatürlichen Ursprung nahelegend", "so bemerkenswert oder exakt, dass es über normale menschliche Fähigkeiten hinauszugehen scheint"],
+    "examples_de": [["Im verlassenen Haus herrschte eine **unheimliche** Stille", "Sie spürte eine **gespenstische** Präsenz, die ihre Bewegungen beobachtete"], ["Er hat eine **verblüffende** Fähigkeit, Markttrends vorherzusagen", "Die Ähnlichkeit zwischen den Zwillingen war absolut **frappierend**"]]
+  },
+  {
+    "lemma": "uncapped",
+    "meanings_de": ["unbegrenzt", "unverschlossen"],
+    "definitions_de": ["keiner Höchstgrenze unterworfen, besonders in finanziellen Zusammenhängen", "bei dem die Kappe oder der Verschluss von einem Behälter entfernt wurde"],
+    "examples_de": [["Das Unternehmen bietet **unbegrenzte** Provisionen für Top-Verkäufer", "Internetverträge mit **unbegrenztem** Datenvolumen werden selten"], ["Sie ließ den Stift **unverschlossen** und er trocknete aus", "Die **offene** Flasche verschüttete sich während der Autofahrt"]]
+  },
+  {
+    "lemma": "uncaring",
+    "meanings_de": ["gleichgültig"],
+    "definitions_de": ["kein Mitgefühl, Sorge oder Interesse an den Gefühlen oder dem Wohlergehen anderer zeigend"],
+    "examples_de": [["Seine **gleichgültige** Haltung verletzte seine Kinder über die Jahre tief", "Die **teilnahmslose** Reaktion der Beamten verärgerte die Angehörigen der Opfer"]]
+  },
+  {
+    "lemma": "uncensored",
+    "meanings_de": ["unzensiert"],
+    "definitions_de": ["keiner Zensur unterworfen, wobei alle ursprünglichen Inhalte intakt gelassen wurden"],
+    "examples_de": [["Die Dokumentation zeigte **unzensiertes** Filmmaterial aus dem Krieg", "Die **ungekürzte** Version des Buches enthielt kontroverse Passagen"]]
+  },
+  {
+    "lemma": "uncertain",
+    "meanings_de": ["ungewiss", "unsicher"],
+    "definitions_de": ["nicht verlässlich oder mit Genauigkeit definitiv zu wissen oder vorherzusagen", "sich nicht sicher oder zuversichtlich über etwas fühlend, dabei Zögern zeigend"],
+    "examples_de": [["Das Wahlergebnis bleibt **ungewiss**, bis alle Stimmen ausgezählt sind", "Wettervorhersagen sind über die nächsten Tage hinaus **unsicher**"], ["Sie fühlte sich **unsicher**, ob sie das Jobangebot im Ausland annehmen sollte", "Seine **zögerliche** Stimme verriet seine mangelnde Vorbereitung"]]
+  },
+  {
+    "lemma": "unchained",
+    "meanings_de": ["entfesselt"],
+    "definitions_de": ["von Ketten oder anderen physischen Fesseln befreit, dabei freie Bewegung ermöglichend"],
+    "examples_de": [["Der **entfesselte** Hund rannte freudig über den offenen Hof", "Seine **entfesselte** Kreativität brachte bemerkenswerte Kunstwerke hervor"]]
+  },
+  {
+    "lemma": "unchallenged",
+    "meanings_de": ["unangefochten"],
+    "definitions_de": ["von niemandem bestritten, hinterfragt oder angegriffen, dabei ohne Widerspruch akzeptiert bleibend"],
+    "examples_de": [["Ihre Autorität blieb über ein Jahrzehnt lang **unangefochten**", "Die Theorie blieb **unwidersprochen**, bis neue Beweise auftauchten"]]
+  },
+  {
+    "lemma": "unchanged",
+    "meanings_de": ["unverändert"],
+    "definitions_de": ["nicht verändert oder anders geworden, im ursprünglichen Zustand verbleibend"],
+    "examples_de": [["Die Stadt blieb trotz jahrzehntelangen Verlaufs **unverändert**", "Ihre Gefühle für ihn waren nach all den Jahren **gleichgeblieben**"]]
+  },
+  {
+    "lemma": "unchanging",
+    "meanings_de": ["unveränderlich"],
+    "definitions_de": ["über die Zeit gleich bleibend, dabei keine Variation oder Veränderung zeigend"],
+    "examples_de": [["Die **unveränderliche** Landschaft vermittelte ein Gefühl zeitlosen Friedens", "Seine **gleichbleibende** Routine half ihm, täglich mentale Stabilität zu bewahren"]]
+  },
+  {
+    "lemma": "uncharacteristic",
+    "meanings_de": ["untypisch"],
+    "definitions_de": ["nicht typisch oder üblich für das normale Verhalten einer bestimmten Person oder Sache"],
+    "examples_de": [["Sein wütender Ausbruch war völlig **untypisch** für seine Persönlichkeit", "Die schlechte Leistung des Teams war diese Saison **ungewöhnlich**"]]
+  },
+  {
+    "lemma": "uncharted",
+    "meanings_de": ["unkartiert", "unerforschtes Gebiet"],
+    "definitions_de": ["nicht auf einer Karte oder einem Diagramm verzeichnet, unbekanntes Territorium darstellend", "noch nicht erforscht oder erfahren, dabei unbekannte Situationen oder Bereiche repräsentierend"],
+    "examples_de": [["Die Expedition wagte sich in **unkartierte** Regionen des Regenwaldes", "Antike Seefahrer fürchteten sich, in **unbekannte** Gewässer jenseits der Karten zu segeln"], ["Ein Unternehmen zu gründen bedeutete für sie, **Neuland** zu betreten", "Die Forschung erkundet **unerforschte** Bereiche der Quantenphysik-Theorie"]]
+  },
+  {
+    "lemma": "unchecked",
+    "meanings_de": ["ungeprüft", "unkontrolliert"],
+    "definitions_de": ["nicht untersucht, verifiziert oder auf Genauigkeit oder Probleme überprüft", "ohne Einschränkung oder Kontrolle fortfahren oder zunehmen dürfend"],
+    "examples_de": [["Die **ungeprüften** Daten enthielten zahlreiche Fehler und Unstimmigkeiten", "**Unkontrolliertes** Gepäck stellt heutzutage ernsthafte Sicherheitsrisiken an Flughäfen dar"], ["**Unkontrolliertes** Bevölkerungswachstum belastet natürliche Ressourcen und Infrastruktursysteme", "Seine **ungezügelte** Wut zerstörte schließlich alle seine persönlichen Beziehungen"]]
+  },
+  {
+    "lemma": "uncivilized",
+    "meanings_de": ["unzivilisiert"],
+    "definitions_de": ["kein fortgeschrittenes oder modernes Niveau kultureller und sozialer Entwicklung habend"],
+    "examples_de": [["Ihr **unzivilisiertes** Verhalten beim Abendessen schockierte die anderen Gäste", "Manche betrachten das Essen mit den Händen in formellen Situationen als **unkultiviert**"]]
+  },
+  {
+    "lemma": "unclaimed",
+    "meanings_de": ["nicht abgeholt"],
+    "definitions_de": ["vom rechtmäßigen Eigentümer oder Empfänger nicht beansprucht oder abgeholt"],
+    "examples_de": [["**Nicht abgeholtes** Gepäck wird an Flughäfen nach neunzig Tagen versteigert", "Der Lotteriegewinn blieb überraschenderweise mehrere Monate **unbeansprucht**"]]
+  },
+  {
+    "lemma": "unclassified",
+    "meanings_de": ["nicht kategorisiert", "nicht geheim"],
+    "definitions_de": ["noch keiner bestimmten Klasse, Kategorie oder Gruppe zugeordnet", "sich auf Informationen beziehend, die nicht als geheim oder vertraulich eingestuft sind"],
+    "examples_de": [["Diese **unsortierten** Dokumente müssen noch ordnungsgemäß abgelegt und organisiert werden", "Während der Expedition wurden mehrere **nicht klassifizierte** Arten entdeckt"], ["Der Bericht enthält nur **nicht geheime** Informationen, die öffentlich zugänglich sind", "**Nicht klassifizierte** Materialien können jetzt frei zwischen Abteilungen geteilt werden"]]
+  },
+  {
+    "lemma": "unclean",
+    "meanings_de": ["unrein"],
+    "definitions_de": ["schmutzig oder kontaminiert, dabei Standards der Sauberkeit oder Reinheit nicht erfüllend"],
+    "examples_de": [["Das **verunreinigte** Wasser verursachte Krankheiten im gesamten Dorf", "Er fühlte sich **schmutzig** nach der Arbeit auf dem staubigen Dachboden"]]
+  },
+  {
+    "lemma": "uncollected",
+    "meanings_de": ["nicht abgeholt"],
+    "definitions_de": ["nicht gesammelt, abgeholt oder von dort geholt, wo es gelassen wurde"],
+    "examples_de": [["**Nicht abgeholte** Post stapelte sich während ihres einmonatigen Auslandsurlaubs", "Der **liegengebliebene** Müll lockte Ratten in die Nachbarschaftsstraßen"]]
+  },
+  {
+    "lemma": "uncommitted",
+    "meanings_de": ["ungebunden", "nicht engagiert"],
+    "definitions_de": ["nicht an eine bestimmte Handlungsweise verpflichtet oder gebunden", "keine Hingabe oder Loyalität zu einer Sache oder Beziehung zeigend"],
+    "examples_de": [["Mehrere **unentschiedene** Delegierte könnten die Nominierung in beide Richtungen lenken", "Sie blieb bis Mai **unentschlossen** bezüglich ihrer Universitätswahl"], ["Seine **halbherzige** Einstellung frustrierte seine Teamkollegen während der Trainingseinheiten", "**Unengagierte** Freiwillige halten selten lange bei anspruchsvoller Wohltätigkeitsarbeit durch"]]
+  },
+  {
+    "lemma": "uncommon",
+    "meanings_de": ["ungewöhnlich", "außergewöhnlich groß"],
+    "definitions_de": ["nicht oft gesehen, gefunden oder erlebt, dabei relativ selten vorkommend", "bemerkenswert groß oder intensiv im Grad, das Übliche übertreffend"],
+    "examples_de": [["Schnee ist in dieser Region während der Herbstmonate **ungewöhnlich**", "Es ist **selten**, solche Hingabe bei jungen Mitarbeitern zu finden"], ["Sie zeigte **außergewöhnlichen** Mut bei der Rettung des ertrinkenden Kindes", "Der Künstler zeigte **ungewöhnliches** Talent von frühem Alter an"]]
+  },
+  {
+    "lemma": "uncompetitive",
+    "meanings_de": ["nicht wettbewerbsfähig"],
+    "definitions_de": ["nicht in der Lage, erfolgreich gegen andere in Qualität oder Preis zu konkurrieren"],
+    "examples_de": [["Ihre **nicht konkurrenzfähigen** Preise trieben Kunden regelmäßig zur Konkurrenz", "Das Team wurde **nicht wettbewerbsfähig**, nachdem es seine Starspieler verloren hatte"]]
+  },
+  {
+    "lemma": "uncompleted",
+    "meanings_de": ["unvollendet"],
+    "definitions_de": ["nicht zu Ende oder zum Abschluss gebracht, in teilweisem Zustand verbleibend"],
+    "examples_de": [["Das **unvollendete** Projekt kostete das Unternehmen Millionen an Verlusten", "Ihr **unabgeschlossenes** Studium verfolgte sie während ihrer erfolgreichen Karriere"]]
+  },
+  {
+    "lemma": "uncomplicated",
+    "meanings_de": ["unkompliziert"],
+    "definitions_de": ["einfach und direkt ohne unnötige Komplexität oder Schwierigkeit zu verstehen"],
+    "examples_de": [["Das Rezept war **unkompliziert** genug für Kochanfänger zum Nachkochen", "Sie bevorzugte einen **unkomplizierten** Lebensstil ohne Drama oder Stress"]]
+  },
+  {
+    "lemma": "uncompromising",
+    "meanings_de": ["kompromisslos"],
+    "definitions_de": ["eine Unwilligkeit zeigend, Zugeständnisse zu machen oder weniger als gefordert zu akzeptieren"],
+    "examples_de": [["Ihre **kompromisslosen** Standards sicherten nur Produkte bester Qualität", "Die **unnachgiebige** Vision des Regisseurs schuf ein Meisterwerk des Kinos"]]
+  },
+  {
+    "lemma": "unconcerned",
+    "meanings_de": ["unbekümmert"],
+    "definitions_de": ["einen Mangel an Sorge oder Interesse an etwas zeigend, dabei gleichgültig erscheinend"],
+    "examples_de": [["Er schien **unbekümmert** über die nahende Abgabefrist", "Die Katze blieb **unbeeindruckt**, als der Hund laut bellte"]]
+  },
+  {
+    "lemma": "unconditional",
+    "meanings_de": ["bedingungslos"],
+    "definitions_de": ["keinen Bedingungen oder Einschränkungen unterworfen, dabei absolut und vollständig"],
+    "examples_de": [["Eltern geben ihren Kindern oft **bedingungslose** Liebe", "Das Unternehmen forderte die **bedingungslose** Kapitulation seines Konkurrenten"]]
+  },
+  {
+    "lemma": "unconfirmed",
+    "meanings_de": ["unbestätigt"],
+    "definitions_de": ["noch nicht als wahr bewiesen oder offiziell als korrekt verifiziert"],
+    "examples_de": [["**Unbestätigte** Berichte deuten darauf hin, dass die Fusion nächsten Monat stattfinden könnte", "Die Zahl der Todesopfer bleibt **unbestätigt**, während die Rettungsarbeiten fortgesetzt werden"]]
+  },
+  {
+    "lemma": "unconnected",
+    "meanings_de": ["nicht verbunden"],
+    "definitions_de": ["nicht physisch, logisch oder durch Beziehung miteinander verbunden oder verknüpft"],
+    "examples_de": [["Die beiden Vorfälle erscheinen völlig **unverbunden**, obwohl sie gleichzeitig geschahen", "Diese **nicht angeschlossenen** Kabel müssen aus Sicherheitsgründen ordnungsgemäß installiert werden"]]
+  },
+  {
+    "lemma": "unconquered",
+    "meanings_de": ["unbezwungen"],
+    "definitions_de": ["nicht überwunden, besiegt oder unter Kontrolle gebracht, dabei unabhängig oder siegreich bleibend"],
+    "examples_de": [["Der Berggipfel blieb weitere fünfzig Jahre **unbezwungen**", "Ihr **unbeugsamer** Geist inspirierte andere, die täglich ähnlichen Herausforderungen gegenüberstanden"]]
+  },
+  {
+    "lemma": "unconscionable",
+    "meanings_de": ["gewissenlos", "maßlos übertrieben"],
+    "definitions_de": ["nicht vom Gewissen geleitet, dabei unangemessen exzessiv oder schockierend unfair", "über alle vernünftigen Grenzen hinausgehend, dabei exzessiv in Menge oder Grad"],
+    "examples_de": [["Der Anwalt berechnete verzweifelten Klienten wiederholt **gewissenlose** Gebühren", "Es ist **unverantwortlich**, Leiden zu ignorieren, wenn man helfen kann"], ["Das Unternehmen machte während der Krise **maßlose** Gewinne", "Drei Stunden auf Bedienung zu warten ist hier absolut **unzumutbar**"]]
+  },
+  {
+    "lemma": "unconsolidated",
+    "meanings_de": ["nicht konsolidiert"],
+    "definitions_de": ["nicht konsolidiert oder zu einer einzigen kohärenten Masse oder einem System vereinigt"],
+    "examples_de": [["Die **unverfestigten** Sedimente verschoben sich während des gestrigen Erdbebens gefährlich", "Mehrere **nicht zusammengefasste** Abteilungen arbeiteten unabhängig ohne notwendige Koordination"]]
+  },
+  {
+    "lemma": "unconstitutional",
+    "meanings_de": ["verfassungswidrig"],
+    "definitions_de": ["nicht in Übereinstimmung mit oder autorisiert durch die Verfassung eines Landes"],
+    "examples_de": [["Das Gericht erklärte das neue Gesetz für **verfassungswidrig** und nichtig", "Die Redefreiheit auf diese Weise einzuschränken ist eindeutig **grundgesetzwidrig**"]]
+  }
+]

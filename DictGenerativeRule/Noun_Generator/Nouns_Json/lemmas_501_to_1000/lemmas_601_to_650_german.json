@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "sales",
+    "meanings_de": ["Verkaufstätigkeiten", "Verkaufsabteilung"],
+    "definitions_de": ["Tätigkeiten oder Prozesse, bei denen Waren oder Dienstleistungen an Kunden verkauft werden", "Abteilung in einem Unternehmen, die für den Verkauf von Produkten oder Dienstleistungen verantwortlich ist"],
+    "examples_de": [["Die **Verkaufszahlen** stiegen während des Weihnachtsgeschäfts deutlich an", "Der Online-**Verkauf** hat in den letzten Jahren enorm zugenommen"], ["Sie arbeitet im **Vertrieb** und betreut täglich Kundenbeziehungen", "Die **Verkaufsabteilung** übertraf ihre Quartalsziele erheblich"]]
+  },
+  {
+    "lemma": "gift",
+    "meanings_de": ["freiwilliges Geschenk", "natürliche Begabung"],
+    "definitions_de": ["etwas, das freiwillig ohne Bezahlung oder Erwartung einer Gegenleistung gegeben wird", "besondere natürliche Fähigkeit oder Talent, das jemand besitzt"],
+    "examples_de": [["Sie verpackte das **Geschenk** liebevoll in buntes Papier", "Das Hochzeits**geschenk** wurde auf den festlich dekorierten Tisch gestellt"], ["Ihre **Begabung** für Musik zeigte sich schon früh", "Der Umgang mit Kindern erfordert eine besondere **Gabe** für Geduld"]]
+  },
+  {
+    "lemma": "increase",
+    "meanings_de": ["Wachstum der Menge", "Vorgang des Wachsens"],
+    "definitions_de": ["Anstieg in Quantität, Größe, Wert oder Grad von etwas", "Prozess oder Handlung des Größer- oder Zahlreicherwerdens"],
+    "examples_de": [["Die **Erhöhung** der Preise belastete das Monatsbudget aller Haushalte", "Es gab einen stetigen **Anstieg** der Studentenzahlen"], ["Die jüngste **Zunahme** bereitete den Anwohnern Sorgen", "Die Geschäftsführung genehmigte eine **Erhöhung** der Arbeitszeiten"]]
+  },
+  {
+    "lemma": "garden",
+    "meanings_de": ["kultivierter Außenbereich", "öffentliche Parkanlage"],
+    "definitions_de": ["Stück Land, auf dem Blumen, Gemüse oder Kräuter angebaut werden", "öffentlicher Park oder Bereich mit Pflanzen und Wegen zur Erholung"],
+    "examples_de": [["Sie pflanzte Tomaten in ihrem **Gemüsegarten** im Frühjahr", "Der **Garten** blühte den ganzen Sommer über in prächtigen Farben"], ["Wir besuchten den botanischen **Garten**, um exotische Pflanzen zu sehen", "Der öffentliche **Park** bietet friedliche Spaziergänge in schöner Landschaft"]]
+  },
+  {
+    "lemma": "lake",
+    "meanings_de": ["Binnengewässer"],
+    "definitions_de": ["großes Gewässer, das auf allen Seiten von Land umgeben ist"],
+    "examples_de": [["Der **See** spiegelte die Berge in seiner ruhigen Oberfläche", "Wir gingen am frühen Samstagmorgen am **See** angeln"]]
+  },
+  {
+    "lemma": "turn",
+    "meanings_de": ["Drehbewegung", "Gelegenheit oder Chance", "Richtungsänderung"],
+    "definitions_de": ["Vorgang des Drehens oder Bewegens um eine Achse oder ein Zentrum", "Gelegenheit oder Zeit einer Person, etwas in einer Reihenfolge zu tun", "Änderung in Richtung, Position oder Tendenz von etwas"],
+    "examples_de": [["Biegen Sie an der Ampel links **ab**", "Die scharfe **Kurve** überraschte viele Fahrer"], ["Du bist jetzt an der **Reihe** mit Würfeln", "Alle warteten geduldig, bis sie an der **Reihe** waren zu sprechen"], ["Das Gespräch nahm eine unerwartete **Wendung** in Richtung Politik", "Das Wetter schlug plötzlich **um**"]]
+  },
+  {
+    "lemma": "plane",
+    "meanings_de": ["Luftfahrzeug", "flache geometrische Fläche", "Holzbearbeitungswerkzeug"],
+    "definitions_de": ["motorisiertes Fluggerät mit festen Flügeln für Flugreisen", "flache oder ebene Fläche in der Geometrie, die sich unendlich ausdehnt", "Handwerkzeug zum Glätten oder Formen von Holzoberflächen"],
+    "examples_de": [["Das **Flugzeug** landete trotz des stürmischen Wetters sicher", "Sie bestieg das **Flugzeug** für ihre internationale Geschäftsreise"], ["Im Geometrieunterricht studierten wir Punkte, Linien und **Ebenen**", "Die Tischoberfläche bildete eine perfekt horizontale **Ebene**"], ["Der Tischler benutzte einen **Hobel**, um das raue Brett zu glätten", "Dieser antike **Hobel** gehörte zur Werkstattsammlung meines Großvaters"]]
+  },
+  {
+    "lemma": "vehicle",
+    "meanings_de": ["Transportmaschine", "Ausdrucksmittel"],
+    "definitions_de": ["Maschine, die zum Transport von Menschen oder Gütern an Land verwendet wird", "Mittel, durch das etwas ausgedrückt, erreicht oder dargestellt wird"],
+    "examples_de": [["Der Parkplatz war heute Morgen voller **Fahrzeuge**", "Elektro**fahrzeuge** werden bei Stadtpendlern immer beliebter"], ["Kunst wurde ihr **Mittel**, um tiefe persönliche Gefühle auszudrücken", "Die Zeitung dient als **Sprachrohr** für die öffentliche Meinung"]]
+  },
+  {
+    "lemma": "application",
+    "meanings_de": ["formeller Antrag", "praktische Nutzung", "Computerprogramm"],
+    "definitions_de": ["formeller schriftlicher Antrag für etwas wie eine Stelle oder Zulassung", "praktische Verwendung oder Relevanz von etwas in realen Situationen", "Computersoftware, die entwickelt wurde, um bestimmte Aufgaben für Benutzer auszuführen"],
+    "examples_de": [["Sie reichte ihre **Bewerbung** für das Stipendienprogramm gestern ein", "Die **Bewerbung** erforderte drei berufliche Referenzen"], ["Die **Anwendung** dieser Theorie hilft bei der Lösung technischer Probleme", "Wissenschaftler untersuchten die **Anwendung** neuer Materialien im Bauwesen"], ["Laden Sie die mobile **App** aus dem App Store Ihres Geräts herunter", "Diese **Anwendung** hilft Benutzern, ihre täglichen Aufgaben effizient zu verwalten"]]
+  },
+  {
+    "lemma": "thousand",
+    "meanings_de": ["Zahl 1000"],
+    "definitions_de": ["Kardinalzahl gleich zehn mal hundert oder 1000"],
+    "examples_de": [["Das Konzert zog über fünf**tausend** begeisterte Fans an", "Sie sparte **tausend** Euro für ihren Sommerurlaub"]]
+  },
+  {
+    "lemma": "coffee",
+    "meanings_de": ["koffeinhaltiges Getränk", "Kaffeepflanze/-bohnen"],
+    "definitions_de": ["heißes Getränk aus gerösteten gemahlenen Kaffeebohnen und Wasser", "tropische Pflanze oder ihre Samen, die zur Herstellung von Kaffeegetränk verwendet werden"],
+    "examples_de": [["Sie trinkt jeden Morgen **Kaffee**, bevor sie mit der Arbeit beginnt", "Das **Café** serviert ausgezeichneten Espresso und Spezialitätengetränke"], ["Brasilien produziert mehr **Kaffee** als jedes andere Land weltweit", "Die **Kaffeebohnen** werden sorgfältig geerntet und geröstet"]]
+  },
+  {
+    "lemma": "file",
+    "meanings_de": ["Dokumentenbehälter", "Computerdaten", "Metallwerkzeug"],
+    "definitions_de": ["Ordner oder Behälter zur organisierten Aufbewahrung loser Papiere", "Sammlung von Daten, die als Einheit auf einem Computer gespeichert sind", "Metallwerkzeug mit rauer Oberfläche zum Glätten oder Formen"],
+    "examples_de": [["Bitte legen Sie diese Dokumente in die entsprechende **Akte**", "Der **Aktenschrank** enthält alle unsere wichtigen Steuerunterlagen"], ["Speichern Sie die **Datei** auf Ihrem Desktop, bevor Sie das Programm schließen", "Die **Dateigröße** ist zu groß für den E-Mail-Versand"], ["Verwenden Sie eine Metall**feile**, um die rauen Kanten vorsichtig zu glätten", "Die Nagel**feile** half dabei, ihre Fingernägel perfekt rund zu formen"]]
+  },
+  {
+    "lemma": "reform",
+    "meanings_de": ["systematische Änderung", "Verbesserungsprozess"],
+    "definitions_de": ["Handlung oder Prozess der Durchführung von Änderungen zur Verbesserung einer Institution oder Praxis", "Verbesserung oder Korrektur dessen, was in der Gesellschaft falsch, korrupt oder unbefriedigend ist"],
+    "examples_de": [["Die Bildungs**reform** zielte darauf ab, die Lernergebnisse der Schüler zu verbessern", "Die Gefängnis**reform** ist zu einem wichtigen politischen Thema geworden"], ["Der **Reformprozess** wird mehrere Jahre in Anspruch nehmen", "Die Wirtschafts**reform** half, das Finanzsystem des Landes zu stabilisieren"]]
+  },
+  {
+    "lemma": "gold",
+    "meanings_de": ["Edelmetall", "Farbton", "wertvoller Preis"],
+    "definitions_de": ["gelbes Edelmetall, das für Schmuck, Münzen und Dekoration verwendet wird", "tiefgelbe oder gelbbraune Farbe, die dem Metall Gold ähnelt", "erster Preis oder höchste Leistung in einem Wettbewerb oder Wettkampf"],
+    "examples_de": [["Der Ring bestand aus reinem **Gold** und Diamanten", "Die **Gold**preise schwanken täglich je nach globalen Wirtschaftsbedingungen"], ["Sie strich den Rahmen in einem schönen **Gold**ton", "Das Sonnenlicht warf **goldenes** Licht über die Bergspitzen"], ["Der Athlet gewann **Gold** in drei verschiedenen olympischen Disziplinen", "Ihre Leistung verdiente nichts Geringeres als die **Gold**medaille"]]
+  },
+  {
+    "lemma": "planet",
+    "meanings_de": ["Himmelskörper"],
+    "definitions_de": ["großes rundes Objekt im Weltraum, das um einen Stern kreist"],
+    "examples_de": [["Die Erde ist der dritte **Planet** von der Sonne in unserem Sonnensystem", "Wissenschaftler entdeckten einen neuen **Planeten**, der einen fernen Stern umkreist"]]
+  },
+  {
+    "lemma": "location",
+    "meanings_de": ["bestimmter Ort", "Vorgang des Lokalisierens"],
+    "definitions_de": ["bestimmter Ort oder Position, wo etwas existiert oder geschieht", "Handlung oder Prozess des Findens, wo etwas oder jemand ist"],
+    "examples_de": [["Die **Lage** des Geschäfts macht es für Innenstadtkunden bequem", "Wir müssen einen geeigneten **Standort** für die Veranstaltung finden"], ["Der **Aufenthaltsort** des Schatzes blieb ein vollständiges Rätsel", "GPS-Technologie hilft bei der präzisen **Ortung** von Mobilgeräten"]]
+  },
+  {
+    "lemma": "bird",
+    "meanings_de": ["gefiedertes Tier"],
+    "definitions_de": ["warmblütiges Tier mit Federn, Flügeln und einem Schnabel, das Eier legt"],
+    "examples_de": [["Ein bunter **Vogel** landete heute Morgen auf dem Gartenzaun", "Viele **Vögel** ziehen während der kalten Wintermonate nach Süden"]]
+  },
+  {
+    "lemma": "principle",
+    "meanings_de": ["Grundregel", "moralischer Standard"],
+    "definitions_de": ["Grundregel oder Überzeugung, die Verhalten leitet oder erklärt, wie etwas funktioniert", "moralische Regel oder Standard guten Verhaltens, der persönliches Verhalten leitet"],
+    "examples_de": [["Das **Prinzip** der Schwerkraft erklärt, warum Objekte nach unten fallen", "Diese Maschine arbeitet nach dem **Prinzip** des hydraulischen Drucks"], ["Sie weigerte sich, ihre **Prinzipien** für finanziellen Gewinn zu kompromittieren", "Mit Integrität zu handeln ist ein grundlegendes **Prinzip** der Führung"]]
+  },
+  {
+    "lemma": "search",
+    "meanings_de": ["Vorgang des Suchens", "systematische Untersuchung"],
+    "definitions_de": ["Handlung des sorgfältigen Suchens, um etwas oder jemanden zu finden", "systematische Untersuchung eines Ortes, Fahrzeugs oder einer Person nach etwas Verborgenem"],
+    "examples_de": [["Die **Suche** nach dem vermissten Kind dauerte die ganze Nacht", "Ihre **Suche** nach dem perfekten Kleid dauerte mehrere Stunden"], ["Die Polizei führte eine gründliche **Durchsuchung** des Grundstücks durch", "Die **Durchsuchung** brachte mehrere wichtige Beweismittel ans Licht"]]
+  },
+  {
+    "lemma": "possibility",
+    "meanings_de": ["mögliches Auftreten", "Gelegenheitsoption"],
+    "definitions_de": ["Zustand oder Tatsache, dass etwas existieren, geschehen oder wahr sein kann", "Sache, die aus verfügbaren Alternativen gewählt oder getan werden kann"],
+    "examples_de": [["Es besteht eine hohe **Möglichkeit** von Regen heute Nachmittag", "Wissenschaftler erforschen die **Möglichkeit** von Leben auf dem Mars"], ["Wir sollten jede **Möglichkeit** in Betracht ziehen, bevor wir unsere Entscheidung treffen", "Diese Stelle bietet die **Möglichkeit** internationaler Reisen"]]
+  },
+  {
+    "lemma": "sky",
+    "meanings_de": ["Atmosphäre darüber"],
+    "definitions_de": ["Bereich der Atmosphäre und des Weltraums, der von der Erde aus gesehen wird"],
+    "examples_de": [["Der **Himmel** färbte sich rosa und orange während des schönen Sonnenuntergangs", "Vögel flogen heute Morgen über den klaren blauen **Himmel**"]]
+  },
+  {
+    "lemma": "horse",
+    "meanings_de": ["großes Säugetier"],
+    "definitions_de": ["großes vierbeiniges Tier mit Hufen, Mähne und Schwanz, das zum Reiten verwendet wird"],
+    "examples_de": [["Sie lernte im Sommerlager, ein **Pferd** zu reiten", "Das **Pferd** galoppierte mit erstaunlicher Anmut über das offene Feld"]]
+  },
+  {
+    "lemma": "advantage",
+    "meanings_de": ["günstige Position", "vorteilhafte Eigenschaft"],
+    "definitions_de": ["Zustand oder Umstand, der jemanden in eine überlegene oder günstige Position bringt", "Eigenschaft oder Qualität, die etwas besser oder nützlicher macht als Alternativen"],
+    "examples_de": [["Seine Größe verschaffte ihm einen **Vorteil** bei Basketballspielen", "Die Heimmannschaft hatte den **Vorteil** der vertrauten Umgebung"], ["Der Haupt**vorteil** dieser Software ist ihre benutzerfreundliche Oberfläche", "Das Leben in der Innenstadt hat viele **Vorteile** für junge Berufstätige"]]
+  },
+  {
+    "lemma": "basis",
+    "meanings_de": ["Grundprinzip", "regelmäßiges Auftreten"],
+    "definitions_de": ["zugrunde liegende Unterstützung oder Grundlage für eine Idee, ein Argument oder einen Prozess", "regelmäßiges oder häufiges Auftreten, das beschreibt, wie oft etwas geschieht"],
+    "examples_de": [["Vertrauen bildet die **Grundlage** jeder erfolgreichen Geschäftsbeziehung", "Wissenschaftliche Beweise lieferten die **Basis** für ihre bahnbrechende Theorie"], ["Sie besucht ihre Eltern auf wöchentlicher **Basis** das ganze Jahr über", "Das Komitee trifft sich auf monatlicher **Basis**, um den Fortschritt zu überprüfen"]]
+  },
+  {
+    "lemma": "context",
+    "meanings_de": ["umgebende Umstände", "sprachliche Umgebung"],
+    "definitions_de": ["Umstände oder Rahmen, die helfen, ein Ereignis, eine Idee oder eine Aussage zu erklären", "Teile der schriftlichen oder gesprochenen Kommunikation, die ein Wort oder eine Passage umgeben"],
+    "examples_de": [["Sie müssen den historischen **Kontext** dieser Entscheidung verstehen", "Der **Kontext** der Situation machte ihre Handlungen vollkommen verständlich"], ["Die Bedeutung des Wortes ändert sich je nach sprachlichem **Kontext** erheblich", "Lesen Sie immer den vollständigen **Zusammenhang**, bevor Sie ein Zitat interpretieren"]]
+  },
+  {
+    "lemma": "christmas",
+    "meanings_de": ["christlicher Feiertag"],
+    "definitions_de": ["jährliches christliches Fest zur Feier der Geburt Jesu Christi am 25. Dezember"],
+    "examples_de": [["Die Familie versammelte sich, um **Weihnachten** mit traditionellem Essen zu feiern", "**Weihnachts**dekorationen erfüllten das Einkaufszentrum mit festlicher Stimmung"]]
+  },
+  {
+    "lemma": "strength",
+    "meanings_de": ["körperliche Kraft", "mentale Widerstandsfähigkeit", "Intensitätsgrad"],
+    "definitions_de": ["Qualität oder Zustand, körperlich stark und kraftvoll zu sein", "Fähigkeit, Druck, Stress oder schwierigen Umständen emotional standzuhalten", "Grad der Intensität, Konzentration oder Wirksamkeit von etwas"],
+    "examples_de": [["Regelmäßiges Training hilft dabei, die Muskel**kraft** im Laufe der Zeit aufzubauen", "Der Athlet zeigte unglaubliche **Stärke** beim Gewichtheben"], ["Ihre emotionale **Stärke** half ihr, viele persönliche Herausforderungen zu überwinden", "**Stärke** in schwierigen Zeiten zu finden erfordert Mut und Entschlossenheit"], ["Die **Stärke** des Kaffees war mir zu intensiv", "Wir müssen die **Festigkeit** dieser Klebeverbindung testen"]]
+  },
+  {
+    "lemma": "move",
+    "meanings_de": ["Positionsänderung", "strategische Aktion", "Umzug"],
+    "definitions_de": ["Handlung der Änderung der physischen Position oder des Ortes im Raum", "kalkulierte Aktion oder Entscheidung in einem Spiel, Plan oder einer Strategie", "Handlung des Wechsels des Wohn- oder Geschäftsortes"],
+    "examples_de": [["Jede **Bewegung** der Tänzerin war anmutig und perfekt getaktet", "Eine falsche **Bewegung** könnte den Turm zum Einsturz bringen"], ["Das war ein brillanter **Zug** im gestrigen Schachspiel", "Der neueste **Schachzug** des Unternehmens überraschte alle großen Konkurrenten"], ["Ihr **Umzug** aufs Land brachte ihnen die dringend benötigte Ruhe", "Der **Umzug** dauerte drei Tage mit professionellen Umzugshelfern"]]
+  },
+  {
+    "lemma": "monday",
+    "meanings_de": ["Wochentagsname"],
+    "definitions_de": ["zweiter Tag der Woche, der nach Sonntag und vor Dienstag kommt"],
+    "examples_de": [["Das Meeting ist für **Montag**morgen um neun Uhr geplant", "Viele Menschen empfinden den **Montag** als den schwersten Tag der Arbeitswoche"]]
+  },
+  {
+    "lemma": "mean",
+    "meanings_de": ["Durchschnittswert", "beabsichtigte Bedeutung"],
+    "definitions_de": ["mathematischer Durchschnitt, berechnet durch Division der Summe durch die Anzahl der Werte", "beabsichtigte Bedeutung oder Wichtigkeit von etwas Gesagtem, Getanem oder Geschriebenem"],
+    "examples_de": [["Die **Durchschnitts**temperatur für Juli betrug fünfundzwanzig Grad Celsius", "Berechnen Sie den **Mittelwert** dieser Testergebnisse für die statistische Analyse"], ["Die wahre **Bedeutung** ihrer Worte wurde erst viel später klar", "Das Verständnis der **Bedeutung** erfordert eine sorgfältige Analyse des Kontexts"]]
+  },
+  {
+    "lemma": "beach",
+    "meanings_de": ["sandiger Strand"],
+    "definitions_de": ["Bereich aus Sand oder Kieselsteinen entlang der Kante des Meeres oder Sees"],
+    "examples_de": [["Kinder bauten den ganzen Nachmittag fröhlich Sandburgen am **Strand**", "Der **Strand** war während der Sommerferien voller Touristen"]]
+  },
+  {
+    "lemma": "survey",
+    "meanings_de": ["systematische Studie", "Landvermessung"],
+    "definitions_de": ["systematische Sammlung und Analyse von Daten aus einer Bevölkerungsstichprobe", "Untersuchung und Aufzeichnung eines Landgebiets zur Bestimmung von Grenzen"],
+    "examples_de": [["Die **Umfrage** enthüllte interessante Trends im Verbraucherverhalten", "Bitte füllen Sie diese Kundenzufriedenheits**umfrage** aus, bevor Sie gehen"], ["Die **Vermessung** des Grundstücks legte die genauen Grundstücksgrenzen fest", "Sie beauftragten Fachleute mit der **Vermessung** der Baustelle"]]
+  },
+  {
+    "lemma": "writing",
+    "meanings_de": ["schriftliches Werk", "Vorgang des Schreibens"],
+    "definitions_de": ["Bücher, Artikel oder andere schriftliche Werke, insbesondere eines bestimmten Autors", "Tätigkeit oder Fähigkeit, zusammenhängende Wörter auf Papier oder Bildschirm zu markieren"],
+    "examples_de": [["Ihre **Schriften** wurden in mehreren Literaturzeitschriften veröffentlicht", "Der Professor gab Lesungen aus zeitgenössischen amerikanischen **Schriftsammlungen** auf"], ["**Schreiben** erfordert Geduld, Übung und Hingabe zur kontinuierlichen Verbesserung", "Sie verbringt jeden Morgen zwei Stunden mit **Schreibübungen**"]]
+  },
+  {
+    "lemma": "master",
+    "meanings_de": ["erfahrener Experte", "Originalversion", "akademischer Grad"],
+    "definitions_de": ["Person, die vollständiges Wissen oder Können in einem Bereich hat", "Originalaufnahme, -dokument oder -film, von dem Kopien gemacht werden", "fortgeschrittener akademischer Grad zwischen Bachelor und Promotion"],
+    "examples_de": [["Er wurde durch jahrelange Übung zum **Meister** seines Handwerks", "Der Schach**meister** besiegte alle Herausforderer im Turnier mühelos"], ["Die **Master**aufnahme wurde in einem klimatisierten Tresor aufbewahrt", "Wir benötigen die **Originaldatei**, um weitere Kopien anzufertigen"], ["Sie erwarb letztes Jahr ihren **Master**abschluss in Betriebswirtschaft", "Das **Master**programm erfordert zwei Jahre intensives Studium"]]
+  },
+  {
+    "lemma": "scale",
+    "meanings_de": ["Messsystem", "relative Größe", "Fischbedeckung"],
+    "definitions_de": ["System oder Gerät zum Messen von Gewicht oder anderen Größen", "relative Größe oder Ausdehnung von etwas im Vergleich zu einem Standard", "kleine flache Platte, die die Haut von Fischen und Reptilien schützt"],
+    "examples_de": [["Die Badezimmer**waage** zeigte, dass sie fünf Pfund abgenommen hatte", "Verwenden Sie eine Küchen**waage** für präzise Zutatenmessungen"], ["Das **Ausmaß** der Katastrophe wurde erst Tage später deutlich", "Wir müssen dieses Problem auf globaler **Ebene** betrachten"], ["Die **Schuppen** des Fisches schimmerten wunderschön im hellen Sonnenlicht", "Entfernen Sie die **Schuppen**, bevor Sie den frischen Fisch richtig zubereiten"]]
+  },
+  {
+    "lemma": "resident",
+    "meanings_de": ["dort lebende Person", "Assistenzarzt"],
+    "definitions_de": ["Person, die dauerhaft an einem bestimmten Ort oder in einem bestimmten Gebiet lebt", "Arzt, der eine Weiterbildung in einem Krankenhaus-Fachprogramm erhält"],
+    "examples_de": [["Alle **Bewohner** müssen ihre Fahrzeuge bei der Hausverwaltung anmelden", "Der Wohnkomplex beherbergt über zweihundert **Bewohner** komfortabel"], ["Der **Assistenzarzt** arbeitete lange Stunden im Lehrkrankenhaus", "**Assistenzärzte** schließen ihre Ausbildung in drei bis sieben Jahren ab"]]
+  },
+  {
+    "lemma": "football",
+    "meanings_de": ["Mannschaftssport", "verwendeter Ball"],
+    "definitions_de": ["Mannschaftssport, der mit einem ovalen oder runden Ball auf einem Feld gespielt wird", "aufgeblasener Ball, der im Fußballsport verwendet wird"],
+    "examples_de": [["Das **Fußball**spiel zog gestern Tausende begeisterte Fans an", "Er spielte während der High School und des Colleges erfolgreich **Fußball**"], ["Der Quarterback warf den **Football** sechzig Meter weit über das Feld", "Sie kauften einen neuen **Fußball** für das Nachbarschaftsspiel"]]
+  },
+  {
+    "lemma": "failure",
+    "meanings_de": ["Mangel an Erfolg", "Zusammenbruchsereignis"],
+    "definitions_de": ["Mangel an Erfolg beim Tun oder Erreichen von etwas Beabsichtigtem", "plötzliches Aufhören des ordnungsgemäßen Funktionierens oder Zusammenbruch eines Systems"],
+    "examples_de": [["Sein **Versäumnis**, sich vorzubereiten, führte leider zu schlechten Prüfungsergebnissen", "Das **Scheitern** des Projekts lehrte das Team wertvolle Lektionen über Planung"], ["Der Strom**ausfall** ließ Tausende über Nacht unerwartet ohne Elektrizität", "Der Motor**ausfall** zwang den Piloten zu einer Notlandung"]]
+  },
+  {
+    "lemma": "reporter",
+    "meanings_de": ["Nachrichtenjournalist"],
+    "definitions_de": ["Person, die Nachrichten für Medien recherchiert und schreibt"],
+    "examples_de": [["Der **Reporter** befragte sofort Zeugen am Tatort", "Sie arbeitete erfolgreich als **Reporterin** für die Lokalzeitung"]]
+  },
+  {
+    "lemma": "fight",
+    "meanings_de": ["körperlicher Kampf", "entschlossene Anstrengung"],
+    "definitions_de": ["gewalttätige Konfrontation oder körperlicher Kampf zwischen Menschen oder Gruppen", "energische Kampagne oder Anstrengung, um etwas zu erreichen oder ihm zu widerstehen"],
+    "examples_de": [["Die **Schlägerei** brach plötzlich in der überfüllten Bar aus", "Sicherheitskräfte griffen schnell ein, um den **Kampf** zu beenden"], ["Ihr **Kampf** gegen den Krebs inspirierte viele Menschen in ähnlichen Situationen", "Der **Kampf** für Bürgerrechte dauerte viele Jahrzehnte"]]
+  },
+  {
+    "lemma": "one",
+    "meanings_de": ["einzelne Einheit", "vereinte Einheit"],
+    "definitions_de": ["niedrigste Kardinalzahl, die eine einzelne Einheit oder Sache darstellt", "einzelne Person oder Sache, die als in sich vollständig betrachtet wird"],
+    "examples_de": [["Bitte nehmen Sie heute nur **einen** Keks aus dem Glas", "**Eins** plus eins ergibt zwei in der Grundmathematik"], ["Wir müssen als **Einheit** arbeiten, um unsere Ziele zu erreichen", "Das Team funktionierte während der Saison als **eine** zusammenhängende Einheit"]]
+  },
+  {
+    "lemma": "vision",
+    "meanings_de": ["Sehvermögen", "Zukunftsvorstellung", "übernatürliche Erfahrung"],
+    "definitions_de": ["Fähigkeit, mit den Augen zu sehen oder Qualität des Sehens", "mentales Bild davon, was die Zukunft sein könnte oder sollte", "Erfahrung, etwas in einem Traum oder einer Trance zu sehen"],
+    "examples_de": [["Ihre **Sicht** wurde ohne ihre verschreibungspflichtige Brille leider verschwommen", "Regelmäßige Augenuntersuchungen helfen, ein gutes **Sehvermögen** ein Leben lang zu erhalten"], ["Die **Vision** des Unternehmens umfasst die Expansion in internationale Märkte", "Seine **Vision** für die Zukunft inspirierte viele junge Unternehmer"], ["Der Prophet behauptete, **Visionen** von zukünftigen Ereignissen zu haben", "Sie beschrieb ihre **Vision** den Zuhörern in lebhaften Details"]]
+  },
+  {
+    "lemma": "function",
+    "meanings_de": ["Zweckrolle", "mathematische Beziehung", "formelle Veranstaltung"],
+    "definitions_de": ["praktischer Zweck oder Rolle, für die etwas entworfen ist", "mathematische Beziehung zwischen Variablen, bei der jede Eingabe eine Ausgabe hat", "große formelle gesellschaftliche Veranstaltung oder offizielle Zeremonie"],
+    "examples_de": [["Die Haupt**funktion** des Herzens ist das Pumpen von Blut", "Jedes Organ erfüllt eine spezifische **Funktion** im Körper"], ["Schüler lernten, quadratische **Funktionen** im Algebraunterricht grafisch darzustellen", "Diese **Funktion** berechnet die Quadratwurzel jeder Zahl"], ["Die Wohltätigkeits**veranstaltung** sammelte gestern Tausende für lokale Familien", "Sie nahm an der Firmen**veranstaltung** in formeller Geschäftskleidung teil"]]
+  },
+  {
+    "lemma": "human",
+    "meanings_de": ["Person Individuum"],
+    "definitions_de": ["Mitglied der Spezies Homo sapiens; ein Mann, eine Frau oder ein Kind"],
+    "examples_de": [["Jeder **Mensch** verdient es, mit Würde und Respekt behandelt zu werden", "Das Fossil enthüllte neue Informationen über frühe **menschliche** Vorfahren"]]
+  },
+  {
+    "lemma": "will",
+    "meanings_de": ["rechtliches Dokument", "mentale Entschlossenheit"],
+    "definitions_de": ["rechtliches Dokument, das die Wünsche einer Person bezüglich des Eigentums nach dem Tod erklärt", "geistige Fähigkeit, durch die man bewusst wählt oder entscheidet"],
+    "examples_de": [["Sie aktualisierte ihr **Testament**, um ihre neuen Enkelkinder einzubeziehen", "Der Anwalt half ihnen, ein umfassendes **Testament** ordnungsgemäß zu erstellen"], ["Sein starker **Wille** half ihm, zahlreiche Hindernisse erfolgreich zu überwinden", "Der **Überlebenswille** hielt sie in schwierigen Zeiten am Leben"]]
+  },
+  {
+    "lemma": "connection",
+    "meanings_de": ["Verbindungsbeziehung", "Verkehrsverbindung"],
+    "definitions_de": ["Beziehung oder Verbindung zwischen Menschen, Dingen oder Ideen", "Punkt, an dem zwei Verkehrsdienste zusammentreffen und Passagierumstieg ermöglichen"],
+    "examples_de": [["Die **Verbindung** zwischen Rauchen und Krebs ist gut belegt", "Sie spürte eine sofortige **Verbindung** zu ihrem neuen Kollegen"], ["Ich verpasste meinen **Anschluss**, weil der erste Flug verspätet ankam", "Die Zug**verbindung** in die Innenstadt fährt alle fünfzehn Minuten"]]
+  },
+  {
+    "lemma": "camp",
+    "meanings_de": ["temporäre Unterkunft", "Freizeiteinrichtung"],
+    "definitions_de": ["Ort mit temporären Unterkünften aus Zelten oder Hütten", "Ort für organisierte Freizeit- oder Bildungsaktivitäten für Kinder"],
+    "examples_de": [["Sie schlugen ihr **Lager** vor Sonnenuntergang in der Nähe des Sees auf", "Das Flüchtlings**lager** beherbergte Tausende vertriebene Familien sicher"], ["Sie besuchte jedes Jahr sechs Wochen lang das Sommer**camp**", "Das Basketball**camp** verbesserte seine Fähigkeiten über den Sommer erheblich"]]
+  },
+  {
+    "lemma": "stone",
+    "meanings_de": ["Gesteinsmaterial", "Fruchtkern", "Gewichtseinheit"],
+    "definitions_de": ["hartes festes Mineralgestein, das im Boden gefunden wird", "harter Kern, der im Zentrum einiger Früchte gefunden wird", "britische Gewichtseinheit gleich vierzehn Pfund"],
+    "examples_de": [["Die alte Mauer wurde sorgfältig aus großen **Steinen** gebaut", "Sie sammelte gestern Nachmittag glatte **Steine** vom Flussbett"], ["Entfernen Sie den **Kern**, bevor Sie die Kirsche oder den Pfirsich essen", "Der Avocado**kern** kann gepflanzt werden, um Bäume zu züchten"], ["Er verlor drei **Stone** durch Diät und regelmäßige Bewegung", "Das Gewicht wurde traditionell in **Stones** und Pfund gemessen"]]
+  },
+  {
+    "lemma": "hundred",
+    "meanings_de": ["Zahl 100"],
+    "definitions_de": ["Kardinalzahl gleich zehn mal zehn oder 100"],
+    "examples_de": [["Der alte Baum war über **hundert** Jahre alt", "Sie zählte **hundert** Schafe, bevor sie friedlich einschlief"]]
+  },
+  {
+    "lemma": "key",
+    "meanings_de": ["Entriegelungsgerät", "wesentliches Element", "musikalischer Ton"],
+    "definitions_de": ["kleines Metallinstrument zum Öffnen von Schlössern an Türen", "etwas, das eine Lösung bietet oder ein Rätsel erklärt", "System musikalischer Noten basierend auf einer bestimmten Note"],
+    "examples_de": [["Sie verlor ihren Haus**schlüssel** und konnte die Wohnung nicht betreten", "Der Ersatz**schlüssel** war unter dem Blumentopf versteckt"], ["Bildung ist der **Schlüssel** zum Erfolg in der modernen Gesellschaft", "Das Finden des **Schlüssel**zeugen löste den gesamten Kriminalfall"], ["Das Lied wurde in der **Tonart** C-Dur geschrieben", "Sie transponierte die Melodie mühelos in eine andere **Tonart**"]]
+  }
+]

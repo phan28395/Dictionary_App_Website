@@ -1,0 +1,278 @@
+[
+  {
+    "lemma": "dwindling",
+    "meanings_de": ["allmählicher Rückgang"],
+    "definitions_de": ["kontinuierliche Verringerung von Größe, Menge oder Stärke über einen bestimmten Zeitraum"],
+    "examples_de": [["Die **schwindenden** Ressourcen zwangen das Unternehmen zur Verkleinerung", "Ihre **schwindenden** Ersparnisse bereiteten ihnen Sorgen für den Ruhestand"]]
+  },
+  {
+    "lemma": "dye",
+    "meanings_de": ["Farbstoff"],
+    "definitions_de": ["Substanz, die verwendet wird, um die Farbe von Stoffen, Haaren oder anderen Materialien zu verändern"],
+    "examples_de": [["Sie kaufte roten **Farbstoff**, um die Vorhänge einzufärben", "Die **Farbe** verblasste nach mehreren Waschgängen"]]
+  },
+  {
+    "lemma": "dyeing",
+    "meanings_de": ["Färbeprozess"],
+    "definitions_de": ["Verfahren zum Aufbringen von Farbe auf Stoffe, Garne oder andere Materialien"],
+    "examples_de": [["Der **Färbevorgang** dauerte mehrere Stunden", "Traditionelle **Färbemethoden** verwenden natürliche Pflanzenextrakte"]]
+  },
+  {
+    "lemma": "dyer",
+    "meanings_de": ["Färber"],
+    "definitions_de": ["Person, deren Beruf das Färben von Stoffen oder anderen Materialien ist"],
+    "examples_de": [["Der **Färber** mischte individuelle Farben für den Designer", "Mittelalterliche **Färber** hüteten ihre Rezepte sorgfältig"]]
+  },
+  {
+    "lemma": "dyke",
+    "meanings_de": ["Wasserbarriere", "geologische Formation"],
+    "definitions_de": ["Wall oder Damm, der gebaut wurde, um Überschwemmungen durch Wasser zu verhindern", "vertikale Gesteinsschicht, die sich in einem Riss gebildet hat"],
+    "examples_de": [["Der **Deich** schützte das Dorf vor Sturmfluten", "Ingenieure verstärkten den **Damm** vor der Hurrikansaison"], ["Geologen untersuchten den vulkanischen **Gang** in der Felswand", "Der **Gesteinsgang** enthielt andere Mineralien als das umgebende Gestein"]]
+  },
+  {
+    "lemma": "dynamism",
+    "meanings_de": ["energische Eigenschaft"],
+    "definitions_de": ["Eigenschaft, die durch kraftvolle Aktivität, Fortschritt und Energie gekennzeichnet ist"],
+    "examples_de": [["Die **Dynamik** des Teams trieb das Projekt zu einem frühen Abschluss", "Ihre **Tatkraft** inspirierte andere, härter zu arbeiten"]]
+  },
+  {
+    "lemma": "dynamite",
+    "meanings_de": ["Sprengstoff"],
+    "definitions_de": ["kraftvoller Sprengstoff aus Nitroglyzerin, das in einer porösen Substanz absorbiert ist"],
+    "examples_de": [["Bauarbeiter verwendeten **Dynamit**, um durch Felsen zu sprengen", "Die Bergleute handhabten das **Dynamit** mit äußerster Vorsicht"]]
+  },
+  {
+    "lemma": "dynamo",
+    "meanings_de": ["elektrischer Generator", "energiegeladene Person"],
+    "definitions_de": ["Maschine, die mechanische Energie in elektrische Energie umwandelt", "Person voller Energie und Enthusiasmus, die Dinge erledigt"],
+    "examples_de": [["Der Fahrrad-**Dynamo** versorgte den Scheinwerfer während der Fahrt mit Strom", "Frühe Kraftwerke verließen sich auf dampfbetriebene **Dynamomaschinen**"], ["Sie ist ein echtes **Energiebündel** in der Marketingabteilung", "Der neue Geschäftsführer war ein **Kraftpaket** der Innovation"]]
+  },
+  {
+    "lemma": "dynasty",
+    "meanings_de": ["Herrschernachfolge"],
+    "definitions_de": ["Abfolge von Herrschern aus derselben Familie oder mächtigen Gruppe"],
+    "examples_de": [["Die Ming-**Dynastie** herrschte fast drei Jahrhunderte über China", "Die Familie baute eine Unternehmens**dynastie** auf, die Generationen überdauerte"]]
+  },
+  {
+    "lemma": "dysfunction",
+    "meanings_de": ["abnormale Funktion"],
+    "definitions_de": ["Anomalie oder Beeinträchtigung im Betrieb eines Systems, Organs oder einer Beziehung"],
+    "examples_de": [["Die **Funktionsstörung** in ihrer Kommunikation führte zu Missverständnissen", "Ärzte diagnostizierten eine Nieren**dysfunktion**, die sofortige Behandlung erforderte"]]
+  },
+  {
+    "lemma": "dyslexia",
+    "meanings_de": ["Lesestörung"],
+    "definitions_de": ["Lernstörung, die durch Schwierigkeiten beim Lesen trotz normaler Intelligenz gekennzeichnet ist"],
+    "examples_de": [["Schüler mit **Legasthenie** profitieren oft von speziellen Lehrmethoden", "Die frühe Diagnose von **Dyslexie** hilft Kindern, Bewältigungsstrategien zu entwickeln"]]
+  },
+  {
+    "lemma": "dyslexic",
+    "meanings_de": ["Person mit Legasthenie"],
+    "definitions_de": ["Person, die eine Lernstörung hat, welche die Lesefähigkeit beeinträchtigt"],
+    "examples_de": [["Der **legasthenische** Schüler nutzte Hörbücher zum Lernen", "Viele erfolgreiche Unternehmer sind **Legastheniker**, aber sehr kreativ"]]
+  },
+  {
+    "lemma": "dystopia",
+    "meanings_de": ["imaginäre schlechte Gesellschaft"],
+    "definitions_de": ["eingebildeter Ort oder Zustand, in dem alles unangenehm oder schlecht ist"],
+    "examples_de": [["Der Roman schilderte eine **Dystopie**, die von Überwachungstechnologie beherrscht wurde", "Viele Science-Fiction-Filme erforschen **dystopische** Themen"]]
+  },
+  {
+    "lemma": "earache",
+    "meanings_de": ["Ohrenschmerzen"],
+    "definitions_de": ["Schmerzen im Inneren des Ohrs, oft verursacht durch Infektion oder Druck"],
+    "examples_de": [["Die **Ohrenschmerzen** des Kindes hielten ihn die ganze Nacht wach", "Das Schwimmen in kaltem Wasser verursachte ihre **Ohrenschmerzen**"]]
+  },
+  {
+    "lemma": "eardrum",
+    "meanings_de": ["Trommelfell"],
+    "definitions_de": ["dünne Membran, die das äußere Ohr vom Mittelohr trennt"],
+    "examples_de": [["Die laute Explosion beschädigte sein **Trommelfell** vorübergehend", "Ärzte untersuchten ihr **Trommelfell** auf Anzeichen einer Infektion"]]
+  },
+  {
+    "lemma": "earl",
+    "meanings_de": ["Adelstitel"],
+    "definitions_de": ["britischer Adliger, der über dem Viscount und unter dem Marquess rangiert"],
+    "examples_de": [["Der **Graf** erbte riesige Ländereien in Nordengland", "Sie heiratete einen **Earl** und wurde zur Gräfin"]]
+  },
+  {
+    "lemma": "earldom",
+    "meanings_de": ["Grafengebiet"],
+    "definitions_de": ["Rang und Würde eines Earls oder Territorium unter der Kontrolle eines Earls"],
+    "examples_de": [["Die **Grafschaft** ging nach seinem Tod an seinen ältesten Sohn über", "Historische Aufzeichnungen dokumentierten die alten **Grafschaftsgrenzen**"]]
+  },
+  {
+    "lemma": "earner",
+    "meanings_de": ["Einkommensbezieher"],
+    "definitions_de": ["Person, die durch Arbeit Geld erhält, oder Sache, die Gewinn generiert"],
+    "examples_de": [["Sie war die Haupt**verdienerin** in ihrem Haushalt", "Dieses Produkt wurde letztes Jahr ihr größter **Umsatzbringer**"]]
+  },
+  {
+    "lemma": "earnest",
+    "meanings_de": ["ernsthafte Entschlossenheit"],
+    "definitions_de": ["aufrichtige und intensive Überzeugung oder Ernsthaftigkeit der Absicht zeigend"],
+    "examples_de": [["Sie begannen **ernsthaft** mit der Hochzeitsplanung", "Sein **eindringlicher** Appell überzeugte das Komitee zur Neubewertung"]]
+  },
+  {
+    "lemma": "earring",
+    "meanings_de": ["Ohrschmuck"],
+    "definitions_de": ["Schmuckstück, das am Ohr getragen wird, typischerweise hängend vom durchstochenen Ohrläppchen"],
+    "examples_de": [["Sie verlor einen **Ohrring** beim Konzert gestern Abend", "Die Diamant**ohrringe** waren ein Abschlussgeschenk"]]
+  },
+  {
+    "lemma": "earshot",
+    "meanings_de": ["Hörweite"],
+    "definitions_de": ["Reichweite, innerhalb derer man hören kann, was gesagt wird"],
+    "examples_de": [["Sie warteten, bis er außer **Hörweite** war, bevor sie diskutierten", "Bleib in **Hörweite**, falls ich dich brauche"]]
+  },
+  {
+    "lemma": "earthenware",
+    "meanings_de": ["Töpferware"],
+    "definitions_de": ["Keramik aus Ton, die bei relativ niedriger Temperatur gebrannt wird"],
+    "examples_de": [["Das **Steingutgeschirr** verlieh dem Abendessen rustikalen Charme", "Alte Zivilisationen stellten wunderschöne **Tongefäße** her"]]
+  },
+  {
+    "lemma": "earthwork",
+    "meanings_de": ["Erdkonstruktion"],
+    "definitions_de": ["Damm, Befestigung oder andere aus Erde hergestellte Konstruktion"],
+    "examples_de": [["Archäologen entdeckten prähistorische **Erdwallanlagen**", "Der **Erdwall** schützte die Siedlung vor Überschwemmungen"]]
+  },
+  {
+    "lemma": "earthworm",
+    "meanings_de": ["Regenwurm"],
+    "definitions_de": ["gewöhnlicher Wurm, der im Boden lebt und beim Zersetzen organischer Materie hilft"],
+    "examples_de": [["**Regenwürmer** verbessern die Bodenqualität durch ihre Tunnel", "Der Garten war nach dem Regen voller **Regenwürmer**"]]
+  },
+  {
+    "lemma": "easel",
+    "meanings_de": ["Staffelei"],
+    "definitions_de": ["hölzerner Rahmen zum Halten der Leinwand oder Tafel eines Künstlers beim Malen"],
+    "examples_de": [["Sie stellte die **Staffelei** ein, um besseres Licht zu bekommen", "Das Kunstatelier stellte **Staffeleien** für jeden Schüler bereit"]]
+  },
+  {
+    "lemma": "easement",
+    "meanings_de": ["Grunddienstbarkeit"],
+    "definitions_de": ["gesetzliches Recht, das Land einer anderen Person für einen bestimmten begrenzten Zweck zu nutzen"],
+    "examples_de": [["Das Versorgungsunternehmen hat eine **Dienstbarkeit** für den Zugang zu Stromleitungen", "Sie gewährten ein **Wegerecht** für die Nachbareinfahrt"]]
+  },
+  {
+    "lemma": "easing",
+    "meanings_de": ["Lockerungsprozess"],
+    "definitions_de": ["Prozess, etwas weniger schwerwiegend, schwierig oder intensiv zu machen"],
+    "examples_de": [["Die **Lockerung** der Beschränkungen ermöglichte Geschäften die Wiedereröffnung", "Wirtschaftliche **Erleichterungsmaßnahmen** halfen, das Wachstum anzukurbeln"]]
+  },
+  {
+    "lemma": "easter",
+    "meanings_de": ["christlicher Feiertag"],
+    "definitions_de": ["christliches Fest, das die Auferstehung Jesu Christi feiert"],
+    "examples_de": [["Die Familie versammelte sich jedes Jahr zum **Osteressen**", "Kinder suchten im Garten nach **Ostereiern**"]]
+  },
+  {
+    "lemma": "eater",
+    "meanings_de": ["Esser"],
+    "definitions_de": ["Person, die Nahrung auf eine bestimmte Art oder in einer bestimmten Menge konsumiert"],
+    "examples_de": [["Er ist ein wählerischer **Esser**, der Gemüse meidet", "Das Restaurant bedient gesundheitsbewusste **Esser**"]]
+  },
+  {
+    "lemma": "eatery",
+    "meanings_de": ["informelles Restaurant"],
+    "definitions_de": ["informelles Wort für ein Restaurant oder einen Ort, wo Mahlzeiten serviert werden"],
+    "examples_de": [["Das neue **Lokal** in der Innenstadt serviert ausgezeichnetes thailändisches Essen", "Wir fanden ein gemütliches **Restaurant** am Strand"]]
+  },
+  {
+    "lemma": "ebb",
+    "meanings_de": ["Gezeitenrückgang"],
+    "definitions_de": ["Bewegung der Gezeiten hinaus aufs Meer oder allmählicher Rückgang"],
+    "examples_de": [["Fischer warteten auf die **Ebbe**, um Muscheln zu sammeln", "Der Enthusiasmus des Teams begann nach Rückschlägen zu **schwinden**"]]
+  },
+  {
+    "lemma": "ebony",
+    "meanings_de": ["dunkles Hartholz"],
+    "definitions_de": ["schweres, schwärzliches Holz von einem tropischen Baum, geschätzt für Möbel"],
+    "examples_de": [["Die Klaviertasten waren aus **Ebenholz** und Elfenbein gefertigt", "**Ebenholzmöbel** erzielen hohe Preise bei Auktionen"]]
+  },
+  {
+    "lemma": "eccentric",
+    "meanings_de": ["unkonventionelle Person"],
+    "definitions_de": ["Person, die sich im Vergleich zu gesellschaftlichen Normen unkonventionell oder seltsam verhält"],
+    "examples_de": [["Der **exzentrische** Millionär sammelte obsessiv alte Schreibmaschinen", "Jede Nachbarschaft hat ihren liebenswerten **Sonderling**"]]
+  },
+  {
+    "lemma": "eccentricity",
+    "meanings_de": ["unkonventionelles Verhalten"],
+    "definitions_de": ["Eigenschaft, unkonventionell und etwas seltsam in Verhalten oder Erscheinung zu sein"],
+    "examples_de": [["Seine **Exzentrizität** machte ihn auf Partys unvergesslich", "Die **Eigenart** der Künstlerin spiegelte sich in ihrer Arbeit wider"]]
+  },
+  {
+    "lemma": "ecclesiastic",
+    "meanings_de": ["Kirchenbeamter"],
+    "definitions_de": ["Priester oder Mitglied des Klerus, besonders in christlichen Kirchen"],
+    "examples_de": [["Der **Geistliche** hielt eine kraftvolle Predigt über Vergebung", "Mittelalterliche **Kirchenmänner** übten beträchtliche politische Macht aus"]]
+  },
+  {
+    "lemma": "echelon",
+    "meanings_de": ["hierarchische Ebene"],
+    "definitions_de": ["Ebene oder Rang in einer Organisation, einem Beruf oder der Gesellschaft"],
+    "examples_de": [["Sie erreichte die obere **Führungsebene** des Unternehmensmanagements", "Militärische Befehle wurden durch verschiedene **Hierarchieebenen** weitergegeben"]]
+  },
+  {
+    "lemma": "echolocation",
+    "meanings_de": ["Schallnavigation"],
+    "definitions_de": ["biologisches Sonar, das von Tieren zur Navigation und Jagd mittels Schallwellen verwendet wird"],
+    "examples_de": [["Fledermäuse nutzen **Echoortung**, um Insekten in der Dunkelheit zu jagen", "Delfine verwenden **Echolokation**, um Fische unter Wasser zu finden"]]
+  },
+  {
+    "lemma": "eclair",
+    "meanings_de": ["Brandteiggebäck"],
+    "definitions_de": ["längliches Gebäck, gefüllt mit Sahne und überzogen mit Schokoladenglasur"],
+    "examples_de": [["Die Schokoladen-**Eclairs** der Bäckerei waren jeden Morgen ausverkauft", "Sie bestellte Kaffee und ein **Eclair** zum Nachtisch"]]
+  },
+  {
+    "lemma": "eclecticism",
+    "meanings_de": ["vielfältiger Auswahlansatz"],
+    "definitions_de": ["Praxis, Ideen, Stile oder Geschmäcker aus verschiedenen unterschiedlichen Quellen auszuwählen"],
+    "examples_de": [["Der **Eklektizismus** des Designers kombinierte Vintage- und moderne Elemente", "Musikalischer **Stilmix** kennzeichnete das vielfältige Festivalprogramm"]]
+  },
+  {
+    "lemma": "eclipse",
+    "meanings_de": ["Himmelsverfinsterung"],
+    "definitions_de": ["Ereignis, bei dem ein Himmelskörper das Licht eines anderen blockiert"],
+    "examples_de": [["Die **Sonnenfinsternis** zog Tausende von Zuschauern an", "Eine **Mondfinsternis** tritt auf, wenn die Erde das Sonnenlicht blockiert"]]
+  },
+  {
+    "lemma": "ecologist",
+    "meanings_de": ["Umweltwissenschaftler"],
+    "definitions_de": ["Wissenschaftler, der die Beziehungen zwischen Organismen und ihrer Umwelt untersucht"],
+    "examples_de": [["Der **Ökologe** warnte vor den Auswirkungen der Lebensraumzerstörung", "Meeres**ökologen** überwachen die Gesundheit von Korallenriffen"]]
+  },
+  {
+    "lemma": "ecology",
+    "meanings_de": ["Umweltwissenschaft"],
+    "definitions_de": ["Zweig der Biologie, der die Beziehungen zwischen Organismen und ihrer Umwelt untersucht"],
+    "examples_de": [["Studenten studierten **Ökologie**, um beim Umweltschutz zu helfen", "Die Stadt**ökologie** untersucht Wildtiere in städtischen Umgebungen"]]
+  },
+  {
+    "lemma": "ecotourism",
+    "meanings_de": ["Umwelttourismus"],
+    "definitions_de": ["auf natürliche Umgebungen ausgerichteter Tourismus, der den Naturschutz unterstützen soll"],
+    "examples_de": [["**Ökotourismus** hilft, den Wildtierschutz in Regenwäldern zu finanzieren", "Das Land förderte **Ökotourismus**, um Naturgebiete zu erhalten"]]
+  },
+  {
+    "lemma": "ecstasy",
+    "meanings_de": ["intensive Freude", "illegale Droge"],
+    "definitions_de": ["überwältigendes Gefühl großen Glücks oder freudiger Aufregung", "synthetische Droge, die illegal als Stimulans verwendet wird"],
+    "examples_de": [["Sie empfand **Ekstase**, als ihr erster Roman veröffentlicht wurde", "Die Menge brach nach dem Siegtor in **Begeisterung** aus"], ["Die Polizei beschlagnahmte **Ecstasy**-Tabletten bei der Razzia im Nachtclub", "Die Gefahren von **Ecstasy** umfassen Dehydrierung und Überhitzung"]]
+  },
+  {
+    "lemma": "ecumenism",
+    "meanings_de": ["christliche Einheitsbewegung"],
+    "definitions_de": ["Bewegung zur Förderung der Einheit zwischen verschiedenen christlichen Kirchen und Konfessionen weltweit"],
+    "examples_de": [["Die **Ökumene** fördert den Dialog zwischen katholischen und protestantischen Kirchen", "Die Konferenz förderte die **Ökumene** durch gemeinsame Gottesdienste"]]
+  },
+  {
+    "lemma": "eczema",
+    "meanings_de": ["Hautkrankheit"],
+    "definitions_de": ["medizinischer Zustand, der dazu führt, dass Hautstellen rau und entzündet werden"],
+    "examples_de": [["Der Hautarzt verschrieb eine Creme für ihr **Ekzem**", "Stress löst oft **Ekzemschübe** bei Patienten aus"]]
+  }
+]

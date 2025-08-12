@@ -1,0 +1,278 @@
+[
+  {
+    "lemma": "espana",
+    "meanings_de": ["Landesname Spanisch"],
+    "definitions_de": ["Spanischer Name für Spanien, ein Land im Südwesten Europas auf der Iberischen Halbinsel"],
+    "examples_de": [["**España** ist bekannt für seine vielfältige Kultur und beeindruckende Architektur", "Die Nationalmannschaft wird **España** bei der Weltmeisterschaft vertreten"]]
+  },
+  {
+    "lemma": "esperanto",
+    "meanings_de": ["konstruierte internationale Sprache"],
+    "definitions_de": ["Künstliche Sprache, die 1887 entwickelt wurde, um als leicht erlernbare neutrale Zweitsprache für die internationale Kommunikation zu dienen"],
+    "examples_de": [["Sie lernte **Esperanto**, um sich mit Menschen aus aller Welt zu verständigen", "Der Kongress bot Übersetzungsdienste in **Esperanto** an"]]
+  },
+  {
+    "lemma": "esq",
+    "meanings_de": ["Höflichkeitstitel Abkürzung"],
+    "definitions_de": ["Abkürzung von Esquire, ein Höflichkeitstitel, der nach dem Namen einer Person verwendet wird"],
+    "examples_de": [["Der Brief war an Herrn Johann Schmidt, **Esq.** adressiert", "Bitte leiten Sie dieses Dokument an Frau Maria Müller, **Esq.** weiter"]]
+  },
+  {
+    "lemma": "esquire",
+    "meanings_de": ["Höflichkeitstitel Rang"],
+    "definitions_de": ["Respektstitel, der nach dem Namen einer Person steht, traditionell für Anwälte oder Landadel verwendet"],
+    "examples_de": [["Der Rechtsanwalt unterzeichnete als Robert Meier, **Esquire**", "Im Mittelalter diente ein **Esquire** als Knappe eines Ritters"]]
+  },
+  {
+    "lemma": "esther",
+    "meanings_de": ["biblischer Frauenname"],
+    "definitions_de": ["Hebräischer Frauenname, auch bezogen auf eine biblische Königin, die das jüdische Volk rettete"],
+    "examples_de": [["**Esther** wurde für die Hauptrolle im Schultheaterstück ausgewählt", "Das Buch **Esther** erzählt ihre mutige Geschichte"]]
+  },
+  {
+    "lemma": "estonia",
+    "meanings_de": ["baltisches Land Nation"],
+    "definitions_de": ["Land in Nordeuropa an der Ostküste der Ostsee, nördlichster der drei baltischen Staaten"],
+    "examples_de": [["**Estland** trat 2004 der Europäischen Union bei", "Tallinn ist die Hauptstadt von **Estland**"]]
+  },
+  {
+    "lemma": "estonian",
+    "meanings_de": ["Person aus Estland", "estnische Sprache Varietät"],
+    "definitions_de": ["Person, die aus Estland stammt oder die estnische Staatsbürgerschaft besitzt", "Finno-ugrische Sprache, die als Amtssprache Estlands gesprochen wird"],
+    "examples_de": [["Der **estnische** Athlet gewann drei Goldmedaillen", "Mein **estnischer** Kollege half mir, mich in Tallinn zurechtzufinden"], ["**Estnisch** gehört zur selben Sprachfamilie wie Finnisch", "Sie lernt **Estnisch** für ihre bevorstehende Geschäftsreise"]]
+  },
+  {
+    "lemma": "ethiopia",
+    "meanings_de": ["afrikanisches Land Nation"],
+    "definitions_de": ["Binnenland am Horn von Afrika, eine der ältesten Nationen der Welt mit reicher Geschichte"],
+    "examples_de": [["**Äthiopien** gilt als die Wiege des Kaffees", "Das alte Königreich **Äthiopien** besitzt ein reiches kulturelles Erbe"]]
+  },
+  {
+    "lemma": "ethiopian",
+    "meanings_de": ["Person aus Äthiopien", "äthiopische Eigenschaft Merkmal"],
+    "definitions_de": ["Person, die aus Äthiopien stammt oder die äthiopische Staatsbürgerschaft besitzt", "bezogen auf Äthiopien, seine Menschen, Kultur oder Sprachen"],
+    "examples_de": [["Der **äthiopische** Läufer brach den Marathon-Weltrekord", "Mein **äthiopischer** Freund führte mich in die Injera-Küche ein"], ["Die **äthiopische** Küche zeichnet sich durch einzigartige Gewürze aus", "Das Museum zeigte alte **äthiopische** Manuskripte"]]
+  },
+  {
+    "lemma": "etna",
+    "meanings_de": ["Vulkanberg Sizilien"],
+    "definitions_de": ["Aktiver Stratovulkan an der Ostküste Siziliens, Italien, der höchste aktive Vulkan Europas"],
+    "examples_de": [["Der **Ätna** brach letzten Monat wieder aus und erzeugte spektakuläre Lavaströme", "Touristen können geführte Touren zu den Vulkankratern des **Ätna** unternehmen"]]
+  },
+  {
+    "lemma": "eucharist",
+    "meanings_de": ["christliches Sakrament Kommunion"],
+    "definitions_de": ["Christliche Zeremonie zum Gedenken an das Letzte Abendmahl durch die Segnung von Brot und Wein"],
+    "examples_de": [["Die Gemeinde empfing die **Eucharistie** während des Sonntagsgottesdienstes", "Der Priester bereitete die Elemente für die **Eucharistie** vor"]]
+  },
+  {
+    "lemma": "euclid",
+    "meanings_de": ["antiker griechischer Mathematiker"],
+    "definitions_de": ["Antiker griechischer Mathematiker, bekannt als Vater der Geometrie, der die Elemente verfasste"],
+    "examples_de": [["**Euklids** geometrische Prinzipien werden noch heute in Schulen gelehrt", "Der Mathematiker studierte **Euklids** Beweise eingehend"]]
+  },
+  {
+    "lemma": "euler",
+    "meanings_de": ["Schweizer Mathematiker Wissenschaftler"],
+    "definitions_de": ["Schweizer Mathematiker und Physiker des 18. Jahrhunderts, der grundlegende Entdeckungen in Analysis und Graphentheorie machte"],
+    "examples_de": [["Die **Eulersche** Formel verbindet elegant Exponential- und trigonometrische Funktionen", "Studenten lernten **Eulers** Beiträge zur Zahlentheorie kennen"]]
+  },
+  {
+    "lemma": "eurasia",
+    "meanings_de": ["kombinierte kontinentale Landmasse"],
+    "definitions_de": ["Größtes zusammenhängendes Landgebiet der Erde, das die Kontinente Europa und Asien umfasst"],
+    "examples_de": [["**Eurasien** erstreckt sich von Portugal bis zum Pazifischen Ozean", "Viele alte Handelsrouten durchquerten die weiten Gebiete **Eurasiens**"]]
+  },
+  {
+    "lemma": "eurasian",
+    "meanings_de": ["Person gemischter Herkunft", "bezogen auf Eurasien"],
+    "definitions_de": ["Person mit europäischer und asiatischer Abstammung", "bezogen auf oder charakteristisch für den kombinierten Kontinent Europa und Asien"],
+    "examples_de": [["Die **eurasische** Gemeinschaft pflegt sowohl östliche als auch westliche Traditionen", "Ihr **eurasisches** Erbe gab ihr eine einzigartige kulturelle Perspektive"], ["Die **eurasische** Steppe bot nomadischen Völkern über Jahrtausende Lebensraum", "Wissenschaftler untersuchen **eurasische** Vogelzugmuster"]]
+  },
+  {
+    "lemma": "eureka",
+    "meanings_de": ["Ausruf der Entdeckung"],
+    "definitions_de": ["Ausruf, der verwendet wird, um Triumph über eine Entdeckung oder das Finden einer Lösung auszudrücken"],
+    "examples_de": [["**Heureka**! Ich habe endlich die komplexe Gleichung gelöst", "Der Wissenschaftler rief **Heureka**, als das Experiment gelang"]]
+  },
+  {
+    "lemma": "europa",
+    "meanings_de": ["Jupitermond Satellit"],
+    "definitions_de": ["Viertgrößter Mond des Jupiter, bedeckt mit Eis und möglicherweise mit einem unterirdischen Ozean"],
+    "examples_de": [["Wissenschaftler glauben, dass **Europa** Bedingungen für Leben bieten könnte", "Die Raumsonde wird **Europas** eisige Oberfläche untersuchen"]]
+  },
+  {
+    "lemma": "europe",
+    "meanings_de": ["kontinentale Region Landmasse"],
+    "definitions_de": ["Kontinent auf der Nordhalbkugel, begrenzt von Arktis, Atlantik und Mittelmeer"],
+    "examples_de": [["**Europa** beheimatet Dutzende verschiedener Sprachen und Kulturen", "Sie planten, drei Monate mit dem Rucksack durch **Europa** zu reisen"]]
+  },
+  {
+    "lemma": "evangelist",
+    "meanings_de": ["christlicher Prediger Missionar", "leidenschaftlicher Verfechter Förderer"],
+    "definitions_de": ["Christlicher Prediger, der andere durch öffentliche Predigten zum Christentum bekehren möchte", "Person, die enthusiastisch eine bestimmte Sache oder Überzeugung vertritt oder fördert"],
+    "examples_de": [["Der **Evangelist** reiste von Stadt zu Stadt und verbreitete das Evangelium", "Billy Graham war einer der berühmtesten **Evangelisten** des 20. Jahrhunderts"], ["Sie wurde zur **Evangelistin** für nachhaltige Lebensweisen", "Der Tech-**Evangelist** warb für die Vorteile künstlicher Intelligenz"]]
+  },
+  {
+    "lemma": "eve",
+    "meanings_de": ["Tag vor Ereignis", "biblische erste Frau"],
+    "definitions_de": ["Abend oder Tag vor einem Feiertag oder besonderen Ereignis", "laut Bibel die erste von Gott erschaffene Frau"],
+    "examples_de": [["Die Kinder konnten am **Heiligabend** kaum schlafen", "Wir veranstalten eine Party an **Silvester**"], ["**Eva** wurde laut Genesis aus Adams Rippe erschaffen", "Das Gemälde zeigte **Eva** im Garten Eden"]]
+  },
+  {
+    "lemma": "everest",
+    "meanings_de": ["höchster Berggipfel"],
+    "definitions_de": ["Höchster Berg der Erde über dem Meeresspiegel, gelegen im Himalaya zwischen Nepal und Tibet"],
+    "examples_de": [["Die Besteigung des **Mount Everest** bleibt selbst für erfahrene Bergsteiger eine gefährliche Herausforderung", "Der Gipfel des **Everest** erreicht 8.849 Meter über dem Meeresspiegel"]]
+  },
+  {
+    "lemma": "ewe",
+    "meanings_de": ["weibliches Schaf Tier", "afrikanische Sprachgruppe"],
+    "definitions_de": ["Erwachsenes weibliches Schaf, typischerweise für Zucht und Wollproduktion gehalten", "Sprache, die vom Ewe-Volk in Ghana, Togo und Benin gesprochen wird"],
+    "examples_de": [["Das **Mutterschaf** beschützte seine Lämmer vor dem herannahenden Sturm", "Der Bauer trennte die **Mutterschafe** von den Widdern"], ["Sie lernte **Ewe**, um besser mit den lokalen Gemeinschaften zu kommunizieren", "**Ewe** ist eine der wichtigsten einheimischen Sprachen Ghanas"]]
+  },
+  {
+    "lemma": "excalibur",
+    "meanings_de": ["legendäres Schwert Waffe"],
+    "definitions_de": ["Mythisches Schwert von König Artus in der Artussage, Symbol göttlichen Königtums"],
+    "examples_de": [["Der Legende nach wurde **Excalibur** Artus von der Dame vom See übergeben", "Die Ritter beobachteten, wie Artus **Excalibur** aus dem Stein zog"]]
+  },
+  {
+    "lemma": "excellency",
+    "meanings_de": ["formeller Titel Anrede"],
+    "definitions_de": ["Formeller Respektstitel für hochrangige Beamte wie Botschafter oder Gouverneure"],
+    "examples_de": [["Seine **Exzellenz** der Botschafter wird am Staatsbankett teilnehmen", "Bitte informieren Sie Ihre **Exzellenz**, dass die Besprechung verschoben wurde"]]
+  },
+  {
+    "lemma": "explorer",
+    "meanings_de": ["Person die entdeckt", "Internet-Browser Software"],
+    "definitions_de": ["Person, die zu unbekannten Orten reist, um neue Informationen oder Gebiete zu entdecken", "Webbrowser-Software von Microsoft für den Internetzugang entwickelt"],
+    "examples_de": [["Der **Entdecker** dokumentierte bisher unbekannte Arten im Regenwald", "Berühmte **Entdecker** wie Kolumbus veränderten den Lauf der Geschichte"], ["Internet **Explorer** war einst der dominierende Webbrowser", "Sie wechselte vom **Explorer** zu einem moderneren Browser"]]
+  },
+  {
+    "lemma": "ezekiel",
+    "meanings_de": ["biblischer Prophet Name"],
+    "definitions_de": ["Hebräischer Prophet des 6. Jahrhunderts v. Chr. und Buch der hebräischen Bibel"],
+    "examples_de": [["**Hesekiels** Visionen gehören zu den eindrucksvollsten der biblischen Literatur", "Das Buch **Hesekiel** enthält Prophezeiungen über Israels Wiederherstellung"]]
+  },
+  {
+    "lemma": "ezra",
+    "meanings_de": ["biblischer Schriftgelehrter Name"],
+    "definitions_de": ["Hebräischer Schriftgelehrter und Priester, der die Rückkehr der jüdischen Exilanten aus Babylon anführte"],
+    "examples_de": [["**Esra** half beim Wiederaufbau des Tempels in Jerusalem", "Das Buch **Esra** beschreibt die Wiederherstellung der jüdischen Gemeinde"]]
+  },
+  {
+    "lemma": "faa",
+    "meanings_de": ["Luftfahrt-Regulierungsbehörde"],
+    "definitions_de": ["Federal Aviation Administration, die US-Regierungsbehörde, die die Zivilluftfahrt reguliert"],
+    "examples_de": [["Die **FAA** genehmigte das neue Flugzeugdesign für den kommerziellen Einsatz", "Piloten müssen die **FAA**-Vorschriften für die Flugsicherheit befolgen"]]
+  },
+  {
+    "lemma": "faq",
+    "meanings_de": ["häufige Fragen Liste"],
+    "definitions_de": ["Häufig gestellte Fragen, eine Liste gängiger Fragen und Antworten zu einem Thema"],
+    "examples_de": [["Schauen Sie in den **FAQ**-Bereich, bevor Sie den Kundendienst kontaktieren", "Die **FAQ**-Seite der Website beantwortete die meisten meiner Fragen"]]
+  },
+  {
+    "lemma": "fbi",
+    "meanings_de": ["Bundesermittlungsbehörde"],
+    "definitions_de": ["Federal Bureau of Investigation, der inländische Nachrichten- und Sicherheitsdienst der Vereinigten Staaten"],
+    "examples_de": [["Das **FBI** ermittelte gegen den bundesstaatenübergreifenden Verbrecherring", "Sie träumte davon, **FBI**-Spezialagentin zu werden"]]
+  },
+  {
+    "lemma": "fcc",
+    "meanings_de": ["Kommunikations-Regulierungsbehörde"],
+    "definitions_de": ["Federal Communications Commission, unabhängige Behörde zur Regulierung zwischenstaatlicher und internationaler Kommunikation"],
+    "examples_de": [["Die **FCC** genehmigte die Fusion der beiden Medienunternehmen", "Radiosender müssen die **FCC**-Sendestandards einhalten"]]
+  },
+  {
+    "lemma": "fda",
+    "meanings_de": ["Lebensmittel-Arzneimittel-Behörde"],
+    "definitions_de": ["Food and Drug Administration, Bundesbehörde zum Schutz der öffentlichen Gesundheit durch Regulierung"],
+    "examples_de": [["Die **FDA** genehmigte das neue Medikament nach umfangreichen Tests", "Lebensmittelhersteller müssen die **FDA**-Sicherheitsstandards erfüllen"]]
+  },
+  {
+    "lemma": "fdic",
+    "meanings_de": ["Bankversicherungsgesellschaft"],
+    "definitions_de": ["Federal Deposit Insurance Corporation, Behörde zur Versicherung von Einlagen bei Banken und Sparkassen"],
+    "examples_de": [["Die **FDIC** schützt Einleger, falls ihre Bank ausfällt", "Achten Sie auf das **FDIC**-Logo, um sicherzustellen, dass Ihre Einlagen versichert sind"]]
+  },
+  {
+    "lemma": "fdr",
+    "meanings_de": ["Präsidenten-Initialen Roosevelt"],
+    "definitions_de": ["Franklin Delano Roosevelt, 32. Präsident der Vereinigten Staaten, der während der Weltwirtschaftskrise regierte"],
+    "examples_de": [["**FDR** führte den New Deal zur Bekämpfung der Weltwirtschaftskrise ein", "Das **FDR**-Denkmal in Washington ehrt sein Vermächtnis"]]
+  },
+  {
+    "lemma": "fema",
+    "meanings_de": ["Notfallmanagement-Behörde"],
+    "definitions_de": ["Federal Emergency Management Agency, Behörde zur Koordinierung der Katastrophenhilfe in den Vereinigten Staaten"],
+    "examples_de": [["**FEMA** leistete Hilfe für die Hurrikan-Opfer", "Der Gouverneur forderte **FEMA**-Unterstützung für die überschwemmten Gebiete an"]]
+  },
+  {
+    "lemma": "fha",
+    "meanings_de": ["Wohnungsverwaltungsbehörde"],
+    "definitions_de": ["Federal Housing Administration, Regierungsbehörde zur Bereitstellung von Hypothekenversicherungen für Wohnungsbaudarlehen"],
+    "examples_de": [["Erstkäufer nutzen oft **FHA**-Darlehen mit niedrigeren Anzahlungen", "Die **FHA** half Millionen von Amerikanern beim Erwerb von Wohneigentum"]]
+  },
+  {
+    "lemma": "fifo",
+    "meanings_de": ["Bestandsbuchhaltungsmethode"],
+    "definitions_de": ["First In First Out, Buchhaltungsmethode, bei der zuerst produzierte oder erworbene Vermögenswerte zuerst verkauft werden"],
+    "examples_de": [["Das Lager verwendet **FIFO** zur Verwaltung der Warenrotation", "Die **FIFO**-Buchhaltung kann sich auf die ausgewiesenen Gewinne eines Unternehmens auswirken"]]
+  },
+  {
+    "lemma": "fig",
+    "meanings_de": ["süße Frucht Baum", "Abbildung Abkürzung"],
+    "definitions_de": ["Weiche süße Frucht mit vielen kleinen Samen und lila oder grüner Schale", "Abkürzung für Abbildung, bezieht sich auf ein Diagramm oder eine Illustration im Text"],
+    "examples_de": [["Frische **Feigen** schmecken köstlich mit Käse und Honig", "Der **Feigenbaum** in ihrem Garten trägt zweimal jährlich Früchte"], ["Siehe **Abb.** 3 für die Versuchsergebnisse", "Das Diagramm in **Abb.** 2 zeigt das Schaltungsdesign"]]
+  },
+  {
+    "lemma": "ftc",
+    "meanings_de": ["Handels-Regulierungskommission"],
+    "definitions_de": ["Federal Trade Commission, Behörde zum Schutz der Verbraucher und zur Förderung des Wettbewerbs auf dem Markt"],
+    "examples_de": [["Die **FTC** untersuchte das Unternehmen wegen irreführender Werbepraktiken", "Verbraucherbeschwerden können online bei der **FTC** eingereicht werden"]]
+  },
+  {
+    "lemma": "ftp",
+    "meanings_de": ["Dateiübertragungsprotokoll"],
+    "definitions_de": ["File Transfer Protocol, Standard-Netzwerkprotokoll zur Übertragung von Dateien zwischen Computern"],
+    "examples_de": [["Verwenden Sie **FTP**, um die Website-Dateien auf den Server hochzuladen", "Die IT-Abteilung richtete einen **FTP**-Server für den Dateiaustausch ein"]]
+  },
+  {
+    "lemma": "fahrenheit",
+    "meanings_de": ["Temperatur-Messskala"],
+    "definitions_de": ["Temperaturskala, bei der Wasser bei 32 Grad gefriert und bei 212 Grad kocht"],
+    "examples_de": [["Die Wettervorhersage zeigte Temperaturen von bis zu 95 Grad **Fahrenheit**", "Rechnen Sie **Fahrenheit** in Celsius um, indem Sie 32 abziehen und mit 5/9 multiplizieren"]]
+  },
+  {
+    "lemma": "falstaff",
+    "meanings_de": ["Shakespeare-Figur Charakter"],
+    "definitions_de": ["Komische Figur in Shakespeares Stücken, ein dicker, eitler und prahlerischer Ritter"],
+    "examples_de": [["**Falstaff** erscheint in mehreren von Shakespeares Historiendramen", "Die Darstellung des **Falstaff** durch den Schauspieler erhielt viel Kritikerlob"]]
+  },
+  {
+    "lemma": "fang",
+    "meanings_de": ["scharfer Zahn Reißzahn"],
+    "definitions_de": ["Langer, scharfer, spitzer Zahn, besonders von fleischfressenden Tieren oder giftigen Schlangen"],
+    "examples_de": [["Die **Fangzähne** des Vampirs glänzten im Mondlicht", "Die Schlange injizierte Gift durch ihre hohlen **Giftzähne**"]]
+  },
+  {
+    "lemma": "faraday",
+    "meanings_de": ["Wissenschaftler Elektrizitätspionier"],
+    "definitions_de": ["Michael Faraday, englischer Wissenschaftler des 19. Jahrhunderts, der zur Elektromagnetik und Elektrochemie beitrug"],
+    "examples_de": [["**Faraday** entdeckte die Prinzipien der elektromagnetischen Induktion", "Der **Faradaysche** Käfig blockiert elektromagnetische Felder"]]
+  },
+  {
+    "lemma": "farsi",
+    "meanings_de": ["persische Sprache Varietät"],
+    "definitions_de": ["Moderne persische Sprache, die hauptsächlich im Iran, Afghanistan und Tadschikistan gesprochen wird"],
+    "examples_de": [["Sie lernte **Farsi**, um persische Dichtung besser zu verstehen", "**Farsi** verwendet eine modifizierte arabische Schrift zum Schreiben"]]
+  },
+  {
+    "lemma": "fatherhood",
+    "meanings_de": ["Zustand des Vaterseins"],
+    "definitions_de": ["Zustand oder Bedingung des Vaterseins einschließlich der Verantwortungen und Erfahrungen"],
+    "examples_de": [["Die **Vaterschaft** veränderte seine Lebensperspektive vollständig", "Das Buch erforscht die Freuden und Herausforderungen der **Vaterschaft**"]]
+  }
+]

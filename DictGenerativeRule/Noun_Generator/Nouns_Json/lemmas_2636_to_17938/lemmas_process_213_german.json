@@ -1,0 +1,284 @@
+[
+  {
+    "lemma": "skeleton",
+    "meanings_de": ["Knochengerüst", "Grundstruktur"],
+    "definitions_de": ["inneres Gerüst aus Knochen, das dem Körper von Wirbeltieren Form und Halt gibt", "grundlegende Gliederung oder Rahmenstruktur eines Systems oder Aufbaus"],
+    "examples_de": [["Das Museum stellte ein vollständiges **Skelett** eines Dinosauriers aus", "Medizinstudenten studierten das menschliche **Knochengerüst** im Anatomieunterricht"], ["Der Entwickler erstellte zuerst eine **Grundstruktur** der neuen Anwendung", "Sie präsentierten das **Gerüst** ihres Geschäftsplans den Investoren"]]
+  },
+  {
+    "lemma": "skeptic",
+    "meanings_de": ["Person mit Zweifeln"],
+    "definitions_de": ["Person, die die Gültigkeit allgemein anerkannter Überzeugungen, Behauptungen oder Aussagen hinterfragt oder anzweifelt"],
+    "examples_de": [["Der **Skeptiker** forderte mehr Beweise, bevor er die Theorie akzeptierte", "Klimawandel-**Skeptiker** stellen weiterhin den wissenschaftlichen Konsens in Frage"]]
+  },
+  {
+    "lemma": "skepticism",
+    "meanings_de": ["Haltung des Zweifels"],
+    "definitions_de": ["Einstellung des Zweifels oder Neigung, die Wahrheit von Tatsachen, Meinungen oder Überzeugungen in Frage zu stellen"],
+    "examples_de": [["Ihre **Skepsis** gegenüber der neuen Behandlung erwies sich als berechtigt", "Gesunde **Skepsis** ist für gute wissenschaftliche Forschung unerlässlich"]]
+  },
+  {
+    "lemma": "sketch",
+    "meanings_de": ["grobe Zeichnung", "kurze Beschreibung"],
+    "definitions_de": ["schnelle, grobe Zeichnung zur Erfassung wesentlicher Merkmale", "kurze beschreibende Zusammenfassung oder allgemeiner Überblick"],
+    "examples_de": [["Die Künstlerin fertigte mehrere **Skizzen** an, bevor sie mit dem Gemälde begann", "Sie trug einen **Skizzenblock** bei sich, um interessante Szenen festzuhalten"], ["Der Detektiv gab eine **Skizze** vom Verhalten des Verdächtigen", "Er lieferte einen kurzen **Abriss** der vorgeschlagenen Änderungen"]]
+  },
+  {
+    "lemma": "sketchbook",
+    "meanings_de": ["Zeichenblock"],
+    "definitions_de": ["Buch oder Block mit leeren Seiten zum Anfertigen von Skizzen oder groben Zeichnungen"],
+    "examples_de": [["Der Architekt trug immer ein **Skizzenbuch** bei sich, um Designideen festzuhalten", "Ihr **Skizzenbuch** war voller Zeichnungen von ihren Reisen"]]
+  },
+  {
+    "lemma": "skid",
+    "meanings_de": ["Rutschbewegung", "Holzplattform"],
+    "definitions_de": ["seitliche Rutschbewegung eines Fahrzeugs auf glatter Oberfläche", "hölzerne Plattform oder Rahmen zur Unterstützung schwerer Gegenstände"],
+    "examples_de": [["Das Auto geriet auf der vereisten Straße in ein gefährliches **Schleudern**", "Er schaffte es, das **Rutschen** zu kontrollieren und einen Unfall zu vermeiden"], ["Die Maschinen wurden auf schweren Holz**paletten** geliefert", "Arbeiter benutzten einen Gabelstapler, um die **Transportpaletten** im Lager zu bewegen"]]
+  },
+  {
+    "lemma": "skier",
+    "meanings_de": ["Person die Ski fährt"],
+    "definitions_de": ["Person, die zum Sport oder zur Erholung auf Skiern über Schnee gleitet"],
+    "examples_de": [["Der erfahrene **Skifahrer** bewältigte die schwierige Piste mit Leichtigkeit", "Olympische **Skiläufer** trainieren jahrelang, um ihre Technik zu perfektionieren"]]
+  },
+  {
+    "lemma": "skiff",
+    "meanings_de": ["kleines Boot"],
+    "definitions_de": ["kleines Boot mit flachem Boden, das durch Ruder, Segel oder Motor angetrieben wird"],
+    "examples_de": [["Der Fischer ruderte sein **Beiboot** über den ruhigen See", "Sie benutzten ein leichtes **Skiff**, um die flachen Gewässer zu erkunden"]]
+  },
+  {
+    "lemma": "skiing",
+    "meanings_de": ["Schneesport"],
+    "definitions_de": ["Sport oder Aktivität des Gleitens über Schnee auf Skiern"],
+    "examples_de": [["**Skifahren** erfordert gutes Gleichgewicht und starke Beinmuskulatur", "Das Resort bietet den ganzen Winter über hervorragende **Skibedingungen**"]]
+  },
+  {
+    "lemma": "skillet",
+    "meanings_de": ["Bratpfanne"],
+    "definitions_de": ["Pfanne mit flachem Boden und schrägen Seiten zum Braten oder Sautieren von Speisen"],
+    "examples_de": [["Sie kochte die Eier in einer gusseisernen **Pfanne**", "Das Rezept verlangt, das Fleisch in einer großen **Bratpfanne** anzubraten"]]
+  },
+  {
+    "lemma": "skim",
+    "meanings_de": ["Oberflächenschicht", "schnelles Lesen"],
+    "definitions_de": ["dünne Schicht einer Substanz, die sich auf einer Flüssigkeitsoberfläche bildet", "Vorgang des schnellen Lesens, um einen allgemeinen Eindruck zu bekommen"],
+    "examples_de": [["Entfernen Sie die **Fettschicht** von der Suppe vor dem Servieren", "Eine dünne **Eisschicht** bildete sich über Nacht auf dem Teich"], ["Ich hatte nur Zeit für ein schnelles **Überfliegen** des Berichts", "Studenten **überfliegen** oft Lehrbücher, anstatt sie gründlich zu lesen"]]
+  },
+  {
+    "lemma": "skimmer",
+    "meanings_de": ["Abschöpfgerät", "Vogelart"],
+    "definitions_de": ["Utensil zum Entfernen von schwimmendem Material von der Flüssigkeitsoberfläche", "Seevogel mit langem, schmalem Schnabel zum Abschöpfen der Wasseroberfläche"],
+    "examples_de": [["Verwenden Sie einen **Schaumlöffel**, um den Schaum vom kochenden Marmelade zu entfernen", "Der Pool-**Skimmer** hilft, das Wasser sauber zu halten"], ["**Schwarzmantel-Scherenschnäbel** ernähren sich, indem sie niedrig über das Wasser fliegen", "Die einzigartige Schnabelform des **Scherenschnabels** hilft ihm, kleine Fische zu fangen"]]
+  },
+  {
+    "lemma": "skimming",
+    "meanings_de": ["Oberfläche entfernen", "schnelles Lesen", "illegale Praxis"],
+    "definitions_de": ["Vorgang des Entfernens von schwimmendem Material von der Flüssigkeitsoberfläche", "schnelles Lesen zur Extraktion der Hauptideen", "illegale Praxis des Diebstahls von Kreditkarteninformationen"],
+    "examples_de": [["Das **Abschöpfen** des Fetts von der Suppe macht sie gesünder", "Regelmäßiges **Abschäumen** hält das Poolwasser kristallklar"], ["Das **Überfliegen** des Dokuments dauerte nur zehn Minuten", "Schnelllesen beinhaltet das **Überfliegen** nach Schlüsselinformationen"], ["Kreditkarten-**Skimming** an Geldautomaten ist zu einem ernsten Problem geworden", "Die Polizei entdeckte ein **Skimming**-Gerät an der Zapfsäule"]]
+  },
+  {
+    "lemma": "skincare",
+    "meanings_de": ["Schönheitsroutine"],
+    "definitions_de": ["Praxis und Produkte zur Erhaltung eines gesunden Hautbildes und -zustands"],
+    "examples_de": [["Ihre tägliche **Hautpflegeroutine** umfasst Reinigung und Feuchtigkeitspflege", "Die Hautärztin empfahl eine einfache **Hautpflege**"]]
+  },
+  {
+    "lemma": "skinhead",
+    "meanings_de": ["Subkultur-Mitglied"],
+    "definitions_de": ["Mitglied einer Jugendsubkultur, die durch kahlgeschorene Köpfe gekennzeichnet ist und oft mit Arbeiterklasse-Identität verbunden wird"],
+    "examples_de": [["Die Dokumentation untersuchte die Entwicklung der **Skinhead**-Kultur", "Nicht alle **Skinheads** vertreten extremistische politische Ansichten"]]
+  },
+  {
+    "lemma": "skinner",
+    "meanings_de": ["Tierhaut-Entferner"],
+    "definitions_de": ["Person, deren Beruf das Entfernen und Vorbereiten von Tierhäuten oder -fellen umfasst"],
+    "examples_de": [["Der **Kürschner** arbeitete schnell, um das Hirschfell zu konservieren", "Traditionelle **Fellgerber** verwenden spezielle Werkzeuge für ihr Handwerk"]]
+  },
+  {
+    "lemma": "skinny",
+    "meanings_de": ["vertrauliche Information"],
+    "definitions_de": ["Insiderinformationen oder Klatsch über ein bestimmtes Thema oder eine Situation"],
+    "examples_de": [["Was sind die **Insiderinfos** zu den neuen Managementänderungen?", "Sie hat immer die neuesten **Infos** über Promi-Beziehungen"]]
+  },
+  {
+    "lemma": "skipjack",
+    "meanings_de": ["Thunfischart"],
+    "definitions_de": ["kleiner Thunfisch aus tropischen Gewässern, häufig zum Konservieren verwendet"],
+    "examples_de": [["**Echter Bonito** ist der am häufigsten für Dosenprodukte verwendete Thunfisch", "Kommerzielle Fischer fingen diese Saison tonnenweise **Skipjack**"]]
+  },
+  {
+    "lemma": "skipper",
+    "meanings_de": ["Schiffskapitän", "Schmetterlingsart"],
+    "definitions_de": ["Kapitän oder verantwortliche Person eines Schiffes oder Bootes", "kleiner mottenähnlicher Schmetterling mit schnellem, zuckenden Flug"],
+    "examples_de": [["Der **Skipper** navigierte die Yacht durch raue Gewässer", "Alle respektierten die Entscheidungen des erfahrenen **Kapitäns**"], ["Der **Dickkopffalter** landete kurz auf der Blume", "**Dickkopffalter** werden wegen ihres Aussehens oft für Motten gehalten"]]
+  },
+  {
+    "lemma": "skirmish",
+    "meanings_de": ["kleines Gefecht"],
+    "definitions_de": ["kurzer Kampf zwischen kleinen Gruppen, besonders im Krieg, oder kleine Meinungsverschiedenheit"],
+    "examples_de": [["Das **Grenzscharmützel** dauerte nur wenige Stunden", "Politische **Scharmützel** gehen oft größeren politischen Debatten voraus"]]
+  },
+  {
+    "lemma": "skit",
+    "meanings_de": ["Comedy-Sketch"],
+    "definitions_de": ["kurzes humoristisches Theaterstück oder komödiantische Darbietung"],
+    "examples_de": [["Die Schüler führten einen lustigen **Sketch** über das Schulleben auf", "Saturday Night Live ist berühmt für seine politischen **Sketche**"]]
+  },
+  {
+    "lemma": "skunk",
+    "meanings_de": ["gestreiftes Säugetier"],
+    "definitions_de": ["schwarz-weiß gestreiftes Säugetier, das zur Verteidigung eine übel riechende Flüssigkeit versprüht"],
+    "examples_de": [["Der Hund lernte, **Stinktiere** zu meiden, nachdem er besprüht wurde", "**Skunks** sind tatsächlich nützlich für die Schädlingsbekämpfung im Garten"]]
+  },
+  {
+    "lemma": "skydiver",
+    "meanings_de": ["Fallschirmspringer"],
+    "definitions_de": ["Person, die aus Flugzeugen springt und Manöver ausführt, bevor sie den Fallschirm öffnet"],
+    "examples_de": [["Der erfahrene **Fallschirmspringer** absolvierte über 1000 Sprünge", "**Fallschirmspringer** müssen vor Solosprüngen eine umfassende Ausbildung durchlaufen"]]
+  },
+  {
+    "lemma": "skydiving",
+    "meanings_de": ["Fallschirmsport"],
+    "definitions_de": ["Sport des Springens aus Flugzeugen und Ausführens von Luftmanövern vor dem Fallschirmspringen"],
+    "examples_de": [["**Fallschirmspringen** erfordert Mut und die richtige Sicherheitsausrüstung", "Sie feierte ihren Geburtstag mit ihrem ersten **Fallschirmsprung**"]]
+  },
+  {
+    "lemma": "skylark",
+    "meanings_de": ["Singvogel"],
+    "definitions_de": ["kleiner brauner Vogel, bekannt für seinen Gesang beim Fliegen hoch am Himmel"],
+    "examples_de": [["Der melodische Gesang der **Feldlerche** erfüllte die Morgenluft", "**Feldlerchen** nisten trotz ihrer Luftakrobatik am Boden"]]
+  },
+  {
+    "lemma": "skylight",
+    "meanings_de": ["Dachfenster"],
+    "definitions_de": ["in Dach oder Decke eingebautes Fenster zum Einlassen von natürlichem Tageslicht"],
+    "examples_de": [["Das **Dachfenster** erhellte den zuvor dunklen Dachboden", "Moderne **Oberlichter** können sich auch zur Belüftung öffnen lassen"]]
+  },
+  {
+    "lemma": "skyline",
+    "meanings_de": ["Horizontlinie"],
+    "definitions_de": ["Umriss von Gebäuden oder natürlichen Merkmalen vor dem Himmel"],
+    "examples_de": [["Manhattans **Skyline** ist weltweit sofort erkennbar", "Die Bergkette bildete bei Sonnenuntergang eine dramatische **Horizontlinie**"]]
+  },
+  {
+    "lemma": "skyrocket",
+    "meanings_de": ["Feuerwerkstyp"],
+    "definitions_de": ["Feuerwerk, das schnell nach oben schießt, bevor es in einem bunten Display explodiert"],
+    "examples_de": [["Die **Rakete** explodierte in brillanten Farben über der Menge", "Kinder schauten aufgeregt zu, wie **Feuerwerksraketen** den Nachthimmel erleuchteten"]]
+  },
+  {
+    "lemma": "skyscraper",
+    "meanings_de": ["hohes Gebäude"],
+    "definitions_de": ["sehr hohes Gebäude mit vielen Stockwerken, typischerweise in städtischen Gebieten"],
+    "examples_de": [["Der neue **Wolkenkratzer** wird der höchste der Stadt sein", "Frühe **Wolkenkratzer** veränderten die amerikanische Stadtlandschaft"]]
+  },
+  {
+    "lemma": "jacksonian",
+    "meanings_de": ["politischer Unterstützer", "historische Periode"],
+    "definitions_de": ["Anhänger von Andrew Jacksons demokratischer politischer Philosophie", "bezogen auf die Ära der Präsidentschaft Andrew Jacksons 1829-1837"],
+    "examples_de": [["**Jacksonsche** Demokraten förderten erweiterte Stimmrechte für einfache Männer", "Das Museum zeigte Artefakte aus der **Jackson-Ära**"], ["Die **jacksonsche** Demokratie betonte populistische Ideale und individuelle Freiheit", "Viele **jacksonsche** Politiken prägten die moderne amerikanische politische Kultur"]]
+  },
+  {
+    "lemma": "jacobean",
+    "meanings_de": ["historische Periode", "Architekturstil"],
+    "definitions_de": ["bezogen auf die Regierungszeit von Jakob I. von England 1603-1625", "Stil der Architektur und dekorativen Künste aus der Zeit Jakobs I."],
+    "examples_de": [["Shakespeare schrieb viele Stücke während der **jakobinischen** Periode", "**Jakobinisches** Drama erforschte oft dunklere Themen als elisabethanische Werke"], ["Das Herrenhaus wies aufwendige **jakobinische** Architekturdetails auf", "**Jakobinische** Möbel sind für ihre schwere Eichenkonstruktion bekannt"]]
+  },
+  {
+    "lemma": "jacobin",
+    "meanings_de": ["politischer Radikaler", "Taubenrasse"],
+    "definitions_de": ["Mitglied einer radikalen politischen Gruppe während der Französischen Revolution", "Rasse von Ziertauben mit gefiederter Haube um den Kopf"],
+    "examples_de": [["Die **Jakobiner** kontrollierten Frankreich während der Schreckensherrschaft", "Robespierre war der berühmteste Führer der **Jakobiner**"], ["Die **Jakobinertaube** gewann den ersten Preis bei der Vogelschau", "**Jakobinertauben** werden für ihre markanten Halsfedern geschätzt"]]
+  },
+  {
+    "lemma": "jacobite",
+    "meanings_de": ["politischer Unterstützer"],
+    "definitions_de": ["Anhänger des Anspruchs der im Exil lebenden Stuart-Könige auf den britischen Thron nach 1688"],
+    "examples_de": [["**Jakobiten**-Aufstände versuchten, die Stuart-Monarchie wiederherzustellen", "Schottische **Jakobiten** kämpften 1746 in der Schlacht von Culloden"]]
+  },
+  {
+    "lemma": "jainism",
+    "meanings_de": ["indische Religion"],
+    "definitions_de": ["alte indische Religion, die Gewaltlosigkeit und spirituelle Befreiung durch rechtes Verhalten betont"],
+    "examples_de": [["Der **Jainismus** lehrt strikten Vegetarismus und Gewaltlosigkeit gegenüber allen Wesen", "Viele **Jainismus**-Anhänger tragen Masken, um winzige Organismen nicht zu verletzen"]]
+  },
+  {
+    "lemma": "jakarta",
+    "meanings_de": ["indonesische Hauptstadt"],
+    "definitions_de": ["Hauptstadt und größte Stadt Indonesiens auf der Insel Java"],
+    "examples_de": [["**Jakarta** ist die Heimat von über 10 Millionen Menschen", "Das Unternehmen verlegte seinen Hauptsitz letztes Jahr nach **Jakarta**"]]
+  },
+  {
+    "lemma": "jamaica",
+    "meanings_de": ["karibische Nation"],
+    "definitions_de": ["Inselstaat im Karibischen Meer, bekannt für Strände und Reggae-Musik"],
+    "examples_de": [["**Jamaika** erlangte 1962 die Unabhängigkeit von Großbritannien", "Touristen strömen wegen der schönen Strände und Kultur nach **Jamaika**"]]
+  },
+  {
+    "lemma": "jamaican",
+    "meanings_de": ["Nationalitätsidentität"],
+    "definitions_de": ["Person aus Jamaika oder bezogen auf Jamaika und seine Kultur"],
+    "examples_de": [["Der **jamaikanische** Athlet gewann drei Goldmedaillen", "Die **jamaikanische** Küche zeichnet sich durch Jerk-Gewürze und tropische Früchte aus"]]
+  },
+  {
+    "lemma": "jamestown",
+    "meanings_de": ["historische Siedlung"],
+    "definitions_de": ["erste dauerhafte englische Siedlung in Nordamerika, 1607 in Virginia gegründet"],
+    "examples_de": [["**Jamestown** kämpfte in den frühen Jahren mit Krankheiten und Hunger", "Archäologen machen weiterhin Entdeckungen an der **Jamestown**-Stätte"]]
+  },
+  {
+    "lemma": "janissary",
+    "meanings_de": ["Elitesoldat"],
+    "definitions_de": ["Mitglied der Elite-Infanterieeinheiten, die die Leibgarde des osmanischen Sultans bildeten"],
+    "examples_de": [["**Janitscharen** wurden durch das Devşirme-System rekrutiert", "Das **Janitscharen**korps spielte eine entscheidende Rolle bei osmanischen Militärsiegen"]]
+  },
+  {
+    "lemma": "japan",
+    "meanings_de": ["asiatische Nation"],
+    "definitions_de": ["Inselnation in Ostasien, bekannt für Technologie und traditionelle Kultur"],
+    "examples_de": [["**Japan** besteht aus vier Hauptinseln und Tausenden kleineren", "Viele Unternehmen beziehen fortschrittliche Elektronik aus **Japan**"]]
+  },
+  {
+    "lemma": "jat",
+    "meanings_de": ["ethnische Gruppe"],
+    "definitions_de": ["Mitglied einer traditionell landwirtschaftlichen Gemeinschaft in Nordindien und Pakistan"],
+    "examples_de": [["Viele **Jat**-Gemeinschaften sind von der Landwirtschaft zum Militärdienst übergegangen", "Das **Jat**-Volk hat ein reiches kulturelles Erbe im Punjab"]]
+  },
+  {
+    "lemma": "java",
+    "meanings_de": ["indonesische Insel", "Programmiersprache"],
+    "definitions_de": ["große indonesische Insel mit der Hauptstadt Jakarta und der größten Bevölkerung", "beliebte objektorientierte Programmiersprache, entwickelt von Sun Microsystems"],
+    "examples_de": [["**Java** beherbergt mehr als die Hälfte der indonesischen Bevölkerung", "Alte Tempel wie Borobudur befinden sich auf **Java**"], ["Viele Webanwendungen werden mit **Java**-Programmierung erstellt", "**Java** läuft auf Milliarden von Geräten weltweit"]]
+  },
+  {
+    "lemma": "javan",
+    "meanings_de": ["Inselbewohner"],
+    "definitions_de": ["Person von der Insel Java oder bezogen auf Java und seine Kultur"],
+    "examples_de": [["Traditionelle **javanische** Musik präsentiert Gamelan-Orchester", "Das **Java**-Nashorn ist vom Aussterben bedroht"]]
+  },
+  {
+    "lemma": "javanese",
+    "meanings_de": ["Sprache oder Volk"],
+    "definitions_de": ["auf Java gesprochene Sprache oder Volk, das auf der Insel Java beheimatet ist"],
+    "examples_de": [["**Javanisch** wird von über 80 Millionen Menschen gesprochen", "Die **javanische** Kultur beeinflusst stark die indonesische nationale Identität"]]
+  },
+  {
+    "lemma": "jay",
+    "meanings_de": ["bunter Vogel"],
+    "definitions_de": ["mittelgroßer Vogel aus der Krähenfamilie, oft mit blauer Färbung"],
+    "examples_de": [["Der laute Ruf des **Blauhähers** warnte andere Vögel vor Gefahr", "**Häher** sind für ihre Intelligenz und ihr Futter-Versteckverhalten bekannt"]]
+  },
+  {
+    "lemma": "jeffersonian",
+    "meanings_de": ["politische Philosophie"],
+    "definitions_de": ["bezogen auf Thomas Jeffersons politische Prinzipien, die individuelle Rechte und begrenzte Regierung betonen"],
+    "examples_de": [["Die **jeffersonsche** Demokratie förderte agrarische Werte und Rechte der Bundesstaaten", "Der Kandidat vertrat **jeffersonsche** Ideale minimaler Regierung"]]
+  },
+  {
+    "lemma": "jehovah",
+    "meanings_de": ["göttlicher Name"],
+    "definitions_de": ["Name für Gott, der in einigen Übersetzungen der hebräischen Bibel verwendet wird"],
+    "examples_de": [["**Jehovas** Zeugen verwenden diesen Namen ausschließlich für Gott", "Der Name **Jehova** erscheint in vielen älteren englischen Bibelübersetzungen"]]
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "relaxing",
+    "meanings_de": ["beruhigend und erholsam"],
+    "definitions_de": ["ein Gefühl der Ruhe und des Friedens verursachend, dabei Stress oder Anspannung reduzierend und zu körperlicher wie seelischer Entspannung führend"],
+    "examples_de": [["Ein **entspannendes** Bad nach einem langen Arbeitstag wirkt Wunder", "Die **beruhigende** Musik half ihr beim Einschlafen"]]
+  },
+  {
+    "lemma": "releasing",
+    "meanings_de": ["freigebend oder loslassend"],
+    "definitions_de": ["im Vorgang des Befreiens, Entlassens oder Verfügbarmachens von etwas, das zuvor zurückgehalten oder gebunden war"],
+    "examples_de": [["Der **freigebende** Mechanismus löste den Fallschirm rechtzeitig aus", "Die **loslassende** Bewegung entspannte sofort die verkrampften Muskeln"]]
+  },
+  {
+    "lemma": "relentless",
+    "meanings_de": ["hart und unerbittlich", "beharrlich ohne Unterlass"],
+    "definitions_de": ["keine Gnade oder Mitgefühl zeigend; hart und unnachgiebig in der Einstellung gegenüber anderen", "auf entschlossene Weise fortfahrend ohne jegliche Unterbrechung oder Abschwächung der Intensität"],
+    "examples_de": [["Der **unerbittliche** Richter verhängte die Höchststrafe ohne Zögern", "Seine **gnadenlose** Kritik zerstörte ihr Selbstvertrauen vollständig"], ["Der **unaufhörliche** Regen setzte sich drei Tage lang fort", "Mit **unbarmherziger** Hartnäckigkeit verfolgte sie ihr Ziel"]]
+  },
+  {
+    "lemma": "reliant",
+    "meanings_de": ["abhängig von etwas"],
+    "definitions_de": ["auf jemanden oder etwas angewiesen seiend für Unterstützung, Hilfe oder zum Funktionieren im täglichen Leben"],
+    "examples_de": [["Die pflegebedürftige Frau war völlig **angewiesen** auf ihre Tochter", "Unsere moderne Gesellschaft ist stark **abhängig** von funktionierender Technologie"]]
+  },
+  {
+    "lemma": "relieved",
+    "meanings_de": ["von Sorgen befreit"],
+    "definitions_de": ["glücklich und entspannt fühlend, weil etwas Schwieriges, Beunruhigendes oder Unangenehmes vorüber ist"],
+    "examples_de": [["Sie fühlte sich **erleichtert**, als die Testergebnisse negativ waren", "Die **erleichterten** Eltern umarmten ihr wiedergefundenes Kind fest"]]
+  },
+  {
+    "lemma": "relinquished",
+    "meanings_de": ["aufgegeben oder überlassen"],
+    "definitions_de": ["freiwillig aufgegeben, verlassen oder an einen anderen übergeben worden, oft nach langem Besitz"],
+    "examples_de": [["Der **aufgegebene** Thron blieb monatelang unbesetzt", "Seine **preisgegebenen** Träume verfolgten ihn noch Jahre später"]]
+  },
+  {
+    "lemma": "relocated",
+    "meanings_de": ["an neuen Ort verlegt"],
+    "definitions_de": ["von einem Ort oder einer Position an einen anderen Standort verlegt oder umgezogen worden"],
+    "examples_de": [["Das **verlegte** Büro lag näher an öffentlichen Verkehrsmitteln", "Viele **umgesiedelte** Familien hatten Schwierigkeiten sich anzupassen"]]
+  },
+  {
+    "lemma": "remedial",
+    "meanings_de": ["korrigierend oder heilend", "grundlegendes Bildungsniveau"],
+    "definitions_de": ["dazu bestimmt, etwas Falsches oder Mangelhaftes zu korrigieren, verbessern oder zu heilen", "Unterricht in Grundfertigkeiten für Schüler anbietend, die zusätzliche Hilfe benötigen"],
+    "examples_de": [["Der Arzt verschrieb **heilende** Übungen für ihr verletztes Knie", "**Therapeutische** Massage half seine chronischen Schmerzen zu lindern"], ["Sie schrieb sich für **Förder**mathematik ein, um ihre Kenntnisse zu verbessern", "Die Schule bietet jeden Nachmittag **unterstützenden** Leseunterricht an"]]
+  },
+  {
+    "lemma": "reminiscent",
+    "meanings_de": ["an Vergangenes erinnernd"],
+    "definitions_de": ["dazu neigend, einen an etwas zu erinnern; Erinnerungen an ähnliche Dinge weckend"],
+    "examples_de": [["Das alte Lied war **erinnernd** an ihre Kindheitssommer", "Sein Schreibstil ist **reminiszent** an klassische Literatur"]]
+  },
+  {
+    "lemma": "remorseful",
+    "meanings_de": ["tiefe Reue empfindend"],
+    "definitions_de": ["erfüllt von tiefer Reue oder Schuldgefühlen für ein begangenes Unrecht"],
+    "examples_de": [["Der **reuige** Teenager entschuldigte sich bei allen, die er verletzt hatte", "Sie schrieb einen **reumütigen** Brief, nachdem sie ihren Fehler erkannte"]]
+  },
+  {
+    "lemma": "removable",
+    "meanings_de": ["entfernbar"],
+    "definitions_de": ["fähig, entfernt, abgenommen oder von etwas anderem getrennt zu werden"],
+    "examples_de": [["Die Jacke hat **abnehmbare** Ärmel für wärmeres Wetter", "Diese Aufkleber sind **entfernbar** ohne Rückstände zu hinterlassen"]]
+  },
+  {
+    "lemma": "removed",
+    "meanings_de": ["physisch weggenommen", "entfernt verwandt"],
+    "definitions_de": ["von einem bestimmten Ort weggenommen oder von etwas getrennt worden", "durch eine bestimmte Anzahl von Schritten in der Familienverwandtschaft getrennt"],
+    "examples_de": [["Die **entfernten** Möbel hinterließen leere Stellen im Raum", "Alle **weggenommenen** Gegenstände wurden im Keller gelagert"], ["Mein Cousin zweiten Grades ist ein **entfernter** Verwandter", "Sie ist meine Großtante zweiten Grades mütterlicherseits"]]
+  },
+  {
+    "lemma": "renal",
+    "meanings_de": ["die Nieren betreffend"],
+    "definitions_de": ["zu den Nieren gehörend, sie betreffend oder in ihrer Region gelegen"],
+    "examples_de": [["Der Patient litt an chronischem **Nieren**versagen", "Die **renalen** Funktionswerte zeigten besorgniserregende Ergebnisse"]]
+  },
+  {
+    "lemma": "renegade",
+    "meanings_de": ["rebellisch und unkonventionell"],
+    "definitions_de": ["konventionelles Verhalten oder Loyalität ablehnend; in Rebellion gegen Autorität handelnd"],
+    "examples_de": [["Der **abtrünnige** Soldat weigerte sich, ungerechte Befehle zu befolgen", "Eine **rebellische** Gruppe spaltete sich von der Hauptorganisation ab"]]
+  },
+  {
+    "lemma": "renewable",
+    "meanings_de": ["erneuerbar"],
+    "definitions_de": ["fähig, erneuert, wiederhergestellt oder aufgefüllt zu werden, insbesondere auf natürliche Weise"],
+    "examples_de": [["Solarenergie ist eine **erneuerbare** Energiequelle", "Der Bibliotheksausweis hat eine **verlängerbare** Mitgliedschaft"]]
+  },
+  {
+    "lemma": "renewed",
+    "meanings_de": ["wieder frisch gemacht"],
+    "definitions_de": ["zu einem frischen, kräftigen oder blühenden Zustand nach einem Rückgang wiederhergestellt"],
+    "examples_de": [["Ihre **erneuerte** Freundschaft war stärker als zuvor", "Mit **erneuertem** Enthusiasmus ging sie das Projekt an"]]
+  },
+  {
+    "lemma": "renewing",
+    "meanings_de": ["frisch oder neu machend"],
+    "definitions_de": ["im Prozess des Wiederherstellens, Auffüllens oder Frischmachens von etwas"],
+    "examples_de": [["Der **erneuernde** Regen brachte Leben ins dürregeplagte Land", "Eine **verjüngende** Gesichtsbehandlung ließ ihre Haut strahlen"]]
+  },
+  {
+    "lemma": "renowned",
+    "meanings_de": ["berühmt und respektiert"],
+    "definitions_de": ["von vielen Menschen für besondere Leistungen oder Qualitäten bekannt und bewundert"],
+    "examples_de": [["Der **renommierte** Wissenschaftler gewann mehrere Nobelpreise", "Dieses Restaurant ist **berühmt** für seine authentische italienische Küche"]]
+  },
+  {
+    "lemma": "rental",
+    "meanings_de": ["zur Miete verfügbar"],
+    "definitions_de": ["zur Miete statt zum Kauf bezogen, damit zusammenhängend oder verfügbar"],
+    "examples_de": [["Sie wohnten während ihres Urlaubs in einer **Miet**wohnung", "Die **gemietete** Ausrüstung muss bis Montag zurückgegeben werden"]]
+  },
+  {
+    "lemma": "reorganised",
+    "meanings_de": ["anders angeordnet"],
+    "definitions_de": ["erneut oder anders organisiert worden, mit einer neuen Struktur versehen"],
+    "examples_de": [["Das **umstrukturierte** Unternehmen hatte weniger Managementebenen", "Ihr **neu organisierter** Kleiderschrank machte das Finden von Kleidung viel einfacher"]]
+  },
+  {
+    "lemma": "reorganized",
+    "meanings_de": ["anders angeordnet"],
+    "definitions_de": ["erneut oder anders organisiert worden, mit einer neuen Struktur versehen"],
+    "examples_de": [["Die **reorganisierte** Abteilung arbeitet jetzt effizienter", "Ein **umgestaltetes** Ablagesystem sparte Stunden der Suche"]]
+  },
+  {
+    "lemma": "repeatable",
+    "meanings_de": ["wiederholbar"],
+    "definitions_de": ["fähig, erneut getan, durchgeführt oder mit konsistenten Ergebnissen aufzutreten"],
+    "examples_de": [["Das Experiment lieferte jedes Mal **wiederholbare** Ergebnisse", "Dieses einfache Rezept ist zu Hause leicht **nachkochbar**"]]
+  },
+  {
+    "lemma": "repeated",
+    "meanings_de": ["mehrfach getan"],
+    "definitions_de": ["mehrmals getan, gesagt oder aufgetreten, besonders in regelmäßigen Abständen"],
+    "examples_de": [["Trotz **wiederholter** Warnungen rauchte er weiter", "Das **wiederholte** Klopfen wurde lauter und eindringlicher"]]
+  },
+  {
+    "lemma": "repellent",
+    "meanings_de": ["abweisend oder abstoßend"],
+    "definitions_de": ["fähig, etwas abzuwehren oder wegzutreiben, oder Ekel und Abneigung verursachend"],
+    "examples_de": [["Das Spray wirkt als **abweisende** Barriere gegen Mücken", "Sein **abstoßendes** Verhalten brachte alle dazu, ihn zu meiden"]]
+  },
+  {
+    "lemma": "repelling",
+    "meanings_de": ["kraftvoll wegstoßend"],
+    "definitions_de": ["durch Kraft oder Einfluss zurücktreibend oder wegdrängend; Abneigung verursachend"],
+    "examples_de": [["Die **abstoßenden** Magnetkräfte drückten die Objekte auseinander", "Ihre **abweisende** Persönlichkeit machte es schwer, Freunde zu finden"]]
+  },
+  {
+    "lemma": "repentant",
+    "meanings_de": ["Reue fühlend oder zeigend"],
+    "definitions_de": ["aufrichtiges Bedauern und Reue für Fehlverhalten fühlend oder ausdrückend"],
+    "examples_de": [["Der **reuige** Dieb gab alle gestohlenen Waren zurück", "Seine **bußfertigen** Tränen zeigten echte Trauer über seine Taten"]]
+  },
+  {
+    "lemma": "repetitious",
+    "meanings_de": ["ermüdend wiederholend"],
+    "definitions_de": ["durch unnötige und ermüdende Wiederholung gekennzeichnet, oft langweilig oder irritierend"],
+    "examples_de": [["Die **sich wiederholende** Präsentation des Redners schläferte alle ein", "Ihre **repetitiven** Beschwerden über die Arbeit wurden lästig"]]
+  },
+  {
+    "lemma": "repetitive",
+    "meanings_de": ["Wiederholung beinhaltend"],
+    "definitions_de": ["Wiederholung enthaltend oder davon gekennzeichnet, besonders wenn unnötig oder monoton"],
+    "examples_de": [["Fabrikarbeiter führen oft den ganzen Tag **repetitive** Aufgaben aus", "Die **sich wiederholende** Musik verursachte ihr furchtbare Kopfschmerzen"]]
+  },
+  {
+    "lemma": "replaceable",
+    "meanings_de": ["ersetzbar"],
+    "definitions_de": ["fähig, bei Bedarf durch jemanden oder etwas anderes ersetzt zu werden"],
+    "examples_de": [["Die meisten Angestellten befürchteten, leicht **ersetzbar** zu sein", "Die Batterie ist **austauschbar**, wenn sie keine Ladung mehr hält"]]
+  },
+  {
+    "lemma": "replete",
+    "meanings_de": ["reichlich gefüllt oder versorgt"],
+    "definitions_de": ["mit etwas gefüllt oder gut versorgt; reichlich ausgestattet oder versehen"],
+    "examples_de": [["Das Herrenhaus war **vollgestopft** mit unbezahlbaren antiken Möbeln", "Seine Rede war **gespickt** mit Verweisen auf klassische Literatur"]]
+  },
+  {
+    "lemma": "reported",
+    "meanings_de": ["berichtet oder behauptet"],
+    "definitions_de": ["von jemandem angegeben oder behauptet, obwohl nicht unbedingt als wahr bestätigt"],
+    "examples_de": [["Die **gemeldeten** Gewinne übertrafen die Analystenerwartungen", "Mehrere **berichtete** Sichtungen des Verdächtigen erwiesen sich als falsch"]]
+  },
+  {
+    "lemma": "reprehensible",
+    "meanings_de": ["starke Kritik verdienend"],
+    "definitions_de": ["Tadel oder Verurteilung verdienend; extrem schlecht und der Kritik würdig"],
+    "examples_de": [["Seine **verwerfliche** Behandlung von Tieren führte zu Strafanzeigen", "Von Wohltätigkeitsorganisationen zu stehlen ist besonders **tadelnswert**"]]
+  },
+  {
+    "lemma": "representable",
+    "meanings_de": ["darstellbar"],
+    "definitions_de": ["fähig, in irgendeiner Form repräsentiert, dargestellt oder beschrieben zu werden"],
+    "examples_de": [["Komplexe Emotionen sind nicht immer in einfachen Worten **darstellbar**", "Die Daten sind leicht in Diagrammform **abbildbar**"]]
+  },
+  {
+    "lemma": "representational",
+    "meanings_de": ["erkennbare Formen darstellend"],
+    "definitions_de": ["sich auf Kunst beziehend, die Objekte oder Szenen aus der Realität erkennbar darstellt"],
+    "examples_de": [["Ihre **gegenständlichen** Gemälde erfassten Landschaften wunderschön", "Das Museum zeigte sowohl abstrakte als auch **figurative** Kunstwerke"]]
+  },
+  {
+    "lemma": "represented",
+    "meanings_de": ["dargestellt oder gezeigt"],
+    "definitions_de": ["auf eine bestimmte Weise oder Form porträtiert, dargestellt oder präsentiert"],
+    "examples_de": [["Frauen sind in Führungspositionen schlecht **vertreten**", "Die **dargestellten** Daten zeigen einen klaren Aufwärtstrend"]]
+  },
+  {
+    "lemma": "repressed",
+    "meanings_de": ["zurückgehalten oder unterdrückt"],
+    "definitions_de": ["unter Kontrolle gehalten, zurückgehalten oder unterdrückt, besonders Emotionen oder Erinnerungen"],
+    "examples_de": [["Seine **unterdrückte** Wut explodierte schließlich nach Jahren", "**Verdrängte** Kindheitserinnerungen tauchten plötzlich wieder auf"]]
+  },
+  {
+    "lemma": "repressing",
+    "meanings_de": ["unterdrückend oder zurückhaltend"],
+    "definitions_de": ["aktiv zurückhaltend, einschränkend oder die Äußerung von etwas verhindernd"],
+    "examples_de": [["Das **Unterdrücken** von Emotionen kann zu psychologischen Problemen führen", "Die **zurückhaltende** Kraft hielt die Feder zusammengedrückt"]]
+  },
+  {
+    "lemma": "repressive",
+    "meanings_de": ["persönliche Freiheit einschränkend"],
+    "definitions_de": ["persönliche Freiheit hemmend oder einschränkend, besonders durch autoritäre Kontrolle"],
+    "examples_de": [["Die **repressive** Regierung verbot alle Formen des Protests", "Sie wuchs in einem **unterdrückenden** Haushalt mit strengen Regeln auf"]]
+  },
+  {
+    "lemma": "reproducible",
+    "meanings_de": ["reproduzierbar"],
+    "definitions_de": ["fähig, reproduziert oder repliziert zu werden, besonders mit konsistenten Ergebnissen"],
+    "examples_de": [["Wissenschaftliche Experimente müssen **reproduzierbare** Ergebnisse liefern", "Die Technik des Künstlers ist von Schülern leicht **nachahmbar**"]]
+  },
+  {
+    "lemma": "reproductive",
+    "meanings_de": ["die Fortpflanzung betreffend"],
+    "definitions_de": ["sich auf den Prozess der Erzeugung von Nachkommen oder Kopien beziehend oder ihn beeinflussend"],
+    "examples_de": [["Das **Fortpflanzungs**system umfasst verschiedene Organe und Hormone", "Bestimmte Chemikalien können die **reproduktive** Gesundheit schädigen"]]
+  },
+  {
+    "lemma": "reptilian",
+    "meanings_de": ["Reptilien betreffend", "kalt und gefühllos"],
+    "definitions_de": ["zu Reptilien gehörend, sich auf sie beziehend oder für sie charakteristisch", "kalt berechnend und gefühllos in Art oder Erscheinung"],
+    "examples_de": [["Die **Reptilien**ausstellung des Zoos zeigt Schlangen und Eidechsen", "Wissenschaftler erforschen die **reptilische** Evolution durch Fossilien"], ["Sein **reptilienhafter** Blick machte alle unbehaglich", "Sie reagierte mit **reptilischer** Kälte auf seine Bitte"]]
+  },
+  {
+    "lemma": "repugnant",
+    "meanings_de": ["äußerst widerwärtig"],
+    "definitions_de": ["extrem geschmacklos und inakzeptabel; Ekel oder Abneigung erregend"],
+    "examples_de": [["Die Vorstellung, Insekten zu essen, ist vielen Menschen **widerwärtig**", "Seine rassistischen Ansichten sind der modernen Gesellschaft **zuwider**"]]
+  },
+  {
+    "lemma": "repulsive",
+    "meanings_de": ["starken Ekel verursachend"],
+    "definitions_de": ["intensiven Widerwillen oder Ekel erregend; extrem unangenehm oder beleidigend"],
+    "examples_de": [["Der **abstoßende** Geruch brachte alle dazu, den Raum zu verlassen", "Seine **ekelhaften** Tischmanieren ruinierten die Dinnerparty"]]
+  },
+  {
+    "lemma": "reputable",
+    "meanings_de": ["einen guten Ruf habend"],
+    "definitions_de": ["einen guten Ruf besitzend und des Vertrauens würdig; als zuverlässig bekannt"],
+    "examples_de": [["Sie kauft nur bei **seriösen** Online-Händlern", "Die **angesehene** Anwaltskanzlei betreut seit Jahrzehnten Mandanten"]]
+  },
+  {
+    "lemma": "requested",
+    "meanings_de": ["höflich erbeten"],
+    "definitions_de": ["höflich oder formell erbeten; als notwendig gesucht oder verlangt"],
+    "examples_de": [["Die **angeforderten** Dokumente trafen innerhalb von zwei Werktagen ein", "Bitte geben Sie alle **erbetenen** Informationen im Formular an"]]
+  },
+  {
+    "lemma": "requisite",
+    "meanings_de": ["erforderlich oder notwendig"],
+    "definitions_de": ["von den Umständen oder Vorschriften gefordert; für einen bestimmten Zweck notwendig"],
+    "examples_de": [["Ihr fehlt die **erforderliche** Erfahrung für die Seniorposition", "Studenten müssen alle **notwendigen** Kurse vor dem Abschluss absolvieren"]]
+  },
+  {
+    "lemma": "rescued",
+    "meanings_de": ["aus Gefahr gerettet"],
+    "definitions_de": ["aus einer gefährlichen, schädlichen oder belastenden Situation gerettet"],
+    "examples_de": [["Die **geretteten** Wanderer dankten ihren mutigen Rettern", "Alle **geretteten** Tiere erhalten medizinische Versorgung im Tierheim"]]
+  },
+  {
+    "lemma": "resentful",
+    "meanings_de": ["bitteren Ärger empfindend"],
+    "definitions_de": ["Bitterkeit oder Empörung über unfaire Behandlung fühlend oder ausdrückend"],
+    "examples_de": [["Er blieb **nachtragend** wegen der verpassten Beförderung", "Der **verbitterte** Mitarbeiter verbreitete Negativität im ganzen Büro"]]
+  },
+  {
+    "lemma": "reserved",
+    "meanings_de": ["emotional zurückhaltend", "für Nutzung vorbehalten"],
+    "definitions_de": ["langsam darin, Emotionen oder Meinungen zu offenbaren; zurückhaltend im Verhalten", "für eine bestimmte Person oder einen Zweck aufbewahrt; im Voraus gebucht"],
+    "examples_de": [["Ihre **zurückhaltende** Art machte es schwer, ihre Gedanken zu kennen", "Der **reservierte** Herr sprach selten bei gesellschaftlichen Anlässen"], ["Diese Sitze sind für ältere Fahrgäste **reserviert**", "Wir haben heute Abend einen Tisch im Restaurant **vorbestellt**"]]
+  },
+  {
+    "lemma": "resettled",
+    "meanings_de": ["in neues Zuhause umgesiedelt"],
+    "definitions_de": ["an einem neuen Ort zum Leben etabliert, besonders nach Vertreibung"],
+    "examples_de": [["Die **umgesiedelten** Flüchtlinge passten sich langsam an ihr neues Land an", "Viele Familien wurden nach der Naturkatastrophe **neu angesiedelt**"]]
+  }
+]

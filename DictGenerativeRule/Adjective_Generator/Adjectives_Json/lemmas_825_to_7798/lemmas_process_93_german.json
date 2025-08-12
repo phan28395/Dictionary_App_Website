@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "seasoned",
+    "meanings_de": ["erfahren und versiert", "gewürzt"],
+    "definitions_de": ["durch lange Praxis in einem bestimmten Bereich umfassende Erfahrung und entwickelte Fähigkeiten besitzend", "mit Kräutern, Gewürzen oder anderen Würzmitteln behandelt oder aromatisiert, um den Geschmack zu verbessern"],
+    "examples_de": [["Der **erfahrene** Kommissar löste Fälle, die jüngere Kollegen verblüfften", "Wir engagierten einen **versierten** Berater zur Umstrukturierung unserer Abteilung"], ["Der Koch bereitete perfekt **gewürztes** Hähnchen mit Rosmarin und Thymian zu", "Gusseisenpfannen werden mit der Zeit immer besser, wenn sie richtig **eingebrannt** sind"]]
+  },
+  {
+    "lemma": "seated",
+    "meanings_de": ["sitzend", "mit Sitzplätzen"],
+    "definitions_de": ["auf einem Sitz oder in sitzender Haltung positioniert, anstatt zu stehen", "dafür ausgelegt, eine bestimmte Anzahl von Personen auf Sitzplätzen unterzubringen"],
+    "examples_de": [["Alle Gäste müssen während der Zeremonie **sitzend** bleiben", "Die **sitzenden** Passagiere warteten geduldig auf die Durchsage zum verspäteten Flug"], ["Das Restaurant hat eine Kapazität für hundertfünfzig **sitzende** Gäste", "Sie kauften ein **siebensitziges** Fahrzeug für ihre wachsende Familie"]]
+  },
+  {
+    "lemma": "seaward",
+    "meanings_de": ["seewärts gerichtet"],
+    "definitions_de": ["vom Land aus in Richtung Meer gerichtet, dem Meer zugewandt oder sich dorthin bewegend"],
+    "examples_de": [["Die **seewärts** wehende Brise brachte Erleichterung von der sengenden Sommerhitze", "Schiffe fuhren in **seewärtiger** Richtung und verließen den geschützten Hafen"]]
+  },
+  {
+    "lemma": "seaworthy",
+    "meanings_de": ["seetüchtig"],
+    "definitions_de": ["in einem geeigneten Zustand für die Fahrt auf See; ordnungsgemäß für Ozeanreisen konstruiert und ausgerüstet"],
+    "examples_de": [["Der Inspektor bestätigte das Schiff nach umfangreichen Reparaturen als **seetüchtig**", "Nur **seetüchtige** Boote durften an der Transatlantikregatta teilnehmen"]]
+  },
+  {
+    "lemma": "sec",
+    "meanings_de": ["trocken im Geschmack"],
+    "definitions_de": ["bei Wein oder Champagner: wenig oder keine Süße aufweisend; trocken"],
+    "examples_de": [["Sie bevorzugte **trockenen** Champagner gegenüber süßeren Sorten bei Feiern", "Der Sommelier empfahl einen **trockenen** Weißwein zu den Meeresfrüchten"]]
+  },
+  {
+    "lemma": "secluded",
+    "meanings_de": ["abgelegen und privat"],
+    "definitions_de": ["von allgemeiner Aktivität, Blicken oder Eindringlingen abgeschirmt oder geschützt; an einem privaten oder entlegenen Ort gelegen"],
+    "examples_de": [["Sie fanden einen **abgelegenen** Strand, perfekt für ihre ruhigen Flitterwochen", "Der Schriftsteller arbeitete in einer **abgeschiedenen** Hütte tief im Wald"]]
+  },
+  {
+    "lemma": "secondhand",
+    "meanings_de": ["gebraucht", "aus zweiter Hand"],
+    "definitions_de": ["zuvor von einer anderen Person besessen oder benutzt, bevor der aktuelle Besitzer es erwarb", "über einen Vermittler erhalten und nicht direkt; nicht aus der ursprünglichen Quelle stammend"],
+    "examples_de": [["Sie richtete ihre Wohnung komplett mit **gebrauchten** Möbeln aus Secondhand-Läden ein", "Der **Antiquariats**-Buchladen enthielt seltene Ausgaben zu erschwinglichen Preisen"], ["Ich habe nur Informationen **aus zweiter Hand** darüber, was bei der Besprechung geschah", "Sein Bericht **aus zweiter Hand** über den Unfall erwies sich vor Gericht als unzuverlässig"]]
+  },
+  {
+    "lemma": "secretarial",
+    "meanings_de": ["sekretariell"],
+    "definitions_de": ["sich auf die Arbeit, Pflichten oder Position einer Sekretärin oder Verwaltungsassistentin beziehend"],
+    "examples_de": [["Sie schrieb sich an einer **Sekretariats**schule ein, um ihre Verwaltungsfähigkeiten zu verbessern", "Das Unternehmen stellte Zeitarbeitskräfte für **sekretarielle** Aufgaben ein"]]
+  },
+  {
+    "lemma": "secretive",
+    "meanings_de": ["geheimniskrämerisch"],
+    "definitions_de": ["dazu neigend, Gefühle, Absichten oder Informationen vor anderen zu verbergen; durch unnötige Geheimnistuerei gekennzeichnet"],
+    "examples_de": [["Sein **geheimnisvolles** Verhalten machte seine Kollegen misstrauisch gegenüber seinen Motiven", "Die **verschwiegene** Organisation weigerte sich, ihre Mitgliederliste offenzulegen"]]
+  },
+  {
+    "lemma": "sectarian",
+    "meanings_de": ["sektiererisch", "engstirnig religiös"],
+    "definitions_de": ["sich auf eine oder mehrere religiöse Sekten beziehend oder für sie charakteristisch", "strikt den Lehren einer Sekte folgend; übermäßige Hingabe zu einer bestimmten Konfession zeigend"],
+    "examples_de": [["Das Land kämpfte mit **konfessionellen** Spaltungen zwischen religiösen Gruppen", "**Konfessionelle** Schulen lehrten spezifische religiöse Überzeugungen neben dem regulären Lehrplan"], ["Seine **sektiererischen** Ansichten verhinderten die Zusammenarbeit mit anderen Glaubensgemeinschaften", "Der Konflikt hatte **konfessionelle** Wurzeln, die mehrere Jahrhunderte zurückreichten"]]
+  },
+  {
+    "lemma": "sectional",
+    "meanings_de": ["in Abschnitte geteilt", "regional begrenzt"],
+    "definitions_de": ["sich auf Abschnitte beziehend oder in Abschnitte oder verschiedene Teile unterteilt", "sich mit einer bestimmten Region, Gruppe oder einem Gebiet befassend oder darauf beschränkt, anstatt allgemein zu sein"],
+    "examples_de": [["Sie kauften **modulare** Möbel, die sich leicht umstellen ließen", "Der Bericht enthielt **Schnitt**diagramme der Gebäudestruktur"], ["**Regionale** Interessen drohten die nationale politische Partei zu spalten", "Das Turnier beinhaltete **regionale** Playoffs vor der nationalen Meisterschaft"]]
+  },
+  {
+    "lemma": "sectioned",
+    "meanings_de": ["in Teile geteilt", "zwangseingewiesen"],
+    "definitions_de": ["in Abschnitte, Segmente oder verschiedene Teile geteilt oder getrennt", "aufgrund der Gesetzgebung zur psychischen Gesundheit in einer psychiatrischen Klinik festgehalten"],
+    "examples_de": [["Die **zerlegte** Orange war für Kinder leichter zu essen", "Der Architekt präsentierte eine **geschnittene** Ansicht des geplanten Gebäudes"], ["Der Patient wurde **zwangseingewiesen**, nachdem er eine Gefahr für sich selbst darstellte", "Eine **Zwangseinweisung** erfordert die Beurteilung durch qualifizierte Fachkräfte für psychische Gesundheit"]]
+  },
+  {
+    "lemma": "sedate",
+    "meanings_de": ["ruhig und würdevoll", "sediert"],
+    "definitions_de": ["ruhig, würdevoll und gemächlich in Art und Verhalten", "unter dem Einfluss von Beruhigungsmitteln; in einem medizinisch beruhigten Zustand"],
+    "examples_de": [["Die **würdevolle** Zeremonie verlief nach alten Traditionen", "Ihre **ruhige** Art verbarg intensive Emotionen unter der Oberfläche"], ["Der **sedierte** Patient ruhte sich nach der Medikamentengabe bequem aus", "Ärzte hielten ihn während des langen Genesungsprozesses **ruhiggestellt**"]]
+  },
+  {
+    "lemma": "sedative",
+    "meanings_de": ["beruhigend wirkend"],
+    "definitions_de": ["dazu neigend, Nervosität oder Aufregung zu beruhigen, zu mäßigen oder zu lindern; eine beruhigende Wirkung erzeugend"],
+    "examples_de": [["Der Arzt verschrieb **beruhigende** Medikamente gegen ihre schwere Angst", "Kamillentee hat milde **beruhigende** Eigenschaften, die erholsamen Schlaf fördern"]]
+  },
+  {
+    "lemma": "sedentary",
+    "meanings_de": ["bewegungsarm"],
+    "definitions_de": ["durch viel Sitzen und wenig körperliche Bewegung oder Aktivität gekennzeichnet; eine sitzende Position erfordernd"],
+    "examples_de": [["Sein **bewegungsarmer** Lebensstil trug im Laufe der Zeit zu zahlreichen Gesundheitsproblemen bei", "Viele Büroangestellte kämpfen mit den Auswirkungen **sitzender** Tätigkeiten"]]
+  },
+  {
+    "lemma": "sedimentary",
+    "meanings_de": ["sedimentär"],
+    "definitions_de": ["sich auf Sedimente beziehend oder aus Sedimenten gebildet, die über geologische Zeiträume durch Wasser, Wind oder Eis abgelagert wurden"],
+    "examples_de": [["Kalkstein und Sandstein sind häufige Arten von **Sedimentgestein**", "Die **sedimentären** Schichten offenbarten Millionen Jahre geologischer Geschichte"]]
+  },
+  {
+    "lemma": "seditious",
+    "meanings_de": ["aufrührerisch"],
+    "definitions_de": ["Menschen dazu anstiftend oder veranlassend, sich gegen die Autorität eines Staates oder Monarchen aufzulehnen"],
+    "examples_de": [["Die Regierung verhaftete Journalisten wegen der Veröffentlichung angeblich **aufrührerischer** Artikel", "Seine **aufrührerischen** Reden ermutigten Bürger, das korrupte Regime zu stürzen"]]
+  },
+  {
+    "lemma": "seductive",
+    "meanings_de": ["verführerisch"],
+    "definitions_de": ["verlockend und attraktiv auf eine Weise, die zu unklugen Entscheidungen führen kann; verlockend"],
+    "examples_de": [["Das **verführerische** Angebot erwies sich als zu gut, um vollständig wahr zu sein", "Ihre **verführerische** Stimme fesselte das Publikum bei jeder Aufführung"]]
+  },
+  {
+    "lemma": "seeded",
+    "meanings_de": ["kernhaltig", "gesetzt im Wettkampf"],
+    "definitions_de": ["Samen enthaltend; mit vorhandenen Samen im Inneren", "eine Rangfolge oder vorläufige Position in einem Turnier auf der Grundlage der Fähigkeiten erhalten"],
+    "examples_de": [["Sie bevorzugte **kernhaltige** Weintrauben für die Herstellung hausgemachter Marmelade", "Das **kernhaltige** Brot bot zusätzliche Nährstoffe und eine befriedigende Textur"], ["Die **gesetzten** Spieler kamen leicht durch die frühen Turnierrunden", "Als drittes **gesetztes** Team hatten sie leichtere Anfangsgegner"]]
+  },
+  {
+    "lemma": "seedy",
+    "meanings_de": ["schäbig und zweifelhaft", "viele Kerne enthaltend"],
+    "definitions_de": ["schmutzig, zweifelhaft oder heruntergekommen in Erscheinung oder Natur; verwahrlost", "voller Samen; eine bemerkenswerte Menge an Samen enthaltend"],
+    "examples_de": [["Der Detektiv suchte in **zwielichtigen** Motels in der Innenstadt nach Hinweisen", "Diese **heruntergekommene** Bar zog Kriminelle und andere zwielichtige Gestalten an"], ["Die **kernreiche** Wassermelone war für Kinder schwer zu essen", "Sie vermied **kernige** Tomaten bei der Zubereitung glatter Pastasauce"]]
+  },
+  {
+    "lemma": "seeing",
+    "meanings_de": ["angesichts der Tatsache"],
+    "definitions_de": ["unter Berücksichtigung der Tatsache, dass; in Anbetracht oder angesichts dessen"],
+    "examples_de": [["**Angesichts** der späten Stunde beschlossen wir, das Treffen zu verschieben", "Das Projekt war erfolgreich, **da** alle ihr Bestes beigetragen hatten"]]
+  },
+  {
+    "lemma": "seeming",
+    "meanings_de": ["scheinbar"],
+    "definitions_de": ["den Anschein erweckend, real oder wahr zu sein, aber nicht unbedingt; den Eindruck vermittelnd"],
+    "examples_de": [["Seine **scheinbare** Zuversicht verbarg tiefe Unsicherheiten über seine Fähigkeiten", "Die **scheinbare** Einfachheit der Lösung übersah mehrere kritische Faktoren"]]
+  },
+  {
+    "lemma": "seeping",
+    "meanings_de": ["langsam durchsickernd"],
+    "definitions_de": ["langsam durch poröses Material oder kleine Öffnungen fließend oder auslaufend"],
+    "examples_de": [["Wasser **sickerte** durch Risse in den Kellerwänden", "Die **nässende** Wunde erforderte sofortige medizinische Behandlung zur Infektionsverhütung"]]
+  },
+  {
+    "lemma": "seething",
+    "meanings_de": ["vor Wut kochend", "brodelnd vor Hitze"],
+    "definitions_de": ["erfüllt von oder gekennzeichnet durch intensive, aber unterdrückte Wut oder Erregung", "aufgrund des Kochens aufsprudelnd; sich auf turbulente Weise bewegend"],
+    "examples_de": [["Sie blieb äußerlich ruhig, obwohl sie innerlich **vor Wut kochte**", "Die **kochende** Menge forderte Gerechtigkeit für die Opfer von Polizeigewalt"], ["Der **brodelnde** Kessel enthielt einen geheimnisvollen, langsam brauenden Trank", "Dampf stieg aus den **brodelnden** heißen Quellen im Tal auf"]]
+  },
+  {
+    "lemma": "segmental",
+    "meanings_de": ["segmentiert"],
+    "definitions_de": ["sich auf Segmente oder Abschnitte beziehend oder in diese unterteilt; aus getrennten Teilen bestehend"],
+    "examples_de": [["Das **segmentierte** Bogendesign verteilte das Gewicht effizienter als halbkreisförmige", "Ärzte analysierten **segmentale** Reflexe zur Diagnose von Rückenmarksverletzungen"]]
+  },
+  {
+    "lemma": "segmented",
+    "meanings_de": ["in Teile gegliedert"],
+    "definitions_de": ["in verschiedene Segmente, Abschnitte oder Teile unterteilt oder aus diesen bestehend"],
+    "examples_de": [["Der **gegliederte** Wurm bewegte sich durch aufeinanderfolgende Kontraktion jedes Körperabschnitts", "Marketingteams erstellten **segmentierte** Kampagnen für verschiedene Kundendemografien"]]
+  },
+  {
+    "lemma": "segregated",
+    "meanings_de": ["getrennt nach Gruppen"],
+    "definitions_de": ["von anderen getrennt oder isoliert, insbesondere aufgrund von Rasse, Klasse oder ethnischer Gruppe"],
+    "examples_de": [["Die **getrennten** Schulen verstießen gegen verfassungsrechtliche Grundsätze der Chancengleichheit in der Bildung", "Daten wurden in Kategorien **aufgeteilt** für eine detailliertere statistische Analyse"]]
+  },
+  {
+    "lemma": "seismic",
+    "meanings_de": ["seismisch", "sehr bedeutsam"],
+    "definitions_de": ["sich auf Erdbeben oder andere Schwingungen der Erde und ihrer Kruste beziehend", "eine starke oder weitreichende Wirkung habend; von enormen Ausmaßen oder Auswirkungen"],
+    "examples_de": [["Die **seismische** Aktivität nahm vor dem Vulkanausbruch dramatisch zu", "Wissenschaftler installierten **seismische** Überwachungsgeräte in der erdbebengefährdeten Region"], ["Die Wahlergebnisse verursachten **tektonische** Verschiebungen in der nationalen politischen Landschaft", "Ihr Rücktritt löste **erdbebenartige** Veränderungen in der gesamten Unternehmenshierarchie aus"]]
+  },
+  {
+    "lemma": "selected",
+    "meanings_de": ["sorgfältig ausgewählt"],
+    "definitions_de": ["sorgfältig aus einer größeren Gruppe als das Beste oder Geeignetste ausgewählt"],
+    "examples_de": [["Nur **ausgewählte** Schüler erhielten Einladungen zum Förderprogramm", "Das Museum zeigte **ausgewählte** Werke aus ihrer ständigen Sammlung"]]
+  },
+  {
+    "lemma": "selective",
+    "meanings_de": ["wählerisch"],
+    "definitions_de": ["sorgfältig einige Dinge auswählend und andere ablehnend; bei der Auswahl sorgfältiges Urteilsvermögen anwendend"],
+    "examples_de": [["Sie war sehr **wählerisch** bei der Auswahl von Jobangeboten", "Das **selektive** Zulassungsverfahren nahm nur die leistungsstärksten Bewerber auf"]]
+  },
+  {
+    "lemma": "selfish",
+    "meanings_de": ["selbstsüchtig"],
+    "definitions_de": ["hauptsächlich mit dem eigenen persönlichen Gewinn oder Vergnügen beschäftigt, ohne Rücksicht auf andere"],
+    "examples_de": [["Sein **selbstsüchtiges** Verhalten entfremdete Freunde, die ihn einst unterstützten", "**Egoistische** Entscheidungen zu treffen schadete letztendlich ihrem beruflichen Ruf"]]
+  },
+  {
+    "lemma": "selfless",
+    "meanings_de": ["selbstlos"],
+    "definitions_de": ["mehr mit den Bedürfnissen und Wünschen anderer als mit den eigenen Interessen beschäftigt"],
+    "examples_de": [["Ihre **selbstlose** Hingabe an die Wohltätigkeitsarbeit inspirierte die gesamte Gemeinde", "Die **selbstlosen** Taten des Feuerwehrmanns retteten drei Kinder aus dem brennenden Gebäude"]]
+  },
+  {
+    "lemma": "semantic",
+    "meanings_de": ["semantisch"],
+    "definitions_de": ["sich auf Bedeutung in Sprache oder Logik beziehend; mit den Bedeutungen von Wörtern und Sätzen befasst"],
+    "examples_de": [["Die **semantische** Analyse offenbarte subtile Unterschiede zwischen ähnlichen Wörtern", "Studenten untersuchten **semantische** Beziehungen, um ihr Vokabelverständnis zu verbessern"]]
+  },
+  {
+    "lemma": "semiarid",
+    "meanings_de": ["halbtrocken"],
+    "definitions_de": ["durch geringe Niederschläge gekennzeichnet; etwas mehr Niederschlag als aride Regionen habend, aber immer noch relativ trocken"],
+    "examples_de": [["Landwirte in **halbariden** Regionen verließen sich auf dürreresistente Pflanzensorten", "Das **semiaride** Klima unterstützte Grasland anstelle dichter Wälder"]]
+  },
+  {
+    "lemma": "semiautomatic",
+    "meanings_de": ["halbautomatisch"],
+    "definitions_de": ["teilweise automatisch; erfordert eine gewisse menschliche Kontrolle, führt aber bestimmte Vorgänge automatisch aus"],
+    "examples_de": [["Das **halbautomatische** Getriebe kombinierte manuelle Kontrolle mit automatischem Schalten", "Polizeibeamte trugen **halbautomatische** Waffen, die pro Schuss einen Abzug erforderten"]]
+  },
+  {
+    "lemma": "semicircular",
+    "meanings_de": ["halbkreisförmig"],
+    "definitions_de": ["die Form oder Gestalt eines halben Kreises oder einer halben Scheibe habend"],
+    "examples_de": [["Das **halbkreisförmige** Fenster über der Tür sorgte für zusätzliches Tageslicht", "Die Schüler ordneten ihre Tische in einem **halbkreisförmigen** Muster um den Lehrer an"]]
+  },
+  {
+    "lemma": "seminal",
+    "meanings_de": ["wegweisend"],
+    "definitions_de": ["spätere Entwicklungen stark beeinflussend; Keime zukünftiger Entwicklung enthaltend; bahnbrechend"],
+    "examples_de": [["Darwins **wegweisendes** Werk revolutionierte unser Verständnis der biologischen Evolution", "Ihre **bahnbrechende** Forschungsarbeit inspirierte jahrzehntelange nachfolgende wissenschaftliche Studien"]]
+  },
+  {
+    "lemma": "senatorial",
+    "meanings_de": ["senatorisch"],
+    "definitions_de": ["sich auf einen Senator oder Senat beziehend oder ihm angemessen; senatorische Eigenschaften habend"],
+    "examples_de": [["Das **Senats**rennen zog nationale Aufmerksamkeit und erhebliche Finanzierung auf sich", "Seine **senatorische** Haltung gebot Respekt während der Gesetzesdebatten"]]
+  },
+  {
+    "lemma": "senile",
+    "meanings_de": ["senil"],
+    "definitions_de": ["einen mit dem Alter verbundenen Verlust kognitiver Fähigkeiten zeigend; Anzeichen von Demenz aufweisend"],
+    "examples_de": [["Der **senile** Patient benötigte ständige Pflege und medizinische Überwachung", "Sein zunehmend **seniles** Verhalten beunruhigte Familienmitglieder hinsichtlich seiner Sicherheit"]]
+  },
+  {
+    "lemma": "sensational",
+    "meanings_de": ["sensationell", "äußerst beeindruckend"],
+    "definitions_de": ["großes öffentliches Interesse und Aufregung verursachend, oft durch Übertreibung oder reißerische Details", "extrem gut, beeindruckend oder attraktiv; herausragend oder spektakulär"],
+    "examples_de": [["Der **sensationelle** Mordprozess dominierte monatelang die Nachrichtenberichterstattung", "Boulevardblätter veröffentlichten **reißerische** Geschichten unabhängig von ihrem Wahrheitsgehalt"], ["Sie gab eine **sensationelle** Vorstellung, die stehende Ovationen erhielt", "Der Koch bereitete ein **sensationelles** Mahl mit regionalen Zutaten zu"]]
+  },
+  {
+    "lemma": "sensed",
+    "meanings_de": ["wahrgenommen"],
+    "definitions_de": ["durch einen oder mehrere Sinne wahrgenommen; durch Intuition bewusst geworden"],
+    "examples_de": [["Die **wahrgenommene** Gefahr veranlasste alle, das Gebäude sofort zu evakuieren", "Ihr **gespürtes** Unbehagen über die Situation erwies sich als völlig gerechtfertigt"]]
+  },
+  {
+    "lemma": "senseless",
+    "meanings_de": ["sinnlos", "bewusstlos"],
+    "definitions_de": ["ohne Sinn oder Bedeutung; töricht, dumm oder zwecklos", "bewusstlos oder gefühllos; das Bewusstsein verloren habend"],
+    "examples_de": [["Die **sinnlose** Gewalt schockierte die friedliche Gemeinde", "Über bewiesene Fakten zu streiten erschien Wissenschaftlern völlig **sinnlos**"], ["Der Boxer lag **bewusstlos** auf der Leinwand nach dem K.o.-Schlag", "Das Unfallopfer blieb mehrere Stunden **besinnungslos**"]]
+  },
+  {
+    "lemma": "sensible",
+    "meanings_de": ["vernünftig"],
+    "definitions_de": ["guten Verstand oder gesundes Urteilsvermögen habend, benutzend oder zeigend; praktisch und vernünftig"],
+    "examples_de": [["Sie tätigte **vernünftige** Investitionen, die stetige langfristige Erträge brachten", "Das Tragen **vernünftiger** Schuhe verhinderte Fußprobleme während der langen Wanderung"]]
+  },
+  {
+    "lemma": "sensitized",
+    "meanings_de": ["sensibilisiert"],
+    "definitions_de": ["empfindlich oder bewusst für etwas gemacht; dazu gebracht, auf bestimmte Reize zu reagieren"],
+    "examples_de": [["Der **sensibilisierte** Film reagierte selbst auf minimale Lichteinwirkung", "Jahrelanges Training **sensibilisierte** sie für subtile Veränderungen im Patientenzustand"]]
+  },
+  {
+    "lemma": "sensory",
+    "meanings_de": ["sensorisch"],
+    "definitions_de": ["sich auf Empfindungen oder die körperlichen Sinne beziehend; durch die Sinne übertragen oder wahrgenommen"],
+    "examples_de": [["Die **sensorische** Wahrnehmung des Patienten verbesserte sich nach erfolgreicher chirurgischer Behandlung", "Kinder mit **sensorischen** Verarbeitungsstörungen benötigten spezialisierte therapeutische Interventionen"]]
+  },
+  {
+    "lemma": "sensual",
+    "meanings_de": ["sinnlich"],
+    "definitions_de": ["sich auf die Befriedigung der Sinne oder des körperlichen Appetits beziehend oder darin bestehend"],
+    "examples_de": [["Das Spa bot **sinnliche** Massagen mit aromatischen ätherischen Ölen an", "Seine **sinnliche** Poesie feierte körperliche Freuden und irdische Genüsse"]]
+  },
+  {
+    "lemma": "sensuous",
+    "meanings_de": ["sinnenfreudig"],
+    "definitions_de": ["sich auf die Sinne beziehend oder diese beeinflussend, anstatt den Intellekt; ästhetisch ansprechend"],
+    "examples_de": [["Der Künstler schuf **sinnliche** Skulpturen mit glatten, fließenden Kurven", "Sie genoss das **sinnliche** Gefühl von Seide auf ihrer Haut"]]
+  },
+  {
+    "lemma": "sent",
+    "meanings_de": ["gesendet"],
+    "definitions_de": ["veranlasst, zu einem Ziel zu gehen oder dorthin gebracht zu werden; versandt"],
+    "examples_de": [["Das **gesendete** Paket kam früher als erwartet an seinem Bestimmungsort an", "Alle **gesendeten** Nachrichten wurden im E-Mail-Postausgang gespeichert"]]
+  },
+  {
+    "lemma": "sentient",
+    "meanings_de": ["empfindungsfähig"],
+    "definitions_de": ["in der Lage, Dinge wahrzunehmen oder zu fühlen; Bewusstsein und die Fähigkeit zur Empfindung habend"],
+    "examples_de": [["Wissenschaftler debattierten, ob künstliche Intelligenz wirklich **empfindungsfähig** werden könnte", "Tierschützer argumentierten, dass alle **empfindungsfähigen** Wesen Schutz verdienen"]]
+  },
+  {
+    "lemma": "sentimental",
+    "meanings_de": ["gefühlsbetont"],
+    "definitions_de": ["durch Gefühle von Zärtlichkeit, Traurigkeit oder Nostalgie hervorgerufen, oft übermäßig"],
+    "examples_de": [["Sie bewahrte **sentimentale** Gegenstände aus der Kindheit in einer besonderen Erinnerungsbox auf", "Seine **gefühlsbetonte** Bindung an das Haus hinderte ihn am Verkauf"]]
+  }
+]

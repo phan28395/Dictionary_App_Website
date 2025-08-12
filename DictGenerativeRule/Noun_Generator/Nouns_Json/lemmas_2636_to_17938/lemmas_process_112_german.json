@@ -1,0 +1,290 @@
+[
+  {
+    "lemma": "insider",
+    "meanings_de": ["Person mit Insiderwissen"],
+    "definitions_de": ["Person mit Zugang zu vertraulichen Informationen innerhalb einer Organisation oder Gruppe, die der Öffentlichkeit nicht zugänglich sind"],
+    "examples_de": [["Der **Insider** verriet brisante Details über die geplante Firmenübernahme", "**Insider** an der Börse nutzen oft ihren Informationsvorsprung aus"]]
+  },
+  {
+    "lemma": "insignia",
+    "meanings_de": ["Abzeichen der Autorität"],
+    "definitions_de": ["Kennzeichen oder Symbole, die militärischen Rang, Ehre oder Zugehörigkeit zu einer Organisation anzeigen"],
+    "examples_de": [["Die **Rangabzeichen** auf seiner Uniform zeugten von jahrelanger Dienstzeit", "Jede Einheit trägt ihre eigenen charakteristischen **Insignien** mit Stolz"]]
+  },
+  {
+    "lemma": "insignificance",
+    "meanings_de": ["Zustand der Bedeutungslosigkeit"],
+    "definitions_de": ["Eigenschaft, zu unbedeutend oder unwichtig zu sein, um Beachtung zu verdienen"],
+    "examples_de": [["Die **Bedeutungslosigkeit** des Fehlers erlaubte es, ihn zu ignorieren", "Angesichts der Weite des Universums empfand sie ihre eigene **Bedeutungslosigkeit**"]]
+  },
+  {
+    "lemma": "insistence",
+    "meanings_de": ["nachdrückliche Forderung"],
+    "definitions_de": ["entschiedenes oder nachdrückliches Verlangen, dass etwas geschehen oder getan werden soll"],
+    "examples_de": [["Trotz seines **Beharrens** weigerte sich der Ausschuss, die Richtlinie zu ändern", "Ihr **Insistieren** auf ordnungsgemäße Sicherheitsverfahren verhinderte viele Unfälle"]]
+  },
+  {
+    "lemma": "insisting",
+    "meanings_de": ["Akt des Forderns"],
+    "definitions_de": ["Handlung des nachdrücklichen Verlangens von etwas und der Weigerung, Widerstand zu akzeptieren"],
+    "examples_de": [["Sein ständiges **Beharren** auf Perfektion erschöpfte das gesamte Team", "Das **Insistieren** der Eltern führte zu besseren Sicherheitsmaßnahmen an der Schule"]]
+  },
+  {
+    "lemma": "insolvency",
+    "meanings_de": ["finanzielle Zahlungsunfähigkeit"],
+    "definitions_de": ["Zustand der Unfähigkeit, fällige Schulden zu bezahlen, wenn diese zur Zahlung anstehen"],
+    "examples_de": [["Nach Monaten der **Zahlungsunfähigkeit** meldete das Unternehmen Konkurs an", "Steigende Kosten trieben viele Kleinbetriebe in die **Insolvenz**"]]
+  },
+  {
+    "lemma": "insolvent",
+    "meanings_de": ["zahlungsunfähige Person"],
+    "definitions_de": ["Person oder Organisation, die ihre Schulden nicht bezahlen kann und deren Verbindlichkeiten das Vermögen übersteigen"],
+    "examples_de": [["Der **Insolvente** musste sein gesamtes Vermögen an die Gläubiger abtreten", "Viele **Zahlungsunfähige** suchen professionelle Hilfe zur Bewältigung ihrer Finanzkrise"]]
+  },
+  {
+    "lemma": "insomnia",
+    "meanings_de": ["Schlafstörung"],
+    "definitions_de": ["chronische Unfähigkeit einzuschlafen oder durchzuschlafen, um ausreichende Erholung zu erhalten"],
+    "examples_de": [["Ihre **Schlaflosigkeit** verschlimmerte sich in Zeiten hoher beruflicher Belastung", "Der Arzt empfahl Meditationstechniken zur Behandlung seiner **Insomnie**"]]
+  },
+  {
+    "lemma": "insomniac",
+    "meanings_de": ["Person mit Schlaflosigkeit"],
+    "definitions_de": ["Person, die regelmäßig unter der Unfähigkeit leidet, zu normalen Zeiten zu schlafen"],
+    "examples_de": [["Der **Schlaflose** verbrachte wieder eine Nacht vor dem Fernseher bis zum Morgengrauen", "Viele **Insomniepatienten** finden Linderung durch regelmäßige Schlafrituale und Therapie"]]
+  },
+  {
+    "lemma": "inspectorate",
+    "meanings_de": ["Aufsichtsbehörde"],
+    "definitions_de": ["Abteilung oder Gremium von Inspektoren, die für die Sicherstellung von Standards und Vorschriften verantwortlich sind"],
+    "examples_de": [["Das **Gesundheitsamt** entdeckte mehrere Verstöße im Restaurant", "Schulen müssen jährlich die Anforderungen der **Schulaufsichtsbehörde** erfüllen"]]
+  },
+  {
+    "lemma": "instability",
+    "meanings_de": ["Mangel an Beständigkeit"],
+    "definitions_de": ["Zustand, in dem etwas wahrscheinlich unerwartet verändert wird, versagt oder nachgibt"],
+    "examples_de": [["Die politische **Instabilität** in der Region schreckte ausländische Investoren ab", "Die emotionale **Instabilität** des Patienten erforderte sofortige psychiatrische Intervention"]]
+  },
+  {
+    "lemma": "installing",
+    "meanings_de": ["Prozess der Einrichtung"],
+    "definitions_de": ["Vorgang des Aufstellens von Geräten oder Software in betriebsbereiter Position"],
+    "examples_de": [["Das **Installieren** des neuen Sicherheitssystems dauerte drei Tage", "Die **Installation** von Solarpaneelen wird zunehmend beliebter"]]
+  },
+  {
+    "lemma": "installment",
+    "meanings_de": ["Teilzahlungsbetrag"],
+    "definitions_de": ["einer von mehreren Teilen, in die eine Schuld oder Zahlung aufgeteilt wird"],
+    "examples_de": [["Sie zahlte diesen Monat die letzte **Rate** ihres Autokredits", "Das Möbelhaus bot einen Zahlungsplan mit zwölf **Raten** an"]]
+  },
+  {
+    "lemma": "instalment",
+    "meanings_de": ["Teilzahlungsbetrag"],
+    "definitions_de": ["einer von mehreren Teilen, in die eine Schuld oder Zahlung aufgeteilt wird"],
+    "examples_de": [["Er versäumte die dritte **Rate** seiner Hypothekenzahlung letzten Monat", "Der Kredit erforderte monatliche **Raten** über einen Zeitraum von fünf Jahren"]]
+  },
+  {
+    "lemma": "instigation",
+    "meanings_de": ["Akt der Anstiftung"],
+    "definitions_de": ["Handlung des Herbeiführens oder Initiierens von etwas, insbesondere etwas Unerwünschtem"],
+    "examples_de": [["Der Aufruhr begann auf **Anstiftung** externer Unruhestifter", "Ihre **Anregung** von Reformen führte zu erheblichen Verbesserungen der Arbeitssicherheit"]]
+  },
+  {
+    "lemma": "instigator",
+    "meanings_de": ["Person die anstiftet"],
+    "definitions_de": ["Person, die eine Handlung herbeiführt oder initiiert, insbesondere Ärger oder Konflikte"],
+    "examples_de": [["Die Polizei verhaftete den **Hauptanstifter** des gewalttätigen Straßenprotests", "Der **Initiator** der Reformbewegung wurde zur gefeierten historischen Persönlichkeit"]]
+  },
+  {
+    "lemma": "instilling",
+    "meanings_de": ["schrittweiser Lehrprozess"],
+    "definitions_de": ["Prozess der allmählichen Etablierung einer Idee oder Einstellung im Bewusstsein einer Person"],
+    "examples_de": [["Das **Vermitteln** guter Werte an Kinder erfordert Geduld und Beständigkeit", "Der Trainer konzentrierte sich darauf, jedem Teammitglied Selbstvertrauen **einzuflößen**"]]
+  },
+  {
+    "lemma": "instrumentalist",
+    "meanings_de": ["Musikinstrumentalist"],
+    "definitions_de": ["Person, die ein Musikinstrument spielt, insbesondere beruflich"],
+    "examples_de": [["Der talentierte **Instrumentalist** spielte gestern Abend ein wunderschönes Violinsolo", "Jazz-**Instrumentalisten** improvisieren oft während ihrer Live-Auftritte"]]
+  },
+  {
+    "lemma": "instrumentality",
+    "meanings_de": ["Mittel zur Erreichung"],
+    "definitions_de": ["Eigenschaft, als Instrument oder Mittel zur Erreichung eines Zwecks zu dienen"],
+    "examples_de": [["Der Ausschuss diente als **Instrument** zur Umsetzung neuer Richtlinien", "Durch die **Vermittlung** sozialer Medien verbreitete sich die Nachricht rasch"]]
+  },
+  {
+    "lemma": "instrumentation",
+    "meanings_de": ["Messgerätesystem", "musikalische Besetzung"],
+    "definitions_de": ["Instrumente oder Ausrüstung für Messung und Kontrolle in technischen Verfahren", "bestimmte Kombination von Musikinstrumenten in einem Musikstück"],
+    "examples_de": [["Die **Laborinstrumentierung** erforderte regelmäßige Kalibrierung und Wartung", "Moderne **Messtechnik** ermöglichte Wissenschaftlern die Detektion zuvor unsichtbarer Teilchen"], ["Die **Instrumentierung** des Liedes umfasste Streicher, Bläser und Schlagzeug", "Moderne Aufnahmestudios bieten nahezu unbegrenzte **Instrumentierungsmöglichkeiten**"]]
+  },
+  {
+    "lemma": "insubordination",
+    "meanings_de": ["Verweigerung der Autorität"],
+    "definitions_de": ["Weigerung, Befehle zu befolgen oder sich der Autorität zu unterwerfen, besonders durch einen Angestellten"],
+    "examples_de": [["Der Soldat wurde wegen **Befehlsverweigerung** angeklagt", "Wiederholte Akte der **Insubordination** führten zu ihrer fristlosen Kündigung"]]
+  },
+  {
+    "lemma": "insufficiency",
+    "meanings_de": ["Zustand der Unzulänglichkeit"],
+    "definitions_de": ["Zustand oder Eigenschaft, nicht ausreichend oder nicht gut genug für einen Zweck zu sein"],
+    "examples_de": [["Die **Unzulänglichkeit** der Mittel zwang zur Einstellung des Projekts", "Ein **Vitaminmangel** kann mit der Zeit zu verschiedenen ernsten Gesundheitsproblemen führen"]]
+  },
+  {
+    "lemma": "insulation",
+    "meanings_de": ["schützendes Dämmmaterial"],
+    "definitions_de": ["Material zur Verhinderung des Entweichens oder Eindringens von Wärme, Schall oder Elektrizität"],
+    "examples_de": [["Eine ordnungsgemäße **Isolierung** kann die Heizkosten im Winter erheblich senken", "Der Elektriker überprüfte die **Leitungsisolierung** auf Beschädigungen"]]
+  },
+  {
+    "lemma": "insulator",
+    "meanings_de": ["nichtleitendes Material", "Isoliervorrichtung"],
+    "definitions_de": ["Substanz, die Wärme, Schall oder Elektrizität nicht leicht durchlässt", "Vorrichtung aus isolierendem Material zur Verhinderung elektrischer Leitung"],
+    "examples_de": [["Gummi ist ein ausgezeichneter **Isolator** für elektrische Anwendungen", "Holz wirkt als natürlicher **Isolierstoff** gegen Hitze und Kälte"], ["Die **Isolatoren** an der Stromleitung verhinderten, dass Elektrizität den Metallmast erreichte", "Keramische **Isolatoren** werden häufig in Hochspannungsanlagen verwendet"]]
+  },
+  {
+    "lemma": "insulin",
+    "meanings_de": ["Blutzuckerhormon"],
+    "definitions_de": ["Hormon der Bauchspeicheldrüse, das den Glukosespiegel im Blut reguliert"],
+    "examples_de": [["Diabetiker benötigen oft tägliche **Insulininjektionen** für ihre Gesundheit", "Die Entdeckung des **Insulins** revolutionierte die Behandlung von Diabetespatienten weltweit"]]
+  },
+  {
+    "lemma": "insult",
+    "meanings_de": ["beleidigende Äußerung"],
+    "definitions_de": ["respektlose oder verächtlich beleidigende Bemerkung oder Handlung gegenüber jemandem"],
+    "examples_de": [["Seine unachtsame **Beleidigung** zerstörte ihre zwanzigjährige Freundschaft", "Sie ignorierte die **Beschimpfung** und setzte ihre Präsentation professionell fort"]]
+  },
+  {
+    "lemma": "insured",
+    "meanings_de": ["versicherte Person"],
+    "definitions_de": ["Person oder Eigentum, das durch eine Versicherungspolice gegen bestimmte Risiken abgedeckt ist"],
+    "examples_de": [["Der **Versicherte** muss Ansprüche innerhalb von dreißig Tagen nach einem Vorfall geltend machen", "Als **versicherte Partei** erhielt sie eine Entschädigung für ihr beschädigtes Auto"]]
+  },
+  {
+    "lemma": "insurer",
+    "meanings_de": ["Versicherungsgesellschaft"],
+    "definitions_de": ["Person oder Unternehmen, das gegen Prämienzahlung Versicherungsschutz durch Vertrag gewährt"],
+    "examples_de": [["Der **Versicherer** weigerte sich, für Vorerkrankungen zu zahlen", "Große **Versicherungsgesellschaften** erhöhen die Prämien aufgrund zunehmender Naturkatastrophenschäden"]]
+  },
+  {
+    "lemma": "insurgency",
+    "meanings_de": ["bewaffnete Aufstandsbewegung"],
+    "definitions_de": ["aktive Revolte oder Aufstand gegen eine etablierte Regierung oder Besatzungsmacht"],
+    "examples_de": [["Das Militär kämpfte darum, den wachsenden **Aufstand** in ländlichen Gebieten einzudämmen", "Regierungstruppen starteten Operationen zur Unterdrückung der **Insurgenz** vor den Wahlen"]]
+  },
+  {
+    "lemma": "insurgent",
+    "meanings_de": ["Rebellenkämpfer"],
+    "definitions_de": ["Person, die als Teil einer organisierten Rebellion gegen eine Regierung oder Invasionsmacht kämpft"],
+    "examples_de": [["**Aufständische** Kräfte kontrollierten mehrere Schlüsselstädte im Norden", "Der gefangene **Rebell** lieferte wertvolle Informationen über Rebellenoperationen"]]
+  },
+  {
+    "lemma": "insurrection",
+    "meanings_de": ["gewaltsamer Aufstand"],
+    "definitions_de": ["gewaltsamer Aufstand gegen eine Autorität oder Regierung mit dem Ziel, sie zu stürzen"],
+    "examples_de": [["Der gescheiterte **Aufstand** führte zu Massenverhaftungen und Militärgerichten", "Historische Aufzeichnungen dokumentieren den **Bauernaufstand** des sechzehnten Jahrhunderts"]]
+  },
+  {
+    "lemma": "intake",
+    "meanings_de": ["aufgenommene Menge", "Einlassöffnung"],
+    "definitions_de": ["Menge an Nahrung, Flüssigkeit, Luft oder anderen Substanzen, die in den Körper aufgenommen wird", "Öffnung, durch die Flüssigkeit oder Gas in eine Maschine oder einen Behälter eintritt"],
+    "examples_de": [["Ärzte empfahlen, seine tägliche **Salzaufnahme** für bessere Gesundheit zu reduzieren", "Die Ernährungsberaterin berechnete ihre tägliche **Kalorienaufnahme** für den Diätplan"], ["Der Mechaniker reinigte den **Lufteinlass** des Motors zur Leistungsverbesserung", "Wasser gelangt durch dieses **Einlassventil** in das Kühlsystem"]]
+  },
+  {
+    "lemma": "intangible",
+    "meanings_de": ["immaterieller Vermögenswert"],
+    "definitions_de": ["Vermögenswert oder Eigenschaft, die existiert, aber nicht physisch berührt oder gemessen werden kann"],
+    "examples_de": [["Der Firmenruf ist ein wichtiger **immaterieller Wert**, der den Aktienkurs beeinflusst", "Patente und Markenzeichen sind wertvolle **immaterielle Güter** für viele Technologieunternehmen"]]
+  },
+  {
+    "lemma": "integer",
+    "meanings_de": ["ganze Zahl"],
+    "definitions_de": ["ganze Zahl, die positiv, negativ oder null sein kann, ohne Bruchteile"],
+    "examples_de": [["Die Schüler lernten heute im Mathematikunterricht, **ganze Zahlen** zu addieren und subtrahieren", "Das Computerprogramm akzeptiert nur **Ganzzahlen** für diese Berechnung"]]
+  },
+  {
+    "lemma": "integral",
+    "meanings_de": ["mathematischer Ausdruck"],
+    "definitions_de": ["mathematische Funktion, die die Fläche unter einer Kurve oder die Akkumulation von Größen angibt"],
+    "examples_de": [["Die Berechnung des **Integrals** erfordert gründliche Kenntnisse der höheren Analysis", "Das bestimmte **Integral** stellt die Gesamtfläche zwischen diesen beiden Punkten dar"]]
+  },
+  {
+    "lemma": "integrating",
+    "meanings_de": ["Vereinigungsprozess"],
+    "definitions_de": ["Prozess des Kombinierens oder Koordinierens separater Elemente zu einem einheitlichen Ganzen"],
+    "examples_de": [["Die **Integration** neuer Mitarbeiter erfordert ein umfassendes Einführungsprogramm und Mentoring", "Das Unternehmen **integriert** künstliche Intelligenz in seinen Kundenservice"]]
+  },
+  {
+    "lemma": "integrator",
+    "meanings_de": ["Systemintegrator"],
+    "definitions_de": ["Gerät oder System, das separate Elemente oder Signale zu einer einheitlichen Ausgabe kombiniert"],
+    "examples_de": [["Der **Systemintegrator** verband alle Komponenten der Netzwerkinfrastruktur", "Dieser **Schaltungsintegrator** verarbeitet mehrere Eingangssignale zu einem Ausgangssignal"]]
+  },
+  {
+    "lemma": "intellect",
+    "meanings_de": ["geistige Denkfähigkeit"],
+    "definitions_de": ["Fähigkeit zu vernünftigem und objektiven Verstehen, besonders in Bezug auf abstrakte Angelegenheiten"],
+    "examples_de": [["Ihr scharfer **Intellekt** machte sie zu einer ausgezeichneten Problemlöserin", "Große Philosophen werden für ihren kraftvollen **Verstand** und originelle Ideen erinnert"]]
+  },
+  {
+    "lemma": "intelligentsia",
+    "meanings_de": ["intellektuelle Elite"],
+    "definitions_de": ["Intellektuelle oder hochgebildete Menschen als Gruppe, besonders wenn sie als kulturell und politisch einflussreich angesehen werden"],
+    "examples_de": [["Das Café wurde zum Treffpunkt der städtischen **Intelligenz**", "Mitglieder der **Intelligenzija** debattierten dort oft über Politik und Philosophie"]]
+  },
+  {
+    "lemma": "intelligibility",
+    "meanings_de": ["Qualität der Verständlichkeit"],
+    "definitions_de": ["Eigenschaft, verstanden oder begriffen werden zu können, besonders in Sprache oder Schrift"],
+    "examples_de": [["Schlechte Audioqualität verminderte die **Verständlichkeit** des aufgezeichneten Gesprächs", "Der Lehrer betonte **Verständlichkeit** vor Geschwindigkeit bei Schülerpräsentationen"]]
+  },
+  {
+    "lemma": "intensification",
+    "meanings_de": ["Verstärkungsprozess"],
+    "definitions_de": ["Handlung des Werdens oder Machens von etwas stärker, extremer oder ausgeprägter"],
+    "examples_de": [["Die **Intensivierung** des Sturms überraschte die Meteorologen gestern Abend", "Wirtschaftssanktionen führten zur **Verschärfung** diplomatischer Spannungen"]]
+  },
+  {
+    "lemma": "intensive",
+    "meanings_de": ["konzentriertes Programm"],
+    "definitions_de": ["konzentriertes Studien- oder Behandlungsprogramm mit maximaler Anstrengung über kurze Zeit"],
+    "examples_de": [["Sie schrieb sich für einen sechswöchigen **Intensivsprachkurs** ein", "Die **Intensivstation** des Krankenhauses überwacht Patienten rund um die Uhr"]]
+  },
+  {
+    "lemma": "intentionality",
+    "meanings_de": ["bewusste geistige Ausrichtung"],
+    "definitions_de": ["Eigenschaft mentaler Zustände, auf ein Objekt oder einen Sachverhalt gerichtet zu sein"],
+    "examples_de": [["Der Philosoph erforschte **Intentionalität** als fundamentale Eigenschaft des Bewusstseins", "Ihre Handlungen zeigten klare **Absichtlichkeit** statt zufälliges impulsives Verhalten"]]
+  },
+  {
+    "lemma": "intercept",
+    "meanings_de": ["abgefangene Kommunikation", "mathematischer Schnittpunkt"],
+    "definitions_de": ["Kommunikation oder Objekt, das während der Übertragung gestoppt und beschlagnahmt wurde", "Punkt, an dem eine Linie oder Kurve eine Achse auf einem Graphen kreuzt"],
+    "examples_de": [["Geheimdienste analysierten das **Funkabhören** sorgfältig auf codierte Nachrichten", "Der Footballspieler machte einen entscheidenden **Abfangpass** in den letzten Minuten"], ["Finden Sie den y-**Achsenabschnitt**, indem Sie x gleich null setzen", "Der Graph zeigt zwei **Schnittpunkte** auf der horizontalen Achse"]]
+  },
+  {
+    "lemma": "interception",
+    "meanings_de": ["Akt des Abfangens"],
+    "definitions_de": ["Handlung des Stoppens und Beschlagnahmens von etwas oder jemandem während der Übertragung oder Bewegung"],
+    "examples_de": [["Das **Abfangen** feindlicher Kommunikation lieferte den Kommandeuren wertvolle Informationen", "Grenzbeamte spezialisieren sich auf das **Abfangen** von Drogen an internationalen Grenzübergängen"]]
+  },
+  {
+    "lemma": "interceptor",
+    "meanings_de": ["Abfangjäger"],
+    "definitions_de": ["schnelles Militärflugzeug, das zum Stoppen und Zerstören feindlicher Flugzeuge oder Raketen entwickelt wurde"],
+    "examples_de": [["Die Luftwaffe schickte **Abfangjäger** zur Untersuchung des unidentifizierten Flugzeugs", "Moderne **Abfangflugzeuge** können Ziele außerhalb der Sichtweite mit Raketen bekämpfen"]]
+  },
+  {
+    "lemma": "intercession",
+    "meanings_de": ["vermittelnde Fürsprache"],
+    "definitions_de": ["Handlung des Eingreifens zugunsten eines anderen, besonders durch Gebet oder Bittschrift"],
+    "examples_de": [["Durch seine **Fürsprache** wurde der Streit ohne Gerichtsverfahren beigelegt", "Viele Gläubige suchen die **Fürbitte** von Heiligen für ihre persönlichen Gebete"]]
+  },
+  {
+    "lemma": "interchange",
+    "meanings_de": ["Autobahnkreuz", "gegenseitiger Austausch"],
+    "definitions_de": ["Straßenkreuzung, die den Verkehr zwischen verschiedenen Routen ohne Kreuzung ermöglicht", "wechselseitiger Austausch von Dingen zwischen Menschen oder Gruppen"],
+    "examples_de": [["Nehmen Sie das nächste **Autobahnkreuz**, um schnell ins Geschäftsviertel zu gelangen", "Das neue **Verkehrskreuz** reduzierte die Staus dieses Jahr erheblich"], ["Der kulturelle **Austausch** zwischen Nationen fördert Verständnis und friedliche Beziehungen", "Der **Ideenaustausch** auf der Konferenz löste mehrere Innovationen aus"]]
+  }
+]

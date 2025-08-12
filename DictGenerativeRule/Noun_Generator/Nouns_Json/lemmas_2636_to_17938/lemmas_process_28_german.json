@@ -1,0 +1,266 @@
+[
+  {
+    "lemma": "classifier",
+    "meanings_de": ["Kategorisierungswerkzeug oder -system"],
+    "definitions_de": ["Gerät oder Methode zur Sortierung von Objekten in verschiedene Gruppen basierend auf spezifischen Merkmalen"],
+    "examples_de": [["Der maschinelle Lern-**Klassifikator** sortierte E-Mails automatisch in Spam und reguläre Nachrichten", "Sprachlehrer verwenden Wort-**Klassifikatoren**, um Vokabeln nach Schwierigkeitsgrad zu ordnen"]]
+  },
+  {
+    "lemma": "classmate",
+    "meanings_de": ["Mitschüler"],
+    "definitions_de": ["Person, die dieselbe Klasse oder Schule wie eine andere Person besucht"],
+    "examples_de": [["Sie lernte mit ihren **Klassenkameraden** für die Abschlussprüfung", "Mein ehemaliger **Mitschüler** wurde nach dem Studium ein erfolgreicher Ingenieur"]]
+  },
+  {
+    "lemma": "claustrophobia",
+    "meanings_de": ["Angst vor engen Räumen"],
+    "definitions_de": ["Intensive Angststörung, die durch extreme Furcht vor kleinen oder geschlossenen Räumen gekennzeichnet ist"],
+    "examples_de": [["Seine **Klaustrophobie** machte Fahrstuhlfahrten zu einer enormen Belastung", "Die Ärztin empfahl eine Therapie zur Behandlung ihrer schweren **Platzangst**"]]
+  },
+  {
+    "lemma": "clavicle",
+    "meanings_de": ["Schlüsselbein"],
+    "definitions_de": ["Langer, schlanker Knochen, der das Schulterblatt mit dem Brustbein verbindet"],
+    "examples_de": [["Der Radfahrer brach sich das **Schlüsselbein** während des Bergrennens", "Die Röntgenaufnahmen zeigten einen Haarriss im linken **Schlüsselbein**"]]
+  },
+  {
+    "lemma": "claw",
+    "meanings_de": ["scharfer gebogener Nagel", "Greifwerkzeug"],
+    "definitions_de": ["Scharfer, hakenförmiger Nagel am Fuß eines Tieres zum Fangen von Beute", "Mechanisches Gerät mit gebogenen Zinken zum Greifen oder Ziehen"],
+    "examples_de": [["Die scharfen **Krallen** der Katze zerkratzten das Ledersofa", "Adler nutzen ihre kräftigen **Klauen**, um Fische zu fangen"], ["Der Bauarbeiter verwendete einen **Klauenhammer**, um alte Nägel zu entfernen", "Das Spielautomatenspiel hatte einen mechanischen **Greifer** zum Fangen von Preisen"]]
+  },
+  {
+    "lemma": "cleaner",
+    "meanings_de": ["Reinigungsperson", "Reinigungsprodukt"],
+    "definitions_de": ["Person, deren Beruf die Reinigung von Gebäuden oder Wohnungen umfasst", "Chemische Substanz oder Gerät zur Entfernung von Schmutz und Flecken"],
+    "examples_de": [["Die **Reinigungskraft** kommt jeden Abend um sechs Uhr ins Büro", "Sie engagierte eine professionelle **Putzfrau** für die Grundreinigung ihrer Wohnung"], ["Dieser Allzweck-**Reiniger** eignet sich gut für Küchenoberflächen", "Der **Staubsauger** nahm alle Tierhaare problemlos auf"]]
+  },
+  {
+    "lemma": "cleaning",
+    "meanings_de": ["Reinigungsvorgang"],
+    "definitions_de": ["Prozess der Entfernung von Schmutz, Staub oder unerwünschten Substanzen von Oberflächen oder Objekten"],
+    "examples_de": [["Der **Frühjahrsputz** umfasst das gründliche Organisieren und Aufräumen des gesamten Hauses", "Die **Reinigung** des historischen Denkmals dauerte mehrere Monate"]]
+  },
+  {
+    "lemma": "cleansing",
+    "meanings_de": ["Reinigungsprozess"],
+    "definitions_de": ["Gründliche Reinigung oder Läuterung von etwas, insbesondere des Körpers oder Geistes"],
+    "examples_de": [["Das Spa bot eine komplette Körper-**Reinigungsbehandlung** mit natürlichen Produkten an", "Viele Kulturen praktizieren spirituelle **Läuterung** durch Meditation und rituelles Baden"]]
+  },
+  {
+    "lemma": "cleanup",
+    "meanings_de": ["Wiederherstellung nach Verschmutzung"],
+    "definitions_de": ["Prozess der Abfallbeseitigung oder Wiederherstellung der Ordnung nach Schäden oder Unordnung"],
+    "examples_de": [["Die Umwelt-**Säuberungsaktion** nach der Ölpest dauerte mehrere Jahre", "Freiwillige organisierten eine Strand-**Aufräumaktion** zur Entfernung von Plastikmüll"]]
+  },
+  {
+    "lemma": "clearance",
+    "meanings_de": ["Genehmigung oder Freiraum", "Räumungsverkauf"],
+    "definitions_de": ["Offizielle Erlaubnis für den Zugang zu gesperrten Bereichen oder Informationen", "Sonderverkauf zur Räumung alter Lagerbestände zu reduzierten Preisen"],
+    "examples_de": [["Eine Sicherheits-**freigabe** ist erforderlich, um die Regierungseinrichtung zu betreten", "Der Lkw benötigt mehr **Durchfahrtshöhe**, um unter der Brücke hindurchzufahren"], ["Der **Ausverkauf** des Geschäfts bot Artikel mit siebzig Prozent Rabatt an", "Sommer-**Schlussverkäufe** helfen Einzelhändlern, Platz für Herbstware zu schaffen"]]
+  },
+  {
+    "lemma": "clearing",
+    "meanings_de": ["offene Waldstelle", "Räumungsprozess"],
+    "definitions_de": ["Freier Platz in einem Wald, wo keine Bäume stehen", "Vorgang der Beseitigung von Hindernissen oder der Herstellung von Transparenz"],
+    "examples_de": [["Rehe grasen oft in der friedlichen **Waldlichtung** bei Tagesanbruch", "Die Wanderer schlugen ihr Lager auf einer kleinen **Lichtung** nahe dem Bach auf"], ["Die **Räumung** der umgestürzten Bäume von der Straße dauerte mehrere Stunden", "Das Bank-**Clearing** stellt sicher, dass Schecks zwischen Finanzinstituten verarbeitet werden"]]
+  },
+  {
+    "lemma": "cleavage",
+    "meanings_de": ["Spaltung oder Teilung", "Brustbereich"],
+    "definitions_de": ["Spaltung von etwas entlang natürlicher Linien oder Ebenen", "Sichtbarer Bereich zwischen den Brüsten einer Frau"],
+    "examples_de": [["Das Mineral zeigt perfekte **Spaltbarkeit** entlang seiner Kristallstruktur", "Die Gesteins-**Spaltung** hilft Geologen zu verstehen, wie Steine brechen werden"], ["Ihr Kleid zeigte zu viel **Dekolleté** für die formelle Veranstaltung", "Modedesigner berücksichtigen das **Dekolleté** beim Entwerfen von Abendkleidern"]]
+  },
+  {
+    "lemma": "cleaver",
+    "meanings_de": ["schweres Hackmesser"],
+    "definitions_de": ["Großes, schweres Messer mit breiter Klinge zum Zerteilen von Fleisch oder Knochen"],
+    "examples_de": [["Der Metzger benutzte ein scharfes **Hackbeil**, um durch dicke Knochen zu schneiden", "Ein **Fleischerbeil** ist unverzichtbare Ausrüstung in Profiküchen"]]
+  },
+  {
+    "lemma": "clef",
+    "meanings_de": ["musikalisches Notationszeichen"],
+    "definitions_de": ["Symbol auf dem Notensystem zur Angabe der Tonhöhe geschriebener Noten"],
+    "examples_de": [["Der **Violinschlüssel** zeigt höhere Töne auf dem Notensystem an", "Klaviermusik verwendet typischerweise sowohl Violin- als auch **Bassschlüssel**"]]
+  },
+  {
+    "lemma": "cleft",
+    "meanings_de": ["Spalt oder Lücke"],
+    "definitions_de": ["Schmale Öffnung oder Riss in Fels, Boden oder Körperteil"],
+    "examples_de": [["Wasser sickerte durch einen kleinen **Spalt** in der Felswand", "Der Chirurg reparierte die **Gaumenspalte** des Babys mit großer Präzision"]]
+  },
+  {
+    "lemma": "clemency",
+    "meanings_de": ["gnädige Nachsicht"],
+    "definitions_de": ["Akt der Gnade oder Nachsicht, insbesondere wenn eine Autoritätsperson die Strafe reduziert"],
+    "examples_de": [["Der Gouverneur gewährte mehreren gewaltlosen Straftätern **Begnadigung** vor seinem Amtsende", "Der Richter zeigte **Gnade**, indem er die Strafe aufgrund mildernder Umstände reduzierte"]]
+  },
+  {
+    "lemma": "clementine",
+    "meanings_de": ["kleine Zitrusfrucht"],
+    "definitions_de": ["Kleine, kernlose Orangensorte, die süß und leicht zu schälen ist"],
+    "examples_de": [["Sie packte frische **Clementinen** in die Brotdosen der Kinder", "**Clementinen** sind in den Wintermonaten beliebt, wenn sie Saison haben"]]
+  },
+  {
+    "lemma": "clergy",
+    "meanings_de": ["Gruppe religiöser Führer"],
+    "definitions_de": ["Gesamtheit der für den religiösen Dienst ordinierten Personen in christlichen Kirchen"],
+    "examples_de": [["Die **Geistlichkeit** versammelte sich zur jährlichen Diözesankonferenz", "Lokale **Kleriker** verschiedener Konfessionen organisierten die gemeinnützige Veranstaltung"]]
+  },
+  {
+    "lemma": "clergyman",
+    "meanings_de": ["männlicher religiöser Führer"],
+    "definitions_de": ["Mann, der als Priester, Pfarrer oder religiöser Führer ordiniert ist"],
+    "examples_de": [["Der betagte **Geistliche** hatte der Gemeinde vierzig Jahre lang gedient", "Ein **Pfarrer** leitete ihre Trauungszeremonie in der Kapelle"]]
+  },
+  {
+    "lemma": "cleric",
+    "meanings_de": ["religiöser Amtsträger"],
+    "definitions_de": ["Mitglied des Klerus oder Person in religiösen Orden"],
+    "examples_de": [["Der mittelalterliche **Kleriker** verbrachte Jahre damit, Manuskripte von Hand zu kopieren", "Mehrere **Geistliche** nahmen am interreligiösen Dialog über soziale Gerechtigkeit teil"]]
+  },
+  {
+    "lemma": "clerkship",
+    "meanings_de": ["Ausbildungsposition"],
+    "definitions_de": ["Periode praktischer Ausbildung für Jura- oder Medizinstudenten unter Aufsicht"],
+    "examples_de": [["Medizinstudenten absolvieren klinische **Praktika** in ihren letzten Studienjahren", "Ihr **Referendariat** beim Bundesrichter bot wertvolle Gerichtserfahrung"]]
+  },
+  {
+    "lemma": "cliche",
+    "meanings_de": ["abgenutzter Ausdruck"],
+    "definitions_de": ["Phrase oder Idee, die so oft verwendet wurde, dass sie an Originalität verloren hat"],
+    "examples_de": [["Vermeiden Sie abgedroschene **Klischees** wie 'Die Zeit heilt alle Wunden' in Ihren Texten", "Der Film stützte sich auf romantische **Plattitüden** statt originelle Dialoge zu entwickeln"]]
+  },
+  {
+    "lemma": "clientele",
+    "meanings_de": ["Kundenstamm"],
+    "definitions_de": ["Gesamtheit der Kunden oder Klienten eines Unternehmens oder einer Dienstleistung"],
+    "examples_de": [["Die gehobene **Kundschaft** des Restaurants erwartete außergewöhnlichen Service und Küche", "Der Aufbau einer treuen **Klientel** dauert Jahre konsequenter Qualitätsarbeit"]]
+  },
+  {
+    "lemma": "cliffhanger",
+    "meanings_de": ["spannungsvolles Ende"],
+    "definitions_de": ["Dramatisches Ende, das das Publikum im Ungewissen lässt, was als Nächstes passiert"],
+    "examples_de": [["Das Staffelfinale endete mit einem **Cliffhanger**, der die Zuschauer schockierte", "Autoren nutzen **Spannungsmomente** am Kapitelende, um Leser bei der Stange zu halten"]]
+  },
+  {
+    "lemma": "climatology",
+    "meanings_de": ["Klimawissenschaft"],
+    "definitions_de": ["Wissenschaftliche Untersuchung von Klimamustern und langfristigen Wetterbedingungen über Zeit"],
+    "examples_de": [["Die **Klimatologie**-Forschung hilft, zukünftige Wettermuster und globale Veränderungen vorherzusagen", "Sie promovierte in **Klimaforschung** mit Schwerpunkt auf arktischen Eisformationen"]]
+  },
+  {
+    "lemma": "climax",
+    "meanings_de": ["Höhepunkt"],
+    "definitions_de": ["Intensivster oder wichtigster Punkt in einer Geschichte oder Situation"],
+    "examples_de": [["Der **Höhepunkt** des Films zeigte eine epische Schlacht zwischen Gut und Böse", "Ihr Streit erreichte seinen **Gipfelpunkt**, als beide anfingen zu schreien"]]
+  },
+  {
+    "lemma": "climber",
+    "meanings_de": ["Person die klettert", "Kletterpflanze"],
+    "definitions_de": ["Person, die als Sport oder Hobby Berge oder Felsen besteigt", "Pflanze, die nach oben wächst, indem sie sich an Oberflächen oder Stützen heftet"],
+    "examples_de": [["Der erfahrene **Bergsteiger** erreichte den Gipfel vor Mittag", "**Kletterer** benötigen angemessene Sicherheitsausrüstung und Training"], ["Die **Kletterpflanze** Efeu bedeckte die gesamte Ziegelmauer wunderschön", "**Rankpflanzen** wie Rosen verleihen Gärten vertikale Akzente"]]
+  },
+  {
+    "lemma": "climbing",
+    "meanings_de": ["Kletteraktivität"],
+    "definitions_de": ["Sport oder Aktivität des Besteigens von Bergen, Felsen oder Wänden"],
+    "examples_de": [["Das **Felsklettern** erfordert sowohl körperliche Kraft als auch mentale Konzentration", "Indoor-**Kletterhallen** bieten sichere Umgebungen für Anfänger zum Lernen"]]
+  },
+  {
+    "lemma": "clinch",
+    "meanings_de": ["entscheidender Moment", "enger Griff"],
+    "definitions_de": ["Moment, der ein Ergebnis endgültig entscheidet oder festlegt", "Enger Griff oder Umarmung, besonders beim Boxen oder Ringen"],
+    "examples_de": [["Ihr letztes Tor half, die **Meisterschaft** für das Team zu **sichern**", "Die vorgelegten Beweise reichten aus, um den **Gerichtsfall** zu **entscheiden**"], ["Die Boxer gingen nach dem Austausch schwerer Schläge in den **Clinch**", "Sie besiegelten ihre Versöhnung mit einer langen emotionalen **Umarmung**"]]
+  },
+  {
+    "lemma": "clinician",
+    "meanings_de": ["medizinischer Praktiker"],
+    "definitions_de": ["Gesundheitsfachkraft, die direkt mit Patienten bei Diagnose und Behandlung arbeitet"],
+    "examples_de": [["Der **Kliniker** untersuchte sorgfältig die Symptome des Patienten vor der Diagnose", "Erfahrene **Mediziner** betreuen oft Medizinstudenten während Krankenhausrotationen"]]
+  },
+  {
+    "lemma": "clinker",
+    "meanings_de": ["verschmolzener Rückstand", "falscher Musikton"],
+    "definitions_de": ["Harte Masse aus verschmolzenem steinigem Rückstand von verbrannter Kohle oder Zement", "Falscher oder dissonanter Ton bei einer Musikaufführung"],
+    "examples_de": [["Arbeiter entfernten regelmäßig **Schlackenablagerungen** aus dem Industrieofen", "Zement-**Klinker** wird zu Pulver gemahlen, um Portlandzement herzustellen"], ["Der Pianist spielte einen **Fehlton** während der ansonsten makellosen Aufführung", "Selbst professionelle Musiker spielen unter Druck gelegentlich **falsche Töne**"]]
+  },
+  {
+    "lemma": "clipboard",
+    "meanings_de": ["tragbare Schreibunterlage"],
+    "definitions_de": ["Flaches Brett mit Klammer oben zum Festhalten von Papieren beim Schreiben"],
+    "examples_de": [["Die Krankenschwester trug ein **Klemmbrett** mit Patientenakten während der Visite", "Trainer verwenden **Schreibbretter** um Spielzüge während Basketball-Auszeiten zu skizzieren"]]
+  },
+  {
+    "lemma": "clipper",
+    "meanings_de": ["Schneidewerkzeug", "schnelles Segelschiff"],
+    "definitions_de": ["Werkzeug mit Klingen zum Schneiden von Haaren, Nägeln oder Hecken", "Schnelles Segelschiff mit mehreren Masten aus dem 19. Jahrhundert"],
+    "examples_de": [["Der Friseur verwendete elektrische **Haarschneidemaschinen**, um die Haare seines Kunden zu trimmen", "**Nagelknipser** sollten aus Hygienegründen zwischen den Anwendungen desinfiziert werden"], ["Der Tee-**Klipper** segelte in Rekordzeit von China nach London", "Schifffahrtsmuseen zeigen Modelle berühmter **Klipperschiffe**"]]
+  },
+  {
+    "lemma": "clipping",
+    "meanings_de": ["abgeschnittenes Stück", "Zeitungsausschnitt"],
+    "definitions_de": ["Kleines Stück, das von etwas Größerem abgeschnitten oder getrimmt wurde", "Artikel oder Bild aus Zeitung oder Zeitschrift ausgeschnitten"],
+    "examples_de": [["**Grasschnitt** kann kompostiert werden, um Gartendünger herzustellen", "Die Friseurin fegte nach jedem Kunden die **Haarreste** auf"], ["Sie bewahrte Zeitungs-**Ausschnitte** über die sportlichen Erfolge ihrer Tochter auf", "Das Sammelalbum enthielt **Zeitungsartikel** aus Jahrzehnten von Familienereignissen"]]
+  },
+  {
+    "lemma": "clique",
+    "meanings_de": ["exklusive soziale Gruppe"],
+    "definitions_de": ["Kleine exklusive Gruppe von Menschen, die Interessen teilen und andere ausschließen"],
+    "examples_de": [["Die beliebten Schüler bildeten eine **Clique**, die Neuankömmlinge ausschloss", "Büro-**Klüngel** können ungesunde Arbeitsdynamiken schaffen und die Produktivität verringern"]]
+  },
+  {
+    "lemma": "cloak",
+    "meanings_de": ["Umhang", "Verschleierung"],
+    "definitions_de": ["Lockeres Obergewand, das über der Kleidung für Wärme oder Schutz getragen wird", "Etwas, das die wahre Natur oder den Zweck verbirgt oder verschleiert"],
+    "examples_de": [["Der Zauberer trug einen geheimnisvollen schwarzen **Umhang** mit tiefer Kapuze", "Mittelalterliche Reisende nutzten schwere **Mäntel** zum Schutz vor kaltem Wetter"], ["Die Wohltätigkeitsorganisation war ein **Deckmantel** für illegale Geldwäsche", "Sie führten Verhandlungen unter dem **Mantel** völliger Geheimhaltung"]]
+  },
+  {
+    "lemma": "clocking",
+    "meanings_de": ["Zeitmessung"],
+    "definitions_de": ["Vorgang der Messung oder Aufzeichnung von Zeit, insbesondere von Geschwindigkeit oder Arbeitszeiten"],
+    "examples_de": [["Die **Zeitnahme** des Läufers über hundert Meter brach den Schulrekord", "Elektronische **Zeiterfassungssysteme** verfolgen die Anwesenheit der Mitarbeiter genauer als Stechkarten"]]
+  },
+  {
+    "lemma": "clockmaker",
+    "meanings_de": ["Uhrmacher"],
+    "definitions_de": ["Geschickter Handwerker, der Uhren entwirft, baut und repariert"],
+    "examples_de": [["Der Dorf-**Uhrmacher** reparierte antike Zeitmesser mit akribischer Sorgfalt", "Traditionelle **Uhrmacher** erlernen ihr Handwerk durch jahrelange Lehre"]]
+  },
+  {
+    "lemma": "clockwork",
+    "meanings_de": ["mechanisches Uhrensystem"],
+    "definitions_de": ["Innerer Mechanismus einer Uhr oder jedes präzise mechanische System"],
+    "examples_de": [["Das antike Spielzeug funktionierte mit komplizierten **Uhrwerkmechanismen**", "Bei der gut organisierten Veranstaltung lief alles wie am **Schnürchen**"]]
+  },
+  {
+    "lemma": "clog",
+    "meanings_de": ["Holzschuh", "Verstopfung"],
+    "definitions_de": ["Dicker Holzschuh, der traditionell in einigen europäischen Ländern getragen wird", "Hindernis, das den Fluss in einem Rohr oder Durchgang blockiert"],
+    "examples_de": [["Niederländische Tänzer traten beim Festival in traditionellen **Holzschuhen** auf", "Der Schuhmacher stellt noch immer authentische **Clogs** nach traditionellen Methoden her"], ["Haare und Seife bildeten eine hartnäckige **Verstopfung** im Badezimmerabfluss", "Der Klempner entfernte die **Rohrverstopfung** mit einer speziellen Spirale"]]
+  },
+  {
+    "lemma": "cloister",
+    "meanings_de": ["religiöser Umgang"],
+    "definitions_de": ["Überdachter Wandelgang in Kloster oder Konvent mit offenem Innenhof auf einer Seite"],
+    "examples_de": [["Mönche wandelten still durch den friedlichen **Kreuzgang** des Klosters zur Meditation", "Der mittelalterliche **Klostergang** zeigte schöne Steinbögen und Gartenblicke"]]
+  },
+  {
+    "lemma": "clone",
+    "meanings_de": ["genetische Kopie"],
+    "definitions_de": ["Organismus oder Zelle, die ungeschlechtlich von einem Vorfahren mit identischem genetischen Aufbau produziert wurde"],
+    "examples_de": [["Wissenschaftler erstellten einen **Klon** des Schafs mit fortgeschrittenen genetischen Techniken", "Der Pflanzen-**Klon** wuchs in jeder Eigenschaft genau wie seine Elternpflanze"]]
+  },
+  {
+    "lemma": "cloning",
+    "meanings_de": ["genetischer Verdopplungsprozess"],
+    "definitions_de": ["Wissenschaftlicher Prozess der Erstellung genetisch identischer Kopien von Organismen oder Zellen"],
+    "examples_de": [["Therapeutisches **Klonen** verspricht Behandlungsmöglichkeiten für verschiedene genetische Krankheiten", "Die Ethik des menschlichen **Klonens** bleibt ein kontroverses wissenschaftliches Thema"]]
+  },
+  {
+    "lemma": "closer",
+    "meanings_de": ["abschließendes Element", "Abschlussperson"],
+    "definitions_de": ["Letztes Element, das etwas zum Abschluss oder zur Vollendung bringt", "Person, die Geschäfte erfolgreich abschließt oder Aufgaben effektiv beendet"],
+    "examples_de": [["Die Präsentation braucht einen starken **Abschluss**, um bleibenden Eindruck zu hinterlassen", "Der Komiker bewahrte seinen besten Witz als Show-**Finale** auf"], ["Der Vertriebsleiter ist ein exzellenter **Abschlussexperte**, der selten Geschäfte verliert", "Baseballteams verlassen sich auf ihren **Closer**, um Siege im neunten Inning zu sichern"]]
+  }
+]

@@ -1,0 +1,284 @@
+[
+  {
+    "lemma": "toast",
+    "meanings_de": ["geröstete Brotscheibe", "feierlicher Trinkspruch"],
+    "definitions_de": ["Scheibe Brot, die durch Hitzeeinwirkung von beiden Seiten gebräunt und knusprig gemacht wird", "Brauch des gemeinsamen Glashebens zu Ehren einer Person oder zur Feier eines besonderen Anlasses"],
+    "examples_de": [["Zum Frühstück schmierte sie Butter auf ihren **Toast**", "Der Duft von frisch **geröstetem Brot** erfüllte die ganze Küche"], ["Alle erhoben sich zum **Trinkspruch** auf das Brautpaar", "Er brachte einen **Toast** auf ihren gemeinsamen Erfolg aus"]]
+  },
+  {
+    "lemma": "toaster",
+    "meanings_de": ["Brotröstgerät"],
+    "definitions_de": ["elektrisches Küchengerät mit Heizelementen, das speziell zum Rösten von Brotscheiben entwickelt wurde"],
+    "examples_de": [["Der **Toaster** sprang hoch und gab das perfekt goldbraune Brot frei", "Sie kaufte einen neuen **Toaster** mit vier Schlitzen für die Großfamilie"]]
+  },
+  {
+    "lemma": "toasting",
+    "meanings_de": ["Brotröstvorgang", "Trinkspruchzeremonie"],
+    "definitions_de": ["Vorgang des Bräunens von Brot durch Hitze, um es knusprig zu machen", "feierlicher Akt des gemeinsamen Glashebens zu Ehren oder zur Feier einer Person"],
+    "examples_de": [["Das **Rösten** dauert etwa drei Minuten bei mittlerer Hitze", "Sie genießt das **Toasten** ihrer Bagels bis zur goldbraunen Perfektion"], ["Das **Anstoßen** auf Braut und Bräutigam war sehr bewegend", "Alle beteiligten sich am **Trinkspruch** für den Ehrengast"]]
+  },
+  {
+    "lemma": "toboggan",
+    "meanings_de": ["Holzschlitten", "gestrickte Wintermütze"],
+    "definitions_de": ["flacher Schlitten mit nach oben gebogener Vorderseite zum Hinuntergleiten auf Schnee", "eng anliegende gestrickte Mütze ohne Krempe für kaltes Wetter"],
+    "examples_de": [["Die Kinder rasten mit ihrem **Schlitten** den Hügel hinunter", "Wir packten den **Toboggan** mit Decken für die Fahrt"], ["Sie zog ihre **Wollmütze** gegen den Wind tief über die Ohren", "Seine bunte **Strickmütze** hielt beim Skifahren den Kopf warm"]]
+  },
+  {
+    "lemma": "toddler",
+    "meanings_de": ["Kleinkind"],
+    "definitions_de": ["junges Kind, das gerade laufen gelernt hat, typischerweise zwischen einem und drei Jahren alt"],
+    "examples_de": [["Das **Kleinkind** stapfte mit wackeligen Schritten über den Spielplatz", "Sie meldete ihr **Kleinkind** zum Musikkurs an, damit es andere Kinder kennenlernt"]]
+  },
+  {
+    "lemma": "toddy",
+    "meanings_de": ["heißes Alkoholgetränk"],
+    "definitions_de": ["warmes Getränk aus Spirituosen gemischt mit heißem Wasser, Zucker und Gewürzen"],
+    "examples_de": [["Er nippte an einem heißen **Grog**, um sich nach dem Skifahren aufzuwärmen", "Der Barkeeper bereitete einen Whiskey-**Toddy** mit Honig und Zitrone zu"]]
+  },
+  {
+    "lemma": "toffee",
+    "meanings_de": ["Karamellbonbon"],
+    "definitions_de": ["zähes oder hartes Bonbon, das durch gemeinsames Kochen von Zucker und Butter hergestellt wird"],
+    "examples_de": [["Nach dem Essen wickelte sie ein Stück englisches **Toffee** aus", "Das **Karamellbonbon** klebte an seinen Zähnen, während er kaute"]]
+  },
+  {
+    "lemma": "tofu",
+    "meanings_de": ["Sojabohnenkäse"],
+    "definitions_de": ["weiches, weißes Lebensmittel aus gepressten Sojabohnen, das in der asiatischen Küche verwendet wird"],
+    "examples_de": [["Sie marinierte die **Tofu**würfel vor dem Anbraten", "Das Restaurant serviert gegrillten **Tofu** mit Gemüse"]]
+  },
+  {
+    "lemma": "toga",
+    "meanings_de": ["römisches Gewand"],
+    "definitions_de": ["loses, fließendes Gewand aus einem einzigen Stoffstück, das von antiken römischen Bürgern getragen wurde"],
+    "examples_de": [["Der Senator richtete seine **Toga** zurecht, bevor er das Forum betrat", "Die Studenten trugen selbstgebastelte **Togen** zur Mottoparty"]]
+  },
+  {
+    "lemma": "toggle",
+    "meanings_de": ["Umschaltmechanismus", "Knebelverschluss"],
+    "definitions_de": ["Schalter oder Taste, die zwischen zwei Zuständen oder Positionen wechselt", "stabförmiger Knopf, der durch eine Schlaufe geführt wird, um Kleidung zu verschließen"],
+    "examples_de": [["Klicken Sie auf den **Schalter**, um zwischen hellem und dunklem Modus zu wechseln", "Der **Kippschalter** am Armaturenbrett steuert die Scheinwerfer"], ["Sie schloss ihren Mantel mit hölzernen **Knebelverschlüssen**", "Der Dufflecoat hatte traditionelle Seil- und **Knebelverschlüsse**"]]
+  },
+  {
+    "lemma": "toil",
+    "meanings_de": ["harte Schwerarbeit"],
+    "definitions_de": ["körperlich anspruchsvolle Arbeit, die große Anstrengung erfordert und Erschöpfung verursacht"],
+    "examples_de": [["Jahre der **Plackerei** auf den Feldern ließen ihn vorzeitig altern", "Ihre tägliche **Schwerarbeit** begann vor Sonnenaufgang auf dem Bauernhof"]]
+  },
+  {
+    "lemma": "token",
+    "meanings_de": ["symbolisches Zeichen", "Wertmarke"],
+    "definitions_de": ["Gegenstand oder Geste, die als Zeichen oder Symbol für etwas anderes dient", "münzähnliches Stück, das anstelle von Geld für bestimmte Zwecke wie Verkehrsmittel verwendet wird"],
+    "examples_de": [["Sie gab ihm einen Ring als **Zeichen** ihrer Liebe", "Die Trophäe diente als **Symbol** ihrer Leistung"], ["Er warf eine **Wertmarke** in das U-Bahn-Drehkreuz ein", "Die Spielautomaten funktionierten nur mit speziellen **Spielmarken**"]]
+  },
+  {
+    "lemma": "tolerance",
+    "meanings_de": ["Akzeptanz von Unterschieden", "Belastbarkeitsgrenze"],
+    "definitions_de": ["Bereitschaft, Überzeugungen, Verhaltensweisen oder Meinungen zu akzeptieren, die von den eigenen abweichen", "Fähigkeit, schwierige Bedingungen oder Substanzen ohne negative Auswirkungen zu ertragen"],
+    "examples_de": [["Die Gemeinde zeigte große **Toleranz** gegenüber unterschiedlichen Ansichten", "**Toleranz** zu lehren hilft Kindern, kulturelle Unterschiede zu respektieren"], ["Ihre **Verträglichkeit** für scharfes Essen nahm mit der Zeit zu", "Die Medikamentendosis hängt von der **Toleranzgrenze** des Patienten ab"]]
+  },
+  {
+    "lemma": "toleration",
+    "meanings_de": ["Duldung"],
+    "definitions_de": ["Praxis des Zulassens von etwas, das man missbilligt oder womit man nicht einverstanden ist"],
+    "examples_de": [["Die religiöse **Duldung** wurde in der fortschrittlichen Nation gesetzlich verankert", "Seine **Tolerierung** des Lärms zeigte bemerkenswerte Geduld"]]
+  },
+  {
+    "lemma": "tollbooth",
+    "meanings_de": ["Autobahnmautstelle"],
+    "definitions_de": ["kleines Gebäude oder Struktur, wo Fahrer Gebühren für die Nutzung von Straßen oder Brücken bezahlen"],
+    "examples_de": [["Autos stauten sich während der Stoßzeit an der **Mautstelle**", "Der Mitarbeiter der **Mautstation** kassierte Gebühren von vorbeifahrenden Fahrzeugen"]]
+  },
+  {
+    "lemma": "tom",
+    "meanings_de": ["Kater"],
+    "definitions_de": ["männliche Katze, insbesondere ein unkastrierter erwachsener Hauskater"],
+    "examples_de": [["Der **Kater** aus der Nachbarschaft streifte nachts durch die Gassen", "Unser **Kater** bewacht sein Revier vor anderen Männchen"]]
+  },
+  {
+    "lemma": "tomahawk",
+    "meanings_de": ["indianische Streitaxt"],
+    "definitions_de": ["leichte Axt, die von den Ureinwohnern Amerikas als Werkzeug und Waffe verwendet wurde"],
+    "examples_de": [["Das Museum stellte einen authentischen zeremoniellen **Tomahawk** aus", "Krieger trugen **Streitäxte** sowohl zur Jagd als auch zum Kampf"]]
+  },
+  {
+    "lemma": "tomb",
+    "meanings_de": ["Grabkammer"],
+    "definitions_de": ["Gewölbe oder Kammer zur Bestattung der Toten, oft mit Denkmälern gekennzeichnet"],
+    "examples_de": [["Archäologen entdeckten das **Grab** eines alten Pharaos", "Frische Blumen schmückten die Familien**gruft** am Gedenktag"]]
+  },
+  {
+    "lemma": "tomboy",
+    "meanings_de": ["burschikoses Mädchen"],
+    "definitions_de": ["Mädchen, das Aktivitäten und Verhaltensweisen bevorzugt, die traditionell mit Jungen assoziiert werden"],
+    "examples_de": [["Sie war ein **Wildfang**, der lieber auf Bäume kletterte als mit Puppen zu spielen", "Das **burschikose Mädchen** glänzte in Sport und Outdoor-Abenteuern"]]
+  },
+  {
+    "lemma": "tombstone",
+    "meanings_de": ["Grabstein"],
+    "definitions_de": ["Steinplatte oder Monument, das ein Grab markiert mit eingravierten Informationen über den Verstorbenen"],
+    "examples_de": [["Der verwitterte **Grabstein** trug Daten aus den 1800er Jahren", "Sie legten frische Blumen neben den **Grabstein** ihrer Mutter"]]
+  },
+  {
+    "lemma": "tomcat",
+    "meanings_de": ["Hauskater"],
+    "definitions_de": ["unkastrierter erwachsener Kater, besonders einer, der umherstreift und kämpft"],
+    "examples_de": [["Der alte **Kater** hatte Narben von vielen Revierkämpfen", "Dieser **Kater** heult jede Nacht vor unserem Fenster"]]
+  },
+  {
+    "lemma": "tome",
+    "meanings_de": ["großer Wälzer"],
+    "definitions_de": ["großes, schweres Buch, besonders eines, das sich mit ernsten oder wissenschaftlichen Themen befasst"],
+    "examples_de": [["Sie kämpfte damit, den alten **Wälzer** zum Lesetisch zu tragen", "Der Professor bezog sich in seiner Vorlesung auf mehrere verstaubte **Folianten**"]]
+  },
+  {
+    "lemma": "ton",
+    "meanings_de": ["Gewichtseinheit Tonne", "große Menge umgangssprachlich"],
+    "definitions_de": ["Gewichtseinheit, die in den USA 2000 Pfund entspricht", "umgangssprachlicher Ausdruck für eine sehr große Menge oder Quantität von etwas"],
+    "examples_de": [["Der Lastwagen kann bis zu fünf **Tonnen** Fracht transportieren", "Eine **Tonne** Stahl wurde zur Baustelle geliefert"], ["Sie hat eine **Unmenge** Hausaufgaben heute Abend", "Wir hatten **massenhaft** Spaß im Vergnügungspark"]]
+  },
+  {
+    "lemma": "tonality",
+    "meanings_de": ["musikalisches Tonsystem"],
+    "definitions_de": ["Organisation musikalischer Tonhöhen um einen zentralen Ton, wodurch ein Gefühl von Tonart entsteht"],
+    "examples_de": [["Der Komponist wechselte die **Tonalität** von Dur nach Moll", "Jazzmusiker experimentieren oft mit unkonventioneller **Tonalität**"]]
+  },
+  {
+    "lemma": "toner",
+    "meanings_de": ["Druckerpulver", "Gesichtswasser"],
+    "definitions_de": ["feines Pulver, das in Laserdruckern und Kopierern verwendet wird, um Text und Bilder zu erzeugen", "kosmetische Flüssigkeit, die auf die Haut aufgetragen wird, um zu reinigen und Poren zu verkleinern"],
+    "examples_de": [["Der Drucker zeigte eine Meldung an, dass der **Toner** zur Neige ging", "Schwarze **Tonerkartuschen** müssen öfter gewechselt werden als farbige"], ["Sie trug nach der Reinigung **Gesichtswasser** auf", "Das **Tonic** half, die Poren optisch zu verkleinern"]]
+  },
+  {
+    "lemma": "tonic",
+    "meanings_de": ["stärkendes Heilmittel", "Tonic Water"],
+    "definitions_de": ["flüssige Medizin, von der angenommen wird, dass sie Gesundheit, Kraft und Wohlbefinden wiederherstellt", "kohlensäurehaltiges Wasser mit Chinin, das als Mischgetränk für alkoholische Getränke verwendet wird"],
+    "examples_de": [["Großmutter schwor auf ihr tägliches Kräuter**tonikum** für Energie", "Der Arzt verschrieb ein Eisen**tonikum** gegen ihre Anämie"], ["Er bestellte Gin **Tonic** mit einer Limettenscheibe", "Der bittere Geschmack von **Tonic Water** kommt vom Chinin"]]
+  },
+  {
+    "lemma": "tonnage",
+    "meanings_de": ["Schiffsladekapazität", "Gesamtgewicht in Tonnen"],
+    "definitions_de": ["Gesamtgewicht, das ein Schiff tragen kann, gemessen in Tonnen", "Gesamtgewicht oder Menge von etwas, gemessen in Tonnen"],
+    "examples_de": [["Die **Tonnage** des Schiffes bestimmte seine Hafengebühren", "Reedereien berechnen Tarife basierend auf der **Tonnage**"], ["Die jährliche **Fördermenge** der Mine an Kohle sank erheblich", "Sie maßen die **Tonnage** der gesammelten Recyclingmaterialien"]]
+  },
+  {
+    "lemma": "tonne",
+    "meanings_de": ["metrische Gewichtseinheit"],
+    "definitions_de": ["metrische Masseneinheit, die 1000 Kilogramm oder etwa 2204 Pfund entspricht"],
+    "examples_de": [["Die Lieferung wog genau eine **Tonne**", "Europäische Lastwagen messen ihre Kapazität in **Tonnen**"]]
+  },
+  {
+    "lemma": "toolbox",
+    "meanings_de": ["Werkzeugkasten"],
+    "definitions_de": ["tragbare Kiste oder Truhe, die zum Organisieren und Aufbewahren von Handwerkzeugen entwickelt wurde"],
+    "examples_de": [["Er trug seinen roten **Werkzeugkasten** aus Metall zur Baustelle", "Sie sortierte die Schraubenzieher in ihrem **Werkzeugkoffer** nach Größe"]]
+  },
+  {
+    "lemma": "toon",
+    "meanings_de": ["Zeichentrickfigur"],
+    "definitions_de": ["animierte Figur aus Zeichentrickfilmen, besonders in stilisierter oder übertriebener Form"],
+    "examples_de": [["Klassische **Trickfiguren** wie Bugs Bunny sind heute noch beliebt", "Der Film mischte echte Schauspieler mit animierten **Cartoons**"]]
+  },
+  {
+    "lemma": "toot",
+    "meanings_de": ["kurzer Hupton"],
+    "definitions_de": ["kurzer, scharfer Ton, der von einer Hupe, Pfeife oder einem ähnlichen Instrument erzeugt wird"],
+    "examples_de": [["Der Zug gab ein lautes **Tuten** von sich, bevor er abfuhr", "Sie hörte das **Hupen** eines Autos draußen"]]
+  },
+  {
+    "lemma": "toothache",
+    "meanings_de": ["Zahnschmerzen"],
+    "definitions_de": ["Schmerzen in oder um einen Zahn, oft verursacht durch Karies, Infektion oder Verletzung"],
+    "examples_de": [["Seine **Zahnschmerzen** hielten ihn die ganze Nacht wach", "Sie vereinbarte einen Zahnarzttermin wegen ihrer starken **Zahnschmerzen**"]]
+  },
+  {
+    "lemma": "toothbrush",
+    "meanings_de": ["Zahnbürste"],
+    "definitions_de": ["kleine Bürste mit Griff, die zum Reinigen von Zähnen und Zahnfleisch verwendet wird"],
+    "examples_de": [["Sie wechselte ihre **Zahnbürste** alle drei Monate", "Die elektrische **Zahnbürste** reinigte effektiver als manuelle"]]
+  },
+  {
+    "lemma": "toothpaste",
+    "meanings_de": ["Zahnpasta"],
+    "definitions_de": ["Paste oder Gel, das mit der Zahnbürste verwendet wird, um Zähne zu reinigen und gesund zu halten"],
+    "examples_de": [["Er drückte **Zahnpasta** auf seine Bürste, bevor er putzte", "Die minzige **Zahncreme** hinterließ ein frisches Gefühl im Mund"]]
+  },
+  {
+    "lemma": "topaz",
+    "meanings_de": ["Topas-Edelstein"],
+    "definitions_de": ["harter, transparenter oder durchscheinender Edelstein, typischerweise gelb, aber in verschiedenen Farben vorkommend"],
+    "examples_de": [["Ihr Verlobungsring zeigte einen blauen **Topas**, umgeben von Diamanten", "Der Juwelier zeigte ihnen mehrere **Topase** in verschiedenen Farbtönen"]]
+  },
+  {
+    "lemma": "topiary",
+    "meanings_de": ["Formschnittkunst"],
+    "definitions_de": ["Kunst des Beschneidens von Sträuchern oder Bäumen in dekorative Formen oder die geformten Pflanzen selbst"],
+    "examples_de": [["Der Garten präsentierte kunstvolle **Formschnitte** in Tiergestalt", "Sie erlernte **Topiary**-Techniken, um geometrische Heckendesigns zu schaffen"]]
+  },
+  {
+    "lemma": "topography",
+    "meanings_de": ["Geländebeschaffenheit"],
+    "definitions_de": ["detaillierte Beschreibung oder Darstellung der natürlichen und künstlichen Merkmale einer Gebietsoberfläche"],
+    "examples_de": [["Die Karte zeigte die komplexe **Topographie** der Region", "Wanderer studierten die **Geländeform** vor der Routenplanung"]]
+  },
+  {
+    "lemma": "topper",
+    "meanings_de": ["Spitzenreiter", "Tortendekoration"],
+    "definitions_de": ["Person oder Sache, die alle anderen in Leistung oder Qualität übertrifft", "dekorativer Gegenstand, der auf etwas platziert wird, besonders auf einer Hochzeitstorte"],
+    "examples_de": [["Sie war die **Klassenbeste** ihres Abschlussjahrgangs", "Das Finale der Show war ein echter **Höhepunkt**"], ["Sie wählten einen Vintage-**Tortenaufsatz** für ihre Hochzeitstorte", "Die **Kuchendekoration** buchstabierte ihr Alter in Kerzen"]]
+  },
+  {
+    "lemma": "topping",
+    "meanings_de": ["Speisebelag"],
+    "definitions_de": ["Zutat oder Mischung, die auf Speisen gelegt wird, um Geschmack oder Dekoration hinzuzufügen"],
+    "examples_de": [["Sie bestellte extra **Käsebelag** auf ihrer Pizza", "Der Eisbecher hatte **Schokoladensoße** und Nüsse als **Topping**"]]
+  },
+  {
+    "lemma": "topsail",
+    "meanings_de": ["Marssegel"],
+    "definitions_de": ["Segel, das über dem untersten Segel an einem Mast eines rahgetakelten Schiffes gesetzt wird"],
+    "examples_de": [["Die Mannschaft reffte das **Marssegel** bei zunehmendem Wind", "Das **Toppsegel** des Schiffes fing die Morgenbrise perfekt ein"]]
+  },
+  {
+    "lemma": "topside",
+    "meanings_de": ["Schiffsoberdeck", "Oberschale vom Rind"],
+    "definitions_de": ["oberes Deck oder über Deck liegender Teil eines Schiffes", "mageres Rindfleischstück aus der Innenseite des Oberschenkels"],
+    "examples_de": [["Passagiere versammelten sich **an Deck**, um den Sonnenuntergang zu beobachten", "Der Kapitän befahl alle Mann **aufs Oberdeck** zur Inspektion"], ["Der Metzger empfahl **Oberschale** für den Sonntagsbraten", "Sie schmorte die **Oberschale** langsam, bis sie zart war"]]
+  },
+  {
+    "lemma": "topsoil",
+    "meanings_de": ["Mutterboden"],
+    "definitions_de": ["oberste Bodenschicht, die organische Substanz und Nährstoffe für das Pflanzenwachstum enthält"],
+    "examples_de": [["Der Gärtner verteilte frischen **Mutterboden** über den Blumenbeeten", "Erosion hatte viel vom **Oberboden** des Bauernhofs weggespült"]]
+  },
+  {
+    "lemma": "tor",
+    "meanings_de": ["Felsgipfel"],
+    "definitions_de": ["hoher, felsiger Hügel oder Gipfel, besonders auf Moorland in Südwestengland"],
+    "examples_de": [["Wanderer erklommen den alten **Felsturm** für Panoramablicke", "Der Granit-**Tor** ragte markant über dem Moor empor"]]
+  },
+  {
+    "lemma": "torch",
+    "meanings_de": ["brennende Fackel", "Taschenlampe"],
+    "definitions_de": ["Stock mit brennbarem Material an einem Ende, der als Lichtquelle verwendet wird", "batteriebetriebenes tragbares elektrisches Licht, im amerikanischen Englisch Flashlight genannt"],
+    "examples_de": [["Olympische Läufer tragen die **Fackel** zu den Spielen", "Mittelalterliche Wachen patrouillierten mit brennenden **Fackeln**"], ["Sie griff zur **Taschenlampe**, um den dunklen Keller zu durchsuchen", "Die Batterien der **Taschenlampe** starben während des Stromausfalls"]]
+  },
+  {
+    "lemma": "torchlight",
+    "meanings_de": ["Fackelschein"],
+    "definitions_de": ["Licht, das von einer brennenden Fackel erzeugt wird, oder die Beleuchtung einer Taschenlampe"],
+    "examples_de": [["Sie erkundeten die Höhle bei flackerndem **Fackelschein**", "Das **Taschenlampenlicht** enthüllte uralte Malereien an den Wänden"]]
+  },
+  {
+    "lemma": "tore",
+    "meanings_de": ["Vergangenheit von reißen"],
+    "definitions_de": ["Vergangenheitsform von tear, bedeutet zerrissen oder gewaltsam auseinandergerissen"],
+    "examples_de": [["Sie **zerriss** versehentlich ihr Kleid am Zaun", "Er **zerriss** den Brief wütend in Stücke"]]
+  },
+  {
+    "lemma": "torment",
+    "meanings_de": ["schwere Qual"],
+    "definitions_de": ["schweres körperliches oder seelisches Leiden, das extreme Schmerzen, Angst oder Bedrängnis verursacht"],
+    "examples_de": [["Der Gefangene ertrug monatelange **Qualen** in Gefangenschaft", "Eifersucht war eine ständige **Pein** in ihrer Beziehung"]]
+  }
+]

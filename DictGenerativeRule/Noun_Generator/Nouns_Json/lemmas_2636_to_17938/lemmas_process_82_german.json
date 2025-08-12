@@ -1,0 +1,266 @@
+[
+  {
+    "lemma": "fructose",
+    "meanings_de": ["Fruchtzucker"],
+    "definitions_de": ["Einfacher Zucker, der natürlich in Früchten und Honig vorkommt und süßer schmeckt als Glukose"],
+    "examples_de": [["Frische Beeren enthalten hohe Mengen an natürlichem **Fruchtzucker**", "Der Körper verarbeitet **Fruktose** anders als normalen Haushaltszucker"]]
+  },
+  {
+    "lemma": "frugality",
+    "meanings_de": ["sparsame Lebensweise"],
+    "definitions_de": ["Praxis des sparsamen Umgangs mit Geld und Ressourcen bei gleichzeitiger Vermeidung von Verschwendung oder Extravaganz"],
+    "examples_de": [["Ihre **Sparsamkeit** ermöglichte es ihr, die Hälfte ihres Einkommens zu sparen", "Die **Genügsamkeit** der Familie half ihnen, den wirtschaftlichen Abschwung zu überstehen"]]
+  },
+  {
+    "lemma": "fruition",
+    "meanings_de": ["erfolgreiche Verwirklichung"],
+    "definitions_de": ["Zeitpunkt, an dem Pläne oder Bemühungen erfolgreich Früchte tragen und Wirklichkeit werden"],
+    "examples_de": [["Jahre der Forschung kamen schließlich mit dem Durchbruch zur **Verwirklichung**", "Das Gemeinschaftsgartenprojekt erreichte nach monatelanger Planung seine **Vollendung**"]]
+  },
+  {
+    "lemma": "fry",
+    "meanings_de": ["Jungfisch"],
+    "definitions_de": ["Kürzlich geschlüpfter Fisch, der sich noch im frühen Entwicklungsstadium befindet"],
+    "examples_de": [["Die Lachs**brut** blieb zum Schutz in der Nähe des Flussbetts", "Tausende **Jungfische** wurden dieses Frühjahr in den See ausgesetzt"]]
+  },
+  {
+    "lemma": "fryer",
+    "meanings_de": ["Fritteuse", "Masthähnchen"],
+    "definitions_de": ["Küchengerät zum Frittieren von Lebensmitteln in heißem Öl", "Junges Huhn, das speziell für die Fleischproduktion und nicht für die Eierproduktion gezüchtet wird"],
+    "examples_de": [["Die **Fritteuse** des Restaurants bewältigt täglich Hunderte von Bestellungen", "Sie kaufte eine Heißluft**fritteuse**, um gesündere Versionen von frittierten Speisen zuzubereiten"], ["Der Bauernhof hat sich auf die Aufzucht von Bio-**Masthähnchen** für lokale Märkte spezialisiert", "Diese **Masthühner** sind nach acht Wochen schlachtreif"]]
+  },
+  {
+    "lemma": "frying",
+    "meanings_de": ["Bratvorgang"],
+    "definitions_de": ["Verfahren zum Garen von Speisen in heißem Öl oder Fett in einer Pfanne"],
+    "examples_de": [["Der Geruch von **bratendem** Speck erfüllte die morgendliche Küche", "Richtiges **Braten** erfordert die Aufrechterhaltung der richtigen Öltemperatur während des gesamten Vorgangs"]]
+  },
+  {
+    "lemma": "fuchsia",
+    "meanings_de": ["Fuchsienpflanze", "leuchtend rosa Farbe"],
+    "definitions_de": ["Zierpflanze mit hängenden röhrenförmigen Blüten in rosa und violetten Tönen", "Lebhafte purpurrosa Farbe, benannt nach der Fuchsienblüte"],
+    "examples_de": [["Die hängenden **Fuchsien**körbe blühten den ganzen Sommer auf der Veranda", "Sie schnitt ihre **Fuchsien**pflanzen sorgfältig vor dem Winter zurück"], ["Die Brautjungfern trugen Kleider in einem leuchtenden **Fuchsia**ton", "Der Sonnenuntergang tauchte die Wolken in brillantes **Fuchsia** und Orange"]]
+  },
+  {
+    "lemma": "fudge",
+    "meanings_de": ["weiche Süßigkeit"],
+    "definitions_de": ["Süße Leckerei aus Zucker, Butter und Milch oder Sahne, die bis zum Weichbruchpunkt gekocht wird"],
+    "examples_de": [["Großmutters Schokoladen**fudge**-Rezept wird seit Generationen weitergegeben", "Der Süßwarenladen verkauft frisches **Fudge** in zwölf verschiedenen Geschmacksrichtungen"]]
+  },
+  {
+    "lemma": "fueling",
+    "meanings_de": ["Betankungsvorgang"],
+    "definitions_de": ["Vorgang der Kraftstoffversorgung von Fahrzeugen, Maschinen oder Prozessen, die Energie benötigen"],
+    "examples_de": [["Die **Betankungs**station versorgt Flugzeuge auf dem gesamten geschäftigen Flughafen", "Ordnungsgemäße **Betankungs**verfahren verhindern gefährliche Verschüttungen und Unfälle"]]
+  },
+  {
+    "lemma": "fuelling",
+    "meanings_de": ["Betankungsvorgang"],
+    "definitions_de": ["Vorgang der Kraftstoffversorgung von Fahrzeugen, Maschinen oder Prozessen, die Energie benötigen"],
+    "examples_de": [["Der **Betankungs**prozess für die Rakete dauert mehrere Stunden", "Regelmäßige **Tank**stopps sind für Fernfahrer unerlässlich"]]
+  },
+  {
+    "lemma": "fugitive",
+    "meanings_de": ["flüchtige Person"],
+    "definitions_de": ["Person, die aus der Gefangenschaft entkommen ist oder vor den Justizbehörden flieht"],
+    "examples_de": [["Der **Flüchtling** wurde nach drei Wochen auf der Flucht gefasst", "Grenzbeamte achten auf **Flüchtige**, die versuchen, das Land zu verlassen"]]
+  },
+  {
+    "lemma": "fugue",
+    "meanings_de": ["musikalische Kompositionsform"],
+    "definitions_de": ["Komplexe musikalische Komposition, bei der Themen durch verwobene Melodielinien nach strengen Regeln eingeführt und entwickelt werden"],
+    "examples_de": [["Bachs **Fugen** demonstrieren meisterhafte Beherrschung von Kontrapunkt und Harmonie", "Der Pianist übte täglich stundenlang die schwierige **Fuge**"]]
+  },
+  {
+    "lemma": "fulcrum",
+    "meanings_de": ["Hebel-Drehpunkt"],
+    "definitions_de": ["Fester Punkt, um den sich ein Hebel dreht, um Lasten zu heben oder zu bewegen"],
+    "examples_de": [["Der **Drehpunkt** der Wippe muss für das Gleichgewicht richtig zentriert sein", "Wenn man den **Hebelpunkt** näher an die Last bewegt, verringert sich der Kraftaufwand"]]
+  },
+  {
+    "lemma": "fulfillment",
+    "meanings_de": ["Erfüllung", "Auftragsabwicklung"],
+    "definitions_de": ["Gefühl der Zufriedenheit durch das Erreichen von Zielen oder die Verwirklichung des eigenen Potenzials und Zwecks", "Prozess der Abwicklung von Kundenbestellungen durch Verpacken und Versenden gekaufter Artikel"],
+    "examples_de": [["Sie fand tiefe **Erfüllung** in ihrer ehrenamtlichen Arbeit mit Kindern", "Berufliche **Erfüllung** entsteht, wenn Arbeit mit persönlichen Werten übereinstimmt"], ["Das Lager wickelt die **Auftragsabwicklung** für Tausende von Online-Bestellungen täglich ab", "Die **Versandabwicklung** am selben Tag ist für viele E-Commerce-Unternehmen zum Standard geworden"]]
+  },
+  {
+    "lemma": "fulfilment",
+    "meanings_de": ["Erfüllung", "Auftragsabwicklung"],
+    "definitions_de": ["Gefühl der Zufriedenheit durch das Erreichen von Zielen oder die Verwirklichung des eigenen Potenzials und Zwecks", "Prozess der Abwicklung von Kundenbestellungen durch Verpacken und Versenden gekaufter Artikel"],
+    "examples_de": [["Persönliche **Erfüllung** kommt oft daher, anderen zum Erfolg zu verhelfen", "Der Job bot finanzielle Sicherheit, aber wenig emotionale **Befriedigung**"], ["Das Unternehmen eröffnete ein neues **Logistikzentrum** in der Nähe wichtiger Verkehrswege", "Die Genauigkeit der **Auftragsabwicklung** ist entscheidend für die Kundenzufriedenheit"]]
+  },
+  {
+    "lemma": "fullback",
+    "meanings_de": ["Football-Position"],
+    "definitions_de": ["Offensivspieler im Football, der hinter dem Quarterback positioniert ist und blockt sowie den Ball trägt"],
+    "examples_de": [["Der **Fullback** bahnte sich einen Weg durch die Verteidigungslinie", "Moderne Offensiven setzen **Fullbacks** seltener ein als in vergangenen Jahrzehnten"]]
+  },
+  {
+    "lemma": "fuller",
+    "meanings_de": ["Tuchwalker"],
+    "definitions_de": ["Person, die Stoffe durch Waschen, Schlagen und Pressen reinigt und verdickt"],
+    "examples_de": [["Der mittelalterliche **Walker** arbeitete lange Stunden bei der Verarbeitung von Wolltuch", "Traditionelle **Tuchwalker** verwendeten speziellen Ton zum Reinigen und Verdicken von Stoffen"]]
+  },
+  {
+    "lemma": "fumble",
+    "meanings_de": ["Ballverlust"],
+    "definitions_de": ["Verlust der Ballkontrolle im Football, wenn ein Spieler ihn fallen lässt oder falsch behandelt"],
+    "examples_de": [["Der **Ballverlust** des Quarterbacks in der Endzone kostete sie das Spiel", "Drei **Fumbles** im ersten Viertel brachten das Team früh in Rückstand"]]
+  },
+  {
+    "lemma": "fume",
+    "meanings_de": ["giftiger Dampf"],
+    "definitions_de": ["Rauch, Gas oder Dampf, der oft schädlich ist oder stark riecht"],
+    "examples_de": [["Farb**dämpfe** erfordern eine ordnungsgemäße Belüftung, um Gesundheitsprobleme zu vermeiden", "Die chemischen **Dämpfe** aus der Fabrik beunruhigten die Anwohner"]]
+  },
+  {
+    "lemma": "functionalism",
+    "meanings_de": ["Designphilosophie", "Gesellschaftstheorie"],
+    "definitions_de": ["Designansatz, der praktische Funktion über dekorative Elemente in Architektur und Objekten stellt", "Soziologische Theorie, die Gesellschaft als System miteinander verbundener Teile betrachtet, die spezifische Funktionen erfüllen"],
+    "examples_de": [["Der **Funktionalismus** prägte die moderne Architektur mit seiner Betonung auf Nützlichkeit", "Der **Funktionalismus** des Gebäudes zeigt sich in seinem schlichten, effizienten Design"], ["Der **Funktionalismus** erklärt soziale Institutionen durch ihren Beitrag zur Stabilität", "Kritiker argumentieren, dass der **Funktionalismus** Konflikte und Wandel in der Gesellschaft übersieht"]]
+  },
+  {
+    "lemma": "functionalist",
+    "meanings_de": ["Design-Verfechter", "Theorie-Anhänger"],
+    "definitions_de": ["Person, die sich für praktisches, zweckorientiertes Design anstelle von dekorativen Elementen einsetzt", "Wissenschaftler oder Theoretiker, der die Gesellschaft durch funktionalistische theoretische Rahmen analysiert"],
+    "examples_de": [["Der **funktionalistische** Architekt eliminierte alle unnötigen Verzierungen aus seinen Entwürfen", "Frühe **Funktionalisten** revolutionierten das Möbeldesign mit einfachen, praktischen Formen"], ["Der **Funktionalist** argumentierte, dass jeder soziale Brauch einem Zweck dient", "**Funktionalisten** untersuchen, wie Institutionen zur sozialen Ordnung beitragen"]]
+  },
+  {
+    "lemma": "functionality",
+    "meanings_de": ["praktische Funktionen"],
+    "definitions_de": ["Spektrum von Vorgängen und Funktionen, die etwas ausführen kann, um seinem beabsichtigten Zweck zu dienen"],
+    "examples_de": [["Die **Funktionalität** der App umfasst Terminplanung, Messaging und Dateifreigabe", "Wir müssen die **Funktionalität** verbessern, ohne die Benutzeroberfläche zu beeinträchtigen"]]
+  },
+  {
+    "lemma": "functionary",
+    "meanings_de": ["Amtsträger"],
+    "definitions_de": ["Person, die offizielle Aufgaben oder Funktionen innerhalb einer Organisation oder Regierung ausführt"],
+    "examples_de": [["Der **Beamte** bearbeitete Visumanträge in der Botschaft", "Niedrigrangige **Funktionäre** erledigen oft die täglichen Verwaltungsaufgaben"]]
+  },
+  {
+    "lemma": "functioning",
+    "meanings_de": ["Betriebszustand"],
+    "definitions_de": ["Art und Weise, wie etwas funktioniert oder seinen beabsichtigten Zweck erfüllt"],
+    "examples_de": [["Regelmäßige Wartung gewährleistet das ordnungsgemäße **Funktionieren** der Ausrüstung", "Der Ausschuss untersuchte die **Arbeitsweise** verschiedener Regierungsabteilungen"]]
+  },
+  {
+    "lemma": "fundamentalism",
+    "meanings_de": ["strenge religiöse Befolgung"],
+    "definitions_de": ["Religiöse Bewegung, die eine strenge wörtliche Auslegung heiliger Texte und eine Rückkehr zu Grundprinzipien befürwortet"],
+    "examples_de": [["Religiöser **Fundamentalismus** hat die Politik in vielen Ländern weltweit beeinflusst", "Der Aufstieg des **Fundamentalismus** erfolgt oft in Zeiten gesellschaftlichen Wandels"]]
+  },
+  {
+    "lemma": "fundamentalist",
+    "meanings_de": ["strenger Gläubiger"],
+    "definitions_de": ["Person, die an einer strengen wörtlichen Auslegung religiöser Texte und grundlegender Prinzipien festhält"],
+    "examples_de": [["Der **fundamentalistische** Prediger lehnte moderne Interpretationen alter Texte ab", "Nicht alle **Fundamentalisten** unterstützen Gewalt zur Verteidigung ihrer Überzeugungen"]]
+  },
+  {
+    "lemma": "fundraiser",
+    "meanings_de": ["Spendenaktion", "Spendensammler"],
+    "definitions_de": ["Organisierte Veranstaltung oder Kampagne zur Sammlung von Geld für einen bestimmten Zweck oder eine Organisation", "Person, deren Aufgabe es ist, Veranstaltungen und Kampagnen zur Geldbeschaffung zu organisieren"],
+    "examples_de": [["Die jährliche **Spendenaktion** der Schule unterstützt neue Spielplatzgeräte", "Diese Wohltätigkeits**veranstaltung** hat ihr ursprüngliches Ziel bereits übertroffen"], ["Der professionelle **Spendensammler** entwickelte kreative Kampagnen für gemeinnützige Organisationen", "Ein erfahrener **Fundraiser** weiß, wie man Spender mit Anliegen verbindet"]]
+  },
+  {
+    "lemma": "funfair",
+    "meanings_de": ["Jahrmarkt"],
+    "definitions_de": ["Temporärer Vergnügungspark mit Fahrgeschäften, Spielen und Essensständen, der zwischen verschiedenen Orten reist"],
+    "examples_de": [["Der jährliche **Jahrmarkt** bringt jeden Sommer Aufregung in die Stadt", "Kinder stellten sich früh für die Achterbahn des **Rummelplatzes** an"]]
+  },
+  {
+    "lemma": "fungicide",
+    "meanings_de": ["Pilzbekämpfungsmittel"],
+    "definitions_de": ["Chemische Substanz zur Abtötung oder Verhinderung des Wachstums von Pilzen auf Pflanzen und Ernten"],
+    "examples_de": [["Landwirte verwenden **Fungizide**, um Weizen vor Krankheiten zu schützen", "Biologische **Pilzbekämpfungsmittel** bieten Alternativen zu synthetischen chemischen Behandlungen"]]
+  },
+  {
+    "lemma": "funicular",
+    "meanings_de": ["Standseilbahn"],
+    "definitions_de": ["Eisenbahnsystem an steilen Hängen, das Kabel verwendet, um Wagen hinauf und hinunter zu ziehen"],
+    "examples_de": [["Die **Standseilbahn** bringt Touristen zum Bergrestaurant", "Diese historische **Seilbahn** ist seit über einem Jahrhundert sicher in Betrieb"]]
+  },
+  {
+    "lemma": "funk",
+    "meanings_de": ["Musikgenre", "niedergeschlagene Stimmung"],
+    "definitions_de": ["Rhythmisches Musikgenre mit Betonung auf starken Basslinien und synkopierten Schlagzeugmustern", "Zustand der Depression oder des Gefühls, entmutigt und unmotiviert zu sein"],
+    "examples_de": [["Die **Funk**-Grooves der Band brachten beim Festival alle zum Tanzen", "Klassische **Funk**-Künstler beeinflussten Hip-Hop und moderne R&B-Musik"], ["Sie verfiel in eine **Depression**, nachdem sie unerwartet ihren Job verloren hatte", "Sport half ihm, aus seinem Winter**tief** herauszukommen"]]
+  },
+  {
+    "lemma": "funnel",
+    "meanings_de": ["Eingießhilfe", "Tornadoform"],
+    "definitions_de": ["Kegelförmiges Utensil mit breiter Oberseite und schmalem Boden zum Eingießen von Flüssigkeiten", "Rotierende Luftsäule in Kegelform wie bei Tornados oder Wasserhosen"],
+    "examples_de": [["Verwenden Sie einen **Trichter**, um Öl ohne Verschütten auf den Motor zu gießen", "Der Küchen**trichter** hilft beim Umfüllen von Mehl in Vorratsbehälter"], ["Der Sturmjäger fotografierte den **Wirbel** des Tornados, der den Boden berührte", "Der **Rüssel** einer Wasserhose bildete sich während des Sturms über dem See"]]
+  },
+  {
+    "lemma": "fur",
+    "meanings_de": ["Tierpelz"],
+    "definitions_de": ["Dichtes Haarwachstum, das den Körper von Säugetieren für Wärme und Schutz bedeckt"],
+    "examples_de": [["Das **Fell** der Katze sträubte sich, als sie den Hund sah", "Winter**pelz** wächst dichter, um Tiere vor Kälte zu schützen"]]
+  },
+  {
+    "lemma": "furlong",
+    "meanings_de": ["Entfernungsmaß"],
+    "definitions_de": ["Entfernungseinheit gleich einem Achtel einer Meile, hauptsächlich im Pferderennsport verwendet"],
+    "examples_de": [["Das Pferd führte mit drei **Furlong** Vorsprung in die Schlusskurve", "Alte Eigentumsurkunden führen manchmal Maße in **Furlong** und Ketten auf"]]
+  },
+  {
+    "lemma": "furlough",
+    "meanings_de": ["vorübergehende Arbeitsfreistellung"],
+    "definitions_de": ["Vorübergehender unbezahlter Urlaub von der Arbeit, oft aufgrund wirtschaftlicher Bedingungen oder Budgetbeschränkungen"],
+    "examples_de": [["Viele Fluglinienangestellte waren während des Reiserückgangs **beurlaubt**", "Das **Kurzarbeits**programm half Unternehmen, dauerhafte Entlassungen zu vermeiden"]]
+  },
+  {
+    "lemma": "furnace",
+    "meanings_de": ["Heizanlage"],
+    "definitions_de": ["Große geschlossene Struktur zum Heizen von Gebäuden oder zur Verarbeitung von Materialien bei hohen Temperaturen"],
+    "examples_de": [["Der **Heizkessel** benötigt jährliche Wartung vor der Winterheizsaison", "Stahl**öfen** arbeiten bei Temperaturen über zweitausend Grad"]]
+  },
+  {
+    "lemma": "furnishing",
+    "meanings_de": ["Einrichtungsgegenstände"],
+    "definitions_de": ["Möbel, Einbauten und dekorative Accessoires, die Räume funktional und komfortabel machen"],
+    "examples_de": [["Die Wohnung kam mit grundlegender **Einrichtung** einschließlich Bett und Sofa", "Sie verbrachten Monate mit der Auswahl der **Möblierung** für ihr neues Zuhause"]]
+  },
+  {
+    "lemma": "furor",
+    "meanings_de": ["öffentliche Empörung"],
+    "definitions_de": ["Ausbruch öffentlicher Wut oder Aufregung über etwas, das als schockierend oder falsch angesehen wird"],
+    "examples_de": [["Der Skandal verursachte wochenlang einen **Aufruhr** in den Medien", "Die öffentliche **Empörung** über die Entscheidung zwang die Beamten zum Umdenken"]]
+  },
+  {
+    "lemma": "furore",
+    "meanings_de": ["öffentliche Empörung"],
+    "definitions_de": ["Ausbruch öffentlicher Wut oder Aufregung über etwas, das als schockierend oder falsch angesehen wird"],
+    "examples_de": [["Die Preiserhöhung löste eine **Entrüstung** unter den Stammkunden aus", "Die **Aufregung** legte sich, nachdem das Unternehmen sich entschuldigt hatte"]]
+  },
+  {
+    "lemma": "furrow",
+    "meanings_de": ["gepflügte Rinne"],
+    "definitions_de": ["Langer schmaler Graben im Boden, der vom Pflug zum Säen von Samen gemacht wird"],
+    "examples_de": [["Der Bauer pflanzte Maissamen in perfekt gerade **Furchen**", "Frühlingsregen sammelte sich in den **Rillen** zwischen den gepflanzten Reihen"]]
+  },
+  {
+    "lemma": "furtherance",
+    "meanings_de": ["Förderungsprozess"],
+    "definitions_de": ["Handlung, die etwas dabei unterstützt, Fortschritte zu machen oder sich auf das Erreichen von Zielen zu entwickeln"],
+    "examples_de": [["Der Zuschuss unterstützt die **Förderung** der wissenschaftlichen Forschung zu seltenen Krankheiten", "Alle Spenden fließen in die **Verwirklichung** unserer Bildungsmission"]]
+  },
+  {
+    "lemma": "fury",
+    "meanings_de": ["extreme Wut"],
+    "definitions_de": ["Wilde oder heftige Wut, die intensiv und oft unkontrolliert ist"],
+    "examples_de": [["Der Sturm traf die Küste mit beispielloser **Wut**", "Ihre **Empörung** über die Ungerechtigkeit motivierte Jahre des Aktivismus"]]
+  },
+  {
+    "lemma": "fuse",
+    "meanings_de": ["Sicherung", "Zündschnur"],
+    "definitions_de": ["Elektrisches Sicherheitsgerät, das schmilzt, um den Stromkreis zu unterbrechen und Schäden durch Überstrom zu verhindern", "Schnur, die mit kontrollierter Geschwindigkeit brennt, um Sprengstoff aus sicherer Entfernung zu zünden"],
+    "examples_de": [["Die durchgebrannte **Sicherung** führte dazu, dass die Hälfte des Hauses den Strom verlor", "Ersetzen Sie **Sicherungen** immer mit der richtigen Amperezahl"], ["Der Sprengmeister maß sorgfältig die **Zündschnur** ab, bevor er sie anzündete", "Altmodische **Lunten** gaben Bergleuten Zeit, sich in Sicherheit zu bringen"]]
+  },
+  {
+    "lemma": "fuselage",
+    "meanings_de": ["Flugzeugrumpf"],
+    "definitions_de": ["Hauptrumpfabschnitt eines Flugzeugs, der Besatzung, Passagiere und Fracht aufnimmt"],
+    "examples_de": [["Der **Rumpf** des Flugzeugs zeigte Spannungsrisse, die sofortige Reparatur erforderten", "Moderne **Rumpf**konstruktionen verwenden leichte Verbundwerkstoffe für mehr Effizienz"]]
+  }
+]

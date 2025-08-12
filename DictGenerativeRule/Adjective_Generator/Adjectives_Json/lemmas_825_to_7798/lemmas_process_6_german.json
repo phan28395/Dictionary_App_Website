@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "bulletproof",
+    "meanings_de": ["kugelsicher", "unangreifbar"],
+    "definitions_de": ["so konstruiert oder beschaffen, dass Geschosse nicht durchdringen können und keinen Schaden anrichten", "so durchdacht und abgesichert, dass keine Kritik möglich ist oder Fehler ausgeschlossen sind"],
+    "examples_de": [["Der Präsident fuhr aus Sicherheitsgründen in einer **kugelsicheren** Limousine", "Polizisten tragen bei gefährlichen Einsätzen **kugelsichere** Westen"], ["Ihr **hieb- und stichfestes** Argument überzeugte selbst die schärfsten Kritiker", "Der Anwalt bereitete einen **wasserdichten** Fall mit eindeutigen Beweisen vor"]]
+  },
+  {
+    "lemma": "bully",
+    "meanings_de": ["ausgezeichnet oder fein"],
+    "definitions_de": ["sehr gut, erstklassig oder hervorragend in Qualität oder Zustand"],
+    "examples_de": [["Das ist eine **prima** Idee zur Lösung des Problems", "Wir hatten eine **großartige** Zeit auf dem Volksfest"]]
+  },
+  {
+    "lemma": "bullying",
+    "meanings_de": ["einschüchternd oder aggressiv"],
+    "definitions_de": ["Stärke oder Macht nutzend, um schwächere Menschen zu ängstigen oder zu verletzen"],
+    "examples_de": [["Sein **tyrannisches** Verhalten machte jüngeren Schülern Angst", "Das Unternehmen sah sich wegen **aggressiver** Praktiken gegen Konkurrenten mit Klagen konfrontiert"]]
+  },
+  {
+    "lemma": "bum",
+    "meanings_de": ["minderwertig oder wertlos"],
+    "definitions_de": ["von schlechter Qualität, nicht richtig funktionierend oder enttäuschend"],
+    "examples_de": [["Er machte einen **schlechten** Deal beim Kauf des Gebrauchtwagens", "Mein **kaputtes** Knie hindert mich am Sport"]]
+  },
+  {
+    "lemma": "bumbling",
+    "meanings_de": ["tollpatschig und ineffizient"],
+    "definitions_de": ["auf verwirrte, unbeholfene Weise handelnd und dabei viele Fehler machend"],
+    "examples_de": [["Der **tölpelhafte** Detektiv löste den Fall durch pures Glück", "Seine **unbeholfenen** Kochversuche endeten in einem Küchenchaos"]]
+  },
+  {
+    "lemma": "bumpy",
+    "meanings_de": ["uneben in der Oberfläche", "mit Schwierigkeiten behaftet"],
+    "definitions_de": ["viele Unebenheiten aufweisend, nicht glatt oder eben in der Beschaffenheit", "gekennzeichnet durch Schwierigkeiten, Rückschläge oder unregelmäßigen Fortschritt"],
+    "examples_de": [["Die **holprige** Straße machte die Fahrt für die Passagiere ungemütlich", "Wir fuhren langsam über den **unebenen** Feldweg"], ["Sie hatten einen **holprigen** Start in ihre Ehe, arbeiteten aber daran", "Das Unternehmen erlebte einen **schwierigen** Übergang zur neuen Geschäftsführung"]]
+  },
+  {
+    "lemma": "buoyant",
+    "meanings_de": ["schwimmfähig", "heiter und optimistisch"],
+    "definitions_de": ["fähig, im Wasser zu schwimmen oder in der Luft aufzusteigen; von geringer Dichte", "fröhlich und zuversichtlich; fähig, sich schnell von Rückschlägen zu erholen"],
+    "examples_de": [["Die **schwimmfähige** Rettungsweste hielt den Schwimmer sicher über Wasser", "Kork ist von Natur aus **auftriebsfähig** und schwimmt leicht auf Wasser"], ["Ihre **fröhliche** Persönlichkeit hellte die Stimmung im Büro auf", "Trotz Rückschlägen blieb er **zuversichtlich** bezüglich der Zukunft des Unternehmens"]]
+  },
+  {
+    "lemma": "burdened",
+    "meanings_de": ["schwer beladen", "von Verantwortung bedrückt"],
+    "definitions_de": ["körperlich etwas Schweres tragend; mit Gegenständen belastet", "schwierige Verantwortungen, Sorgen oder Probleme habend, die Stress verursachen"],
+    "examples_de": [["Der **beladene** Esel kämpfte sich den steilen Bergpfad hinauf", "**Schwerbepackte** Käufer trugen ihre Taschen aus dem Geschäft"], ["Sie fühlte sich von den finanziellen Problemen ihrer Familie **belastet**", "Der **geplagte** Geschäftsführer stand unter wachsendem Druck der Aktionäre"]]
+  },
+  {
+    "lemma": "burdensome",
+    "meanings_de": ["schwer zu ertragen"],
+    "definitions_de": ["Schwierigkeiten oder Sorgen verursachend; große Anstrengung erfordernd, um damit umzugehen oder es zu ertragen"],
+    "examples_de": [["Die **belastenden** Vorschriften erschwerten kleinen Unternehmen das Geschäft", "Die Pflege der alten Eltern wurde ohne Hilfe zur **schweren** Bürde"]]
+  },
+  {
+    "lemma": "bureaucratic",
+    "meanings_de": ["bürokratisch"],
+    "definitions_de": ["mit komplizierten amtlichen Regeln und Verfahren verbunden, die unnötig erscheinen und Ergebnisse verzögern"],
+    "examples_de": [["Der **bürokratische** Prozess für Genehmigungen dauerte mehrere Monate", "Sie ärgerte sich über die **bürokratischen** Hürden im Rathaus"]]
+  },
+  {
+    "lemma": "burgeoning",
+    "meanings_de": ["schnell wachsend"],
+    "definitions_de": ["beginnend schnell zu wachsen oder zuzunehmen; rasch gedeihend oder sich ausbreitend"],
+    "examples_de": [["Die **aufblühende** Tech-Industrie zog viele junge Fachkräfte an", "Ihr **wachsendes** Interesse an Kunst führte zu Malkursen"]]
+  },
+  {
+    "lemma": "buried",
+    "meanings_de": ["unterirdisch platziert", "versteckt oder verborgen"],
+    "definitions_de": ["in die Erde gelegt und mit Erde bedeckt, besonders nach dem Tod", "vor Blicken verborgen; unter etwas versteckt oder schwer zu finden"],
+    "examples_de": [["Der **vergrabene** Schatz blieb dreihundert Jahre lang versteckt", "**Verschüttete** antike Städte wurden von Archäologen entdeckt"], ["Die wichtigen Informationen waren im langen Bericht **vergraben**", "Ihre **verborgenen** Gefühle kamen schließlich während der Therapie zum Vorschein"]]
+  },
+  {
+    "lemma": "burlesque",
+    "meanings_de": ["komisch übertrieben"],
+    "definitions_de": ["sich auf Theaterunterhaltung beziehend, die etwas durch Humor übertreibt oder verspottet"],
+    "examples_de": [["Die **burleske** Aufführung parodierte bekannte Politiker", "Seine **übertriebene** Nachahmung des Lehrers brachte die Schüler zum Lachen"]]
+  },
+  {
+    "lemma": "burly",
+    "meanings_de": ["groß und kräftig"],
+    "definitions_de": ["einen großen, starken, schweren Körper habend; muskulös und kraftvoll gebaut"],
+    "examples_de": [["Der **stämmige** Türsteher bewachte den Eingang zum Nachtclub", "**Kräftige** Holzfäller traten beim Baumstammrollen gegeneinander an"]]
+  },
+  {
+    "lemma": "burned",
+    "meanings_de": ["durch Feuer beschädigt", "erschöpft durch Überarbeitung"],
+    "definitions_de": ["durch Feuer, Hitze oder Chemikalien beschädigt, verletzt oder gezeichnet", "extrem müde vom zu harten Arbeiten; körperliche oder geistige Erschöpfung erlebend"],
+    "examples_de": [["Der **verbrannte** Toast erfüllte die Küche mit Rauch", "Ihre **verbrannte** Haut benötigte sofortige medizinische Behandlung"], ["Nach Monaten von Überstunden fühlten sich die Angestellten völlig **ausgebrannt**", "Der **erschöpfte** Programmierer nahm einen langen Urlaub zur Erholung"]]
+  },
+  {
+    "lemma": "burnished",
+    "meanings_de": ["poliert zum Glänzen"],
+    "definitions_de": ["durch Reiben poliert, um glatt und glänzend zu werden; mit glänzender Oberfläche"],
+    "examples_de": [["Der **polierte** Kupferkessel glänzte auf dem Küchenherd", "Ritter hielten ihre **blank polierten** Rüstungen für Zeremonien makellos"]]
+  },
+  {
+    "lemma": "burnt",
+    "meanings_de": ["durch Feuer beschädigt"],
+    "definitions_de": ["durch Verbrennung oder Einwirkung übermäßiger Hitze beschädigt oder verfärbt"],
+    "examples_de": [["Die **verbrannten** Ränder des Papiers zeigten, dass es ein Feuer überlebt hatte", "Sie warf die **angebrannten** Kekse weg und fing von vorne an"]]
+  },
+  {
+    "lemma": "burry",
+    "meanings_de": ["mit Kletten bedeckt"],
+    "definitions_de": ["bedeckt mit oder voller Kletten, den stacheligen Samenkapseln von Pflanzen"],
+    "examples_de": [["Die **klettige** Wolle musste vor dem Spinnen sorgfältig gereinigt werden", "Hunde kehrten mit **klettenbehangenen** Fellen vom Feld zurück"]]
+  },
+  {
+    "lemma": "bushy",
+    "meanings_de": ["dicht und ausladend"],
+    "definitions_de": ["dicht wachsend mit vielen Zweigen oder Haaren; ein volles, dichtes Aussehen habend"],
+    "examples_de": [["Seine **buschigen** Augenbrauen bedeckten fast vollständig seine Augen", "Der **buschige** Schwanz half dem Eichhörnchen beim Balancieren auf Ästen"]]
+  },
+  {
+    "lemma": "bust",
+    "meanings_de": ["kaputt oder bankrott"],
+    "definitions_de": ["zerbrochen, ruiniert oder nicht mehr funktionierend; kein Geld mehr habend"],
+    "examples_de": [["Der **kaputte** Fernseher benötigte teure Reparaturen", "Nach schlechten Investitionen ging das Unternehmen völlig **pleite**"]]
+  },
+  {
+    "lemma": "busted",
+    "meanings_de": ["kaputt oder beschädigt", "beim Fehlverhalten erwischt"],
+    "definitions_de": ["zerbrochen, gerissen oder durch Schaden nicht richtig funktionierend", "bei einer Untat ertappt; verhaftet oder entlarvt"],
+    "examples_de": [["Das **geplatzte** Rohr überflutete den Keller mit Wasser", "Sein **kaputtes** Handydisplay machte das Texten schwierig"], ["Die Teenager wurden beim heimlichen Kinobesuch **erwischt**", "Die Polizei **zerschlug** gestern Abend die illegale Glücksspieloperation"]]
+  },
+  {
+    "lemma": "bustling",
+    "meanings_de": ["geschäftig mit Aktivität"],
+    "definitions_de": ["voller energischer und geräuschvoller Aktivität; überfüllt mit sich bewegenden Menschen"],
+    "examples_de": [["Der **geschäftige** Marktplatz verkaufte jeden Morgen frische Produkte", "Touristen liebten es, die **belebten** Straßen der Stadt zu erkunden"]]
+  },
+  {
+    "lemma": "butch",
+    "meanings_de": ["maskulin im Erscheinungsbild"],
+    "definitions_de": ["ein Aussehen oder Auftreten habend, das traditionell mit Männlichkeit assoziiert wird"],
+    "examples_de": [["Sie bevorzugte einen **maskulinen** Stil mit kurzen Haaren und Lederjacken", "Die **burschikose** Figur stellte traditionelle Geschlechterrollen in Frage"]]
+  },
+  {
+    "lemma": "buttery",
+    "meanings_de": ["nach Butter schmeckend", "glatt wie Butter"],
+    "definitions_de": ["Butter enthaltend, nach Butter schmeckend oder mit Butter bedeckt", "eine glatte, weiche Textur oder Erscheinung wie Butter habend"],
+    "examples_de": [["Das **buttrige** Popcorn hinterließ Fett an ihren Fingern", "Frische **butterweiche** Croissants erfüllten die Bäckerei mit Duft"], ["Das Leder hatte eine **butterweiche** Textur, die sich luxuriös anfühlte", "Der Sonnenuntergang tauchte den Himmel in **buttergelbe** Töne"]]
+  },
+  {
+    "lemma": "buttoned",
+    "meanings_de": ["mit Knöpfen befestigt"],
+    "definitions_de": ["mit Knöpfen geschlossen oder befestigt; Knöpfe angebracht oder zugeknöpft habend"],
+    "examples_de": [["Sein **zugeknöpfter** Mantel schützte ihn vor dem kalten Wind", "Sie trug eine ordentlich **geknöpfte** Bluse zum Vorstellungsgespräch"]]
+  },
+  {
+    "lemma": "buttressed",
+    "meanings_de": ["strukturell gestützt"],
+    "definitions_de": ["mit Strebepfeilern oder anderen strukturellen Stützen unterstützt oder verstärkt"],
+    "examples_de": [["Die **abgestützten** Kirchenmauern standen jahrhundertelang fest", "Alte **verstärkte** Brücken tragen noch heute den Verkehr"]]
+  },
+  {
+    "lemma": "buzzing",
+    "meanings_de": ["summend", "voller Aufregung"],
+    "definitions_de": ["ein kontinuierliches summendes oder vibrierendes Geräusch wie Bienen machend", "erfüllt von Aufregung, Aktivität oder lebhaften Gesprächen"],
+    "examples_de": [["**Summende** Bienen bewegten sich von Blüte zu Blüte und sammelten Pollen", "Die **brummende** Leuchtstoffröhre musste ausgetauscht werden"], ["Das Büro **brodelte** vor Gerüchten über die Fusion", "Die **aufgeregte** Menge wartete gespannt auf das Konzert"]]
+  },
+  {
+    "lemma": "bygone",
+    "meanings_de": ["einer vergangenen Zeit angehörend"],
+    "definitions_de": ["einer früheren Zeit angehörend; vergangen und nicht mehr existierend"],
+    "examples_de": [["Sie sammelten Antiquitäten aus **vergangenen** Epochen der Geschichte", "Das Museum zeigte Mode aus **längst vergangenen** Tagen"]]
+  },
+  {
+    "lemma": "caesarean",
+    "meanings_de": ["Kaiserschnitt betreffend"],
+    "definitions_de": ["sich auf die Geburt durch chirurgischen Eingriff durch den Bauch der Mutter beziehend"],
+    "examples_de": [["Die **Kaiserschnitt**-Entbindung war für die Sicherheit des Babys notwendig", "Sie erholte sich schnell von ihrer **Schnittentbindung**"]]
+  },
+  {
+    "lemma": "calculated",
+    "meanings_de": ["sorgfältig geplant", "mathematisch bestimmt"],
+    "definitions_de": ["sorgfältig geplant oder beabsichtigt, um ein bestimmtes Ergebnis oder eine bestimmte Wirkung zu erzielen", "durch mathematische Berechnung bestimmt; mit Arithmetik ausgearbeitet"],
+    "examples_de": [["Ihr **kalkuliertes** Risiko bei der Investition zahlte sich großzügig aus", "Der Politiker machte **berechnete** Aussagen, um Wählerstimmen zu gewinnen"], ["Die **berechnete** Entfernung zwischen Planeten half bei der Missionsplanung", "Ingenieure verwendeten **errechnete** Maße für den Brückenbau"]]
+  },
+  {
+    "lemma": "calculating",
+    "meanings_de": ["kalt berechnend"],
+    "definitions_de": ["kalt planend, um zu bekommen, was man will, oft ohne sich um andere zu kümmern"],
+    "examples_de": [["Ihre **berechnende** Art ließ Kollegen ihren Motiven völlig misstrauen", "Der **berechnende** Bösewicht plante jedes Detail des Plans"]]
+  },
+  {
+    "lemma": "calibrated",
+    "meanings_de": ["präzise justiert"],
+    "definitions_de": ["sorgfältig eingestellt oder markiert für genaue Messung; präzise auf Standard gesetzt"],
+    "examples_de": [["Die **kalibrierte** Waage lieferte exakte Messungen für das Experiment", "Piloten verließen sich auf **geeichte** Instrumente für sichere Navigation"]]
+  },
+  {
+    "lemma": "calico",
+    "meanings_de": ["mehrfarbig gemustert"],
+    "definitions_de": ["Flecken verschiedener Farben habend, besonders Katzen mit drei Farben beschreibend"],
+    "examples_de": [["Die **dreifarbige** Katze hatte oranges, schwarzes und weißes Fell", "Sie fertigte Vorhänge aus **buntem** Kattun mit Blumenmustern"]]
+  },
+  {
+    "lemma": "calligraphic",
+    "meanings_de": ["kalligrafisch"],
+    "definitions_de": ["sich auf dekorative Handschrift oder die Kunst beziehend, schöne Schrift zu produzieren"],
+    "examples_de": [["Die **kalligrafischen** Hochzeitseinladungen beeindruckten alle Gäste", "Alte **kalligrafische** Manuskripte wurden im Museum ausgestellt"]]
+  },
+  {
+    "lemma": "callous",
+    "meanings_de": ["gefühllos abgehärtet"],
+    "definitions_de": ["grausame Gleichgültigkeit gegenüber anderen zeigend; emotional abgehärtet und gefühllos"],
+    "examples_de": [["Seine **gefühllosen** Bemerkungen verletzten ihre Gefühle zutiefst", "Die **herzlose** Behandlung der Arbeiter führte zu Protesten"]]
+  },
+  {
+    "lemma": "callow",
+    "meanings_de": ["jung und unerfahren"],
+    "definitions_de": ["jung und ohne Erfahrung oder Reife; naiv in Bezug auf die Welt"],
+    "examples_de": [["Der **unerfahrene** Rekrut machte während der Ausbildung viele Fehler", "Ihr **unreifes** Verständnis von Politik zeigte sich in Debatten"]]
+  },
+  {
+    "lemma": "caloric",
+    "meanings_de": ["kalorisch"],
+    "definitions_de": ["sich auf Kalorien oder den Energiewert beziehend, der in Nahrungsmitteln und Getränken gefunden wird"],
+    "examples_de": [["Der **kalorische** Gehalt von Fast Food beunruhigte Gesundheitsexperten", "Athleten verfolgten ihre tägliche **Kalorienzufuhr** sorgfältig"]]
+  },
+  {
+    "lemma": "camouflaged",
+    "meanings_de": ["getarnt"],
+    "definitions_de": ["durch Schutzfärbung oder Muster versteckt, die sich mit der Umgebung vermischen"],
+    "examples_de": [["Die **getarnten** Soldaten waren im Wald nahezu unsichtbar", "**Getarnte** Kameras erfassten das Wildtierverhalten ohne Störung"]]
+  },
+  {
+    "lemma": "campy",
+    "meanings_de": ["bewusst übertriebener Stil"],
+    "definitions_de": ["bewusst übertrieben, künstlich oder theatralisch auf amüsante Weise"],
+    "examples_de": [["Der **überdrehte** Horrorfilm wurde zum Kultklassiker", "Ihre **theatralische** Darbietung erfreute das Publikum mit ihrem Humor"]]
+  },
+  {
+    "lemma": "canary",
+    "meanings_de": ["kanariengelb"],
+    "definitions_de": ["eine leuchtend gelbe Farbe wie die eines Kanarienvogels habend"],
+    "examples_de": [["Sie trug ein **kanariengelbes** Kleid, das den Raum erhellte", "Die **kanariengelbe** Farbe ließ die Küche sonnig wirken"]]
+  },
+  {
+    "lemma": "cancelled",
+    "meanings_de": ["abgesagt"],
+    "definitions_de": ["entschieden, nicht stattzufinden; vom geplanten Stattfinden abgehalten"],
+    "examples_de": [["Der **abgesagte** Flug ließ Passagiere am Flughafen stranden", "Starker Regen verursachte das **ausgefallene** Freiluftkonzert"]]
+  },
+  {
+    "lemma": "cancerous",
+    "meanings_de": ["krebsartig"],
+    "definitions_de": ["von Krebs betroffen oder sich auf Krebs beziehend; bösartige Zellen enthaltend, die sich ausbreiten"],
+    "examples_de": [["Ärzte entfernten den **bösartigen** Tumor während der Operation", "Die Früherkennung **krebsartiger** Zellen verbessert die Behandlungsergebnisse"]]
+  },
+  {
+    "lemma": "candid",
+    "meanings_de": ["offen und direkt"],
+    "definitions_de": ["ehrlich und geradlinig; offen beim Ausdrücken von Meinungen, ohne etwas zu verbergen"],
+    "examples_de": [["Ihr **offenes** Feedback half, das Projekt erheblich zu verbessern", "Der Politiker gab überraschend **ehrliche** Antworten während der Interviews"]]
+  },
+  {
+    "lemma": "canine",
+    "meanings_de": ["hundeartig"],
+    "definitions_de": ["sich auf Hunde oder Mitglieder der Hundefamilie beziehend oder ihnen ähnelnd"],
+    "examples_de": [["Der Tierarzt spezialisierte sich auf **Hunde**krankheiten und -behandlungen", "Seine **spitzen** Eckzähne waren scharf und auffällig"]]
+  },
+  {
+    "lemma": "canned",
+    "meanings_de": ["in Dosen konserviert", "vorgefertigt oder einstudiert"],
+    "definitions_de": ["in versiegelten Metallbehältern für langfristige Lagerung konserviert", "im Voraus vorbereitet; ohne Spontaneität oder echtes Gefühl"],
+    "examples_de": [["**Dosengemüse** hielt sich monatelang in der Speisekammer", "Die Suppenküche war auf Spenden von **Konserven** angewiesen"], ["Der Komiker vermied **abgedroschene** Witze und bevorzugte spontanen Humor", "Seine **vorgefertigte** Antwort ging nicht auf die eigentliche Frage ein"]]
+  },
+  {
+    "lemma": "cannibalistic",
+    "meanings_de": ["kannibalisch"],
+    "definitions_de": ["sich auf die Praxis beziehend, Fleisch der eigenen Art zu essen"],
+    "examples_de": [["Einige Spinnen zeigen nach der Paarung **kannibalisches** Verhalten", "Der **kannibalische** Stamm war in Horrorgeschichten zu finden"]]
+  },
+  {
+    "lemma": "canny",
+    "meanings_de": ["klug und vorsichtig"],
+    "definitions_de": ["gutes Urteilsvermögen zeigend, besonders in Geld- oder Geschäftsangelegenheiten; clever und vorsichtig"],
+    "examples_de": [["Die **geschickte** Investorin verdoppelte ihr Geld in fünf Jahren", "Seine **klugen** Verhandlungen sparten dem Unternehmen Tausende"]]
+  },
+  {
+    "lemma": "canonical",
+    "meanings_de": ["als authentisch anerkannt"],
+    "definitions_de": ["als genau, maßgebend oder Teil etablierter Prinzipien akzeptiert"],
+    "examples_de": [["Shakespeares Stücke gehören zur **kanonischen** englischen Literatur", "Die **kanonische** Version der Software behob frühere Fehler"]]
+  },
+  {
+    "lemma": "canonised",
+    "meanings_de": ["heiliggesprochen"],
+    "definitions_de": ["offiziell von der katholischen Kirche zum Heiligen erklärt"],
+    "examples_de": [["Die **heiliggesprochene** Nonne gründete Krankenhäuser im ganzen Land", "Mittelalterliche **kanonisierte** Gestalten zogen Pilger zu Kirchen"]]
+  },
+  {
+    "lemma": "canonized",
+    "meanings_de": ["heiliggesprochen"],
+    "definitions_de": ["offiziell von der katholischen Kirche zum Heiligen erklärt"],
+    "examples_de": [["Der **heiliggesprochene** Priester widmete sein Leben der Hilfe für die Armen", "Viele **kanonisierte** Heilige haben Kirchen, die nach ihnen benannt sind"]]
+  }
+]

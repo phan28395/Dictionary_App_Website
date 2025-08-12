@@ -1,0 +1,284 @@
+[
+  {
+    "lemma": "coupon",
+    "meanings_de": ["Rabattgutschein"],
+    "definitions_de": ["Papier- oder digitaler Beleg, der beim Kauf von Waren oder Dienstleistungen einen Preisnachlass oder eine Ermäßigung gewährt"],
+    "examples_de": [["Mit den **Rabattgutscheinen** sparte sie beim Wocheneinkauf zwanzig Euro", "Der **Gutschein** für das Restaurant ist nur noch bis nächste Woche gültig"]]
+  },
+  {
+    "lemma": "courier",
+    "meanings_de": ["Kurierdienst", "Botendienst"],
+    "definitions_de": ["Person oder Unternehmen, das Pakete und Dokumente schnell von einem Ort zum anderen befördert", "Dienstleistung, die sich auf die schnelle Zustellung von Sendungen und wichtigen Unterlagen spezialisiert hat"],
+    "examples_de": [["Der **Kurier** lieferte das Paket noch vor Mittag aus", "Internationale **Kuriere** befördern zeitkritische Dokumente"], ["Wir schickten den Vertrag per **Kurierdienst**", "Das **Kurierunternehmen** garantiert die Zustellung am nächsten Tag"]]
+  },
+  {
+    "lemma": "coursework",
+    "meanings_de": ["Studienarbeiten"],
+    "definitions_de": ["Schriftliche oder praktische Arbeiten, die Studierende während eines Studiengangs anfertigen müssen und die nicht in Prüfungen erbracht werden"],
+    "examples_de": [["Alle **Studienarbeiten** müssen vor dem Abschluss eingereicht werden", "Ihre **Kursarbeiten** umfassten drei Essays und zwei Projekte"]]
+  },
+  {
+    "lemma": "courthouse",
+    "meanings_de": ["Gerichtsgebäude"],
+    "definitions_de": ["Gebäude, in dem Rechtsfälle von Richtern und Geschworenen verhandelt und entschieden werden"],
+    "examples_de": [["Sie kamen früh am **Gerichtsgebäude** an, um beim Prozess dabei zu sein", "Das alte **Justizgebäude** steht auf dem Marktplatz der Stadt"]]
+  },
+  {
+    "lemma": "courting",
+    "meanings_de": ["Umwerben"],
+    "definitions_de": ["Prozess, bei dem jemand die Zuneigung einer anderen Person sucht, um eine romantische Beziehung aufzubauen"],
+    "examples_de": [["Das traditionelle **Werben** beinhaltete beaufsichtigte Besuche und formelle Abendessen", "Sein **Umwerben** dauerte mehrere Monate, bevor er ihr einen Heiratsantrag machte"]]
+  },
+  {
+    "lemma": "courtship",
+    "meanings_de": ["Brautwerbung"],
+    "definitions_de": ["Zeitraum, in dem ein Paar eine romantische Beziehung entwickelt, bevor es sich verlobt oder heiratet"],
+    "examples_de": [["Ihre **Kennenlernzeit** begann auf der Hochzeit gemeinsamer Freunde", "Die **Verlobungszeit** dauerte zwei Jahre bis zur Hochzeit"]]
+  },
+  {
+    "lemma": "courtyard",
+    "meanings_de": ["Innenhof"],
+    "definitions_de": ["Offener Bereich, der von Mauern oder Gebäuden umgeben ist und sich typischerweise im Zentrum eines Gebäudekomplexes befindet"],
+    "examples_de": [["Die Kinder spielten im **Innenhof** des Mehrfamilienhauses", "Das Restaurant hat Tische in einem bezaubernden **Hof**"]]
+  },
+  {
+    "lemma": "couture",
+    "meanings_de": ["Haute Couture"],
+    "definitions_de": ["Entwurf und Anfertigung modischer Kleidung nach spezifischen Kundenwünschen durch führende Modehäuser"],
+    "examples_de": [["Die Schauspielerin trug **Haute Couture** bei der Preisverleihung", "Paris bleibt die Welthauptstadt der **Schneiderkunst**"]]
+  },
+  {
+    "lemma": "cove",
+    "meanings_de": ["kleine Meeresbucht"],
+    "definitions_de": ["Kleine geschützte Bucht oder Einbuchtung entlang einer Küste, typischerweise mit geschwungener Uferlinie"],
+    "examples_de": [["Sie ankerten ihr Boot in einer friedlichen **Bucht**", "Die versteckte **Badebucht** war perfekt zum Schwimmen"]]
+  },
+  {
+    "lemma": "coven",
+    "meanings_de": ["Hexenzirkel"],
+    "definitions_de": ["Gruppe oder Versammlung von Hexen, die sich regelmäßig treffen, traditionell bestehend aus dreizehn Mitgliedern"],
+    "examples_de": [["Der **Hexenzirkel** versammelte sich bei Vollmond für Rituale", "Die örtliche Folklore erzählt von einem **Hexenkreis**, der sich im Wald trifft"]]
+  },
+  {
+    "lemma": "covenant",
+    "meanings_de": ["formelle Vereinbarung", "religiöses Versprechen"],
+    "definitions_de": ["Formelle schriftliche Vereinbarung oder Versprechen zwischen zwei oder mehr Parteien, insbesondere eine unter Siegel getroffene", "Feierliche Vereinbarung zwischen Gott und der Menschheit oder einer religiösen Gemeinschaft, wie in der Heiligen Schrift beschrieben"],
+    "examples_de": [["Die Hausbesitzer unterzeichneten eine **Vereinbarung**, die Grundstücksänderungen einschränkt", "Der **Vertrag** legte spezifische Nachbarschaftsregeln fest"], ["Der biblische **Bund** versprach Abrahams Nachkommen Land", "Ihr **Ehebund** beinhaltete heilige Gelübde vor Gott"]]
+  },
+  {
+    "lemma": "covering",
+    "meanings_de": ["Schutzschicht"],
+    "definitions_de": ["Etwas, das ein anderes Objekt bedeckt oder verhüllt und als Schutz oder Dekoration dient"],
+    "examples_de": [["Die **Plastikabdeckung** schützte die Möbel während des Streichens", "Schnee bildete eine weiße **Decke** über der Landschaft"]]
+  },
+  {
+    "lemma": "covert",
+    "meanings_de": ["Versteck"],
+    "definitions_de": ["Dickicht oder Waldstück, das Wild Deckung bietet oder als verborgener Unterschlupf dient"],
+    "examples_de": [["Die Jäger warteten nahe dem **Dickicht**, wo sich oft Rehe aufhielten", "Die Fasane flogen aus ihrem **Versteck** im Gebüsch"]]
+  },
+  {
+    "lemma": "coward",
+    "meanings_de": ["Feigling"],
+    "definitions_de": ["Person, der es an Mut fehlt, sich Gefahr, Schwierigkeiten oder Schmerz zu stellen"],
+    "examples_de": [["Er nannte sich selbst einen **Feigling**, weil er nicht den Mund aufgemacht hatte", "Nur ein **Angsthase** würde jemand Schwächeren schikanieren"]]
+  },
+  {
+    "lemma": "cowardice",
+    "meanings_de": ["Feigheit"],
+    "definitions_de": ["Eigenschaft, aufgrund übermäßiger Angst nicht bereit zu sein, sich Gefahren oder Schwierigkeiten zu stellen"],
+    "examples_de": [["Seine **Feigheit** hinderte ihn daran, seinen Freund zu verteidigen", "Vor Verantwortung wegzulaufen zeigt **Mutlosigkeit**"]]
+  },
+  {
+    "lemma": "cowbell",
+    "meanings_de": ["Kuhglocke"],
+    "definitions_de": ["Glocke, die um den Hals einer Kuh getragen wird, um das Tier durch den Klang zu orten"],
+    "examples_de": [["Das entfernte Läuten der **Kuhglocken** hallte über die Almwiese", "Jede Kuh trug eine unterschiedlich große **Viehglocke** zur Identifizierung"]]
+  },
+  {
+    "lemma": "cowgirl",
+    "meanings_de": ["Rancharbeiterin"],
+    "definitions_de": ["Frau, die auf einer Ranch arbeitet, Rinder hütet und andere ranchbezogene Aufgaben ausführt"],
+    "examples_de": [["Die **Cowgirl** fing das entlaufene Kalb geschickt mit dem Lasso", "Sie träumte davon, eine **Rodeo-Reiterin** zu werden"]]
+  },
+  {
+    "lemma": "cowherd",
+    "meanings_de": ["Rinderhirte"],
+    "definitions_de": ["Person, die Kühe hütet und betreut, besonders auf Weiden oder Weideland"],
+    "examples_de": [["Der **Kuhhirte** führte das Vieh zu frischem Weideland", "Traditionelle **Viehhirten** lebten oft in abgelegenen Berggebieten"]]
+  },
+  {
+    "lemma": "cowl",
+    "meanings_de": ["Mönchskapuze", "Motorhaube"],
+    "definitions_de": ["Große, lose Kapuze, die von Mönchen oder als Teil religiöser Gewänder getragen wird", "Abnehmbare Abdeckung für ein Fahrzeug- oder Flugzeugmotor oder eine Schornsteinkappe"],
+    "examples_de": [["Der Mönch zog seine **Kutte** gegen den kalten Wind nach vorne", "Mittelalterliche Handschriften zeigen oft Mönche in braunen **Kapuzen**"], ["Der Mechaniker entfernte die **Motorabdeckung** zur Wartung", "Eine **Schornsteinhaube** verhindert das Eindringen von Regen"]]
+  },
+  {
+    "lemma": "coyote",
+    "meanings_de": ["Kojote"],
+    "definitions_de": ["Wilder Hund, der in Nordamerika heimisch ist, kleiner als ein Wolf mit gelblich-grauem Fell"],
+    "examples_de": [["Ein **Kojote** heulte in der Ferne bei Einbruch der Dunkelheit", "**Kojoten** haben sich gut an städtische Umgebungen angepasst"]]
+  },
+  {
+    "lemma": "cozy",
+    "meanings_de": ["Teewärmer"],
+    "definitions_de": ["Gepolsterte Abdeckung, die über eine Teekanne gelegt wird, um den Tee warm zu halten"],
+    "examples_de": [["Großmutter strickte einen bunten **Teewärmer** für ihre Lieblingsteekanne", "Der Tee blieb mit der gesteppten **Kannenhaube** länger heiß"]]
+  },
+  {
+    "lemma": "crab",
+    "meanings_de": ["Meereskrabbe"],
+    "definitions_de": ["Meerestier mit flachem Körper, hartem Panzer und fünf Beinpaaren, wobei das vordere Paar Scheren hat"],
+    "examples_de": [["Die **Krabbe** huschte seitwärts über den Sandstrand", "Frische **Krabben** sind eine Delikatesse in Küstenrestaurants"]]
+  },
+  {
+    "lemma": "crackdown",
+    "meanings_de": ["hartes Durchgreifen"],
+    "definitions_de": ["Strenge Maßnahmen, die ergriffen werden, um unerwünschte oder illegale Aktivitäten einzuschränken oder zu unterbinden"],
+    "examples_de": [["Die Polizei kündigte ein **hartes Durchgreifen** gegen Raser an", "Das **Vorgehen** der Regierung zielte auf Steuerhinterziehung ab"]]
+  },
+  {
+    "lemma": "cracker",
+    "meanings_de": ["Knäckebrot", "Knallbonbon"],
+    "definitions_de": ["Dünner, knuspriger Keks oder Zwieback, typischerweise aus Mehl und Wasser hergestellt", "Verzierte Papierröhre, die beim Auseinanderziehen ein scharfes Geräusch macht und kleine Geschenke enthält"],
+    "examples_de": [["Sie strich Käse auf Vollkorn-**Cracker**", "Zur Suppe gab es eine Packung **Knäckebrot**"], ["Die Kinder zogen Weihnachts-**Knallbonbons** am Esstisch", "Jedes **Knallbonbon** enthielt eine Papierkrone und einen Witz"]]
+  },
+  {
+    "lemma": "cracking",
+    "meanings_de": ["Rissbildung"],
+    "definitions_de": ["Prozess oder Geräusch von etwas, das bricht oder sich spaltet, oft entlang einer Linie oder Oberfläche"],
+    "examples_de": [["Das **Krachen** des Eises warnte die Schlittschuhläufer vor Gefahr", "**Rissbildung** in der Farbe deutet auf Feuchtigkeitsprobleme hin"]]
+  },
+  {
+    "lemma": "crackle",
+    "meanings_de": ["Knistern"],
+    "definitions_de": ["Serie kurzer, scharfer Geräusche, wie sie von etwas Brennendem oder Zerbrechendem erzeugt werden"],
+    "examples_de": [["Das **Knistern** des Feuers erfüllte die stille Hütte", "Statisches **Prasseln** unterbrach die Radioübertragung"]]
+  },
+  {
+    "lemma": "crackling",
+    "meanings_de": ["Schweinekruste"],
+    "definitions_de": ["Knusprige Haut von gebratenem Schweinefleisch, oft als Snack oder Beilage serviert"],
+    "examples_de": [["Der Schweinebraten hatte eine perfekte goldene **Kruste**", "Sie kaufte eine Tüte **Grieben** beim Metzger"]]
+  },
+  {
+    "lemma": "cradle",
+    "meanings_de": ["Babywiege", "Haltevorrichtung"],
+    "definitions_de": ["Kleines Bett für ein Baby, besonders eines, das hin und her schaukelt", "Rahmen oder Struktur, die etwas sicher hält oder stützt"],
+    "examples_de": [["Das Baby schlief friedlich in seiner hölzernen **Wiege**", "Antike **Wiegen** sind beliebte Kinderzimmerdekorationen"], ["Das Schiff ruhte in seiner **Halterung** auf der Werft", "Legen Sie das Telefon zurück in die **Ladestation**"]]
+  },
+  {
+    "lemma": "craftsman",
+    "meanings_de": ["Handwerker"],
+    "definitions_de": ["Arbeiter, der in einem bestimmten Handwerk geschickt ist, insbesondere eines, das manuelle Fertigkeiten und künstlerische Fähigkeiten erfordert"],
+    "examples_de": [["Der **Handwerker** schnitzte kunstvolle Muster in das Holz", "Örtliche **Kunsthandwerker** stellten ihre handgefertigten Möbel aus"]]
+  },
+  {
+    "lemma": "craftsmanship",
+    "meanings_de": ["Handwerkskunst"],
+    "definitions_de": ["Qualität von Design und Arbeit, die sich in etwas zeigt, das mit Geschick und Kunstfertigkeit von Hand gefertigt wurde"],
+    "examples_de": [["Die **Handwerkskunst** des Tisches war in jedem Detail erkennbar", "Feine **Verarbeitung** unterscheidet Handgefertigtes von Massenware"]]
+  },
+  {
+    "lemma": "crag",
+    "meanings_de": ["Felsklippe"],
+    "definitions_de": ["Steile oder zerklüftete Klippe oder Felswand, typischerweise an einem Berg"],
+    "examples_de": [["Adler nisteten auf der höchsten **Felsklippe**", "Kletterer stellten sich der Herausforderung am gefährlichen **Felsvorsprung**"]]
+  },
+  {
+    "lemma": "cramp",
+    "meanings_de": ["Muskelkrampf"],
+    "definitions_de": ["Schmerzhafte unwillkürliche Kontraktion eines Muskels, typischerweise durch Ermüdung oder Belastung verursacht"],
+    "examples_de": [["Ein plötzlicher **Krampf** erfasste ihre Wadenmuskulatur während des Rennens", "Wasser trinken hilft, **Muskelkrämpfe** beim Sport zu vermeiden"]]
+  },
+  {
+    "lemma": "cranberry",
+    "meanings_de": ["Preiselbeere"],
+    "definitions_de": ["Kleine, runde, rote Beere mit scharfem, saurem Geschmack, oft in Saucen und Säften verwendet"],
+    "examples_de": [["**Preiselbeersoße** begleitete das Truthahnessen", "Sie trank **Cranberrysaft** wegen seiner gesundheitlichen Vorteile"]]
+  },
+  {
+    "lemma": "crane",
+    "meanings_de": ["Hebekran", "Kranich"],
+    "definitions_de": ["Große Maschine mit ausladendem Arm zum Heben und Bewegen schwerer Gegenstände", "Großer Watvogel mit langen Beinen, Hals und Schnabel, oft in Wassernähe zu finden"],
+    "examples_de": [["Der Bau**kran** hob Stahlträger an ihren Platz", "Ein mobiler **Kran** entfernte den umgestürzten Baum"], ["Ein **Kranich** stand regungslos im seichten Sumpf", "Japanische **Kraniche** symbolisieren Langlebigkeit und Glück"]]
+  },
+  {
+    "lemma": "cranium",
+    "meanings_de": ["Schädelknochen"],
+    "definitions_de": ["Knöcherne Struktur, die das Gehirn umschließt und schützt und den oberen Teil des Schädels bildet"],
+    "examples_de": [["Das **Kranium** des Fossils war bemerkenswert gut erhalten", "Ärzte untersuchten das Röntgenbild seines **Schädels**"]]
+  },
+  {
+    "lemma": "crank",
+    "meanings_de": ["Drehkurbel", "Sonderling"],
+    "definitions_de": ["Griff oder Arm, der rechtwinklig an einer Welle befestigt ist, um kreisförmige in hin- und hergehende Bewegung umzuwandeln", "Person mit seltsamen Ideen oder die sich exzentrisch verhält"],
+    "examples_de": [["Drehen Sie die **Kurbel** im Uhrzeigersinn, um das Fenster zu heben", "Die alte Spieluhr spielte, als sie die **Kurbel** drehte"], ["Der **Sonderling** aus der Nachbarschaft beschwerte sich über alles", "Beachten Sie ihn nicht, er ist nur ein harmloser alter **Kauz**"]]
+  },
+  {
+    "lemma": "crate",
+    "meanings_de": ["Holzkiste"],
+    "definitions_de": ["Große Holz- oder Plastikkiste zum Transport oder zur Lagerung von Waren, oft mit Lattenwänden"],
+    "examples_de": [["Die Orangen kamen in **Holzkisten** vom Bauernhof", "Sie verwendeten eine **Kiste**, um die zerbrechliche Skulptur zu versenden"]]
+  },
+  {
+    "lemma": "crater",
+    "meanings_de": ["Krater"],
+    "definitions_de": ["Große schüsselförmige Vertiefung im Boden oder auf einem Himmelskörper, typischerweise durch Explosion oder Einschlag verursacht"],
+    "examples_de": [["Der Meteor hinterließ einen massiven **Krater** in der Wüste", "Touristen besuchten den alten vulkanischen **Einschlagkrater**"]]
+  },
+  {
+    "lemma": "craving",
+    "meanings_de": ["heftiges Verlangen"],
+    "definitions_de": ["Starkes Verlangen nach etwas, besonders Nahrung, das schwer zu widerstehen oder zu kontrollieren ist"],
+    "examples_de": [["Schwangere Frauen erleben oft ungewöhnliche **Gelüste** nach bestimmten Speisen", "Sein **Heißhunger** auf Schokolade war überwältigend"]]
+  },
+  {
+    "lemma": "crawfish",
+    "meanings_de": ["Flusskrebs"],
+    "definitions_de": ["Kleines hummerartiges Süßwasserkrebstier, das in Flüssen und Bächen vorkommt, auch Krebs genannt"],
+    "examples_de": [["Sie fingen **Flusskrebse** im Bach für das Abendessen", "Louisiana-**Krebsessen** sind beliebte gesellschaftliche Veranstaltungen"]]
+  },
+  {
+    "lemma": "crawler",
+    "meanings_de": ["kriechendes Wesen", "Webprogramm"],
+    "definitions_de": ["Baby oder Lebewesen, das sich auf Händen und Knien oder mit dem Körper nahe am Boden bewegt", "Computerprogramm, das systematisch das Internet zum Zweck der Indizierung durchsucht"],
+    "examples_de": [["Das Baby wurde mit acht Monaten zum aktiven **Krabbler**", "**Bodenwürmer** im Garten helfen, den Boden zu belüften"], ["Suchmaschinen nutzen **Crawler**, um Webseiten zu indexieren", "Der Web-**Crawler** aktualisierte das Suchranking der Seite"]]
+  },
+  {
+    "lemma": "crawling",
+    "meanings_de": ["langsame Bewegung"],
+    "definitions_de": ["Handlung des langsamen Bewegens auf Händen und Knien oder mit dem Körper nahe am Boden"],
+    "examples_de": [["Die **Krabbelphase** des Babys dauerte drei Monate", "Der Verkehr **kroch** während der Hauptverkehrszeit"]]
+  },
+  {
+    "lemma": "crayfish",
+    "meanings_de": ["Flusskrebs"],
+    "definitions_de": ["Kleines hummerartiges Süßwasserkrebstier, das in Flüssen und Bächen vorkommt, auch Krebs genannt"],
+    "examples_de": [["Der Bach war voller **Flusskrebse**, die sich unter Steinen versteckten", "Kinder lieben es, **Krebse** im seichten Wasser zu fangen"]]
+  },
+  {
+    "lemma": "crayon",
+    "meanings_de": ["Wachsmalstift"],
+    "definitions_de": ["Stift aus farbigem Wachs oder Kreide zum Zeichnen oder Ausmalen, besonders von Kindern verwendet"],
+    "examples_de": [["Das Kind malte einen Regenbogen mit bunten **Wachsmalstiften**", "Sie kaufte eine neue Schachtel mit vierundsechzig **Buntstiften**"]]
+  },
+  {
+    "lemma": "craze",
+    "meanings_de": ["Modeerscheinung"],
+    "definitions_de": ["Begeisterung für eine bestimmte Aktivität oder ein Objekt, die plötzlich auftritt und weit verbreitete Popularität erlangt"],
+    "examples_de": [["Die Fitness-**Welle** schwappte durch das Büro", "Soziale Medien schufen eine **Manie** für virale Herausforderungen"]]
+  },
+  {
+    "lemma": "creamer",
+    "meanings_de": ["Milchersatz", "Sahnekännchen"],
+    "definitions_de": ["Flüssige oder pulverförmige Substanz, die Kaffee oder Tee als Ersatz für Milch oder Sahne zugesetzt wird", "Kleine Kanne oder Behälter, der zum Servieren von Sahne oder Milch bestimmt ist"],
+    "examples_de": [["Sie bevorzugte milchfreien **Kaffeeweißer** in ihrem Kaffee", "Der pulverförmige **Milchersatz** löste sich schnell in heißen Getränken auf"], ["Das silberne **Sahnekännchen** passte perfekt zur Zuckerdose", "Gießen Sie Milch aus dem **Milchkännchen** in Ihren Tee"]]
+  },
+  {
+    "lemma": "creamery",
+    "meanings_de": ["Molkerei"],
+    "definitions_de": ["Ort, an dem Butter und Käse hergestellt werden oder wo Milch und Sahne für den Verkauf vorbereitet werden"],
+    "examples_de": [["Die örtliche **Molkerei** produziert handwerklichen Käse", "Frische Butter kam täglich aus der Dorf**molkerei**"]]
+  }
+]

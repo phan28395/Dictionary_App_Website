@@ -1,0 +1,146 @@
+[
+  {
+    "lemma": "banal",
+    "meanings_de": ["ohne Originalität"],
+    "definitions_de": ["langweilig und einfallslos durch Übernutzung oder zu große Vertrautheit, nichts Neues oder Interessantes bietend"],
+    "examples_de": [["Die **banale** Handlung des Films ließ das Publikum vorzeitig gehen", "Seine Rede war voller **banaler** Bemerkungen über das Wetter"]]
+  },
+  {
+    "lemma": "bandaged",
+    "meanings_de": ["mit Stoff umwickelt"],
+    "definitions_de": ["mit Stoffstreifen oder Verbandsmaterial zum medizinischen Schutz bedeckt oder umwunden"],
+    "examples_de": [["Die **verbundene** Wunde musste täglich gereinigt und gepflegt werden", "Sie ging vorsichtig mit ihrem **bandagierten** Knöchel"]]
+  },
+  {
+    "lemma": "banded",
+    "meanings_de": ["mit Streifen versehen"],
+    "definitions_de": ["deutliche Bänder oder Streifen unterschiedlicher Farben oder Texturen aufweisend"],
+    "examples_de": [["Die **gebänderten** Felsformationen offenbarten Millionen geologischer Jahre", "Eine **gestreifte** Schlange glitt über den Waldpfad"]]
+  },
+  {
+    "lemma": "bandy",
+    "meanings_de": ["nach außen gebogen"],
+    "definitions_de": ["Beine habend, die an oder unterhalb der Knie nach außen gebogen sind"],
+    "examples_de": [["Die **krummen** Beine des Cowboys zeugten von jahrelangem Reiten", "Sein **säbelbeiniger** Gang war in der Menge unverwechselbar"]]
+  },
+  {
+    "lemma": "banging",
+    "meanings_de": ["lauten Lärm machend", "ausgezeichnet oder beeindruckend"],
+    "definitions_de": ["wiederholte laute Geräusche durch Aufprall oder Kollision erzeugend", "außergewöhnlich gut oder aufregend im informellen Sprachgebrauch"],
+    "examples_de": [["Die **schlagenden** Fensterläden hielten während des Sturms alle wach", "Bauarbeiter machten den ganzen Morgen **hämmernde** Geräusche"], ["Sie schmissen eine **hammer** Party, über die Nachbarn noch immer sprechen", "Das Restaurant serviert **geniales** Essen zu vernünftigen Preisen"]]
+  },
+  {
+    "lemma": "bankrupt",
+    "meanings_de": ["finanziell ruiniert", "völlig fehlend"],
+    "definitions_de": ["unfähig, Schulden zu bezahlen und rechtlich als zahlungsunfähig erklärt", "gänzlich ohne eine bestimmte Eigenschaft oder einen bestimmten Wert"],
+    "examples_de": [["Das **bankrotte** Unternehmen musste alle Standorte schließen", "Viele **insolvente** Unternehmen entstanden nach der Wirtschaftskrise"], ["Das Regime war trotz seines Reichtums moralisch **bankrott**", "Seine **bankrotte** Fantasie konnte keine originellen Ideen hervorbringen"]]
+  },
+  {
+    "lemma": "banned",
+    "meanings_de": ["offiziell verboten"],
+    "definitions_de": ["formell durch Gesetz, Regel oder andere Autorität untersagt"],
+    "examples_de": [["Die **verbotenen** Bücher blieben in Untergrundkreisen beliebt", "Rauchen ist in allen öffentlichen Gebäuden hier **verboten**"]]
+  },
+  {
+    "lemma": "banner",
+    "meanings_de": ["herausragend oder außergewöhnlich"],
+    "definitions_de": ["außergewöhnlich gut oder erfolgreich, besonders für einen bestimmten Zeitraum"],
+    "examples_de": [["Es war ein **herausragendes** Jahr für die Unternehmensgewinne", "Das Team feierte seine **außergewöhnliche** Leistung diese Saison"]]
+  },
+  {
+    "lemma": "bantam",
+    "meanings_de": ["klein aber aggressiv"],
+    "definitions_de": ["klein von Statur, aber temperamentvolle Aggressivität oder Entschlossenheit zeigend"],
+    "examples_de": [["Der **kleine kampflustige** Kämpfer überraschte Gegner mit wilder Entschlossenheit", "Ihre **zierliche** Statur täuschte über ihre kraftvolle Sprechstimme hinweg"]]
+  },
+  {
+    "lemma": "baptised",
+    "meanings_de": ["rituell eingeweiht"],
+    "definitions_de": ["die christliche Zeremonie der Taufe mit Wasser durchlaufen habend"],
+    "examples_de": [["Das **getaufte** Kind trug ein traditionelles weißes Kleid", "Alle **getauften** Mitglieder konnten am Kirchenabendmahl teilnehmen"]]
+  },
+  {
+    "lemma": "baptismal",
+    "meanings_de": ["die Taufe betreffend"],
+    "definitions_de": ["mit der religiösen Zeremonie der Taufe verbunden oder dabei verwendet"],
+    "examples_de": [["Das **Tauf**becken stand am Kircheneingang", "Sie bewahrten die **Tauf**urkunde in einem besonderen Rahmen auf"]]
+  },
+  {
+    "lemma": "baptized",
+    "meanings_de": ["rituell eingeweiht"],
+    "definitions_de": ["die christliche Zeremonie der Taufe mit Wasser durchlaufen habend"],
+    "examples_de": [["Die neu **getauften** Konvertiten schlossen sich freudig der Gemeinde an", "Sie wurde letzten Sommer im Fluss **getauft**"]]
+  },
+  {
+    "lemma": "barbarian",
+    "meanings_de": ["unzivilisiert und roh"],
+    "definitions_de": ["Kultur, Verfeinerung oder Bildung auf wilde Weise vermissen lassend"],
+    "examples_de": [["Die **barbarischen** Horden fegten durch die zivilisierten Länder", "Seine **barbarischen** Manieren schockierten die Dinnerparty-Gäste"]]
+  },
+  {
+    "lemma": "barbaric",
+    "meanings_de": ["grausam brutal"],
+    "definitions_de": ["extrem grausam, hart oder brutal auf unzivilisierte Weise"],
+    "examples_de": [["Die **barbarische** Behandlung von Gefangenen löste internationale Empörung aus", "Solche **barbarischen** Bräuche haben keinen Platz in der modernen Gesellschaft"]]
+  },
+  {
+    "lemma": "barbarous",
+    "meanings_de": ["primitiv und grausam", "sprachlich inkorrekt"],
+    "definitions_de": ["unzivilisiert und wild grausam in Verhalten oder Erscheinung", "Fehler im Sprachgebrauch oder in der Aussprache enthaltend"],
+    "examples_de": [["Die **barbarischen** Taten während des Krieges entsetzten Beobachter", "Ihre **barbarische** Behandlung von Tieren führte zur Strafverfolgung"], ["Seine **barbarische** Aussprache französischer Wörter amüsierte Einheimische", "Die Übersetzung enthielt mehrere **barbarische** grammatikalische Konstruktionen"]]
+  },
+  {
+    "lemma": "barbed",
+    "meanings_de": ["mit scharfen Spitzen", "absichtlich verletzend"],
+    "definitions_de": ["mit rückwärts gerichteten scharfen Spitzen ausgestattet, um das Herausziehen zu verhindern", "absichtlich schneidende oder bösartige Elemente in der Sprache enthaltend"],
+    "examples_de": [["Der **Stacheldraht**zaun schützte das Militärgelände", "Fischer handhabten die **widerhakigen** Angelhaken vorsichtig"], ["Ihre **spitzen** Kommentare ließen alle sich unwohl fühlen", "Die **bissige** Kritik des Rezensenten zerstörte das Selbstvertrauen des Dramatikers"]]
+  },
+  {
+    "lemma": "bareback",
+    "meanings_de": ["ohne Sattel"],
+    "definitions_de": ["ein Pferd ohne Verwendung eines Sattels oder ähnlicher Ausrüstung reitend"],
+    "examples_de": [["Die Zirkusartistin ritt **ohne Sattel** um die Manege", "Kinder lernten das **Reiten ohne Sattel** im Sommerlager"]]
+  },
+  {
+    "lemma": "bared",
+    "meanings_de": ["entblößt oder freigelegt"],
+    "definitions_de": ["durch Entfernen von Bedeckung oder Schutz sichtbar gemacht"],
+    "examples_de": [["Die **entblößten** Zähne des Hundes warnten Fremde, sich fernzuhalten", "Ihre **nackten** Schultern glänzten in der Sommersonne"]]
+  },
+  {
+    "lemma": "barefoot",
+    "meanings_de": ["ohne Schuhe"],
+    "definitions_de": ["Füße ohne jegliche Schuhe, Socken oder andere Bedeckung habend"],
+    "examples_de": [["Die **barfüßigen** Kinder spielten glücklich am Strand", "**Barfuß** auf Gras zu laufen fühlt sich erfrischend und natürlich an"]]
+  },
+  {
+    "lemma": "baritone",
+    "meanings_de": ["tiefe Männerstimmlage"],
+    "definitions_de": ["den Stimmumfang zwischen Tenor und Bass in der Musik habend"],
+    "examples_de": [["Seine reiche **Bariton**stimme erfüllte den Konzertsaal", "Das **Bariton**saxophon erzeugt tiefe, weiche Töne"]]
+  },
+  {
+    "lemma": "barometric",
+    "meanings_de": ["den Luftdruck betreffend"],
+    "definitions_de": ["sich auf den atmosphärischen Druck beziehend oder mit einem Barometer gemessen"],
+    "examples_de": [["Der **barometrische** Druck fiel vor der Ankunft des Sturms", "Piloten überprüfen **barometrische** Messwerte vor jedem Flug"]]
+  },
+  {
+    "lemma": "baronial",
+    "meanings_de": ["großartig und imposant"],
+    "definitions_de": ["beeindruckend groß und prächtig wie das Anwesen oder Schloss eines Barons"],
+    "examples_de": [["Das **herrschaftliche** Anwesen beeindruckte Besucher mit seiner Pracht", "Sie speisten in der **feudalen** Halle unter alten Wandteppichen"]]
+  },
+  {
+    "lemma": "baroque",
+    "meanings_de": ["reich verziert", "übermäßig komplex"],
+    "definitions_de": ["hochgradig ornamental und extravagant im Stil der europäischen Kunst des 17.-18. Jahrhunderts", "übermäßig kompliziert oder detailliert auf verworrene Weise"],
+    "examples_de": [["Die **barocke** Kirche wies Blattgold und aufwendige Schnitzereien auf", "Musiker führten **barocke** Konzerte auf historischen Instrumenten auf"], ["Seine **barocke** Erklärung verwirrte mehr als sie klärte", "Die **verschnörkelte** Benutzeroberfläche der Software frustrierte neue Nutzer"]]
+  },
+  {
+    "lemma": "barred",
+    "meanings_de": ["mit Gittern versperrt", "vom Zutritt ausgeschlossen"],
+    "definitions_de": ["mit starren Stäben oder ähnlichen Hindernissen gesichert oder eingeschlossen", "rechtlich oder offiziell am Betreten oder Teilnehmen gehindert"],
+    "examples_de": [["Die **vergitterten** Fenster verhinderten jede Fluchtmöglichkeit", "Ein **verriegeltes** Tor schützte den Eingang zum Anwesen"], ["Er wurde wegen Kartenzählens vom Casino **ausgeschlossen**", "Der **gesperrte** Anwalt konnte nicht mehr praktizieren"]]
+  }
+]

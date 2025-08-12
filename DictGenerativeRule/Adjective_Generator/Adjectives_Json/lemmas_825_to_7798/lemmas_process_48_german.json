@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "imprisoned",
+    "meanings_de": ["im Gefängnis eingesperrt", "eingeschränkt oder gefangen"],
+    "definitions_de": ["in einem Gefängnis oder einer Haftanstalt als Strafe für ein Verbrechen festgehalten, wobei die persönliche Freiheit durch Mauern und Wachen eingeschränkt wird", "in der Bewegungsfreiheit oder persönlichen Entfaltung eingeschränkt, als wäre man in einer Falle gefangen"],
+    "examples_de": [["Der **inhaftierte** Verbrecher verbüßte zehn Jahre wegen Diebstahls", "Mehrere **inhaftierte** Demonstranten traten in den Hungerstreik"], ["Sie fühlte sich durch die strengen Regeln ihrer Eltern wie **gefangen**", "Die Bergleute waren nach dem Einsturz unter Tage **eingeschlossen**"]]
+  },
+  {
+    "lemma": "improbable",
+    "meanings_de": ["unwahrscheinlich", "schwer zu glauben"],
+    "definitions_de": ["aufgrund der verfügbaren Beweise oder Umstände nicht wahrscheinlich eintretend oder existierend", "schwer zu glauben, weil es unrealistisch oder weit hergeholt erscheint"],
+    "examples_de": [["Ein **unwahrscheinlicher** Sieg überraschte alle Zuschauer des Spiels", "Es ist **unwahrscheinlich**, dass wir vor Mitternacht fertig werden"], ["Seine **unglaubwürdige** Geschichte über Außerirdische brachte alle zum Lachen", "Der Detektiv fand das Alibi des Zeugen höchst **unwahrscheinlich**"]]
+  },
+  {
+    "lemma": "impromptu",
+    "meanings_de": ["ohne Vorbereitung durchgeführt", "spontan in der Natur"],
+    "definitions_de": ["ohne vorherige Vorbereitung, Planung oder Probe ausgeführt oder durchgeführt, wobei der Moment die Handlung bestimmt", "natürlich aus den unmittelbaren Umständen entstehend, anstatt im Voraus geplant zu sein"],
+    "examples_de": [["Sie hielt eine **spontane** Rede auf der Hochzeit", "Die Musiker veranstalteten ein **improvisiertes** Konzert im Park"], ["Ihre **spontane** Entscheidung zu reisen veränderte alles", "Eine **unvorbereitete** Sitzung wurde einberufen, um die Krise zu besprechen"]]
+  },
+  {
+    "lemma": "improper",
+    "meanings_de": ["nicht angemessen oder passend", "inkorrekt oder falsch"],
+    "definitions_de": ["nicht geeignet oder angemessen für die Umstände, den Zweck oder den Anlass, wobei gesellschaftliche Normen verletzt werden", "nicht in Übereinstimmung mit akzeptierten Regeln, Standards oder Verfahren"],
+    "examples_de": [["Sein **unangemessenes** Verhalten beim Abendessen schockierte die Gäste", "Jeans beim Vorstellungsgespräch zu tragen galt als **unpassend**"], ["Die Maschine versagte aufgrund **unsachgemäßer** Installationsverfahren", "**Falscher** Gebrauch der Ausrüstung verursachte schwere Schäden"]]
+  },
+  {
+    "lemma": "improving",
+    "meanings_de": ["sich stetig verbessernd", "etwas besser machend"],
+    "definitions_de": ["mit der Zeit in Qualität, Zustand oder Leistung besser werdend, wobei positive Entwicklung erkennbar ist", "aktiv daran arbeitend, die Qualität oder Wirksamkeit von etwas zu verbessern oder zu steigern"],
+    "examples_de": [["Ihre sich **bessernde** Gesundheit machte die Familie sehr glücklich", "Die sich **erholende** Wirtschaft führte zu mehr Arbeitsplätzen"], ["Sie verbrachten die Wochenenden damit, ihr altes Haus **aufzuwerten**", "Die Lehrerin konzentrierte sich darauf, die Schreibfähigkeiten der Schüler zu **verbessern**"]]
+  },
+  {
+    "lemma": "improvised",
+    "meanings_de": ["ohne Vorbereitung geschaffen", "aus verfügbaren Materialien hergestellt"],
+    "definitions_de": ["spontan ohne vorherige Planung oder Übung geschaffen, aufgeführt oder durchgeführt, wobei Kreativität und Einfallsreichtum gefordert sind", "aus den unmittelbar verfügbaren Materialien oder Ressourcen konstruiert oder arrangiert"],
+    "examples_de": [["Die **improvisierten** Witze des Komikers brachten alle zum Lachen", "Sie führten eine **improvisierte** Szene basierend auf Vorschlägen auf"], ["Wir bauten einen **behelfsmäßigen** Unterschlupf aus Ästen und Blättern", "Der Arzt benutzte **improvisierte** Werkzeuge während des Notfalls"]]
+  },
+  {
+    "lemma": "impulsive",
+    "meanings_de": ["ohne nachzudenken handelnd", "von plötzlichen Impulsen getrieben"],
+    "definitions_de": ["schnell handelnd oder durchgeführt ohne sorgfältig über die Konsequenzen nachzudenken, wobei Vernunft durch Emotion ersetzt wird", "charakterisiert durch oder resultierend aus plötzlichen starken Emotionen oder Wünschen"],
+    "examples_de": [["Ihre **impulsive** Entscheidung zu kündigen überraschte ihren Chef", "**Impulsive** Käufer bereuen ihre Einkäufe oft später"], ["Seine **spontane** Natur machte ihn unberechenbar und aufregend", "Das **impulsive** Kind griff ohne zu fragen nach den Süßigkeiten"]]
+  },
+  {
+    "lemma": "impure",
+    "meanings_de": ["verunreinigt oder vermischt", "moralisch verdorben"],
+    "definitions_de": ["unerwünschte Substanzen oder Elemente enthaltend, die mit dem ursprünglichen Material vermischt sind und dessen Reinheit beeinträchtigen", "nicht moralisch rein oder tugendhaft gemäß religiösen oder ethischen Standards"],
+    "examples_de": [["Das **verunreinigte** Wasser musste vor dem Trinken gefiltert werden", "**Unreine** Metalle müssen vor der industriellen Nutzung raffiniert werden"], ["Mittelalterliche Texte warnten oft vor **unreinen** Gedanken", "Der Priester sprach über das Vermeiden **unreiner** Absichten"]]
+  },
+  {
+    "lemma": "inaccessible",
+    "meanings_de": ["nicht erreichbar", "schwer zu verstehen"],
+    "definitions_de": ["unmöglich oder sehr schwierig physisch zu erreichen, zu betreten oder hinzugelangen, wobei natürliche oder künstliche Barrieren den Zugang verhindern", "schwer zu verstehen oder zu würdigen aufgrund von Komplexität oder Unklarheit"],
+    "examples_de": [["Das Bergdorf blieb während der Winterstürme **unzugänglich**", "Wichtige Dateien waren nach dem Systemabsturz **nicht erreichbar**"], ["Sein **unverständlicher** Schreibstil frustrierte viele Leser", "Die Vorlesungen des Professors waren für Anfänger **unzugänglich**"]]
+  },
+  {
+    "lemma": "inaccurate",
+    "meanings_de": ["nicht korrekt oder exakt", "Fehler enthaltend"],
+    "definitions_de": ["nicht korrekt oder präzise in Details, Messungen oder Fakten, wodurch die Zuverlässigkeit beeinträchtigt wird", "Fehler oder falsche Informationen enthaltend, die etwas unzuverlässig machen"],
+    "examples_de": [["Die **ungenaue** Karte führte sie kilometerweit vom Kurs ab", "Seine **fehlerhaften** Vorhersagen beschädigten seine Glaubwürdigkeit"], ["Der Bericht enthielt mehrere **inkorrekte** Statistiken", "**Ungenaue** Messungen ruinierten das gesamte Bauprojekt"]]
+  },
+  {
+    "lemma": "inactive",
+    "meanings_de": ["nicht aktiv oder bewegend", "derzeit nicht in Betrieb"],
+    "definitions_de": ["sich nicht mit körperlicher Bewegung, Übung oder energetischer Aktivität beschäftigend, wobei Passivität vorherrscht", "derzeit nicht funktionierend, arbeitend oder für seinen Zweck genutzt werdend"],
+    "examples_de": [["Der **inaktive** Lebensstil führte zu Gesundheitsproblemen", "Bären werden während ihres Winterschlafs **inaktiv**"], ["Ihr Social-Media-Konto ist seit Monaten **inaktiv**", "Der **ruhende** Vulkan war seit Jahrhunderten nicht ausgebrochen"]]
+  },
+  {
+    "lemma": "inadequate",
+    "meanings_de": ["nicht genug oder ausreichend", "fehlende notwendige Qualität"],
+    "definitions_de": ["unzureichend in Menge, Größe oder Umfang für einen bestimmten Zweck, wobei die Anforderungen nicht erfüllt werden", "die erforderliche Qualität oder Fähigkeit fehlend, um Anforderungen zu erfüllen"],
+    "examples_de": [["Die **unzureichende** Nahrungsversorgung verursachte weit verbreiteten Hunger", "Ihre **mangelhafte** Vorbereitung zeigte sich während der Präsentation"], ["Seine **ungenügenden** Fähigkeiten machten die Arbeit unmöglich", "Die **unzulängliche** Erklärung ließ alle verwirrt zurück"]]
+  },
+  {
+    "lemma": "inadmissible",
+    "meanings_de": ["nicht als Beweis zugelassen", "nicht akzeptabel"],
+    "definitions_de": ["nicht erlaubt, als Beweis in einem Gerichtssaal präsentiert zu werden, gemäß rechtlichen Verfahrensregeln", "nicht in der Lage, in einer bestimmten Situation akzeptiert oder erlaubt zu werden"],
+    "examples_de": [["Der Richter entschied, dass das Geständnis ein **unzulässiger** Beweis war", "Hörensagen-Aussagen sind oft vor Gericht **unzulässig**"], ["Verspätete Bewerbungen wurden vom Ausschuss als **unzulässig** erachtet", "Solches Verhalten ist in einem professionellen Umfeld **inakzeptabel**"]]
+  },
+  {
+    "lemma": "inadvertent",
+    "meanings_de": ["nicht absichtlich oder beabsichtigt", "aus Unachtsamkeit resultierend"],
+    "definitions_de": ["nicht durch bewusste Planung oder Absicht entstanden oder erreicht, wobei der Zufall eine Rolle spielt", "als Ergebnis von Nachlässigkeit oder mangelnder Aufmerksamkeit geschehend"],
+    "examples_de": [["Sein **unbeabsichtigter** Kommentar verriet die Überraschungsparty-Pläne", "Der **versehentliche** Rechenfehler kostete sie Geld"], ["Sie machte einen **unabsichtlichen** Fehler beim schnellen Tippen", "Die **versehentliche** Offenlegung von Informationen verursachte Probleme"]]
+  },
+  {
+    "lemma": "inalienable",
+    "meanings_de": ["nicht wegnehmbar", "absolut und dauerhaft"],
+    "definitions_de": ["nicht vom Besitzer weggenommen oder weggegeben werden könnend, als unveräußerliches Grundrecht bestehend", "jemandem dauerhaft als absolutes Recht gehörend, das nicht entfernt werden kann"],
+    "examples_de": [["Die Verfassung schützt bestimmte **unveräußerliche** Rechte der Bürger", "Meinungsfreiheit gilt als **unveräußerliches** Recht"], ["Jeder Mensch hat **unveräußerliche** Würde unabhängig von den Umständen", "Die Erklärung sprach von **unveräußerlichen** Freiheiten für alle"]]
+  },
+  {
+    "lemma": "inanimate",
+    "meanings_de": ["nicht lebendig", "keine Bewegung zeigend"],
+    "definitions_de": ["nicht lebendig, insbesondere nicht in der Art von Tieren und Menschen, ohne biologische Lebensfunktionen", "kein Bewusstsein, keine Bewegung oder den Anschein von Leben besitzend"],
+    "examples_de": [["Der Roboter sah menschlich aus, war aber völlig **leblos**", "Künstler malen oft **unbelebte** Objekte wie Obstschalen"], ["Die **leblose** Puppe schien sich plötzlich zu bewegen", "Er lag so still da, dass er fast **unbelebt** wirkte"]]
+  },
+  {
+    "lemma": "inaudible",
+    "meanings_de": ["nicht hörbar", "zu leise zum Hören"],
+    "definitions_de": ["unmöglich zu hören oder nicht laut genug, um deutlich gehört zu werden, wobei die Schallwellen das Ohr nicht erreichen", "Geräusche mit so geringer Lautstärke erzeugend, dass sie nicht wahrgenommen werden können"],
+    "examples_de": [["Ihre Stimme wurde über der lauten Musik **unhörbar**", "Das **unhörbare** Flüstern ließ alle raten"], ["Die Aufnahme hatte mehrere **unverständliche** Abschnitte", "Sein Murmeln machte seine Worte fast **unhörbar**"]]
+  },
+  {
+    "lemma": "inaugural",
+    "meanings_de": ["den Anfang markierend", "erste in einer Reihe"],
+    "definitions_de": ["den Beginn einer Institution, Aktivität oder Amtszeit markierend, wobei ein neuer Abschnitt eingeleitet wird", "die erste in einer Folge ähnlicher Veranstaltungen oder Gelegenheiten seiend"],
+    "examples_de": [["Die **Antritts**rede des Präsidenten inspirierte die Nation", "Sie besuchten die **Eröffnungs**zeremonie im Museum"], ["Der **erste** Flug der neuen Fluggesellschaft verlief reibungslos", "Dies ist unsere **Erstausgabe** des Magazins"]]
+  },
+  {
+    "lemma": "inauspicious",
+    "meanings_de": ["Unglück andeutend", "nicht günstig"],
+    "definitions_de": ["darauf hindeutend, dass zukünftiger Erfolg oder Glück unwahrscheinlich ist, wobei schlechte Vorzeichen erkennbar sind", "nicht förderlich für Erfolg oder günstige Ergebnisse"],
+    "examples_de": [["Dunkle Wolken sorgten für einen **unglückverheißenden** Start der Hochzeit", "Das Projekt begann unter **ungünstigen** Umständen"], ["Eine **unheilvolle** Wirtschaftsprognose beunruhigte die Investoren", "Ihr **unglückliches** erstes Treffen führte zu nichts"]]
+  },
+  {
+    "lemma": "inauthentic",
+    "meanings_de": ["nicht echt oder real", "falsch oder gefälscht"],
+    "definitions_de": ["nicht echt, aufrichtig oder treu zur eigenen wahren Natur oder den eigenen Überzeugungen, wobei Täuschung vorliegt", "so gemacht, dass es echt erscheint, aber tatsächlich falsch oder kopiert ist"],
+    "examples_de": [["Sein **unechtes** Lächeln täuschte niemanden", "Die **unaufrichtige** Entschuldigung machte alles nur schlimmer"], ["Experten identifizierten das Gemälde als **unechte** Kopie", "Die **gefälschte** Designertasche war offensichtlich nicht echt"]]
+  },
+  {
+    "lemma": "inboard",
+    "meanings_de": ["innerhalb eines Schiffes", "zur Mitte hin"],
+    "definitions_de": ["innerhalb des Rumpfes oder zur Mitte eines Schiffes oder Bootes hin gelegen oder positioniert", "näher zum Zentrum oder Inneren von etwas gelegen, insbesondere eines Fahrzeugs"],
+    "examples_de": [["Der **Innenboard**motor war vor rauem Wasser geschützt", "Passagiere zogen während des Sturms zu **innenliegenden** Sitzen"], ["Die **inneren** Räder benötigen andere Wartungsverfahren", "Schwere Fracht in **mittiger** Position halten"]]
+  },
+  {
+    "lemma": "inborn",
+    "meanings_de": ["von Geburt an vorhanden", "natürlich oder angeboren"],
+    "definitions_de": ["in einer Person oder einem Tier von Geburt an vorhanden, anstatt erworben oder erlernt zu sein", "Teil des natürlichen Charakters oder der Grundnatur von jemandem bildend"],
+    "examples_de": [["Ihr **angeborenes** Talent für Musik zeigte sich sehr früh", "Manche Menschen haben eine **angeborene** Höhenangst"], ["Seine **angeborene** Neugier führte ihn dazu, Wissenschaftler zu werden", "Die **angeborenen** Reflexe des Babys wurden von Ärzten getestet"]]
+  },
+  {
+    "lemma": "inbound",
+    "meanings_de": ["zu einem Ziel reisend", "hereinkommend"],
+    "definitions_de": ["zu einem bestimmten Ort reisend, insbesondere wenn man zum Ausgangspunkt zurückkehrt", "auf das Innere oder Zentrum von etwas gerichtet oder sich darauf zubewegend"],
+    "examples_de": [["Alle **ankommenden** Flüge wurden durch den Sturm verzögert", "Der **einfahrende** Zug kommt auf Gleis drei an"], ["Alle **eingehenden** Anrufe beim Kundendienst überwachen", "Der **stadteinwärts** fließende Verkehr war während der Hauptverkehrszeit stark"]]
+  },
+  {
+    "lemma": "inbred",
+    "meanings_de": ["durch Inzucht erzeugt", "tief verwurzelt"],
+    "definitions_de": ["durch Zucht zwischen eng verwandten Individuen innerhalb einer Art erzeugt, wobei genetische Vielfalt fehlt", "als grundlegendes oder inhärentes Merkmal existierend, das im Laufe der Zeit verstärkt wurde"],
+    "examples_de": [["Die **ingezüchteten** Welpen hatten mehrere Gesundheitsprobleme", "**Ingezüchtete** Populationen fehlt oft genetische Vielfalt"], ["Ihr **tief verwurzeltes** Misstrauen gegenüber Außenseitern war schwer zu überwinden", "Jahre der Isolation schufen **eingewurzelte** kulturelle Traditionen"]]
+  },
+  {
+    "lemma": "incandescent",
+    "meanings_de": ["durch Hitze Licht aussendend", "brillant oder leidenschaftlich"],
+    "definitions_de": ["Licht als Ergebnis des Erhitzens auf eine hohe Temperatur aussendend, wobei thermische Energie in sichtbares Licht umgewandelt wird", "starke Emotionen, insbesondere Wut, oder außergewöhnliche Brillanz zeigend"],
+    "examples_de": [["Die **Glüh**lampe leuchtete warm in der Lampe", "**Glühendes** Metall in der Schmiede leuchtete hell orange"], ["Sie war vor Wut **glühend** nach dem Verrat", "Seine **brillante** Leistung erhielt stehende Ovationen"]]
+  },
+  {
+    "lemma": "incapable",
+    "meanings_de": ["unfähig etwas zu tun", "fehlende Fähigkeit oder Qualifikation"],
+    "definitions_de": ["unfähig, etwas aufgrund fehlender Fähigkeit, Kraft oder Ressourcen zu tun oder zu erreichen", "nicht die notwendige Fähigkeit, Qualifikation oder Stärke besitzend, um eine Aufgabe auszuführen"],
+    "examples_de": [["Er schien **unfähig**, die Wahrheit zu sagen", "Das beschädigte Schiff war **außerstande** weiterzufahren"], ["Sie fühlte sich **unfähig**, solche Verantwortung zu übernehmen", "Der alte Computer war **nicht imstande**, neue Software auszuführen"]]
+  },
+  {
+    "lemma": "incapacitated",
+    "meanings_de": ["funktionsunfähig", "rechtlich handlungsunfähig"],
+    "definitions_de": ["der Kraft oder Fähigkeit beraubt, normal zu funktionieren, insbesondere aufgrund von Krankheit oder Verletzung", "rechtlich aufgrund körperlicher oder geistiger Unfähigkeit vom Handeln ausgeschlossen"],
+    "examples_de": [["Der Unfall ließ ihn vorübergehend **arbeitsunfähig**", "Mehrere **handlungsunfähige** Patienten benötigten ständige Pflege"], ["Die **geschäftsunfähige** Person benötigte einen gesetzlichen Vormund", "Sie war rechtlich **handlungsunfähig** und konnte keine Verträge unterzeichnen"]]
+  },
+  {
+    "lemma": "incapacitating",
+    "meanings_de": ["Funktionsunfähigkeit verursachend", "stark einschränkend"],
+    "definitions_de": ["jemanden dazu bringend, unfähig zu sein, normal zu arbeiten oder Dinge zu tun", "die Fähigkeit, übliche Aktivitäten oder Pflichten auszuführen, stark einschränkend"],
+    "examples_de": [["Die **lähmenden** Schmerzen machten es unmöglich zu gehen", "Eine **handlungsunfähig machende** Krankheit hielt sie wochenlang ans Bett gefesselt"], ["Die **lähmende** Flugangst schränkte seine Reisen ein", "**Handlungsunfähig machende** Vorschriften behinderten das Geschäftswachstum"]]
+  },
+  {
+    "lemma": "incarnate",
+    "meanings_de": ["im Fleisch verkörpert", "personifiziert oder versinnbildlicht"],
+    "definitions_de": ["im Fleisch verkörpert oder physische, insbesondere menschliche Form annehmend", "ein perfektes Beispiel einer bestimmten Eigenschaft darstellend oder seiend"],
+    "examples_de": [["Christen glauben, dass Gott in Jesus **Mensch geworden** ist", "Die Gottheit soll in menschlicher Form **inkarniert** sein"], ["Er war das **personifizierte** Böse in den Augen der Opfer", "Sie schien die **verkörperte** Geduld mit Kindern zu sein"]]
+  },
+  {
+    "lemma": "incendiary",
+    "meanings_de": ["zum Feuerlegen bestimmt", "provokativ oder aufrührerisch"],
+    "definitions_de": ["dazu bestimmt, Brände zu verursachen oder Chemikalien enthaltend, die Feuer erzeugen", "dazu neigend, Konflikte, Gewalt oder starke Emotionen zu schüren"],
+    "examples_de": [["Die **Brand**bombe zerstörte das gesamte Gebäude", "**Brand**vorrichtungen wurden im verlassenen Lagerhaus gefunden"], ["Seine **aufrührerische** Rede löste gewalttätige Proteste aus", "Die **hetzerische** Sprache des Artikels verärgerte viele Leser"]]
+  },
+  {
+    "lemma": "incensed",
+    "meanings_de": ["sehr wütend", "erzürnt oder rasend"],
+    "definitions_de": ["sehr wütend, insbesondere über etwas Unfaires oder Falsches, wobei die Wut deutlich spürbar ist", "von Wut oder Zorn in extremem Maße erfüllt"],
+    "examples_de": [["Sie war **empört** über die unfaire Behandlung", "Die **erzürnte** Menge forderte Gerechtigkeit"], ["Er wurde **wütend**, als er den Verrat entdeckte", "Eltern waren **aufgebracht** über die Entscheidung der Schule"]]
+  },
+  {
+    "lemma": "incessant",
+    "meanings_de": ["ohne Pause fortgesetzt", "konstant und endlos"],
+    "definitions_de": ["ohne Pause oder Unterbrechung auf nervende Weise fortgesetzt, wobei keine Ruhe gewährt wird", "so häufig auftretend, dass es konstant und endlos erscheint"],
+    "examples_de": [["Der **unaufhörliche** Regen ruinierte unseren Campingausflug", "Ihr **pausenloses** Reden gab allen Kopfschmerzen"], ["Das **ununterbrochene** Weinen des Babys hielt sie wach", "**Unablässige** Telefonanrufe störten das gesamte Büro"]]
+  },
+  {
+    "lemma": "incestuous",
+    "meanings_de": ["sexuelle Beziehungen zwischen Verwandten betreffend", "ungesund eng"],
+    "definitions_de": ["sexuelle Beziehungen zwischen Menschen betreffend, die zu eng verwandt sind, um legal zu heiraten", "Beziehungen betreffend, die ungesund eng oder exklusiv sind"],
+    "examples_de": [["Der Roman erforschte eine **inzestuöse** Beziehung zwischen Geschwistern", "**Inzestuöse** Ehen waren in alten Königsfamilien üblich"], ["Die **inzestuösen** Geschäftsbeziehungen führten zu Korruption", "Kritiker beschrieben die Branche als **inzestuös** und abgeschottet"]]
+  },
+  {
+    "lemma": "incidental",
+    "meanings_de": ["zufällig geschehend", "von geringer Bedeutung"],
+    "definitions_de": ["als unbedeutende Begleitung zu etwas Wichtigerem geschehend", "zufällig in Verbindung mit etwas anderem auftretend"],
+    "examples_de": [["Wir hatten ein **zufälliges** Treffen im Laden", "Jede Ähnlichkeit mit realen Personen ist rein **zufällig**"], ["Machen Sie sich keine Sorgen über **Neben**kosten während der Reise", "Die Geschichte enthielt **beiläufige** Details über ihre Kindheit"]]
+  },
+  {
+    "lemma": "incipient",
+    "meanings_de": ["beginnend sich zu entwickeln", "in frühen Stadien"],
+    "definitions_de": ["beginnend zu geschehen oder sich zu entwickeln, aber noch nicht vollständig ausgebildet", "in einem anfänglichen oder frühen Stadium der Entwicklung"],
+    "examples_de": [["Ärzte entdeckten **beginnende** Anzeichen der Krankheit", "Die **aufkeimende** Rebellion wurde schnell unterdrückt"], ["Eine **entstehende** Romanze blühte zwischen den Kollegen auf", "Die **aufziehenden** Gewitterwolken sammelten sich am Horizont"]]
+  },
+  {
+    "lemma": "incised",
+    "meanings_de": ["eingeschnitten oder eingraviert", "mit Schnitten markiert"],
+    "definitions_de": ["in eine Oberfläche geschnitten, insbesondere mit einem scharfen Werkzeug zur Dekoration", "mit Linien oder Figuren markiert oder verziert, die in die Oberfläche geschnitten sind"],
+    "examples_de": [["Die **eingravierten** Muster auf der Vase waren wunderschön", "Alte **eingeritzte** Steine markierten die Grabstätte"], ["Der Chirurg machte sorgfältig **eingeschnittene** Linien", "**Schnitt**wunden erfordern eine andere Behandlung als Risse"]]
+  },
+  {
+    "lemma": "incisive",
+    "meanings_de": ["intelligent analytisch", "schnell und direkt"],
+    "definitions_de": ["intelligent analytisch und klar im Ausdruck oder Gedanken, wobei komplexe Sachverhalte durchdrungen werden", "schnell im Verstehen und im Treffen scharfer, direkter Urteile oder Entscheidungen"],
+    "examples_de": [["Ihre **scharfsinnige** Analyse beeindruckte die Vorstandsmitglieder", "Der Kritiker schrieb eine **treffende** Rezension des Stücks"], ["Sein **beißender** Witz machte ihn auf Partys beliebt", "Die **scharfen** Fragen der Anwältin enthüllten die Wahrheit"]]
+  },
+  {
+    "lemma": "inclement",
+    "meanings_de": ["unangenehm kalt oder nass", "hart oder streng"],
+    "definitions_de": ["unangenehm kaltes, nasses oder stürmisches Wetter, das Aktivitäten im Freien schwierig macht", "keine Gnade oder Nachsicht in Behandlung oder Urteil zeigend"],
+    "examples_de": [["Das **unwirtliche** Wetter zwang uns, das Picknick abzusagen", "Schiffe blieben während der **rauen** Bedingungen im Hafen"], ["Der Richter zeigte eine **unbarmherzige** Haltung gegenüber Wiederholungstätern", "Seine **harte** Antwort schockierte alle Anwesenden"]]
+  },
+  {
+    "lemma": "inclined",
+    "meanings_de": ["geneigt oder abschüssig", "eine Neigung habend"],
+    "definitions_de": ["von der Vertikalen oder Horizontalen weg geneigt oder gedreht", "eine Tendenz, Vorliebe oder natürliche Veranlagung zu etwas habend"],
+    "examples_de": [["Die **geneigte** Oberfläche machte das Gehen schwierig", "Wir kletterten den steil **abschüssigen** Bergpfad hinauf"], ["Sie ist **geneigt**, seine Geschichte zu glauben", "Ich bin **geneigt**, Ihrer Einschätzung zuzustimmen"]]
+  },
+  {
+    "lemma": "included",
+    "meanings_de": ["als Teil enthalten", "abgedeckt oder einbezogen"],
+    "definitions_de": ["als Teil eines Ganzen oder einer Gruppe enthalten", "innerhalb des Umfangs von etwas abgedeckt oder einbezogen"],
+    "examples_de": [["Frühstück ist im Hotelzimmerpreis **inbegriffen**", "Alle Schüler sind im neuen Programm **eingeschlossen**"], ["Steuern sind nicht in den angezeigten Preisen **enthalten**", "Jeder fühlte sich in die Feier **einbezogen**"]]
+  },
+  {
+    "lemma": "inclusive",
+    "meanings_de": ["alles oder jeden einschließend", "für alle offen"],
+    "definitions_de": ["alle normalerweise erwarteten oder erforderlichen Dienstleistungen, Einrichtungen oder Gegenstände einschließend", "keinen Teil der Gesellschaft oder keine beteiligte Partei ausschließend"],
+    "examples_de": [["Der **Inklusiv**preis deckt Mahlzeiten und Unterhaltung ab", "Wir bieten **All-inclusive**-Pakete für Familienurlaube an"], ["Die Schule fördert eine **inklusive** Umgebung für alle", "Ihre **inklusiven** Richtlinien begrüßten vielfältige Teilnehmer"]]
+  },
+  {
+    "lemma": "incognito",
+    "meanings_de": ["mit verborgenem Identität", "verkleidet"],
+    "definitions_de": ["die wahre Identität verbergend, um nicht erkannt zu werden", "in einem verkleideten Zustand, um Anonymität oder Privatsphäre zu wahren"],
+    "examples_de": [["Die Berühmtheit reiste **inkognito**, um Fans zu vermeiden", "Sie ging **inkognito** mit Sonnenbrille zur Party"], ["Der Prinz lebte **inkognito** in der kleinen Stadt", "Im **Inkognito**-Modus surfen speichert Ihren Suchverlauf nicht"]]
+  },
+  {
+    "lemma": "incoherent",
+    "meanings_de": ["ohne Klarheit oder Organisation", "unfähig klar zu sprechen"],
+    "definitions_de": ["auf verwirrende Weise ohne logische Verbindung der Ideen ausgedrückt", "unfähig, verständlich zu sprechen oder klar zu denken"],
+    "examples_de": [["Sein **unzusammenhängender** Aufsatz erhielt eine schlechte Note", "Die Handlung war **inkohärent** und schwer zu verfolgen"], ["Der Patient wurde nach dem Unfall **wirr**", "Sie war vor Trauer bei der Beerdigung **unzusammenhängend**"]]
+  },
+  {
+    "lemma": "incoming",
+    "meanings_de": ["ankommend oder nähernd", "neu gewählt"],
+    "definitions_de": ["an einem Ort oder einer Position ankommend oder sich nähernd", "kürzlich gewählt oder ernannt, aber noch nicht im Amt"],
+    "examples_de": [["Achten Sie an dieser Kreuzung auf **ankommenden** Verkehr", "Die Empfangsdame bearbeitet alle **eingehenden** Anrufe"], ["Der **neue** Präsident wird im Januar sein Amt antreten", "**Neue** Studenten müssen an der Orientierungswoche teilnehmen"]]
+  },
+  {
+    "lemma": "incomparable",
+    "meanings_de": ["ohne Gleichen", "nicht vergleichbar"],
+    "definitions_de": ["ohne Gleichen in Qualität oder Umfang, unvergleichlich in Exzellenz", "nicht vergleichbar, weil grundlegend verschieden"],
+    "examples_de": [["Ihre **unvergleichliche** Schönheit verblüffte alle Anwesenden", "Die **unvergleichliche** Fähigkeit des Kochs erlangte internationalen Ruhm"], ["Die beiden Situationen sind in ihrer Natur **unvergleichbar**", "Ihre **unvergleichbaren** Erfahrungen machten eine Diskussion schwierig"]]
+  },
+  {
+    "lemma": "incompatible",
+    "meanings_de": ["nicht zusammen existieren könnend", "ungeeignet für gemeinsame Nutzung"],
+    "definitions_de": ["aufgrund grundlegender Unterschiede nicht in der Lage, harmonisch zusammen zu existieren", "aufgrund unterschiedlicher Eigenschaften oder Anforderungen ungeeignet für die gemeinsame Nutzung"],
+    "examples_de": [["Ihre **unvereinbaren** Persönlichkeiten führten zu ständigem Streit", "Die beiden Chemikalien sind **inkompatibel** und können explodieren"], ["Diese Software ist mit älteren Computern **inkompatibel**", "Unsere **unvereinbaren** Zeitpläne machten Dating unmöglich"]]
+  },
+  {
+    "lemma": "incompetent",
+    "meanings_de": ["fehlende notwendige Fähigkeit", "nicht qualifiziert"],
+    "definitions_de": ["nicht die notwendigen Fähigkeiten habend oder zeigend, um etwas erfolgreich zu tun", "rechtlich nicht qualifiziert oder fähig, erforderliche Pflichten auszuführen"],
+    "examples_de": [["Der **inkompetente** Manager wurde schließlich entlassen", "Seine **unfähige** Handhabung der Krise kostete Millionen"], ["Das Gericht erklärte sie für **verhandlungsunfähig**", "Ein **inkompetenter** Anwalt kann Ihren Fall ruinieren"]]
+  },
+  {
+    "lemma": "incomplete",
+    "meanings_de": ["nicht alle Teile habend", "nicht fertiggestellt"],
+    "definitions_de": ["nicht alle notwendigen oder angemessenen Teile habend", "nicht beendet oder zu Ende gebracht"],
+    "examples_de": [["Das **unvollständige** Puzzle frustrierte die Kinder", "Sie reichte ein **unvollständiges** Antragsformular ein"], ["Seine **unvollendete** Arbeit erhielt eine schlechte Note", "Das Gebäude bleibt nach zwei Jahren **unfertig**"]]
+  },
+  {
+    "lemma": "incomprehensible",
+    "meanings_de": ["unmöglich zu verstehen", "jenseits des Verständnisses"],
+    "definitions_de": ["unmöglich zu verstehen oder geistig zu erfassen aufgrund von Komplexität oder Unklarheit", "jenseits der Grenzen des Verstehens oder normalen Begreifens"],
+    "examples_de": [["Die Erklärung des Professors war völlig **unverständlich**", "Alte Texte können ohne Übersetzung **unbegreiflich** sein"], ["Sein **unverständliches** Verhalten beunruhigte seine Familie", "Die **unverständliche** Sprache des Vertrags verwirrte alle"]]
+  },
+  {
+    "lemma": "inconceivable",
+    "meanings_de": ["unmöglich vorzustellen", "unglaublich"],
+    "definitions_de": ["unmöglich vorzustellen, zu verstehen oder zu glauben, weil es so unwahrscheinlich oder seltsam ist", "jenseits der Grenzen dessen, was vom Verstand erfasst werden kann"],
+    "examples_de": [["Es ist **undenkbar**, dass er uns verraten würde", "Das Ausmaß des Universums ist fast **unvorstellbar**"], ["Solche Grausamkeit war für die meisten Menschen **unbegreiflich**", "Eine **unvorstellbare** Geldsumme wurde gestohlen"]]
+  }
+]

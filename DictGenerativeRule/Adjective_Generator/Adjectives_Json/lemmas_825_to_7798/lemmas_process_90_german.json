@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "roan",
+    "meanings_de": ["rotbraun mit grau"],
+    "definitions_de": ["eine Fellfarbe aufweisend, die rotbraune und graue oder weiße Haare mischt, typischerweise bei Pferden zu sehen"],
+    "examples_de": [["Das **rotschimmelige** Pferd stach zwischen den dunklen Tieren hervor", "Sie wählte eine wunderschöne **fuchsschimmelige** Stute für den Reitunterricht"]]
+  },
+  {
+    "lemma": "roaring",
+    "meanings_de": ["laut brüllend", "sehr erfolgreich"],
+    "definitions_de": ["einen tiefen, lauten, anhaltenden Ton erzeugend wie der eines Löwen oder Motors", "außerordentlich erfolgreich, geschäftig oder lebhaft in einer Weise, die Energie und Wohlstand vermuten lässt"],
+    "examples_de": [["Der **dröhnende** Motor übertönte ihre Unterhaltung vollständig", "Wir saßen in kalten Nächten am **prasselnden** Kaminfeuer"], ["Das Geschäft **brummte** nach der Einführung des neuen Produkts", "Das Restaurant machte während der Feiertage **glänzende** Geschäfte"]]
+  },
+  {
+    "lemma": "roast",
+    "meanings_de": ["durch Braten gegart"],
+    "definitions_de": ["durch Garen mit trockener Hitze im Ofen oder über Feuer zubereitet"],
+    "examples_de": [["Das **gebratene** Hähnchen erfüllte die Küche mit seinem Duft", "Wir bestellten **geröstetes** Gemüse als Beilage"]]
+  },
+  {
+    "lemma": "roasted",
+    "meanings_de": ["mit trockener Hitze gegart", "scharf kritisiert"],
+    "definitions_de": ["durch Garen im Ofen oder über Feuer zubereitet, bis es gebräunt und durchgegart ist", "scharfer Kritik oder Spott ausgesetzt in einer harten, aber oft humorvollen Weise"],
+    "examples_de": [["Die **gerösteten** Mandeln waren ein perfekter gesunder Snack", "Sie servierte **gebratene** Kartoffeln mit Kräutern und Knoblauch"], ["Der Komiker wurde von seinen Kollegen **durch den Kakao gezogen**", "Kritiker **zerrissen** den Film wegen seiner schwachen Handlung"]]
+  },
+  {
+    "lemma": "robed",
+    "meanings_de": ["in eine Robe gekleidet"],
+    "definitions_de": ["bekleidet mit oder bedeckt von einem langen, weiten Obergewand oder zeremonieller Kleidung"],
+    "examples_de": [["Die **gewandeten** Gestalten schritten schweigend durch das Kloster", "Die Richter betraten den Gerichtssaal in **schwarze Roben gehüllt**"]]
+  },
+  {
+    "lemma": "robotic",
+    "meanings_de": ["mechanisch und emotionslos", "Roboter betreffend"],
+    "definitions_de": ["sich auf steife, mechanische Weise bewegend oder handelnd ohne Emotionen oder natürlichen menschlichen Ausdruck", "Roboter oder deren Design und Betrieb in der Technologie betreffend oder für sie charakteristisch"],
+    "examples_de": [["Seine **roboterhaften** Bewegungen verrieten seine extreme Nervosität", "Sie sprach mit **mechanischer** Stimme ohne jedes Gefühl"], ["Die Fabrik verwendet **robotische** Arme für präzise Montagearbeiten", "Die Schüler lernten **Roboter**-Programmierung im Informatikunterricht"]]
+  },
+  {
+    "lemma": "robust",
+    "meanings_de": ["stark und gesund", "stabil und widerstandsfähig"],
+    "definitions_de": ["starke Gesundheit, Vitalität und Konstitution in Körper oder Geist zeigend", "fähig, schwierigen Bedingungen oder grober Behandlung standzuhalten ohne zu brechen oder zu versagen"],
+    "examples_de": [["Der **robuste** Athlet nahm täglich an mehreren Wettkämpfen teil", "Kinder brauchen ein **starkes** Immunsystem zur Infektionsabwehr"], ["Die Software verfügt über ein **robustes** Sicherheitssystem", "Wir benötigen **strapazierfähige** Möbel für das gut besuchte Restaurant"]]
+  },
+  {
+    "lemma": "rocky",
+    "meanings_de": ["voller Felsen", "schwierig und instabil"],
+    "definitions_de": ["viele Felsen enthaltend oder aus Gesteinsmaterial an der Oberfläche bestehend", "gekennzeichnet durch Schwierigkeiten, Instabilität oder Probleme, die den Fortschritt erschweren"],
+    "examples_de": [["Die **felsige** Küste machte das Schwimmen für Besucher gefährlich", "Wanderer kämpften sich über den **steinigen** Bergpfad"], ["Ihre **schwierige** Beziehung endete schließlich nach zwei Jahren", "Das Unternehmen hatte einen **holprigen** Start im ersten Jahr"]]
+  },
+  {
+    "lemma": "rococo",
+    "meanings_de": ["reich verzierter Stil"],
+    "definitions_de": ["gekennzeichnet durch aufwendige Verzierungen, geschwungene Linien und Pastellfarben, typisch für die europäische Kunst des 18. Jahrhunderts"],
+    "examples_de": [["Das **Rokoko**-Schloss glänzte mit Blattgold und bemalten Decken", "Sie richtete ihr Zimmer im **Rokoko**-Stil mit Spiegeln ein"]]
+  },
+  {
+    "lemma": "rolled",
+    "meanings_de": ["zu Zylinder geformt", "durch Rollen geglättet"],
+    "definitions_de": ["zu einer zylindrischen Form geformt durch wiederholtes Übereinanderschlagen", "flach oder glatt gemacht durch Pressen mit einer Walze oder ähnlichem Werkzeug"],
+    "examples_de": [["Die **gerollte** Zeitung passte perfekt durch den Briefschlitz", "Sie servierte **gerollte** Sandwiches in Spiralform geschnitten"], ["Der Bäcker verwendete **ausgerollten** Teig für die Tortenkruste", "Arbeiter verlegten **gewalzte** Stahlbleche für das Dach"]]
+  },
+  {
+    "lemma": "rollicking",
+    "meanings_de": ["ausgelassen fröhlich"],
+    "definitions_de": ["überschwänglich lebhaft und amüsant auf eine Weise, die energiegeladenen Spaß und Vergnügen beinhaltet"],
+    "examples_de": [["Die **ausgelassene** Party dauerte mit Musik bis zum Morgengrauen", "Kinder genossen die **turbulente** Abenteuergeschichte vor dem Schlafengehen"]]
+  },
+  {
+    "lemma": "roofed",
+    "meanings_de": ["mit einem Dach versehen"],
+    "definitions_de": ["ein Dach habend oder mit einer Struktur bedeckt, die von oben vor Wetter schützt"],
+    "examples_de": [["Das neu **überdachte** Gebäude schützte die Ausrüstung vor Regen", "Sie bauten einen **überdachten** Pavillon für Veranstaltungen im Freien"]]
+  },
+  {
+    "lemma": "roofless",
+    "meanings_de": ["ohne Dach"],
+    "definitions_de": ["kein Dach besitzend oder keine schützende Abdeckung oben habend"],
+    "examples_de": [["Die **dachlosen** Ruinen zeigten jahrhundertelange Wetterschäden", "Nach dem Tornado standen viele Häuser **ohne Dach** und ungeschützt da"]]
+  },
+  {
+    "lemma": "rooted",
+    "meanings_de": ["fest verankert", "Wurzeln geschlagen"],
+    "definitions_de": ["fest etabliert oder verankert in einem bestimmten Ort, einer Tradition oder einem Glaubenssystem", "Wurzeln habend, die in den Boden gewachsen sind, oder durch Wurzeln befestigt"],
+    "examples_de": [["Ihre Werte waren **verwurzelt** in Familientraditionen und Kultur", "Der Konflikt war **verwurzelt** in historischen Meinungsverschiedenheiten"], ["Die **eingewurzelten** Pflanzen überlebten die Dürre besser als Setzlinge", "Uralte Bäume standen seit Jahrhunderten **festgewurzelt** da"]]
+  },
+  {
+    "lemma": "rosy",
+    "meanings_de": ["rosa oder rötlich", "optimistisch und positiv"],
+    "definitions_de": ["eine rosa oder rötliche Farbe habend wie die einer Rosenblüte", "gekennzeichnet durch Optimismus, Hoffnung oder eine positive Einstellung zu zukünftigen Ereignissen"],
+    "examples_de": [["Ihre **rosigen** Wangen zeigten, dass sie draußen Sport getrieben hatte", "Der Sonnenuntergang malte **rosige** Farben über den Himmel"], ["Er zeichnete ein **rosiges** Bild von der Zukunft des Unternehmens", "Trotz Problemen behielt sie eine **rosige** Lebenseinstellung"]]
+  },
+  {
+    "lemma": "rotary",
+    "meanings_de": ["um Achse rotierend"],
+    "definitions_de": ["sich im Kreis um einen zentralen Punkt oder eine Achse im mechanischen Betrieb bewegend"],
+    "examples_de": [["Das **Rotations**-Motordesign verbesserte die Kraftstoffeffizienz erheblich", "Sie benutzte ein **Wähl**-Telefon aus der Zeit ihrer Großmutter"]]
+  },
+  {
+    "lemma": "rotated",
+    "meanings_de": ["um Achse gedreht"],
+    "definitions_de": ["gedreht oder veranlasst, sich um einen Mittelpunkt oder eine Achse in kreisförmiger Bewegung zu drehen"],
+    "examples_de": [["Das **gedrehte** Bild musste zur korrekten Anzeige angepasst werden", "Die Feldfrüchte wurden jährlich **gewechselt** zur Erhaltung der Bodengesundheit"]]
+  },
+  {
+    "lemma": "rotational",
+    "meanings_de": ["Rotation betreffend"],
+    "definitions_de": ["sich auf Bewegung um eine Achse beziehend oder durch abwechselnde Reihenfolge gekennzeichnet"],
+    "examples_de": [["Die **Rotations**geschwindigkeit des Planeten bestimmt seine Tageslänge", "Mitarbeiter arbeiten nach einem **rotierenden** Dienstplan einschließlich Wochenenden"]]
+  },
+  {
+    "lemma": "rotted",
+    "meanings_de": ["verfault und zersetzt"],
+    "definitions_de": ["durch bakterielle oder pilzliche Einwirkung zersetzt, weich, dunkel und unbrauchbar geworden"],
+    "examples_de": [["Das **verrottete** Holz musste aus Sicherheitsgründen sofort ersetzt werden", "**Verfaultes** Obst lockte Fliegen zum Mülleimer"]]
+  },
+  {
+    "lemma": "rotten",
+    "meanings_de": ["verfault und verdorben", "moralisch verdorben", "sehr unangenehm"],
+    "definitions_de": ["zersetzt und übel riechend durch bakterielle Einwirkung auf organisches Material", "moralisch schlecht, unehrlich oder korrupt in Charakter oder Verhalten", "äußerst unangenehm, unzureichend oder von sehr schlechter Qualität"],
+    "examples_de": [["Die **faulen** Eier erzeugten einen schrecklichen Geruch beim Aufschlagen", "Sie warf das **verdorbene** Gemüse aus dem Kühlschrank"], ["Der **korrupte** Politiker wurde schließlich beim Nehmen von Bestechungsgeldern erwischt", "Korruption hatte ein **verrottetes** System geschaffen, das Reform brauchte"], ["Ich hatte einen **miesen** Tag auf der Arbeit, alles ging schief", "Das Wetter war die ganze Woche **miserabel**"]]
+  },
+  {
+    "lemma": "roundabout",
+    "meanings_de": ["indirekt und umständlich"],
+    "definitions_de": ["nicht einem direkten Weg oder einer direkten Methode folgend, sondern einen längeren, indirekten Weg nehmend"],
+    "examples_de": [["Er gab eine **umständliche** Antwort, um die Wahrheit zu vermeiden", "Wir nahmen einen **Umweg**, um die Landschaft zu sehen"]]
+  },
+  {
+    "lemma": "rounded",
+    "meanings_de": ["ohne Ecken geformt", "ausgewogen und vollständig"],
+    "definitions_de": ["eine glatte gebogene Form habend ohne scharfe Winkel oder Ecken", "eine Vielfalt von Aspekten habend, die Vollständigkeit und Ausgewogenheit schaffen"],
+    "examples_de": [["Die **abgerundeten** Kanten machten den Tisch sicherer für Kinder", "Sie zeichnete perfekt **gerundete** Kreise für das Design"], ["Er erhielt eine **umfassende** Ausbildung in Kunst und Wissenschaft", "Das Programm bietet **ganzheitliche** Entwicklung für junge Athleten"]]
+  },
+  {
+    "lemma": "roundish",
+    "meanings_de": ["annähernd rund"],
+    "definitions_de": ["etwas rund in der Form, aber nicht perfekt kreisförmig oder kugelförmig"],
+    "examples_de": [["Die **rundlichen** Steine bildeten eine interessante Garteneinfassung", "Sie hatte ein angenehmes **rundliches** Gesicht mit Grübchen"]]
+  },
+  {
+    "lemma": "rousing",
+    "meanings_de": ["mitreißend und aufregend"],
+    "definitions_de": ["erregend und inspirierend starke Gefühle von Begeisterung, Energie oder Entschlossenheit"],
+    "examples_de": [["Der Trainer hielt eine **mitreißende** Rede vor dem Spiel", "Die Menge sang **begeisternde** patriotische Lieder bei der Kundgebung"]]
+  },
+  {
+    "lemma": "roving",
+    "meanings_de": ["umherziehend und reisend"],
+    "definitions_de": ["von Ort zu Ort ziehend ohne festes Ziel oder festen Wohnsitz"],
+    "examples_de": [["Der **reisende** Reporter berichtete über Geschichten auf drei Kontinenten", "**Umherziehende** Musikgruppen traten an verschiedenen Veranstaltungsorten auf"]]
+  },
+  {
+    "lemma": "rowdy",
+    "meanings_de": ["laut und ungeordnet"],
+    "definitions_de": ["sich auf laute, grobe und unkontrollierte Weise verhaltend, die andere stört"],
+    "examples_de": [["Die **lärmende** Menge erforderte zusätzliche Sicherheit beim Konzert", "Lehrer kämpften damit, die **aufgedrehten** Schüler nach der Pause zu kontrollieren"]]
+  },
+  {
+    "lemma": "rubber",
+    "meanings_de": ["aus Gummi hergestellt"],
+    "definitions_de": ["hergestellt aus oder bestehend aus elastischem Material, das von Bäumen gewonnen oder synthetisch produziert wird"],
+    "examples_de": [["Sie trug **Gummi**handschuhe beim Geschirrspülen", "Die **Gummi**reifen boten gute Haftung auf nassen Straßen"]]
+  },
+  {
+    "lemma": "rubbery",
+    "meanings_de": ["wie Gummi beschaffen"],
+    "definitions_de": ["eine Textur oder Konsistenz habend ähnlich wie Gummi, oft zäh und elastisch"],
+    "examples_de": [["Die zu lange gekochten Eier hatten eine **gummiartige** Konsistenz, die niemand mochte", "Seine **wackeligen** Beine konnten ihn nach dem Laufen kaum noch tragen"]]
+  },
+  {
+    "lemma": "ruby",
+    "meanings_de": ["tiefrot gefärbt"],
+    "definitions_de": ["die tiefrote Farbe habend, die für den kostbaren Rubin-Edelstein charakteristisch ist"],
+    "examples_de": [["Sie trug **rubinroten** Lippenstift passend zu ihrem Kleid", "Der Wein hatte eine wunderschöne **rubinrote** Farbe im Glas"]]
+  },
+  {
+    "lemma": "ruddy",
+    "meanings_de": ["rötlich und gesund"],
+    "definitions_de": ["eine gesunde rötliche Farbe habend, besonders im Gesicht durch gute Gesundheit oder Aktivität im Freien"],
+    "examples_de": [["Sein **geröteter** Teint zeigte jahrelange Arbeit im Freien", "Das **rötliche** Leuchten des Sonnenuntergangs füllte den westlichen Himmel"]]
+  },
+  {
+    "lemma": "rudimentary",
+    "meanings_de": ["grundlegend und unentwickelt"],
+    "definitions_de": ["auf grundlegende Prinzipien beschränkt oder diese beinhaltend, nicht über ein elementares Stadium hinaus entwickelt"],
+    "examples_de": [["Schüler lernten **rudimentäre** Fähigkeiten, bevor sie zu komplexen Techniken übergingen", "Der Unterschlupf bot nur **rudimentären** Schutz vor Stürmen"]]
+  },
+  {
+    "lemma": "ruffled",
+    "meanings_de": ["aufgewühlt und zerknittert", "verärgert oder genervt"],
+    "definitions_de": ["eine gestörte glatte Oberfläche mit gesammelten Falten oder Knicken habend", "emotional gestört, verärgert oder aus der Fassung gebracht durch etwas"],
+    "examples_de": [["Die **gesträubten** Federn des Vogels zeigten, dass er sich bedroht fühlte", "Sie glättete ihr **zerknittertes** Kleid nach dem Hinsetzen"], ["Er schien **verstimmt** durch die unerwartete Kritik bei der Arbeit", "Nichts brachte ihre ruhige Haltung während der Krise **aus der Fassung**"]]
+  },
+  {
+    "lemma": "rugged",
+    "meanings_de": ["rau und uneben", "zäh und stark"],
+    "definitions_de": ["eine raue, unregelmäßige Oberfläche oder Umrisse habend, charakteristisch für felsiges Gelände", "stark und zäh genug, um schwierigen Bedingungen oder grober Behandlung standzuhalten"],
+    "examples_de": [["Die **zerklüftete** Küste zog abenteuerlustige Wanderer und Kletterer an", "Sie fuhren vorsichtig über die **holprigen** Bergstraßen"], ["Sein **wettergegerbtes** Gesicht zeigte jahrelange Erfahrung im Freien", "Das **robuste** Design des Telefons überstand mehrere Stürze"]]
+  },
+  {
+    "lemma": "ruined",
+    "meanings_de": ["zerstört und beschädigt"],
+    "definitions_de": ["durch Schaden oder Vernachlässigung in einen Zustand des Verfalls, Zusammenbruchs oder der Nutzlosigkeit versetzt"],
+    "examples_de": [["Das **verfallene** Schloss zog Touristen an, die sich für Geschichte interessierten", "Starker Regen **ruinierte** ihre Pläne für die Hochzeitsfeier im Freien"]]
+  },
+  {
+    "lemma": "ruinous",
+    "meanings_de": ["großen Schaden verursachend"],
+    "definitions_de": ["vollständige Zerstörung, Untergang oder finanzielle Katastrophe verursachend oder wahrscheinlich verursachend"],
+    "examples_de": [["Die **ruinöse** Politik führte landesweit zum wirtschaftlichen Zusammenbruch", "Jahre **verschwenderischer** Ausgabengewohnheiten zerstörten ihre Ersparnisse"]]
+  },
+  {
+    "lemma": "ruled",
+    "meanings_de": ["mit Linien versehen", "regiert oder kontrolliert"],
+    "definitions_de": ["mit geraden parallelen Linien zum Schreiben oder Messen markiert", "kontrolliert oder regiert von einer Person, einem Gesetz oder Prinzip mit Autorität"],
+    "examples_de": [["Schüler schrieben während der Prüfungen sauber auf **liniertem** Papier", "Das **linierte** Notizbuch half, die Handschrift gerade zu halten"], ["Das Land wurde von demokratischen Prinzipien und Gesetzen **regiert**", "Sie **leitete** die Abteilung mit Fairness und Effizienz"]]
+  },
+  {
+    "lemma": "rum",
+    "meanings_de": ["seltsam und merkwürdig"],
+    "definitions_de": ["eigenartig, seltsam oder merkwürdig auf eine Weise, die verdächtig erscheint oder schwer zu verstehen ist"],
+    "examples_de": [["Das ist eine **merkwürdige** Art, das Problem zu lösen", "Er warf mir einen **seltsamen** Blick zu, als ich fragte"]]
+  },
+  {
+    "lemma": "rumbling",
+    "meanings_de": ["tiefen Ton erzeugend"],
+    "definitions_de": ["einen anhaltenden tiefen Ton erzeugend wie entfernter Donner oder schwerer Verkehr"],
+    "examples_de": [["Der **grollende** Donner warnte vor einem herannahenden Sturm", "Sein **knurrender** Magen zeigte, dass er bald Mittagessen brauchte"]]
+  },
+  {
+    "lemma": "rummy",
+    "meanings_de": ["seltsam oder eigenartig"],
+    "definitions_de": ["merkwürdig, seltsam oder eigenartig in Erscheinung oder Charakter, ähnlich wie 'rum'"],
+    "examples_de": [["Er hatte ein **komisches** Gefühl bei der ganzen Situation", "Das alte Haus hatte einen **eigenartigen** Geruch, den niemand identifizieren konnte"]]
+  },
+  {
+    "lemma": "runaway",
+    "meanings_de": ["außer Kontrolle", "weggelaufen"],
+    "definitions_de": ["schnell und unkontrolliert geschehend oder getan, unmöglich zu stoppen oder zu verwalten", "von zu Hause, einer Institution oder Verantwortlichkeiten weggelaufen"],
+    "examples_de": [["Die **galoppierende** Inflation zerstörte die Wirtschaft des Landes innerhalb von Monaten", "Der **führerlose** Zug raste bergab ohne funktionierende Bremsen"], ["Das Heim half **ausgerissenen** Teenagern, sichere Unterkunft zu finden", "Die Polizei suchte nach dem **entlaufenen** Pferd in nahegelegenen Feldern"]]
+  },
+  {
+    "lemma": "runic",
+    "meanings_de": ["Runen betreffend"],
+    "definitions_de": ["sich auf das alte germanische Alphabet beziehend oder darin geschrieben, dessen Zeichen für Inschriften und Magie verwendet wurden"],
+    "examples_de": [["Die **Runen**inschriften auf dem Stein verwirrten die Archäologen", "Sie studierte **runische** Symbole aus Wikingersiedlungen"]]
+  },
+  {
+    "lemma": "rushed",
+    "meanings_de": ["zu schnell erledigt"],
+    "definitions_de": ["zu schnell erledigt oder abgeschlossen ohne angemessene Sorgfalt oder Aufmerksamkeit für Details"],
+    "examples_de": [["Die **hastig erledigte** Arbeit zeigte viele nachlässige Fehler", "Sie gab eine **eilige** Entschuldigung ab, bevor sie abrupt ging"]]
+  },
+  {
+    "lemma": "russet",
+    "meanings_de": ["rotbraune Farbe"],
+    "definitions_de": ["eine rotbraune Farbe habend wie Herbstblätter oder bestimmte Apfelsorten"],
+    "examples_de": [["Die **rotbraunen** Kartoffeln ergaben ausgezeichnete Ofenkartoffeln", "Der Herbst malte die Blätter in **Rostbraun** und Gold"]]
+  },
+  {
+    "lemma": "rust",
+    "meanings_de": ["rostbraune Farbe"],
+    "definitions_de": ["die rotbraune Farbe von Eisenoxid habend, das durch Korrosion entsteht"],
+    "examples_de": [["Sie wählte einen **rostfarbenen** Pullover passend zu den Herbstfarben", "Die **rostbraune** Farbe ergänzte das erdfarbene Dekorationsschema"]]
+  },
+  {
+    "lemma": "rusted",
+    "meanings_de": ["von Rost befallen"],
+    "definitions_de": ["mit Rost bedeckt oder durch Rost beschädigt durch Oxidation von Eisen oder Stahl"],
+    "examples_de": [["Das **verrostete** Tor quietschte laut beim langsamen Öffnen", "**Verrostete** Werkzeuge lagen vergessen im alten Schuppen"]]
+  },
+  {
+    "lemma": "rustic",
+    "meanings_de": ["einfach und ländlich"],
+    "definitions_de": ["die einfachen, kunstlosen Eigenschaften habend, die mit dem Land oder dem ländlichen Leben verbunden sind, statt mit Städten"],
+    "examples_de": [["Die **rustikale** Hütte bot einen friedlichen Wochenendurlaub", "Gäste genossen den **ländlichen** Charme und die Atmosphäre des Restaurants"]]
+  },
+  {
+    "lemma": "rustling",
+    "meanings_de": ["leise Geräusche machend"],
+    "definitions_de": ["ein leises knisterndes Geräusch machend wie trockene Blätter oder Papier, das bewegt wird"],
+    "examples_de": [["Die **raschelnden** Blätter warnten vor sich nähernden Schritten", "Sie hörte **raschelnde** Geräusche vom Dachboden"]]
+  },
+  {
+    "lemma": "rusty",
+    "meanings_de": ["mit Rost bedeckt", "durch Nichtgebrauch beeinträchtigt"],
+    "definitions_de": ["mit Rost bedeckt oder die rotbraune Farbe von Rost habend", "in Qualität oder Geläufigkeit beeinträchtigt durch mangelnde kürzliche Übung oder Verwendung"],
+    "examples_de": [["Das **rostige** alte Fahrrad brauchte Öl und neue Teile", "**Rostige** Metallflocken fielen von der alternden Brücke"], ["Mein Französisch ist **eingerostet** nach Jahren ohne Übung", "Sein **eingerosteter** Golfschwung verbesserte sich nach einigen Lektionen"]]
+  },
+  {
+    "lemma": "ruthless",
+    "meanings_de": ["ohne Gnade"],
+    "definitions_de": ["keine Gnade oder Mitgefühl zeigend, bereit, Ziele zu erreichen ungeachtet des Schadens für andere"],
+    "examples_de": [["Der **gnadenlose** Diktator beseitigte alle politischen Gegner schnell", "Ihre **rücksichtslosen** Geschäftstaktiken zerstörten kleinere Konkurrenten"]]
+  },
+  {
+    "lemma": "sabbatical",
+    "meanings_de": ["Sabbatjahr betreffend"],
+    "definitions_de": ["sich auf eine Periode bezahlten Urlaubs für Studium oder Reisen beziehend, traditionell jedes siebte Jahr"],
+    "examples_de": [["Sie nahm ein **Sabbat**jahr, um ihr Buch zu schreiben", "Der **Forschungsurlaub** des Professors dauerte zwei volle Semester"]]
+  }
+]

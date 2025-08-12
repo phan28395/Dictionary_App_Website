@@ -1,0 +1,278 @@
+[
+  {
+    "lemma": "wagoner",
+    "meanings_de": ["Fuhrmann"],
+    "definitions_de": ["Person, die beruflich einen Wagen oder Karren lenkt, insbesondere für den Transport von Waren"],
+    "examples_de": [["Der **Fuhrmann** lieferte Vorräte in die entlegene Siedlung", "Mehrere **Fuhrleute** versammelten sich nach ihren langen Fahrten im Wirtshaus"]]
+  },
+  {
+    "lemma": "wagtail",
+    "meanings_de": ["Bachstelze"],
+    "definitions_de": ["Kleiner Singvogel mit langem Schwanz, der beim Laufen charakteristisch auf und ab wippt"],
+    "examples_de": [["Eine gelbe **Bachstelze** setzte sich auf den nahegelegenen Zaunpfahl", "**Bachstelzen** jagen oft am Flussufer nach Insekten"]]
+  },
+  {
+    "lemma": "wail",
+    "meanings_de": ["lauter Klageschrei"],
+    "definitions_de": ["Anhaltender, hoher Schrei des Schmerzes, der Trauer oder des Zorns"],
+    "examples_de": [["Das **Geschrei** des Babys weckte alle im Haus auf", "Ein trauriges **Wehklagen** hallte durch die leeren Flure"]]
+  },
+  {
+    "lemma": "wailing",
+    "meanings_de": ["anhaltendes Wehklagen"],
+    "definitions_de": ["Vorgang oder Geräusch des lauten und klagenden Weinens über längere Zeit"],
+    "examples_de": [["Das **Wehklagen** von der Beerdigung war draußen zu hören", "Das **Heulen** der Sirenen erfüllte die Nacht"]]
+  },
+  {
+    "lemma": "wainscoting",
+    "meanings_de": ["Wandvertäfelung"],
+    "definitions_de": ["Holzverkleidung, die den unteren Teil der Wände in Räumen bedeckt"],
+    "examples_de": [["Das Esszimmer hatte eine **Eichenvertäfelung** vom Boden bis zur Stuhlleiste", "Bei der Renovierung restaurierten sie die originale **Wandvertäfelung**"]]
+  },
+  {
+    "lemma": "waist",
+    "meanings_de": ["Körpermitte"],
+    "definitions_de": ["Teil des menschlichen Körpers zwischen Rippen und Hüften, meist die schmalste Stelle"],
+    "examples_de": [["Sie band die Schürze um ihre **Taille**, bevor sie zu kochen begann", "Das Kleid war an der **Taille** eng geschnitten und wurde nach unten weiter"]]
+  },
+  {
+    "lemma": "waistband",
+    "meanings_de": ["Hosenbund"],
+    "definitions_de": ["Stoffstreifen, der den oberen Rand von Hosen oder Röcken an der Taille bildet"],
+    "examples_de": [["Der elastische **Hosenbund** machte die Hose bequem zu tragen", "Er steckte sein Hemd in den **Bund** seiner Jeans"]]
+  },
+  {
+    "lemma": "waistcoat",
+    "meanings_de": ["Weste"],
+    "definitions_de": ["Eng anliegendes, ärmelloses Kleidungsstück, das über dem Hemd und unter dem Jackett getragen wird"],
+    "examples_de": [["Er trug eine seidene **Weste** zu seinem dreiteiligen Anzug", "Die **Weste** hatte dekorative Knöpfe an der Vorderseite"]]
+  },
+  {
+    "lemma": "waiter",
+    "meanings_de": ["Kellner"],
+    "definitions_de": ["Person, die in Restaurants Speisen und Getränke an Gäste serviert"],
+    "examples_de": [["Der **Kellner** brachte unsere Mahlzeiten innerhalb von zwanzig Minuten", "Sie bat den **Kellner** um die Dessertkarte"]]
+  },
+  {
+    "lemma": "waiting",
+    "meanings_de": ["Wartezeit"],
+    "definitions_de": ["Zeitspanne, die man damit verbringt, auf etwas zu warten oder bereit zu sein"],
+    "examples_de": [["Das **Warten** auf die Testergebnisse war der schwierigste Teil", "Nach stundenlangem **Warten** wurde endlich ihr Name aufgerufen"]]
+  },
+  {
+    "lemma": "waiver",
+    "meanings_de": ["Verzichtserklärung"],
+    "definitions_de": ["Formelle schriftliche Erklärung, mit der freiwillig auf ein Recht, einen Anspruch oder ein Privileg verzichtet wird"],
+    "examples_de": [["Eltern müssen eine **Verzichtserklärung** unterschreiben, bevor Kinder teilnehmen können", "Die Versicherung verlangte eine **Haftungsverzichtserklärung**"]]
+  },
+  {
+    "lemma": "waking",
+    "meanings_de": ["Wachzustand"],
+    "definitions_de": ["Zustand oder Zeitraum des Wachseins und Bewusstseins im Gegensatz zum Schlaf"],
+    "examples_de": [["Sie verbrachte ihre **wachen** Stunden mit Gedanken an das Projekt", "Der Albtraum verfolgte ihn sogar in **wachen** Momenten"]]
+  },
+  {
+    "lemma": "walkabout",
+    "meanings_de": ["informeller Rundgang", "spirituelle Wanderung"],
+    "definitions_de": ["Informeller Gang durch Menschenmengen zum Treffen von Leuten, besonders von Prominenten oder Politikern", "Wanderung zu Fuß der australischen Ureinwohner als spirituelle Suche"],
+    "examples_de": [["Das Königspaar machte einen **Rundgang**, um die Anwohner zu begrüßen", "Der **Bürgerspaziergang** des Bürgermeisters durch die Innenstadt zog große Menschenmengen an"], ["Er unternahm eine **Wanderung**, um sich wieder mit seinem Erbe zu verbinden", "Die **Walkabout** des Ältesten dauerte mehrere Monate durch das Outback"]]
+  },
+  {
+    "lemma": "walker",
+    "meanings_de": ["Spaziergänger", "Gehhilfe"],
+    "definitions_de": ["Person, die spazieren geht, besonders zur Bewegung oder Erholung", "Gestell mit Rädern, das älteren oder behinderten Menschen beim Gehen hilft"],
+    "examples_de": [["Frühmorgendliche **Spaziergänger** füllten täglich die Parkwege", "Sie ist eine schnelle **Fußgängerin**, die täglich acht Kilometer zurücklegt"], ["Seine Großmutter benutzt einen **Rollator**, um sich im Haus zu bewegen", "Das Krankenhaus stellte während seiner Genesung eine **Gehhilfe** zur Verfügung"]]
+  },
+  {
+    "lemma": "walkout",
+    "meanings_de": ["Arbeitsniederlegung", "Protestauszug"],
+    "definitions_de": ["Streik, bei dem Arbeiter ihren Arbeitsplatz verlassen, um gegen Bedingungen zu protestieren", "Verlassen einer Versammlung oder Veranstaltung als Form des Protests"],
+    "examples_de": [["Die Fabrikarbeiter organisierten eine **Arbeitsniederlegung** wegen Sicherheitsbedenken", "Der **Streik** dauerte drei Tage, bis Verhandlungen wieder aufgenommen wurden"], ["Mehrere Delegierte inszenierten einen **Auszug** während der kontroversen Rede", "Der studentische **Protestmarsch** richtete sich gegen die neuen Campusrichtlinien"]]
+  },
+  {
+    "lemma": "walkover",
+    "meanings_de": ["müheloser Sieg"],
+    "definitions_de": ["Wettkampf oder Wettbewerb, der leicht ohne ernsthafte Gegenwehr oder Anstrengung gewonnen wird"],
+    "examples_de": [["Das Meisterschaftsspiel wurde zu einem **klaren Sieg** für die Heimmannschaft", "Mit ihrem verletzten Starspieler war das Spiel ein **Spaziergang**"]]
+  },
+  {
+    "lemma": "walkway",
+    "meanings_de": ["Fußgängerweg"],
+    "definitions_de": ["Durchgang oder Weg, der zum Gehen bestimmt ist und besonders Gebäude oder Bereiche verbindet"],
+    "examples_de": [["Ein überdachter **Fußweg** verband das Parkhaus mit dem Terminal", "Der hölzerne **Steg** erstreckte sich über die Feuchtgebiete"]]
+  },
+  {
+    "lemma": "wallaby",
+    "meanings_de": ["Wallaby"],
+    "definitions_de": ["Beuteltier ähnlich dem Känguru aber kleiner, heimisch in Australien und umliegenden Inseln"],
+    "examples_de": [["Ein **Wallaby** hüpfte bei Tagesanbruch über den Wanderweg", "Das **Wallaby**-Gehege des Zoos zeigte mehrere verschiedene Arten"]]
+  },
+  {
+    "lemma": "wallet",
+    "meanings_de": ["Geldbörse"],
+    "definitions_de": ["Kleine flache Falttasche zum Aufbewahren von Geld, Karten und Ausweisen"],
+    "examples_de": [["Er zog seine **Brieftasche** aus der Gesäßtasche, um zu bezahlen", "Ihre **Geldbörse** enthielt Kreditkarten und Familienfotos"]]
+  },
+  {
+    "lemma": "wallflower",
+    "meanings_de": ["schüchterne Person", "Goldlack"],
+    "definitions_de": ["Person, die bei gesellschaftlichen Veranstaltungen aus Schüchternheit abseits bleibt", "Duftende Pflanze mit bunten Blüten, die an Mauern und Felsen wächst"],
+    "examples_de": [["Sie fühlte sich wie ein **Mauerblümchen** auf der Firmenfeier", "Das **Mauerblümchen** beobachtete die anderen beim Tanzen aus der Ecke"], ["Gelber **Goldlack** blühte entlang der Gartenmauer", "Der Bauerngarten zeigte **Goldlack** und andere Frühlingsblüher"]]
+  },
+  {
+    "lemma": "wallop",
+    "meanings_de": ["heftiger Schlag"],
+    "definitions_de": ["Harter Treffer oder Schlag mit großer Kraft und Wirkung"],
+    "examples_de": [["Der Boxer versetzte seinem Gegner einen kraftvollen **Schlag**", "Der Sturm hatte eine gewaltige **Wucht**, als er die Küste traf"]]
+  },
+  {
+    "lemma": "wallpaper",
+    "meanings_de": ["Tapete", "Bildschirmhintergrund"],
+    "definitions_de": ["Dekoratives Papier, das in Streifen als Innendekoration an Wände geklebt wird", "Hintergrundbild, das auf Computer- oder Handybildschirmen angezeigt wird"],
+    "examples_de": [["Sie wählten eine florale **Tapete** für die Esszimmerwände", "Das Entfernen alter **Tapeten** kann eine mühsame Arbeit sein"], ["Sie änderte ihren Desktop-**Hintergrund** in eine Strandszene", "Der **Bildschirmhintergrund** des Handys zeigte ein Foto ihrer Familie"]]
+  },
+  {
+    "lemma": "walnut",
+    "meanings_de": ["Walnuss", "Walnussbaum"],
+    "definitions_de": ["Essbare Nuss mit harter, runzeliger Schale, die einen gehirnförmigen Kern enthält", "Großer Baum, der Walnüsse produziert und wertvolles dunkles Hartholz liefert"],
+    "examples_de": [["Sie fügte gehackte **Walnüsse** zum Brownie-Teig hinzu", "**Walnüsse** liefern gesunde Omega-3-Fettsäuren"], ["Der Esstisch wurde aus massivem **Walnussholz** gefertigt", "Ein ausgewachsener **Walnussbaum** spendete dem ganzen Hinterhof Schatten"]]
+  },
+  {
+    "lemma": "waltz",
+    "meanings_de": ["Walzer"],
+    "definitions_de": ["Anmutiger Gesellschaftstanz im Dreivierteltakt mit gleitenden, drehenden Bewegungen"],
+    "examples_de": [["Das Paar führte einen wunderschönen **Walzer** bei ihrer Hochzeit auf", "Sie lernte **Walzer** tanzen in ihren Tanzkursen"]]
+  },
+  {
+    "lemma": "wand",
+    "meanings_de": ["Zauberstab", "Scangerät"],
+    "definitions_de": ["Dünner Stab, der von Zauberern oder Feen in Geschichten zum Zaubern verwendet wird", "Tragbares elektronisches Gerät zum Scannen oder zur Erkennung"],
+    "examples_de": [["Die gute Fee schwang ihren **Zauberstab**, um den Zauber zu wirken", "Der **Zauberstab** des Magiers schien Gegenstände verschwinden zu lassen"], ["Der Sicherheitsbeamte benutzte einen Metalldetektor-**Stab** am Eingang", "Sie scannte den Barcode mit einem tragbaren **Scanner**"]]
+  },
+  {
+    "lemma": "wanderer",
+    "meanings_de": ["Wanderer"],
+    "definitions_de": ["Person, die von Ort zu Ort reist ohne festen Wohnsitz oder Zweck"],
+    "examples_de": [["Der alte **Wanderer** teilte Geschichten von seinen vielen Reisen", "Sie war im Herzen eine **Wanderin**, die nirgendwo lange blieb"]]
+  },
+  {
+    "lemma": "wandering",
+    "meanings_de": ["zielloses Umherwandern"],
+    "definitions_de": ["Vorgang des Umherziehens ohne festen Kurs oder Ziel"],
+    "examples_de": [["Sein **Umherwandern** durch die Altstadt offenbarte verborgene Schätze", "Das nächtliche **Umherirren** des Patienten beunruhigte die Pfleger"]]
+  },
+  {
+    "lemma": "wanderlust",
+    "meanings_de": ["Fernweh"],
+    "definitions_de": ["Starker Wunsch oder Drang zu reisen und die Welt zu erkunden"],
+    "examples_de": [["Ihr **Fernweh** führte sie in fünfzig Länder", "Der Frühling erweckte stets sein **Fernweh** nach neuen Abenteuern"]]
+  },
+  {
+    "lemma": "wane",
+    "meanings_de": ["allmähliche Abnahme"],
+    "definitions_de": ["Prozess des allmählichen Abnehmens in Größe, Stärke oder Bedeutung"],
+    "examples_de": [["Das öffentliche Interesse an der Geschichte begann nach Wochen **nachzulassen**", "Die **Abnahme** des Mondes folgt jeden Monat auf seine Vollphase"]]
+  },
+  {
+    "lemma": "waning",
+    "meanings_de": ["Schwinden"],
+    "definitions_de": ["Allmähliche Abnahme oder Rückgang von Macht, Bedeutung oder Größe"],
+    "examples_de": [["Das **Schwinden** des Tageslichts signalisierte das Nahen des Herbstes", "Sein **schwindender** Einfluss im Unternehmen wurde offensichtlich"]]
+  },
+  {
+    "lemma": "wannabe",
+    "meanings_de": ["Möchtegern"],
+    "definitions_de": ["Person, die versucht, wie jemand anderes zu sein oder zu einer bestimmten Gruppe zu gehören"],
+    "examples_de": [["Die Musikindustrie zieht viele **Möchtegern**-Rockstars an", "Mode-**Nachahmer** kopierten ihren Stil, aber es fehlte ihnen an Originalität"]]
+  },
+  {
+    "lemma": "warbler",
+    "meanings_de": ["Grasmücke"],
+    "definitions_de": ["Kleiner Singvogel, bekannt für melodische trillernde Gesänge besonders im Frühling"],
+    "examples_de": [["Eine gelbe **Grasmücke** sang von den Weidenzweigen", "**Grasmücken** ziehen jedes Jahr Tausende von Kilometern"]]
+  },
+  {
+    "lemma": "ward",
+    "meanings_de": ["Krankenhausstation", "Mündel", "Verwaltungsbezirk"],
+    "definitions_de": ["Separater Raum oder Bereich im Krankenhaus für bestimmte Patientengruppen", "Kind oder Person unter rechtlichem Schutz eines Vormunds oder Gerichts", "Verwaltungsbezirk einer Stadt für Wahlen oder Vertretung"],
+    "examples_de": [["Die **Entbindungsstation** befand sich im dritten Stock", "Krankenschwestern auf der **Notaufnahme** arbeiteten in Zwölfstundenschichten"], ["Das Waisenkind wurde nach dem Verlust seiner Eltern **Mündel** des Staates", "Sie fungierte als Vormund für ihr junges **Mündel**"], ["Jeder **Bezirk** wählt einen Vertreter für den Stadtrat", "Der Kandidat führte Haustürwahlkampf im dritten **Wahlbezirk**"]]
+  },
+  {
+    "lemma": "warden",
+    "meanings_de": ["Gefängnisdirektor", "Aufseher"],
+    "definitions_de": ["Person, die ein Gefängnis oder eine Strafanstalt leitet", "Beamter, der für die Durchsetzung von Vorschriften in einem bestimmten Bereich zuständig ist"],
+    "examples_de": [["Der **Gefängnisdirektor** führte neue Rehabilitationsprogramme ein", "Sie traf sich mit dem **Anstaltsleiter**, um Besuchszeiten zu besprechen"], ["Der **Wildhüter** patrouillierte den Wald nach Wilderern", "Der **Kirchenvorsteher** kümmerte sich um das historische Gebäude"]]
+  },
+  {
+    "lemma": "warder",
+    "meanings_de": ["Gefängniswärter"],
+    "definitions_de": ["Wächter, der für Gefangene im Gefängnis zuständig ist"],
+    "examples_de": [["Der **Wärter** begleitete Gefangene zum Übungshof", "Mehrere **Aufseher** überwachten nachts den Zellenblock"]]
+  },
+  {
+    "lemma": "wardrobe",
+    "meanings_de": ["Kleiderschrank", "Garderobe"],
+    "definitions_de": ["Großer Schrank zum Aufbewahren von Kleidung und Wäsche", "Gesamte Sammlung von Kleidung und Accessoires einer Person"],
+    "examples_de": [["Der antike **Kleiderschrank** dominierte die Schlafzimmerecke", "Sie hängte ihre Kleider in den **Eichenschrank**"], ["Ihre berufliche **Garderobe** bestand hauptsächlich aus Anzügen", "Er erneuerte seine **Garderobe** für den neuen Job"]]
+  },
+  {
+    "lemma": "ware",
+    "meanings_de": ["Waren"],
+    "definitions_de": ["Handelsgüter oder Fertigwaren einer bestimmten Art"],
+    "examples_de": [["Der Töpferladen stellte schöne Keramik**waren** aus", "Straßenhändler verkauften ihre **Waren** von bunten Karren"]]
+  },
+  {
+    "lemma": "warehouse",
+    "meanings_de": ["Lagerhaus"],
+    "definitions_de": ["Großes Gebäude zur Lagerung von Waren vor Vertrieb oder Verkauf"],
+    "examples_de": [["Das **Lagerhaus** des Unternehmens lagerte Tausende von Produkten", "Gabelstapler bewegten Paletten durch das geschäftige **Warenlager**"]]
+  },
+  {
+    "lemma": "warehousing",
+    "meanings_de": ["Lagerhaltung"],
+    "definitions_de": ["Praxis oder Geschäft der Lagerung von Waren in Lagerhäusern"],
+    "examples_de": [["Das Unternehmen spezialisierte sich auf **Lagerhaltung** und Vertriebsdienstleistungen", "Moderne **Lagerwirtschaft** nutzt automatisierte Systeme für Effizienz"]]
+  },
+  {
+    "lemma": "warfare",
+    "meanings_de": ["Kriegsführung"],
+    "definitions_de": ["Beteiligung an oder Aktivitäten im Zusammenhang mit Krieg oder Konflikt zwischen Nationen oder Gruppen"],
+    "examples_de": [["Moderne **Kriegsführung** stützt sich stark auf Technologie und Aufklärung", "Das Land hatte Jahrzehnte kontinuierlicher **Kriegshandlungen** erlebt"]]
+  },
+  {
+    "lemma": "warhead",
+    "meanings_de": ["Gefechtskopf"],
+    "definitions_de": ["Explosiver oder giftiger Materialteil an der Spitze einer Rakete oder eines Torpedos"],
+    "examples_de": [["Der **Gefechtskopf** der Rakete war für maximale Wirkung ausgelegt", "Nukleare **Sprengköpfe** erfordern spezielle Handhabung und Sicherheit"]]
+  },
+  {
+    "lemma": "warlock",
+    "meanings_de": ["Hexenmeister"],
+    "definitions_de": ["Mann, der Hexerei oder Magie ausübt, besonders in Geschichten und Folklore"],
+    "examples_de": [["Der **Hexenmeister** sprach einen Zauber zum Schutz des Dorfes", "Im Fantasyroman war der **Zauberer** der Mentor des Helden"]]
+  },
+  {
+    "lemma": "warlord",
+    "meanings_de": ["Kriegsherr"],
+    "definitions_de": ["Militärischer Befehlshaber, der eine Region durch Streitkräfte kontrolliert, oft ohne rechtliche Autorität"],
+    "examples_de": [["Lokale **Kriegsherren** kontrollierten verschiedene Regionen des Landes", "Die Armee des **Warlords** beherrschte die nördlichen Provinzen"]]
+  },
+  {
+    "lemma": "warmer",
+    "meanings_de": ["Wärmegerät", "wärmendes Kleidungsstück"],
+    "definitions_de": ["Gerät oder Vorrichtung, die Wärme liefert, um Dinge warm zu halten", "Kleidungsstück, das getragen wird, um zusätzliche Wärme zu bieten"],
+    "examples_de": [["Sie stellte die Flasche vor dem Füttern in den **Flaschenwärmer**", "Der **Kaffeewärmer** hielt ihr Getränk auf perfekter Temperatur"], ["Sportler tragen **Beinwärmer** während des Trainings", "Sie strickte bunte **Armstulpen** für den Winter"]]
+  },
+  {
+    "lemma": "warmth",
+    "meanings_de": ["Wärme", "Herzlichkeit"],
+    "definitions_de": ["Eigenschaft oder Zustand der Wärme in der Temperatur", "Freundlichkeit, Güte oder Zuneigung in Art oder Gefühl"],
+    "examples_de": [["Die **Wärme** des Kamins erfüllte den Raum", "Sie genoss die **Wärme** der Morgensonne"], ["Seine **Herzlichkeit** und sein Humor ließen alle sich willkommen fühlen", "Die **Wärme** in ihrer Stimme tröstete das Kind"]]
+  },
+  {
+    "lemma": "warner",
+    "meanings_de": ["Warner"],
+    "definitions_de": ["Person oder Sache, die warnt oder Vorabwarnung vor Gefahr gibt"],
+    "examples_de": [["Der Leuchtturm diente als **Warner** für Schiffe im Nebel", "Er fungierte als **Warner**, wenn sich Gefahr dem Lager näherte"]]
+  }
+]

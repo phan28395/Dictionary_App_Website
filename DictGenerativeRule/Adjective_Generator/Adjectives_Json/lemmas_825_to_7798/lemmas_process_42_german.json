@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "habitable",
+    "meanings_de": ["zum Wohnen geeignet", "sicher zum Bewohnen"],
+    "definitions_de": ["für Menschen zum dauerhaften Aufenthalt geeignet mit allen notwendigen Lebensbedingungen wie Wasser, Luft und angemessener Temperatur", "einen Ort oder eine Umgebung beschreibend, die ausreichenden Schutz und Sicherheit für menschliche Besiedlung bietet"],
+    "examples_de": [["Das renovierte Haus ist nach monatelangen Arbeiten endlich **bewohnbar**", "Der Mars könnte durch fortschrittliche Technologien eines Tages **bewohnbar** werden"], ["Der Bunker blieb während des Sturms **bewohnbar** und sicher", "Sie suchten nach **bewohnbarem** Land fernab des Überschwemmungsgebiets"]]
+  },
+  {
+    "lemma": "habitual",
+    "meanings_de": ["regelmäßig durchgeführt", "typisches Verhalten"],
+    "definitions_de": ["als normale Routine oder regelmäßige Praxis über einen längeren Zeitraum hinweg durchgeführt oder geschehend", "charakteristisch für das übliche Verhalten einer Person oder deren typische Handlungsweise"],
+    "examples_de": [["Sein **gewohnheitsmäßiger** Morgenkaffee gibt ihm Energie für den Arbeitstag", "Die **gewohnheitsmäßigen** Verspätungen der Züge frustrierten die Pendler"], ["Sie zeigte ihre **gewohnte** Freundlichkeit, indem sie dem Fremden half", "Sein **gewohnter** Optimismus half dem Team durch schwierige Zeiten"]]
+  },
+  {
+    "lemma": "hackneyed",
+    "meanings_de": ["überstrapaziert und unoriginell"],
+    "definitions_de": ["ohne Originalität oder Frische aufgrund zu häufiger Verwendung in Schrift oder Sprache, sodass die Ausdruckskraft verloren gegangen ist"],
+    "examples_de": [["Der Film stützte sich auf **abgedroschene** Wendungen, die jeder vorhersehen konnte", "Seine Rede war voller **abgegriffener** Phrasen über Erfolg"], ["Die **abgenutzte** Metapher konnte die Aufmerksamkeit des Publikums nicht fesseln", "Sie vermied **abgedroschene** Ausdrücke in ihrem kreativen Schreiben"]]
+  },
+  {
+    "lemma": "haggard",
+    "meanings_de": ["erschöpftes Aussehen"],
+    "definitions_de": ["erschöpft und krank aussehend, besonders durch Müdigkeit, Sorgen oder Leiden geprägt"],
+    "examples_de": [["Nach drei schlaflosen Nächten sah sie **abgespannt** und blass aus", "Die **ausgezehrten** Flüchtlinge kamen nach ihrer gefährlichen Reise an"], ["Sein **verhärmtes** Gesicht zeigte die Belastung durch die Pflege seines kranken Kindes", "Die Marathonläufer wirkten an der Ziellinie völlig **abgekämpft**"]]
+  },
+  {
+    "lemma": "haired",
+    "meanings_de": ["mit bestimmtem Haar"],
+    "definitions_de": ["Haare von einer bestimmten Art, Farbe oder Menge besitzend, wenn in Zusammensetzungen verwendet"],
+    "examples_de": [["Das **blonde** Kind spielte fröhlich im Garten", "Eine **langhaarige** Katze benötigt regelmäßige Fellpflege"], ["Die **rothaarige** Frau fiel in der Menschenmenge auf", "**Grauhaarige** Weisheit kommt durch jahrelange Lebenserfahrung"]]
+  },
+  {
+    "lemma": "hairless",
+    "meanings_de": ["ohne jegliches Haar"],
+    "definitions_de": ["keine Haare am Körper oder an einem bestimmten Körperteil besitzend"],
+    "examples_de": [["Die **haarlose** Katzenrasse benötigt bei kaltem Wetter besondere Pflege", "Manche Schwimmer bevorzugen **haarlose** Beine für bessere Leistung"], ["Die Chemotherapie machte ihn vorübergehend **haarlos**, aber hoffnungsvoll", "**Haarlose** Mäuse werden häufig in der Laborforschung eingesetzt"]]
+  },
+  {
+    "lemma": "hairy",
+    "meanings_de": ["mit Haaren bedeckt", "schwierig oder gefährlich"],
+    "definitions_de": ["viele Haare besitzend oder mit Haaren am Körper oder an der Oberfläche bedeckt", "umgangssprachliche Bezeichnung für etwas Gefährliches, Schwieriges oder Beängstigendes"],
+    "examples_de": [["Der **haarige** Hund brauchte vor dem Sommer einen Haarschnitt", "Seine **behaarten** Arme waren unter den hochgekrempelten Ärmeln sichtbar"], ["Die Fahrt durch den Sturm war eine **haarige** Angelegenheit für alle", "Die Verhandlungen wurden **heikel**, als beide Seiten Kompromisse verweigerten"]]
+  },
+  {
+    "lemma": "halal",
+    "meanings_de": ["im Islam erlaubt"],
+    "definitions_de": ["nach islamischem Recht erlaubt oder rechtmäßig, besonders in Bezug auf Nahrungsmittel und deren Zubereitung"],
+    "examples_de": [["Das Restaurant serviert seinen Gästen ausschließlich **halal** Fleisch", "Sie suchte im Supermarkt nach **halal**-zertifizierten Produkten"], ["Die **halal** Speisenzubereitung folgt sorgfältig spezifischen religiösen Richtlinien", "Das Hotel bietet **halal** Speiseoptionen für muslimische Gäste"]]
+  },
+  {
+    "lemma": "halcyon",
+    "meanings_de": ["friedlich und glücklich"],
+    "definitions_de": ["eine Zeitperiode bezeichnend, die idyllisch glücklich, friedlich und wohlhabend war"],
+    "examples_de": [["Sie erinnerten sich gerne an die **glückseligen** Tage ihrer Jugend", "Das Unternehmen genoss **goldene** Jahre vor dem Marktcrash"], ["Jene **friedvollen** Sommernachmittage am See schienen endlos", "Die **harmonische** Friedensperiode dauerte fast zwei Jahrzehnte"]]
+  },
+  {
+    "lemma": "hale",
+    "meanings_de": ["gesund und kräftig"],
+    "definitions_de": ["starke Gesundheit und körperliche Kraft zeigend, besonders im hohen Alter"],
+    "examples_de": [["Mit neunzig Jahren bleibt die Großmutter **rüstig** und geht täglich spazieren", "Der **gesunde** Bauer bearbeitete seine Felder von morgens bis abends"], ["Trotz seines Alters erschien er **munter** und kräftig beim Klassentreffen", "Die Bergluft hielt die Dorfbewohner ihr Leben lang **gesund**"]]
+  },
+  {
+    "lemma": "hallowed",
+    "meanings_de": ["heilig oder verehrt"],
+    "definitions_de": ["als heilig angesehen oder tief respektiert, oft aufgrund von Alter, Tradition oder Verbindung"],
+    "examples_de": [["Studenten wandeln durch die **ehrwürdigen** Hallen der alten Universität", "Der **geweihte** Boden des Schlachtfeldes wurde zur Gedenkstätte"], ["Sie sprachen mit gedämpften Stimmen in den **heiligen** Tempelmauern", "Die **geheiligten** Traditionen der Zeremonie blieben unverändert"]]
+  },
+  {
+    "lemma": "hallucinating",
+    "meanings_de": ["falsche Wahrnehmungen erlebend"],
+    "definitions_de": ["Halluzinationen erlebend oder Dinge wahrnehmend, die in der Realität nicht vorhanden sind"],
+    "examples_de": [["Das Fieber ließ ihn die ganze Nacht seltsame Visionen **halluzinieren**", "Der Patient **halluzinierte** aufgrund der Nebenwirkungen der Medikamente"], ["Ohne Wasser begannen die Wüstenreisenden Luftspiegelungen zu **halluzinieren**", "Sie fragte sich, ob sie die seltsamen Geräusche **halluzinierte**"]]
+  },
+  {
+    "lemma": "hallucinatory",
+    "meanings_de": ["halluzinationsähnlich"],
+    "definitions_de": ["Halluzinationen ähnelnd, verursachend oder eine traumhafte, unwirkliche Qualität besitzend"],
+    "examples_de": [["Die **halluzinatorischen** Gemälde des Künstlers zeigten surreale Traumlandschaften", "Das Fieber erzeugte **halluzinatorische** Episoden während der Nacht"], ["Die **halluzinatorischen** Wirkungen der Droge hielten mehrere Stunden an", "Seine **halluzinatorischen** Visionen inspirierten seine kreativsten Werke"]]
+  },
+  {
+    "lemma": "hallucinogenic",
+    "meanings_de": ["Halluzinationen verursachend"],
+    "definitions_de": ["Halluzinationen oder veränderte Wahrnehmungen verursachend, wenn von einer Person eingenommen oder verabreicht"],
+    "examples_de": [["Einige Pilze enthalten **halluzinogene** Verbindungen, die die Wahrnehmung beeinflussen", "Der Schamane verwendete **halluzinogene** Pflanzen in religiösen Zeremonien"], ["Wissenschaftler untersuchen **halluzinogene** Substanzen für potenzielle therapeutische Anwendungen", "Die **halluzinogenen** Eigenschaften der Droge waren gut dokumentiert"]]
+  },
+  {
+    "lemma": "halt",
+    "meanings_de": ["angehalten oder lahm"],
+    "definitions_de": ["zum Stillstand gebracht oder durch Hinken oder beeinträchtigte Gehbewegung gekennzeichnet"],
+    "examples_de": [["Der **stockende** Verkehr verursachte lange Verzögerungen während der Hauptverkehrszeit", "Jeder **unterbrochene** Fortschritt muss sofort dem Vorgesetzten gemeldet werden"], ["Sein **hinkender** Gang resultierte aus einer alten Sportverletzung", "Die **lahme** Bewegung des Pferdes beunruhigte den Tierarzt sehr"]]
+  },
+  {
+    "lemma": "halting",
+    "meanings_de": ["zögernd oder ungleichmäßig"],
+    "definitions_de": ["langsam und zögernd, besonders durch mangelndes Selbstvertrauen oder mit häufigen Pausen"],
+    "examples_de": [["Sie sprach in **stockendem** Englisch, während sie die Sprache lernte", "Seine **schleppenden** Schritte zeigten, dass er sich noch von der Operation erholte"], ["Der Student hielt eine **stockende** Präsentation aufgrund von Nervosität", "Ihr **zögerlicher** Fortschritt durch den Dschungel beunruhigte den Führer"]]
+  },
+  {
+    "lemma": "hammered",
+    "meanings_de": ["durch Hämmern geformt", "extrem betrunken"],
+    "definitions_de": ["durch wiederholte Schläge mit einem Hammer oder ähnlichem Werkzeug geformt oder flachgeklopft", "umgangssprachlicher Ausdruck für sehr betrunken oder berauscht durch Alkoholkonsum"],
+    "examples_de": [["Der **gehämmerte** Kupfertopf glänzte in der Küche", "Sie trug **gehämmerte** Silberohrringe zur formellen Veranstaltung"], ["Er war auf seiner Junggesellenparty gestern Abend völlig **besoffen**", "Die **besoffenen** Gäste konnten nach Mitternacht kaum noch gerade gehen"]]
+  },
+  {
+    "lemma": "handed",
+    "meanings_de": ["mit bestimmter Händigkeit"],
+    "definitions_de": ["eine bestimmte Hand als dominant habend oder benutzend, in Zusammensetzungen wie rechtshändig verwendet"],
+    "examples_de": [["Der **linkshändige** Schüler brauchte eine spezielle Schere für den Kunstunterricht", "Die meisten Werkzeuge sind leider für **rechtshändige** Menschen konzipiert"], ["Der **einhändige** Fang verblüffte alle Zuschauer des Spiels", "**Beidhändiges** Tippen erhöht die Geschwindigkeit und reduziert die Belastung erheblich"]]
+  },
+  {
+    "lemma": "handheld",
+    "meanings_de": ["tragbar und kompakt"],
+    "definitions_de": ["so konzipiert, dass es mit einer oder beiden Händen gehalten und bedient werden kann, während es tragbar ist"],
+    "examples_de": [["Das **tragbare** Gerät passt problemlos in Ihre Tasche", "Spieler genießen **tragbare** Konsolen während langer Pendelfahrten"], ["Der **Handscanner** macht Inventurprüfungen viel schneller", "Sie bevorzugte **handliche** Werkzeuge für detaillierte Bastelarbeiten"]]
+  },
+  {
+    "lemma": "handicapped",
+    "meanings_de": ["mit einer Behinderung", "benachteiligt"],
+    "definitions_de": ["eine körperliche oder geistige Beeinträchtigung habend, die Bewegung, Sinne oder Aktivitäten einschränkt", "benachteiligt oder beim Erreichen von etwas durch Umstände behindert"],
+    "examples_de": [["Das Gebäude bietet Rampen für die Zugänglichkeit **behinderter** Besucher", "**Behinderten**parkplätze befinden sich in der Nähe des Eingangs"], ["Das Team fühlte sich durch den Mangel an geeigneter Ausrüstung **benachteiligt**", "Schlechtes Wetter **behinderte** ihre Bemühungen, den Bau fertigzustellen"]]
+  },
+  {
+    "lemma": "handled",
+    "meanings_de": ["bewältigt oder behandelt", "mit einem Griff versehen"],
+    "definitions_de": ["auf eine bestimmte Weise oder von jemandem verwaltet, kontrolliert oder behandelt", "mit einem Griff oder Griffen zum Tragen, Halten oder Steuern ausgestattet"],
+    "examples_de": [["Die Krise wurde vom Managementteam professionell **gehandhabt**", "Sie **bewältigte** die heikle Situation mit bemerkenswerter Anmut"], ["Der **Henkelkorb** machte das Tragen von Lebensmitteln viel einfacher", "Alle Werkzeuge mit **Griffen** sollten nach Gebrauch sicher verstaut werden"]]
+  },
+  {
+    "lemma": "handmade",
+    "meanings_de": ["von Hand gefertigt"],
+    "definitions_de": ["von Hand statt maschinell hergestellt, was oft bessere Qualität oder Einzigartigkeit impliziert"],
+    "examples_de": [["Sie schätzte die **handgefertigte** Decke, die ihre Großmutter genäht hatte", "Die **handgemachten** Pralinen kosteten mehr, schmeckten aber außergewöhnlich"], ["Lokale Handwerker verkaufen **handgefertigten** Schmuck auf dem Wochenmarkt", "Jedes **handgearbeitete** Stück hat einzigartige Eigenschaften und Charme"]]
+  },
+  {
+    "lemma": "handwritten",
+    "meanings_de": ["von Hand geschrieben"],
+    "definitions_de": ["mit einem Stift oder Bleistift geschrieben statt maschinell getippt oder gedruckt"],
+    "examples_de": [["Der **handgeschriebene** Brief fühlte sich persönlicher an als eine E-Mail", "Ihre **handschriftlichen** Notizen waren schwer zu lesen, aber herzlich"], ["Die Studenten reichten **handgeschriebene** Aufsätze für die Abschlussprüfung ein", "Die **handgeschriebene** Speisekarte verlieh dem kleinen Restaurant Charme"]]
+  },
+  {
+    "lemma": "handy",
+    "meanings_de": ["praktisch zu benutzen", "geschickt mit Händen"],
+    "definitions_de": ["bequem zu handhaben oder zu verwenden, nützlich oder leicht zugänglich wenn benötigt", "geschickt im Umgang mit den Händen oder bei praktischen Aufgaben und Reparaturen"],
+    "examples_de": [["Bewahren Sie ein **praktisches** Werkzeugset für Notfälle im Auto auf", "Die **handlichen** Aufbewahrungsboxen organisieren alles perfekt"], ["Er ist **geschickt** mit Elektrowerkzeugen und repariert Dinge selbst", "Sie ist **geschickt** in der Küche und kreiert erstaunliche Mahlzeiten"]]
+  },
+  {
+    "lemma": "haphazard",
+    "meanings_de": ["zufällig und unorganisiert"],
+    "definitions_de": ["ohne erkennbares Organisationsprinzip, zufällig oder nachlässig ohne Planung angeordnet"],
+    "examples_de": [["Bücher waren in **willkürlichen** Stapeln im ganzen Raum verteilt", "Ihr **planloses** Vorgehen bei der Planung verursachte viele Probleme"], ["Das **chaotische** Parken erschwerte die Navigation für Rettungsfahrzeuge", "Sie kritisierte die **ungeordnete** Art, wie das Projekt geleitet wurde"]]
+  },
+  {
+    "lemma": "hapless",
+    "meanings_de": ["unglücklich und glücklos"],
+    "definitions_de": ["unglücklich und mitleiderregend, besonders durch beständiges Pech gekennzeichnet"],
+    "examples_de": [["Der **unglückliche** Tourist verirrte sich und verpasste seinen Flug", "Ein **glückloses** Team erlitt seine zehnte Niederlage in Folge"], ["Das **bedauernswerte** Opfer fiel auf einen weiteren Online-Betrug herein", "Unser **unglückseliger** Held stolperte von einer Katastrophe zur nächsten"]]
+  },
+  {
+    "lemma": "haptic",
+    "meanings_de": ["den Tastsinn betreffend"],
+    "definitions_de": ["sich auf den Tastsinn oder auf taktile Empfindungen und Wahrnehmungen beziehend"],
+    "examples_de": [["Das neue Telefon verfügt über **haptisches** Feedback für bessere Benutzererfahrung", "**Haptische** Technologie hilft blinden Menschen, digitale Schnittstellen zu navigieren"], ["Virtual-Reality-Systeme verwenden **haptische** Handschuhe für realistische Empfindungen", "Die **haptische** Rückmeldung bestätigte erfolgreich den Tastendruck"]]
+  },
+  {
+    "lemma": "harassed",
+    "meanings_de": ["anhaltend belästigt"],
+    "definitions_de": ["aggressivem Druck, Einschüchterung oder anhaltender Belästigung ausgesetzt, die Stress verursacht"],
+    "examples_de": [["Die **belästigte** Angestellte meldete schließlich das Mobbing am Arbeitsplatz", "Sie fühlte sich durch ständige Anrufe von Telefonverkäufern **belästigt**"], ["Die **geplagte** Mutter jonglierte drei Jobs und die Kinderbetreuung", "**Beunruhigte** Wildtiere können ihre natürlichen Lebensräume dauerhaft verlassen"]]
+  },
+  {
+    "lemma": "hardback",
+    "meanings_de": ["fest gebunden"],
+    "definitions_de": ["ein Buch beschreibend, das mit steifen Schutzumschlägen statt flexiblem Papier gebunden ist"],
+    "examples_de": [["Die **gebundene** Ausgabe kostet mehr als die Taschenbuchversion", "Sammler bevorzugen **gebundene** Bücher für ihre persönlichen Bibliotheken"], ["Sie wartete Monate auf die **gebundene** Veröffentlichung des Romans", "**Gebundene** Lehrbücher halten der starken Nutzung während des Semesters stand"]]
+  },
+  {
+    "lemma": "hardcore",
+    "meanings_de": ["am engagiertesten", "extrem oder intensiv"],
+    "definitions_de": ["die aktivsten, engagiertesten oder strengsten Mitglieder einer Gruppe oder Bewegung", "extrem, intensiv oder kompromisslos in Natur, Inhalt oder Hingabe zu etwas"],
+    "examples_de": [["Nur **eingefleischte** Fans warteten stundenlang im Regen auf Tickets", "Sie ist eine **überzeugte** Fitness-Enthusiastin, die nie ein Training verpasst"], ["Der Film enthält **extreme** Gewalt, die für Kinder ungeeignet ist", "Seine **kompromisslose** Hingabe zum Training beeindruckte den Trainer"]]
+  },
+  {
+    "lemma": "hardcover",
+    "meanings_de": ["fest gebunden"],
+    "definitions_de": ["ein Buch mit steifen Schutzumschlägen aus mit Stoff oder Papier überzogener Pappe beschreibend"],
+    "examples_de": [["Die **gebundene** Version enthält exklusive Bonuskapitel", "Bibliotheken kaufen typischerweise **gebundene** Bücher wegen ihrer Haltbarkeit"], ["Ihre **Hardcover**-Sammlung füllt drei große Bücherregale vollständig", "Verlage veröffentlichen **gebundene** Ausgaben vor Taschenbuchversionen"]]
+  },
+  {
+    "lemma": "hardened",
+    "meanings_de": ["hart gemacht", "emotional abgehärtet"],
+    "definitions_de": ["durch einen physikalischen oder chemischen Prozess hart oder härter gemacht", "durch schwierige Erfahrungen im Laufe der Zeit abgestumpft, gefühllos oder zynisch geworden"],
+    "examples_de": [["Die **gehärtete** Stahlklinge schneidet mühelos durch Metall", "**Gehärteter** Beton bildet das starke Fundament des Gebäudes"], ["Jahre des Krieges schufen **abgehärtete** Soldaten mit wenigen Emotionen", "Der **abgebrühte** Verbrecher zeigte während der Verurteilung keine Reue"]]
+  },
+  {
+    "lemma": "hardline",
+    "meanings_de": ["kompromisslose Haltung"],
+    "definitions_de": ["an festen, kompromisslosen Richtlinien oder Positionen festhaltend, besonders in der Politik"],
+    "examples_de": [["Der **kompromisslose** Ansatz bei den Verhandlungen ließ keinen Spielraum", "**Hardliner**-Politiker weigerten sich, Politikänderungen in Betracht zu ziehen"], ["Seine **unnachgiebige** Haltung zur Einwanderung spaltete die Parteimitglieder", "Das Unternehmen nahm eine **harte** Position gegen Gewerkschaftsforderungen ein"]]
+  },
+  {
+    "lemma": "hardworking",
+    "meanings_de": ["fleißig und arbeitsam"],
+    "definitions_de": ["dazu neigend, mit Energie und Engagement zu arbeiten und konsequent Anstrengung in Aufgaben zu stecken"],
+    "examples_de": [["Der **fleißige** Student verdiente sich Stipendien durch Hingabe", "**Arbeitsame** Mitarbeiter erhalten oft Beförderungen und Anerkennung"], ["Ihre **fleißige** Art beeindruckte alle im Unternehmen", "Die **arbeitsamen** Bauern stehen jeden Tag vor Sonnenaufgang auf"]]
+  },
+  {
+    "lemma": "hardy",
+    "meanings_de": ["robust und widerstandsfähig"],
+    "definitions_de": ["fähig, schwierige Bedingungen zu ertragen, Robustheit und Widerstandsfähigkeit gegenüber Härten zeigend"],
+    "examples_de": [["**Winterharte** Pflanzen überleben problemlos die rauen Wintertemperaturen", "Die **zähen** Entdecker ertrugen monatelang antarktische Bedingungen"], ["Diese **robusten** Bergbewohner haben sich an das Leben in großer Höhe angepasst", "Wählen Sie **widerstandsfähiges** Gemüse für Ihren ersten Gartenversuch"]]
+  },
+  {
+    "lemma": "harmful",
+    "meanings_de": ["Schaden verursachend"],
+    "definitions_de": ["Schaden, Verletzung oder Beschädigung an jemandem oder etwas verursachend oder wahrscheinlich verursachend"],
+    "examples_de": [["Rauchen hat **schädliche** Auswirkungen auf Ihre Lungen und Ihr Herz", "Die **schädlichen** Chemikalien wurden aus der Wasserversorgung entfernt"], ["**Schädliche** Strahlung erfordert Schutzausrüstung für die Sicherheit", "Klatsch kann **schädlich** für Arbeitsbeziehungen und die Moral sein"]]
+  },
+  {
+    "lemma": "harmless",
+    "meanings_de": ["keinen Schaden verursachend"],
+    "definitions_de": ["nicht fähig oder wahrscheinlich, jemandem oder etwas Schaden, Beschädigung oder Verletzung zuzufügen"],
+    "examples_de": [["Die Spinne sieht beängstigend aus, ist aber für Menschen völlig **harmlos**", "Sein **harmloser** Scherz brachte alle zum Lachen, ohne jemanden zu beleidigen"], ["Die meisten Schlangen in dieser Gegend sind **harmlos** und meiden Menschen", "Der **harmlose** Streich führte zu Lächeln statt zu Ärger"]]
+  },
+  {
+    "lemma": "harmonic",
+    "meanings_de": ["die Harmonie betreffend"],
+    "definitions_de": ["sich auf musikalische Harmonie oder die Physik harmonischer Frequenzen beziehend oder dadurch gekennzeichnet"],
+    "examples_de": [["Die **harmonischen** Obertöne erzeugten einen reichen, vollen Klang", "Musiker studieren **harmonische** Progressionen, um besser zu komponieren"], ["Die **harmonischen** Schwingungen der Saiten erzeugten wunderschöne Resonanz", "**Harmonische** Analyse hilft Ingenieuren, Strukturversagen zu verhindern"]]
+  },
+  {
+    "lemma": "harmonious",
+    "meanings_de": ["in angenehmem Einklang"],
+    "definitions_de": ["ein angenehmes oder konsistentes Ganzes bildend, frei von Unstimmigkeiten oder Zwietracht"],
+    "examples_de": [["Die **harmonischen** Farben im Gemälde schaffen visuelles Gleichgewicht", "Ihre **harmonische** Beziehung dauerte über fünfzig Jahre"], ["Die **harmonische** Mischung der Stimmen erfüllte den Konzertsaal", "Ein **harmonischer** Arbeitsplatz erhöht Produktivität und Arbeitszufriedenheit"]]
+  },
+  {
+    "lemma": "harmonised",
+    "meanings_de": ["in Einklang gebracht"],
+    "definitions_de": ["in Übereinstimmung, Vereinbarung oder Harmonie mit etwas anderem gebracht, britische Schreibweise"],
+    "examples_de": [["Die **harmonisierten** Vorschriften gelten in allen Mitgliedsländern", "Ihre **harmonisierten** Bemühungen erbrachten schnell hervorragende Ergebnisse"], ["Die **harmonisierten** Standards gewährleisten weltweite Produktkompatibilität", "**Harmonisierte** Stimmen schufen eine wunderschöne Choraufführung"]]
+  },
+  {
+    "lemma": "harmonized",
+    "meanings_de": ["in Einklang gebracht"],
+    "definitions_de": ["in Übereinstimmung, Vereinbarung oder Harmonie mit etwas anderem gebracht, amerikanische Schreibweise"],
+    "examples_de": [["Die **harmonisierten** Steuercodes vereinfachten internationale Geschäftstransaktionen", "**Harmonisierte** Sicherheitsstandards schützen Arbeiter branchenübergreifend"], ["Der Chor sang während des Weihnachtskonzerts perfekt **harmonisiert**", "Sie **harmonisierten** ihre Zeitpläne, um mehr Zeit miteinander zu verbringen"]]
+  },
+  {
+    "lemma": "harnessed",
+    "meanings_de": ["zur Nutzung kontrolliert"],
+    "definitions_de": ["unter Kontrolle gebracht und nutzbar gemacht, besonders in Bezug auf Naturkräfte oder Ressourcen"],
+    "examples_de": [["Solarenergie kann **genutzt** werden, um ganze Gemeinden zu versorgen", "Der **gebändigte** Fluss liefert Strom für drei Städte"], ["Sie **nutzte** ihre Kreativität, um ein erfolgreiches Geschäft aufzubauen", "Richtig **kanalisierte** Emotionen können positive Veränderungen bewirken"]]
+  },
+  {
+    "lemma": "harried",
+    "meanings_de": ["anhaltend bedrängt"],
+    "definitions_de": ["sich belastet fühlend durch anhaltende Anforderungen, die an einen gestellt werden"],
+    "examples_de": [["Die **gehetzte** Mutter managte drei Kinder beim Einkaufen", "**Gestresste** Pendler eilten, um ihre verspäteten Züge zu erwischen"], ["Die **geplagte** Assistentin jonglierte gleichzeitig mehrere dringende Fristen", "Sie sah **abgehetzt** aus, nachdem sie den ganzen Tag mit schwierigen Kunden zu tun hatte"]]
+  },
+  {
+    "lemma": "harrowing",
+    "meanings_de": ["äußerst belastend"],
+    "definitions_de": ["extreme Bedrängnis, Angst oder Qual durch Schwierigkeit oder Gefahr verursachend"],
+    "examples_de": [["Überlebende teilten **erschütternde** Geschichten von der Naturkatastrophe", "Die **erschütternde** Dokumentation enthüllte die Realitäten des Menschenhandels"], ["Ihre **qualvolle** Erfahrung veränderte ihre Sicht auf das Leben für immer", "Die **strapaziöse** Reise durch das Kriegsgebiet stellte alle auf die Probe"]]
+  },
+  {
+    "lemma": "hasty",
+    "meanings_de": ["zu schnell gemacht"],
+    "definitions_de": ["mit übermäßiger Geschwindigkeit oder Dringlichkeit ohne angemessene Überlegung oder Sorgfalt getan oder handelnd"],
+    "examples_de": [["Seine **überstürzte** Entscheidung zu kündigen erwies sich später als kostspielig", "Die **hastigen** Reparaturen versagten beim ersten Sturm"], ["Fällen Sie keine **voreiligen** Urteile, ohne alle Fakten zu kennen", "Ihre **überstürzte** Abreise ließ viele Fragen unbeantwortet"]]
+  },
+  {
+    "lemma": "hatched",
+    "meanings_de": ["aus Ei geschlüpft", "mit Linien markiert"],
+    "definitions_de": ["aus einem Ei geschlüpft oder aus einem begrenzten Raum entwickelt und hervorgegangen", "mit feinen parallelen Linien markiert, die beim Zeichnen oder Gravieren zur Schattierung verwendet werden"],
+    "examples_de": [["Die frisch **geschlüpften** Küken piepsten nach der Aufmerksamkeit ihrer Mutter", "Wissenschaftler beobachteten, wie Babyschildkröten am Strand **schlüpften**"], ["Das **schraffierte** Muster auf der Karte kennzeichnete bergiges Gelände", "Ihre **schraffierte** Zeichentechnik erzeugte realistische Schatten"]]
+  },
+  {
+    "lemma": "hated",
+    "meanings_de": ["intensiv verabscheut"],
+    "definitions_de": ["mit intensiver Abneigung, Feindseligkeit oder Abscheu von jemandem oder vielen Menschen betrachtet"],
+    "examples_de": [["Die **verhasste** Steuererhöhung löste Proteste in der ganzen Stadt aus", "Er wurde zum **meistgehassten** Bösewicht der Filmgeschichte"], ["Das **verhasste** Rivalenteam verlor schließlich das Meisterschaftsspiel", "Ihre **verhassten** Hausarbeiten warteten immer bis zur letzten Minute"]]
+  },
+  {
+    "lemma": "hateful",
+    "meanings_de": ["voller Hass", "äußerst unangenehm"],
+    "definitions_de": ["Hass gegen jemanden oder etwas erregend, verdienend oder erfüllt von Hass", "äußerst unangenehm, beleidigend oder in Natur oder Wirkung abstoßend"],
+    "examples_de": [["Seine **hasserfüllten** Kommentare verletzten alle im Raum zutiefst", "Die **hasserfüllten** Graffiti wurden schnell vom Gebäude entfernt"], ["Das **abscheuliche** Wetter ruinierte unsere Urlaubspläne vollständig", "Sie fand die langweilige Arbeit **verhasst** und suchte eine neue Anstellung"]]
+  },
+  {
+    "lemma": "haughty",
+    "meanings_de": ["arrogant überlegen"],
+    "definitions_de": ["arrogant überlegen und herablassend, eine Haltung der Überlegenheit gegenüber anderen zeigend"],
+    "examples_de": [["Ihre **hochmütige** Art entfremdete potenzielle Freunde in der Schule", "Der **hochnäsige** Aristokrat weigerte sich, mit gewöhnlichen Menschen zu sprechen"], ["Sein **überheblicher** Gesichtsausdruck zeigte Verachtung für ihre Vorschläge", "Der **arrogante** Ton des Briefes beleidigte seine Empfänger"]]
+  },
+  {
+    "lemma": "haunted",
+    "meanings_de": ["von Geistern bewohnt", "anhaltend gequält"],
+    "definitions_de": ["nach Glauben von Geistern oder übernatürlichen Wesen bewohnt oder besucht", "Anzeichen von seelischer Qual zeigend oder von anhaltenden verstörenden Erinnerungen gequält"],
+    "examples_de": [["Das alte **Spukschloss** zog jährlich nervenkitzelsuchende Touristen an", "Lokale Legenden behaupten, der **verwunschene** Friedhof beherberge ruhelose Geister"], ["Seine **gequälten** Augen verrieten Jahre des Kriegstraumas", "Sie fühlte sich von den schlechten Entscheidungen ihrer Vergangenheit **verfolgt**"]]
+  }
+]

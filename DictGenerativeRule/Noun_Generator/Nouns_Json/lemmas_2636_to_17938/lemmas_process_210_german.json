@@ -1,0 +1,284 @@
+[
+  {
+    "lemma": "shopkeeper",
+    "meanings_de": ["Ladenbesitzer"],
+    "definitions_de": ["Person, die einen kleinen Einzelhandelsladen besitzt oder führt"],
+    "examples_de": [["Der freundliche **Ladenbesitzer** empfahl mehrere regionale Produkte", "Unser **Geschäftsinhaber** im Viertel führt den Laden schon seit dreißig Jahren"]]
+  },
+  {
+    "lemma": "shoplifting",
+    "meanings_de": ["Ladendiebstahl"],
+    "definitions_de": ["Straftat des Stehlens von Waren aus einem Geschäft, während man vorgibt, Kunde zu sein"],
+    "examples_de": [["Überwachungskameras wurden installiert, um **Ladendiebstahl** zu verhindern", "Der Jugendliche wurde beim **Ladendiebstahl** von Süßigkeiten im Kiosk erwischt"]]
+  },
+  {
+    "lemma": "shopper",
+    "meanings_de": ["Käufer"],
+    "definitions_de": ["Person, die Geschäfte besucht, um Waren anzusehen oder zu kaufen"],
+    "examples_de": [["Die **Käufer** drängten sich zur Weihnachtszeit im Einkaufszentrum", "Die **Kundin** verglich sorgfältig die Preise vor dem Kauf"]]
+  },
+  {
+    "lemma": "shoreline",
+    "meanings_de": ["Uferlinie"],
+    "definitions_de": ["Grenzlinie, an der Land auf ein Gewässer wie Meer oder See trifft"],
+    "examples_de": [["Die Wellen schlugen während des Sturms gegen die felsige **Uferlinie**", "Wir spazierten an der **Küstenlinie** entlang und sammelten interessante Muscheln"]]
+  },
+  {
+    "lemma": "shortcoming",
+    "meanings_de": ["Mangel oder Schwäche"],
+    "definitions_de": ["Fehler oder Versäumnis, einen bestimmten Standard oder eine Erwartung zu erfüllen"],
+    "examples_de": [["Der Bericht hob mehrere **Schwächen** des Vorschlags hervor", "Trotz seiner **Mängel** blieb er ein wertvolles Teammitglied"]]
+  },
+  {
+    "lemma": "shortcut",
+    "meanings_de": ["kürzerer Weg", "zeitsparende Methode"],
+    "definitions_de": ["Weg, der kürzer ist als die übliche Route zwischen Orten", "Methode, die Zeit oder Aufwand beim Erreichen eines Ziels spart"],
+    "examples_de": [["Wir nahmen eine **Abkürzung** durch den Park zur Schule", "Die schmale Gasse bot einen praktischen **Schleichweg** in die Innenstadt"], ["Das Erlernen von **Tastenkombinationen** steigerte ihre Produktivität erheblich", "Es gibt keine **Abkürzungen** beim Erlernen eines Musikinstruments"]]
+  },
+  {
+    "lemma": "shortening",
+    "meanings_de": ["Backfett", "Verkürzungsprozess"],
+    "definitions_de": ["festes Fett, das beim Backen verwendet wird, um Gebäck zart und blättrig zu machen", "Vorgang des Kürzerwerdens in Länge oder Dauer"],
+    "examples_de": [["Das Rezept verlangt Butter statt pflanzliches **Backfett**", "Geben Sie **Pflanzenfett** zur Mehlmischung, bis sie krümelig wird"], ["Die **Verkürzung** der Tageslichtstunden kündigt den Herbst an", "Budgetkürzungen führten zur **Verkürzung** der Konferenz"]]
+  },
+  {
+    "lemma": "shortfall",
+    "meanings_de": ["Defizit oder Fehlbetrag"],
+    "definitions_de": ["Betrag, um den etwas hinter dem Erforderlichen oder Erwarteten zurückbleibt"],
+    "examples_de": [["Das Unternehmen verzeichnete dieses Quartal einen erheblichen **Umsatzrückgang**", "Ein **Spendendefizit** bedrohte die Programme der Wohltätigkeitsorganisation"]]
+  },
+  {
+    "lemma": "shorthand",
+    "meanings_de": ["Stenografie", "Kurzbezeichnung"],
+    "definitions_de": ["Methode des schnellen Schreibens mit Symbolen und Abkürzungen für Wörter", "verkürzte Art, etwas auszudrücken oder darauf zu verweisen"],
+    "examples_de": [["Die Sekretärin machte sich Notizen in **Stenografie**", "Gerichtsreporter müssen **Kurzschrift** beherrschen, um Aussagen aufzuzeichnen"], ["Der Begriff wurde zur **Kurzbezeichnung** für jedes technische Versagen", "Die Verwendung von Akronymen ist eine gängige **Abkürzung** beim Texten"]]
+  },
+  {
+    "lemma": "shortlist",
+    "meanings_de": ["engere Auswahl"],
+    "definitions_de": ["Liste ausgewählter Kandidaten oder Objekte, die aus einer größeren Gruppe ausgewählt wurden"],
+    "examples_de": [["Drei Bewerber schafften es in die **engere Auswahl** für die Stelle", "Der Roman erschien auf der **Shortlist** des Preiskomitees"]]
+  },
+  {
+    "lemma": "shortstop",
+    "meanings_de": ["Baseball-Verteidigungsposition"],
+    "definitions_de": ["Baseballspieler, der im Innenfeld zwischen zweiter und dritter Base positioniert ist"],
+    "examples_de": [["Der **Shortstop** machte einen spektakulären Hechtsprung", "Sie spielte während ihrer College-Zeit als **Shortstop**"]]
+  },
+  {
+    "lemma": "shotgun",
+    "meanings_de": ["Schrotflinte"],
+    "definitions_de": ["Gewehr mit langem, glattem Lauf zum Verschießen von Patronen mit kleinen Schrotkugeln"],
+    "examples_de": [["Jäger verwenden oft eine **Schrotflinte** für die Vogeljagd", "Der Bauer hielt eine **Flinte** zum Schutz vor Raubtieren bereit"]]
+  },
+  {
+    "lemma": "shouting",
+    "meanings_de": ["lautes Rufen"],
+    "definitions_de": ["Akt des sehr lauten Sprechens oder Rufens, oft aus Wut oder Aufregung"],
+    "examples_de": [["Das **Geschrei** aus dem Stadion war noch Blocks entfernt zu hören", "Ihr Streit eskalierte zu wütendem **Gebrüll**"]]
+  },
+  {
+    "lemma": "shovel",
+    "meanings_de": ["Schaufel"],
+    "definitions_de": ["Werkzeug mit breitem Blatt und Griff zum Graben oder Bewegen von losem Material"],
+    "examples_de": [["Er benutzte eine **Schaufel**, um Schnee von der Einfahrt zu räumen", "Die Gärtnerin griff nach ihrer **Schippe**, um Bäume zu pflanzen"]]
+  },
+  {
+    "lemma": "showboat",
+    "meanings_de": ["Theaterschiff", "Angeber"],
+    "definitions_de": ["Flussschiff mit Theater für Aufführungen während der Fahrt auf Wasserwegen", "Person, die durch auffälliges Verhalten Aufmerksamkeit erregen will"],
+    "examples_de": [["Das historische **Theaterschiff** bot Dinner-Kreuzfahrten mit Unterhaltung", "Mark Twain schrieb über **Showboote** auf dem Mississippi"], ["Der Spieler wurde dafür kritisiert, ein **Angeber** auf dem Feld zu sein", "Seine **Selbstdarstellung** nervte seine bescheideneren Teamkollegen"]]
+  },
+  {
+    "lemma": "showcase",
+    "meanings_de": ["Vitrine", "Präsentation"],
+    "definitions_de": ["Glasvitrine oder -schrank zur Ausstellung wertvoller oder interessanter Gegenstände", "Veranstaltung zur Präsentation von Fähigkeiten oder besten Eigenschaften"],
+    "examples_de": [["Die **Vitrine** des Museums enthielt seltene antike Artefakte", "Sie ordnete ihre Trophäen sorgfältig in der **Schauvitrine** an"], ["Das Konzert diente als **Bühne** für lokale Talente", "Die Tech-Konferenz war eine **Präsentation** innovativer Start-ups"]]
+  },
+  {
+    "lemma": "showdown",
+    "meanings_de": ["finale Konfrontation"],
+    "definitions_de": ["endgültige Auseinandersetzung zur Beilegung eines Streits oder einer Rivalität"],
+    "examples_de": [["Das Meisterschaftsspiel war ein **Showdown** zwischen Rivalen", "Die Debatte wurde zum politischen **Kräftemessen** über die Gesundheitspolitik"]]
+  },
+  {
+    "lemma": "showgirl",
+    "meanings_de": ["Revuetänzerin"],
+    "definitions_de": ["Tänzerin, die in aufwendigen Kostümen als Teil einer Theatershow auftritt"],
+    "examples_de": [["Die **Revuetänzerin** trug auf der Bühne einen aufwendigen Federkopfschmuck", "Sie arbeitete jahrelang als **Showgirl** in Las Vegas"]]
+  },
+  {
+    "lemma": "showing",
+    "meanings_de": ["Vorführung", "Leistung"],
+    "definitions_de": ["Akt des Zeigens von etwas zur Betrachtung oder Prüfung", "Qualität der Leistung oder Beweis von Fähigkeiten in einer bestimmten Situation"],
+    "examples_de": [["Die Galerie kündigte eine **Ausstellung** zeitgenössischer Skulpturen an", "Wir besuchten eine private **Vorführung** der neuen Kollektion"], ["Das Team zeigte eine starke **Leistung** im Turnier", "Ihr schwaches **Abschneiden** im Vorstellungsgespräch kostete sie den Job"]]
+  },
+  {
+    "lemma": "showman",
+    "meanings_de": ["Schausteller"],
+    "definitions_de": ["Person, die beruflich Shows mit theatralischem Flair produziert oder präsentiert"],
+    "examples_de": [["Der **Zirkusdirektor** kündigte jede Nummer mit Begeisterung an", "P.T. Barnum war vielleicht Amerikas berühmtester **Schausteller**"]]
+  },
+  {
+    "lemma": "showmanship",
+    "meanings_de": ["Bühnenkunst"],
+    "definitions_de": ["Fähigkeit zur dramatischen Präsentation mit Stil, um das Publikum zu beeindrucken"],
+    "examples_de": [["Die **Bühnenkunst** des Zauberers fesselte das gesamte Publikum", "Ihre natürliche **Präsentationsgabe** machte jeden Vortrag unvergesslich"]]
+  },
+  {
+    "lemma": "showpiece",
+    "meanings_de": ["Prunkstück"],
+    "definitions_de": ["herausragendes Beispiel von etwas, das zur Beeindruckung präsentiert wird"],
+    "examples_de": [["Der restaurierte Oldtimer war das **Prunkstück** seiner Sammlung", "Das neue Krankenhaus wurde zum **Vorzeigeobjekt** moderner Gesundheitsarchitektur"]]
+  },
+  {
+    "lemma": "showroom",
+    "meanings_de": ["Ausstellungsraum"],
+    "definitions_de": ["großer Raum, in dem Waren zur Begutachtung vor dem Kauf ausgestellt werden"],
+    "examples_de": [["Der **Ausstellungsraum** des Autohauses präsentierte die neuesten Modelle", "Kunden stöberten im geräumigen **Showroom** nach Möbeln"]]
+  },
+  {
+    "lemma": "showstopper",
+    "meanings_de": ["Höhepunkt der Show", "großes Hindernis"],
+    "definitions_de": ["Darbietung, die so beeindruckend ist, dass sie anhaltenden Applaus erhält", "Problem, das den Fortschritt oder Abschluss von etwas verhindert"],
+    "examples_de": [["Ihr Solo war der **Höhepunkt** des Musicals", "Das akrobatische Finale war ein echter **Knaller**"], ["Das Budgetdefizit wurde zum **Hindernis** für das Projekt", "Ein kritischer Fehler war ein **Showstopper** für die Software-Veröffentlichung"]]
+  },
+  {
+    "lemma": "showtime",
+    "meanings_de": ["Vorstellungsbeginn"],
+    "definitions_de": ["geplante Zeit, zu der eine Aufführung oder ein Film im Theater beginnt"],
+    "examples_de": [["Wir müssen uns beeilen, denn **Vorstellungsbeginn** ist um acht", "Das Kino veröffentlicht die **Spielzeiten** auf seiner Website"]]
+  },
+  {
+    "lemma": "shrapnel",
+    "meanings_de": ["Schrapnell"],
+    "definitions_de": ["kleine Metallstücke, die sich von einer explodierenden Bombe oder Granate verteilen"],
+    "examples_de": [["Ärzte entfernten **Schrapnelle** aus den Wunden des Soldaten", "Die Explosion schleuderte **Splitter** in alle Richtungen"]]
+  },
+  {
+    "lemma": "shred",
+    "meanings_de": ["kleiner Fetzen", "winzige Menge"],
+    "definitions_de": ["schmaler Streifen oder Stück, das von etwas abgerissen oder geschnitten wurde", "sehr kleine Menge von etwas Abstraktem wie Beweisen"],
+    "examples_de": [["Sie zerriss den Brief in **Fetzen** und warf ihn weg", "Die Maschine verwandelt Dokumente in winzige **Schnipsel**"], ["Es gab nicht einen **Funken** Beweis gegen ihn", "Er besitzt keinen **Hauch** von Mitgefühl"]]
+  },
+  {
+    "lemma": "shredder",
+    "meanings_de": ["Aktenvernichter"],
+    "definitions_de": ["Maschine, die Papier aus Sicherheitsgründen in dünne Streifen oder kleine Stücke schneidet"],
+    "examples_de": [["Der **Aktenvernichter** im Büro hatte sich mit zu vielen Papieren verklemmt", "Sie führte die vertraulichen Dokumente durch den **Schredder**"]]
+  },
+  {
+    "lemma": "shrew",
+    "meanings_de": ["Spitzmaus", "zänkische Frau"],
+    "definitions_de": ["kleines insektenfressendes Säugetier mit langer spitzer Schnauze und winzigen Augen", "Frau, die als unangenehm und streitsüchtig angesehen wird"],
+    "examples_de": [["Die winzige **Spitzmaus** huschte durch das Unterholz im Garten", "**Spitzmäuse** müssen aufgrund ihres hohen Stoffwechsels ständig fressen"], ["Shakespeares Stück zeigt Katharina als die **Widerspenstige**", "Die alten Geschichten stellten sie unfairerweise als **Xanthippe** dar"]]
+  },
+  {
+    "lemma": "shriek",
+    "meanings_de": ["durchdringender Schrei"],
+    "definitions_de": ["hoher Schrei, der Angst, Aufregung oder Schmerz ausdrückt"],
+    "examples_de": [["Ein **Schreckensschrei** kam aus dem Spukhaus", "Die **Freudenschreie** der Kinder erfüllten den Spielplatz"]]
+  },
+  {
+    "lemma": "shrimp",
+    "meanings_de": ["Garnele", "kleine Person"],
+    "definitions_de": ["kleines Meereskrebstier mit langem Schwanz und vielen Beinen, oft als Nahrung", "Person, die kleiner als der Durchschnitt ist, besonders in der Größe"],
+    "examples_de": [["Das Restaurant serviert frische **Garnelen** mit Cocktailsauce", "Wir fingen **Krabben** mit Netzen im flachen Wasser"], ["Nenn ihn nicht **Zwerg**, nur weil er klein ist", "Der **Winzling** im Team bewies, dass Größe nicht alles ist"]]
+  },
+  {
+    "lemma": "shrine",
+    "meanings_de": ["Heiligtum"],
+    "definitions_de": ["heiliger Ort, der einer bestimmten Gottheit, einem Heiligen oder religiösen Zweck gewidmet ist"],
+    "examples_de": [["Pilger besuchten das alte **Heiligtum**, um für Heilung zu beten", "Sie schuf einen kleinen **Schrein** in ihrem Garten"]]
+  },
+  {
+    "lemma": "shrinkage",
+    "meanings_de": ["Schrumpfung", "Warenschwund"],
+    "definitions_de": ["Prozess des Kleinerwerdens, besonders durch Waschen oder Trocknen", "Warenverlust im Einzelhandel durch Diebstahl, Beschädigung oder Buchungsfehler"],
+    "examples_de": [["Der Pullover zeigte nach dem Waschen erhebliche **Schrumpfung**", "Kalkulieren Sie **Einlaufen** beim Zuschneiden von Stoff ein"], ["Der Filialleiter verfolgte monatlich die **Schwundquoten**", "Mitarbeiterdiebstahl trug zum **Warenschwund** bei"]]
+  },
+  {
+    "lemma": "shrinking",
+    "meanings_de": ["Schrumpfungsprozess"],
+    "definitions_de": ["Prozess der Abnahme in Größe, Menge oder Bedeutung"],
+    "examples_de": [["Die **schrumpfenden** Eiskappen beunruhigen Klimaforscher", "Budgetkürzungen führten zu **sinkenden** Klassengrößen"]]
+  },
+  {
+    "lemma": "shroud",
+    "meanings_de": ["Leichentuch", "verhüllende Decke"],
+    "definitions_de": ["Tuch zum Einwickeln eines Leichnams für die Bestattung", "etwas, das wie ein Schleier bedeckt oder verhüllt"],
+    "examples_de": [["Das antike **Leichentuch** wurde sorgfältig im Museum aufbewahrt", "Sie wickelten den Körper in ein weißes **Totenhemd**"], ["Morgennebel legte einen **Schleier** über das Tal", "Ein **Mantel** der Geheimhaltung umgab die Verhandlungen"]]
+  },
+  {
+    "lemma": "shrub",
+    "meanings_de": ["Strauch"],
+    "definitions_de": ["holzige Pflanze kleiner als ein Baum mit mehreren Stämmen von der Basis"],
+    "examples_de": [["Sie pflanzte blühende **Sträucher** entlang der Gartengrenze", "Die Vögel nisteten im dichten **Busch**"]]
+  },
+  {
+    "lemma": "shrubbery",
+    "meanings_de": ["Gebüsch"],
+    "definitions_de": ["mit Sträuchern bepflanzter Bereich oder Ansammlung von Sträuchern"],
+    "examples_de": [["Der Landschaftsgärtner gestaltete attraktives **Gebüsch** um das Gebäude", "Kinder spielten Verstecken im **Buschwerk**"]]
+  },
+  {
+    "lemma": "shudder",
+    "meanings_de": ["Schauder"],
+    "definitions_de": ["plötzliche zitternde Bewegung des Körpers aus Angst, Kälte oder Ekel"],
+    "examples_de": [["Ein **Schauder** durchlief sie bei der gruseligen Szene", "Das alte Haus erzitterte im starken Wind"]]
+  },
+  {
+    "lemma": "shuffle",
+    "meanings_de": ["schlurfender Gang", "Kartenmischen"],
+    "definitions_de": ["langsamer, schleppender Gang ohne die Füße richtig vom Boden zu heben", "Akt des Mischens von Spielkarten in zufällige Reihenfolge vor dem Austeilen"],
+    "examples_de": [["Sein müdes **Schlurfen** zeigte seine Erschöpfung", "Das **Schlurfen** des alten Mannes war langsam, aber stetig"], ["Mischen Sie das Deck gut durch vor dem Austeilen", "Das **Mischen** des Dealers war schnell und professionell"]]
+  },
+  {
+    "lemma": "shuffling",
+    "meanings_de": ["Schlurfen"],
+    "definitions_de": ["Akt des Gehens ohne die Füße zu heben oder des Umordnens von Dingen"],
+    "examples_de": [["Das **Rascheln** von Papieren erfüllte das stille Büro", "Sein ständiges **Scharren** störte die anderen Bibliotheksbesucher"]]
+  },
+  {
+    "lemma": "shunning",
+    "meanings_de": ["soziale Ächtung"],
+    "definitions_de": ["Praxis des bewussten Meidens oder Ablehnens einer Person als Strafe oder Missbilligung"],
+    "examples_de": [["Die **Ächtung** der Familie durch die Gemeinde war eine harte Strafe", "Soziale **Ausgrenzung** kann ernsthafte psychische Schäden verursachen"]]
+  },
+  {
+    "lemma": "shunt",
+    "meanings_de": ["Weiche", "medizinischer Shunt"],
+    "definitions_de": ["Gleisanordnung zum Verschieben von Zügen zwischen Gleisen", "medizinischer Schlauch zum Ableiten von Flüssigkeit oder Umleiten des Blutflusses"],
+    "examples_de": [["Die Güterwagen warteten auf dem **Abstellgleis**", "Arbeiter bedienten die **Weiche**, um den Zug umzuleiten"], ["Der Arzt setzte einen **Shunt** ein, um den Hirndruck zu entlasten", "Der **Drainageschlauch** half, überschüssige Flüssigkeit effektiv abzuleiten"]]
+  },
+  {
+    "lemma": "shutdown",
+    "meanings_de": ["Stilllegung"],
+    "definitions_de": ["vorübergehende oder dauerhafte Schließung einer Fabrik, eines Unternehmens oder Systems"],
+    "examples_de": [["Der **Regierungsstillstand** betraf Tausende von Arbeitnehmern", "Ein technisches Problem verursachte eine komplette **Systemabschaltung**"]]
+  },
+  {
+    "lemma": "shutout",
+    "meanings_de": ["Zu-Null-Spiel"],
+    "definitions_de": ["Spiel, bei dem eine Mannschaft den Gegner daran hindert, Punkte zu erzielen"],
+    "examples_de": [["Der Pitcher warf ein **Shutout** gegen das Rivalenteam", "Ihre Verteidigung erreichte drei **Zu-Null-Siege** in Folge"]]
+  },
+  {
+    "lemma": "shutter",
+    "meanings_de": ["Fensterladen", "Kameraverschluss"],
+    "definitions_de": ["klappbare Abdeckung für ein Fenster zur Sicherheit oder Lichtkontrolle", "Vorrichtung in einer Kamera, die sich kurz öffnet, um Licht auf den Film zu lassen"],
+    "examples_de": [["Sie schloss die hölzernen **Fensterläden** gegen den Sturm", "Das Haus hatte dekorative **Klappläden** an jedem Fenster"], ["Der **Verschluss** der Kamera klickte während des Fotoshootings schnell", "Passen Sie die **Verschlusszeit** für bessere Actionaufnahmen an"]]
+  },
+  {
+    "lemma": "shutting",
+    "meanings_de": ["Schließen"],
+    "definitions_de": ["Akt des Schließens von etwas wie einer Tür, einem Fenster oder einem Geschäft"],
+    "examples_de": [["Die **Schließung** der Fabrik verwüstete die lokale Wirtschaft", "Wir hörten das **Zuschlagen** von Türen im ganzen Gebäude"]]
+  },
+  {
+    "lemma": "siamese",
+    "meanings_de": ["Siamkatze", "siamesische Zwillinge"],
+    "definitions_de": ["Katzenrasse mit hellem Fell und dunkleren Gesicht, Ohren, Pfoten und Schwanz", "bezogen auf bei der Geburt verbundene Zwillinge, die Körperteile teilen"],
+    "examples_de": [["Ihre **Siamkatze** hatte leuchtend blaue Augen", "**Siamkatzen** sind dafür bekannt, sehr gesprächig zu sein"], ["Die Ärzte trennten erfolgreich die **siamesischen Zwillinge**", "Der Begriff **siamesische Zwillinge** stammt aus historischen Fällen"]]
+  }
+]

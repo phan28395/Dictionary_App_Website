@@ -1,0 +1,296 @@
+[
+  {
+    "lemma": "parley",
+    "meanings_de": ["Verhandlungsgespräch"],
+    "definitions_de": ["Ein Gespräch zwischen Feinden oder gegnerischen Parteien, insbesondere um Bedingungen für eine Waffenruhe oder Einstellung der Kampfhandlungen zu vereinbaren"],
+    "examples_de": [["Die Generäle forderten eine **Unterredung** zur Besprechung der Kapitulationsbedingungen", "Nach stundenlangen **Verhandlungen** einigten sich beide Seiten auf einen Waffenstillstand"]]
+  },
+  {
+    "lemma": "parliamentarian",
+    "meanings_de": ["Parlamentsmitglied", "Verfahrensexperte"],
+    "definitions_de": ["Ein Mitglied eines Parlaments, insbesondere jemand, der sich mit dessen Verfahrensregeln gut auskennt", "Ein Experte für parlamentarische Verfahren und Regeln formeller Versammlungen"],
+    "examples_de": [["Die **Parlamentarierin** vertrat ihren Wahlkreis über zwanzig Jahre lang", "Mehrere **Abgeordnete** sprachen sich gegen den Gesetzesvorschlag aus"], ["Wir konsultierten den **Parlamentsexperten** bezüglich des korrekten Abstimmungsverfahrens", "Die Organisation stellte einen **Verfahrensberater** ein, um einen reibungslosen Sitzungsablauf zu gewährleisten"]]
+  },
+  {
+    "lemma": "parlor",
+    "meanings_de": ["Empfangszimmer", "Geschäftsbetrieb"],
+    "definitions_de": ["Ein Zimmer im Haus zum Empfang und zur Unterhaltung von Gästen", "Ein Geschäft oder Betrieb, der bestimmte Waren oder Dienstleistungen anbietet"],
+    "examples_de": [["Das **Wohnzimmer** der Großmutter war voller antiker Möbel und Familienfotos", "Nach dem Abendessen versammelten wir uns im **Salon** zur Unterhaltung"], ["Sie eröffnete letztes Jahr einen **Schönheitssalon** in der Hauptstraße", "Die **Eisdiele** serviert jeden Sommer hausgemachte Sorten"]]
+  },
+  {
+    "lemma": "parlour",
+    "meanings_de": ["Empfangszimmer", "Geschäftsbetrieb"],
+    "definitions_de": ["Ein Zimmer im Haus zum Empfang und zur Unterhaltung von Gästen", "Ein Geschäft oder Betrieb, der bestimmte Waren oder Dienstleistungen anbietet"],
+    "examples_de": [["Der viktorianische **Salon** hatte schwere Vorhänge und verzierte Tapeten", "Jeden Nachmittag wurde Tee im **Empfangszimmer** serviert"], ["Das **Bestattungsinstitut** erledigte alle Arrangements mit Würde", "Sie besuchte das **Tattoostudio**, um sich ihr erstes Motiv stechen zu lassen"]]
+  },
+  {
+    "lemma": "parody",
+    "meanings_de": ["humorvolle Nachahmung"],
+    "definitions_de": ["Eine humorvolle oder satirische Nachahmung eines ernsten Werks, Stils oder einer Person"],
+    "examples_de": [["Die Comedy-Show zeigte eine brillante **Parodie** der Präsidentschaftsdebatte", "Seine **Persiflage** auf Shakespeare brachte das ganze Publikum zum Lachen"]]
+  },
+  {
+    "lemma": "parole",
+    "meanings_de": ["bedingte Entlassung", "Bewährungsstatus"],
+    "definitions_de": ["Die Entlassung eines Gefangenen vor Ablauf der Strafe unter der Bedingung guten Verhaltens", "Der Status eines Gefangenen, der unter Auflagen aus der Haft entlassen wurde"],
+    "examples_de": [["Er erhielt **Bewährung** nach fünf Jahren seiner Haftstrafe", "Die **Bewährungskommission** tagt monatlich zur Prüfung berechtigter Fälle"], ["Sie blieb zwei Jahre nach ihrer Entlassung auf **Bewährung**", "Ein Verstoß gegen die **Bewährungsauflagen** könnte zur Rückkehr ins Gefängnis führen"]]
+  },
+  {
+    "lemma": "parquet",
+    "meanings_de": ["Parkettboden"],
+    "definitions_de": ["Ein Bodenbelag aus Holzblöcken, die in einem geometrischen Muster angeordnet sind"],
+    "examples_de": [["Das **Parkett** des Ballsaals glänzte unter den Kronleuchtern", "Sie restaurierten den originalen **Parkettboden** in der historischen Villa"]]
+  },
+  {
+    "lemma": "parrot",
+    "meanings_de": ["tropischer Vogel", "gedankenloser Nachplapperer"],
+    "definitions_de": ["Ein tropischer Vogel mit buntem Gefieder und gebogenem Schnabel, oft als Haustier gehalten", "Eine Person, die Worte oder Ideen wiederholt, ohne sie zu verstehen"],
+    "examples_de": [["Der grüne **Papagei** lernte über fünfzig verschiedene Sätze zu sagen", "Wilde **Papageien** erfüllten den Regenwald mit ihren lauten Rufen"], ["Sei kein **Nachplapperer**, der nur wiederholt, was andere sagen", "Er war lediglich ein **Papagei** der Theorien seines Professors"]]
+  },
+  {
+    "lemma": "parry",
+    "meanings_de": ["Abwehrbewegung"],
+    "definitions_de": ["Eine defensive Bewegung beim Fechten oder Kämpfen, um einen Schlag oder Stoß abzuwehren"],
+    "examples_de": [["Die schnelle **Parade** der Fechterin wehrte den Angriff ihrer Gegnerin ab", "Er lernte in seinem Schwertkampfunterricht zu **parieren** und zuzustoßen"]]
+  },
+  {
+    "lemma": "parser",
+    "meanings_de": ["Analyseprogramm"],
+    "definitions_de": ["Ein Computerprogramm, das Text oder Code gemäß formalen Grammatikregeln analysiert"],
+    "examples_de": [["Der **Parser** identifizierte Syntaxfehler im Programmcode", "Wir brauchen einen besseren **Syntaxanalysator** zur Verarbeitung dieser komplexen Dateien"]]
+  },
+  {
+    "lemma": "parsimony",
+    "meanings_de": ["extreme Sparsamkeit"],
+    "definitions_de": ["Extreme Abneigung, Geld auszugeben oder Ressourcen zu nutzen; übertriebene Sparsamkeit oder Geiz"],
+    "examples_de": [["Seine **Knausrigkeit** bedeutete, dass dem Forschungsprojekt wichtige Ausrüstung fehlte", "Die **Sparsamkeit** des Unternehmens bei Mitarbeiterleistungen schadete der Arbeitsmoral"]]
+  },
+  {
+    "lemma": "parsley",
+    "meanings_de": ["Kräuterpflanze"],
+    "definitions_de": ["Ein Gartenkraut mit krausen oder glatten Blättern, das zum Würzen und Garnieren von Speisen verwendet wird"],
+    "examples_de": [["Sie streute frische **Petersilie** über die Pasta vor dem Servieren", "Das Rezept verlangt zwei Esslöffel gehackte **Petersilie**"]]
+  },
+  {
+    "lemma": "parson",
+    "meanings_de": ["Kirchenpfarrer"],
+    "definitions_de": ["Ein Mitglied des Klerus, insbesondere ein protestantischer Geistlicher, der für eine Gemeinde verantwortlich ist"],
+    "examples_de": [["Der **Pfarrer** hielt eine bewegende Predigt über Vergebung", "Unser Dorf**pastor** dient der Gemeinde seit dreißig Jahren"]]
+  },
+  {
+    "lemma": "parsonage",
+    "meanings_de": ["Pfarrhaus"],
+    "definitions_de": ["Ein von der Kirche zur Verfügung gestelltes Haus, in dem der Pfarrer oder Pastor wohnt"],
+    "examples_de": [["Das alte **Pfarrhaus** stand neben der Dorfkirche", "Sie renovierten das **Pastorat**, bevor der neue Geistliche eintraf"]]
+  },
+  {
+    "lemma": "partiality",
+    "meanings_de": ["unfaire Bevorzugung"],
+    "definitions_de": ["Unfaire Voreingenommenheit zugunsten einer Person oder Sache gegenüber einer anderen; Mangel an Unparteilichkeit"],
+    "examples_de": [["Die **Parteilichkeit** des Richters gegenüber dem Angeklagten warf Fragen zur Fairness auf", "Ihre **Vorliebe** für Schokoladendesserts war allgemein bekannt"]]
+  },
+  {
+    "lemma": "participle",
+    "meanings_de": ["Verbform"],
+    "definitions_de": ["Ein vom Verb abgeleitetes Wort, das als Adjektiv oder Teil einer Zeitform fungieren kann"],
+    "examples_de": [["In 'das fließende Wasser' ist 'fließend' ein **Partizip** Präsens", "**Partizipien** der Vergangenheit wie 'gebrochen' können Substantive beschreiben oder Perfektformen bilden"]]
+  },
+  {
+    "lemma": "particularity",
+    "meanings_de": ["spezifisches Detail", "besondere Eigenschaft"],
+    "definitions_de": ["Die Eigenschaft, individuell oder besonders zu sein; Aufmerksamkeit für Details", "Ein charakteristisches oder einzigartiges Merkmal von etwas"],
+    "examples_de": [["Sie beschrieb die Szene mit großer **Genauigkeit**", "Der Anwalt bestand auf **Detailgenauigkeit** beim Verfassen des Vertrags"], ["Jede Region hat ihre eigenen **Besonderheiten** in Dialekt und Brauch", "Die **Eigenart** seines Schreibstils machte ihn sofort erkennbar"]]
+  },
+  {
+    "lemma": "particulate",
+    "meanings_de": ["winziges Teilchen"],
+    "definitions_de": ["Ein winziges Teilchen fester oder flüssiger Materie, das in Luft oder einem anderen Medium schwebt"],
+    "examples_de": [["Der Luftfilter entfernt **Feinstaub** aus dem Belüftungssystem", "Hohe **Feinstaubwerte** in Städten tragen zu Atemwegsproblemen bei"]]
+  },
+  {
+    "lemma": "parting",
+    "meanings_de": ["Trennungsakt", "Scheitel"],
+    "definitions_de": ["Die Handlung des Verlassens oder Getrenntwerdens von jemandem", "Eine Linie, an der das Haar in verschiedene Richtungen gekämmt wird"],
+    "examples_de": [["Ihr emotionaler **Abschied** am Flughafen brachte alle zum Weinen", "Die **Trennung** war nach Jahren der Meinungsverschiedenheiten unvermeidlich"], ["Sie änderte ihren **Scheitel** von der Mitte zur Seite", "Sein ordentlicher **Haarscheitel** verlieh ihm ein professionelles Aussehen"]]
+  },
+  {
+    "lemma": "partisan",
+    "meanings_de": ["starker Anhänger", "Guerillakämpfer"],
+    "definitions_de": ["Ein starker Unterstützer einer Partei, Sache oder Person, oft mit Voreingenommenheit", "Ein Mitglied einer bewaffneten Widerstandsgruppe, die gegen Besatzungstruppen kämpft"],
+    "examples_de": [["Die **parteiische** Menge jubelte wild für ihren politischen Kandidaten", "Seine **parteiischen** Ansichten hinderten ihn daran, beide Seiten zu sehen"], ["Die **Partisanen** versteckten sich während der Besatzung in den Bergen", "**Partisanen** des Zweiten Weltkriegs störten feindliche Versorgungslinien"]]
+  },
+  {
+    "lemma": "partisanship",
+    "meanings_de": ["politische Voreingenommenheit"],
+    "definitions_de": ["Starke Unterstützung für eine bestimmte Partei oder Sache, die oft eine faire Betrachtung anderer Ansichten verhindert"],
+    "examples_de": [["Extreme **Parteilichkeit** hat politische Kompromisse nahezu unmöglich gemacht", "Die Zeitung wurde für ihre offensichtliche **Parteinahme** kritisiert"]]
+  },
+  {
+    "lemma": "partition",
+    "meanings_de": ["Trennwand", "Teilungsakt"],
+    "definitions_de": ["Eine Struktur, die einen Raum in separate Bereiche unterteilt", "Die Handlung, etwas in Teile zu teilen, oder der Zustand des Geteiltseins"],
+    "examples_de": [["Sie installierten eine **Trennwand**, um aus einem Büro zwei zu machen", "Die Glas**wand** ließ Licht durch und bot gleichzeitig Privatsphäre"], ["Die **Teilung** Indiens 1947 schuf zwei Nationen", "Nach der **Aufteilung** des Vermögens erhielt jeder Erbe seinen Anteil"]]
+  },
+  {
+    "lemma": "partitioning",
+    "meanings_de": ["Teilungsprozess"],
+    "definitions_de": ["Der Akt oder Prozess, etwas in separate Teile oder Abschnitte zu unterteilen"],
+    "examples_de": [["Die **Partitionierung** der Festplatte schuf mehrere Speicherbereiche", "Die Büro**aufteilung** half, einen besser organisierten Arbeitsbereich zu schaffen"]]
+  },
+  {
+    "lemma": "partizan",
+    "meanings_de": ["starker Anhänger", "Guerillakämpfer"],
+    "definitions_de": ["Ein starker Unterstützer einer Partei, Sache oder Person, oft mit Voreingenommenheit", "Ein Mitglied einer bewaffneten Widerstandsgruppe, die gegen Besatzungstruppen kämpft"],
+    "examples_de": [["Der **Parteigänger** weigerte sich, gegensätzliche Standpunkte zu berücksichtigen", "Seine **parteiische** Loyalität zum Team schwankte nie"], ["Jugoslawische **Partisanen** kämpften gegen die Nazi-Besatzung", "Die **Partisanenbewegung** gewann in den Bergen an Stärke"]]
+  },
+  {
+    "lemma": "partridge",
+    "meanings_de": ["Jagdvogel"],
+    "definitions_de": ["Ein rundlicher Jagdvogel mit braunem Gefieder, der oft zur Jagd und als Nahrung gejagt wird"],
+    "examples_de": [["Der Jäger entdeckte ein **Rebhuhn**, das sich im Unterholz versteckte", "Gebratenes **Rebhuhn** wurde beim Erntefest serviert"]]
+  },
+  {
+    "lemma": "pascal",
+    "meanings_de": ["Druckeinheit", "Programmiersprache"],
+    "definitions_de": ["Eine Druckeinheit, die einem Newton pro Quadratmeter entspricht", "Eine Computerprogrammiersprache, die zum Unterrichten von Programmierkonzepten entwickelt wurde"],
+    "examples_de": [["Der Reifendruck wurde mit 200.000 **Pascal** gemessen", "Wetterkarten zeigen den Luftdruck in **Pascal** an"], ["Studenten lernten **Pascal**, bevor sie zu komplexeren Sprachen übergingen", "Der **Pascal**-Compiler erkannte mehrere Syntaxfehler"]]
+  },
+  {
+    "lemma": "passageway",
+    "meanings_de": ["Durchgang"],
+    "definitions_de": ["Ein Korridor oder Weg, der Bewegung zwischen verschiedenen Bereichen oder Räumen ermöglicht"],
+    "examples_de": [["Der schmale **Gang** verband die Küche mit dem Esszimmer", "Bei der Schlossrenovierung wurden geheime **Durchgänge** entdeckt"]]
+  },
+  {
+    "lemma": "passer",
+    "meanings_de": ["vorbeigehende Person"],
+    "definitions_de": ["Eine Person, die an einem Ort vorbeigeht oder durchgeht; jemand, der etwas wirft oder weitergibt"],
+    "examples_de": [["Der **Passant** hielt an, um dem verletzten Radfahrer zu helfen", "Er ist der beste **Passgeber** des Teams mit exzellenter Spielübersicht"]]
+  },
+  {
+    "lemma": "passerby",
+    "meanings_de": ["vorbeigehende Person"],
+    "definitions_de": ["Eine Person, die zufällig an etwas oder jemandem vorbeigeht"],
+    "examples_de": [["Ein hilfsbereiter **Passant** rief einen Krankenwagen für das Unfallopfer", "Mehrere **Vorübergehende** blieben stehen, um dem Straßenkünstler zuzusehen"]]
+  },
+  {
+    "lemma": "passive",
+    "meanings_de": ["grammatisches Genus"],
+    "definitions_de": ["Eine Verbform oder Konstruktion, bei der das Subjekt die Handlung empfängt"],
+    "examples_de": [["Im **Passiv** lenkt 'Der Ball wurde geworfen' die Aufmerksamkeit auf den Ball", "Lehrer erklärten, wann man Aktiv- oder **Passivkonstruktionen** verwendet"]]
+  },
+  {
+    "lemma": "passivity",
+    "meanings_de": ["inaktiver Zustand"],
+    "definitions_de": ["Der Zustand, in dem man akzeptiert oder zulässt, was geschieht, ohne aktiv zu reagieren oder Widerstand zu leisten"],
+    "examples_de": [["Seine **Passivität** angesichts der Ungerechtigkeit enttäuschte seine Freunde", "Die **Untätigkeit** des Schülers im Unterricht beunruhigte den Lehrer"]]
+  },
+  {
+    "lemma": "passport",
+    "meanings_de": ["Reisedokument"],
+    "definitions_de": ["Ein offizielles Dokument, das von einer Regierung ausgestellt wird und Identität und Staatsbürgerschaft für internationale Reisen bescheinigt"],
+    "examples_de": [["Sie erneuerte ihren **Reisepass** vor dem Auslandsurlaub", "Der Einwanderungsbeamte prüfte jeden **Pass** sorgfältig"]]
+  },
+  {
+    "lemma": "password",
+    "meanings_de": ["Sicherheitscode"],
+    "definitions_de": ["Ein geheimes Wort oder eine Phrase, die verwendet werden muss, um Zutritt oder Zugang zu etwas zu erhalten"],
+    "examples_de": [["Bitte erstellen Sie ein sicheres **Passwort** mit Buchstaben und Zahlen", "Sie vergaß ihr **Kennwort** und konnte nicht auf ihr E-Mail-Konto zugreifen"]]
+  },
+  {
+    "lemma": "pasta",
+    "meanings_de": ["italienisches Essen"],
+    "definitions_de": ["Nahrungsmittel aus Mehl, Wasser und manchmal Eiern, die in verschiedene Formen gebracht und gekocht werden"],
+    "examples_de": [["Sie kochte **Nudeln** mit Tomatensauce zum Abendessen", "Das Restaurant bietet zwölf verschiedene Arten frischer **Pasta** an"]]
+  },
+  {
+    "lemma": "paste",
+    "meanings_de": ["Klebstoff", "dicke Mischung"],
+    "definitions_de": ["Eine dicke, weiche, klebrige Substanz zum Zusammenkleben von Dingen", "Eine dicke Mischung aus gemahlenen oder zerkleinerten Zutaten"],
+    "examples_de": [["Die Kinder verwendeten **Kleister**, um Bilder auf ihre Kunstprojekte zu kleben", "Tragen Sie **Klebstoff** gleichmäßig auf beide Oberflächen auf, bevor Sie sie verbinden"], ["Sie machte eine **Paste** aus Knoblauch und Ingwer für das Curry", "Das Rezept erfordert **Tomatenmark** für zusätzlichen Geschmack"]]
+  },
+  {
+    "lemma": "pastel",
+    "meanings_de": ["Kunstmedium", "blasse Farbe"],
+    "definitions_de": ["Ein Malstift aus pulverisierten Pigmenten, die mit Gummi oder Harz gebunden sind", "Ein weicher, blasser Farbton"],
+    "examples_de": [["Die Künstlerin schuf wunderschöne Porträts mit **Pastellkreiden**", "Öl**pastelle** erzeugen lebendigere Farben als Kreide**pastelle**"], ["Sie dekorierte das Kinderzimmer in **Pastellrosa** und -blau", "**Pastellfarben** dominierten die Modekollektionen dieser Saison"]]
+  },
+  {
+    "lemma": "pasteurization",
+    "meanings_de": ["Erhitzungsverfahren"],
+    "definitions_de": ["Der Prozess des Erhitzens von Flüssigkeiten zur Zerstörung schädlicher Mikroorganismen ohne wesentliche chemische Veränderung"],
+    "examples_de": [["Die **Pasteurisierung** macht Milch sicherer zu trinken, indem sie Bakterien abtötet", "Der Saft wurde vor der Abfüllung **pasteurisiert**"]]
+  },
+  {
+    "lemma": "pastiche",
+    "meanings_de": ["künstlerische Nachahmung"],
+    "definitions_de": ["Ein Kunstwerk, das den Stil früherer Werke imitiert oder Elemente aus verschiedenen Quellen kombiniert"],
+    "examples_de": [["Der Roman war eine clevere **Stilimitation** viktorianischer Detektivliteratur", "Seine Gemälde sind ein **Pastiche** impressionistischer Techniken"]]
+  },
+  {
+    "lemma": "pastime",
+    "meanings_de": ["Freizeitbeschäftigung"],
+    "definitions_de": ["Eine Aktivität, die regelmäßig zum Vergnügen und nicht zur Arbeit ausgeführt wird; ein Hobby"],
+    "examples_de": [["Das Lesen von Krimis war ihre liebste **Freizeitbeschäftigung**", "Angeln ist seit Generationen ein beliebter **Zeitvertreib**"]]
+  },
+  {
+    "lemma": "pastoral",
+    "meanings_de": ["ländliche Szene", "Hirtenbrief"],
+    "definitions_de": ["Ein Kunstwerk, das das Landleben idealisiert darstellt", "Ein Brief eines Bischofs an den Klerus oder die Mitglieder seiner Diözese"],
+    "examples_de": [["Das Gemälde war eine **Pastorale**, die Hirten auf grünen Wiesen zeigte", "Beethovens Sechste Symphonie ist als die **Pastorale** bekannt"], ["Der Bischof veröffentlichte einen **Hirtenbrief** zu sozialen Gerechtigkeitsfragen", "Die Kirchen verlasen den **Pastoralbrief** während der Sonntagsgottesdienste"]]
+  },
+  {
+    "lemma": "pastorate",
+    "meanings_de": ["Pfarramtszeit"],
+    "definitions_de": ["Die Position, Amtszeit oder Residenz eines Pastors oder Pfarrers"],
+    "examples_de": [["Seine zwanzigjährige **Amtszeit** verwandelte die kämpfende Gemeinde", "Sie übernahm ein **Pfarramt** in einer Vorstadtkirche"]]
+  },
+  {
+    "lemma": "pastry",
+    "meanings_de": ["gebackener Teig"],
+    "definitions_de": ["Teig aus Mehl, Fett und Wasser, der als Basis oder Belag für gebackene Gerichte verwendet wird"],
+    "examples_de": [["Der Bäcker rollte **Teig** für den Apfelkuchen aus", "Blättriger **Mürbeteig** macht die besten Croissants und Teigtaschen"]]
+  },
+  {
+    "lemma": "pasturage",
+    "meanings_de": ["Weideland"],
+    "definitions_de": ["Mit Gras bedecktes Land, das zum Weiden von Tieren geeignet ist; das Recht, Tiere weiden zu lassen"],
+    "examples_de": [["Die Ranch umfasste fünfhundert Morgen erstklassiges **Weideland**", "Landwirte zahlen Gebühren für **Weiderechte** auf öffentlichem Land"]]
+  },
+  {
+    "lemma": "pasture",
+    "meanings_de": ["Weideland"],
+    "definitions_de": ["Mit Gras oder anderen Pflanzen bedecktes Land, das zum Weiden von Tieren geeignet ist"],
+    "examples_de": [["Die Kühe grasten friedlich auf der grünen **Weide**", "Sie trieben die Schafe alle paar Wochen auf frische **Weiden**"]]
+  },
+  {
+    "lemma": "pastureland",
+    "meanings_de": ["Weidefläche"],
+    "definitions_de": ["Land, das für die Beweidung von Vieh genutzt wird oder dafür geeignet ist"],
+    "examples_de": [["Der Hof bestand aus Ackerland und ausgedehntem **Weideland**", "Die Dürre verschlechterte die Qualität des verfügbaren **Weidelands** erheblich"]]
+  },
+  {
+    "lemma": "pasty",
+    "meanings_de": ["Fleischpastete"],
+    "definitions_de": ["Eine gefaltete Teigtasche mit herzhafter Füllung, typischerweise aus Cornwall, England"],
+    "examples_de": [["Die Bergleute trugen **Pasteten** als Mittagessen in die Kohleminen", "Sie kaufte eine traditionelle kornische **Pastete** beim Bäcker"]]
+  },
+  {
+    "lemma": "pat",
+    "meanings_de": ["sanfte Berührung"],
+    "definitions_de": ["Eine leichte Berührung oder ein Streicheln mit der Hand, typischerweise um Zuneigung oder Zustimmung auszudrücken"],
+    "examples_de": [["Sie gab dem Hund einen **Klaps** auf den Kopf", "Sein **Schulterklopfen** sollte ermutigend sein"]]
+  },
+  {
+    "lemma": "patching",
+    "meanings_de": ["Reparaturprozess"],
+    "definitions_de": ["Der Prozess der Reparatur von etwas durch Abdecken von Löchern oder abgenutzten Bereichen mit neuem Material"],
+    "examples_de": [["Die Straßenarbeiter verbrachten den ganzen Tag mit dem **Flicken** von Schlaglöchern", "Software-**Patches** helfen, Computer vor Sicherheitslücken zu schützen"]]
+  },
+  {
+    "lemma": "patchwork",
+    "meanings_de": ["genähter Stoff", "gemischte Sammlung"],
+    "definitions_de": ["Handarbeit aus Stoffstücken, die in einem Muster zusammengenäht sind", "Etwas, das aus verschiedenen Elementen besteht, die ein Ganzes bilden"],
+    "examples_de": [["Großmutters **Patchworkdecke** verwendete Stoff aus alter Familienkleidung", "Die **Flickendecke** zeigte komplizierte geometrische Muster"], ["Das Gesundheitssystem der Nation ist ein **Flickenteppich** aus öffentlichen und privaten Programmen", "Ihre Lösung war ein **Flickwerk** aus temporären Lösungen"]]
+  }
+]

@@ -1,0 +1,284 @@
+[
+  {
+    "lemma": "gannet",
+    "meanings_de": ["Tölpelart"],
+    "definitions_de": ["Großer weißer Seevogel mit langen Flügeln, der sich aus großer Höhe ins Meer stürzt, um Fische zu fangen"],
+    "examples_de": [["Der **Basstölpel** stürzte sich aus beeindruckender Höhe ins Wasser", "An den abgelegenen Steilküsten nisten große **Tölpel**kolonien"]]
+  },
+  {
+    "lemma": "gantry",
+    "meanings_de": ["Tragkonstruktion"],
+    "definitions_de": ["Brückenartige Überkonstruktion, die Ausrüstung wie Kräne oder Signale trägt"],
+    "examples_de": [["Die Rakete stand aufrecht neben dem **Startgerüst**", "Über den Bahngleisen tragen **Oberleitungsmasten** die Stromkabel"]]
+  },
+  {
+    "lemma": "gaol",
+    "meanings_de": ["Gefängnisgebäude"],
+    "definitions_de": ["Britische Schreibweise für Gefängnis, in dem Straftäter eingesperrt werden"],
+    "examples_de": [["Das alte **Gefängnis** dient heute als Touristenattraktion", "Aus dem viktorianischen **Kerker** entkamen gestern Nacht mehrere Häftlinge"]]
+  },
+  {
+    "lemma": "gape",
+    "meanings_de": ["weite Öffnung"],
+    "definitions_de": ["Weite Öffnung oder Zwischenraum zwischen Dingen"],
+    "examples_de": [["In der beschädigten Wand klaffte plötzlich eine riesige **Lücke**", "Der **Spalt** zwischen den Brettern ließ Regen eindringen"]]
+  },
+  {
+    "lemma": "gar",
+    "meanings_de": ["Raubfisch"],
+    "definitions_de": ["Langgestreckter Süßwasserfisch mit verlängerten, mit scharfen Zähnen besetzten Kiefern"],
+    "examples_de": [["Der **Knochenhecht** lauerte im flachen Wasser auf kleinere Fische", "Die urzeitlich aussehenden **Knochenhechte** bewohnen südliche Flüsse und Seen"]]
+  },
+  {
+    "lemma": "garb",
+    "meanings_de": ["charakteristische Kleidung"],
+    "definitions_de": ["Kleidung, besonders von charakteristischer oder besonderer Art"],
+    "examples_de": [["Die Mönche trugen traditionelle **Ordenstracht** bei Zeremonien", "Zu ihrer professionellen **Garderobe** gehörten maßgeschneiderte Anzüge und Pumps"]]
+  },
+  {
+    "lemma": "gardener",
+    "meanings_de": ["Pflanzenpfleger"],
+    "definitions_de": ["Person, die Gärten entweder beruflich oder als Hobby pflegt"],
+    "examples_de": [["Der **Gärtner** beschnitt täglich die Rosen auf dem Anwesen", "Sie stellte einen **Landschaftsgärtner** ein, um ihr Gemüsebeet zu pflegen"]]
+  },
+  {
+    "lemma": "gardenia",
+    "meanings_de": ["duftende Blume"],
+    "definitions_de": ["Immergrüner Strauch mit glänzenden Blättern und duftenden weißen oder gelben Blüten"],
+    "examples_de": [["Der süße Duft der **Gardenie** erfüllte das ganze Zimmer", "Sie trug eine frische **Gardenie** an ihrem Kleid befestigt"]]
+  },
+  {
+    "lemma": "gardening",
+    "meanings_de": ["Pflanzenpflege"],
+    "definitions_de": ["Tätigkeit der Pflege und Kultivierung eines Gartens als Zeitvertreib oder Beruf"],
+    "examples_de": [["Die **Gartenarbeit** am Wochenende hilft ihr zu entspannen und aktiv zu bleiben", "Biologische **Gartenpflege** produziert gesünderes Gemüse ohne schädliche Chemikalien"]]
+  },
+  {
+    "lemma": "gargoyle",
+    "meanings_de": ["groteske Skulptur"],
+    "definitions_de": ["Geschnitzte steinerne groteske Figur, die aus einem Gebäude herausragt und als Wasserspeier dient"],
+    "examples_de": [["Mittelalterliche **Wasserspeier** schmückten bedrohlich die Außenwände der Kathedrale", "Der **Groteskenspeier** leitete das Regenwasser vom Gebäude weg"]]
+  },
+  {
+    "lemma": "garland",
+    "meanings_de": ["dekorativer Kranz"],
+    "definitions_de": ["Kranz aus Blumen oder Blättern, der als Dekoration getragen oder aufgehängt wird"],
+    "examples_de": [["Die Braut trug eine **Girlande** aus weißen Rosen", "Weihnachtliche **Girlanden** schmückten jeden Türrahmen im Haus"]]
+  },
+  {
+    "lemma": "garment",
+    "meanings_de": ["Kleidungsstück"],
+    "definitions_de": ["Einzelnes Kleidungsstück"],
+    "examples_de": [["Jedes **Kleidungsstück** wurde vor dem Versand sorgfältig geprüft", "Die Reinigung ist auf empfindliche **Textilien** spezialisiert"]]
+  },
+  {
+    "lemma": "garnet",
+    "meanings_de": ["roter Edelstein"],
+    "definitions_de": ["Tiefroter Halbedelstein, der in Schmuck verwendet wird"],
+    "examples_de": [["Der **Granat**ring ihrer Großmutter wurde zum Familienerbstück", "Die Halskette zeigte **Granate**, umgeben von kleinen Diamanten"]]
+  },
+  {
+    "lemma": "garnish",
+    "meanings_de": ["Speisendekoration"],
+    "definitions_de": ["Dekorative Zugabe zu Speisen oder Getränken für die visuelle Anziehungskraft"],
+    "examples_de": [["Der Koch fügte jedem Teller eine Petersilien**garnierung** hinzu", "Eine Zitronen**garnitur** verschönerte das Erscheinungsbild des Cocktails"]]
+  },
+  {
+    "lemma": "garret",
+    "meanings_de": ["Dachzimmer"],
+    "definitions_de": ["Kleines Zimmer oder Apartment im obersten Stockwerk oder Dachboden"],
+    "examples_de": [["Der mittellose Künstler lebte in einer engen **Mansarde**", "Sie verwandelte die **Dachkammer** in einen gemütlichen Schreibraum"]]
+  },
+  {
+    "lemma": "garrison",
+    "meanings_de": ["Militärposten", "stationierte Truppen"],
+    "definitions_de": ["Befestigter Ort, an dem Truppen stationiert sind", "In einer Festung oder Stadt stationierte Truppen"],
+    "examples_de": [["Die **Garnison** schützte die Grenzstadt vor Eindringlingen", "Feindliche Streitkräfte umzingelten die isolierte **Festung** vollständig"], ["Die **Besatzung** zählte fünfhundert Soldaten und Hilfspersonal", "Eine kleine **Garnison** verteidigte den strategischen Gebirgspass"]]
+  },
+  {
+    "lemma": "garter",
+    "meanings_de": ["Beinband"],
+    "definitions_de": ["Band, das um das Bein getragen wird, um Strümpfe oder Socken zu halten"],
+    "examples_de": [["Die Braut trug ein blaues **Strumpfband** unter ihrem Hochzeitskleid", "Der **Hosenbandorden** ist Großbritanniens höchste Auszeichnung"]]
+  },
+  {
+    "lemma": "gash",
+    "meanings_de": ["tiefe Schnittwunde"],
+    "definitions_de": ["Lange, tiefe Schnittwunde oder Verletzung"],
+    "examples_de": [["Der Unfall hinterließ eine **Platzwunde** an seiner Stirn", "Ein **Riss** im Schiffsrumpf führte zum Untergang"]]
+  },
+  {
+    "lemma": "gasification",
+    "meanings_de": ["Umwandlungsprozess"],
+    "definitions_de": ["Prozess der Umwandlung organischer Stoffe in Gas durch hohe Temperatur bei kontrollierter Sauerstoffzufuhr"],
+    "examples_de": [["Die Kohle**vergasung** produziert effizient sauberer brennende synthetische Kraftstoffe", "Die Anlage nutzt **Vergasung**, um Abfall in Energie umzuwandeln"]]
+  },
+  {
+    "lemma": "gasket",
+    "meanings_de": ["Dichtungsring"],
+    "definitions_de": ["Geformtes Stück aus Gummi oder anderem Material, das die Verbindung zwischen Oberflächen abdichtet"],
+    "examples_de": [["Der Mechaniker ersetzte sorgfältig die defekte Zylinderkopf**dichtung**", "Eine fehlerhafte **Dichtung** führte zum Ölaustritt am Motor"]]
+  },
+  {
+    "lemma": "gaslight",
+    "meanings_de": ["Gaslampe"],
+    "definitions_de": ["Lampe, die Gas als Brennstoff verbrennt und vor der elektrischen Beleuchtung verwendet wurde"],
+    "examples_de": [["Viktorianische Straßen wurden jeden Abend durch **Gaslaternen** erhellt", "Die alten **Gasleuchten** verleihen dem Restaurant besonderen Charme"]]
+  },
+  {
+    "lemma": "gassing",
+    "meanings_de": ["Gasangriff", "leeres Gerede"],
+    "definitions_de": ["Töten oder Schädigen mit giftigem Gas", "Langes, müßiges oder prahlerisches Reden"],
+    "examples_de": [["Die **Vergasung** von Zivilisten verstieß vollständig gegen das Völkerrecht", "Die chemische Kriegsführung umfasste das **Vergasen** feindlicher Schützengräben im Ersten Weltkrieg"], ["Ihr endloses **Geschwätz** über Erfolge nervte alle Anwesenden", "Hört auf mit dem **Gequatsche** und arbeitet weiter"]]
+  },
+  {
+    "lemma": "gastroenterology",
+    "meanings_de": ["Verdauungsmedizin"],
+    "definitions_de": ["Medizinischer Fachbereich, der sich mit Erkrankungen von Magen, Darm und Verdauungssystem befasst"],
+    "examples_de": [["Sie spezialisierte sich nach dem Medizinstudium auf **Gastroenterologie**", "Die **Gastroenterologie**abteilung behandelt alle Erkrankungen des Verdauungssystems"]]
+  },
+  {
+    "lemma": "gastronomy",
+    "meanings_de": ["Kochkunst"],
+    "definitions_de": ["Kunst und Wissenschaft des guten Essens einschließlich Kochen und Essenskultur"],
+    "examples_de": [["Die französische **Gastronomie** beeinflusst die gehobene Küche weltweit", "Das Buch erforscht die Molekular**gastronomie** und moderne Kochtechniken"]]
+  },
+  {
+    "lemma": "gastropod",
+    "meanings_de": ["Weichtierart"],
+    "definitions_de": ["Klasse von Weichtieren einschließlich Schnecken und Nacktschnecken mit muskulösem Fuß zur Fortbewegung"],
+    "examples_de": [["Die **Gartenschnecke** hinterließ eine silbrige Schleimspur", "Zu den marinen **Gastropoden** gehören bunte Meeresschnecken und Schneckenhäuser"]]
+  },
+  {
+    "lemma": "gatefold",
+    "meanings_de": ["gefaltete Beilage"],
+    "definitions_de": ["Übergroße Seite, die in eine Publikation eingefaltet ist und sich ausklappen lässt"],
+    "examples_de": [["Das Magazin enthielt eine **Ausklappseite** mit dem Meisterschaftsteam", "Schallplattenhüllen mit **Klappcover** zeigen im Inneren zusätzliche Kunstwerke"]]
+  },
+  {
+    "lemma": "gatehouse",
+    "meanings_de": ["Torgebäude"],
+    "definitions_de": ["Gebäude, das ein Tor zu einer Burg, einem Anwesen oder einer Stadt umschließt oder schützt"],
+    "examples_de": [["Wachen kontrollierten die Besucher am **Torhaus** der Burg sorgfältig", "Das Tudor-**Torhaus** bleibt das meistfotografierte Element des Anwesens"]]
+  },
+  {
+    "lemma": "gatekeeper",
+    "meanings_de": ["Eingangswächter", "Zugangskontrolleur"],
+    "definitions_de": ["Person, die ein Tor oder einen Eingang bewacht", "Person oder Sache, die den Zugang zu etwas kontrolliert"],
+    "examples_de": [["Der **Pförtner** überprüfte die Ausweise aller Personen vor dem Einlass", "Die **Torwächter** überwachten die Eingänge zum Konzertgelände"], ["Verlage fungieren als **Türsteher** für neue Autoren", "Die Assistentin diente als **Vorzimmerdame** des Geschäftsführers"]]
+  },
+  {
+    "lemma": "gateway",
+    "meanings_de": ["Durchgang", "Zugangspunkt"],
+    "definitions_de": ["Öffnung oder Durchgang, der durch ein Tor verschlossen werden kann", "Mittel des Zugangs oder Eintritts zu einem Ort oder Zustand"],
+    "examples_de": [["Das steinerne **Tor** markierte den Haupteingang des Anwesens", "Sie gingen durch das **Portal** in den ummauerten Garten"], ["Die Stadt dient als **Tor** zur Bergregion", "Bildung bietet einen **Zugang** zu besseren Möglichkeiten"]]
+  },
+  {
+    "lemma": "gatherer",
+    "meanings_de": ["Sammler"],
+    "definitions_de": ["Person, die Dinge sammelt oder zusammenbringt, besonders Nahrung aus der Natur"],
+    "examples_de": [["Frühe Menschen lebten als Jäger und **Sammler** zusammen", "Der Pilz**sammler** wusste, welche Arten ungefährlich waren"]]
+  },
+  {
+    "lemma": "gator",
+    "meanings_de": ["Alligator-Kurzform"],
+    "definitions_de": ["Informelle Kurzform von Alligator"],
+    "examples_de": [["Ein großer **Alligator** sonnte sich am Flussufer", "Florida-**Alligatoren** können über vier Meter lang werden"]]
+  },
+  {
+    "lemma": "gaucho",
+    "meanings_de": ["südamerikanischer Cowboy"],
+    "definitions_de": ["Geschickter Reiter der südamerikanischen Pampas, besonders in Argentinien und Uruguay"],
+    "examples_de": [["Der **Gaucho** demonstrierte gekonnt traditionelle Viehtreibtechniken", "**Gauchos** tragen charakteristische weite Hosen, die Bombachas genannt werden"]]
+  },
+  {
+    "lemma": "gauge",
+    "meanings_de": ["Messgerät", "Standardmaß"],
+    "definitions_de": ["Instrument, das misst und eine visuelle Anzeige von Menge oder Pegel gibt", "Standarddimension, Messung oder Kapazität"],
+    "examples_de": [["Die Tankanzeige zeigte, dass der **Tank** fast leer war", "Prüfen Sie das **Manometer** vor der Bedienung der Anlage"], ["Die Draht**stärke** bestimmt die Dicke elektrischer Kabel", "Die Eisenbahn verwendet eine schmale **Spurweite** zwischen den Schienen"]]
+  },
+  {
+    "lemma": "gauntlet",
+    "meanings_de": ["Panzerhandschuh", "Herausforderungsprüfung"],
+    "definitions_de": ["Schwerer Handschuh mit langer, lockerer Handgelenksbedeckung", "Schwere Prüfung oder Tortur"],
+    "examples_de": [["Ritter trugen metallene **Panzerhandschuhe** zum Schutz ihrer Hände", "Er warf den **Fehdehandschuh** als Zeichen der Herausforderung hin"], ["Neue Mitarbeiter durchlaufen den **Spießrutenlauf** der Einführungsveranstaltungen", "Sie stellte sich dem **Spießrutenlauf** der Reporter vor dem Gericht"]]
+  },
+  {
+    "lemma": "gauze",
+    "meanings_de": ["dünnes Gewebe"],
+    "definitions_de": ["Dünnes, durchscheinendes Gewebe, das besonders für medizinische Verbände verwendet wird"],
+    "examples_de": [["Die Krankenschwester umwickelte die Wunde mit steriler **Gaze**", "**Mullvorhänge** filterten sanft das helle Sonnenlicht"]]
+  },
+  {
+    "lemma": "gavel",
+    "meanings_de": ["Richterhammer"],
+    "definitions_de": ["Kleiner zeremonieller Hammer, der von Richtern oder Auktionatoren verwendet wird"],
+    "examples_de": [["Die Richterin schlug mit ihrem **Hammer**, um die Ordnung wiederherzustellen", "Der **Auktionshammer** signalisierte das letzte Gebot"]]
+  },
+  {
+    "lemma": "gawker",
+    "meanings_de": ["Gaffer"],
+    "definitions_de": ["Person, die offen und dümmlich starrt"],
+    "examples_de": [["**Schaulustige** verlangsamten den Verkehr an der Unfallstelle", "Der Prominente versuchte, **Gaffer** im Restaurant zu vermeiden"]]
+  },
+  {
+    "lemma": "gazebo",
+    "meanings_de": ["Gartenlaube"],
+    "definitions_de": ["Freistehendes überdachtes Bauwerk, normalerweise an den Seiten offen, das zur Entspannung genutzt wird"],
+    "examples_de": [["Sie hielten die Hochzeitszeremonie im **Gartenpavillon** ab", "Die viktorianische **Laube** spendete Schatten für Sommerkonzerte"]]
+  },
+  {
+    "lemma": "gazelle",
+    "meanings_de": ["schnelle Antilope"],
+    "definitions_de": ["Kleine, schnelle, anmutige Antilope, die in Afrika und Asien heimisch ist"],
+    "examples_de": [["Die **Gazelle** sprang mühelos über die Savanne", "Geparden jagen **Gazellen** in den afrikanischen Ebenen"]]
+  },
+  {
+    "lemma": "gazette",
+    "meanings_de": ["amtliches Journal"],
+    "definitions_de": ["Zeitung oder amtliches Journal, besonders für Regierungsankündigungen"],
+    "examples_de": [["Das **Amtsblatt** veröffentlichte wöchentlich neue Verordnungen", "Rechtliche Bekanntmachungen erschienen im **Bundesanzeiger**"]]
+  },
+  {
+    "lemma": "gazetteer",
+    "meanings_de": ["geografisches Wörterbuch"],
+    "definitions_de": ["Geografisches Wörterbuch oder Verzeichnis mit Informationen über Orte"],
+    "examples_de": [["Das **Ortsverzeichnis** listete jede Stadt in der Region auf", "Historiker konsultierten alte **Ortslexika** für die Ortsnamenforschung"]]
+  },
+  {
+    "lemma": "gearbox",
+    "meanings_de": ["Getriebegehäuse"],
+    "definitions_de": ["Gehäuse mit Zahnrädern, die Kraft in Fahrzeugen oder Maschinen übertragen"],
+    "examples_de": [["Der Mechaniker überholte das beschädigte **Getriebe** vollständig", "Manuelle **Schaltgetriebe** geben Fahrern mehr Kontrolle über die Geschwindigkeit"]]
+  },
+  {
+    "lemma": "gearing",
+    "meanings_de": ["Getriebesystem", "Verschuldungsgrad"],
+    "definitions_de": ["System von Zahnrädern, die Bewegung oder Kraft übertragen", "Verhältnis von Fremdkapital zu Eigenkapital eines Unternehmens"],
+    "examples_de": [["Die **Gangschaltung** des Fahrrads ermöglichte leichtes Bergauffahren", "Komplexe **Getriebe** übertrugen die Kraft vom Motor auf die Räder"], ["Ein hoher **Verschuldungsgrad** deutet auf starke Kreditaufnahme des Unternehmens hin", "Die Firma reduzierte ihren **Fremdkapitalanteil** durch Schuldentilgung"]]
+  },
+  {
+    "lemma": "gecko",
+    "meanings_de": ["kleine Echse"],
+    "definitions_de": ["Kleine tropische Echse mit Zehenpolstern zum Klettern an Wänden"],
+    "examples_de": [["Der **Gecko** kletterte mühelos die senkrechte Wand hinauf", "Haus**geckos** fressen Insekten und gelten als nützlich"]]
+  },
+  {
+    "lemma": "gee",
+    "meanings_de": ["Überraschungsausdruck", "tausend Dollar"],
+    "definitions_de": ["Ausruf, der Überraschung oder Begeisterung ausdrückt", "Slang für eintausend Dollar"],
+    "examples_de": [["**Mensch**, das ist eine wunderbare Überraschung für alle", "**Donnerwetter**, schau dir diesen erstaunlichen Sonnenuntergang an"], ["Das Auto kostet bei diesem Händler zwanzig **Riesen**", "Er gewann fünf **Mille** beim Pokerspiel"]]
+  },
+  {
+    "lemma": "geek",
+    "meanings_de": ["Enthusiast"],
+    "definitions_de": ["Person mit intensivem Interesse an technischen oder intellektuellen Bestrebungen"],
+    "examples_de": [["Der Computer**freak** löste alle technischen Probleme mit Leichtigkeit", "Wissenschafts**nerds** diskutieren gerne gemeinsam über theoretische Physik"]]
+  },
+  {
+    "lemma": "geisha",
+    "meanings_de": ["japanische Unterhalterin"],
+    "definitions_de": ["Japanische Frau, die in traditionellen Künsten ausgebildet ist, um Männer zu unterhalten"],
+    "examples_de": [["Die **Geisha** führte anmutig traditionellen Tanz und Musik auf", "Um eine **Geisha** zu werden, bedarf es jahrelanger künstlerischer Ausbildung"]]
+  }
+]

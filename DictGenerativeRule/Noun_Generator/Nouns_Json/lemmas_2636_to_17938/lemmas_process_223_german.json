@@ -1,0 +1,266 @@
+[
+  {
+    "lemma": "staircase",
+    "meanings_de": ["Treppe mit Geländer"],
+    "definitions_de": ["Aufgang innerhalb eines Gebäudes mit tragender Konstruktion und Handläufen, der verschiedene Stockwerke miteinander verbindet"],
+    "examples_de": [["Die alte **Holztreppe** knarrte bei jedem Schritt", "Sie hielt sich am **Treppengeländer** fest, während sie vorsichtig hinunterstieg"]]
+  },
+  {
+    "lemma": "stairway",
+    "meanings_de": ["Treppenweg"],
+    "definitions_de": ["Durchgang aus Stufen, der von einer Ebene zur anderen führt und dabei als Verbindungsweg dient"],
+    "examples_de": [["Der **Nottreppenweg** bot einen sicheren Fluchtweg aus dem Gebäude", "Wir stiegen über die schmale **Treppe** zum Dachboden hinauf"]]
+  },
+  {
+    "lemma": "stairwell",
+    "meanings_de": ["Treppenhaus"],
+    "definitions_de": ["Umschlossener Raum in einem Gebäude, der die Treppen zwischen den Stockwerken enthält und oft als vertikaler Erschließungsschacht dient"],
+    "examples_de": [["Im **Treppenhaus** hallten die Schritte von oben wider", "Die Notbeleuchtung erhellte das dunkle **Treppenhaus** während der Evakuierung"]]
+  },
+  {
+    "lemma": "stakeholder",
+    "meanings_de": ["Interessenvertreter"],
+    "definitions_de": ["Person oder Gruppe mit berechtigtem Interesse, Anteil oder Beteiligung an einem Unternehmen oder Projekt"],
+    "examples_de": [["Alle **Stakeholder** nahmen an der vierteljährlichen Geschäftsbesprechung teil", "Der Projektleiter konsultierte die **Interessenvertreter** vor wichtigen Änderungen"]]
+  },
+  {
+    "lemma": "stalemate",
+    "meanings_de": ["Pattsituation"],
+    "definitions_de": ["Zustand, in dem kein Fortschritt möglich ist, weil gegnerische Seiten gleich stark sind oder sich blockieren"],
+    "examples_de": [["Die Verhandlungen gerieten nach stundenlangen Diskussionen in eine **Pattsituation**", "Die Schachpartie endete mit einem **Patt**"]]
+  },
+  {
+    "lemma": "stalk",
+    "meanings_de": ["Pflanzenstängel", "Verfolgungsakt"],
+    "definitions_de": ["Haupttrieb einer Pflanze, der Blätter oder Blüten trägt und Nährstoffe transportiert", "Beharrliches Verfolgen oder Belästigen einer Person"],
+    "examples_de": [["Der **Blütenstängel** bog sich unter dem Gewicht des Regens", "Sie schnitt die **Selleriestangen** in kleine Stücke"], ["Der Detektiv erkannte Anzeichen von **Stalking**-Verhalten in dem Fall", "Seine wiederholten **Nachstellungsversuche** verunsicherten sie sehr"]]
+  },
+  {
+    "lemma": "stalker",
+    "meanings_de": ["Person die nachstellt"],
+    "definitions_de": ["Person, die eine andere Person beharrlich und obsessiv verfolgt oder belästigt, oft mit bedrohlichem Verhalten"],
+    "examples_de": [["Die Prominente engagierte Sicherheitspersonal zum Schutz vor **Stalkern**", "Die Polizei verhaftete den **Stalker** gestern vor ihrem Arbeitsplatz"]]
+  },
+  {
+    "lemma": "stalking",
+    "meanings_de": ["Nachstellungshandlung"],
+    "definitions_de": ["Strafbare Handlung des beharrlichen und obsessiven Verfolgens und Beobachtens einer Person gegen deren Willen"],
+    "examples_de": [["Sie erstattete Anzeige wegen **Stalkings** gegen ihren Ex-Freund", "**Cyberstalking** hat in den letzten Jahren stark zugenommen"]]
+  },
+  {
+    "lemma": "stall",
+    "meanings_de": ["kleine Abteilung", "Motorausfall", "Verzögerungstaktik"],
+    "definitions_de": ["Kleiner umschlossener Bereich für ein Tier oder einen Marktverkäufer", "Plötzlicher Leistungsverlust bei einem Motor oder Flugzeug", "Absichtliche Verzögerung oder Ausweichen, um eine Handlung zu vermeiden"],
+    "examples_de": [["Das Pferd wartete geduldig in seiner **Box**", "Sie baute ihren **Schmuckstand** auf dem Markt auf"], ["Der **Motorausfall** des Autos passierte mitten auf der Kreuzung", "Der Pilot fing das Flugzeug nach dem unerwarteten **Strömungsabriss** wieder ab"], ["Seine **Verzögerungstaktik** frustrierte das Verhandlungsteam", "Sie nutzte eine **Hinhaltetaktik**, um mehr Vorbereitungszeit zu gewinnen"]]
+  },
+  {
+    "lemma": "stalling",
+    "meanings_de": ["Verzögerungshandlung"],
+    "definitions_de": ["Handlung des absichtlichen Verzögerns oder Vermeidens von etwas, um Zeit zu gewinnen"],
+    "examples_de": [["Sein ständiges **Hinauszögern** verärgerte den Projektleiter sehr", "Das Komitee durchschaute ihre **Verzögerungstaktik** sofort"]]
+  },
+  {
+    "lemma": "stallion",
+    "meanings_de": ["männliches Pferd"],
+    "definitions_de": ["Erwachsenes männliches Pferd, das nicht kastriert wurde und zur Zucht eingesetzt werden kann"],
+    "examples_de": [["Der schwarze **Hengst** galoppierte über die offene Weide", "**Zuchthengste** benötigen erfahrene Pfleger aus Sicherheitsgründen"]]
+  },
+  {
+    "lemma": "stalwart",
+    "meanings_de": ["treuer Anhänger"],
+    "definitions_de": ["Person, die loyal, zuverlässig und fleißig eine Sache oder Organisation unterstützt"],
+    "examples_de": [["Die **Parteigetreuen** versammelten sich zum jährlichen Spendendinner", "Sie blieb eine **unerschütterliche Verfechterin** der Bürgerrechte"]]
+  },
+  {
+    "lemma": "stamina",
+    "meanings_de": ["körperliche Ausdauer"],
+    "definitions_de": ["Fähigkeit, längere körperliche oder geistige Anstrengungen ohne Ermüdung aufrechtzuerhalten"],
+    "examples_de": [["Marathonläufer brauchen außergewöhnliche **Ausdauer**, um Rennen zu beenden", "Der Aufbau von **Kondition** erfordert monatelanges konsequentes Training"]]
+  },
+  {
+    "lemma": "stampede",
+    "meanings_de": ["Massenpanik"],
+    "definitions_de": ["Plötzliche Fluchtbewegung erschreckter Tiere oder Menschen, die sich gemeinsam fortbewegen"],
+    "examples_de": [["Das laute Geräusch verursachte eine **Stampede** unter den Rindern", "Eine **Massenpanik** entstand, als die Türen zum Ausverkauf öffneten"]]
+  },
+  {
+    "lemma": "stamper",
+    "meanings_de": ["Stempelgerät"],
+    "definitions_de": ["Werkzeug oder Maschine, die Markierungen oder Muster auf Oberflächen presst"],
+    "examples_de": [["Der **Poststempel** markierte jeden Umschlag mit dem heutigen Datum", "Sie benutzte einen **Gummistempel** zum schnellen Adressieren von Briefumschlägen"]]
+  },
+  {
+    "lemma": "standardisation",
+    "meanings_de": ["Vereinheitlichungsprozess"],
+    "definitions_de": ["Prozess der Anpassung von Dingen an eine Norm oder ein einheitliches Format zur Gewährleistung von Kompatibilität"],
+    "examples_de": [["Die **Produktstandardisierung** hilft, Herstellungskosten fabrikübergreifend zu senken", "Die **Vereinheitlichung** von Maßeinheiten verbesserte den internationalen Handel erheblich"]]
+  },
+  {
+    "lemma": "standardization",
+    "meanings_de": ["Normierungsprozess"],
+    "definitions_de": ["Vorgang der Angleichung von Produkten oder Verfahren an einheitliche Standards und Normen"],
+    "examples_de": [["Die **Industrienormung** gewährleistet kompatible Teile zwischen verschiedenen Herstellern", "Die **Standardisierung** von Sicherheitsprotokollen verhinderte viele Arbeitsunfälle"]]
+  },
+  {
+    "lemma": "standby",
+    "meanings_de": ["Bereitschaftszustand"],
+    "definitions_de": ["Zustand der Einsatzbereitschaft, um bei Bedarf sofort handeln oder genutzt werden zu können"],
+    "examples_de": [["Die Notstromaggregate blieben während des Sturms in **Bereitschaft**", "Das Ärzteteam hielt sich für Notfälle in **Rufbereitschaft**"]]
+  },
+  {
+    "lemma": "stander",
+    "meanings_de": ["stehende Person"],
+    "definitions_de": ["Person, die steht oder eine bestimmte Position einnimmt"],
+    "examples_de": [["Die frühen **Stehplatzinhaber** beim Konzert hatten die beste Sicht", "Der einsame **Steher** weigerte sich während des Protests zu sitzen"]]
+  },
+  {
+    "lemma": "standoff",
+    "meanings_de": ["angespannte Konfrontation"],
+    "definitions_de": ["Situation, in der keine Seite in einem Konflikt nachgeben will und eine Pattsituation entsteht"],
+    "examples_de": [["Die **Polizeiblockade** dauerte mehrere angespannte Stunden", "Zwischen den beiden Nationen entwickelte sich eine diplomatische **Pattsituation**"]]
+  },
+  {
+    "lemma": "standpoint",
+    "meanings_de": ["Standpunkt"],
+    "definitions_de": ["Bestimmte Betrachtungsweise oder Art, eine Situation zu beurteilen"],
+    "examples_de": [["Aus finanzieller **Sicht** ergab die Fusion absolut Sinn", "Ihr **Standpunkt** zur Bildung unterschied sich von traditionellen Ansichten"]]
+  },
+  {
+    "lemma": "standstill",
+    "meanings_de": ["völliger Stillstand"],
+    "definitions_de": ["Zustand, in dem jegliche Bewegung oder Aktivität vollständig zum Erliegen gekommen ist"],
+    "examples_de": [["Der Verkehr kam während der Hauptverkehrszeit zum **Stillstand**", "Die Verhandlungen gerieten gestern wegen Gehaltsstreitigkeiten ins **Stocken**"]]
+  },
+  {
+    "lemma": "stanza",
+    "meanings_de": ["Gedichtstrophe"],
+    "definitions_de": ["Gruppierte Zeilen innerhalb eines Gedichts, meist mit gleichbleibendem Muster und Rhythmus"],
+    "examples_de": [["Jede **Strophe** enthielt vier Zeilen rhythmischer Verse", "Der Dichter trennte die Themen durch eine neue **Strophe**"]]
+  },
+  {
+    "lemma": "staple",
+    "meanings_de": ["Metallklammer", "Grundnahrungsmittel"],
+    "definitions_de": ["Gebogener Metalldraht zum Zusammenheften von Papieren", "Grundlegendes Nahrungsmittel oder Produkt, das regelmäßig verwendet wird"],
+    "examples_de": [["Sie benutzte eine **Heftklammer**, um die Seiten zusammenzufügen", "Die **Klammer** verbog sich beim Heften des dicken Dokuments"], ["Reis ist ein **Grundnahrungsmittel** in vielen asiatischen Ländern", "Kaffee wurde zum **festen Bestandteil** ihrer Morgenroutine"]]
+  },
+  {
+    "lemma": "starboard",
+    "meanings_de": ["rechte Schiffsseite"],
+    "definitions_de": ["Rechte Seite eines Schiffes oder Flugzeugs bei Blickrichtung nach vorne"],
+    "examples_de": [["Der Kapitän befahl sofort eine Wendung nach **Steuerbord**", "Die Passagiere versammelten sich auf dem **Steuerbord**deck für Fotos"]]
+  },
+  {
+    "lemma": "starch",
+    "meanings_de": ["Stärkestoff"],
+    "definitions_de": ["Weißer Kohlenhydratstoff aus Kartoffeln oder Reis, der als Nahrungsmittel und zum Steifen von Stoffen verwendet wird"],
+    "examples_de": [["Die **Kartoffelstärke** dickte die Suppe perfekt an", "Sie gab **Stärke** hinzu, um den Hemdkragen steif zu machen"]]
+  },
+  {
+    "lemma": "stardom",
+    "meanings_de": ["Berühmtheitsstatus"],
+    "definitions_de": ["Zustand des Berühmtseins als Entertainer oder Sportpersönlichkeit"],
+    "examples_de": [["Ihr Aufstieg zum **Starruhm** geschah fast über Nacht", "Viele Schauspieler träumen vom **Ruhm**, aber nur wenige erreichen ihn"]]
+  },
+  {
+    "lemma": "stardust",
+    "meanings_de": ["Sternenstaub"],
+    "definitions_de": ["Winzige Materieteilchen im Weltraum oder magische Qualität von Glamour und Zauber"],
+    "examples_de": [["Wissenschaftler untersuchen **Sternenstaub**, um kosmische Ursprünge besser zu verstehen", "Der Film fing den **Zauber** von Hollywoods goldener Ära ein"]]
+  },
+  {
+    "lemma": "starfighter",
+    "meanings_de": ["Raumkampfschiff"],
+    "definitions_de": ["Fiktives Raumschiff, das für Kämpfe in Science-Fiction-Geschichten konzipiert ist"],
+    "examples_de": [["Die Pilotin manövrierte ihren **Raumjäger** durch das Asteroidenfeld", "Feindliche **Kampfraumschiffe** näherten sich von hinter dem Mond des Planeten"]]
+  },
+  {
+    "lemma": "starfish",
+    "meanings_de": ["Seestern"],
+    "definitions_de": ["Sternförmiges Meerestier mit fünf oder mehr Armen, die von der Mitte ausgehen"],
+    "examples_de": [["Der orangefarbene **Seestern** klammerte sich an den Unterwasserfelsen", "Die Kinder fanden einen **Seestern** im flachen Gezeitentümpel"]]
+  },
+  {
+    "lemma": "stargazer",
+    "meanings_de": ["Sternenbeobachter"],
+    "definitions_de": ["Person, die Sterne beobachtet oder studiert, oft als Hobby"],
+    "examples_de": [["Amateur-**Sterngucker** versammelten sich zum Meteoritenschauer", "Der junge **Himmelsbeobachter** identifizierte ohne Hilfe drei Sternbilder"]]
+  },
+  {
+    "lemma": "starlet",
+    "meanings_de": ["junge Schauspielerin"],
+    "definitions_de": ["Junge Schauspielerin, die als zukünftiger Star beworben wird"],
+    "examples_de": [["Das Hollywood-**Sternchen** besuchte nervös ihre erste Premiere", "Viele **Nachwuchsschauspielerinnen** kämpfen mit plötzlichem Ruhm und Aufmerksamkeit"]]
+  },
+  {
+    "lemma": "starlight",
+    "meanings_de": ["Sternenlicht"],
+    "definitions_de": ["Natürliches Licht, das von Sternen im Weltraum zur Erde gelangt"],
+    "examples_de": [["Sie tanzten zusammen im sanften **Sternenlicht**", "Das **Sternenlicht** war hell genug, um den Weg zu erkennen"]]
+  },
+  {
+    "lemma": "starling",
+    "meanings_de": ["Star (Vogel)"],
+    "definitions_de": ["Kleiner bis mittelgroßer Vogel mit dunklem, oft schillerndem Gefieder"],
+    "examples_de": [["Ein Schwarm **Stare** bildete Muster am Himmel", "Der **Star** baute sein Nest unter den Dachziegeln"]]
+  },
+  {
+    "lemma": "starship",
+    "meanings_de": ["Raumschiff"],
+    "definitions_de": ["Großes Raumfahrzeug, das für interstellare Reisen in Science-Fiction konzipiert ist"],
+    "examples_de": [["Die **Raumschiff**-Crew bereitete sich auf die lange Reise vor", "Ihr **Sternenschiff** konnte theoretisch schneller als Lichtgeschwindigkeit reisen"]]
+  },
+  {
+    "lemma": "startle",
+    "meanings_de": ["plötzlicher Schreck"],
+    "definitions_de": ["Plötzlicher Schock oder Alarm, der eine Person oder ein Tier zum Aufschrecken bringt"],
+    "examples_de": [["Das laute Geräusch verursachte bei allen einen furchtbaren **Schreck**", "Ihre **Schreckreaktion** ließ sie die Kaffeetasse fallen"]]
+  },
+  {
+    "lemma": "startup",
+    "meanings_de": ["Neugründung"],
+    "definitions_de": ["Neu gegründetes Unternehmen, typischerweise im Technologiebereich, das schnelles Wachstum anstrebt"],
+    "examples_de": [["Das Tech-**Startup** erhielt Finanzierung von mehreren Investoren", "Viele **Neugründungen** scheitern innerhalb der ersten zwei Jahre"]]
+  },
+  {
+    "lemma": "starvation",
+    "meanings_de": ["Verhungern"],
+    "definitions_de": ["Leiden oder Tod durch extremen und anhaltenden Nahrungsmangel"],
+    "examples_de": [["Internationale Hilfe verhinderte das **Verhungern** in der von Dürre betroffenen Region", "Die geretteten Tiere zeigten deutliche Anzeichen von **Unterernährung**"]]
+  },
+  {
+    "lemma": "starving",
+    "meanings_de": ["Hungerzustand"],
+    "definitions_de": ["Zustand des Leidens durch extremen Hunger oder Nahrungsmangel"],
+    "examples_de": [["Die **hungernden** Flüchtlinge brauchten dringend Nahrung und Wasser", "Nach tagelangem **Hungern** fanden sie endlich essbare Beeren"]]
+  },
+  {
+    "lemma": "stash",
+    "meanings_de": ["geheimer Vorrat"],
+    "definitions_de": ["Geheimer Vorrat von etwas, typischerweise Geld oder Wertsachen, die versteckt aufbewahrt werden"],
+    "examples_de": [["Die Polizei entdeckte einen **Geldversteck** hinter der Wand", "Sie bewahrte einen **Schokoladenvorrat** in ihrer Schreibtischschublade auf"]]
+  },
+  {
+    "lemma": "statecraft",
+    "meanings_de": ["Staatskunst"],
+    "definitions_de": ["Geschickte Führung von Staatsangelegenheiten und die Kunst der Regierung und Diplomatie"],
+    "examples_de": [["Der Präsident demonstrierte während der Krise meisterhafte **Staatskunst**", "Effektive **Staatsführung** erfordert die Balance zwischen nationalen und internationalen Interessen"]]
+  },
+  {
+    "lemma": "statesman",
+    "meanings_de": ["Staatsmann"],
+    "definitions_de": ["Erfahrener und respektierter politischer Führer, der Weisheit in Regierungsangelegenheiten zeigt"],
+    "examples_de": [["Der **Elder Statesman** beriet jüngere Politiker in Diplomatiefragen", "Die Geschichte erinnert sich an ihn als großen **Staatsmann** und Friedensstifter"]]
+  },
+  {
+    "lemma": "static",
+    "meanings_de": ["elektrische Störung", "Bewegungslosigkeit"],
+    "definitions_de": ["Knisterndes Geräusch bei Radio oder Fernsehen durch elektrische Störungen", "Zustand mit wenig oder keiner Veränderung, Aktion oder Fortschritt"],
+    "examples_de": [["Das **Rauschen** im Radio machte die Sendung schwer verständlich", "Der alte Fernseher zeigte nur noch **Störbilder**"], ["Die Verkaufszahlen blieben im gesamten dritten Quartal **unverändert**", "Ihre Beziehung wurde nach Jahren der Ehe **statisch**"]]
+  },
+  {
+    "lemma": "stationer",
+    "meanings_de": ["Schreibwarenhändler"],
+    "definitions_de": ["Person, die Schreibwaren und Bürobedarf in einem Geschäft verkauft"],
+    "examples_de": [["Der örtliche **Schreibwarenhändler** bestellte spezielle Stifte für den Kunden", "Unser **Papeteriehändler** führt alle Arten von Schreibpapier"]]
+  }
+]

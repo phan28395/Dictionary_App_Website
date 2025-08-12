@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "garage",
+    "meanings_de": ["Fahrzeugunterbringung", "Werkstatt"],
+    "definitions_de": ["Gebäude oder überdachter Raum zum Abstellen von Kraftfahrzeugen oder zur Lagerung von Gegenständen", "Gewerblicher Betrieb, in dem Fahrzeuge repariert oder gewartet werden"],
+    "examples_de": [["Stell das Auto vor dem Gewitter in die **Garage**", "Die **Garage** war vollgestellt mit alten Kartons und vergessenen Werkzeugen"], ["Die **Werkstatt** hat gestern meine Bremsen repariert und das Öl gewechselt", "Sie brachte ihr Auto zur jährlichen Inspektion in die **Autowerkstatt**"]]
+  },
+  {
+    "lemma": "flavor",
+    "meanings_de": ["Geschmacksqualität", "charakteristische Eigenart"],
+    "definitions_de": ["Charakteristischer Geschmack von Speisen oder Getränken, der im Mund wahrgenommen wird", "Besondere Eigenschaft oder Atmosphäre, die etwas Bestimmtes auszeichnet"],
+    "examples_de": [["Die Suppe braucht mehr **Geschmack**, also füge Salz und Kräuter hinzu", "Eiscreme gibt es in Dutzenden von **Geschmacksrichtungen**, von Vanille bis exotisch"], ["Das Restaurant fängt den authentischen **Geschmack** der italienischen Küche perfekt ein", "Jedes Viertel hat seine eigene unverwechselbare **Note** und Persönlichkeit"]]
+  },
+  {
+    "lemma": "oven",
+    "meanings_de": ["Kochgerät", "Heizkammer"],
+    "definitions_de": ["Geschlossenes Gerät zum Kochen und Erhitzen von Speisen mittels Gas oder Strom", "Industrielle Kammer zum Erhitzen, Trocknen oder Brennen von Materialien"],
+    "examples_de": [["Heize den **Backofen** auf 180 Grad vor, bevor du den Kuchen bäckst", "Der Truthahn garte gestern drei Stunden im **Ofen**"], ["Der Keramik-**Brennofen** erreicht Temperaturen über tausend Grad", "Industrielle **Öfen** härten Autolacke während der Produktion aus"]]
+  },
+  {
+    "lemma": "satisfaction",
+    "meanings_de": ["Zufriedenheitsgefühl", "Erfüllungszustand"],
+    "definitions_de": ["Gefühl der Freude oder Zufriedenheit, wenn Bedürfnisse oder Wünsche erfüllt werden", "Erfüllung der eigenen Wünsche, Erwartungen oder Bedürfnisse"],
+    "examples_de": [["Die **Kundenzufriedenheit** ist jeden Tag oberste Priorität unseres Unternehmens", "Sie empfand tiefe **Befriedigung** nach Abschluss des schwierigen Projekts"], ["Die Arbeit bietet trotz des hohen Gehalts wenig **Erfüllung**", "Nichts übertrifft die **Genugtuung**, eigenes Gemüse anzubauen"]]
+  },
+  {
+    "lemma": "discrimination",
+    "meanings_de": ["ungerechte Behandlung", "Unterscheidungsvermögen"],
+    "definitions_de": ["Ungerechtfertigte Benachteiligung verschiedener Personengruppen aufgrund von Vorurteilen", "Fähigkeit, Unterschiede zwischen Dingen zu erkennen und zu verstehen"],
+    "examples_de": [["**Diskriminierung** am Arbeitsplatz aufgrund des Alters ist in den meisten Ländern illegal", "Die Bürgerrechtsbewegung kämpfte jahrzehntelang gegen rassistische **Benachteiligung**"], ["Weinverkoster brauchen feines **Unterscheidungsvermögen** für subtile Aromen und Düfte", "Das **Farbunterscheidungsvermögen** hilft Künstlern, Farben exakt zu mischen"]]
+  },
+  {
+    "lemma": "recession",
+    "meanings_de": ["Wirtschaftsabschwung", "Rückwärtsbewegung"],
+    "definitions_de": ["Zeitraum eines vorübergehenden wirtschaftlichen Rückgangs mit verringertem Handel und industrieller Aktivität", "Vorgang des Zurückweichens oder Zustand des Zurückgezogenseins"],
+    "examples_de": [["Die **Rezession** führte zu steigender Arbeitslosigkeit und Geschäftsschließungen", "Wirtschaftsindikatoren deuten darauf hin, dass bald eine weitere **Wirtschaftskrise** drohen könnte"], ["Der **Rückgang** der Flut legte verborgene Schätze am Strand frei", "**Zahnfleischrückgang** kann Zahnwurzeln freilegen und Empfindlichkeit verursachen"]]
+  },
+  {
+    "lemma": "allegation",
+    "meanings_de": ["unbewiesene Behauptung", "formelle Anschuldigung"],
+    "definitions_de": ["Behauptung oder Aussage, dass jemand etwas Illegales oder Falsches getan hat", "Formelle Beschuldigung oder Anklage, die in Gerichtsverfahren bewiesen werden muss"],
+    "examples_de": [["Die **Behauptung** des Betrugs führte sofort zu einer vollständigen Untersuchung", "Sie bestritt alle gegen sie in der Klage erhobenen **Vorwürfe**"], ["Schwerwiegende **Anschuldigungen** erfordern substanzielle Beweise zur rechtlichen Untermauerung", "Die Zeitung druckte **Beschuldigungen**, ohne deren Richtigkeit zu überprüfen"]]
+  },
+  {
+    "lemma": "boom",
+    "meanings_de": ["lauter Knall", "rasantes Wachstum"],
+    "definitions_de": ["Tiefer, hallender Laut, wie er von schweren Gegenständen oder Explosionen erzeugt wird", "Zeitraum schnellen wirtschaftlichen Wachstums, Wohlstands oder Expansion"],
+    "examples_de": [["Der **Donnerschlag** ließ während des Sturms die Fenster erzittern", "Wir hörten einen lauten **Knall**, als der Baum umfiel"], ["Der Technologie-**Boom** schuf viele Millionäre im Silicon Valley", "Der Immobilien-**Aufschwung** endete, als die Zinsen stark anstiegen"]]
+  },
+  {
+    "lemma": "restriction",
+    "meanings_de": ["einschränkende Regel", "kontrollierter Zugang"],
+    "definitions_de": ["Begrenzung oder Kontrolle, die durch Regeln oder Gesetze auferlegt wird", "Zustand der Einschränkung oder Begrenzung in Bewegung oder Zugang"],
+    "examples_de": [["Ernährungs**einschränkungen** hinderten sie daran, Gluten oder Milchprodukte zu essen", "Die neuen **Beschränkungen** begrenzen Versammlungen auf maximal fünfzig Personen"], ["Reise**beschränkungen** erschwerten internationale Reisen während der Pandemie", "Alters**beschränkungen** gelten für den Kauf von Alkohol und Tabakprodukten"]]
+  },
+  {
+    "lemma": "diamond",
+    "meanings_de": ["Edelstein", "Baseballfeld"],
+    "definitions_de": ["Kostbarer Stein aus klarem, farblosem kristallisiertem Kohlenstoff", "Rautenförmige Figur oder die Form des Baseball-Spielfelds"],
+    "examples_de": [["Der Verlobungsring zeigte einen zweikätigen **Diamanten** in Platinfassung", "**Diamanten** entstehen tief unter der Erde unter extremem Druck und Hitze"], ["Das Baseball-**Spielfeld** braucht neuen Rasen vor Saisonbeginn", "Die Spieler wärmten sich auf dem **Diamond** vor dem Spiel auf"]]
+  },
+  {
+    "lemma": "conviction",
+    "meanings_de": ["feste Überzeugung", "Strafurteil"],
+    "definitions_de": ["Fest verwurzelter Glaube oder Meinung über etwas", "Formelle Erklärung, dass jemand einer Straftat schuldig ist"],
+    "examples_de": [["Ihre **Überzeugung**, dass Bildung Leben verändert, motivierte ihre Lehrtätigkeit", "Er sprach mit **Überzeugung** über die Notwendigkeit des Umweltschutzes"], ["Die **Verurteilung** wurde aufgehoben, nachdem Jahre später neue Beweise auftauchten", "Seine strafrechtliche **Verurteilung** verhinderte bestimmte Arbeitsmöglichkeiten"]]
+  },
+  {
+    "lemma": "heel",
+    "meanings_de": ["Fußteil", "Schuhteil"],
+    "definitions_de": ["Hinterer Teil des menschlichen Fußes unterhalb des Knöchels", "Teil eines Schuhs oder Stiefels, der die Ferse stützt"],
+    "examples_de": [["Die Blase an ihrer **Ferse** machte das Gehen den ganzen Tag schmerzhaft", "Läufer entwickeln oft Probleme mit ihrer **Ferse** und der Achillessehne"], ["Diese Schuhe haben zehn Zentimeter hohe **Absätze**, in denen es schwer zu laufen ist", "Der Schuster ersetzte den abgenutzten **Absatz** an meinen Lieblingsstiefeln"]]
+  },
+  {
+    "lemma": "fame",
+    "meanings_de": ["weitreichende Bekanntheit", "Berühmtheitsstatus"],
+    "definitions_de": ["Zustand, von vielen Menschen gekannt oder anerkannt zu werden", "Öffentliche Prominenz oder Berühmtheitsstatus"],
+    "examples_de": [["Der Schauspieler erlangte **Ruhm**, nachdem er in dem Blockbuster mitspielte", "Der **Ruhm** kam plötzlich, als ihr Lied online viral ging"], ["Manche Menschen suchen **Berühmtheit**, während andere sie aufgedrängt bekommen", "Der Preis des **Ruhms** beinhaltet Verlust der Privatsphäre und ständige Beobachtung"]]
+  },
+  {
+    "lemma": "swing",
+    "meanings_de": ["hängender Sitz", "schwingende Bewegung"],
+    "definitions_de": ["An Seilen oder Ketten aufgehängter Sitz zum Hin- und Herschwingen", "Rhythmische Bewegung hin und her oder von Seite zu Seite"],
+    "examples_de": [["Die Kinder spielten jeden Tag in der Pause auf der **Schaukel**", "Die **Hollywoodschaukel** knarrte sanft in der Abendbrise"], ["Das **Pendeln** der Uhr maß genau eine Sekunde pro Richtung", "Golf erfordert einen geschmeidigen, kontrollierten **Schwung** für Genauigkeit"]]
+  },
+  {
+    "lemma": "playoff",
+    "meanings_de": ["Ausscheidungsspiele", "Entscheidungsspiel"],
+    "definitions_de": ["Serie von Spielen zur Ermittlung eines Meisters", "Zusätzliches Spiel oder Runde zur Entscheidung bei Gleichstand"],
+    "examples_de": [["Das Team schaffte es zum ersten Mal seit Jahren in die **Playoffs**", "**Playoff**-Tickets kosten viel mehr als reguläre Saisonspiele"], ["Das Turnier ging nach Gleichstand in ein **Entscheidungsspiel**", "Sudden-Death-**Stechen** sorgen für spannende Abschlüsse im Golf"]]
+  },
+  {
+    "lemma": "actress",
+    "meanings_de": ["weibliche Darstellerin", "Bühnenkünstlerin"],
+    "definitions_de": ["Frau, die beruflich in Theaterstücken, Filmen oder im Fernsehen auftritt", "Weibliche Künstlerin, die Charaktere in dramatischen Produktionen verkörpert"],
+    "examples_de": [["Die **Schauspielerin** gewann einen Oscar für ihre kraftvolle dramatische Leistung", "Sie träumte seit den Schauspielkursen ihrer Kindheit davon, **Schauspielerin** zu werden"], ["Berühmte **Schauspielerinnen** kämpfen oft mit der Festlegung auf ähnliche Rollen", "Die **Darstellerin** bereitete sich monatelang darauf vor, die historische Figur zu verkörpern"]]
+  },
+  {
+    "lemma": "format",
+    "meanings_de": ["strukturierte Anordnung", "Datenlayout"],
+    "definitions_de": ["Art und Weise, wie etwas angeordnet, präsentiert oder organisiert ist", "Struktur von Daten für Verarbeitung, Speicherung oder Anzeige"],
+    "examples_de": [["Das neue **Format** macht die Zeitschrift leichter lesbar", "Bitte befolgen Sie das vorgeschriebene **Format** für Ihre Forschungsarbeit"], ["Speichern Sie das Dokument im PDF-**Format** für einfaches Teilen", "Das Datei**format** ist nicht mit älteren Softwareversionen kompatibel"]]
+  },
+  {
+    "lemma": "controversy",
+    "meanings_de": ["öffentliche Meinungsverschiedenheit", "hitzige Debatte"],
+    "definitions_de": ["Anhaltende öffentliche Meinungsverschiedenheit oder erhitzte Diskussion über etwas", "Streit oder Auseinandersetzung, an der viele Menschen mit starken Meinungen beteiligt sind"],
+    "examples_de": [["Die **Kontroverse** über die neue Politik spaltete die Gemeinschaft tief", "Umwelt**kontroversen** stellen oft wirtschaftliche Interessen gegen Naturschutz"], ["Das Buch löste **Kontroversen** mit seinen radikalen politischen Ansichten aus", "Sie versuchten, **Streit** zu vermeiden, indem sie öffentlich neutral blieben"]]
+  },
+  {
+    "lemma": "auto",
+    "meanings_de": ["Kraftfahrzeug", "automatische Funktion"],
+    "definitions_de": ["Automobil oder Wagen, der zum Transport verwendet wird", "Automatischer oder selbststeuernder Mechanismus oder Funktion"],
+    "examples_de": [["Die **Auto**industrie beschäftigt weltweit Millionen von Arbeitern", "Sie kaufte ein gebrauchtes **Auto** beim örtlichen Händler"], ["Stellen Sie die Kamera auf **Automatik** für einfaches Fotografieren", "Die **Auto**-Speicherfunktion verhindert den Verlust wichtiger Arbeit"]]
+  },
+  {
+    "lemma": "grant",
+    "meanings_de": ["finanzielle Zuwendung", "formelle Erlaubnis"],
+    "definitions_de": ["Geldsumme, die von einer Organisation für einen bestimmten Zweck vergeben wird", "Formelle Zustimmung oder Erlaubnis, etwas zu tun"],
+    "examples_de": [["Das Forschungs**stipendium** finanzierte ihre Krebsstudien drei Jahre lang", "Studenten beantragten **Zuschüsse**, um die Studiengebühren zu bezahlen"], ["Der Richter wird die **Genehmigung** zur Freigabe der Akten erteilen", "Der König würde seinen treuen Anhängern Titel **gewähren**"]]
+  },
+  {
+    "lemma": "grocery",
+    "meanings_de": ["Lebensmittelgeschäft", "Lebensmittel"],
+    "definitions_de": ["Geschäft, das Lebensmittel und Haushaltswaren verkauft", "Lebensmittel, die in einem solchen Geschäft verkauft werden"],
+    "examples_de": [["Sie kauft jeden Samstagmorgen im **Lebensmittelgeschäft** ein", "Der neue **Supermarkt** bietet Bio-Produkte und lokale Waren an"], ["Stell die **Einkaufstaschen** bitte auf die Küchentheke", "Wöchentliches **Lebensmittel**einkaufen hilft Familien, ihre Ausgaben zu planen"]]
+  },
+  {
+    "lemma": "headquarters",
+    "meanings_de": ["Hauptsitz", "Kommandozentrale"],
+    "definitions_de": ["Hauptbüro oder Betriebszentrum einer Organisation", "Ort, von dem aus militärische oder andere Operationen geleitet werden"],
+    "examples_de": [["Die **Unternehmenszentrale** zog letztes Jahr an einen neuen Standort in der Innenstadt", "Die **Hauptverwaltung** des Unternehmens beschäftigt weltweit über fünftausend Menschen"], ["Das militärische **Hauptquartier** koordinierte die Rettungsaktion aus sicheren Bunkern", "Das **Polizeipräsidium** erhielt Dutzende von Anrufen über den Vorfall"]]
+  },
+  {
+    "lemma": "shade",
+    "meanings_de": ["Schattenbereich", "Farbvarietät"],
+    "definitions_de": ["Relative Dunkelheit, die durch Schutz vor direktem Licht entsteht", "Varietät einer Farbe, die sich leicht von anderen unterscheidet"],
+    "examples_de": [["Wir saßen im **Schatten** der Eiche, um der Hitze zu entkommen", "Der **Schatten** des Gebäudes hielt den Garten zu kühl"], ["Diese Farbe gibt es in zwölf **Blautönen** zur Auswahl", "Sie wählte einen helleren **Farbton** Lippenstift für tagsüber"]]
+  },
+  {
+    "lemma": "meter",
+    "meanings_de": ["Messgerät", "rhythmisches Muster"],
+    "definitions_de": ["Gerät, das Menge, Grad oder Rate misst und aufzeichnet", "Grundlegende rhythmische Struktur von Versen in der Poesie"],
+    "examples_de": [["Der Strom**zähler** zeigt, wie viel Energie wir diesen Monat verbraucht haben", "Park**uhren** benötigen Münzen für jede Stunde Parkzeit"], ["Shakespeare schrieb oft im jambischen Pentameter mit fünftaktigen Zeilen", "Das **Versmaß** des Gedichts erzeugt beim Vorlesen eine musikalische Qualität"]]
+  },
+  {
+    "lemma": "pipe",
+    "meanings_de": ["hohles Rohr", "Rauchgerät"],
+    "definitions_de": ["Rohr zur Beförderung von Wasser, Gas oder anderen Substanzen", "Gerät zum Rauchen von Tabak, bestehend aus Rohr und Kopf"],
+    "examples_de": [["Der Klempner reparierte das kaputte **Rohr** unter der Küchenspüle", "Die Wasser**leitungen** froren während des extrem kalten Winters ein"], ["Sein Großvater rauchte eine **Pfeife** mit Kirsch-Tabak", "Die antike **Pfeifen**sammlung umfasste Stücke aus vielen Ländern"]]
+  },
+  {
+    "lemma": "celebration",
+    "meanings_de": ["freudiges Ereignis", "Feierhandlung"],
+    "definitions_de": ["Besonderes, erfreuliches Ereignis, das zur Markierung eines Anlasses organisiert wird", "Handlung, einen wichtigen Tag oder ein Ereignis mit Festlichkeiten zu begehen"],
+    "examples_de": [["Die Hochzeits**feier** dauerte bis zum Morgengrauen mit Tanz und Musik", "Geburtstags**feiern** beinhalten oft Kuchen, Kerzen und Geschenke"], ["Die Sieges**feier** der Stadt brachte Tausende auf die Straßen", "Neujahrs**feiern** variieren weltweit stark zwischen verschiedenen Kulturen"]]
+  },
+  {
+    "lemma": "handful",
+    "meanings_de": ["gehaltene Menge", "kleine Anzahl"],
+    "definitions_de": ["Menge, die die Hand fasst, wenn sie teilweise geschlossen ist", "Kleine Anzahl oder Menge von Menschen oder Dingen"],
+    "examples_de": [["Sie griff eine **Handvoll** Popcorn aus der Schüssel", "Das Kind sammelte **Handvoll** Sand am Strand"], ["Nur eine **Handvoll** Studenten besuchte die freiwillige Vorlesung", "Eine **Handvoll** Unternehmen kontrolliert den größten Teil des Marktanteils"]]
+  },
+  {
+    "lemma": "copyright",
+    "meanings_de": ["rechtlicher Schutz", "exklusives Recht"],
+    "definitions_de": ["Ausschließliches gesetzliches Recht, kreative Werke zu reproduzieren, zu veröffentlichen oder zu verkaufen", "Schutz, der Schöpfern von Originalwerken gewährt wird"],
+    "examples_de": [["Die Autorin hält das **Urheberrecht** an all ihren veröffentlichten Romanen", "Das **Urheberrecht** schützt Schöpfer vor unautorisiertem Kopieren ihrer Arbeit"], ["Prüfen Sie den **Urheberrechtsstatus**, bevor Sie Bilder aus dem Internet verwenden", "Das **Copyright** erlischt siebzig Jahre nach dem Tod des Schöpfers"]]
+  },
+  {
+    "lemma": "signature",
+    "meanings_de": ["geschriebener Name", "charakteristisches Merkmal"],
+    "definitions_de": ["Name einer Person, der auf charakteristische Weise zur Identifikation geschrieben wird", "Charakteristisches Muster oder Merkmal, an dem etwas erkannt wird"],
+    "examples_de": [["Bitte setzen Sie Ihre **Unterschrift** auf die untere Zeile des Vertrags", "Die Bank verglich **Unterschriften**, um die Echtheit des Schecks zu überprüfen"], ["Das **Signature**-Gericht des Küchenchefs verwendet einzigartig zubereitete lokale Zutaten", "Dieser Gitarrensound ist sein **Markenzeichen**, sofort erkennbar"]]
+  },
+  {
+    "lemma": "bishop",
+    "meanings_de": ["religiöser Führer", "Schachfigur"],
+    "definitions_de": ["Hochrangiges Mitglied des christlichen Klerus, das für eine Diözese verantwortlich ist", "Schachfigur, die sich diagonal über das Brett bewegt"],
+    "examples_de": [["Der **Bischof** leitete den Ostergottesdienst in der Kathedrale", "**Bischöfe** beaufsichtigen mehrere Kirchen innerhalb ihrer zugewiesenen Diözese"], ["Sie bewegte ihren **Läufer**, um den gegnerischen König anzugreifen", "Im Schach beginnt jeder Spieler mit zwei **Läufern**"]]
+  },
+  {
+    "lemma": "soup",
+    "meanings_de": ["flüssige Speise", "chaotische Situation"],
+    "definitions_de": ["Flüssiges Gericht, das typischerweise aus Gemüse, Fleisch und Brühe zubereitet wird", "Chaotische oder schwierige Situation"],
+    "examples_de": [["Hühner**suppe** ist ein beliebtes Heilmittel bei Erkältungen und Grippe", "Das Restaurant serviert **Suppe** als Vorspeise vor den Hauptgerichten"], ["Der Nebel war heute Morgen so dick wie Erbsen**suppe**", "Jetzt sitzen wir in der **Tinte** mit dieser nahenden Deadline"]]
+  },
+  {
+    "lemma": "carrier",
+    "meanings_de": ["Transportunternehmen", "Krankheitsüberträger"],
+    "definitions_de": ["Unternehmen, das beruflich Güter oder Personen transportiert", "Person oder Tier, das Krankheiten überträgt, ohne Symptome zu zeigen"],
+    "examples_de": [["Der Post**bote** liefert sechs Tage die Woche Pakete aus", "Wählen Sie einen zuverlässigen **Spediteur** für den internationalen Versand wertvoller Artikel"], ["Mücken sind **Überträger** von Malaria in tropischen Regionen weltweit", "Manche Menschen sind **Träger** genetischer Erkrankungen, ohne es zu wissen"]]
+  },
+  {
+    "lemma": "anniversary",
+    "meanings_de": ["jährliche Feier", "Gedenktag"],
+    "definitions_de": ["Datum, an dem ein Ereignis in einem früheren Jahr stattfand", "Feier eines bedeutsamen Datums oder Meilensteins"],
+    "examples_de": [["Sie feierten ihren 25. Hochzeits**tag** mit einer Kreuzfahrt", "Der **Jubiläums**verkauf des Unternehmens bietet jedes Jahr im Juli große Rabatte"], ["Der **Jahrestag** der Tragödie wird mit einem Gedenkgottesdienst begangen", "Morgen jährt sich unser erstes Treffen zum zehnten Mal"]]
+  },
+  {
+    "lemma": "pizza",
+    "meanings_de": ["italienisches Gericht", "rundes Essen"],
+    "definitions_de": ["Flaches, rundes Brot belegt mit Tomatensauce, Käse und verschiedenen Belägen", "Beliebtes Essen aus Italien, das in Stücken serviert wird"],
+    "examples_de": [["Wir bestellten **Pizza** mit Peperoni und Pilzen zum Abendessen", "Die **Pizzeria** liefert am Wochenende bis Mitternacht"], ["Hausgemachte **Pizza** schmeckt besser als tiefgefrorene Sorten aus dem Laden", "**Pizza**-Abend ist eine Freitagstradition in unserer Familie"]]
+  },
+  {
+    "lemma": "ethics",
+    "meanings_de": ["moralische Grundsätze", "Berufsstandards"],
+    "definitions_de": ["Moralische Prinzipien, die Verhalten und Entscheidungsfindung leiten", "Verhaltensregeln für Mitglieder eines Berufsstands"],
+    "examples_de": [["Die **Ethik**richtlinie des Unternehmens verbietet die Annahme teurer Geschenke von Lieferanten", "Philosophiestudenten debattieren über **Ethik** und moralische Dilemmata im Unterricht"], ["Die ärztliche **Standesethik** verlangt, dass Ärzte die Vertraulichkeit der Patienten stets wahren", "Die Journalistin verletzte die **Berufsethik**, indem sie ihre anonyme Quelle preisgab"]]
+  },
+  {
+    "lemma": "legend",
+    "meanings_de": ["berühmte Person", "traditionelle Geschichte"],
+    "definitions_de": ["Extrem berühmte Person, besonders in einem bestimmten Bereich", "Traditionelle Geschichte aus der Vergangenheit, die möglicherweise nicht wahr ist"],
+    "examples_de": [["Michael Jordan ist eine weltweit bekannte Basketball-**Legende**", "Die Sängerin wurde zur **Legende** in der Country-Musik-Branche"], ["Die **Sage** von König Artus umfasst Ritter und Magie", "Lokale **Legenden** erzählen von vergrabenen Schätzen in diesen Hügeln"]]
+  },
+  {
+    "lemma": "eagle",
+    "meanings_de": ["großer Vogel", "Golfpunktzahl"],
+    "definitions_de": ["Großer Raubvogel mit gebogenem Schnabel und scharfer Sicht", "Punktzahl von zwei Schlägen unter Par bei einem Golfloch"],
+    "examples_de": [["Der Weiß**kopfseeadler** ist der Nationalvogel der Vereinigten Staaten", "**Adler** bauen riesige Nester hoch in Bäumen oder auf Klippen"], ["Sie erzielte ein **Eagle** am Par-fünf siebzehnten Loch", "Ein **Eagle** zu erreichen erfordert außergewöhnliches Können und etwas Glück"]]
+  },
+  {
+    "lemma": "scholarship",
+    "meanings_de": ["akademisches Stipendium", "Gelehrsamkeit"],
+    "definitions_de": ["Zuschuss oder Zahlung zur Unterstützung der Ausbildung eines Studenten", "Akademische Studien oder Leistungen in einem bestimmten Bereich"],
+    "examples_de": [["Das **Stipendium** deckte ihre Studiengebühren und Bücher für vier Jahre", "Sport**stipendien** helfen talentierten Spielern, sich das College leisten zu können"], ["Seine **Gelehrsamkeit** über antike Texte erlangte internationale Anerkennung", "Die **Forschung** der Professorin umfasst Dutzende veröffentlichter wissenschaftlicher Arbeiten"]]
+  },
+  {
+    "lemma": "crack",
+    "meanings_de": ["schmale Öffnung", "scharfer Laut"],
+    "definitions_de": ["Linie auf der Oberfläche von etwas, wo es gespalten wurde ohne zu brechen", "Plötzlicher scharfer Laut wie von etwas, das bricht"],
+    "examples_de": [["Der **Riss** in der Wand wurde nach dem Erdbeben größer", "Versiegeln Sie die **Risse** um die Fenster, um Zugluft zu verhindern"], ["Wir hörten den **Knall** des Donners unmittelbar nach dem Blitz", "Das **Krachen** des Schlägers signalisierte einen Homerun"]]
+  },
+  {
+    "lemma": "membership",
+    "meanings_de": ["Zugehörigkeitsstatus", "Mitgliederschaft"],
+    "definitions_de": ["Zustand der Zugehörigkeit zu einer Gruppe, einem Verein oder einer Organisation", "Alle Mitglieder einer Gruppe zusammen"],
+    "examples_de": [["Die Fitnessstudio-**Mitgliedschaft** umfasst Zugang zu allen Kursen und Geräten", "Ihre **Mitgliedschaft** im Berufsverband hilft ihr beim Netzwerken"], ["Die **Mitglieder** des Clubs stimmten gestern Abend für eine Satzungsänderung", "Die **Mitgliederzahl** ist dieses Jahr allein um zwanzig Prozent gewachsen"]]
+  },
+  {
+    "lemma": "standing",
+    "meanings_de": ["aufrechte Position", "Statusrang"],
+    "definitions_de": ["Position des aufrechten Stehens auf den Füßen", "Position oder Ruf innerhalb einer Gruppe oder Gesellschaft"],
+    "examples_de": [["Nach dem ganzen Tag **Stehen** waren ihre Füße müde und wund", "Das Publikum gab nach der Aufführung **stehende** Ovationen"], ["Sein **Ansehen** in der Gemeinde verbesserte sich nach seiner Wohltätigkeitsarbeit", "Prüfen Sie Ihren akademischen **Stand**, bevor Sie sich für fortgeschrittene Kurse anmelden"]]
+  },
+  {
+    "lemma": "possession",
+    "meanings_de": ["Besitzzustand", "persönliches Eigentum"],
+    "definitions_de": ["Zustand des Habens, Besitzens oder Kontrollierens von etwas", "Gegenstand, der jemandem gehört oder von jemandem kontrolliert wird"],
+    "examples_de": [["Der **Besitz** gestohlener Güter ist eine schwere Straftat", "Das Team behielt den **Ballbesitz** für den größten Teil des Spiels"], ["Packen Sie Ihre **Habseligkeiten** sorgfältig vor dem Umzug nächste Woche", "Ihr wertvollster **Besitz** war der Ehering ihrer Großmutter"]]
+  },
+  {
+    "lemma": "treaty",
+    "meanings_de": ["formelles Abkommen", "Friedensvertrag"],
+    "definitions_de": ["Förmlich geschlossene Vereinbarung zwischen Ländern oder Staaten", "Schriftlicher Vertrag zwischen zwei oder mehr politischen Autoritäten"],
+    "examples_de": [["Der Friedens**vertrag** beendete fünf Jahre erbitterten Konflikts", "Beide Nationen unterzeichneten den **Vertrag** zum Verbot von Atomwaffentests"], ["Handels**abkommen** erleichtern den Handel zwischen Partnerländern weltweit", "Die **Vertrags**verhandlungen dauerten Monate bis zur Einigung"]]
+  },
+  {
+    "lemma": "consciousness",
+    "meanings_de": ["Bewusstseinszustand", "kollektives Bewusstsein"],
+    "definitions_de": ["Zustand des Wachseins und der Wahrnehmung der Umgebung", "Bewusstsein oder Wahrnehmung von etwas durch eine Gruppe"],
+    "examples_de": [["Die Patientin erlangte nach der Operation langsam das **Bewusstsein** wieder", "Meditation kann **Bewusstseins**zustände und Wahrnehmung verändern"], ["Das Umwelt**bewusstsein** hat in den letzten Jahren dramatisch zugenommen", "Das Buch erforscht das **Bewusstsein** und die Natur der Realität"]]
+  },
+  {
+    "lemma": "manufacturing",
+    "meanings_de": ["Produktionsprozess", "Industriesektor"],
+    "definitions_de": ["Prozess der Herstellung von Waren in Fabriken im großen Maßstab", "Industriezweig, der Güter produziert"],
+    "examples_de": [["**Fertigungs**arbeitsplätze sind in vielen entwickelten Ländern kürzlich zurückgegangen", "Der **Herstellungsprozess** erfordert strenge Qualitätskontrollmaßnahmen"], ["China führt die Welt in **Produktions**leistung und Exporten an", "Fortschrittliche **Fertigung** nutzt Roboter und künstliche Intelligenzsysteme"]]
+  },
+  {
+    "lemma": "announcement",
+    "meanings_de": ["öffentliche Erklärung", "formelle Bekanntgabe"],
+    "definitions_de": ["Öffentliche oder formelle Aussage über eine Tatsache oder Absicht", "Handlung, etwas öffentlich bekannt zu machen"],
+    "examples_de": [["Die **Ankündigung** des Unternehmens überraschte Investoren und Mitarbeiter gleichermaßen", "Hochzeits**anzeigen** erschienen in der Sonntagsausgabe der Lokalzeitung"], ["Der Direktor machte eine **Durchsage** über die Schulsprechanlage", "Wir warten auf die offizielle **Bekanntgabe** der Wahlergebnisse"]]
+  },
+  {
+    "lemma": "makeup",
+    "meanings_de": ["Kosmetikprodukte", "Zusammensetzungsstruktur"],
+    "definitions_de": ["Kosmetische Produkte, die auf das Gesicht aufgetragen werden, um das Aussehen zu verbessern", "Kombination von Eigenschaften oder Bestandteilen, die etwas bilden"],
+    "examples_de": [["Sie trug sorgfältig **Make-up** vor dem Fotoshooting auf", "Die **Maskenbildnerin** verwandelte Schauspieler in glaubwürdige Charaktere"], ["Die ethnische **Zusammensetzung** des Viertels hat sich im Laufe der Zeit verändert", "Wissenschaftler untersuchen die genetische **Zusammensetzung** verschiedener Organismen"]]
+  },
+  {
+    "lemma": "pop",
+    "meanings_de": ["plötzlicher Laut", "Popmusik"],
+    "definitions_de": ["Plötzlicher, scharfer, explosiver Laut", "Moderne kommerzielle Musik, typischerweise mit starkem Rhythmus"],
+    "examples_de": [["Der Ballon machte einen lauten **Knall**, als er plötzlich platzte", "Wir hörten das **Ploppen** der Champagnerkorken um Mitternacht"], ["**Pop**musik dominiert Radiosender und Streaming-Dienste weltweit", "Das Konzert des **Pop**stars war in Minuten online ausverkauft"]]
+  },
+  {
+    "lemma": "prediction",
+    "meanings_de": ["Zukunftsprognose", "fundierte Vermutung"],
+    "definitions_de": ["Aussage darüber, was in der Zukunft passieren wird", "Vorhersage basierend auf Wissen, Erfahrung oder Beweisen"],
+    "examples_de": [["Wetter**vorhersagen** helfen Menschen, Outdoor-Aktivitäten sicher zu planen", "Seine **Prognose** über das Wahlergebnis erwies sich als bemerkenswert genau"], ["Wissenschaftler machen **Vorhersagen** basierend auf Daten und getesteten Theorien", "Das **Vorhersage**modell nutzt künstliche Intelligenz zur Trendprognose"]]
+  },
+  {
+    "lemma": "stability",
+    "meanings_de": ["stabiler Zustand", "Veränderungsresistenz"],
+    "definitions_de": ["Zustand der Stabilität und geringen Wahrscheinlichkeit von Veränderungen", "Eigenschaft, fest etabliert oder unwahrscheinlich zu scheitern zu sein"],
+    "examples_de": [["Politische **Stabilität** zieht ausländische Investitionen in Entwicklungsländer", "Das Medikament hilft, emotionale **Stabilität** bei Patienten aufrechtzuerhalten"], ["Finanzielle **Stabilität** erfordert sorgfältige Budgetierung und regelmäßiges Sparen", "Tests gewährleisten die **Standfestigkeit** der Brücke unter schweren Lasten"]]
+  }
+]

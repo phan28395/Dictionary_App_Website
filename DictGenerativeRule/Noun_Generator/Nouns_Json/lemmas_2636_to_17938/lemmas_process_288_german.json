@@ -1,0 +1,272 @@
+[
+  {
+    "lemma": "zephyr",
+    "meanings_de": ["sanfte Brise", "leichter Stoff"],
+    "definitions_de": ["sanfter, milder Westwind, der besonders im Frühling und Sommer weht und als angenehm empfunden wird", "sehr dünner, leichter Stoff aus Baumwolle oder Wolle, der sich durch seine luftige Beschaffenheit auszeichnet"],
+    "examples_de": [["Ein angenehmer **Zephyr** strich durch die Palmenblätter im Garten", "Der milde **Westwind** kühlte die Strandbesucher an diesem heißen Nachmittag"], ["Ihr Sommerkleid war aus zartem **Zephir** gefertigt", "Die weißen Vorhänge aus **Zephirstoff** bewegten sich sanft im Wind"]]
+  },
+  {
+    "lemma": "zeppelin",
+    "meanings_de": ["starres Luftschiff"],
+    "definitions_de": ["großes starres Luftschiff mit inneren Gaszellen, die mit Wasserstoff oder Helium gefüllt sind, benannt nach Graf Ferdinand von Zeppelin"],
+    "examples_de": [["Der **Zeppelin** schwebte majestätisch über der Stadtsilhouette", "Im Ersten Weltkrieg setzten die Deutschen **Zeppeline** für Bombenangriffe ein"]]
+  },
+  {
+    "lemma": "zimbabwe",
+    "meanings_de": ["afrikanisches Land"],
+    "definitions_de": ["Binnenstaat im südlichen Afrika, der an Südafrika und Sambia grenzt und für die Victoriafälle bekannt ist"],
+    "examples_de": [["**Simbabwe** erlangte 1980 die Unabhängigkeit von Großbritannien", "Die Victoriafälle liegen zwischen **Simbabwe** und Sambia"]]
+  },
+  {
+    "lemma": "zimbabwean",
+    "meanings_de": ["Person aus Simbabwe"],
+    "definitions_de": ["Einwohner oder Staatsangehöriger von Simbabwe oder etwas, das sich auf dieses Land bezieht"],
+    "examples_de": [["Viele **Simbabwer** sind in die Nachbarländer ausgewandert", "Die **simbabwische** Wirtschaft stand in den letzten Jahren vor erheblichen Herausforderungen"]]
+  },
+  {
+    "lemma": "zinfandel",
+    "meanings_de": ["Rebsorte", "Rotwein"],
+    "definitions_de": ["schwarze Rebsorte, die besonders in Kalifornien für die Weinherstellung angebaut wird", "kräftiger Rotwein aus Zinfandel-Trauben mit fruchtigem Geschmack und hohem Alkoholgehalt"],
+    "examples_de": [["**Zinfandel**-Reben gedeihen im warmen Klima Kaliforniens besonders gut", "Das Weingut hat sich auf den Anbau alter **Zinfandel**-Rebstöcke spezialisiert"], ["Sie bestellte zum Abendessen ein Glas **Zinfandel**", "Dieser **Zinfandel** passt hervorragend zu gegrilltem Fleisch"]]
+  },
+  {
+    "lemma": "zion",
+    "meanings_de": ["biblisches Jerusalem", "gelobtes Land"],
+    "definitions_de": ["Hügel in Jerusalem, auf dem in biblischen Zeiten die Stadt Davids erbaut wurde", "Ort, der als heilig oder als gelobtes Land angesehen wird, besonders von religiösen Gruppen"],
+    "examples_de": [["Der Berg **Zion** hat große Bedeutung in der jüdischen Geschichte", "Pilger reisten nach **Zion** für religiöse Feierlichkeiten"], ["Sie betrachteten Amerika als ihr neues **Zion**", "Die Bewegung strebte danach, **Zion** in Palästina zu errichten"]]
+  },
+  {
+    "lemma": "zionism",
+    "meanings_de": ["jüdische Nationalbewegung"],
+    "definitions_de": ["politische Bewegung, die die Gründung und Entwicklung einer jüdischen Heimstätte in Israel unterstützt"],
+    "examples_de": [["Der **Zionismus** entstand im späten neunzehnten Jahrhundert in Europa", "Theodor Herzl gilt als Vater des modernen **Zionismus**"]]
+  },
+  {
+    "lemma": "zionist",
+    "meanings_de": ["Bewegungsanhänger"],
+    "definitions_de": ["Person, die die Gründung und Entwicklung einer jüdischen Heimstätte unterstützt oder dafür eintritt"],
+    "examples_de": [["Viele frühe **Zionisten** wanderten aus Europa nach Palästina aus", "Der **zionistische** Kongress traf sich jährlich zur Planung von Siedlungsaktivitäten"]]
+  },
+  {
+    "lemma": "zoroaster",
+    "meanings_de": ["antiker Prophet"],
+    "definitions_de": ["altpersischer Prophet und Gründer des Zoroastrismus, der etwa um 600 v. Chr. lebte"],
+    "examples_de": [["**Zarathustra** predigte die Verehrung von Ahura Mazda", "Die Lehren **Zarathustras** beeinflussten spätere monotheistische Religionen"]]
+  },
+  {
+    "lemma": "zoroastrian",
+    "meanings_de": ["Religionsanhänger"],
+    "definitions_de": ["Person, die dem Zoroastrismus folgt, oder etwas, das sich auf diese alte persische Religion bezieht"],
+    "examples_de": [["Viele **Zoroastrier** flohen nach der arabischen Eroberung nach Indien", "Die **zoroastrische** Gemeinde unterhält heilige Feuertempel"]]
+  },
+  {
+    "lemma": "zoroastrianism",
+    "meanings_de": ["alte Religion"],
+    "definitions_de": ["alte persische Religion, die von Zarathustra gegründet wurde und auf der Verehrung von Ahura Mazda sowie kosmischem Dualismus basiert"],
+    "examples_de": [["Der **Zoroastrismus** beeinflusste die Entwicklung von Judentum und Christentum", "Feuer spielt eine zentrale Rolle in **zoroastrischen** Ritualen"]]
+  },
+  {
+    "lemma": "zulu",
+    "meanings_de": ["Volksgruppe", "Sprache"],
+    "definitions_de": ["Angehöriger eines südafrikanischen Volkes, das hauptsächlich in der Provinz KwaZulu-Natal lebt", "Bantusprache, die vom Zulu-Volk im südlichen Afrika gesprochen wird"],
+    "examples_de": [["Das **Zulu**-Königreich wurde in den 1800er Jahren von Shaka gegründet", "Viele **Zulu**-Traditionen werden im modernen Südafrika fortgeführt"], ["Sie studierte **Zulu** an der Universität von Natal", "**Zulu** verwendet Klicklaute in seinem Lautsystem"]]
+  },
+  {
+    "lemma": "zurich",
+    "meanings_de": ["Schweizer Stadt"],
+    "definitions_de": ["größte Stadt der Schweiz am Zürichsee gelegen, die als bedeutendes Finanzzentrum dient"],
+    "examples_de": [["**Zürich** beherbergt viele internationale Bankenzentralen", "Der Zug von Genf nach **Zürich** dauert drei Stunden"]]
+  },
+  {
+    "lemma": "aardvark",
+    "meanings_de": ["afrikanisches Säugetier"],
+    "definitions_de": ["nachtaktives, grabendendes Säugetier aus Afrika mit langer Schnauze zum Fressen von Ameisen und Termiten"],
+    "examples_de": [["Das **Erdferkel** nutzt seine kräftigen Krallen zum Graben von Höhlen", "**Erdferkel** können jede Nacht Tausende von Termiten fressen"]]
+  },
+  {
+    "lemma": "abalone",
+    "meanings_de": ["essbare Meeresschnecke"],
+    "definitions_de": ["große Meeresschnecke mit ohrförmiger Schale, die als Delikatesse gilt und an felsigen Küsten vorkommt"],
+    "examples_de": [["Taucher ernten **Seeohren** vorsichtig vom Meeresboden", "Das Restaurant serviert gegrillte **Abalone** als Spezialität"]]
+  },
+  {
+    "lemma": "abandonment",
+    "meanings_de": ["Verlassen", "völlige Hingabe"],
+    "definitions_de": ["Handlung des dauerhaften Verlassens von jemandem oder etwas ohne Absicht zurückzukehren", "völliger Mangel an Hemmung oder Zurückhaltung im Verhalten oder in Gefühlen"],
+    "examples_de": [["Die **Aufgabe** des Dorfes erfolgte während des Krieges", "**Kindesaussetzung** ist eine schwere Straftat"], ["Sie tanzte mit wilder **Hingabe** bei der Feier", "Er stürzte sich mit rücksichtsloser **Leidenschaft** in das Projekt"]]
+  },
+  {
+    "lemma": "abatement",
+    "meanings_de": ["Verringerung oder Minderung"],
+    "definitions_de": ["Prozess der Reduzierung oder Verminderung in Menge, Intensität oder Grad, besonders von etwas Schädlichem"],
+    "examples_de": [["Die Stadt ordnete **Lärmminderungsmaßnahmen** in der Nähe von Flughäfen an", "**Steuererleichterungsprogramme** fördern die Geschäftsentwicklung in der Innenstadt"]]
+  },
+  {
+    "lemma": "abattoir",
+    "meanings_de": ["Schlachthaus"],
+    "definitions_de": ["Gebäude, in dem Tiere geschlachtet und für den Fleischkonsum verarbeitet werden"],
+    "examples_de": [["Das **Schlachthaus** verarbeitet täglich Hunderte von Rindern", "Gesundheitsinspektoren überprüfen regelmäßig die Bedingungen im **Schlachthof**"]]
+  },
+  {
+    "lemma": "abaya",
+    "meanings_de": ["weites Gewand"],
+    "definitions_de": ["bodenlanger, weiter schwarzer Umhang, der von einigen muslimischen Frauen getragen wird und den gesamten Körper bedeckt"],
+    "examples_de": [["Sie trug eine bestickte **Abaya** zur Hochzeitszeremonie", "Die **Abaya** wird häufig in Saudi-Arabien getragen"]]
+  },
+  {
+    "lemma": "abbey",
+    "meanings_de": ["Klostergebäude"],
+    "definitions_de": ["Gebäude oder Gebäudekomplex, in dem Mönche oder Nonnen unter religiösen Gelübden leben"],
+    "examples_de": [["Die Westminster **Abtei** beherbergt königliche Zeremonien und Krönungen", "Die mittelalterlichen **Klosterruinen** ziehen jährlich viele Touristen an"]]
+  },
+  {
+    "lemma": "abbot",
+    "meanings_de": ["Klostervorsteher"],
+    "definitions_de": ["Mann, der Vorsteher einer Abtei von Mönchen ist und geistliche sowie administrative Autorität besitzt"],
+    "examples_de": [["Der **Abt** leitete die Morgengebete in der Kapelle", "Bruder Franziskus wurde von den Mönchen zum **Abt** gewählt"]]
+  },
+  {
+    "lemma": "abbreviation",
+    "meanings_de": ["verkürzte Form"],
+    "definitions_de": ["verkürzte Form eines Wortes oder einer Phrase, die verwendet wird, um die vollständige Form darzustellen"],
+    "examples_de": [["USA ist eine **Abkürzung** für United States of America", "Medizinische Aufzeichnungen enthalten oft zahlreiche **Abkürzungen** zur Effizienzsteigerung"]]
+  },
+  {
+    "lemma": "abdication",
+    "meanings_de": ["formeller Verzicht"],
+    "definitions_de": ["formelle Aufgabe monarchischer Macht oder einer Position der Autorität und Verantwortung"],
+    "examples_de": [["König Edwards **Abdankung** schockierte 1936 die britische Nation", "Die plötzliche **Amtsniederlegung** des Geschäftsführers stürzte das Unternehmen ins Chaos"]]
+  },
+  {
+    "lemma": "abdominal",
+    "meanings_de": ["Bauchmuskel"],
+    "definitions_de": ["Muskel im vorderen Teil des Körpers zwischen Brust und Becken"],
+    "examples_de": [["Tägliche **Bauchmuskelübungen** stärken effektiv Ihre Körpermitte", "Der Chirurg untersuchte sorgfältig den **Bauchbereich** des Patienten"]]
+  },
+  {
+    "lemma": "abduction",
+    "meanings_de": ["Entführungsverbrechen", "Auswärtsbewegung"],
+    "definitions_de": ["illegales Wegbringen einer Person durch Gewalt oder Täuschung", "Bewegung einer Gliedmaße oder eines Körperteils weg von der Mittellinie des Körpers"],
+    "examples_de": [["Die Polizei untersuchte den **Kindesentführungsfall** sofort", "**Alienentführungsgeschichten** erscheinen häufig in der Science-Fiction"], ["Die **Abduktion** des Arms beinhaltet das seitliche Anheben", "Der Physiotherapeut testete den **Abspreizungsbereich** der Schulter"]]
+  },
+  {
+    "lemma": "abductor",
+    "meanings_de": ["Entführerperson", "Muskeltyp"],
+    "definitions_de": ["Person, die jemanden illegal durch Gewalt oder Täuschung wegbringt", "Muskel, der einen Körperteil von der Mittellinie des Körpers wegbewegt"],
+    "examples_de": [["Der **Entführer** forderte Lösegeld für die Freilassung des Opfers", "Die Polizei verhaftete den mutmaßlichen **Kidnapper** innerhalb von achtundvierzig Stunden"], ["Der Hüft**abduktor** hilft beim Stabilisieren von Gehen und Laufen", "Stärken Sie Ihre **Abduktormuskeln** mit seitlichen Beinheben"]]
+  },
+  {
+    "lemma": "aberrant",
+    "meanings_de": ["abnormes Individuum"],
+    "definitions_de": ["Person oder Sache, die vom Normalen oder Erwarteten im Verhalten abweicht"],
+    "examples_de": [["Der Wissenschaftler untersuchte **Abweichler** in der Bevölkerungsstichprobe", "Soziale **Außenseiter** sind oft Diskriminierung und Missverständnissen ausgesetzt"]]
+  },
+  {
+    "lemma": "aberration",
+    "meanings_de": ["Abweichung vom Normalen", "optische Verzerrung"],
+    "definitions_de": ["Abweichung von dem, was normal, üblich oder erwartet ist, typischerweise unerwünscht", "Versagen von Strahlen, sich aufgrund von Linsenfehlern in einem Brennpunkt zu vereinigen"],
+    "examples_de": [["Sein gewalttätiger Ausbruch war eine **Verhaltensabweichung**", "Die Daten zeigten eine statistische **Anomalie**, die untersucht werden musste"], ["Die **Aberration** des Teleskops erzeugte verschwommene Bilder von Sternen", "Chromatische **Aberration** erzeugt Farbsäume in Fotografien"]]
+  },
+  {
+    "lemma": "abeyance",
+    "meanings_de": ["vorübergehende Aussetzung"],
+    "definitions_de": ["Zustand der vorübergehenden Nichtnutzung oder Aussetzung, während weitere Maßnahmen oder Entscheidungen abgewartet werden"],
+    "examples_de": [["Das Projekt wurde **auf Eis gelegt**, bis die Finanzierung genehmigt wurde", "Gerichtsverfahren bleiben **in der Schwebe**, bis Beweise auftauchen"]]
+  },
+  {
+    "lemma": "ablation",
+    "meanings_de": ["chirurgische Entfernung", "Abtragungsprozess"],
+    "definitions_de": ["chirurgische Entfernung von Körpergewebe, insbesondere durch Schneiden oder Laser", "Entfernung von Material von einer Oberfläche durch Erosion, Schmelzen oder Verdampfung"],
+    "examples_de": [["Die Herz**ablation** behandelt effektiv Probleme mit unregelmäßigem Herzrhythmus", "Der Tumor erforderte eine vollständige **Abtragung**, um eine Ausbreitung zu verhindern"], ["Die Gletscher**ablation** nimmt während der warmen Sommermonate deutlich zu", "Die **Ablation** des Hitzeschilds schützt Raumfahrzeuge beim Wiedereintritt in die Atmosphäre"]]
+  },
+  {
+    "lemma": "ablution",
+    "meanings_de": ["rituelle Waschung"],
+    "definitions_de": ["zeremonielle Waschung von Händen, Gesicht oder Körper, besonders für religiöse Zwecke"],
+    "examples_de": [["Muslime führen **Waschungen** durch, bevor ihre täglichen Gebete beginnen", "Der Priester vollzog seine **Ablutionen** vor dem Morgengottesdienst"]]
+  },
+  {
+    "lemma": "abnormality",
+    "meanings_de": ["ungewöhnlicher Zustand"],
+    "definitions_de": ["Eigenschaft oder Zustand des Abnormseins oder etwas, das von dem abweicht, was normal ist"],
+    "examples_de": [["Ärzte entdeckten eine fetale **Anomalie** während der Routineuntersuchung", "Der Bluttest ergab keine **Auffälligkeiten** in der Zellzahl"]]
+  },
+  {
+    "lemma": "abode",
+    "meanings_de": ["Wohnstätte"],
+    "definitions_de": ["Ort, an dem jemand lebt, besonders als formeller oder literarischer Begriff für Zuhause"],
+    "examples_de": [["Willkommen in meiner bescheidenen **Behausung** auf dem Land", "Die **Bleibe** des Eremiten war tief im Wald versteckt"]]
+  },
+  {
+    "lemma": "abolishment",
+    "meanings_de": ["formelle Beendigung"],
+    "definitions_de": ["Akt der formellen Beendigung eines Systems, einer Praxis oder einer Institution"],
+    "examples_de": [["Die **Abschaffung** der Sklaverei erforderte landesweit Verfassungsänderungen", "Die Bürger feierten die **Aufhebung** unfairer Steuergesetze"]]
+  },
+  {
+    "lemma": "abolition",
+    "meanings_de": ["formelle Beendigung"],
+    "definitions_de": ["Aktion der Abschaffung eines Systems, einer Praxis oder einer Institution, insbesondere der Sklaverei"],
+    "examples_de": [["Die **Abolition** der Sklaverei veränderte die amerikanische Gesellschaft grundlegend", "Befürworter der Gefängnis**abschaffung** schlagen alternative Justizsysteme vor"]]
+  },
+  {
+    "lemma": "abolitionism",
+    "meanings_de": ["Anti-Sklaverei-Bewegung"],
+    "definitions_de": ["politische Bewegung, die sich für die Beendigung der Sklaverei und anderer Formen menschlicher Knechtschaft einsetzt"],
+    "examples_de": [["Der **Abolitionismus** gewann im neunzehnten Jahrhundert rasch an Dynamik", "Frederick Douglass wurde zu einer kraftvollen Stimme für den **Abolitionismus**"]]
+  },
+  {
+    "lemma": "abolitionist",
+    "meanings_de": ["Anti-Sklaverei-Verfechter"],
+    "definitions_de": ["Person, die sich für die Beendigung der Sklaverei oder ähnlicher Praktiken einsetzt"],
+    "examples_de": [["Harriet Tubman war eine berühmte **Abolitionistin** und Fluchthelferin", "**Abolitionisten** riskierten ihr Leben beim Betrieb der Underground Railroad"]]
+  },
+  {
+    "lemma": "abomination",
+    "meanings_de": ["verabscheuungswürdige Sache"],
+    "definitions_de": ["Sache, die Ekel oder Hass hervorruft, besonders etwas moralisch Verwerfliches"],
+    "examples_de": [["Sie betrachteten das neue Gesetz als **Gräuel** gegen die Gerechtigkeit", "Die verlassene Fabrik war zu einer architektonischen **Abscheulichkeit** geworden"]]
+  },
+  {
+    "lemma": "aboriginal",
+    "meanings_de": ["Ureinwohner"],
+    "definitions_de": ["ursprünglicher Bewohner eines Landes, besonders in Bezug auf die indigenen Völker Australiens"],
+    "examples_de": [["Die **Aborigines** Australiens leben dort seit sechzigtausend Jahren", "Das Museum zeigt traditionelle **Ureinwohner**-Kunst und Artefakte"]]
+  },
+  {
+    "lemma": "abort",
+    "meanings_de": ["vorzeitige Beendigung"],
+    "definitions_de": ["Fall des Anhaltens von etwas vor der Fertigstellung, besonders einer Mission oder eines Prozesses"],
+    "examples_de": [["Der Missions**abbruch** rettete die Astronauten vor einer Katastrophe", "Ein System**abbruch** verhinderte die Installation der beschädigten Datei"]]
+  },
+  {
+    "lemma": "abrasion",
+    "meanings_de": ["Hautabschürfung", "Abnutzungsprozess"],
+    "definitions_de": ["Bereich, in dem die Haut durch Reiben abgeschürft oder abgetragen wurde", "Prozess des Abnutzens von etwas durch Reibung"],
+    "examples_de": [["Die Krankenschwester reinigte die **Schürfwunde** an seinem Knie", "Kleine **Abschürfungen** heilen bei richtiger Pflege schnell"], ["Die Gesteins**abrasion** schuf über Jahrtausende glatte Oberflächen", "Reifen**abrieb** hinterlässt Gummipartikel auf Straßenoberflächen"]]
+  },
+  {
+    "lemma": "abrasive",
+    "meanings_de": ["Schleifmaterial"],
+    "definitions_de": ["Substanz, die zum Schleifen, Polieren oder Reinigen einer harten Oberfläche verwendet wird"],
+    "examples_de": [["Schleifpapier enthält **Schleifpartikel** zum Glätten von Holz", "Industrielle **Schleifmittel** entfernen Rost von Metalloberflächen"]]
+  },
+  {
+    "lemma": "abrogation",
+    "meanings_de": ["formelle Aufhebung"],
+    "definitions_de": ["formelle Abschaffung oder Annullierung eines Gesetzes, einer Vereinbarung oder eines Brauchs durch eine Autorität"],
+    "examples_de": [["Die **Aufhebung** des Vertrags überraschte diplomatische Beobachter", "Die verfassungsmäßige **Abrogation** erfordert spezifische rechtliche Verfahren"]]
+  },
+  {
+    "lemma": "absentee",
+    "meanings_de": ["abwesende Person"],
+    "definitions_de": ["Person, die von einem Ort abwesend ist, an dem sie erwartet wird"],
+    "examples_de": [["Der Lehrer vermerkte drei **Abwesende** im Anwesenheitsregister", "**Abwesende** Vermieter besuchen ihre Mietobjekte selten"]]
+  },
+  {
+    "lemma": "absenteeism",
+    "meanings_de": ["gewohnheitsmäßige Abwesenheit"],
+    "definitions_de": ["Praxis des regelmäßigen Fernbleibens von der Arbeit oder Schule ohne triftigen Grund"],
+    "examples_de": [["Hohe **Abwesenheitsraten** beeinträchtigen die Unternehmensproduktivität erheblich", "Die Schule führte Maßnahmen zur Reduzierung des **Schulschwänzens** ein"]]
+  }
+]

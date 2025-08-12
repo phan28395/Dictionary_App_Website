@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "linear",
+    "meanings_de": ["gerade oder aufeinanderfolgend", "linien-bezogen"],
+    "definitions_de": ["in gerader Linie angeordnet oder sich in einer geradlinigen, aufeinanderfolgenden Ordnung erstreckend, ohne Abweichungen oder Verzweigungen", "sich auf mathematische Beziehungen ersten Grades beziehend oder durch diese charakterisiert, wobei Variablen nur in der ersten Potenz auftreten"],
+    "examples_de": [["Das Diagramm zeigt einen **linearen** Zusammenhang zwischen Temperatur und Druck", "Wir müssen einen **linearen** Ansatz verfolgen, um das Problem zu lösen"], ["**Lineare** Gleichungen sind einfacher zu lösen als quadratische", "Die Künstlerin verwendete **lineare** Perspektive in ihren Zeichnungen"]]
+  },
+  {
+    "lemma": "lined",
+    "meanings_de": ["mit Linien versehen", "gefüttert"],
+    "definitions_de": ["mit Linien bedeckt oder Linien auf der Oberfläche aufweisend, die durch natürliche Prozesse oder künstlich entstanden sind", "mit Material an der Innenseite versehen, das dem Schutz vor Kälte oder der Verstärkung dient"],
+    "examples_de": [["Ihr **liniertes** Gesicht zeigte die Spuren jahrelanger Arbeit im Freien", "Verwenden Sie **liniertes** Papier für Ihren Aufsatz"], ["Der Mantel war mit weichem Fleece **gefüttert** für den Winter", "Sie trug eine pelz**gefütterte** Jacke im Schnee"]]
+  },
+  {
+    "lemma": "linguistic",
+    "meanings_de": ["sprachbezogen"],
+    "definitions_de": ["sich auf Sprache oder die wissenschaftliche Untersuchung menschlicher Sprache und Kommunikation beziehend, einschließlich ihrer Struktur, Entwicklung und sozialen Funktionen"],
+    "examples_de": [["Sie verfügt über ausgeprägte **linguistische** Fähigkeiten in mehreren Sprachen", "Die **linguistische** Analyse enthüllte Muster in regionalen Dialekten"]]
+  },
+  {
+    "lemma": "linked",
+    "meanings_de": ["miteinander verbunden"],
+    "definitions_de": ["physisch oder konzeptionell mit etwas anderem verbunden oder verknüpft, sodass eine Beziehung oder Abhängigkeit zwischen den Elementen besteht"],
+    "examples_de": [["Die beiden Themen sind im Bericht eng **verknüpft**", "Sie gingen **eingehakt** spazieren"]]
+  },
+  {
+    "lemma": "lipped",
+    "meanings_de": ["mit Lippen versehen", "mit einem Rand"],
+    "definitions_de": ["Lippen einer bestimmten Art oder Form besitzend, oft in Zusammensetzungen zur näheren Beschreibung verwendet", "mit einem Rand oder einer Kante versehen, die wie eine Lippe vorsteht und bestimmte Funktionen erfüllt"],
+    "examples_de": [["Der dünn**lippige** Mann lächelte selten", "Sie bemerkte die voll**lippige** Statue im Museum"], ["Der **gerandete** Behälter verhindert Verschütten beim Ausgießen", "Verwenden Sie eine **lippige** Schüssel zum Mischen des Teigs"]]
+  },
+  {
+    "lemma": "liquefied",
+    "meanings_de": ["verflüssigt"],
+    "definitions_de": ["aus einem festen oder gasförmigen Zustand in flüssige Form umgewandelt durch Erhitzen, Druck oder andere physikalische Prozesse"],
+    "examples_de": [["Die **verflüssigte** Butter war bereit für das Rezept", "**Verflüssigtes** Erdgas lässt sich leichter per Schiff transportieren"]]
+  },
+  {
+    "lemma": "liquid",
+    "meanings_de": ["flüssiger Zustand", "fließend und geschmeidig", "leicht umwandelbar"],
+    "definitions_de": ["die Eigenschaften einer Flüssigkeit besitzend, ohne feste Form aber mit bestimmtem Volumen bei gegebener Temperatur", "geschmeidig und fließend in Bewegung oder Klangqualität, ohne abrupte Übergänge oder Unterbrechungen", "leicht in Bargeld oder andere Zahlungsformen umwandelbar, sodass schneller Zugriff auf finanzielle Mittel möglich ist"],
+    "examples_de": [["Wasser wechselt vom **flüssigen** in den festen Zustand beim Gefrieren", "Das **flüssige** Metall floss gleichmäßig in die Form"], ["Ihre **fließende** Stimme fesselte das gesamte Publikum", "Die Tänzerin bewegte sich mit **flüssiger** Anmut über die Bühne"], ["Sie halten **liquide** Mittel für Notfälle bereit", "Das Unternehmen pflegt **liquide** Anlagen für mehr Flexibilität"]]
+  },
+  {
+    "lemma": "liquified",
+    "meanings_de": ["verflüssigt"],
+    "definitions_de": ["aus einem festen oder gasförmigen Zustand in flüssige Form umgewandelt durch physikalische oder chemische Prozesse"],
+    "examples_de": [["Die **verflüssigte** Schokolade war perfekt zum Eintauchen", "Sie lagerten **verflüssigten** Sauerstoff in speziellen Behältern"]]
+  },
+  {
+    "lemma": "listed",
+    "meanings_de": ["aufgelistet", "offiziell registriert"],
+    "definitions_de": ["als Posten in einer Liste oder einem Verzeichnis aufgenommen und damit systematisch erfasst", "offiziell von einer Behörde oder Organisation registriert oder anerkannt mit bestimmten rechtlichen Folgen"],
+    "examples_de": [["Alle **aufgelisteten** Artikel müssen vor dem Versand überprüft werden", "Die **aufgeführten** Zutaten erscheinen auf dem Produktetikett"], ["Dies ist ein **denkmalgeschütztes** Gebäude", "Das Unternehmen ist an der Börse **notiert**"]]
+  },
+  {
+    "lemma": "lit",
+    "meanings_de": ["beleuchtet", "brennend oder entzündet"],
+    "definitions_de": ["mit Licht oder Beleuchtung versehen, um Sichtbarkeit zu ermöglichen und Dunkelheit zu vertreiben", "in Brand gesetzt oder mit einer Flamme brennend, aktiv Feuer oder Glut erzeugend"],
+    "examples_de": [["Die Straße war hell **beleuchtet** durch neue LED-Lampen", "Ein gut **beleuchteter** Arbeitsplatz verbessert Produktivität und Stimmung"], ["Die **brennenden** Kerzen schufen eine romantische Atmosphäre beim Abendessen", "Halten Sie **brennende** Zigaretten von brennbaren Materialien fern"]]
+  },
+  {
+    "lemma": "lite",
+    "meanings_de": ["reduzierter Gehalt"],
+    "definitions_de": ["mit verringertem Gehalt an bestimmten Substanzen wie Kalorien, Fett oder Alkohol im Vergleich zur Standardversion"],
+    "examples_de": [["Sie bevorzugt **Light**-Bier zu ihrer Abendmahlzeit", "Die **Light**-Version hat nur halb so viele Kalorien wie die normale"]]
+  },
+  {
+    "lemma": "literal",
+    "meanings_de": ["wörtlich genau", "Wort für Wort"],
+    "definitions_de": ["Wörter in ihrer üblichen oder grundlegendsten Bedeutung verstehend ohne metaphorische oder übertragene Interpretation", "die exakten Worte des Originaltextes oder der ursprünglichen Rede wiedergebend ohne Abweichung oder Interpretation"],
+    "examples_de": [["Die **wörtliche** Bedeutung unterscheidet sich von der übertragenen Interpretation", "Er nimmt leider alles im **wörtlichen** Sinne"], ["Dies ist eine **wortgetreue** Übersetzung aus dem antiken Text", "Sie lieferte eine **wörtliche** Abschrift des Gesprächs"]]
+  },
+  {
+    "lemma": "literate",
+    "meanings_de": ["des Lesens kundig"],
+    "definitions_de": ["fähig, in einer Sprache kompetent zu lesen und zu schreiben, sowie grundlegende schriftliche Kommunikation zu verstehen"],
+    "examples_de": [["Die **alphabetisierte** Bevölkerung ist in diesem Jahrhundert dramatisch gestiegen", "Computer**kundige** Mitarbeiter sind in modernen Büros unverzichtbar"]]
+  },
+  {
+    "lemma": "littered",
+    "meanings_de": ["mit Gegenständen übersät"],
+    "definitions_de": ["bedeckt mit achtlos verstreuten Gegenständen oder Abfallmaterialien, die Unordnung oder Verschmutzung verursachen"],
+    "examples_de": [["Der Strand war leider mit Plastikflaschen **übersät**", "Ihr Schreibtisch war mit unfertigen Projektunterlagen **übersät**"]]
+  },
+  {
+    "lemma": "littler",
+    "meanings_de": ["kleiner an Größe"],
+    "definitions_de": ["Komparativform von klein, die eine geringere Größe oder Menge im Vergleich zu etwas anderem ausdrückt"],
+    "examples_de": [["Der **kleinere** Welpe braucht besondere Pflege und Aufmerksamkeit", "Sie wählte die **kleinere** Portion, um Platz für Nachtisch zu lassen"]]
+  },
+  {
+    "lemma": "liturgical",
+    "meanings_de": ["gottesdienstbezogen"],
+    "definitions_de": ["sich auf die Liturgie oder den öffentlichen religiösen Gottesdienst und rituelle Zeremonien beziehend, insbesondere in christlichen Kirchen"],
+    "examples_de": [["Der **liturgische** Kalender leitet den Gottesdienstplan der Kirche", "Sie trugen besondere **liturgische** Gewänder für die Zeremonie"]]
+  },
+  {
+    "lemma": "livable",
+    "meanings_de": ["bewohnbar"],
+    "definitions_de": ["geeignet oder gut genug zum Wohnen mit angemessenem Komfort und den notwendigen Annehmlichkeiten für ein menschenwürdiges Leben"],
+    "examples_de": [["Die Renovierungen machten das alte Haus wieder **bewohnbar**", "Sie suchen einen **lebenswerten** Lohn zur Unterstützung ihrer Familie"]]
+  },
+  {
+    "lemma": "lively",
+    "meanings_de": ["voller Energie", "anregend und lebhaft"],
+    "definitions_de": ["voller Leben, Energie, Bewegung und Aufregung, mit spürbarer Vitalität und Dynamik", "intellektuell anregend, unterhaltend oder visuell hell und auffallend in Farbe oder Gestaltung"],
+    "examples_de": [["Die **lebhafte** Musik brachte alle auf der Party zum Tanzen", "Die Kinder wurden **munter** nach ihrem Nachmittagssnack"], ["Wir hatten eine **lebhafte** Debatte über Umweltpolitik", "Die Künstlerin verwendete **lebendige** Farben in ihren Gemälden"]]
+  },
+  {
+    "lemma": "livid",
+    "meanings_de": ["extrem wütend", "bläulich verfärbt"],
+    "definitions_de": ["außerordentlich wütend bis zu einem extremen oder unvernünftigen Grad, von Zorn erfüllt", "eine dunkle bläuliche oder gräuliche Farbe aufweisend, besonders durch Blutergüsse oder Sauerstoffmangel"],
+    "examples_de": [["Sie war **rasend** vor Wut, als sie den Verrat entdeckte", "Der Manager war **fuchsteufelswild** wegen der verpassten Deadline"], ["Der **bläuliche** Bluterguss bedeckte den größten Teil seiner Schulter", "Sein Gesicht wurde **bleifarben** durch Sauerstoffmangel"]]
+  },
+  {
+    "lemma": "loaded",
+    "meanings_de": ["eine Ladung tragend", "wohlhabend oder reich", "voreingenommen oder manipuliert"],
+    "definitions_de": ["eine Ladung von Gütern oder Fracht tragend oder damit beladen", "viel Geld oder teure Besitztümer habend, finanziell sehr gut gestellt", "mit versteckten Implikationen aufgeladen oder manipuliert, um ein bestimmtes Ergebnis zu erzielen"],
+    "examples_de": [["Der **beladene** Lastwagen bewegte sich langsam den Berg hinauf", "Stellen Sie sicher, dass die Kamera mit frischem Film **geladen** ist"], ["Ihre **steinreichen** Eltern kauften ihr ein Luxusauto", "Der **betuchte** Investor tätigte eine weitere große Spende"], ["Das ist eine **suggestive** Frage, die mich in eine Falle locken soll", "Die Würfel waren **präpariert**, um bestimmte Zahlen zu begünstigen"]]
+  },
+  {
+    "lemma": "loamy",
+    "meanings_de": ["lehmartige Beschaffenheit"],
+    "definitions_de": ["die Eigenschaften von Lehm aufweisend mit einer Mischung aus Ton, Sand und organischem Material in ausgewogenen Anteilen"],
+    "examples_de": [["Der **lehmige** Boden war perfekt für den Gemüseanbau", "Rosen gedeihen in reichhaltigen, **lehmigen** Gartenbeeten"]]
+  },
+  {
+    "lemma": "lobed",
+    "meanings_de": ["mit abgerundeten Teilen"],
+    "definitions_de": ["abgerundete Vorsprünge oder Unterteilungen aufweisend, die wie Lappen geformt sind und oft bei Blättern oder Organen vorkommen"],
+    "examples_de": [["Die **gelappten** Blätter helfen, diese Eichenart zu identifizieren", "Untersuchen Sie die **lappige** Struktur sorgfältig unter dem Mikroskop"]]
+  },
+  {
+    "lemma": "localised",
+    "meanings_de": ["örtlich begrenzt"],
+    "definitions_de": ["auf einen bestimmten Bereich oder Teil beschränkt oder begrenzt, nicht über größere Gebiete ausgebreitet"],
+    "examples_de": [["Die Infektion blieb auf die Wundstelle **lokalisiert**", "Sie erlebten **örtlich begrenzte** Überschwemmungen nach starken Regenfällen"]]
+  },
+  {
+    "lemma": "localized",
+    "meanings_de": ["örtlich begrenzt"],
+    "definitions_de": ["auf einen bestimmten Bereich oder Teil beschränkt oder begrenzt, ohne sich auf andere Bereiche auszubreiten"],
+    "examples_de": [["Der Arzt sagte, der Schmerz sei **lokalisiert**", "Wir beobachten diese Woche **örtlich begrenzte** Wettermuster"]]
+  },
+  {
+    "lemma": "located",
+    "meanings_de": ["an einem Ort gelegen"],
+    "definitions_de": ["an einem bestimmten Platz oder einer bestimmten Position geografisch situiert oder positioniert"],
+    "examples_de": [["Das Hotel ist nahe dem Stadtzentrum **gelegen**", "Das neu **angesiedelte** Restaurant zieht täglich viele Kunden an"]]
+  },
+  {
+    "lemma": "loco",
+    "meanings_de": ["verrückt oder wahnsinnig"],
+    "definitions_de": ["verrückt, wahnsinnig oder extrem törichtes Verhalten zeigend, oft in gefährlicher oder unberechenbarer Weise"],
+    "examples_de": [["Diese **verrückte** Idee könnte jemanden ernsthaft verletzen", "Er wurde völlig **durchgeknallt** nach dem Verlust seines Jobs"]]
+  },
+  {
+    "lemma": "locomotive",
+    "meanings_de": ["fortbewegungsbezogen"],
+    "definitions_de": ["sich auf Fortbewegung beziehend oder diese bewirkend, die Fähigkeit zur Bewegung von einem Ort zum anderen betreffend"],
+    "examples_de": [["Die **lokomotorischen** Fähigkeiten des Patienten verbesserten sich durch Physiotherapie", "**Fortbewegungsfähigkeiten** entwickeln sich bei kleinen Kindern rasch"]]
+  },
+  {
+    "lemma": "lofty",
+    "meanings_de": ["sehr große Höhe", "edel und erhaben"],
+    "definitions_de": ["von beeindruckender Höhe, die sich hoch vom Bodenniveau erstreckt und oft Ehrfurcht einflößt", "in Charakter, Zweck oder Idealen erhaben, edle Eigenschaften zeigend und nach hohen Zielen strebend"],
+    "examples_de": [["Die **hohen** Berge berührten die Wolken darüber", "**Hohe** Decken lassen den Raum geräumiger wirken"], ["Sie hat **ehrgeizige** Ambitionen, die Welt zu verändern", "Seine **erhabenen** Ideale inspirierten die gesamte Bewegung"]]
+  },
+  {
+    "lemma": "logarithmic",
+    "meanings_de": ["logarithmisch"],
+    "definitions_de": ["sich auf Logarithmen beziehend oder in Form von Logarithmen ausgedrückt, einer mathematischen Operation zur Basis-Exponenten-Umkehrung"],
+    "examples_de": [["Die Daten folgen eindeutig einem **logarithmischen** Wachstumsmuster", "Verwenden Sie eine **logarithmische** Skala für diese Art von Diagramm"]]
+  },
+  {
+    "lemma": "logistic",
+    "meanings_de": ["logistikbezogen"],
+    "definitions_de": ["sich auf die detaillierte Organisation und Durchführung komplexer Operationen beziehend, insbesondere Transport und Versorgung"],
+    "examples_de": [["Wir standen während des Umzugs vor mehreren **logistischen** Herausforderungen", "Die **logistische** Unterstützung sicherte reibungslose Militäroperationen"]]
+  },
+  {
+    "lemma": "logistical",
+    "meanings_de": ["logistikbezogen"],
+    "definitions_de": ["sich auf die detaillierte Koordination komplexer Operationen beziehend, die viele Teile und Aspekte umfassen und präzise Planung erfordern"],
+    "examples_de": [["Die Veranstaltung stellte viele **logistische** Probleme zum Lösen dar", "Die **logistische** Planung dauerte Monate vor der Konferenz"]]
+  },
+  {
+    "lemma": "lone",
+    "meanings_de": ["einzeln und isoliert"],
+    "definitions_de": ["als einziger ohne andere in der Nähe oder begleitend existierend, vollständig allein oder abgesondert"],
+    "examples_de": [["Ein **einsamer** Wolf heulte in den fernen Bergen", "Der **einzige** Überlebende erzählte die erschütternde Rettungsgeschichte"]]
+  },
+  {
+    "lemma": "lonesome",
+    "meanings_de": ["traurig durch Isolation"],
+    "definitions_de": ["traurig aufgrund des Alleinseins oder der Isolation von anderen, ein Gefühl der Einsamkeit empfindend"],
+    "examples_de": [["Sie fühlte sich **einsam** nach dem Umzug in die Stadt", "Der **einsame** Cowboy ritt über die leeren Ebenen"]]
+  },
+  {
+    "lemma": "longish",
+    "meanings_de": ["ziemlich lang"],
+    "definitions_de": ["recht lang, aber nicht extrem in Länge oder Dauer, eine mittlere bis überdurchschnittliche Ausdehnung aufweisend"],
+    "examples_de": [["Sie trug ihr Haar in einem **länglichen** Stil", "Das Meeting dauerte **ziemlich lange** drei Stunden"]]
+  },
+  {
+    "lemma": "longitudinal",
+    "meanings_de": ["längsgerichtet"],
+    "definitions_de": ["in Längsrichtung verlaufend oder sich auf Längengrade in der Geografie oder Langzeitstudien in der Forschung beziehend"],
+    "examples_de": [["Die **Langzeitstudie** verfolgte Probanden über zwanzig Jahre", "Machen Sie **längsgerichtete** Schnitte entlang des Holzbalkens"]]
+  },
+  {
+    "lemma": "longstanding",
+    "meanings_de": ["seit langem bestehend"],
+    "definitions_de": ["für eine lange Zeit existierend oder fortdauernd, eine beträchtliche historische Dauer aufweisend"],
+    "examples_de": [["Sie lösten ihren **langjährigen** Streit durch Vermittlung", "Das Unternehmen hat eine **alteingesessene** Tradition der Exzellenz"]]
+  },
+  {
+    "lemma": "looking",
+    "meanings_de": ["ein Aussehen habend"],
+    "definitions_de": ["ein bestimmtes Aussehen aufweisend, wenn mit anderen beschreibenden Wörtern kombiniert zur Charakterisierung des Erscheinungsbildes"],
+    "examples_de": [["Sie ist eine **professionell aussehende** Frau in den Dreißigern", "Das ist ein **verdächtig aussehendes** Paket an der Tür"]]
+  },
+  {
+    "lemma": "loony",
+    "meanings_de": ["albern oder verrückt"],
+    "definitions_de": ["albern, verrückt oder exzentrisches und törichtes Verhalten zeigend, oft in harmloser aber auffälliger Weise"],
+    "examples_de": [["Seine **verrückten** Ideen bringen uns immer zum Lachen", "Hör auf, dich so **albern** in der Öffentlichkeit zu benehmen"]]
+  },
+  {
+    "lemma": "loosened",
+    "meanings_de": ["weniger fest gemacht"],
+    "definitions_de": ["weniger fest, straff oder kompakt gemacht als zuvor, die Spannung oder den Halt verringernd"],
+    "examples_de": [["Er **lockerte** seine Krawatte nach dem formellen Abendessen", "Der **gelockerte** Boden war bereit für die Aussaat von Samen"]]
+  },
+  {
+    "lemma": "looted",
+    "meanings_de": ["in Unordnung gestohlen"],
+    "definitions_de": ["gestohlen oder geplündert, besonders während Krieg oder Bürgerunruhen, wenn normale Ordnung zusammenbricht"],
+    "examples_de": [["Die **geplünderten** Artefakte wurden an das Museum zurückgegeben", "**Geplünderte** Geschäfte zeigten das Ausmaß der Bürgerunruhen"]]
+  },
+  {
+    "lemma": "lopsided",
+    "meanings_de": ["ungleich oder unausgewogen"],
+    "definitions_de": ["mit einer Seite niedriger, kleiner oder weniger entwickelt als die andere, ein asymmetrisches Erscheinungsbild aufweisend"],
+    "examples_de": [["Sein **schiefes** Grinsen brachte alle zum Zurücklächeln", "Der **schiefe** Kuchen schmeckte trotz des Aussehens köstlich"]]
+  },
+  {
+    "lemma": "lordly",
+    "meanings_de": ["edel und stolz"],
+    "definitions_de": ["die stolze, überlegene Art eines Lords habend oder zeigend, mit herrschaftlichem Gebaren und aristokratischer Haltung"],
+    "examples_de": [["Er wies ihre Bedenken mit **herrschaftlicher** Gleichgültigkeit zurück", "Die Katze behielt eine **majestätische** Pose auf der Fensterbank"]]
+  },
+  {
+    "lemma": "lossless",
+    "meanings_de": ["ohne Datenverlust"],
+    "definitions_de": ["Datenkompression oder -konvertierung ermöglichend ohne jeglichen Verlust von Informationen, wobei die Originaldaten vollständig wiederherstellbar sind"],
+    "examples_de": [["Verwenden Sie **verlustfreie** Kompression für die Archivierung wichtiger Fotos", "Dieses **verlustfreie** Audioformat bewahrt die Originalqualität"]]
+  },
+  {
+    "lemma": "lossy",
+    "meanings_de": ["mit Datenverlust"],
+    "definitions_de": ["Datenkompression beinhaltend, die einige Informationen verliert, um die Dateigröße zu reduzieren, wobei ein Kompromiss zwischen Qualität und Speicherplatz eingegangen wird"],
+    "examples_de": [["JPEG ist ein **verlustbehaftetes** Format für Bildkompression", "**Verlustbehaftete** Kompression reduziert die Dateigröße, opfert aber Qualität"]]
+  },
+  {
+    "lemma": "lousy",
+    "meanings_de": ["sehr schlechte Qualität", "sich krank fühlend"],
+    "definitions_de": ["sehr schlecht oder minderwertig in Qualität oder Zustand, deutlich unter akzeptablen Standards", "sich krank oder körperlich unwohl und unbehaglich fühlend, von Krankheit geplagt"],
+    "examples_de": [["Das Restaurant servierte gestern Abend **mieses** Essen", "Er hat einen **lausigen** Job beim Streichen des Zauns gemacht"], ["Ich fühle mich **miserabel** mit dieser schrecklichen Erkältung", "Sie war die ganze Woche **elend** wegen der Grippe"]]
+  },
+  {
+    "lemma": "louvered",
+    "meanings_de": ["mit schrägen Lamellen"],
+    "definitions_de": ["mit abgewinkelten Lamellen ausgestattet, die Luftstrom ermöglichen, während sie Regen abhalten und Privatsphäre bieten"],
+    "examples_de": [["Die **Jalousie**fenster bieten Belüftung und Privatsphäre", "Installieren Sie **Lamellen**lüfter zur Verbesserung der Dachbodenbelüftung"]]
+  },
+  {
+    "lemma": "lovable",
+    "meanings_de": ["Zuneigung erweckend"],
+    "definitions_de": ["Eigenschaften besitzend, die Liebe, Zuneigung oder warme Gefühle inspirieren und Menschen dazu bringen, positive Emotionen zu empfinden"],
+    "examples_de": [["Der **liebenswerte** Welpe gewann sofort jedermanns Herz", "Trotz seiner Fehler ist er ein **liebenswerter** Charakter"]]
+  },
+  {
+    "lemma": "loved",
+    "meanings_de": ["mit Liebe betrachtet"],
+    "definitions_de": ["liebgehalten oder mit tiefer Zuneigung von jemandem betrachtet, Gegenstand von Liebe und Fürsorge"],
+    "examples_de": [["Sie fühlte sich von ihrer Familie **geliebt** und unterstützt", "Die **geliebte** Lehrerin ging nach vierzig Jahren in Rente"]]
+  },
+  {
+    "lemma": "loveless",
+    "meanings_de": ["ohne Liebe"],
+    "definitions_de": ["ohne Liebe, Zuneigung oder Wärme in Beziehungen oder Umständen, emotionale Kälte und Distanz aufweisend"],
+    "examples_de": [["Sie blieben in einer **lieblosen** Ehe zusammen", "Die **lieblose** Kindheit beeinflusste ihn tief als Erwachsener"]]
+  },
+  {
+    "lemma": "lovesick",
+    "meanings_de": ["liebeskrank"],
+    "definitions_de": ["sich schwach, niedergeschlagen oder krank fühlend aufgrund unerwiderter Liebe oder romantischer Sehnsucht"],
+    "examples_de": [["Der **liebeskranke** Teenager schrieb die ganze Nacht Gedichte", "Er ist **liebeskrank**, seit sie weggezogen ist"]]
+  }
+]

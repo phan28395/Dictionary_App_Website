@@ -1,0 +1,266 @@
+[
+  {
+    "lemma": "electrolyte",
+    "meanings_de": ["chemische Leiterlösung"],
+    "definitions_de": ["Substanz, die beim Auflösen in Wasser oder im geschmolzenen Zustand eine elektrisch leitfähige Lösung bildet"],
+    "examples_de": [["Sportgetränke enthalten **Elektrolyte**, um beim Schwitzen verlorene Mineralstoffe zu ersetzen", "Die Batterie benötigt frische **Elektrolytlösung**, um ordnungsgemäß zu funktionieren"]]
+  },
+  {
+    "lemma": "electromagnet",
+    "meanings_de": ["magnetisiertes Metallgerät"],
+    "definitions_de": ["Gerät, das mithilfe von elektrischem Strom, der durch Drahtspulen fließt, ein Magnetfeld erzeugt"],
+    "examples_de": [["Der Kran nutzt einen starken **Elektromagneten**, um schwere Metallgegenstände anzuheben", "Die Wissenschaftler bauten einen **Elektromagneten** für ihr Physikexperiment zum Magnetismus"]]
+  },
+  {
+    "lemma": "electromagnetism",
+    "meanings_de": ["magnetisch-elektrische Kraft"],
+    "definitions_de": ["Teilgebiet der Physik, das sich mit der Wechselwirkung zwischen elektrischen und magnetischen Feldern sowie deren Auswirkungen befasst"],
+    "examples_de": [["Das Verständnis des **Elektromagnetismus** ist entscheidend für die Entwicklung moderner elektronischer Geräte", "Die Maxwell-Gleichungen beschreiben die grundlegenden Gesetze des **Elektromagnetismus** in der Natur"]]
+  },
+  {
+    "lemma": "electron",
+    "meanings_de": ["atomares Teilchen"],
+    "definitions_de": ["negativ geladenes subatomares Teilchen, das den Atomkern umkreist"],
+    "examples_de": [["**Elektronen** fließen durch den Draht und erzeugen dabei elektrischen Strom", "Der Wissenschaftler untersuchte, wie sich **Elektronen** in verschiedenen chemischen Reaktionen verhalten"]]
+  },
+  {
+    "lemma": "electroshock",
+    "meanings_de": ["elektrische medizinische Behandlung"],
+    "definitions_de": ["medizinische Behandlung, bei der kontrollierte elektrische Ströme durch das Gehirn geleitet werden, um psychische Erkrankungen zu behandeln"],
+    "examples_de": [["Der Psychiater empfahl eine **Elektroschocktherapie** bei schweren Depressionsfällen", "Die moderne **Elektroschockbehandlung** ist deutlich sicherer als frühere Versionen"]]
+  },
+  {
+    "lemma": "elegance",
+    "meanings_de": ["verfeinerte Anmut"],
+    "definitions_de": ["Eigenschaft, in Erscheinung, Verhalten oder Design anmutig, stilvoll und kultiviert zu sein"],
+    "examples_de": [["Die Tänzerin bewegte sich mit natürlicher **Eleganz** über die Bühne", "Die schlichte **Eleganz** des Designs beeindruckte alle Kritiker"]]
+  },
+  {
+    "lemma": "elegy",
+    "meanings_de": ["Trauergedicht"],
+    "definitions_de": ["Gedicht, das Trauer oder Klage ausdrückt, insbesondere für einen Verstorbenen"],
+    "examples_de": [["Der Dichter verfasste eine berührende **Elegie** für seinen verstorbenen Freund", "Grays '**Elegie** auf einem Dorffriedhof' wird noch heute viel studiert"]]
+  },
+  {
+    "lemma": "elevated",
+    "meanings_de": ["erhöhte Bahnstrecke"],
+    "definitions_de": ["auf einer erhöhten Konstruktion über dem Straßenniveau gebaute Eisenbahn- oder Straßentrasse"],
+    "examples_de": [["Die **Hochbahn** fährt über den geschäftigen Stadtstraßen", "In der Nähe der **Hochbahn** zu wohnen bedeutet ständigen Zuglärm"]]
+  },
+  {
+    "lemma": "elevation",
+    "meanings_de": ["Höhe über Grund", "architektonische Zeichnung"],
+    "definitions_de": ["Höhe eines Ortes über dem Meeresspiegel oder Bodenniveau", "Zeichnung, die die Vorder- oder Seitenansicht eines Gebäudes zeigt"],
+    "examples_de": [["Die Bergstadt liegt auf einer **Höhe** von 2.400 Metern", "Denvers große **Höhenlage** beeinflusst, wie Besucher atmen und Sport treiben"], ["Der Architekt präsentierte die vordere **Ansicht** des geplanten Gebäudes", "Studieren Sie die **Aufrisszeichnungen**, um das Äußere des Gebäudes zu verstehen"]]
+  },
+  {
+    "lemma": "eleven",
+    "meanings_de": ["Zahl nach zehn"],
+    "definitions_de": ["Kardinalzahl, die eins mehr als zehn ist"],
+    "examples_de": [["Die Fußballmannschaft hat **elf** Spieler auf dem Feld", "Sie lud **elf** Freunde zu ihrer Geburtstagsfeier ein"]]
+  },
+  {
+    "lemma": "eleventh",
+    "meanings_de": ["ordinale Zahlenposition"],
+    "definitions_de": ["Position oder Rang, der nach dem zehnten in einer Reihenfolge kommt"],
+    "examples_de": [["November ist der **elfte** Monat des Kalenderjahres", "Sie belegte den **elften** Platz im Marathonlauf"]]
+  },
+  {
+    "lemma": "elf",
+    "meanings_de": ["mythisches kleines Wesen"],
+    "definitions_de": ["kleines übernatürliches Wesen aus der Folklore, typischerweise mit spitzen Ohren und magischen Kräften"],
+    "examples_de": [["Die Kinder durchsuchten den Garten in der Hoffnung, einen **Elfen** zu entdecken", "In der Weihnachtswerkstatt wimmelt es von **Elfen**, die Spielzeug herstellen"]]
+  },
+  {
+    "lemma": "eligibility",
+    "meanings_de": ["Qualifikation zur Auswahl"],
+    "definitions_de": ["Zustand, die richtigen Qualifikationen zu besitzen oder Anforderungen zu erfüllen, um für etwas ausgewählt zu werden"],
+    "examples_de": [["Das Komitee wird Ihre **Berechtigung** für das Stipendienprogramm prüfen", "Sportler müssen ihre **Teilnahmeberechtigung** durch gute akademische Leistungen aufrechterhalten"]]
+  },
+  {
+    "lemma": "elimination",
+    "meanings_de": ["Entfernungsprozess"],
+    "definitions_de": ["Vorgang des vollständigen Entfernens oder Beseitigens von etwas oder des Ausschlusses einer Person"],
+    "examples_de": [["Die **Ausscheidung** von Abfallprodukten hält den Körper gesund", "Ihr Team stand nach zwei Niederlagen vor dem **Ausscheiden** aus dem Turnier"]]
+  },
+  {
+    "lemma": "eliminator",
+    "meanings_de": ["Person, die andere entfernt", "Gerät zur Entfernung"],
+    "definitions_de": ["Person, die Wettbewerber aus einem Wettkampf oder Turnier ausscheidet", "Gerät oder Substanz, die unerwünschte Elemente entfernt"],
+    "examples_de": [["Der Topgesetzte agierte in den frühen Runden als **Ausscheider**", "Er erwies sich als **Bezwinger** der schwächeren Teilnehmer"], ["Dieser **Geruchsentferner** beseitigt effektiv Haustiergerüche aus Teppichen", "Der Wasserfilter fungiert als **Bakterienentferner** für Trinkwasser"]]
+  },
+  {
+    "lemma": "elision",
+    "meanings_de": ["Lautauslassung"],
+    "definitions_de": ["Auslassung von Lauten oder Silben beim Sprechen oder Weglassen von Passagen im Text"],
+    "examples_de": [["Die **Elision** von Vokalen lässt das Gedicht flüssiger klingen", "Eine häufige **Auslassung** tritt auf, wenn wir 'gibt's' statt 'gibt es' sagen"]]
+  },
+  {
+    "lemma": "elitism",
+    "meanings_de": ["Überlegenheitsgruppenglaube"],
+    "definitions_de": ["Überzeugung, dass die Gesellschaft von einer Elitegruppe wohlhabender, gebildeter oder fähiger Menschen geführt werden sollte"],
+    "examples_de": [["Kritiker warfen dem Privatclub die Förderung von sozialem **Elitismus** vor", "Die Universität versucht **Elitedenken** durch bedarfsgerechte Stipendien zu bekämpfen"]]
+  },
+  {
+    "lemma": "elitist",
+    "meanings_de": ["Person mit Elitevorliebe"],
+    "definitions_de": ["Person, die an die Herrschaft durch Eliten glaubt oder elitäre Einstellungen hat"],
+    "examples_de": [["Der **Elitist** sah auf Menschen ohne höhere Abschlüsse herab", "Sei nicht so ein **Snob** bei Weinvorlieben"]]
+  },
+  {
+    "lemma": "elixir",
+    "meanings_de": ["magischer Zaubertrank"],
+    "definitions_de": ["magischer oder medizinischer Trank, von dem geglaubt wird, dass er Krankheiten heilt oder das Leben unendlich verlängert"],
+    "examples_de": [["Der Alchemist behauptete, sein **Elixier** könne ewige Jugend verleihen", "Sie vermarktete ihren Kräutertee als **Lebenselixier** für gute Gesundheit"]]
+  },
+  {
+    "lemma": "elk",
+    "meanings_de": ["große Hirschart"],
+    "definitions_de": ["großer Hirsch mit breitem Geweih, der in Nordamerika und Eurasien vorkommt"],
+    "examples_de": [["Ein majestätischer **Elch** stand am Rand der Waldlichtung", "Die **Elchwanderung** durch das Tal findet jeden Herbst statt"]]
+  },
+  {
+    "lemma": "ellipse",
+    "meanings_de": ["ovale geometrische Form"],
+    "definitions_de": ["regelmäßige ovale Form wie ein gestreckter Kreis mit zwei Brennpunkten"],
+    "examples_de": [["Die Planeten umkreisen die Sonne in einer **Ellipse**, nicht im Kreis", "Zeichnen Sie eine **Ellipse**, indem Sie um zwei feste Brennpunkte herumführen"]]
+  },
+  {
+    "lemma": "elm",
+    "meanings_de": ["Laubschattenbaum"],
+    "definitions_de": ["hoher Laubbaum mit rauen, gezackten Blättern, oft als Schattenspender gepflanzt"],
+    "examples_de": [["Die alte **Ulme** spendet dem gesamten Hinterhof Schatten", "Die Holländische Ulmenkrankheit tötete viele **Ulmen** im ganzen Land"]]
+  },
+  {
+    "lemma": "elocution",
+    "meanings_de": ["Sprechkunsttraining"],
+    "definitions_de": ["Fähigkeit des klaren und ausdrucksstarken Sprechens oder das Studium und die Praxis der mündlichen Darbietung"],
+    "examples_de": [["Die Schauspielerin nahm **Sprechunterricht**, um ihre Bühnenpräsenz zu verbessern", "Gute **Sprechtechnik** hilft Rednern, ihre Botschaft effektiv zu vermitteln"]]
+  },
+  {
+    "lemma": "elongation",
+    "meanings_de": ["Verlängerungsprozess"],
+    "definitions_de": ["Prozess, etwas länger zu machen, oder der Zustand des Verlängert- oder Gestreckseins"],
+    "examples_de": [["Die **Dehnung** des Metallstabs erfolgte unter extremer Hitze", "**Muskeldehnungsübungen** helfen, die Flexibilität zu verbessern und Verletzungen vorzubeugen"]]
+  },
+  {
+    "lemma": "elopement",
+    "meanings_de": ["heimliche Heiratsflucht"],
+    "definitions_de": ["Handlung des heimlichen Weglaufens, um ohne elterliche Zustimmung zu heiraten"],
+    "examples_de": [["Ihre romantische **Flucht** nach Las Vegas überraschte alle Freunde", "Das Paar plante eine stille **Durchbrennung** statt einer großen Hochzeit"]]
+  },
+  {
+    "lemma": "eloquence",
+    "meanings_de": ["überzeugende Redefähigkeit"],
+    "definitions_de": ["fließende, überzeugende und wortgewandte Verwendung der Sprache beim Sprechen oder Schreiben"],
+    "examples_de": [["Die **Beredsamkeit** des Senators rührte das Publikum zu Tränen und Applaus", "Martin Luther King Jr. war für seine kraftvolle **Redekunst** bekannt"]]
+  },
+  {
+    "lemma": "elucidation",
+    "meanings_de": ["Erklärungsklarstellung"],
+    "definitions_de": ["Vorgang, etwas durch detaillierte Erklärung oder zusätzliche Informationen zu verdeutlichen"],
+    "examples_de": [["Die **Erläuterung** der komplexen Theorie durch den Professor half den Studenten beim Verstehen", "Weitere **Aufklärung** zu den Richtlinienänderungen folgt nächste Woche"]]
+  },
+  {
+    "lemma": "emanation",
+    "meanings_de": ["etwas Hervorströmendes"],
+    "definitions_de": ["etwas, das aus einer Quelle herausfließt oder abgegeben wird, insbesondere Licht oder Geruch"],
+    "examples_de": [["Eine seltsame **Ausstrahlung** von Licht kam aus der mysteriösen Höhle", "Die **Ausdünstung** giftiger Dämpfe erforderte sofortige Evakuierungsmaßnahmen"]]
+  },
+  {
+    "lemma": "emancipation",
+    "meanings_de": ["Befreiung von Kontrolle"],
+    "definitions_de": ["Vorgang, jemanden von rechtlichen, sozialen oder politischen Beschränkungen oder der Sklaverei zu befreien"],
+    "examples_de": [["Die **Emanzipationsproklamation** befreite 1863 Sklaven in den Konföderierten Staaten", "Die **Frauenemanzipation** kämpfte für gleiche Rechte und Chancen"]]
+  },
+  {
+    "lemma": "embankment",
+    "meanings_de": ["erhöhter Erdwall"],
+    "definitions_de": ["Wall oder Damm aus Erde oder Stein, der gebaut wurde, um Überschwemmungen zu verhindern oder eine Straße zu stützen"],
+    "examples_de": [["Der **Flussdamm** schützte die Stadt vor saisonalen Hochwassern", "Arbeiter verstärkten den **Deich**, nachdem starke Regenfälle seine Struktur geschwächt hatten"]]
+  },
+  {
+    "lemma": "embargo",
+    "meanings_de": ["Handelsbeschränkungsverbot"],
+    "definitions_de": ["offizielles Verbot von Handel oder kommerzieller Aktivität mit einem bestimmten Land oder einer Gruppe"],
+    "examples_de": [["Das internationale **Embargo** verhinderte, dass Schiffe in die Häfen der Nation einliefen", "**Wirtschaftsembargos** sollen Regierungen zu Verhaltensänderungen zwingen"]]
+  },
+  {
+    "lemma": "embarkation",
+    "meanings_de": ["Einschiffung zur Reise"],
+    "definitions_de": ["Vorgang des Besteigens eines Schiffes, Flugzeugs oder anderen Fahrzeugs, um eine Reise zu beginnen"],
+    "examples_de": [["Die **Einschiffung** für die Kreuzfahrt beginnt zwei Stunden vor der Abfahrt", "Die Soldaten bereiteten ihre Ausrüstung während der **Einschiffung** im Hafen vor"]]
+  },
+  {
+    "lemma": "embarrassment",
+    "meanings_de": ["unangenehmes Schamgefühl"],
+    "definitions_de": ["Gefühl von Befangenheit, Scham oder Unbeholfenheit in einer sozialen Situation"],
+    "examples_de": [["Ihr Gesicht wurde vor **Verlegenheit** rot, nachdem sie ihre Rede vergessen hatte", "Das Unternehmen sah sich einer **Blamage** gegenüber, als ihr Produkt öffentlich versagte"]]
+  },
+  {
+    "lemma": "embellishment",
+    "meanings_de": ["dekorative Ergänzung"],
+    "definitions_de": ["dekoratives Detail oder Merkmal, das etwas hinzugefügt wird, um es attraktiver oder interessanter zu machen"],
+    "examples_de": [["Das Kleid wies entlang des Ausschnitts und der Ärmel zarte **Verzierungen** auf", "Seine Geschichte enthielt offensichtliche **Ausschmückungen**, um sie spannender zu machen"]]
+  },
+  {
+    "lemma": "ember",
+    "meanings_de": ["glühendes Kohlestück"],
+    "definitions_de": ["kleines Stück brennende oder glühende Kohle oder Holz in einem erlöschenden Feuer"],
+    "examples_de": [["Die letzte **Glut** des Lagerfeuers leuchtete orange in der Dunkelheit", "Fliegende **Glutstücke** vom Waldbrand entzündeten nahegelegenes trockenes Gras"]]
+  },
+  {
+    "lemma": "embezzlement",
+    "meanings_de": ["Diebstahl durch Angestellte"],
+    "definitions_de": ["Diebstahl oder Veruntreuung von Geldern, die einem anvertraut wurden oder dem Arbeitgeber gehören"],
+    "examples_de": [["Der Buchhalter sah sich nach dem Diebstahl von Firmengeldern mit **Unterschlagungsvorwürfen** konfrontiert", "Regelmäßige Prüfungen helfen, **Veruntreuung** in großen Finanzorganisationen zu verhindern"]]
+  },
+  {
+    "lemma": "emblem",
+    "meanings_de": ["symbolisches Abzeichen"],
+    "definitions_de": ["Design oder Symbol, das eine Eigenschaft, einen Typ, eine Gruppe oder Organisation repräsentiert"],
+    "examples_de": [["Der Adler dient als **Emblem** für Stärke und Freiheit", "Jede Militäreinheit zeigt ihr einzigartiges **Wappen** auf den Uniformen"]]
+  },
+  {
+    "lemma": "embodiment",
+    "meanings_de": ["körperliche Darstellung"],
+    "definitions_de": ["greifbare oder sichtbare Form einer Idee, Eigenschaft oder eines Gefühls in einer Person oder Sache"],
+    "examples_de": [["Sie war die **Verkörperung** von Anmut und Freundlichkeit für jeden", "Die Statue steht als **Sinnbild** der Werte der Stadt"]]
+  },
+  {
+    "lemma": "embracing",
+    "meanings_de": ["Akzeptieren oder Umarmen"],
+    "definitions_de": ["Vorgang, etwas bereitwillig oder begeistert anzunehmen, oder jemanden eng zu halten"],
+    "examples_de": [["Die Gemeinde zeigte eine **offene** Haltung gegenüber Neuankömmlingen und ihren Bräuchen", "Ihre herzliche **Umarmung** am Flughafen brachte Freudentränen"]]
+  },
+  {
+    "lemma": "embroidery",
+    "meanings_de": ["dekorative Nadelarbeitskunst"],
+    "definitions_de": ["Kunst, Stoff mit Nadel und Faden oder Garn unter Verwendung verschiedener Sticktechniken zu verzieren"],
+    "examples_de": [["Ihre Großmutter lehrte sie traditionelle **Sticktechniken** aus ihrer Heimat", "Das Hochzeitskleid zeigte exquisite **Stickereien** mit Gold- und Silberfäden"]]
+  },
+  {
+    "lemma": "embryo",
+    "meanings_de": ["Entwicklungsorganismusstadium"],
+    "definitions_de": ["frühes Entwicklungsstadium eines Menschen, Tieres oder einer Pflanze vor der Geburt oder Keimung"],
+    "examples_de": [["Der menschliche **Embryo** entwickelt in den ersten acht Wochen wichtige Organe", "Wissenschaftler untersuchten sorgfältig die **Embryobildung** in sich entwickelnden Samen"]]
+  },
+  {
+    "lemma": "emcee",
+    "meanings_de": ["Veranstaltungsmoderator"],
+    "definitions_de": ["Zeremonienmeister, der Künstler oder Redner bei einer Veranstaltung vorstellt"],
+    "examples_de": [["Der **Moderator** hielt die Preisverleihung mit Humor und Energie in Schwung", "Wir brauchen einen erfahrenen **Conférencier** für die Wohltätigkeitsgala"]]
+  },
+  {
+    "lemma": "emerald",
+    "meanings_de": ["grüner Edelstein"],
+    "definitions_de": ["leuchtend grüner Edelstein, der eine Varietät des Beryll-Minerals ist"],
+    "examples_de": [["Der Ring zeigte einen großen **Smaragd**, umgeben von kleinen Diamanten", "Kolumbien produziert einige der weltweit feinsten **Smaragde**"]]
+  },
+  {
+    "lemma": "emergence",
+    "meanings_de": ["Prozess des Erscheinens"],
+    "definitions_de": ["Prozess des Entstehens, Sichtbarwerdens oder Bekannt- und Wichtigwerdens"],
+    "examples_de": [["Das **Aufkommen** neuer Technologien veränderte die globale Kommunikation", "Wissenschaftler beobachteten das **Schlüpfen** von Schmetterlingen aus ihrem Puppenstadium"]]
+  }
+]

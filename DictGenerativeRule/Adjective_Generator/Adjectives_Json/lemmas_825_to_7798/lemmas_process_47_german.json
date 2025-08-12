@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "impatient",
+    "meanings_de": ["ungeduldig wartend", "unruhig drängend"],
+    "definitions_de": ["nicht bereit oder fähig, ruhig zu warten oder Verzögerungen und Rückschläge zu ertragen", "unruhige Eile oder dringenden Wunsch zeigend, etwas schnell zu erledigen"],
+    "examples_de": [["Der **ungeduldige** Kunde schaute ständig auf seine Uhr", "Kinder werden **ungeduldig**, wenn sie auf ihre Geburtstagsgeschenke warten müssen"], ["Sie machte eine **ungeduldige** Geste, damit er sich beeilt", "Sein **ungeduldiger** Tonfall verriet seine Eile, endlich anzufangen"]]
+  },
+  {
+    "lemma": "impeccable",
+    "meanings_de": ["makellos perfekt"],
+    "definitions_de": ["ohne jegliche Fehler, Mängel oder Irrtümer und den höchsten Standards entsprechend"],
+    "examples_de": [["Ihre **tadellosen** Manieren beeindruckten alle beim Abendessen", "Das Hotelzimmer war von **makelloser** Sauberkeit und perfekter Ordnung"]]
+  },
+  {
+    "lemma": "impeded",
+    "meanings_de": ["behindert oder blockiert"],
+    "definitions_de": ["verlangsamt, blockiert oder daran gehindert, normalen Fortschritt zu machen"],
+    "examples_de": [["Der umgestürzte Baum **behinderte** den Verkehr auf der Autobahn", "Seine **behinderte** Sprache erschwerte ihm die Kommunikation erheblich"]]
+  },
+  {
+    "lemma": "impeding",
+    "meanings_de": ["behindernd wirkend"],
+    "definitions_de": ["aktiv blockierend, hindernd oder den Fortschritt bzw. die Bewegung verlangsamend"],
+    "examples_de": [["Die **behindernden** Vorschriften verlangsamten die Geschäftsentwicklung erheblich", "Schwerer Schneefall **behinderte** die Rettungsarbeiten in den Bergen"]]
+  },
+  {
+    "lemma": "impelled",
+    "meanings_de": ["angetrieben oder gedrängt"],
+    "definitions_de": ["durch inneren oder äußeren Druck gezwungen oder stark motiviert, Maßnahmen zu ergreifen"],
+    "examples_de": [["Sie fühlte sich **gedrängt**, gegen die Ungerechtigkeit zu sprechen", "Die **angetriebenen** Partikel bewegten sich schnell durch die Röhre"]]
+  },
+  {
+    "lemma": "impending",
+    "meanings_de": ["unmittelbar bevorstehend"],
+    "definitions_de": ["sehr wahrscheinlich bald eintreffend, besonders etwas Unangenehmes oder Bedrohliches"],
+    "examples_de": [["Dunkle Wolken kündigten das **bevorstehende** Gewitter an", "Sie bereiteten sich mit Lerngruppen auf die **bevorstehende** Prüfung vor"]]
+  },
+  {
+    "lemma": "impenetrable",
+    "meanings_de": ["undurchdringlich dicht", "unverständlich komplex"],
+    "definitions_de": ["so dicht oder fest, dass nichts hindurchgehen oder eindringen kann", "zu komplex oder unklar, um leicht verstanden oder interpretiert zu werden"],
+    "examples_de": [["Der Dschungel bildete eine **undurchdringliche** Barriere um sie herum", "Die Festungsmauern waren **undurchdringlich** für feindliche Angriffe"], ["Seine **undurchdringliche** Miene verriet keinerlei Emotionen", "Die **undurchdringliche** Logik des Professors verwirrte die meisten Studenten"]]
+  },
+  {
+    "lemma": "imperative",
+    "meanings_de": ["äußerst dringend", "befehlend im Ton"],
+    "definitions_de": ["absolut notwendig oder erforderlich als Angelegenheit von lebenswichtiger Bedeutung", "einen Befehl mit autoritärer Kraft ausdrückend oder vermittelnd"],
+    "examples_de": [["Eine Unterkunft zu finden wurde **zwingend**, als die Dunkelheit hereinbrach", "Es ist **unerlässlich**, dass wir den Bericht heute einreichen"], ["Sie sprach in einem **gebieterischen** Ton, der sofortiges Handeln verlangte", "Seine **befehlenden** Gesten ließen keinen Raum für Diskussionen"]]
+  },
+  {
+    "lemma": "imperceptible",
+    "meanings_de": ["nicht wahrnehmbar"],
+    "definitions_de": ["so gering, allmählich oder subtil, dass es von den Sinnen kaum bemerkt werden kann"],
+    "examples_de": [["Die Temperaturänderung war über Nacht fast **unmerklich**", "Ihr **kaum wahrnehmbares** Nicken signalisierte ihrem Partner Zustimmung"]]
+  },
+  {
+    "lemma": "imperfect",
+    "meanings_de": ["fehlerhaft unvollkommen"],
+    "definitions_de": ["nicht perfekt oder vollständig, mit Fehlern, Mängeln oder Unzulänglichkeiten behaftet"],
+    "examples_de": [["Der **unvollkommene** Diamant hatte einen kleinen Riss im Inneren", "Wir leben in einer **unvollkommenen** Welt voller Herausforderungen"]]
+  },
+  {
+    "lemma": "imperial",
+    "meanings_de": ["kaiserlich herrschend", "großartig majestätisch"],
+    "definitions_de": ["sich auf ein Reich, einen Kaiser oder obersten Herrscher und deren Autorität beziehend", "beeindruckend großartig, prächtig oder gebieterisch in Erscheinung oder Art"],
+    "examples_de": [["Der **kaiserliche** Palast beherbergte Generationen chinesischer Kaiser", "**Kaiserliche** Erlasse prägten die Gesetze und Bräuche der Nation"], ["Sie schritt mit **majestätischer** Haltung durch die große Halle", "Die **imperiale** Suite des Hotels bot unvorstellbaren Luxus"]]
+  },
+  {
+    "lemma": "imperialist",
+    "meanings_de": ["expansionistisch eingestellt"],
+    "definitions_de": ["die Politik der Ausdehnung nationaler Macht durch Kolonisierung befürwortend oder unterstützend"],
+    "examples_de": [["Die **imperialistischen** Strategien führten zu weitreichender kolonialer Expansion", "Kritiker verurteilten die **imperialistischen** Militärinterventionen der Regierung im Ausland"]]
+  },
+  {
+    "lemma": "imperialistic",
+    "meanings_de": ["herrschaftssüchtig expansiv"],
+    "definitions_de": ["Tendenzen zeigend oder Merkmale aufweisend, Macht und Herrschaft über andere auszudehnen"],
+    "examples_de": [["Ihre **imperialistischen** Ambitionen bedrohten die Souveränität der Nachbarländer", "Der **imperialistische** Ansatz des Unternehmens dominierte kleinere Wettbewerber vollständig"]]
+  },
+  {
+    "lemma": "imperious",
+    "meanings_de": ["herrisch arrogant"],
+    "definitions_de": ["ohne Rechtfertigung Macht oder Autorität annehmend auf arrogante und herrschsüchtige Weise"],
+    "examples_de": [["Ihre **herrische** Art entfremdete potenzielle Freunde und Verbündete", "Der **gebieterische** Geschäftsführer verlangte absoluten Gehorsam von den Mitarbeitern"]]
+  },
+  {
+    "lemma": "impermeable",
+    "meanings_de": ["undurchlässig versiegelt"],
+    "definitions_de": ["keine Flüssigkeiten oder Gase durch seine Substanz oder Struktur hindurchlassend"],
+    "examples_de": [["Die **undurchlässige** Membran hielt Feuchtigkeit vom Eindringen ab", "Wissenschaftler entwickelten **wasserdichte** Verpackungen für empfindliche elektronische Komponenten"]]
+  },
+  {
+    "lemma": "impermissible",
+    "meanings_de": ["nicht erlaubt"],
+    "definitions_de": ["nicht gestattet oder zulässig gemäß Regeln, Gesetzen oder Standards"],
+    "examples_de": [["Solches Verhalten ist in einem professionellen Arbeitsumfeld **unzulässig**", "Der Schiedsrichter entschied, dass das Spiel nach aktuellen Regeln **verboten** war"]]
+  },
+  {
+    "lemma": "impersonal",
+    "meanings_de": ["unpersönlich kühl", "sachlich neutral"],
+    "definitions_de": ["ohne menschliche Wärme, Freundlichkeit oder individuelle Fürsorge und Rücksichtnahme", "nicht auf einzelne Personen oder ihre Gefühle bezogen oder davon betroffen"],
+    "examples_de": [["Die **unpersönliche** Art des Arztes machte die Patienten unwohl", "Moderne Städte haben oft eine **unpersönliche** Atmosphäre der Anonymität"], ["Die **unpersönlichen** Kräfte der Natur formten die Landschaft langsam", "Die Firmenpolitik blieb **sachlich**, trotz der vorgebrachten Mitarbeiterbedenken"]]
+  },
+  {
+    "lemma": "impervious",
+    "meanings_de": ["undurchlässig dicht", "unempfänglich für"],
+    "definitions_de": ["keinen Eintritt oder Durchgang erlaubend, besonders für Wasser oder Flüssigkeiten", "unfähig, von etwas Äußerem beeinflusst, beeinträchtigt oder geschädigt zu werden"],
+    "examples_de": [["Die **undurchlässige** Beschichtung schützte das Metall vor Rostbildung", "Dieses Material ist **undurchdringlich** für die meisten chemischen Substanzen"], ["Er schien **unempfänglich** für Kritik an seinen Methoden", "Sie blieb **immun** gegen ihre Überzeugungsversuche"]]
+  },
+  {
+    "lemma": "impetuous",
+    "meanings_de": ["unüberlegt handelnd"],
+    "definitions_de": ["schnell handelnd oder getan ohne Nachdenken oder Rücksicht auf die Konsequenzen"],
+    "examples_de": [["Seine **unüberlegte** Entscheidung zu kündigen überraschte alle sehr", "Der **ungestüme** junge Soldat stürmte ohne Befehl voraus"]]
+  },
+  {
+    "lemma": "implacable",
+    "meanings_de": ["unversöhnlich hart"],
+    "definitions_de": ["unfähig, besänftigt, befriedigt oder zufriedengestellt zu werden, ungeachtet aller Bemühungen"],
+    "examples_de": [["Sie sah sich **unerbittlicher** Opposition der Vorstandsmitglieder gegenüber", "Sein **unversöhnlicher** Hass dauerte noch viele Jahre danach an"]]
+  },
+  {
+    "lemma": "implanted",
+    "meanings_de": ["chirurgisch eingesetzt", "fest verankert"],
+    "definitions_de": ["durch medizinischen oder chirurgischen Eingriff in Körpergewebe platziert oder fixiert", "tief und fest im Geist oder an einem anderen Ort etabliert"],
+    "examples_de": [["Das **implantierte** Gerät überwacht kontinuierlich seinen Herzrhythmus", "Ärzte setzten letzte Woche erfolgreich das künstliche Gelenk **ein**"], ["Die **eingepflanzten** Erinnerungen schienen ihm völlig real", "Diese Werte wurden während seiner frühen Kindheit **verankert**"]]
+  },
+  {
+    "lemma": "implausible",
+    "meanings_de": ["unglaubwürdig wirkend"],
+    "definitions_de": ["nicht vernünftig, wahrscheinlich oder wahrhaftig genug erscheinend, um geglaubt zu werden"],
+    "examples_de": [["Seine **unglaubwürdige** Ausrede überzeugte überhaupt niemanden", "Die **unplausiblen** Wendungen des Films ruinierten die Geschichte"]]
+  },
+  {
+    "lemma": "implemented",
+    "meanings_de": ["praktisch umgesetzt"],
+    "definitions_de": ["gemäß einem Plan oder System in die praktische Wirkung oder den Betrieb umgesetzt"],
+    "examples_de": [["Die neu **eingeführte** Richtlinie verbesserte die Arbeitssicherheit erheblich", "Alle **umgesetzten** Änderungen müssen ordnungsgemäß zur Überprüfung dokumentiert werden"]]
+  },
+  {
+    "lemma": "implicated",
+    "meanings_de": ["verwickelt dargestellt"],
+    "definitions_de": ["als beteiligt oder verbunden mit etwas gezeigt, besonders mit etwas Negativem"],
+    "examples_de": [["Mehrere Beamte waren in den Korruptionsskandal **verwickelt**", "Die Beweise **belasteten** ihn trotz seiner starken Leugnungen"]]
+  },
+  {
+    "lemma": "implicit",
+    "meanings_de": ["stillschweigend gemeint", "vollkommen uneingeschränkt"],
+    "definitions_de": ["angedeutet oder verstanden ohne direkt in Worten ausgedrückt zu werden", "absolut und fraglos in der Natur, ohne Zweifel oder Vorbehalt"],
+    "examples_de": [["In ihrer sorgfältigen Wortwahl lag **implizite** Kritik", "Der Vertrag enthielt **stillschweigende** Bedingungen, die nicht niedergeschrieben waren"], ["Sie hatte **unbedingtes** Vertrauen in die Führung ihres Mentors", "Ihr **absolutes** Vertrauen machte formelle Vereinbarungen hier unnötig"]]
+  },
+  {
+    "lemma": "imploring",
+    "meanings_de": ["flehend bittend"],
+    "definitions_de": ["einen ernsten oder verzweifelten Appell oder eine Bitte um etwas machend"],
+    "examples_de": [["Ihre **flehenden** Augen baten ihn, es sich sofort anders zu überlegen", "Der **bittende** Ton in seiner Stimme verriet wahre Verzweiflung"]]
+  },
+  {
+    "lemma": "imported",
+    "meanings_de": ["aus dem Ausland"],
+    "definitions_de": ["aus einem anderen Land zum Verkauf oder zur Verwendung in ein Land gebracht"],
+    "examples_de": [["Der **importierte** Käse kostet doppelt so viel wie die lokale Sorte", "Sie bevorzugen **importierte** Weine von etablierten europäischen Weingütern"]]
+  },
+  {
+    "lemma": "imposed",
+    "meanings_de": ["zwangsweise auferlegt"],
+    "definitions_de": ["durch Autorität oder Gewalt ohne Wahl oder Zustimmung etabliert oder angewendet"],
+    "examples_de": [["Die **auferlegten** Beschränkungen begrenzten ihre Bewegungsfreiheit", "Dieses Jahr wurden hohe Steuern auf Luxusgüter **erhoben**"]]
+  },
+  {
+    "lemma": "imposing",
+    "meanings_de": ["beeindruckend erhaben"],
+    "definitions_de": ["ein auffallendes, beeindruckendes oder gebieterisches Erscheinungsbild habend, das Aufmerksamkeit erregt"],
+    "examples_de": [["Die **imposante** Kathedrale dominierte die historische Skyline der Stadt", "Seine **eindrucksvolle** Präsenz erzwang Respekt in jeder Besprechung"]]
+  },
+  {
+    "lemma": "impotent",
+    "meanings_de": ["machtlos schwach", "sexuell unfähig"],
+    "definitions_de": ["ohne Macht, Stärke oder Fähigkeit, Situationen zu beeinflussen oder zu kontrollieren", "unfähig, aufgrund physischer oder psychologischer Faktoren Geschlechtsverkehr zu haben"],
+    "examples_de": [["Die Regierung schien **machtlos** gegen die steigende Kriminalitätsrate", "Sie fühlten sich **ohnmächtig**, das unfaire System zu ändern"], ["Medizinische Behandlungen existieren für **impotente** Männer, die Hilfe suchen", "Der Zustand ließ ihn sich **impotent** und deprimiert fühlen"]]
+  },
+  {
+    "lemma": "impoverished",
+    "meanings_de": ["verarmt gemacht", "qualitativ erschöpft"],
+    "definitions_de": ["auf Armut reduziert oder in finanziellen Ressourcen extrem arm gemacht", "in Qualität, Stärke oder Reichtum im Vergleich zum früheren Zustand vermindert"],
+    "examples_de": [["Die **verarmten** Familien kämpften um die Grundbedürfnisse des Lebens", "Der Krieg hinterließ die einst wohlhabende Nation wirtschaftlich völlig **verarmt**"], ["Der **ausgelaugte** Boden konnte kein gesundes Pflanzenwachstum unterstützen", "Jahre der Vernachlässigung hinterließen eine **verarmte** Kulturlandschaft"]]
+  },
+  {
+    "lemma": "impracticable",
+    "meanings_de": ["nicht durchführbar"],
+    "definitions_de": ["aufgrund unüberwindbarer Schwierigkeiten nicht machbar oder in die Praxis umsetzbar"],
+    "examples_de": [["Die vorgeschlagene Lösung erwies sich angesichts begrenzter Ressourcen als **undurchführbar**", "Dort zu bauen ist wegen instabiler Bodenverhältnisse **unmöglich**"]]
+  },
+  {
+    "lemma": "impractical",
+    "meanings_de": ["nicht praktikabel"],
+    "definitions_de": ["nicht vernünftig, realistisch oder für den tatsächlichen Gebrauch oder die Umsetzung geeignet"],
+    "examples_de": [["Ihre **unpraktischen** Schuhe machten das Laufen auf Kopfsteinpflaster schwierig", "Das **unpraktische** Design sah schön aus, funktionierte aber schlecht"]]
+  },
+  {
+    "lemma": "epicurean",
+    "meanings_de": ["genussorientiert lebend"],
+    "definitions_de": ["dem sinnlichen Vergnügen gewidmet, besonders dem aus feinem Essen und Trinken abgeleiteten"],
+    "examples_de": [["Seine **epikureischen** Vorlieben führten zu teuren Restaurantbesuchen", "Das **genussvolle** Festmahl erfreute alle Gäste des Abendessens"]]
+  },
+  {
+    "lemma": "episcopal",
+    "meanings_de": ["bischöflich geleitet"],
+    "definitions_de": ["sich auf Bischöfe beziehend oder von ihnen in der christlichen Kirchenhierarchie regiert"],
+    "examples_de": [["Die **bischöfliche** Autorität beaufsichtigt alle regionalen Kirchenangelegenheiten", "Sie besuchten Gottesdienste in der örtlichen **episkopalen** Kirche"]]
+  },
+  {
+    "lemma": "episcopalian",
+    "meanings_de": ["episkopalkirchlich zugehörig"],
+    "definitions_de": ["sich auf die Episkopalkirche beziehend oder Mitglied dieser Konfession seiend"],
+    "examples_de": [["Die **episkopalische** Gemeinde versammelte sich zum Sonntagmorgen-Gottesdienst", "Ihr **episkopalischer** Glaube prägte ihre gemeinnützige Arbeit"]]
+  },
+  {
+    "lemma": "eritrean",
+    "meanings_de": ["aus Eritrea"],
+    "definitions_de": ["sich auf Eritrea beziehend oder von dort stammend, einem Land in Nordostafrika"],
+    "examples_de": [["Die **eritreische** Küche zeichnet sich durch würzige und geschmackvolle Gerichte aus", "Viele **eritreische** Flüchtlinge suchten Sicherheit in den Nachbarländern"]]
+  },
+  {
+    "lemma": "estonian",
+    "meanings_de": ["aus Estland"],
+    "definitions_de": ["sich auf Estland beziehend oder von dort stammend, einem baltischen Land in Nordeuropa"],
+    "examples_de": [["**Estnische** Winter sind für ihre extreme Kälte bekannt", "Sie studierte **estnische** Volksmusik an der Universität"]]
+  },
+  {
+    "lemma": "ethiopian",
+    "meanings_de": ["aus Äthiopien"],
+    "definitions_de": ["sich auf Äthiopien beziehend oder von dort stammend, einem Binnenland in Ostafrika"],
+    "examples_de": [["**Äthiopischer** Kaffee wird für seinen einzigartigen Geschmack geschätzt", "Die **äthiopischen** Marathonläufer dominierten den internationalen Wettkampf"]]
+  },
+  {
+    "lemma": "eucharistic",
+    "meanings_de": ["abendmahlsbezogen heilig"],
+    "definitions_de": ["sich auf die Eucharistie oder das Heilige Abendmahl in christlichen Gottesdiensten beziehend"],
+    "examples_de": [["Die **eucharistische** Feier brachte die Gemeinde spirituell zusammen", "**Eucharistische** Gebete bilden den zentralen Teil der Messe"]]
+  },
+  {
+    "lemma": "eurasian",
+    "meanings_de": ["Europa-Asien betreffend"],
+    "definitions_de": ["sich auf die kombinierte kontinentale Landmasse von Europa und Asien beziehend oder dort gelegen"],
+    "examples_de": [["Die **eurasische** Steppe erstreckt sich über zwei riesige Kontinente", "Viele **eurasische** Kulturen verbinden östliche und westliche Einflüsse"]]
+  },
+  {
+    "lemma": "eurocentric",
+    "meanings_de": ["europazentriert denkend"],
+    "definitions_de": ["die europäische Kultur als wichtigste oder zentrale betrachtend oder darauf fokussierend"],
+    "examples_de": [["Kritiker argumentierten, der Lehrplan sei insgesamt zu **eurozentrisch**", "Die **eurozentrische** Perspektive übersah Beiträge anderer Kontinente"]]
+  },
+  {
+    "lemma": "fahrenheit",
+    "meanings_de": ["Fahrenheit-Temperaturskala betreffend"],
+    "definitions_de": ["sich auf die Temperaturskala beziehend, bei der Wasser bei 32 Grad gefriert"],
+    "examples_de": [["Die Temperatur erreichte heute draußen neunzig Grad **Fahrenheit**", "Die meisten Amerikaner verwenden immer noch **Fahrenheit** für tägliche Temperaturen"]]
+  },
+  {
+    "lemma": "fijian",
+    "meanings_de": ["aus Fidschi"],
+    "definitions_de": ["sich auf Fidschi beziehend oder von dort stammend, einem Inselstaat im Pazifik"],
+    "examples_de": [["Das **fidschianische** Resort bot überall atemberaubende Strandblicke", "Traditionelle **fidschianische** Zeremonien heißen Besucher auf den Inseln willkommen"]]
+  },
+  {
+    "lemma": "imprecise",
+    "meanings_de": ["ungenau formuliert"],
+    "definitions_de": ["nicht exakt, genau oder klar in Detail oder Messung ausgedrückt"],
+    "examples_de": [["Seine **ungenauen** Wegbeschreibungen brachten uns in der Innenstadt völlig durcheinander", "Die **unpräzisen** Maße führten zu einer schlecht passenden Tür"]]
+  },
+  {
+    "lemma": "impregnable",
+    "meanings_de": ["uneinnehmbar befestigt"],
+    "definitions_de": ["so stark positioniert oder verteidigt, dass es nicht erobert oder eingedrungen werden kann"],
+    "examples_de": [["Die **uneinnehmbare** Festung widerstand jahrhundertelang feindlichen Angriffen", "Ihre **undurchdringliche** Verteidigung verhinderte jegliche Torchancen"]]
+  },
+  {
+    "lemma": "impressed",
+    "meanings_de": ["beeindruckt bewundernd", "physisch geprägt"],
+    "definitions_de": ["Bewunderung oder Respekt für jemandes oder etwas Qualitäten oder Leistungen empfindend", "mit einer Markierung oder einem Design versehen, das auf eine Oberfläche gedrückt oder gestempelt wurde"],
+    "examples_de": [["Sie war tief **beeindruckt** von seinem künstlerischen Talent", "Das **begeisterte** Publikum spendete danach stehende Ovationen"], ["Das **eingeprägte** Siegel bewies die offizielle Echtheit des Dokuments", "Goldene Buchstaben wurden in den Ledereinband **geprägt**"]]
+  },
+  {
+    "lemma": "impressionable",
+    "meanings_de": ["leicht beeinflussbar"],
+    "definitions_de": ["leicht durch die Meinungen, das Verhalten anderer oder äußere Faktoren beeinflusst oder betroffen"],
+    "examples_de": [["Kleine Kinder sind besonders **beeinflussbar** durch Medienbotschaften", "Seine **empfängliche** Natur machte ihn anfällig für Manipulation"]]
+  },
+  {
+    "lemma": "impressionist",
+    "meanings_de": ["impressionistisch stilgebunden"],
+    "definitions_de": ["sich auf den Impressionismus beziehend, eine Kunstbewegung, die Licht- und Farbeffekte betont"],
+    "examples_de": [["Die **impressionistischen** Gemälde fingen flüchtige Lichtmomente ein", "Monet war eine führende Figur in der **impressionistischen** Kunstbewegung"]]
+  },
+  {
+    "lemma": "impressionistic",
+    "meanings_de": ["eindrucksbasiert subjektiv"],
+    "definitions_de": ["auf subjektiven Eindrücken basierend statt auf systematischer Analyse oder präzisen Details"],
+    "examples_de": [["Ihr **impressionistischer** Bericht konzentrierte sich auf Gefühle statt auf Fakten", "Der **impressionistische** Stil vermittelte Stimmung statt exakter Details"]]
+  }
+]

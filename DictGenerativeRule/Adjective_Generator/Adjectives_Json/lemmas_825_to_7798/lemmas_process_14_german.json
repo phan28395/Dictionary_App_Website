@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "consumable",
+    "meanings_de": ["verbrauchbar"],
+    "definitions_de": ["so beschaffen, dass es durch Gebrauch aufgebraucht, verzehrt oder verbraucht werden kann, insbesondere bei Waren des täglichen Bedarfs"],
+    "examples_de": [["Im Büro müssen **verbrauchbare** Materialien wie Papier und Toner regelmäßig nachbestellt werden", "Diese **verbrauchbaren** Batterien sollten umweltgerecht entsorgt werden"]]
+  },
+  {
+    "lemma": "consuming",
+    "meanings_de": ["alles vereinnahmend", "aufzehrend"],
+    "definitions_de": ["die gesamte Zeit, Energie oder Aufmerksamkeit einer Person vollständig in Anspruch nehmend und keine anderen Gedanken zulassend", "Ressourcen, Materialien oder Energie aktiv verbrauchend oder aufzehrend, oft in großem Ausmaß"],
+    "examples_de": [["Seine **verzehrende** Leidenschaft für die Wissenschaft ließ ihm kaum Zeit für andere Aktivitäten", "Die **alles vereinnahmende** Sorge um ihr krankes Kind bestimmte ihren Alltag"], ["Das **aufzehrende** Feuer vernichtete innerhalb weniger Stunden den gesamten Waldbestand", "Dieser alte Ofen hat einen **verzehrenden** Appetit auf Brennholz"]]
+  },
+  {
+    "lemma": "consummate",
+    "meanings_de": ["vollendet meisterhaft", "vollkommen"],
+    "definitions_de": ["den höchsten Grad an Können, Kunstfertigkeit oder Perfektion in einem bestimmten Bereich zeigend", "in Qualität, Ausmaß oder Grad vollständig, perfekt oder unübertroffen"],
+    "examples_de": [["Sie ist eine **vollendete** Musikerin, die jedes Instrument mit Leichtigkeit beherrscht", "Der **meisterhafte** Schachspieler gewann das Turnier ohne eine einzige Niederlage"], ["Seine **vollkommene** Unverschämtheit machte jede Zusammenarbeit unmöglich", "Das war der **vollendete** Betrug, den niemand rechtzeitig durchschaute"]]
+  },
+  {
+    "lemma": "consummated",
+    "meanings_de": ["vollendet", "vervollkommnet"],
+    "definitions_de": ["zu einem erfolgreichen Abschluss gebracht, besonders bei Vereinbarungen, Geschäften oder Beziehungen", "in jeder Hinsicht vervollständigt oder zur Perfektion gebracht"],
+    "examples_de": [["Der **vollendete** Vertrag besiegelte die Fusion der beiden Technologieunternehmen", "Ihre **vollendete** Geschäftspartnerschaft hielt über drei Jahrzehnte"], ["Das **vollendete** Kunstwerk zeugte von jahrelanger Übung und Hingabe", "Seine **vervollkommneten** Fähigkeiten machten ihn zum gefragtesten Chirurgen der Klinik"]]
+  },
+  {
+    "lemma": "contagious",
+    "meanings_de": ["ansteckend", "mitreißend"],
+    "definitions_de": ["fähig, durch direkten oder indirekten Kontakt von einer Person auf eine andere übertragen zu werden", "sich schnell von Person zu Person durch emotionalen oder sozialen Einfluss ausbreitend"],
+    "examples_de": [["Die **ansteckende** Grippe breitet sich besonders in den Wintermonaten schnell aus", "**Ansteckende** Patienten müssen in Quarantäne, um andere zu schützen"], ["Ihr **ansteckendes** Lachen erhellte die Stimmung im ganzen Büro", "Seine **mitreißende** Begeisterung motivierte das gesamte Team zu Höchstleistungen"]]
+  },
+  {
+    "lemma": "contained",
+    "meanings_de": ["begrenzt", "beherrscht"],
+    "definitions_de": ["innerhalb bestimmter Grenzen, Beschränkungen oder eines spezifischen Bereichs gehalten oder aufbewahrt", "Selbstbeherrschung, Zurückhaltung oder Fassung im Verhalten oder emotionalen Ausdruck zeigend"],
+    "examples_de": [["Das Feuer blieb **begrenzt** auf das abgesperrte Gebiet und griff nicht über", "Alle gefährlichen Chemikalien müssen in **abgeschlossenen** Behältern aufbewahrt werden"], ["Sie blieb trotz der schockierenden Nachricht **beherrscht** und gefasst", "Seine **verhaltene** Wut zeigte sich nur in seinen geballten Fäusten"]]
+  },
+  {
+    "lemma": "contaminated",
+    "meanings_de": ["verunreinigt"],
+    "definitions_de": ["durch Kontakt mit schädlichen oder unerwünschten Substanzen unrein, verschmutzt oder unbrauchbar gemacht"],
+    "examples_de": [["Das **verunreinigte** Trinkwasser verursachte eine Epidemie in der Gemeinde", "**Kontaminierte** Lebensmittel müssen sofort aus dem Verkehr gezogen werden"]]
+  },
+  {
+    "lemma": "contaminating",
+    "meanings_de": ["verunreinigend"],
+    "definitions_de": ["etwas unrein, verschmutzt oder schädlich machend durch das Einbringen unerwünschter Substanzen oder Elemente"],
+    "examples_de": [["Die **verunreinigenden** Industrieabwässer bedrohten das gesamte Ökosystem des Flusses", "**Kontaminierende** Bakterien können sich in unhygienischen Küchen schnell ausbreiten"]]
+  },
+  {
+    "lemma": "contemplative",
+    "meanings_de": ["nachdenklich", "kontemplativ"],
+    "definitions_de": ["von tiefem Nachdenken, Meditation oder sorgfältiger Überlegung geprägt oder diese zum Ausdruck bringend", "der religiösen oder philosophischen Betrachtung, Meditation oder stillen Reflexion gewidmet"],
+    "examples_de": [["In **nachdenklicher** Stimmung betrachtete sie die verschiedenen Möglichkeiten ihrer Zukunft", "Der Philosoph schrieb in einem **besinnlichen** Stil über den Sinn des Lebens"], ["Die **kontemplativen** Mönche verbrachten Stunden in Gebet und stiller Einkehr", "Er wählte ein **kontemplatives** Leben fernab vom weltlichen Trubel"]]
+  },
+  {
+    "lemma": "contemporaneous",
+    "meanings_de": ["zeitgleich"],
+    "definitions_de": ["zur gleichen Zeit wie etwas anderes existierend, stattfindend oder entstehend"],
+    "examples_de": [["Diese **zeitgleichen** Aufzeichnungen bieten verschiedene Perspektiven auf das historische Ereignis", "Die beiden Künstler schufen **zeitgleiche** Werke, obwohl sie in verschiedenen Ländern lebten"]]
+  },
+  {
+    "lemma": "contemptuous",
+    "meanings_de": ["verachtungsvoll"],
+    "definitions_de": ["starke Verachtung, Geringschätzung oder Abscheu für jemanden oder etwas zeigend, das als wertlos betrachtet wird"],
+    "examples_de": [["Sie warf ihm einen **verachtungsvollen** Blick zu, als er seine schlecht vorbereitete Präsentation begann", "Seine **verächtliche** Haltung gegenüber Autoritäten brachte ihn ständig in Schwierigkeiten"]]
+  },
+  {
+    "lemma": "contented",
+    "meanings_de": ["zufrieden"],
+    "definitions_de": ["ein Gefühl der Zufriedenheit mit dem eigenen Besitz, Status oder der Lebenssituation empfindend oder zeigend"],
+    "examples_de": [["Die **zufriedene** Katze schnurrte leise, während sie in der Sonne schlief", "Sie führte ein **zufriedenes** Leben in ihrem kleinen Häuschen auf dem Land"]]
+  },
+  {
+    "lemma": "contentious",
+    "meanings_de": ["umstritten", "streitlustig"],
+    "definitions_de": ["Meinungsverschiedenheiten, Kontroversen oder hitzige Diskussionen zwischen Menschen verursachend oder wahrscheinlich verursachend", "die Neigung habend, häufig zu streiten, zu diskutieren oder sich an kontroversen Diskussionen zu beteiligen"],
+    "examples_de": [["Die Einwanderungspolitik bleibt ein **umstrittenes** Thema in politischen Debatten", "Der **kontroverse** Vorschlag spaltete das Komitee in zwei Lager"], ["Er ist eine **streitlustige** Person, die jedes kleine Detail gerne diskutiert", "Ihre **streitsüchtige** Art machte Familientreffen zu einer echten Herausforderung"]]
+  },
+  {
+    "lemma": "contested",
+    "meanings_de": ["umkämpft"],
+    "definitions_de": ["von rivalisierenden Parteien, Gruppen oder Einzelpersonen bestritten, angefochten oder umkämpft"],
+    "examples_de": [["Die **umstrittenen** Wahlergebnisse führten zu Forderungen nach einer Neuauszählung", "Dieses **umkämpfte** Gebiet wird von beiden Nachbarländern beansprucht"]]
+  },
+  {
+    "lemma": "contextual",
+    "meanings_de": ["kontextbezogen"],
+    "definitions_de": ["sich auf den Kontext oder die Umstände beziehend oder davon abhängig, in denen etwas existiert"],
+    "examples_de": [["Die **kontextuelle** Bedeutung von Wörtern kann sich in verschiedenen Sätzen ändern", "Historiker müssen **kontextbezogene** Faktoren berücksichtigen, wenn sie alte Texte interpretieren"]]
+  },
+  {
+    "lemma": "contiguous",
+    "meanings_de": ["angrenzend"],
+    "definitions_de": ["eine gemeinsame Grenze teilend, sich berührend oder in ununterbrochener Folge verbunden"],
+    "examples_de": [["Die USA haben achtundvierzig **zusammenhängende** Bundesstaaten auf dem Festland", "Diese **angrenzenden** Räume können für größere Konferenzen verbunden werden"]]
+  },
+  {
+    "lemma": "continental",
+    "meanings_de": ["kontinental", "festländisch"],
+    "definitions_de": ["sich auf einen Kontinent beziehend oder für ihn charakteristisch, besonders eine große Landmasse", "typisch für den Festlandteil eines Landes im Gegensatz zu Inseln"],
+    "examples_de": [["Das **kontinentale** Klima bringt heiße Sommer und kalte Winter mit sich", "Die **kontinentale** Verschiebung erklärt, wie sich die Landmassen der Erde langsam bewegen"], ["Sie servieren **kontinentales** Frühstück mit Gebäck, Obst und Kaffee", "Die **kontinentalen** Vereinigten Staaten schließen Hawaii und Alaska aus"]]
+  },
+  {
+    "lemma": "contingent",
+    "meanings_de": ["abhängig von", "ungewiss"],
+    "definitions_de": ["abhängig von oder bedingt durch etwas anderes, das geschieht oder der Fall ist", "dem Zufall unterworfen, möglich aber nicht sicher zu geschehen oder wahr zu sein"],
+    "examples_de": [["Ihre Beförderung ist **abhängig** vom erfolgreichen Abschluss der Fortbildung", "Der Vertrag ist **abhängig** von der Zustimmung des Vorstands"], ["Das Wetter bleibt ein **ungewisser** Faktor bei der Planung von Freiluftveranstaltungen", "Alle Zukunftsprognosen sind **kontingent** und unterliegen Marktveränderungen"]]
+  },
+  {
+    "lemma": "continual",
+    "meanings_de": ["wiederkehrend"],
+    "definitions_de": ["wiederholt über einen Zeitraum hinweg auftretend, jedoch mit Unterbrechungen zwischen den Vorkommnissen"],
+    "examples_de": [["Die **ständigen** Unterbrechungen machten es unmöglich, sich auf die Arbeit zu konzentrieren", "Sie sah sich während ihrer gesamten Karriere **fortwährenden** Herausforderungen gegenüber"]]
+  },
+  {
+    "lemma": "contorted",
+    "meanings_de": ["verzerrt"],
+    "definitions_de": ["aus der normalen Form verdreht oder verbogen auf eine unnatürliche oder groteske Weise"],
+    "examples_de": [["Sein Gesicht war vor Schmerz **verzerrt** nach der Verletzung", "Das **verbogene** Metall zeigte die enorme Kraft des Aufpralls"]]
+  },
+  {
+    "lemma": "contraband",
+    "meanings_de": ["geschmuggelt"],
+    "definitions_de": ["sich auf Waren beziehend, die illegal oder gegen Vorschriften eingeführt, ausgeführt oder besessen werden"],
+    "examples_de": [["Die Wärter entdeckten **geschmuggelte** Gegenstände in der Zelle des Gefangenen", "Das Schiff transportierte **illegale** Waffen über internationale Grenzen"]]
+  },
+  {
+    "lemma": "contraceptive",
+    "meanings_de": ["empfängnisverhütend"],
+    "definitions_de": ["dazu dienend, eine Schwangerschaft oder Empfängnis durch verschiedene verwendete Methoden oder Mittel zu verhindern"],
+    "examples_de": [["Der Arzt besprach verschiedene **empfängnisverhütende** Optionen mit der Patientin", "**Verhütende** Pillen müssen regelmäßig eingenommen werden, um wirksam zu bleiben"]]
+  },
+  {
+    "lemma": "contracted",
+    "meanings_de": ["zusammengezogen", "vertraglich gebunden"],
+    "definitions_de": ["in Größe, Volumen oder Ausdehnung durch Schrumpfung oder Zusammenziehung verkleinert", "durch einen formellen rechtlichen Vertrag gebunden oder einen solchen eingegangen"],
+    "examples_de": [["Die **zusammengezogenen** Muskeln verursachten starke Schmerzen im unteren Rücken", "Metall wird **kontrahiert**, wenn es extrem niedrigen Temperaturen ausgesetzt wird"], ["Die **vertraglich gebundenen** Arbeiter müssen das Projekt bis Dezember fertigstellen", "Sie hat **vertragliche** Vereinbarungen mit drei verschiedenen Lieferanten getroffen"]]
+  },
+  {
+    "lemma": "contractual",
+    "meanings_de": ["vertraglich"],
+    "definitions_de": ["sich auf eine rechtlich bindende Vereinbarung zwischen beteiligten Parteien beziehend oder darin enthalten"],
+    "examples_de": [["Alle **vertraglichen** Verpflichtungen müssen vor Projektende erfüllt werden", "Der Anwalt prüfte die **vertraglichen** Bedingungen sorgfältig zum Schutz des Mandanten"]]
+  },
+  {
+    "lemma": "contradictory",
+    "meanings_de": ["widersprüchlich"],
+    "definitions_de": ["Elemente oder Aussagen enthaltend, die einander entgegengesetzt oder miteinander unvereinbar sind"],
+    "examples_de": [["Der Zeuge machte **widersprüchliche** Aussagen über die Ereignisse jener Nacht", "Diese **widersprüchlichen** Forschungsergebnisse erfordern weitere Untersuchungen zur Klärung"]]
+  },
+  {
+    "lemma": "contrary",
+    "meanings_de": ["entgegengesetzt", "widerspenstig"],
+    "definitions_de": ["in Natur, Richtung oder Bedeutung entgegengesetzt zu etwas anderem, das betrachtet wird", "pervers geneigt, zu widersprechen oder das Gegenteil von dem zu tun, was erwartet wird"],
+    "examples_de": [["Die Ergebnisse waren **entgegengesetzt** zu dem, was die Wissenschaftler ursprünglich vorhergesagt hatten", "**Widrige** Winde zwangen das Segelschiff, seinen geplanten Kurs zu ändern"], ["Sie ist nur **widerspenstig**, um alle bei der Besprechung zu ärgern", "Das **trotzige** Kind weigerte sich, auch nur eine der einfachen Anweisungen zu befolgen"]]
+  },
+  {
+    "lemma": "contrasting",
+    "meanings_de": ["kontrastierend"],
+    "definitions_de": ["auffällige Unterschiede zeigend, wenn es mit etwas anderem in enger Verbindung oder Gegenüberstellung verglichen wird"],
+    "examples_de": [["Der Designer verwendete **kontrastierende** Farben, um visuelles Interesse zu erzeugen", "Ihre **gegensätzlichen** Persönlichkeiten machten sie paradoxerweise zu perfekten Geschäftspartnern"]]
+  },
+  {
+    "lemma": "contrastive",
+    "meanings_de": ["kontrastiv"],
+    "definitions_de": ["dazu dienend, Unterschiede zwischen Dingen durch Vergleich oder linguistische Analysemethoden aufzuzeigen"],
+    "examples_de": [["Linguisten verwenden **kontrastive** Analysen, um verschiedene Sprachsysteme effektiv zu vergleichen", "Die **kontrastive** Studie offenbarte bedeutende Unterschiede zwischen den beiden Kulturen"]]
+  },
+  {
+    "lemma": "contributing",
+    "meanings_de": ["beitragend"],
+    "definitions_de": ["etwas als Teil eines größeren Ganzen oder einer Sache gebend oder liefernd"],
+    "examples_de": [["Mehrere **beitragende** Faktoren führten zum finanziellen Erfolg des Unternehmens", "Alle **beitragenden** Mitglieder erhalten Stimmrecht bei der Jahresversammlung"]]
+  },
+  {
+    "lemma": "contributory",
+    "meanings_de": ["mitverursachend"],
+    "definitions_de": ["eine Rolle dabei spielend, ein Ergebnis herbeizuführen oder etwas geschehen zu lassen"],
+    "examples_de": [["Rauchen war ein **mitverursachender** Faktor bei der Entwicklung seiner Gesundheitsprobleme", "Der Bericht identifizierte mehrere **mitwirkende** Ursachen des gestrigen Unfalls"]]
+  },
+  {
+    "lemma": "contrived",
+    "meanings_de": ["gekünstelt"],
+    "definitions_de": ["absichtlich geschaffen, anstatt natürlich oder spontan zu entstehen, erzwungen oder künstlich wirkend"],
+    "examples_de": [["Die **gekünstelte** Handlung des Films machte es schwer, ihn zu genießen", "Seine **konstruierte** Ausrede täuschte niemanden bei dem wichtigen Treffen"]]
+  },
+  {
+    "lemma": "controllable",
+    "meanings_de": ["kontrollierbar"],
+    "definitions_de": ["fähig, kontrolliert, gemanagt oder innerhalb gewünschter Grenzen oder Beschränkungen gehalten zu werden"],
+    "examples_de": [["Diabetes ist eine **kontrollierbare** Krankheit mit der richtigen Medikation und Ernährung", "Das Feuer blieb **beherrschbar** dank des schnellen Eingreifens der Feuerwehr"]]
+  },
+  {
+    "lemma": "controlled",
+    "meanings_de": ["kontrolliert", "reguliert"],
+    "definitions_de": ["durch bewusste Steuerung unter Kontrolle, Zurückhaltung oder innerhalb festgelegter Grenzen gehalten", "durch Regeln, Gesetze oder spezifische Bedingungen reguliert, die den Zugang oder die Nutzung einschränken"],
+    "examples_de": [["Sie sprach mit **kontrollierter** Stimme, obwohl sie innerlich extrem wütend war", "Die **kontrollierte** Umgebung des Labors gewährleistet genaue Versuchsergebnisse"], ["Diese **kontrollierte** Substanz erfordert ein Rezept von einem zugelassenen Arzt", "Der Zugang zum **überwachten** Bereich erfordert spezielle Sicherheitsausweise"]]
+  },
+  {
+    "lemma": "controlling",
+    "meanings_de": ["steuernd", "beherrschend"],
+    "definitions_de": ["Zurückhaltung, Leitung oder Befehlsgewalt über etwas ausübend, um dessen Betrieb zu verwalten", "die Tendenz habend, das Verhalten anderer Menschen zu dominieren oder zu diktieren"],
+    "examples_de": [["Der **steuernde** Mechanismus reguliert automatisch die Temperatur im Gewächshaus", "Sie hat eine **beherrschende** Beteiligung an drei großen Technologieunternehmen"], ["Sein **kontrollierendes** Verhalten zerstörte viele seiner persönlichen Beziehungen vollständig", "Niemand arbeitet gerne für einen so **dominanten** und kleinlichen Chef"]]
+  },
+  {
+    "lemma": "convalescent",
+    "meanings_de": ["genesend"],
+    "definitions_de": ["sich von einer Krankheit, medizinischen Behandlung oder Operation erholend und allmählich wieder zu Kräften kommend"],
+    "examples_de": [["Der **genesende** Patient benötigt viel Ruhe und angemessene Ernährung", "Sie verbrachte drei Wochen in einem **Genesungsheim** nach ihrer Operation"]]
+  },
+  {
+    "lemma": "convenient",
+    "meanings_de": ["praktisch", "günstig gelegen"],
+    "definitions_de": ["gut zu den Bedürfnissen, Aktivitäten oder Plänen einer Person passend ohne Schwierigkeiten", "zu einer Zeit auftretend, die für einen bestimmten Zweck geeignet oder günstig ist"],
+    "examples_de": [["Die **praktische** Lage in der Nähe öffentlicher Verkehrsmittel zieht viele Mieter an", "Online-Shopping ist **bequem** für Menschen mit vollen Terminkalendern"], ["Der Besprechungstermin ist **günstig** für alle Teilnehmer aus verschiedenen Zeitzonen", "Es ist **praktisch**, dass die Bank samstags früh öffnet"]]
+  },
+  {
+    "lemma": "convergent",
+    "meanings_de": ["zusammenlaufend"],
+    "definitions_de": ["aus verschiedenen Richtungen kommend, um sich schließlich an einem gemeinsamen Punkt zu treffen"],
+    "examples_de": [["**Konvergente** Linien treffen sich in geometrischen Zeichnungen an einem einzigen Punkt", "Ihre **zusammenlaufenden** Interessen in der Technologie brachten sie als Partner zusammen"]]
+  },
+  {
+    "lemma": "conversant",
+    "meanings_de": ["vertraut mit"],
+    "definitions_de": ["mit etwas durch Studium, Erfahrung oder regelmäßigen Gebrauch vertraut oder darüber kenntnisreich"],
+    "examples_de": [["Sie ist **vertraut** mit mehreren Programmiersprachen, die in der Webentwicklung verwendet werden", "Alle Mitarbeiter müssen sofort **vertraut** mit den Sicherheitsverfahren des Unternehmens sein"]]
+  },
+  {
+    "lemma": "conversational",
+    "meanings_de": ["umgangssprachlich"],
+    "definitions_de": ["einen informellen, entspannten Stil habend, ähnlich der gewöhnlichen gesprochenen Sprache zwischen Menschen"],
+    "examples_de": [["Der Autor schreibt in einem **umgangssprachlichen** Ton, der die Leser anspricht", "Ihr **konversationelles** Spanisch verbesserte sich nach monatelangem Leben in Mexiko"]]
+  },
+  {
+    "lemma": "converse",
+    "meanings_de": ["umgekehrt"],
+    "definitions_de": ["die entgegengesetzte oder umgekehrte Beziehung, Position oder Eigenschaften zu etwas anderem habend"],
+    "examples_de": [["Die **umgekehrte** Aussage wäre in diesem mathematischen Beweis gleichermaßen gültig", "Sie vertreten **gegenteilige** Meinungen zu fast jedem diskutierten politischen Thema"]]
+  },
+  {
+    "lemma": "convertible",
+    "meanings_de": ["umwandelbar", "Cabrio"],
+    "definitions_de": ["fähig, von einer Form, Funktion oder einem Zweck in einen anderen geändert zu werden", "ein Auto beschreibend, das ein Dach hat, das gefaltet oder entfernt werden kann"],
+    "examples_de": [["Dieses Sofa ist **umwandelbar** in ein bequemes Bett für Übernachtungsgäste", "**Wandelbare** Anleihen können später gegen Unternehmensaktien getauscht werden"], ["Sie fährt ein rotes **Cabrio** mit offenem Verdeck im Sommer", "Das **offene** Auto mit seinem versenkbaren Dach ist perfekt für sonnige Tage"]]
+  },
+  {
+    "lemma": "convex",
+    "meanings_de": ["konvex"],
+    "definitions_de": ["einen Umriss oder eine Oberfläche habend, die sich nach außen wölbt wie die Außenseite einer Kugel"],
+    "examples_de": [["Der **konvexe** Spiegel bietet Autofahrern ein breiteres Sichtfeld", "Eine **konvexe** Linse fokussiert Lichtstrahlen auf einen einzigen Brennpunkt"]]
+  },
+  {
+    "lemma": "convincing",
+    "meanings_de": ["überzeugend"],
+    "definitions_de": ["fähig, jemanden glauben zu lassen, dass etwas wahr, real oder lohnenswert ist"],
+    "examples_de": [["Sie lieferte ein **überzeugendes** Argument für die sofortige Änderung der Unternehmenspolitik", "Die **überzeugende** Leistung des Schauspielers brachte ihm gestern eine Nominierung ein"]]
+  },
+  {
+    "lemma": "convoluted",
+    "meanings_de": ["verschlungen"],
+    "definitions_de": ["extrem komplex, verwickelt oder schwer zu folgen aufgrund vieler Wendungen und Drehungen"],
+    "examples_de": [["Die **verschlungene** Handlung machte den Kriminalroman schwer verständlich", "Seine **verworrene** Erklärung verwirrte das Publikum nur noch mehr"]]
+  },
+  {
+    "lemma": "cooked",
+    "meanings_de": ["gekocht", "gefälscht"],
+    "definitions_de": ["zum Essen vorbereitet durch die Anwendung von Hitze mittels verschiedener Kochmethoden", "unehrlich verändert, gefälscht oder manipuliert, um andere absichtlich zu täuschen oder irrezuführen"],
+    "examples_de": [["Das **gekochte** Gemüse behält manchmal mehr Nährstoffe als rohes", "Ich bevorzuge **gegarte** Karotten gegenüber rohen in meinen Salaten"], ["Der Buchhalter wurde entlassen, weil er jährlich **gefälschte** Finanzberichte einreichte", "Diese **geschönten** Statistiken spiegeln die wahre Situation überhaupt nicht wider"]]
+  },
+  {
+    "lemma": "cooperative",
+    "meanings_de": ["kooperativ", "genossenschaftlich"],
+    "definitions_de": ["bereit zu helfen, mit anderen zusammenzuarbeiten oder ohne Widerstand zu tun, was verlangt wird", "gemeinsam von Mitgliedern besessen und betrieben, die Nutzen und Gewinne teilen"],
+    "examples_de": [["Die **kooperativen** Schüler machten die Arbeit des Lehrers heute viel einfacher", "Wir brauchen einen **kooperativeren** Ansatz, um dieses komplexe Problem zu lösen"], ["Sie wohnen in einer **genossenschaftlichen** Wohnung in der Münchner Innenstadt", "Die Bauern gründeten eine **Genossenschaft**, um ihre Produkte gemeinsam zu vermarkten"]]
+  },
+  {
+    "lemma": "coordinate",
+    "meanings_de": ["gleichrangig", "aufeinander abgestimmt"],
+    "definitions_de": ["gleich in Rang, Wichtigkeit oder Grad innerhalb eines Systems oder einer Struktur", "entworfen, um in Farbe, Muster oder Stil zueinander zu passen oder sich zu ergänzen"],
+    "examples_de": [["Die **gleichrangigen** Regierungszweige sorgen effektiv für gegenseitige Kontrolle", "Diese **koordinierten** Satzteile werden hier durch die Konjunktion 'und' verbunden"], ["Sie kaufte **passende** Accessoires zu ihrem neuen Kleid", "Das **aufeinander abgestimmte** Bettwäsche-Set enthält Laken, Kissenbezüge und Bettdecke"]]
+  },
+  {
+    "lemma": "coordinated",
+    "meanings_de": ["koordiniert", "geschickt"],
+    "definitions_de": ["organisiert oder arrangiert, um als einheitliches Ganzes oder System effektiv zusammenzuarbeiten", "die Fähigkeit habend, verschiedene Körperteile reibungslos zusammen zu verwenden"],
+    "examples_de": [["Die **koordinierte** Anstrengung mehrerer Behörden löste die Krise schnell", "Eine **abgestimmte** Marketingkampagne steigerte den Umsatz landesweit um vierzig Prozent"], ["Die **koordinierten** Bewegungen der Turnerin beeindruckten alle beobachtenden Kampfrichter", "Kinder entwickeln **koordinierte** motorische Fähigkeiten durch Spiel und Übungsaktivitäten"]]
+  },
+  {
+    "lemma": "coordinating",
+    "meanings_de": ["koordinierend"],
+    "definitions_de": ["verschiedene Elemente, Menschen oder Aktivitäten zusammenbringend, um effektiv als Einheit zu arbeiten"],
+    "examples_de": [["Das **koordinierende** Komitee überwacht alle Aspekte des jährlichen Festivals", "Sie ist hervorragend im **Koordinieren** komplexer Projekte mit mehreren Teammitgliedern"]]
+  },
+  {
+    "lemma": "chippendale",
+    "meanings_de": ["Chippendale-Stil"],
+    "definitions_de": ["sich auf einen englischen Möbelstil des achtzehnten Jahrhunderts beziehend, gekennzeichnet durch anmutige Linien und verzierte Schnitzereien"],
+    "examples_de": [["Die antiken **Chippendale**-Stühle wurden bei der Auktion für Tausende verkauft", "Ihr Esszimmer ist mit authentischen **Chippendale**-Möbeln aus den 1760er Jahren ausgestattet"]]
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "lemma": "pate",
+    "meanings_de": ["Kopfoberseite"],
+    "definitions_de": ["Scheitel oder oberer Teil des Kopfes einer Person"],
+    "examples_de": [["Seine kahle **Platte** glänzte unter den hellen Lichtern", "Sie tätschelte sanft den weichen **Scheitel** des Babys"]]
+  },
+  {
+    "lemma": "patentee",
+    "meanings_de": ["Patentinhaber"],
+    "definitions_de": ["Person, der ein Patent für eine Erfindung erteilt wurde"],
+    "examples_de": [["Der **Patentinhaber** muss jährliche Verlängerungsgebühren zahlen, um den Schutz aufrechtzuerhalten", "Mehrere **Patentinhaber** haben die neue Verordnung vor Gericht angefochten"]]
+  },
+  {
+    "lemma": "paternalism",
+    "meanings_de": ["fürsorgliche Bevormundung"],
+    "definitions_de": ["Praxis, die Freiheit von Menschen zu ihrem eigenen Wohl in väterlicher Weise einzuschränken"],
+    "examples_de": [["Der betriebliche **Paternalismus** stellte den Arbeitern Wohnraum zur Verfügung, schränkte aber ihre Wahlmöglichkeiten ein", "Kritiker argumentierten, das Gesetz stelle staatliche **Bevormundung** in ihrer schlimmsten Form dar"]]
+  },
+  {
+    "lemma": "paternity",
+    "meanings_de": ["biologische Vaterschaft", "Ursprung oder Urheberschaft"],
+    "definitions_de": ["Zustand, der biologische Vater von jemandem zu sein", "Quelle oder Ursprung von etwas wie einer Idee oder Schöpfung"],
+    "examples_de": [["Der **Vaterschaftstest** bestätigte, dass er der biologische Vater war", "Er stellte seine **Vaterschaft** letztes Jahr durch DNA-Tests fest"], ["Mehrere Gelehrte bestreiten die **Urheberschaft** dieses alten Textes", "Die **Herkunft** des innovativen Designs bleibt unklar"]]
+  },
+  {
+    "lemma": "pathfinder",
+    "meanings_de": ["Pfaderkunder", "Innovationspionier"],
+    "definitions_de": ["Person, die neue Wege durch unerforschtes Gebiet entdeckt", "Jemand, der neue Methoden oder Ideen in einem beliebigen Bereich entwickelt"],
+    "examples_de": [["Der **Pfadfinder** markierte Bäume, um die Expeditionsgruppe zu führen", "Indianische **Wegweiser** halfen frühen Siedlern bei der Navigation nach Westen"], ["Sie wurde zur **Wegbereiterin** im nachhaltigen Architekturdesign", "Das Unternehmen stellte **Pioniere** ein, um aufstrebende Marktchancen zu erkunden"]]
+  },
+  {
+    "lemma": "pathogen",
+    "meanings_de": ["krankheitserregender Mikroorganismus"],
+    "definitions_de": ["Bakterium, Virus oder anderer Mikroorganismus, der Krankheiten in lebenden Organismen verursachen kann"],
+    "examples_de": [["Wissenschaftler identifizierten einen neuen **Krankheitserreger**, der für den Ausbruch verantwortlich war", "Krankenhauspersonal muss Protokolle befolgen, um die Übertragung von **Pathogenen** zu verhindern"]]
+  },
+  {
+    "lemma": "pathologist",
+    "meanings_de": ["Krankheitsspezialist"],
+    "definitions_de": ["Arzt, der Krankheiten durch Untersuchung von Körpergewebe und -flüssigkeiten studiert, um Zustände zu diagnostizieren"],
+    "examples_de": [["Der **Pathologe** untersuchte Gewebeproben sorgfältig unter dem Mikroskop", "Ein forensischer **Pathologe** bestimmte gestern die Todesursache"]]
+  },
+  {
+    "lemma": "pathology",
+    "meanings_de": ["Krankheitslehre", "abnormaler Zustand"],
+    "definitions_de": ["Wissenschaftliche Untersuchung von Krankheiten und ihren Ursachen, Auswirkungen und ihrer Natur", "Abnormaler oder ungesunder Zustand bei einer Person, Gruppe oder Situation"],
+    "examples_de": [["Sie spezialisierte sich während ihrer medizinischen Ausbildung auf Herz**pathologie**", "Der **pathologische** Befund ergab Krebszellen im Gewebe"], ["Die Dokumentation erforschte die **Pathologie** der Sucht in der modernen Gesellschaft", "Sein Verhalten zeigte Anzeichen einer ernsten psychologischen **Störung**"]]
+  },
+  {
+    "lemma": "pathway",
+    "meanings_de": ["Fußweg", "Prozessabfolge"],
+    "definitions_de": ["Weg oder Pfad, der zum Gehen von einem Ort zum anderen bestimmt ist", "Abfolge von Handlungen oder Phasen, die zu einem bestimmten Ergebnis führen"],
+    "examples_de": [["Der Stein**pfad** führte durch den Garten zum Teich", "Kinder fuhren jeden Nachmittag mit dem Fahrrad den **Weg** entlang"], ["Der Karriere**weg** erfordert zunächst den Abschluss spezifischer Schulungsmodule", "Forscher entdeckten einen neuen neuronalen **Signalweg** im Gehirn"]]
+  },
+  {
+    "lemma": "patina",
+    "meanings_de": ["Oberflächenschicht", "erworbene Eigenschaft"],
+    "definitions_de": ["Dünne Schicht, die sich durch Alter oder Verwitterung auf Kupfer, Bronze oder ähnlichen Metallen bildet", "Aussehen oder Aura, die etwas durch Alter, Gebrauch oder Erfahrung erwirbt"],
+    "examples_de": [["Die Statue entwickelte über viele Jahrzehnte eine grüne **Patina**", "Sammler schätzen die natürliche **Patina** auf antiken Bronzestücken"], ["Jahre der Nutzung verliehen dem Ledersessel eine schöne **Patina**", "Der alte Buchladen hatte eine **Patina** gelehrter Tradition"]]
+  },
+  {
+    "lemma": "patio",
+    "meanings_de": ["Außenwohnbereich"],
+    "definitions_de": ["Gepflasterter Außenbereich, der an ein Haus angrenzt und zum Essen oder Entspannen genutzt wird"],
+    "examples_de": [["Wir genossen jeden Morgen das Frühstück auf der sonnigen **Terrasse**", "Sie installierten eine neue Stein**terrasse** hinter ihrem Haus"]]
+  },
+  {
+    "lemma": "patois",
+    "meanings_de": ["regionaler Dialekt"],
+    "definitions_de": ["Regionaler Dialekt, der sich von der Standardsprache eines Landes oder Gebiets unterscheidet"],
+    "examples_de": [["Die Fischer sprachen in einem lokalen **Dialekt**, der schwer zu verstehen war", "Jamaikanisches **Patois** kombiniert Englisch mit afrikanischen Spracheinflüssen"]]
+  },
+  {
+    "lemma": "patriarch",
+    "meanings_de": ["männliches Familienoberhaupt", "religiöser Führer"],
+    "definitions_de": ["Männliches Oberhaupt einer Familie oder Stammeslinie, das mit Autorität herrscht", "Bischof oder Führer bestimmter christlicher Kirchen, insbesondere der orthodoxen"],
+    "examples_de": [["Der **Patriarch** traf alle wichtigen Entscheidungen für die Großfamilie", "Vier Generationen versammelten sich, um den neunzigsten Geburtstag des **Familienoberhaupts** zu feiern"], ["Der **Patriarch** segnete die Gemeinde während des Ostergottesdienstes", "Orthodoxe Christen erkennen mehrere **Patriarchen** in verschiedenen Regionen an"]]
+  },
+  {
+    "lemma": "patriarchate",
+    "meanings_de": ["Patriarchatsbereich"],
+    "definitions_de": ["Amt, Amtszeit oder Gerichtsbarkeit eines Patriarchen in religiösen oder sozialen Kontexten"],
+    "examples_de": [["Das **Patriarchat** erstreckte sich über mehrere Länder in Osteuropa", "Er studierte ausgiebig die Geschichte des Moskauer **Patriarchats**"]]
+  },
+  {
+    "lemma": "patriarchy",
+    "meanings_de": ["männerdominiertes Gesellschaftssystem"],
+    "definitions_de": ["Gesellschaftssystem, in dem Männer die primäre Macht innehaben und in Führungs- und Autoritätsrollen dominieren"],
+    "examples_de": [["Feministische Wissenschaftlerinnen analysieren, wie das **Patriarchat** heute soziale Institutionen prägt", "Der Roman kritisiert das **Patriarchat** in der britischen Gesellschaft des neunzehnten Jahrhunderts"]]
+  },
+  {
+    "lemma": "patrician",
+    "meanings_de": ["aristokratische Person"],
+    "definitions_de": ["Mitglied des Adels oder der Aristokratie, insbesondere im alten Rom"],
+    "examples_de": [["Die **patrizischen** Familien kontrollierten den Großteil des Reichtums der Stadt", "Ihre **vornehme** Haltung verriet sofort ihren Oberschichthintergrund"]]
+  },
+  {
+    "lemma": "patrimony",
+    "meanings_de": ["geerbtes Vermögen"],
+    "definitions_de": ["Eigentum oder Rechte, die vom Vater oder männlichen Vorfahren über Generationen geerbt wurden"],
+    "examples_de": [["Er verschwendete sein **Erbe** törichterweise für riskante Geschäftsunternehmungen", "Das Schloss bildete einen Teil des alten **Familienerbes**"]]
+  },
+  {
+    "lemma": "patriot",
+    "meanings_de": ["Vaterlandsfreund"],
+    "definitions_de": ["Person, die ihr Land energisch unterstützt und bereit ist, es zu verteidigen"],
+    "examples_de": [["**Patrioten** versammelten sich, um gemeinsam den Unabhängigkeitstag der Nation zu feiern", "Sie betrachtete sich als **Patriotin**, die die Regierungspolitik hinterfragte"]]
+  },
+  {
+    "lemma": "patriotism",
+    "meanings_de": ["Vaterlandsliebe"],
+    "definitions_de": ["Hingebungsvolle Liebe, Unterstützung und Verteidigung des eigenen Landes und der nationalen Interessen"],
+    "examples_de": [["Sein **Patriotismus** inspirierte ihn zum Militärdienst", "Schulen lehrten **Vaterlandsliebe** durch Flaggenzeremonien und Nationallieder"]]
+  },
+  {
+    "lemma": "patrolman",
+    "meanings_de": ["Streifenpolizist"],
+    "definitions_de": ["Polizeibeamter, der ein bestimmtes Gebiet zu Fuß oder in einem Fahrzeug patrouilliert"],
+    "examples_de": [["Der **Streifenpolizist** ging täglich seine Runde durch das Viertel", "Ein **Streifenbeamter** reagierte innerhalb von Minuten auf den Notruf"]]
+  },
+  {
+    "lemma": "patron",
+    "meanings_de": ["Stammkunde", "finanzieller Unterstützer"],
+    "definitions_de": ["Regelmäßiger Kunde eines Geschäfts, Restaurants oder einer anderen Einrichtung", "Person, die einer Person, Organisation oder Sache finanzielle Unterstützung gibt"],
+    "examples_de": [["Die treuen **Stammgäste** des Restaurants füllten am Wochenende jeden Tisch", "Bibliotheks**benutzer** können bis zu zehn Bücher gleichzeitig ausleihen"], ["Der wohlhabende **Mäzen** finanzierte die neue Skulpturenausstellung des Museums", "Künstler suchten **Gönner**, um ihre kreative Arbeit finanziell zu unterstützen"]]
+  },
+  {
+    "lemma": "patronage",
+    "meanings_de": ["Kundentreue", "Günstlingssystem"],
+    "definitions_de": ["Unterstützung von Kunden für ein Unternehmen durch regelmäßige Einkäufe", "System der Ernennung von Personen in Positionen als Belohnung für politische Unterstützung"],
+    "examples_de": [["Das Geschäft florierte dank lokaler **Kundschaft** über viele Jahre", "Wir schätzen Ihre **Treue** und hoffen, dass Sie wiederkommen"], ["Politische **Vetternwirtschaft** füllte Regierungsämter mit unqualifizierten Parteianhängern", "Das **Patronagesystem** belohnte Loyalität statt Verdienst oder Können"]]
+  },
+  {
+    "lemma": "patsy",
+    "meanings_de": ["Sündenbock"],
+    "definitions_de": ["Person, die leicht ausgenutzt oder für etwas verantwortlich gemacht wird, was sie nicht getan hat"],
+    "examples_de": [["Sie machten ihn zum **Sündenbock** für ihr gescheitertes Geschäftsvorhaben", "Sei kein **Prügelknabe** für die Fehler oder Verbrechen anderer"]]
+  },
+  {
+    "lemma": "patter",
+    "meanings_de": ["schnelles Gerede", "leichtes Klopfgeräusch"],
+    "definitions_de": ["Schnelles kontinuierliches Sprechen, besonders eines Verkäufers oder Entertainers", "Schnelle leichte Geräusche wie Regen oder Schritte, die auf eine Oberfläche treffen"],
+    "examples_de": [["Das **Geplapper** des Auktionators hielt die Bieter während des gesamten Verkaufs bei der Stange", "Stand-up-Comedians perfektionieren ihr **Gerede** durch unzählige Auftritte"], ["Das **Prasseln** des Regens auf dem Dach lullte alle friedlich in den Schlaf", "Das **Getrappel** kleiner Füße kündigte die Ankunft des Kleinkinds an"]]
+  },
+  {
+    "lemma": "patty",
+    "meanings_de": ["flache Speisenportion"],
+    "definitions_de": ["Kleiner flacher Kuchen aus gehackten Lebensmitteln, besonders Fleisch, das zu einer runden Form geformt wird"],
+    "examples_de": [["Sie grillte Burger-**Frikadellen** für die Gartengrillparty", "Das Rezept verlangt, die Mischung zu kleinen **Bratlingen** zu formen"]]
+  },
+  {
+    "lemma": "paucity",
+    "meanings_de": ["extreme Knappheit"],
+    "definitions_de": ["Vorhandensein von etwas nur in kleinen oder unzureichenden Mengen"],
+    "examples_de": [["Der **Mangel** an Beweisen erschwerte die Strafverfolgung vor Gericht", "Ein **Mangel** an qualifizierten Lehrern betrifft ländliche Schulbezirke"]]
+  },
+  {
+    "lemma": "pauper",
+    "meanings_de": ["extrem arme Person"],
+    "definitions_de": ["Sehr arme Person, die für ihr Überleben auf Wohltätigkeit oder öffentliche Fürsorge angewiesen ist"],
+    "examples_de": [["Die Wirtschaftskrise machte viele Arbeiter über Nacht zu **Armen**", "Viktorianische Gesetze unterschieden hart zwischen würdigen und unwürdigen **Bedürftigen**"]]
+  },
+  {
+    "lemma": "pave",
+    "meanings_de": ["Oberflächenbelag"],
+    "definitions_de": ["Harter Oberflächenbelag für Straßen, Gehwege oder andere Bereiche"],
+    "examples_de": [["Der neue **Belag** verbesserte die Entwässerung entlang der belebten Straße", "Arbeiter verlegten frischen **Asphalt** auf dem Parkplatz des Einkaufszentrums"]]
+  },
+  {
+    "lemma": "pavement",
+    "meanings_de": ["harte Straßenoberfläche", "Gehwegbereich"],
+    "definitions_de": ["Harte Oberfläche einer Straße aus Beton oder Asphalt", "Erhöhter gepflasterter Bereich neben einer Straße, auf dem Fußgänger gehen können"],
+    "examples_de": [["Schwere Lastwagen beschädigten gestern den **Straßenbelag** während der Bauarbeiten", "Der heiße **Asphalt** brannte durch ihre dünnen Schuhsohlen"], ["Kinder zeichneten mit Kreide Hüpfkästchen auf den **Gehweg**", "Cafés stellten Tische auf den breiten **Bürgersteig** für die Außengastronomie"]]
+  },
+  {
+    "lemma": "pavilion",
+    "meanings_de": ["dekoratives Gebäude", "Ausstellungszelt"],
+    "definitions_de": ["Leichtes Ziergebäude zur Unterhaltung in Parks oder Gärten", "Großes Zelt oder temporäre Struktur für Ausstellungen oder öffentliche Veranstaltungen"],
+    "examples_de": [["Der Hochzeitsempfang fand im Garten**pavillon** statt", "Ein viktorianischer **Pavillon** überblickte den See im Park"], ["Unternehmen stellten Produkte im Technologie**pavillon** auf der Messe aus", "Der Sanitäts**pavillon** leistete während des Festivals Erste Hilfe"]]
+  },
+  {
+    "lemma": "paving",
+    "meanings_de": ["Oberflächenmaterial"],
+    "definitions_de": ["Material zur Bildung einer harten ebenen Oberfläche für Straßen, Wege oder Einfahrten"],
+    "examples_de": [["Der Auftragnehmer empfahl Stein**pflaster** für den Gartenweg", "Neue **Pflasterung** verwandelte das Erscheinungsbild des Stadtplatzes"]]
+  },
+  {
+    "lemma": "paw",
+    "meanings_de": ["Tierfuß"],
+    "definitions_de": ["Fuß eines Tieres mit Krallen oder Nägeln, besonders bei Säugetieren"],
+    "examples_de": [["Die Katze putzte ihre **Pfote** nach dem Gang durch den Schlamm", "Bären**tatzen** hinterließen tiefe Abdrücke im weichen Boden"]]
+  },
+  {
+    "lemma": "pawn",
+    "meanings_de": ["Schachfigur", "von anderen benutzte Person"],
+    "definitions_de": ["Schwächste Schachfigur, die ein Feld vorwärts zieht", "Person, die von anderen für ihre eigenen Zwecke ohne Rücksicht benutzt wird"],
+    "examples_de": [["Sie zog ihren **Bauern** vorwärts, um das Schachspiel zu beginnen", "Der Schutz von **Bauern** wird in der Endspielstrategie entscheidend"], ["Die Mitarbeiter fühlten sich wie **Spielfiguren** in den Fusionsverhandlungen", "Sei keine **Marionette** in den politischen Spielen anderer"]]
+  },
+  {
+    "lemma": "pawnshop",
+    "meanings_de": ["Pfandleihhaus"],
+    "definitions_de": ["Geschäft, in dem Menschen Geld leihen können, indem sie wertvolle Gegenstände als Sicherheit hinterlassen"],
+    "examples_de": [["Er verpfändete seine Uhr im örtlichen **Pfandhaus** gegen Bargeld", "Das **Leihhaus** stellte Gitarren und Schmuck im Schaufenster aus"]]
+  },
+  {
+    "lemma": "payable",
+    "meanings_de": ["Zahlungsdokument"],
+    "definitions_de": ["Schriftliche Anweisung oder Notiz, die die Zahlung eines bestimmten Betrags erfordert"],
+    "examples_de": [["Der Buchhalter bearbeitete alle **Verbindlichkeiten** vor Monatsende", "Ausstehende **Zahlungsverpflichtungen** erschienen deutlich in der Unternehmensbilanz"]]
+  },
+  {
+    "lemma": "payback",
+    "meanings_de": ["Racheakt", "Amortisationszeit"],
+    "definitions_de": ["Akt der Rache oder Vergeltung für ein Unrecht oder eine Verletzung", "Zeitraum, der erforderlich ist, damit eine Investition genügend Einkommen generiert, um ihre Kosten zu decken"],
+    "examples_de": [["Sein grausamer Streich war die **Rache** für die Peinlichkeit vom letzten Jahr", "Sie suchten **Vergeltung** an denen, die sie verraten hatten"], ["Die Solarpaneele haben eine **Amortisationszeit** von sieben Jahren", "Investoren berechneten die **Rückzahlungsdauer** vor der Projektzusage"]]
+  },
+  {
+    "lemma": "paycheck",
+    "meanings_de": ["Gehaltszahlung"],
+    "definitions_de": ["Regelmäßige Zahlung von Löhnen oder Gehalt, die von einem Arbeitgeber für geleistete Arbeit erhalten wird"],
+    "examples_de": [["Sie zahlte jeden Freitag ihren **Gehaltsscheck** bei der Bank ein", "Von **Gehalt** zu **Gehalt** zu leben ließ keinen Raum für Notfälle"]]
+  },
+  {
+    "lemma": "payday",
+    "meanings_de": ["Zahltag"],
+    "definitions_de": ["Regelmäßiger Tag, an dem Löhne oder Gehälter an Mitarbeiter gezahlt werden"],
+    "examples_de": [["Die Arbeiter erwarteten sehnsüchtig den **Zahltag** am Monatsende", "Rechnungen häuften sich an, während sie auf den nächsten **Lohntag** warteten"]]
+  },
+  {
+    "lemma": "payer",
+    "meanings_de": ["Zahlender"],
+    "definitions_de": ["Person oder Organisation, die Geld für Waren, Dienstleistungen oder Verpflichtungen zahlt"],
+    "examples_de": [["Versicherungs**zahler** müssen manchmal Verfahren vor Behandlungsbeginn genehmigen", "Der **Zahlungspflichtige** reichte die Zahlung gestern über das Online-Portal ein"]]
+  },
+  {
+    "lemma": "payload",
+    "meanings_de": ["Frachtkapazität", "Sprengladung"],
+    "definitions_de": ["Tragfähigkeit eines Flugzeugs oder Raumfahrzeugs ohne Betriebsausrüstung", "Sprengkopf, der von einer Rakete oder ähnlichen Waffe getragen wird"],
+    "examples_de": [["Die **Nutzlast** der Rakete umfasste drei Kommunikationssatelliten für die Umlaufbahn", "Frachtflugzeuge erhöhten die **Ladekapazität** für internationale Schifffahrtsrouten"], ["Militäranalysten bewerteten die **Sprengkopf**- und Reichweitenfähigkeiten der Rakete", "Die **Ladung** detonierte präzise am vorbestimmten Zielort"]]
+  },
+  {
+    "lemma": "paymaster",
+    "meanings_de": ["Zahlmeister"],
+    "definitions_de": ["Beamter, der für die Zahlung von Löhnen oder Gehältern an Mitarbeiter verantwortlich ist"],
+    "examples_de": [["Der **Zahlmeister** verteilte jeden Freitagnachmittag Löhne an die Arbeiter", "Militärische **Zahlmeister** stellten sicher, dass Soldaten ihre Bezüge pünktlich erhielten"]]
+  },
+  {
+    "lemma": "payoff",
+    "meanings_de": ["Abschlusszahlung", "Bestechungsgeld", "vorteilhaftes Ergebnis"],
+    "definitions_de": ["Abschlusszahlung, die eine Transaktion oder Schuld abschließt", "Geld, das jemandem gezahlt wird, um ihre Handlungen illegal zu beeinflussen", "Gewinn oder Vorteil aus einer Handlung oder Investition"],
+    "examples_de": [["Die Hypotheken**tilgung** befreite sie von monatlichen Wohnungszahlungen", "Sie forderte den **Ablösebetrag** des Darlehens von der Bank an"], ["Die Polizei entdeckte **Schmiergelder** an Beamte im Korruptionsskandal", "Der Manager nahm **Bestechungsgelder** an, um fragwürdige Verträge zu genehmigen"], ["Jahre der Übung zeigten sich in ihrer Leistung als **Erfolg**", "Die riskante Investition hatte schließlich eine riesige **Auszahlung**"]]
+  },
+  {
+    "lemma": "payroll",
+    "meanings_de": ["Lohnliste"],
+    "definitions_de": ["Liste der Mitarbeiter und ihrer Löhne, die ein Unternehmen regelmäßig zahlen muss"],
+    "examples_de": [["Das Unternehmen fügte letztes Quartal fünfzig Arbeiter zu seiner **Lohnliste** hinzu", "Die **Gehaltsabrechnung** erfordert sorgfältige Beachtung der Steuervorschriften"]]
+  },
+  {
+    "lemma": "pct",
+    "meanings_de": ["Prozentabkürzung"],
+    "definitions_de": ["Abgekürzte Form des Wortes Prozent, die beim Schreiben verwendet wird"],
+    "examples_de": [["Der Umsatz stieg um 15 **Proz.** gegenüber dem Vorjahr", "Der Bericht zeigte einen Rückgang der Arbeitslosigkeit um 3 **Proz.**"]]
+  },
+  {
+    "lemma": "pea",
+    "meanings_de": ["grünes Samengemüse"],
+    "definitions_de": ["Kleiner runder grüner Samen, der als Gemüse gegessen wird und in Schoten an Kletterpflanzen wächst"],
+    "examples_de": [["Sie fügte frische **Erbsen** zur Frühlingsgemüsesuppe hinzu", "Kinder schoben **Erbsen** beim Abendessen auf ihren Tellern herum"]]
+  },
+  {
+    "lemma": "peacekeeper",
+    "meanings_de": ["Friedensvermittler"],
+    "definitions_de": ["Person, insbesondere ein Soldat, der hilft, den Frieden in Konfliktgebieten aufrechtzuerhalten"],
+    "examples_de": [["UN-**Friedenstruppen** patrouillierten an der Grenze zwischen den kriegführenden Nationen", "Der **Friedensbewahrer** verhandelte erfolgreich einen Waffenstillstand zwischen rivalisierenden Fraktionen"]]
+  },
+  {
+    "lemma": "peacekeeping",
+    "meanings_de": ["Friedenserhaltungsaktivität"],
+    "definitions_de": ["Einsatz internationaler Kräfte zur Verhinderung oder Beendigung von Konflikten zwischen Nationen oder Gruppen"],
+    "examples_de": [["Die **Friedensmission** dauerte erfolgreich über zwei Jahre", "Nationen steuerten Truppen zu **Friedensbemühungen** in der Region bei"]]
+  },
+  {
+    "lemma": "peacemaker",
+    "meanings_de": ["Streitschlichter"],
+    "definitions_de": ["Person, die Frieden herbeiführt, insbesondere durch Versöhnung von Gegnern oder Beilegung von Streitigkeiten"],
+    "examples_de": [["Sie fungierte erfolgreich als **Friedensstifterin** zwischen den zerstrittenen Nachbarn", "Der Diplomat erlangte Anerkennung als internationaler **Friedensvermittler**"]]
+  }
+]

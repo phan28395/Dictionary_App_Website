@@ -1,0 +1,272 @@
+[
+  {
+    "lemma": "cfc",
+    "meanings_de": ["Abkürzung für chemische Verbindung"],
+    "definitions_de": ["Abkürzung für Fluorchlorkohlenwasserstoff, eine synthetische chemische Verbindung aus Kohlenstoff-, Chlor- und Fluoratomen, die in Kältemitteln und Aerosolen verwendet wurde"],
+    "examples_de": [["Die Produktion von **FCKW** wurde zum Schutz der Ozonschicht verboten", "Wissenschaftler entdeckten, dass **FCKW**-Emissionen die Atmosphäre schädigen"]]
+  },
+  {
+    "lemma": "cfl",
+    "meanings_de": ["Leuchtmitteltyp", "Sportliga"],
+    "definitions_de": ["Kompaktleuchtstofflampe, eine energiesparende Glühbirne, die Leuchtstofftechnologie in kompakter Bauweise nutzt", "Canadian Football League, die professionelle Football-Liga in Kanada"],
+    "examples_de": [["Sie ersetzte alle Glühbirnen durch **Energiesparlampen**, um Strom zu sparen", "Die **Kompaktleuchtstofflampen** halten viel länger als herkömmliche Glühbirnen"], ["Das Endspiel der **CFL** zieht Millionen Zuschauer in ganz Kanada an", "Er spielte acht Saisons als Quarterback in der **CFL**"]]
+  },
+  {
+    "lemma": "cfo",
+    "meanings_de": ["Führungsposition"],
+    "definitions_de": ["Finanzvorstand, der leitende Manager, der für die finanziellen Aktivitäten und die Finanzplanung eines Unternehmens verantwortlich ist"],
+    "examples_de": [["Der **Finanzvorstand** präsentierte den Quartalsbericht vor den Investoren", "Unser neuer **CFO** verfügt über umfangreiche Erfahrung im Bereich Unternehmensfinanzen"]]
+  },
+  {
+    "lemma": "cia",
+    "meanings_de": ["Geheimdienst"],
+    "definitions_de": ["Central Intelligence Agency, der Auslandsgeheimdienst der Vereinigten Staaten, zuständig für die Sammlung und Analyse von Informationen über ausländische Regierungen"],
+    "examples_de": [["Das Hauptquartier der **CIA** befindet sich in Langley, Virginia", "Ehemalige **CIA**-Agenten schreiben oft Memoiren über ihre Erfahrungen"]]
+  },
+  {
+    "lemma": "cio",
+    "meanings_de": ["Führungsposition"],
+    "definitions_de": ["IT-Leiter oder Chief Information Officer, der leitende Manager, der für die Verwaltung und Umsetzung von Informationstechnologie-Strategien in einer Organisation verantwortlich ist"],
+    "examples_de": [["Der **IT-Leiter** überwacht die gesamte Technologieinfrastruktur und digitale Transformationsinitiativen", "Unser **CIO** leitet die Migration des Unternehmens in die Cloud"]]
+  },
+  {
+    "lemma": "cobol",
+    "meanings_de": ["Programmiersprache"],
+    "definitions_de": ["Common Business-Oriented Language, eine frühe höhere Programmiersprache, die für geschäftliche Datenverarbeitungsanwendungen entwickelt wurde"],
+    "examples_de": [["Viele Banken unterhalten noch Legacy-Systeme, die in **COBOL** geschrieben sind", "Sie lernte **COBOL**, um an Großrechnersystemen zu arbeiten"]]
+  },
+  {
+    "lemma": "cpa",
+    "meanings_de": ["Berufszertifizierung"],
+    "definitions_de": ["Wirtschaftsprüfer, ein lizenzierter Buchhaltungsexperte, der Prüfungen bestanden und Erfahrungsanforderungen erfüllt hat"],
+    "examples_de": [["Sie sollten einen **Wirtschaftsprüfer** beauftragen, um Ihre komplexe Steuersituation zu bewältigen", "Sie wurde **Wirtschaftsprüferin**, nachdem sie alle vier Prüfungsteile bestanden hatte"]]
+  },
+  {
+    "lemma": "cpi",
+    "meanings_de": ["Wirtschaftsindikator"],
+    "definitions_de": ["Verbraucherpreisindex, ein Maß zur Untersuchung der durchschnittlichen Preisänderung, die Verbraucher für Waren und Dienstleistungen zahlen"],
+    "examples_de": [["Der **Verbraucherpreisindex** stieg um 2,5 Prozent, was auf eine moderate Inflation hindeutet", "Ökonomen beobachten den **VPI**, um Veränderungen der Lebenshaltungskosten zu bewerten"]]
+  },
+  {
+    "lemma": "cpr",
+    "meanings_de": ["Notfallverfahren"],
+    "definitions_de": ["Herz-Lungen-Wiederbelebung, ein lebensrettendes Notfallverfahren, das durchgeführt wird, wenn die Atmung oder der Herzschlag einer Person ausgesetzt hat"],
+    "examples_de": [["Der Rettungsschwimmer begann sofort mit der **Wiederbelebung** des Ertrinkenden", "Jeder sollte die **Herz-Lungen-Wiederbelebung** erlernen, um in Notfällen helfen zu können"]]
+  },
+  {
+    "lemma": "cpu",
+    "meanings_de": ["Computerkomponente"],
+    "definitions_de": ["Hauptprozessor oder zentrale Verarbeitungseinheit, die primäre Komponente eines Computers, die Befehle ausführt und Daten verarbeitet"],
+    "examples_de": [["Der neue Laptop verfügt über einen leistungsstarken **Prozessor** für schnellere Performance", "Das Übertakten der **CPU** kann die Rechengeschwindigkeit erhöhen, erzeugt aber mehr Wärme"]]
+  },
+  {
+    "lemma": "crt",
+    "meanings_de": ["Bildschirmtechnologie"],
+    "definitions_de": ["Kathodenstrahlröhre, eine Vakuumröhrentechnologie, die in älteren Fernsehgeräten und Computermonitoren zur Bilddarstellung verwendet wurde"],
+    "examples_de": [["Der alte **Röhrenmonitor** wurde durch einen flachen LCD-Bildschirm ersetzt", "**Röhrenfernseher** waren sperrig, boten aber eine ausgezeichnete Bildqualität"]]
+  },
+  {
+    "lemma": "cst",
+    "meanings_de": ["Zeitzone"],
+    "definitions_de": ["Central Standard Time, die Zeitzone, die in den zentralen Regionen Nordamerikas während der Standardzeit verwendet wird"],
+    "examples_de": [["Die Telefonkonferenz ist für morgen 14 Uhr **CST** angesetzt", "Chicago arbeitet während der Wintermonate nach **CST**"]]
+  },
+  {
+    "lemma": "cabernet",
+    "meanings_de": ["Weinrebsorte"],
+    "definitions_de": ["eine dunkle Rebsorte zur Herstellung von Rotwein, insbesondere Cabernet Sauvignon und Cabernet Franc"],
+    "examples_de": [["Das Weingut hat sich auf den Anbau von **Cabernet**-Trauben für Premiumweine spezialisiert", "Dieser **Cabernet** hat reiche Aromen von schwarzer Johannisbeere und Zeder"]]
+  },
+  {
+    "lemma": "caesar",
+    "meanings_de": ["historischer Herrscher", "Salatgericht"],
+    "definitions_de": ["ein Titel römischer Kaiser, insbesondere Julius Caesar und nachfolgende Herrscher", "ein beliebter Salat aus Römersalat, Croutons, Parmesankäse und Caesar-Dressing"],
+    "examples_de": [["Julius **Caesar** wurde an den Iden des März ermordet", "Der römische **Kaiser** herrschte über ein riesiges Reich"], ["Sie bestellte einen **Caesar**-Salat mit Hähnchen zum Mittagessen", "Das Restaurant ist berühmt für seine **Caesar**-Zubereitung am Tisch"]]
+  },
+  {
+    "lemma": "cajun",
+    "meanings_de": ["Kulturgruppe", "Kochstil"],
+    "definitions_de": ["eine Person, die von französischsprachigen akadischen Siedlern in Louisiana abstammt und eigene kulturelle Traditionen pflegt", "ein würziger Kochstil aus Louisiana mit kräftigen Gewürzen und Zutaten"],
+    "examples_de": [["Die **Cajun**-Gemeinschaft bewahrt ihren einzigartigen französischen Dialekt und ihre Bräuche", "Viele **Cajun**-Familien leben seit Generationen in Louisiana"], ["Das Restaurant serviert authentische **Cajun**-Gerichte wie Jambalaya und Gumbo", "Er würzte den Fisch mit **Cajun**-Gewürzen vor dem Grillen"]]
+  },
+  {
+    "lemma": "beeswax",
+    "meanings_de": ["Natursubstanz"],
+    "definitions_de": ["eine gelbliche Substanz, die von Honigbienen zur Herstellung von Waben produziert wird, verwendet in Kerzen, Polituren und Kosmetika"],
+    "examples_de": [["Sie polierte die Möbel mit natürlichem **Bienenwachs** für einen glänzenden Schimmer", "Die Kerzen wurden aus reinem **Bienenwachs** von örtlichen Bienenstöcken hergestellt"]]
+  },
+  {
+    "lemma": "beet",
+    "meanings_de": ["Wurzelgemüse"],
+    "definitions_de": ["ein rundes Wurzelgemüse mit dunkelrotem oder purpurnem Fleisch, häufig verwendet in Salaten, Suppen und als Beilage"],
+    "examples_de": [["Der geröstete **Rote-Bete**-Salat wurde mit Ziegenkäse und Walnüssen garniert", "Sie baute sowohl rote als auch goldene **Bete**-Sorten in ihrem Garten an"]]
+  },
+  {
+    "lemma": "beetle",
+    "meanings_de": ["Insektenart"],
+    "definitions_de": ["ein Insekt mit harten Flügeldecken und kauenden Mundwerkzeugen, die größte Insektenordnung mit über 400.000 Arten"],
+    "examples_de": [["Der glänzend grüne **Käfer** kroch langsam über das Gartenblatt", "Wissenschaftler entdeckten eine neue **Käfer**art im Regenwald"]]
+  },
+  {
+    "lemma": "beggar",
+    "meanings_de": ["Person, die um Almosen bittet"],
+    "definitions_de": ["eine Person, die ihren Lebensunterhalt damit bestreitet, andere um Geld oder Essen zu bitten, typischerweise aufgrund von Armut oder Obdachlosigkeit"],
+    "examples_de": [["Der **Bettler** saß vor der U-Bahn-Station und bat um Kleingeld", "Sie gab dem **Obdachlosen**, der in der Nähe ihres Büros schlief, immer etwas zu essen"]]
+  },
+  {
+    "lemma": "begging",
+    "meanings_de": ["Akt des Bettelns"],
+    "definitions_de": ["die Handlung, eindringlich oder demütig um etwas zu bitten, insbesondere um Geld oder Hilfe von anderen"],
+    "examples_de": [["Sein ständiges **Betteln** um Aufmerksamkeit wurde für alle ermüdend", "Das **Betteln** des Hundes am Esstisch war eine schlechte Angewohnheit"]]
+  },
+  {
+    "lemma": "beginner",
+    "meanings_de": ["Anfänger"],
+    "definitions_de": ["eine Person, die gerade anfängt, etwas zu lernen oder zu tun, mit wenig oder keiner Erfahrung in einer bestimmten Aktivität"],
+    "examples_de": [["Der Yoga-Kurs ist speziell für **Anfänger** konzipiert", "Als **Anfängerin** in der Fotografie übte sie täglich das Fotografieren"]]
+  },
+  {
+    "lemma": "begonia",
+    "meanings_de": ["Blühpflanze"],
+    "definitions_de": ["eine tropische Pflanze mit leuchtenden, auffälligen Blüten und oft bunten Blättern, häufig als Zimmerpflanze oder Gartenzierpflanze kultiviert"],
+    "examples_de": [["Die rosa **Begonie** blühte den ganzen Sommer wunderschön auf ihrer Fensterbank", "Er pflanzte **Begonien**knollen in Hängeampeln für die Terrasse"]]
+  },
+  {
+    "lemma": "behaviorism",
+    "meanings_de": ["psychologische Theorie"],
+    "definitions_de": ["eine Theorie in der Psychologie, die besagt, dass menschliches und tierisches Verhalten durch Konditionierung erklärt werden kann, ohne Gedanken oder Gefühle zu berücksichtigen"],
+    "examples_de": [["Der **Behaviorismus** dominierte die psychologische Forschung im frühen zwanzigsten Jahrhundert", "Der Professor erklärte, wie sich der **Behaviorismus** von kognitiven Psychologieansätzen unterscheidet"]]
+  },
+  {
+    "lemma": "behaviour",
+    "meanings_de": ["Art des Handelns"],
+    "definitions_de": ["die Art und Weise, wie sich eine Person oder ein Tier verhält oder benimmt, insbesondere gegenüber anderen"],
+    "examples_de": [["Das **Verhalten** des Kindes verbesserte sich deutlich nach Einführung der neuen Routine", "Wissenschaftler untersuchen das **Verhalten** von Tieren, um ihre natürlichen Instinkte zu verstehen"]]
+  },
+  {
+    "lemma": "beheading",
+    "meanings_de": ["Hinrichtungsmethode"],
+    "definitions_de": ["der Akt, jemandem den Kopf abzuschlagen, historisch als Form der Todesstrafe oder Hinrichtung verwendet"],
+    "examples_de": [["Die Museumsausstellung beschrieb mittelalterliche **Enthauptungs**praktiken sehr detailliert", "Historische Aufzeichnungen dokumentieren die **Enthauptung** mehrerer bedeutender politischer Gefangener"]]
+  },
+  {
+    "lemma": "behemoth",
+    "meanings_de": ["riesige Kreatur"],
+    "definitions_de": ["etwas von monströser Größe oder Macht, ursprünglich ein biblisches Ungeheuer, heute für alles Riesenhafte verwendet"],
+    "examples_de": [["Der Konzern war zu einem **Giganten** geworden, der die gesamte Branche beherrschte", "Das Kreuzfahrtschiff war ein **Koloss**, der Tausende von Passagieren transportierte"]]
+  },
+  {
+    "lemma": "behest",
+    "meanings_de": ["autoritäre Aufforderung"],
+    "definitions_de": ["der Befehl oder die Anordnung einer Person, insbesondere eine formelle oder autoritäre Bitte, die Befolgung erwartet"],
+    "examples_de": [["Sie nahm auf **Geheiß** ihres Vorgesetzten an der Besprechung teil", "Die Untersuchung wurde auf **Betreiben** besorgter Bürger eingeleitet"]]
+  },
+  {
+    "lemma": "beholder",
+    "meanings_de": ["Person, die beobachtet"],
+    "definitions_de": ["eine Person, die jemanden oder etwas sieht oder beobachtet, oft verwendet in der Redewendung Schönheit liegt im Auge des Betrachters"],
+    "examples_de": [["Schönheit liegt wahrhaftig im Auge des **Betrachters**", "Der **Betrachter** der Szene war von ihrer Erhabenheit zu Tränen gerührt"]]
+  },
+  {
+    "lemma": "beige",
+    "meanings_de": ["blassbraune Farbe"],
+    "definitions_de": ["eine blass sandige gelblich-braune Farbe, oft verwendet zur Beschreibung neutralfarbiger Kleidung, Farbe oder Dekorationen"],
+    "examples_de": [["Sie strich die Wohnzimmerwände in einem warmen **Beige**ton", "Sein **beige**farbener Anzug war perfekt für die Sommerhochzeit"]]
+  },
+  {
+    "lemma": "belfry",
+    "meanings_de": ["Glockenturm"],
+    "definitions_de": ["ein Turm oder eine Struktur, die Glocken beherbergt, typischerweise Teil einer Kirche oder eines anderen Gebäudes"],
+    "examples_de": [["Der **Glockenturm** der Kirche beherbergte drei alte Bronzeglocken", "Fledermäuse hatten sich im alten **Glockenstuhl** eingenistet"]]
+  },
+  {
+    "lemma": "believing",
+    "meanings_de": ["Akt des Glaubens"],
+    "definitions_de": ["der mentale Akt, etwas als wahr oder real zu akzeptieren, Glauben oder Vertrauen in etwas zu haben"],
+    "examples_de": [["An sich selbst zu **glauben** ist der erste Schritt zum Erfolg", "Sie hatte Schwierigkeiten, seine aufwendige Ausrede für die Verspätung zu **glauben**"]]
+  },
+  {
+    "lemma": "belladonna",
+    "meanings_de": ["Giftpflanze"],
+    "definitions_de": ["eine hochgiftige Pflanze mit violetten Blüten und schwarzen Beeren, historisch in der Medizin und Kosmetik verwendet trotz ihrer gefährlichen Eigenschaften"],
+    "examples_de": [["Der Gartenführer warnte die Besucher davor, die **Tollkirsche** zu berühren", "Mittelalterliche Frauen verwendeten **Belladonna**-Tropfen zur Pupillenerweiterung für die Schönheit"]]
+  },
+  {
+    "lemma": "belle",
+    "meanings_de": ["schöne Frau"],
+    "definitions_de": ["eine schöne Frau, insbesondere diejenige, die bei einer bestimmten Veranstaltung oder in einer bestimmten Gruppe am attraktivsten ist"],
+    "examples_de": [["Sie war die **Schönste** des Balls in ihrem atemberaubenden Abendkleid", "Die südstaatliche **Schönheit** empfing die Gäste anmutig im Plantagenhaus"]]
+  },
+  {
+    "lemma": "bellflower",
+    "meanings_de": ["Blühpflanze"],
+    "definitions_de": ["eine Pflanze mit glockenförmigen Blüten, typischerweise blau oder violett, aus der Familie der Glockenblumengewächse"],
+    "examples_de": [["Die zarte **Glockenblume** blühte jeden Frühling entlang des Gartenwegs", "Sie presste **Glockenblumen**blüten in ihrem botanischen Sammlungsbuch"]]
+  },
+  {
+    "lemma": "belligerent",
+    "meanings_de": ["feindseliger Mensch", "kriegführende Nation"],
+    "definitions_de": ["eine Person, die feindselig und aggressiv ist, kampf- oder streitlustig", "eine Nation oder Person, die in Krieg oder Konflikt verwickelt ist"],
+    "examples_de": [["Der **streitlustige** Kunde verlangte sofort den Geschäftsführer zu sprechen", "Seine **aggressive** Haltung machte friedliche Verhandlungen nahezu unmöglich"], ["Der Vertrag identifizierte alle **kriegführenden** Nationen im Konflikt", "Beide **Konfliktparteien** einigten sich auf einen vorübergehenden Waffenstillstand"]]
+  },
+  {
+    "lemma": "bellman",
+    "meanings_de": ["Hotelangestellter"],
+    "definitions_de": ["ein Hotelangestellter, der Gepäck trägt, Nachrichten überbringt und verschiedene Dienstleistungen für Gäste erbringt"],
+    "examples_de": [["Der **Page** half dabei, ihre schweren Koffer zum Zimmer zu tragen", "Sie gab dem **Hotelpagen** Trinkgeld für seinen exzellenten Service während ihres Aufenthalts"]]
+  },
+  {
+    "lemma": "bellow",
+    "meanings_de": ["lauter tiefer Ton"],
+    "definitions_de": ["ein lautes, tiefes Brüllen oder Schreien, das typischerweise Schmerz, Wut oder andere starke Emotionen ausdrückt"],
+    "examples_de": [["Der verwundete Stier stieß ein gewaltiges **Brüllen** des Schmerzes aus", "Sein wütendes **Gebrüll** war im ganzen Gebäude zu hören"]]
+  },
+  {
+    "lemma": "bellwether",
+    "meanings_de": ["Leitindikator"],
+    "definitions_de": ["etwas, das Trends anführt oder anzeigt, ursprünglich ein Schaf mit einer Glocke, das die Herde führt"],
+    "examples_de": [["Der Aktienkurs des Unternehmens dient als **Indikator** für die Technologiebranche", "Iowa gilt als politischer **Gradmesser** bei Präsidentschaftswahlen"]]
+  },
+  {
+    "lemma": "belonging",
+    "meanings_de": ["persönlicher Besitz", "Zugehörigkeitsgefühl"],
+    "definitions_de": ["ein Gegenstand oder Gegenstände, die jemandem gehören oder mit jemandem verbunden sind", "das Gefühl, akzeptiert zu werden und sich in einer Gruppe oder an einem Ort zugehörig zu fühlen"],
+    "examples_de": [["Sie packte all ihre **Habseligkeiten** in drei Pappkartons", "Das Fundbüro sammelte verschiedene zurückgelassene **Gegenstände**"], ["Der neue Schüler kämpfte darum, ein Gefühl der **Zugehörigkeit** in der Schule zu finden", "**Zugehörigkeit** am Arbeitsplatz zu schaffen verbessert die Mitarbeiterzufriedenheit erheblich"]]
+  },
+  {
+    "lemma": "belting",
+    "meanings_de": ["Material für Gürtel", "lautes Singen"],
+    "definitions_de": ["starker Stoff oder Material zur Herstellung von Gürteln oder verstärkten Bändern für Maschinen", "eine kraftvolle Gesangstechnik, die laute, resonante Stimmtöne erzeugt"],
+    "examples_de": [["Die Fabrik produzierte industrielle **Riemen** für Fördersysteme", "Sie kaufte Leder**riemenmaterial**, um maßgeschneiderte Gürtel herzustellen"], ["Ihre **kraftvolle** Darbietung der Nationalhymne beeindruckte alle", "Der Gesangslehrer lehrte die richtige **Belting**-Technik zum Schutz der Stimme"]]
+  },
+  {
+    "lemma": "beltway",
+    "meanings_de": ["Ringstraße"],
+    "definitions_de": ["eine Autobahn, die eine Stadt oder ein Ballungsgebiet umkreist, um den Durchgangsverkehr umzuleiten"],
+    "examples_de": [["Der Verkehr auf der **Umgehungsautobahn** der Hauptstadt war während der Stoßzeit stark", "Sie nahmen die **Ringautobahn**, um die Innenstadt zu umgehen"]]
+  },
+  {
+    "lemma": "beluga",
+    "meanings_de": ["Walart", "Störart"],
+    "definitions_de": ["ein kleiner weißer Wal aus arktischen Gewässern, bekannt für seinen charakteristischen runden Kopf", "ein großer Störfisch, geschätzt für die Produktion von teurem Beluga-Kaviar"],
+    "examples_de": [["Die **Belugawal**gruppe schwamm anmutig durch die eisigen arktischen Gewässer", "Meeresbiologen erforschen die **Beluga**kommunikation durch ihre komplexen Lautäußerungen"], ["**Beluga**-Kaviar gilt als eine der luxuriösesten Delikatessen der Welt", "Die **Belugastör**population ist durch Überfischung zurückgegangen"]]
+  },
+  {
+    "lemma": "benchmark",
+    "meanings_de": ["Standard-Referenzpunkt"],
+    "definitions_de": ["ein Standard oder Bezugspunkt, anhand dessen Dinge hinsichtlich Qualität oder Leistung verglichen oder bewertet werden können"],
+    "examples_de": [["Die Verkaufszahlen des Unternehmens setzten einen neuen **Maßstab** für die Branche", "Sie verwendeten die Vorjahresergebnisse als **Vergleichswert** zur Messung der Verbesserung"]]
+  },
+  {
+    "lemma": "bender",
+    "meanings_de": ["Sauftour", "Biegewerkzeug"],
+    "definitions_de": ["eine ausgedehnte Periode exzessiven Alkohol- oder Drogenkonsums", "ein Werkzeug oder eine Maschine zum Biegen von Rohren, Metall oder anderen Materialien"],
+    "examples_de": [["Er ging nach dem Jobverlust auf eine dreitägige **Sauftour**", "Der **Wochenend-Rausch** ließ ihn sich am Montag schrecklich fühlen"], ["Der Klempner verwendete eine **Rohrbiegemaschine**, um das Kupferrohr zu formen", "Diese **Metallbiegemaschine** kann Bleche bis zu einem Viertelzoll Dicke bearbeiten"]]
+  },
+  {
+    "lemma": "bending",
+    "meanings_de": ["Akt des Biegens"],
+    "definitions_de": ["die Handlung oder der Prozess, etwas gekrümmt oder gewinkelt statt gerade zu machen"],
+    "examples_de": [["Die **Brechung** des Lichts durch Wasser erzeugt optische Täuschungen", "Wiederholtes **Biegen** schwächte das Metall, bis es schließlich brach"]]
+  }
+]

@@ -1,0 +1,278 @@
+[
+  {
+    "lemma": "appliance",
+    "meanings_de": ["Haushaltsgerät"],
+    "definitions_de": ["Elektrisches oder mechanisches Gerät, das für spezifische Haushaltsaufgaben wie Kochen oder Reinigen entwickelt wurde"],
+    "examples_de": [["Die **Küchengeräte** umfassten eine Spülmaschine und eine Mikrowelle", "Sie kaufte neue **Haushaltsgeräte** für ihre Wohnung"]]
+  },
+  {
+    "lemma": "applicability",
+    "meanings_de": ["Anwendbarkeit"],
+    "definitions_de": ["Eigenschaft, für eine bestimmte Situation oder einen bestimmten Kontext relevant oder geeignet zu sein"],
+    "examples_de": [["Die **Anwendbarkeit** dieses Gesetzes auf Online-Geschäfte ist unklar", "Wir müssen die **Anwendbarkeit** dieser Richtlinien überprüfen"]]
+  },
+  {
+    "lemma": "applicant",
+    "meanings_de": ["Bewerber"],
+    "definitions_de": ["Person, die formell um etwas bittet, insbesondere um eine Stelle oder Zulassung"],
+    "examples_de": [["Der **Bewerber** hatte ausgezeichnete Qualifikationen", "Mehrere **Bewerber** wurden für die Position interviewt"]]
+  },
+  {
+    "lemma": "appointee",
+    "meanings_de": ["Ernannter"],
+    "definitions_de": ["Person, die offiziell für eine Position oder Rolle ausgewählt wurde"],
+    "examples_de": [["Die neue **Ernannte** wird ihre Aufgaben nächsten Montag aufnehmen", "Politisch **Ernannte** besetzten mehrere Schlüsselpositionen"]]
+  },
+  {
+    "lemma": "appraisal",
+    "meanings_de": ["Bewertung"],
+    "definitions_de": ["Formelle Einschätzung des Wertes, der Qualität oder der Leistung von etwas oder jemandem"],
+    "examples_de": [["Die **Immobilienbewertung** fiel höher aus als erwartet", "Jährliche **Leistungsbewertungen** helfen bei der Gehaltsbestimmung"]]
+  },
+  {
+    "lemma": "appraiser",
+    "meanings_de": ["Gutachter"],
+    "definitions_de": ["Fachperson, die den Wert oder die Qualität von Eigentum oder Gütern bestimmt"],
+    "examples_de": [["Der **Versicherungsgutachter** untersuchte den Schaden sorgfältig", "Wir beauftragten einen **Kunstgutachter** mit der Bewertung der Sammlung"]]
+  },
+  {
+    "lemma": "apprehension",
+    "meanings_de": ["ängstliche Besorgnis", "Festnahme"],
+    "definitions_de": ["Gefühl von Angst oder Sorge über etwas, das passieren könnte", "Handlung des Ergreifens oder Festnehmens einer Person, besonders durch die Polizei"],
+    "examples_de": [["Sie empfand **Besorgnis** beim Gedanken an ihren neuen Job", "Seine **Befürchtungen** wuchsen mit näher rückender Frist"], ["Die **Festnahme** des Verdächtigen verlief ohne Zwischenfälle", "Die Polizei gab gestern die **Ergreifung** des Flüchtigen bekannt"]]
+  },
+  {
+    "lemma": "apprentice",
+    "meanings_de": ["Auszubildender"],
+    "definitions_de": ["Person, die ein Handwerk oder eine Fertigkeit von einem erfahrenen Fachmann erlernt"],
+    "examples_de": [["Der **Lehrling** des Schreiners übte sich im Anfertigen von Schwalbenschwanzverbindungen", "Sie begann als **Auszubildende** in der Bäckerei"]]
+  },
+  {
+    "lemma": "apprenticeship",
+    "meanings_de": ["Ausbildungszeit"],
+    "definitions_de": ["Zeitraum, in dem man bei einem Arbeitgeber arbeitet, um ein Handwerk oder einen Beruf zu erlernen"],
+    "examples_de": [["Seine dreijährige **Lehre** bereitete ihn auf selbstständiges Arbeiten vor", "Das **Ausbildungsprogramm** verbindet theoretisches Lernen mit praktischer Erfahrung"]]
+  },
+  {
+    "lemma": "appropriation",
+    "meanings_de": ["Mittelzuweisung", "Aneignung"],
+    "definitions_de": ["Offizielle Genehmigung, Geld für bestimmte Zwecke auszugeben", "Handlung, etwas für den eigenen Gebrauch zu nehmen, oft ohne Erlaubnis"],
+    "examples_de": [["Der Bundestag genehmigte die **Haushaltsmittel** für Bildung", "Der Ausschuss überwacht die **Mittelzuweisungen** für Verteidigung"], ["Die **Aneignung** von Bildern durch den Künstler warf urheberrechtliche Fragen auf", "Kulturelle **Aneignung** bleibt ein umstrittenes Thema in der Mode"]]
+  },
+  {
+    "lemma": "approximation",
+    "meanings_de": ["Näherungswert"],
+    "definitions_de": ["Wert oder Betrag, der fast, aber nicht genau korrekt oder präzise ist"],
+    "examples_de": [["Die **Schätzung** war für Planungszwecke genau genug", "Wissenschaftler verwendeten **Näherungswerte**, um ihre Berechnungen zu vereinfachen"]]
+  },
+  {
+    "lemma": "apricot",
+    "meanings_de": ["Aprikose"],
+    "definitions_de": ["Kleine, weiche orangefarbene Frucht mit glatter Haut und einem großen Kern im Inneren"],
+    "examples_de": [["Frische **Aprikosen** sind im Frühsommer am süßesten", "Sie machte **Aprikosenmarmelade** aus Früchten aus ihrem Garten"]]
+  },
+  {
+    "lemma": "apron",
+    "meanings_de": ["Schürze"],
+    "definitions_de": ["Kleidungsstück, das über der Kleidung getragen wird, um diese beim Kochen oder Arbeiten zu schützen"],
+    "examples_de": [["Der Koch band seine **Schürze** um, bevor er mit dem Abendessen begann", "Sie trug eine farbverschmierte **Schürze** im Kunstatelier"]]
+  },
+  {
+    "lemma": "aptitude",
+    "meanings_de": ["natürliche Begabung"],
+    "definitions_de": ["Natürliches Talent oder Geschick, etwas gut zu lernen oder zu tun"],
+    "examples_de": [["Ihre **Begabung** für Mathematik zeigte sich schon früh", "Der Test misst die **Eignung** für mechanisches Denken"]]
+  },
+  {
+    "lemma": "aqua",
+    "meanings_de": ["Blaugrün"],
+    "definitions_de": ["Helle blaugrüne Farbe, die der Farbe von tropischem Meerwasser ähnelt"],
+    "examples_de": [["Die Schlafzimmerwände waren in beruhigenden **Aquatönen** gestrichen", "Sie wählte ein **aquafarbenes** Kleid für die Strandhochzeit"]]
+  },
+  {
+    "lemma": "aquamarine",
+    "meanings_de": ["Aquamarin-Edelstein", "Meeresfarbe"],
+    "definitions_de": ["Durchsichtiger blaugrüner Edelstein aus der Beryll-Familie", "Helle blaugrüne Farbe wie klares tropisches Meerwasser"],
+    "examples_de": [["Der **Aquamarinring** funkelte im Sonnenlicht", "Ihre Geburtssteinkette zeigte einen großen **Aquamarin**"], ["Der Künstler mischte **aquamarinfarbene** Farbe für die Meeresszene", "Die Poolfliesen hatten einen wunderschönen **Aquamarinton**"]]
+  },
+  {
+    "lemma": "aquarium",
+    "meanings_de": ["Fischbecken", "Meeresgebäude"],
+    "definitions_de": ["Glasbehälter mit Wasser zum Halten von Fischen und Wasserpflanzen", "Gebäude, in dem Wassertiere und -pflanzen zur öffentlichen Besichtigung gehalten werden"],
+    "examples_de": [["Die tropischen Fische schwammen anmutig im **Aquarium**", "Er reinigte das **Aquarium** und wechselte wöchentlich das Wasser"], ["Das städtische **Aquarium** zeigt Haie und Meeresschildkröten", "Schulkinder besuchten das **Aquarium** bei ihrem Ausflug"]]
+  },
+  {
+    "lemma": "aquatic",
+    "meanings_de": ["wasserbezogen"],
+    "definitions_de": ["Sich auf Wasser beziehend oder in Wasserumgebungen lebend"],
+    "examples_de": [["**Wasserpflanzen** helfen, das Gleichgewicht im Teichökosystem zu erhalten", "Das Resort bietet verschiedene **Wasseraktivitäten** für Gäste"]]
+  },
+  {
+    "lemma": "aqueduct",
+    "meanings_de": ["Wasserbrücke"],
+    "definitions_de": ["Brückenartige Struktur, die gebaut wurde, um Wasser über Täler oder große Entfernungen zu transportieren"],
+    "examples_de": [["Alte römische **Aquädukte** stehen noch heute in ganz Europa", "Das **Aquädukt** versorgte die wachsende Stadt mit frischem Wasser"]]
+  },
+  {
+    "lemma": "arbiter",
+    "meanings_de": ["Entscheidungsträger"],
+    "definitions_de": ["Person mit der Befugnis, endgültige Entscheidungen oder Urteile in Streitigkeiten zu treffen"],
+    "examples_de": [["Der Richter fungierte als **Schiedsrichter** in dem komplexen Fall", "Modemagazine positionieren sich als **Instanzen** des Stils"]]
+  },
+  {
+    "lemma": "arbitration",
+    "meanings_de": ["Schlichtungsverfahren"],
+    "definitions_de": ["Verfahren zur Beilegung von Meinungsverschiedenheiten, bei dem eine unparteiische dritte Partei verbindliche Entscheidungen trifft"],
+    "examples_de": [["Der Vertrag verlangte ein **Schiedsverfahren** anstelle von Gerichtsverfahren", "Arbeitsstreitigkeiten werden oft durch **Schlichtung** gelöst"]]
+  },
+  {
+    "lemma": "arbitrator",
+    "meanings_de": ["neutraler Richter"],
+    "definitions_de": ["Unparteiische Person, die zur Beilegung von Streitigkeiten ausgewählt wird und außergerichtlich verbindliche Entscheidungen trifft"],
+    "examples_de": [["Beide Parteien einigten sich darauf, die Entscheidung des **Schiedsrichters** zu akzeptieren", "Der **Schlichter** prüfte sorgfältig alle Beweise vor seiner Entscheidung"]]
+  },
+  {
+    "lemma": "arbor",
+    "meanings_de": ["Gartenlaube"],
+    "definitions_de": ["Schattiges Gartenbauwerk mit Pflanzen, die über einem Holz- oder Metallgerüst wachsen"],
+    "examples_de": [["Rosen rankten über den hölzernen **Laubenbogen** am Eingang", "Sie tauschten ihre Ehegelübde unter der blühenden **Laube** aus"]]
+  },
+  {
+    "lemma": "arc",
+    "meanings_de": ["gebogene Linie"],
+    "definitions_de": ["Gekrümmte Linie oder Form, die Teil eines Kreises oder einer Ellipse bildet"],
+    "examples_de": [["Der Regenbogen bildete einen perfekten **Bogen** über den Himmel", "Der Ball folgte einem hohen **Bogen**, bevor er landete"]]
+  },
+  {
+    "lemma": "arcade",
+    "meanings_de": ["überdachter Gang", "Spielhalle"],
+    "definitions_de": ["Überdachter Durchgang mit Geschäften oder Betrieben an den Seiten", "Ort mit münzbetriebenen Spielen und Unterhaltungsautomaten"],
+    "examples_de": [["Käufer schlenderten durch die historische **Passage** in der Innenstadt", "Die **Hotelarkaden** führten zu mehreren Restaurants"], ["Teenager verbrachten Stunden in der **Spielhalle**", "Die **Vergnügungshalle** am Strand hatte klassische Flipperautomaten"]]
+  },
+  {
+    "lemma": "arch",
+    "meanings_de": ["Bogenkonstruktion"],
+    "definitions_de": ["Gewölbte Struktur, die eine Öffnung überspannt und das Gewicht darüber trägt"],
+    "examples_de": [["Der steinerne **Bogen** steht seit Jahrhunderten", "Sie gingen durch den **Torbogen** in den Park"]]
+  },
+  {
+    "lemma": "archaeologist",
+    "meanings_de": ["Altertumsforscher"],
+    "definitions_de": ["Wissenschaftler, der die menschliche Geschichte durch Ausgrabung und Analyse von Artefakten und Überresten erforscht"],
+    "examples_de": [["Der **Archäologe** bürstete vorsichtig Erde von alten Töpferwaren", "**Archäologen** entdeckten Beweise für frühe menschliche Siedlungen"]]
+  },
+  {
+    "lemma": "archaeology",
+    "meanings_de": ["Altertumskunde"],
+    "definitions_de": ["Wissenschaftliche Erforschung der menschlichen Geschichte durch Ausgrabung von Stätten und Analyse physischer Überreste"],
+    "examples_de": [["Die **Archäologie** zeigt, wie alte Zivilisationen lebten", "Sie studierte **Archäologie**, um vergangene Kulturen besser zu verstehen"]]
+  },
+  {
+    "lemma": "archbishop",
+    "meanings_de": ["Erzbischof"],
+    "definitions_de": ["Hochrangiger christlicher Bischof, der andere Bischöfe in einem großen Bezirk beaufsichtigt"],
+    "examples_de": [["Der **Erzbischof** leitete die Kathedralenzeremonie", "Mehrere Bischöfe unterstanden dem regionalen **Erzbischof**"]]
+  },
+  {
+    "lemma": "archer",
+    "meanings_de": ["Bogenschütze"],
+    "definitions_de": ["Person, die mit einem Bogen Pfeile zum Sport oder zur Jagd schießt"],
+    "examples_de": [["Der **Bogenschütze** zielte sorgfältig auf das entfernte Ziel", "Mittelalterliche **Bogenschützen** spielten entscheidende Rollen in Schlachten"]]
+  },
+  {
+    "lemma": "archery",
+    "meanings_de": ["Bogenschießen"],
+    "definitions_de": ["Sport oder Fertigkeit, mit einem Bogen Pfeile auf Ziele zu schießen"],
+    "examples_de": [["Sie übte **Bogenschießen** auf dem Außenplatz", "Olympisches **Bogenschießen** erfordert unglaubliche Präzision und Konzentration"]]
+  },
+  {
+    "lemma": "archetype",
+    "meanings_de": ["Urbild"],
+    "definitions_de": ["Perfektes Beispiel oder ursprüngliches Modell, nach dem Kopien angefertigt oder beurteilt werden"],
+    "examples_de": [["Die Figur repräsentiert den **Archetyp** des weisen Mentors", "Jung studierte **Urbilder** in Mythen und der menschlichen Psychologie"]]
+  },
+  {
+    "lemma": "archipelago",
+    "meanings_de": ["Inselgruppe"],
+    "definitions_de": ["Gruppe oder Kette von Inseln, die in einem Meer oder Ozean zusammenliegen"],
+    "examples_de": [["Das indonesische **Archipel** umfasst Tausende von Inseln", "Sie segelten zwei Wochen durch die **Inselgruppe**"]]
+  },
+  {
+    "lemma": "archivist",
+    "meanings_de": ["Archivar"],
+    "definitions_de": ["Fachperson, die historische Dokumente und Aufzeichnungen in Archiven pflegt und organisiert"],
+    "examples_de": [["Der **Archivar** katalogisierte jahrhundertealte Manuskripte", "Museums**archivare** bewahren wichtige kulturelle Dokumente"]]
+  },
+  {
+    "lemma": "archway",
+    "meanings_de": ["Bogendurchgang"],
+    "definitions_de": ["Durchgang oder Eingang, der durch einen Bogen in einer Wand oder zwischen Gebäuden gebildet wird"],
+    "examples_de": [["Gäste betraten das Anwesen durch den steinernen **Torbogen**", "Der **Bogendurchgang** führte zu einem versteckten Gartenhof"]]
+  },
+  {
+    "lemma": "arctic",
+    "meanings_de": ["Polargebiet"],
+    "definitions_de": ["Extrem kalte Region um den Nordpol, einschließlich eisbedecktem Ozean und Land"],
+    "examples_de": [["Die **arktischen** Temperaturen fielen auf gefährliche Werte", "Eisbären sind in der **Arktis** heimisch"]]
+  },
+  {
+    "lemma": "ardor",
+    "meanings_de": ["leidenschaftliche Begeisterung"],
+    "definitions_de": ["Intensive Begeisterung oder Leidenschaft für etwas oder jemanden"],
+    "examples_de": [["Sie verfolgte ihre Forschung mit großem **Eifer**", "Sein **Enthusiasmus** für soziale Gerechtigkeit inspirierte viele Anhänger"]]
+  },
+  {
+    "lemma": "argumentation",
+    "meanings_de": ["Beweisführung"],
+    "definitions_de": ["Systematischer Prozess der Darlegung von Gründen und Beweisen zur Unterstützung oder Widerlegung von Ideen"],
+    "examples_de": [["Eine starke **Argumentation** erfordert Logik und stützende Beweise", "Der Aufsatz zeigte ausgezeichnete **Argumentationsfähigkeiten**"]]
+  },
+  {
+    "lemma": "aridity",
+    "meanings_de": ["extreme Trockenheit"],
+    "definitions_de": ["Zustand extremer Trockenheit mit wenig oder keinem Niederschlag"],
+    "examples_de": [["Die **Dürre** der Wüste macht Landwirtschaft nahezu unmöglich", "Der Klimawandel hat die **Trockenheit** in vielen Regionen erhöht"]]
+  },
+  {
+    "lemma": "aristocracy",
+    "meanings_de": ["Adelsstand"],
+    "definitions_de": ["Höchste Gesellschaftsschicht, die traditionell erbliche Titel und Privilegien besitzt"],
+    "examples_de": [["Der **Adel** besaß historisch den größten Teil des Landes", "Mitglieder der **Aristokratie** nahmen an der königlichen Hochzeit teil"]]
+  },
+  {
+    "lemma": "aristocrat",
+    "meanings_de": ["Adeliger"],
+    "definitions_de": ["Mitglied der Aristokratie oder des Adels mit ererbtem hohen gesellschaftlichen Rang"],
+    "examples_de": [["Der **Aristokrat** lebte in einem Ahnenschloss", "Viele **Adelige** verloren nach der Revolution ihr Vermögen"]]
+  },
+  {
+    "lemma": "arithmetic",
+    "meanings_de": ["Grundrechenarten"],
+    "definitions_de": ["Zweig der Mathematik, der sich mit Zahlen und grundlegenden Operationen wie Addition und Subtraktion befasst"],
+    "examples_de": [["Kinder lernen **Arithmetik** in der Grundschule", "Einfache **Rechenaufgaben** zeigten, dass das Budget nicht aufging"]]
+  },
+  {
+    "lemma": "ark",
+    "meanings_de": ["großes Schiff", "heiliger Behälter"],
+    "definitions_de": ["Großes Boot oder Schiff, besonders Noahs Gefährt in biblischen Geschichten", "Heilige Truhe oder Behälter für religiöse Gegenstände"],
+    "examples_de": [["Noah baute eine **Arche**, um Tiere vor der Flut zu retten", "Die riesige **Arche** konnte von jeder Art zwei aufnehmen"], ["Die **Bundeslade** enthielt heilige Schriftrollen und religiöse Artefakte", "Sie trugen die **Lade** bei religiösen Prozessionen"]]
+  },
+  {
+    "lemma": "armada",
+    "meanings_de": ["Kriegsflotte"],
+    "definitions_de": ["Große Flotte von Kriegsschiffen, die für militärische Zwecke organisiert ist"],
+    "examples_de": [["Die spanische **Armada** segelte zur Invasion Englands", "Eine **Flotte** von Schiffen erschien am Horizont"]]
+  },
+  {
+    "lemma": "armadillo",
+    "meanings_de": ["Gürteltier"],
+    "definitions_de": ["Kleines Säugetier mit harter Schutzschale, die seinen Rücken und seine Seiten bedeckt"],
+    "examples_de": [["Das **Gürteltier** rollte sich zum Schutz zu einer Kugel zusammen", "**Gürteltiere** graben mit ihren starken Krallen Höhlen"]]
+  },
+  {
+    "lemma": "armament",
+    "meanings_de": ["Bewaffnung"],
+    "definitions_de": ["Militärische Waffen und Ausrüstung, die von Streitkräften zur Verteidigung oder Kriegsführung verwendet werden"],
+    "examples_de": [["Die Nation erhöhte ihre **Rüstungsausgaben** erheblich", "Schwere **Bewaffnung** wurde entlang der Grenze positioniert"]]
+  }
+]

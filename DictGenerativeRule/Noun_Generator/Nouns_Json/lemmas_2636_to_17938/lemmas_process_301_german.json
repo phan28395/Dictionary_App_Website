@@ -1,0 +1,266 @@
+[
+  {
+    "lemma": "armband",
+    "meanings_de": ["dekoratives Armband"],
+    "definitions_de": ["Band aus Stoff oder anderem Material, das am Oberarm getragen wird, meist zur Kennzeichnung oder als Schmuck"],
+    "examples_de": [["Die Sicherheitskräfte trugen leuchtend gelbe **Armbinden** zur Identifizierung", "Sie entwarf eine wunderschöne Perlen**armbinde** für die Zeremonie"]]
+  },
+  {
+    "lemma": "armchair",
+    "meanings_de": ["Stuhl mit Armlehnen"],
+    "definitions_de": ["bequemer Stuhl mit seitlichen Stützen für beide Arme, der besonders zum entspannten Sitzen geeignet ist"],
+    "examples_de": [["Er ließ sich in seinen Lieblings**sessel** fallen, um die Zeitung zu lesen", "Der Leder**sessel** passte perfekt zur Wohnzimmereinrichtung"]]
+  },
+  {
+    "lemma": "armistice",
+    "meanings_de": ["Waffenstillstandsabkommen"],
+    "definitions_de": ["formelle Vereinbarung zwischen kriegführenden Parteien zur vorübergehenden oder dauerhaften Einstellung der Kampfhandlungen"],
+    "examples_de": [["Der **Waffenstillstand** wurde am 11. November unterzeichnet und beendete den Ersten Weltkrieg", "Beide Nationen einigten sich auf einen **Waffenstillstand**, während die Friedensverhandlungen fortgesetzt wurden"]]
+  },
+  {
+    "lemma": "armor",
+    "meanings_de": ["schützende Körperbedeckung", "militärische Fahrzeugpanzerung"],
+    "definitions_de": ["Metall oder festes Material, das zum Schutz des Körpers im Kampf getragen wird", "schützende Metallverkleidung an Militärfahrzeugen oder Bauwerken"],
+    "examples_de": [["Mittelalterliche Ritter trugen schwere **Rüstungen** in der Schlacht zum Schutz", "Das Museum stellte eine vollständige **Ritterrüstung** aus dem fünfzehnten Jahrhundert aus"], ["Die **Panzerung** des Panzers konnte den meisten konventionellen Waffen widerstehen", "Sie verstärkten das Fahrzeug mit zusätzlichen **Panzerplatten**"]]
+  },
+  {
+    "lemma": "armory",
+    "meanings_de": ["Waffenlager", "militärisches Ausbildungsgebäude"],
+    "definitions_de": ["Gebäude, in dem Waffen und militärische Ausrüstung gelagert und gewartet werden", "Einrichtung, die von Militäreinheiten für Ausbildung und Verwaltungszwecke genutzt wird"],
+    "examples_de": [["Das alte **Zeughaus** wurde in ein Gemeindezentrum umgewandelt", "Wachen patrouillieren rund um die Uhr vor dem **Waffenarsenal**"], ["Die Nationalgarde trifft sich jeden Dienstagabend in der **Kaserne**", "Das **Zeughaus** beherbergt das ganze Jahr über militärische Übungen"]]
+  },
+  {
+    "lemma": "armpit",
+    "meanings_de": ["Unterarmbereich"],
+    "definitions_de": ["Vertiefung unter dem Arm, wo dieser mit dem Körper verbunden ist"],
+    "examples_de": [["Er trug nach dem Duschen Deodorant auf seine **Achselhöhlen** auf", "Die Ärztin untersuchte die Lymphknoten in ihrer **Achsel**"]]
+  },
+  {
+    "lemma": "aroma",
+    "meanings_de": ["angenehmer Duft"],
+    "definitions_de": ["charakteristischer und meist angenehmer Geruch von Speisen, Blumen oder anderen Substanzen"],
+    "examples_de": [["Das **Aroma** von frischem Kaffee erfüllte die ganze Küche", "Sie liebte das **Aroma** der Rosen in ihrem Garten"]]
+  },
+  {
+    "lemma": "arousal",
+    "meanings_de": ["Wachheitszustand", "sexuelle Erregung"],
+    "definitions_de": ["Zustand des Wachseins, der Aufmerksamkeit oder der körperlichen oder geistigen Stimulation", "Zustand sexueller Erregung oder körperlicher Bereitschaft für sexuelle Aktivität"],
+    "examples_de": [["Das laute Geräusch verursachte sofortige **Erregung** aus dem Tiefschlaf", "Koffein erhöht bei den meisten Menschen die **Wachheit** und geistige Aufmerksamkeit"], ["Körperliche **Erregung** kann durch verschiedene Formen der Stimulation entstehen", "Die Studie untersuchte **Erregungsmuster** in verschiedenen Situationen"]]
+  },
+  {
+    "lemma": "arranger",
+    "meanings_de": ["Musikbearbeiter", "Veranstaltungsorganisator"],
+    "definitions_de": ["Person, die musikalische Kompositionen für verschiedene Instrumente oder Stimmen bearbeitet", "Person, die Veranstaltungen, Aktivitäten oder Arrangements organisiert oder plant"],
+    "examples_de": [["Der **Arrangeur** schuf eine wunderschöne Orchesterversion des Liedes", "Sie arbeitete als **Arrangeurin** für mehrere berühmte Jazzmusiker"], ["Der Hochzeits**organisator** koordinierte alle Aspekte der Zeremonie", "Als Chef**organisator** plante er den gesamten Konferenzablauf"]]
+  },
+  {
+    "lemma": "arrogance",
+    "meanings_de": ["übermäßige Selbstüberschätzung"],
+    "definitions_de": ["Eigenschaft, unangenehm stolz zu sein und sich zu verhalten, als sei man wichtiger als andere"],
+    "examples_de": [["Seine **Arroganz** machte die Zusammenarbeit mit ihm schwierig", "Die **Überheblichkeit** des Teams führte zu ihrer unerwarteten Niederlage"]]
+  },
+  {
+    "lemma": "arrowhead",
+    "meanings_de": ["Pfeilspitze"],
+    "definitions_de": ["spitzes Ende eines Pfeils aus Stein, Metall oder anderem harten Material"],
+    "examples_de": [["Der Archäologe entdeckte mehrere antike **Pfeilspitzen** an der Fundstelle", "Er sammelte indianische **Pfeilspitzen** als Hobby"]]
+  },
+  {
+    "lemma": "arsenal",
+    "meanings_de": ["Waffensammlung", "Ressourcensammlung"],
+    "definitions_de": ["Sammlung von Waffen und militärischer Ausrüstung, die zur Verwendung gelagert wird", "Sammlung von Ressourcen, Fähigkeiten oder Werkzeugen, die für einen Zweck verfügbar sind"],
+    "examples_de": [["Das militärische **Arsenal** enthielt tausende Gewehre und Munition", "Inspektoren überprüften die Vernichtung des Chemiewaffen**arsenals**"], ["Sie verfügte über ein beeindruckendes **Arsenal** an Kochtechniken", "Das Unternehmen baute ein **Arsenal** von Patenten auf, um ihre Innovationen zu schützen"]]
+  },
+  {
+    "lemma": "arsenic",
+    "meanings_de": ["giftiges chemisches Element"],
+    "definitions_de": ["hochgiftiges metallisches Element, das in Pestiziden und verschiedenen industriellen Prozessen verwendet wird"],
+    "examples_de": [["**Arsen** wurde früher häufig in Rattengift verwendet", "Die Wasserversorgung wurde auf gefährliche **Arsen**werte getestet"]]
+  },
+  {
+    "lemma": "arson",
+    "meanings_de": ["vorsätzliche Brandstiftung"],
+    "definitions_de": ["kriminelle Handlung des vorsätzlichen Anzündens von Eigentum oder Gebäuden"],
+    "examples_de": [["Der Detektiv vermutete **Brandstiftung**, als Brandbeschleuniger gefunden wurden", "Er wurde wegen **Brandstiftung** verurteilt und zu zehn Jahren verurteilt"]]
+  },
+  {
+    "lemma": "arsonist",
+    "meanings_de": ["Brandstifter"],
+    "definitions_de": ["Person, die das Verbrechen begeht, vorsätzlich Feuer an Eigentum zu legen"],
+    "examples_de": [["Der **Brandstifter** wurde gefasst, nachdem er mehrere Feuer gelegt hatte", "Die Polizei suchte nach dem **Brandstifter**, der verlassene Gebäude ins Visier nahm"]]
+  },
+  {
+    "lemma": "artery",
+    "meanings_de": ["Blutgefäß", "Hauptverkehrsweg"],
+    "definitions_de": ["Blutgefäß, das Blut vom Herzen zu den Körpergeweben transportiert", "Hauptroute oder Kanal für Verkehr, Versorgung oder Kommunikation"],
+    "examples_de": [["Der Chirurg reparierte die beschädigte **Arterie** während der Operation", "Eine verstopfte **Schlagader** kann ernsthafte Gesundheitsprobleme verursachen"], ["Die Autobahn ist eine wichtige **Verkehrsader**, die die beiden Städte verbindet", "Diese Straße dient als Haupt**verkehrsader** für die Innenstadt"]]
+  },
+  {
+    "lemma": "artichoke",
+    "meanings_de": ["essbares Blütengemüse"],
+    "definitions_de": ["Pflanze mit großem Blütenkopf, der gekocht als Gemüse gegessen wird"],
+    "examples_de": [["Sie bereitete gefüllte **Artischocken** für die Dinnerparty zu", "Das Restaurant servierte gegrillte **Artischockenherzen** mit Zitrone"]]
+  },
+  {
+    "lemma": "articulation",
+    "meanings_de": ["klare Aussprache", "Gelenkverbindung"],
+    "definitions_de": ["klare und präzise Aussprache von Wörtern oder Ausdruck von Ideen", "Stelle, an der zwei Knochen im Körper verbunden sind und Bewegung ermöglichen"],
+    "examples_de": [["Ihre **Artikulation** war so klar, dass jeder sie perfekt verstand", "Der Lehrer lobte seine **Aussprache** während der Rede"], ["Der Arzt untersuchte die **Gelenkverbindung** zwischen den Hüftknochen", "Die richtige **Artikulation** der Gelenke ist für die Bewegung unerlässlich"]]
+  },
+  {
+    "lemma": "artifact",
+    "meanings_de": ["historisches Objekt", "unbeabsichtigtes Ergebnis"],
+    "definitions_de": ["von Menschen hergestelltes Objekt, besonders eines von historischem oder kulturellem Interesse", "etwas Beobachtetes, das nicht natürlich vorhanden ist, sondern durch einen Prozess entsteht"],
+    "examples_de": [["Das Museum stellte **Artefakte** aus alten Zivilisationen aus", "Jedes **Artefakt** wurde sorgfältig katalogisiert und konserviert"], ["Die seltsame Messung war nur ein **Artefakt** der Messmethode", "Digitale **Artefakte** erschienen in der komprimierten Bilddatei"]]
+  },
+  {
+    "lemma": "artifice",
+    "meanings_de": ["geschickte Täuschung"],
+    "definitions_de": ["kluge oder listige Mittel oder Kunstgriffe, die verwendet werden, um andere zu täuschen"],
+    "examples_de": [["Die **List** des Zauberers täuschte sogar das skeptische Publikum", "Sie durchschaute seinen **Kunstgriff** und weigerte sich, sich manipulieren zu lassen"]]
+  },
+  {
+    "lemma": "artillery",
+    "meanings_de": ["schwere Militärwaffen"],
+    "definitions_de": ["große Geschütze, die in der Kriegsführung an Land eingesetzt werden, einschließlich Kanonen und Raketenwerfer"],
+    "examples_de": [["Das **Artillerie**bombardement dauerte drei Stunden", "Moderne **Artillerie** kann Ziele in vielen Kilometern Entfernung treffen"]]
+  },
+  {
+    "lemma": "artisan",
+    "meanings_de": ["qualifizierter Handwerker"],
+    "definitions_de": ["Arbeiter, der in der Herstellung von Dingen von Hand mit traditionellen Methoden geschickt ist"],
+    "examples_de": [["Der **Handwerker** fertigte wunderschöne Töpferwaren mit alten Techniken", "Lokale **Kunsthandwerker** verkaufen ihre handgefertigten Waren auf dem Markt"]]
+  },
+  {
+    "lemma": "artistry",
+    "meanings_de": ["künstlerisches Geschick"],
+    "definitions_de": ["kreatives Geschick oder Fähigkeit in Kunst, Musik, Schreiben oder anderen kreativen Bestrebungen"],
+    "examples_de": [["Die **Kunstfertigkeit** des Kochs zeigte sich in jedem wunderschön angerichteten Gericht", "Ihre **Meisterschaft** mit Aquarellfarben erlangte internationale Anerkennung"]]
+  },
+  {
+    "lemma": "artwork",
+    "meanings_de": ["kreatives visuelles Werk"],
+    "definitions_de": ["Gemälde, Zeichnungen, Skulpturen oder andere visuelle Kunst, die von einem Künstler geschaffen wurde"],
+    "examples_de": [["Die Galerie präsentierte **Kunstwerke** aufstrebender lokaler Künstler", "Sie verpackte ihre **Kunstwerke** sorgfältig für die Ausstellung"]]
+  },
+  {
+    "lemma": "ascendancy",
+    "meanings_de": ["dominante Position"],
+    "definitions_de": ["Position dominanter Macht oder Einfluss über andere in einer Situation"],
+    "examples_de": [["Das Unternehmen erlangte die **Vorherrschaft** auf dem Technologiemarkt", "Ihre militärische **Überlegenheit** dauerte mehrere Jahrzehnte"]]
+  },
+  {
+    "lemma": "ascendant",
+    "meanings_de": ["aufsteigende Einflussnahme"],
+    "definitions_de": ["Person oder Sache, die an Macht, Einfluss oder Bedeutung zunimmt"],
+    "examples_de": [["Der junge Politiker war eindeutig im **Aufstieg** begriffen", "Technologieunternehmen befinden sich in der heutigen Wirtschaft im **Aufschwung**"]]
+  },
+  {
+    "lemma": "ascension",
+    "meanings_de": ["Aufwärtsbewegung", "Positionserlangung"],
+    "definitions_de": ["Akt des Aufsteigens oder der Aufwärtsbewegung durch Luft oder Raum", "Akt des Aufstiegs zu einer wichtigen Position oder höheren Ebene"],
+    "examples_de": [["Der **Aufstieg** des Ballons war langsam aber stetig", "Wir beobachteten den **Aufstieg** der Rakete in den Nachthimmel"], ["Ihr **Aufstieg** zur Geschäftsführerin überraschte viele Branchenbeobachter", "Die **Thronbesteigung** des Prinzen wurde landesweit gefeiert"]]
+  },
+  {
+    "lemma": "ascent",
+    "meanings_de": ["Aufstieg"],
+    "definitions_de": ["Akt des Kletterns oder der Aufwärtsbewegung, besonders einen Berg oder Hang hinauf"],
+    "examples_de": [["Der **Aufstieg** zum Gipfel dauerte sechs Stunden", "Sie begannen ihren **Aufstieg** im Morgengrauen, um Nachmittagsstürme zu vermeiden"]]
+  },
+  {
+    "lemma": "ascetic",
+    "meanings_de": ["selbstentsagende Person"],
+    "definitions_de": ["Person, die strenge Selbstdisziplin praktiziert und auf weltliche Vergnügungen verzichtet"],
+    "examples_de": [["Der **Asket** lebte allein in den Bergen mit wenigen Besitztümern", "Viele **Asketen** glauben, dass materielle Güter vom spirituellen Wachstum ablenken"]]
+  },
+  {
+    "lemma": "ashtray",
+    "meanings_de": ["Zigarettenaschenbehälter"],
+    "definitions_de": ["kleine Schale oder Behälter zum Aufbewahren von Zigarettenasche und ausgedrückten Zigaretten"],
+    "examples_de": [["Das Restaurant entfernte alle **Aschenbecher**, als das Rauchen verboten wurde", "Er leerte den **Aschenbecher** und reinigte ihn gründlich"]]
+  },
+  {
+    "lemma": "aspen",
+    "meanings_de": ["Zitterpappel"],
+    "definitions_de": ["Baum mit rundlichen Blättern, die bei der leisesten Brise flattern"],
+    "examples_de": [["Die **Espen** leuchteten im Herbst in strahlendem Gold", "Wir wanderten durch einen Hain zitternder **Pappeln**"]]
+  },
+  {
+    "lemma": "asphalt",
+    "meanings_de": ["Straßenbelagsmaterial"],
+    "definitions_de": ["schwarze klebrige Substanz gemischt mit Kies, die zum Pflastern von Straßen und Oberflächen verwendet wird"],
+    "examples_de": [["Letzte Woche wurde frischer **Asphalt** auf der Autobahn aufgetragen", "Der heiße **Asphalt** dampfte im Sommerregen"]]
+  },
+  {
+    "lemma": "aspirant",
+    "meanings_de": ["ehrgeiziger Anwärter"],
+    "definitions_de": ["Person, die Ambitionen hat, eine Position, Auszeichnung oder einen Status zu erreichen"],
+    "examples_de": [["Mehrere **Anwärter** konkurrierten um das Stipendium", "Der politische **Kandidat** warb monatelang energisch um Stimmen"]]
+  },
+  {
+    "lemma": "aspiration",
+    "meanings_de": ["starker Ehrgeiz", "Einatmung"],
+    "definitions_de": ["starker Wunsch oder Ehrgeiz, etwas Wichtiges im Leben zu erreichen", "medizinisches Verfahren zum Absaugen von Flüssigkeit oder Luft"],
+    "examples_de": [["Ihr **Bestreben**, Ärztin zu werden, motivierte sie zu jahrelangem Studium", "Das Unternehmen unterstützt die Karriere**ambitionen** der Mitarbeiter"], ["Der Arzt führte eine **Aspiration** durch, um Flüssigkeit zu entfernen", "Die **Aspiration** von Nahrungspartikeln kann eine Lungenentzündung verursachen"]]
+  },
+  {
+    "lemma": "aspirin",
+    "meanings_de": ["Schmerzmittel"],
+    "definitions_de": ["gängiges Medikament zur Linderung von Schmerzen, Fieber und Entzündungen"],
+    "examples_de": [["Sie nahm zwei **Aspirin** gegen ihre Kopfschmerzen", "Ärzte empfehlen oft **Aspirin** zur Vorbeugung von Herzinfarkten"]]
+  },
+  {
+    "lemma": "assailant",
+    "meanings_de": ["gewalttätiger Angreifer"],
+    "definitions_de": ["Person, die eine andere Person körperlich und gewaltsam angreift oder überfällt"],
+    "examples_de": [["Das Opfer konnte ihren **Angreifer** im Dunkeln nicht identifizieren", "Die Polizei verhaftete den **Täter** am Tatort"]]
+  },
+  {
+    "lemma": "assassin",
+    "meanings_de": ["politischer Mörder"],
+    "definitions_de": ["Person, die eine wichtige Person aus politischen oder religiösen Gründen ermordet"],
+    "examples_de": [["Der **Attentäter** wurde gefasst, bevor er das Ziel erreichte", "Historische **Meuchelmörder** arbeiteten oft für politische Fraktionen"]]
+  },
+  {
+    "lemma": "assassination",
+    "meanings_de": ["politischer Mord"],
+    "definitions_de": ["Ermordung einer wichtigen Person, insbesondere aus politischen oder religiösen Gründen"],
+    "examples_de": [["Das **Attentat** schockierte die ganze Nation", "Die Sicherheit wurde nach dem versuchten **Mordanschlag** erhöht"]]
+  },
+  {
+    "lemma": "assay",
+    "meanings_de": ["Substanzanalyse"],
+    "definitions_de": ["Prüfung von Metall oder Erz zur Bestimmung seiner Bestandteile und Qualität"],
+    "examples_de": [["Die **Analyse** ergab einen hohen Goldgehalt im Erz", "Sie schickten Proben zur vollständigen **Untersuchung** ins Labor"]]
+  },
+  {
+    "lemma": "assemblage",
+    "meanings_de": ["gesammelte Ansammlung"],
+    "definitions_de": ["Sammlung oder Ansammlung von Dingen oder Menschen, die zusammengebracht wurden"],
+    "examples_de": [["Das Museum zeigte eine **Sammlung** antiker Werkzeuge", "Eine **Ansammlung** von Demonstranten versammelte sich auf dem Platz"]]
+  },
+  {
+    "lemma": "assembler",
+    "meanings_de": ["Fabrikarbeiter", "Programmierumwandler"],
+    "definitions_de": ["Person, die in der Fertigung oder Produktion Teile zusammenbaut", "Computerprogramm, das Assemblersprache in Maschinencode umwandelt"],
+    "examples_de": [["Der **Monteur** arbeitete am Fließband und installierte Autotüren", "Geschickte **Monteure** können hunderte Einheiten pro Tag fertigstellen"], ["Der **Assembler** übersetzte den Code in ausführbare Anweisungen", "Programmierer verwendeten einen **Assembler**, um die Software zu optimieren"]]
+  },
+  {
+    "lemma": "assemblyman",
+    "meanings_de": ["männliches Parlamentsmitglied"],
+    "definitions_de": ["Mann, der gewähltes Mitglied einer gesetzgebenden Versammlung ist"],
+    "examples_de": [["Der **Abgeordnete** schlug neue Gesetze zur Bildungsfinanzierung vor", "Mehrere **Abgeordnete** stimmten gegen die vorgeschlagene Steuererhöhung"]]
+  },
+  {
+    "lemma": "assemblywoman",
+    "meanings_de": ["weibliches Parlamentsmitglied"],
+    "definitions_de": ["Frau, die gewähltes Mitglied einer gesetzgebenden Versammlung ist"],
+    "examples_de": [["Die **Abgeordnete** setzte sich in ihrem Wahlkreis für eine Gesundheitsreform ein", "Sie wurde die erste **Abgeordnete** aus ihrem Landkreis"]]
+  },
+  {
+    "lemma": "assent",
+    "meanings_de": ["Zustimmungsausdruck"],
+    "definitions_de": ["Ausdruck der Billigung oder Zustimmung, insbesondere zu einem Vorschlag oder einer Anfrage"],
+    "examples_de": [["Der Vorstand gab seine **Zustimmung** zum Fusionsvorschlag", "Sie nickte ihre **Einwilligung**, als sie nach dem Plan gefragt wurde"]]
+  }
+]

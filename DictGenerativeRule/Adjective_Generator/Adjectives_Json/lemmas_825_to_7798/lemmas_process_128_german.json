@@ -1,0 +1,296 @@
+[
+  {
+    "lemma": "moroccan",
+    "meanings_de": ["aus/über Marokko"],
+    "definitions_de": ["sich auf Marokko beziehend, dessen Bevölkerung, Kultur oder die dort vorkommenden arabischen und berberischen Traditionen betreffend"],
+    "examples_de": [["Das Restaurant serviert authentische **marokkanische** Tajine-Gerichte", "Sie kaufte einen wunderschönen **marokkanischen** Teppich auf dem Basar"]]
+  },
+  {
+    "lemma": "mosaic",
+    "meanings_de": ["aus kleinen Teilen", "vielfältig gemischt"],
+    "definitions_de": ["aus kleinen Stücken aus farbigem Stein, Glas oder Kacheln zusammengesetzt, die in Mustern angeordnet sind", "aus verschiedenen Elementen bestehend, die zusammen ein einheitliches Ganzes bilden, wobei die Vielfalt erhalten bleibt"],
+    "examples_de": [["Der antike römische **Mosaikboden** zeigt mythologische Szenen", "Wir bewunderten die kunstvollen **Mosaikfliesen** in der Kathedrale"], ["Die Stadt hat eine **mosaikartige** Kultur aus vielen Ethnien", "Ihr Roman präsentiert eine **mosaikhafte** Erzählung aus miteinander verbundenen Geschichten"]]
+  },
+  {
+    "lemma": "moslem",
+    "meanings_de": ["muslimischen Glaubens"],
+    "definitions_de": ["sich auf den Islam oder seine Anhänger beziehend, die an die Lehren Mohammeds glauben"],
+    "examples_de": [["Die **moslemische** Gemeinde versammelte sich zum Freitagsgebet", "Sie studierte **moslemische** Architektur während ihrer Reisen"]]
+  },
+  {
+    "lemma": "namibian",
+    "meanings_de": ["aus/über Namibia"],
+    "definitions_de": ["sich auf Namibia beziehend, dessen Bevölkerung oder die vielfältigen Kulturen dieses südwestafrikanischen Staates betreffend"],
+    "examples_de": [["Die **namibische** Wüste gehört zu den ältesten der Erde", "Wir trafen mehrere **namibische** Künstler auf dem Kulturfestival"]]
+  },
+  {
+    "lemma": "napoleonic",
+    "meanings_de": ["aus Napoleons Ära", "autoritär und ehrgeizig"],
+    "definitions_de": ["sich auf Napoleon Bonaparte, sein Kaiserreich oder die von ihm dominierte Epoche der europäischen Geschichte beziehend", "gekennzeichnet durch grandiose Ambitionen, autoritäre Kontrolle und militärische Eroberungen nach Art von Napoleons Herrschaft"],
+    "examples_de": [["Das Museum zeigt Artefakte aus den **napoleonischen** Kriegen", "Frankreich durchlief während der **napoleonischen** Zeit umfassende Rechtsreformen"], ["Seine **napoleonischen** Ambitionen führten zu aggressiver Firmenexpansion", "Der **napoleonische** Führungsstil des Geschäftsführers verprellte viele Mitarbeiter"]]
+  },
+  {
+    "lemma": "nazi",
+    "meanings_de": ["des deutschen Faschismus", "extrem autoritär"],
+    "definitions_de": ["sich auf die Nationalsozialistische Deutsche Arbeiterpartei unter Adolf Hitler von 1933 bis 1945 beziehend", "gekennzeichnet durch extremen Autoritarismus, Rassismus und Intoleranz, die an Nazi-Ideologie erinnern"],
+    "examples_de": [["Das Museum dokumentiert **Nazi**-Gräueltaten während des Zweiten Weltkriegs", "Viele flohen aus Deutschland, um der **Nazi**-Verfolgung zu entgehen"], ["Seine **nazihaften** Kontrollmethoden schufen ein toxisches Arbeitsumfeld", "Die **naziartigen** Einschüchterungstaktiken der Gruppe wurden weithin verurteilt"]]
+  },
+  {
+    "lemma": "neanderthal",
+    "meanings_de": ["frühmenschlich", "primitiv und rückständig"],
+    "definitions_de": ["sich auf die ausgestorbene Menschenart beziehend, die bis vor etwa 40.000 Jahren in Europa und Asien lebte", "grobe, primitive oder veraltete Einstellungen und Verhaltensweisen zeigend, besonders in Bezug auf soziale Themen"],
+    "examples_de": [["Wissenschaftler entdeckten neue **Neandertaler**-Fossilien in der Höhle", "Das **Neandertaler**-Genom zeigt Kreuzungen mit modernen Menschen"], ["Seine **neandertalhaften** Ansichten zur Gleichberechtigung schockierten alle", "Ihr **neandertalhafter** Umgang mit Technologie hielt die Firma zurück"]]
+  },
+  {
+    "lemma": "nepalese",
+    "meanings_de": ["aus/über Nepal"],
+    "definitions_de": ["sich auf Nepal beziehend, dessen Bevölkerung oder die hinduistischen und buddhistischen Kulturen dieses Himalaya-Staates"],
+    "examples_de": [["Der **nepalesische** Tempel zeigt kunstvolle Holzschnitzereien", "Wir engagierten einen **nepalesischen** Führer für unsere Bergtour"]]
+  },
+  {
+    "lemma": "nepali",
+    "meanings_de": ["aus/über Nepal"],
+    "definitions_de": ["sich auf Nepal beziehend, dessen Bevölkerung, Sprache oder die vielfältigen ethnischen Gruppen dieses Gebirgslandes"],
+    "examples_de": [["Sie lernt **Nepali**, um mit den Dorfbewohnern zu kommunizieren", "Das Restaurant serviert traditionelles **nepalesisches** Dal Bhat"]]
+  },
+  {
+    "lemma": "newtonian",
+    "meanings_de": ["nach Newtons Theorien"],
+    "definitions_de": ["sich auf Sir Isaac Newton oder seine Gesetze der Bewegung, Gravitation und mathematischen Prinzipien beziehend"],
+    "examples_de": [["Die **newtonsche** Physik beschreibt alltägliche mechanische Phänomene präzise", "Die Flugbahn des Raumschiffs folgte **newtonscher** Orbitalmechanik"]]
+  },
+  {
+    "lemma": "nicaraguan",
+    "meanings_de": ["aus/über Nicaragua"],
+    "definitions_de": ["sich auf Nicaragua beziehend, dessen Bevölkerung oder die spanischsprachige Kultur dieses mittelamerikanischen Landes"],
+    "examples_de": [["Der **nicaraguanische** Kaffee ist für seinen milden Geschmack bekannt", "Sie interviewte **nicaraguanische** Dichter für ihr Forschungsprojekt"]]
+  },
+  {
+    "lemma": "nigerian",
+    "meanings_de": ["aus/über Nigeria"],
+    "definitions_de": ["sich auf Nigeria beziehend, dessen Bevölkerung oder die vielfältigen ethnischen Gruppen und Kulturen des bevölkerungsreichsten Landes Afrikas"],
+    "examples_de": [["Die **nigerianische** Literatur hat international Anerkennung gefunden", "Das Festival präsentierte **nigerianische** Musiker und Tänzer"]]
+  },
+  {
+    "lemma": "nordic",
+    "meanings_de": ["nordeuropäisch"],
+    "definitions_de": ["sich auf die nordeuropäischen Länder Norwegen, Schweden, Dänemark, Finnland und Island oder deren Völker beziehend"],
+    "examples_de": [["**Nordisches** Design betont Einfachheit und Funktionalität", "Die **nordischen** Länder rangieren bei der Lebensqualität weit oben"]]
+  },
+  {
+    "lemma": "norman",
+    "meanings_de": ["normannisch"],
+    "definitions_de": ["sich auf die Normannen beziehend, Nachkommen der Wikinger, die sich in Nordfrankreich niederließen und 1066 England eroberten"],
+    "examples_de": [["Die **normannische** Eroberung veränderte englische Sprache und Kultur", "Diese Burg zeigt typische **normannische** Architekturmerkmale"]]
+  },
+  {
+    "lemma": "norse",
+    "meanings_de": ["altnordisch"],
+    "definitions_de": ["sich auf das mittelalterliche Skandinavien beziehend, dessen Völker, Mythologie oder die Wikingerkultur und altnordische Sprache"],
+    "examples_de": [["Die **nordische** Mythologie erzählt von Göttern wie Thor und Odin", "Das Museum zeigt **nordische** Artefakte von Wikingerexpeditionen"]]
+  },
+  {
+    "lemma": "norwegian",
+    "meanings_de": ["aus/über Norwegen"],
+    "definitions_de": ["sich auf Norwegen beziehend, dessen Bevölkerung, Sprache oder die Kultur dieses skandinavischen Landes"],
+    "examples_de": [["Die **norwegischen** Fjorde ziehen jährlich Millionen Touristen an", "Sie lernt **Norwegisch**, um Ibsen im Original zu lesen"]]
+  },
+  {
+    "lemma": "olympian",
+    "meanings_de": ["olympisch", "göttlich überlegen"],
+    "definitions_de": ["sich auf die Olympischen Spiele oder Athleten beziehend, die daran teilnehmen", "die majestätische Überlegenheit oder Distanziertheit zeigend, die mit den Göttern des Olymp verbunden wird"],
+    "examples_de": [["Die **olympischen** Athleten trainierten jahrelang für den Wettkampf", "Ihre **olympischen** Schwimmrekorde sind noch ungebrochen"], ["Er bewahrte eine **olympische** Distanz zur Büropolitik", "Die **olympische** Präsenz des Dirigenten gebot absoluten Respekt"]]
+  },
+  {
+    "lemma": "orthodox",
+    "meanings_de": ["traditionell anerkannt", "ostkirchlich"],
+    "definitions_de": ["etablierten oder traditionellen Überzeugungen entsprechend, besonders in Religion oder Verhalten", "sich auf die Ostkirche oder ihre Traditionen beziehend, die aus dem Byzantinischen Reich stammen"],
+    "examples_de": [["Sein **orthodoxer** Ansatz in der Medizin lehnt alternative Behandlungen ab", "Die Theorie stellt **orthodoxes** ökonomisches Denken in Frage"], ["Die **orthodoxe** Kathedrale hat charakteristische Zwiebeldächer", "Sie befolgt **orthodoxe** christliche Fastentraditionen"]]
+  },
+  {
+    "lemma": "ottoman",
+    "meanings_de": ["osmanisch"],
+    "definitions_de": ["sich auf das türkische Reich beziehend, das von 1299 bis 1922 große Teile Südosteuropas, Westasiens und Nordafrikas beherrschte"],
+    "examples_de": [["Die **osmanische** Architektur verbindet islamische und byzantinische Elemente", "Dieses Manuskript stammt aus **osmanischer** Zeit"]]
+  },
+  {
+    "lemma": "pacific",
+    "meanings_de": ["friedlich und ruhig"],
+    "definitions_de": ["friedlich in Charakter oder Absicht, dazu neigend, Konflikte zu vermeiden oder Ruhe zu fördern"],
+    "examples_de": [["Sie wählte einen **pazifischen** Ansatz zur Streitbeilegung", "Seine **pazifische** Natur machte ihn zu einem exzellenten Vermittler"]]
+  },
+  {
+    "lemma": "pakistani",
+    "meanings_de": ["aus/über Pakistan"],
+    "definitions_de": ["sich auf Pakistan beziehend, dessen Bevölkerung oder die islamische Kultur dieses südasiatischen Landes"],
+    "examples_de": [["Das **pakistanische** Cricket-Team gewann die Meisterschaft", "Wir genossen köstliches **pakistanisches** Biryani im Restaurant"]]
+  },
+  {
+    "lemma": "persian",
+    "meanings_de": ["persisch"],
+    "definitions_de": ["sich auf Persien (moderner Iran) beziehend, dessen Bevölkerung, Sprache oder die alte und moderne Kultur dieser Region"],
+    "examples_de": [["Der **persische** Teppich zeigt kunstvolle Blumenmuster", "Sie studiert **persische** Dichtung aus dem Mittelalter"]]
+  },
+  {
+    "lemma": "peruvian",
+    "meanings_de": ["aus/über Peru"],
+    "definitions_de": ["sich auf Peru beziehend, dessen Bevölkerung oder die vielfältigen Kulturen einschließlich des Inka-Erbes dieses südamerikanischen Landes"],
+    "examples_de": [["Die **peruanische** Küche verbindet indigene und spanische Einflüsse", "Der **peruanische** Amazonas beherbergt unglaubliche Artenvielfalt"]]
+  },
+  {
+    "lemma": "pharaonic",
+    "meanings_de": ["pharaonisch"],
+    "definitions_de": ["sich auf die Pharaonen des alten Ägypten beziehend oder gekennzeichnet durch die Pracht und absolute Macht, die sie ausübten"],
+    "examples_de": [["Das **pharaonische** Grab enthielt goldene Artefakte und Hieroglyphen", "Sein **pharaonischer** Lebensstil erforderte eine Armee von Dienern"]]
+  },
+  {
+    "lemma": "philippine",
+    "meanings_de": ["aus/über Philippinen"],
+    "definitions_de": ["sich auf die Philippinen beziehend, deren Bevölkerung oder die vielfältigen Inselkulturen dieses südostasiatischen Landes"],
+    "examples_de": [["Die **philippinische** Küche zeigt spanische und asiatische Einflüsse", "Der **philippinische** Archipel besteht aus über 7.000 Inseln"]]
+  },
+  {
+    "lemma": "philistine",
+    "meanings_de": ["kulturfeindlich", "philistäisch"],
+    "definitions_de": ["kulturellen, künstlerischen Werten und intellektuellen Bestrebungen gegenüber ablehnend oder gleichgültig", "sich auf die antiken Philister beziehend, ein Volk, das in der Küstenregion Kanaans lebte"],
+    "examples_de": [["Seine **banausische** Haltung zur Kunst enttäuschte seine kultivierten Freunde", "Die **kulturfeindliche** Entscheidung des Vorstands strich alle Kunstförderung"], ["Archäologische Funde zeigen **philistäische** Töpfertechniken", "Die **philistäischen** Städte blühten während der Eisenzeit"]]
+  },
+  {
+    "lemma": "platonic",
+    "meanings_de": ["platonisch"],
+    "definitions_de": ["eine Zuneigung oder Liebe beschreibend, die innig und herzlich, aber nicht sexuell oder romantisch ist"],
+    "examples_de": [["Sie pflegten trotz des Klatsches eine **platonische** Freundschaft", "Seine Gefühle für sie blieben rein **platonisch**"]]
+  },
+  {
+    "lemma": "polish",
+    "meanings_de": ["aus/über Polen"],
+    "definitions_de": ["sich auf Polen beziehend, dessen Bevölkerung, Sprache oder die Kultur dieses mitteleuropäischen Landes"],
+    "examples_de": [["Die **polnische** Gemeinde feiert ihr Erbe mit traditionellen Tänzen", "Sie lernt **Polnisch**, um sich mit ihren Großeltern zu verbinden"]]
+  },
+  {
+    "lemma": "portuguese",
+    "meanings_de": ["aus/über Portugal"],
+    "definitions_de": ["sich auf Portugal beziehend, dessen Bevölkerung, Sprache oder die Kultur dieses südwesteuropäischen Landes"],
+    "examples_de": [["**Portugiesische** Seefahrer etablierten Handelsrouten nach Asien", "Das Restaurant serviert authentische **portugiesische** Meeresfrüchtegerichte"]]
+  },
+  {
+    "lemma": "protestant",
+    "meanings_de": ["protestantisch"],
+    "definitions_de": ["sich auf christliche Kirchen beziehend, die sich während der Reformation von der römisch-katholischen Kirche trennten"],
+    "examples_de": [["Die **protestantische** Kirche betont persönlichen Glauben und Bibellektüre", "Viele **protestantische** Konfessionen erlauben verheiratete Geistliche"]]
+  },
+  {
+    "lemma": "pythagorean",
+    "meanings_de": ["pythagoreisch"],
+    "definitions_de": ["sich auf den griechischen Philosophen Pythagoras beziehend, seine mathematischen Theorien oder seine philosophischen und religiösen Lehren"],
+    "examples_de": [["Der **pythagoreische** Lehrsatz ist fundamental für die Geometrie", "**Pythagoreische** Überzeugungen beinhalteten die Seelenwanderung"]]
+  },
+  {
+    "lemma": "reformed",
+    "meanings_de": ["reformiert"],
+    "definitions_de": ["eine Reformation oder Verbesserung durchgemacht habend, besonders in Verhalten, Überzeugungen oder institutionellen Praktiken"],
+    "examples_de": [["Der **reformierte** Straftäter berät jetzt gefährdete Jugendliche", "Sie besucht eine **reformierte** Kirche, die sich vom Katholizismus abspaltete"]]
+  },
+  {
+    "lemma": "romanian",
+    "meanings_de": ["aus/über Rumänien"],
+    "definitions_de": ["sich auf Rumänien beziehend, dessen Bevölkerung, Sprache oder die lateinisch beeinflusste Kultur dieses südosteuropäischen Landes"],
+    "examples_de": [["Die **rumänische** Folklore enthält Geschichten von Vampiren und Werwölfen", "Die **rumänische** Turnerin gewann drei Goldmedaillen"]]
+  },
+  {
+    "lemma": "saharan",
+    "meanings_de": ["saharisch"],
+    "definitions_de": ["sich auf die Sahara-Wüste beziehend, die riesige trockene Region, die einen Großteil Nordafrikas bedeckt"],
+    "examples_de": [["**Saharische** Staubstürme können bis nach Amerika gelangen", "Das **saharische** Klima zeichnet sich durch extreme Temperaturschwankungen aus"]]
+  },
+  {
+    "lemma": "satanic",
+    "meanings_de": ["satanisch", "extrem böse"],
+    "definitions_de": ["sich auf Satan oder Teufelsanbetung in religiösen Kontexten beziehend", "gekennzeichnet durch extreme Bosheit, Grausamkeit oder Boshaftigkeit, die vom Teufel inspiriert scheint"],
+    "examples_de": [["Der Film zeigt **satanische** Rituale und okkulte Praktiken", "Einige Heavy-Metal-Bands verwenden **satanische** Symbolik"], ["Die **satanische** Grausamkeit des Diktators entsetzte die Welt", "Sie entkam dem **satanischen** Missbrauch ihrer Entführer"]]
+  },
+  {
+    "lemma": "saudi",
+    "meanings_de": ["aus/über Saudi-Arabien"],
+    "definitions_de": ["sich auf Saudi-Arabien beziehend, dessen Bevölkerung oder die konservative islamische Kultur dieses Königreichs auf der Arabischen Halbinsel"],
+    "examples_de": [["Die **saudischen** Ölreserven gehören zu den größten der Welt", "Die **saudische** Regierung investiert in erneuerbare Energien"]]
+  },
+  {
+    "lemma": "saxon",
+    "meanings_de": ["sächsisch"],
+    "definitions_de": ["sich auf das sächsische Volk beziehend, das in England einfiel und sich dort niederließ, oder ihre Sprache und Kultur"],
+    "examples_de": [["**Sächsische** Könige herrschten vor der normannischen Eroberung über England", "Die Kirche zeigt typische **sächsische** Architekturmerkmale"]]
+  },
+  {
+    "lemma": "scandinavian",
+    "meanings_de": ["skandinavisch"],
+    "definitions_de": ["sich auf Skandinavien (Norwegen, Schweden und Dänemark) oder die nordischen Völker und Kulturen dieser Region beziehend"],
+    "examples_de": [["**Skandinavisches** Design betont Minimalismus und Funktionalität", "Das **skandinavische** Wohlfahrtsmodell bietet umfangreiche Sozialleistungen"]]
+  },
+  {
+    "lemma": "scotch",
+    "meanings_de": ["schottisch"],
+    "definitions_de": ["sich auf Schottland oder dessen Bevölkerung beziehend, wobei 'Scottish' heute für die meisten Verwendungen bevorzugt wird"],
+    "examples_de": [["Er bestellte ein Glas feinen **Scotch** Whisky", "Die **schottischen** Kiefern gedeihen in kalten Klimazonen"]]
+  },
+  {
+    "lemma": "scottish",
+    "meanings_de": ["aus/über Schottland"],
+    "definitions_de": ["sich auf Schottland beziehend, dessen Bevölkerung oder die keltisch und englisch beeinflusste Kultur dieser nördlichen britischen Nation"],
+    "examples_de": [["Die **schottischen** Highlands bieten atemberaubende Berglandschaften", "Sie trug traditionellen **schottischen** Tartan zur Hochzeit"]]
+  },
+  {
+    "lemma": "babylonian",
+    "meanings_de": ["babylonisch"],
+    "definitions_de": ["sich auf die antike mesopotamische Stadt Babylon oder ihr Reich beziehend, das etwa 2000-500 v. Chr. blühte"],
+    "examples_de": [["Die **babylonische** Mathematik umfasste ausgeklügelte astronomische Berechnungen", "Der **babylonische** Schöpfungsmythos beeinflusste spätere religiöse Texte"]]
+  },
+  {
+    "lemma": "baltic",
+    "meanings_de": ["baltisch"],
+    "definitions_de": ["sich auf die Ostsee oder die angrenzenden Länder beziehend, besonders Estland, Lettland und Litauen"],
+    "examples_de": [["**Baltischer** Bernstein enthält prähistorische Insekten im Inneren", "Die **baltischen** Staaten erlangten nach dem Sowjet-Zusammenbruch ihre Unabhängigkeit zurück"]]
+  },
+  {
+    "lemma": "bantu",
+    "meanings_de": ["Bantu-"],
+    "definitions_de": ["sich auf die große Gruppe afrikanischer Sprachen und Völker beziehend, die über Zentral- und Südafrika verbreitet sind"],
+    "examples_de": [["**Bantu**-Sprachen teilen gemeinsame grammatische Strukturen", "Die **Bantu**-Migration prägte afrikanische demografische Muster"]]
+  },
+  {
+    "lemma": "baroque",
+    "meanings_de": ["barock"],
+    "definitions_de": ["sich auf einen europäischen Kunststil von 1600-1750 beziehend, gekennzeichnet durch aufwendige Verzierungen und dramatische Effekte"],
+    "examples_de": [["Die **barocke** Kirche zeigt vergoldete Skulpturen und bemalte Decken", "Bach komponierte während der späten **Barock**zeit"]]
+  },
+  {
+    "lemma": "bayesian",
+    "meanings_de": ["bayesisch"],
+    "definitions_de": ["sich auf statistische Methoden beziehend, die auf dem Satz von Bayes basieren, um Wahrscheinlichkeiten unter Verwendung von Vorwissen und neuen Beweisen zu berechnen"],
+    "examples_de": [["**Bayessche** Inferenz hilft, Überzeugungen mit neuen Daten zu aktualisieren", "Der Forscher verwendete **bayessche** Analyse für die medizinische Studie"]]
+  },
+  {
+    "lemma": "benedictine",
+    "meanings_de": ["benediktinisch"],
+    "definitions_de": ["sich auf den von Sankt Benedikt gegründeten Mönchsorden beziehend oder seiner Klosterregel von Gebet und Arbeit folgend"],
+    "examples_de": [["Das **benediktinische** Kloster folgt einem strengen Tagesablauf", "Sie verbrachte Zeit in einer **benediktinischen** Abtei zur spirituellen Einkehr"]]
+  },
+  {
+    "lemma": "bengali",
+    "meanings_de": ["bengalisch"],
+    "definitions_de": ["sich auf Bengalen beziehend, dessen Bevölkerung, Sprache oder die Kultur dieser zwischen Bangladesch und Indien geteilten Region"],
+    "examples_de": [["Die **bengalische** Literatur umfasst Werke des Nobelpreisträgers Tagore", "Das Restaurant serviert traditionelles **bengalisches** Fischcurry"]]
+  },
+  {
+    "lemma": "semite",
+    "meanings_de": ["semitisch"],
+    "definitions_de": ["sich auf Völker beziehend, die semitische Sprachen sprechen, einschließlich Araber, Juden und antike Babylonier und Phönizier"],
+    "examples_de": [["**Semitische** Kulturen teilen sprachliche und historische Verbindungen", "Antike **semitische** Zivilisationen entwickelten frühe Schriftsysteme"]]
+  },
+  {
+    "lemma": "semitic",
+    "meanings_de": ["semitisch"],
+    "definitions_de": ["sich auf die Sprachfamilie beziehend, die Hebräisch, Arabisch und Aramäisch umfasst, oder die Völker, die sie sprechen"],
+    "examples_de": [["**Semitische** Sprachen teilen ähnliche grammatische Strukturen", "Das Museum zeigt Artefakte verschiedener **semitischer** Zivilisationen"]]
+  }
+]

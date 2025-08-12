@@ -1,0 +1,284 @@
+[
+  {
+    "lemma": "peacetime",
+    "meanings_de": ["Friedenszeit"],
+    "definitions_de": ["Zeitraum, in dem ein Land oder eine Region nicht in bewaffnete Konflikte verwickelt ist"],
+    "examples_de": [["Die Wirtschaft florierte in **Friedenszeiten** nach dem Vertrag", "Die Militärausgaben sanken erheblich unter **Friedensbedingungen**"]]
+  },
+  {
+    "lemma": "peach",
+    "meanings_de": ["Frucht mit samtiger Haut", "pfirsichfarbener Ton"],
+    "definitions_de": ["Runde saftige Frucht mit gelbem Fruchtfleisch und samtiger Haut", "Weicher rosa-oranger Farbton, der der Frucht ähnelt"],
+    "examples_de": [["Sie pflückte gestern frische **Pfirsiche** aus dem Obstgarten", "Der reife **Pfirsich** tropfte Saft über ihr Kinn"], ["Die Schlafzimmerwände waren in einem sanften **Pfirsichton** gestrichen", "Sie trug ein hübsches **pfirsichfarbenes** Kleid zur Party"]]
+  },
+  {
+    "lemma": "peacock",
+    "meanings_de": ["bunter männlicher Vogel"],
+    "definitions_de": ["Großer männlicher Vogel mit glänzend blauem und grünem Gefieder und fächerförmigem Schwanz"],
+    "examples_de": [["Der **Pfau** präsentierte stolz seine prächtigen Schwanzfedern", "Mehrere **Pfauen** liefen frei in den Palastgärten umher"]]
+  },
+  {
+    "lemma": "peafowl",
+    "meanings_de": ["Vogelartbezeichnung"],
+    "definitions_de": ["Großer fasanenartiger Vogel aus Asien, der sowohl männliche Pfauen als auch weibliche Pfauenhennen umfasst"],
+    "examples_de": [["Der Zoo hielt mehrere **Pfauenvögel** in ihrer exotischen Vogelausstellung", "Wilde **Pfauen** sind in Indien und Sri Lanka heimisch"]]
+  },
+  {
+    "lemma": "peal",
+    "meanings_de": ["lautes Läuten"],
+    "definitions_de": ["Lautes anhaltendes Läuten von Glocken oder ähnlicher hallender Klang"],
+    "examples_de": [["Die Kirchenglocken erklangen in freudigen **Glockenschlägen**", "Ein **Donnerschlag** hallte durch das Tal"]]
+  },
+  {
+    "lemma": "pear",
+    "meanings_de": ["Frucht mit bauchiger Form"],
+    "definitions_de": ["Süße saftige Frucht, die sich von einer rundlichen Basis zu einer schmaleren Spitze verjüngt"],
+    "examples_de": [["Sie packte eine reife **Birne** in ihre Lunchbox", "Der **Birnbaum** trug diese Saison reichlich Früchte"]]
+  },
+  {
+    "lemma": "pearl",
+    "meanings_de": ["Edelstein aus Auster", "wertvolles Weisheitsstück"],
+    "definitions_de": ["Harte glänzende Kugel, die sich in Austern und anderen Weichtieren bildet", "Stück wertvoller Weisheit oder Ratschlag"],
+    "examples_de": [["Der Taucher fand eine seltene schwarze **Perle** in der Auster", "Sie trug eine Kette aus Zucht**perlen** um den Hals"], ["Sein Großvater teilte **Perlen** der Weisheit über das Leben", "Jedes Sprichwort enthielt eine **Perle** alten Wissens"]]
+  },
+  {
+    "lemma": "pearly",
+    "meanings_de": ["perlenartig aussehend"],
+    "definitions_de": ["Mit der glänzenden weißlichen Farbe oder dem Schimmer, der für Perlen charakteristisch ist"],
+    "examples_de": [["Ihre **perlweißen** Zähne glänzten, wenn sie lächelte", "Der Morgenhimmel hatte eine **perlgraue** Leuchtkraft"]]
+  },
+  {
+    "lemma": "peasant",
+    "meanings_de": ["ländlicher Landarbeiter"],
+    "definitions_de": ["Armer Landarbeiter oder Kleinbauer, besonders in vorindustriellen Gesellschaften"],
+    "examples_de": [["Mittelalterliche **Bauern** bearbeiteten die Felder des Herrn für Schutz", "Die **Bauernfamilie** lebte in einer einfachen Hütte"]]
+  },
+  {
+    "lemma": "peasantry",
+    "meanings_de": ["ländliche Bauernklasse"],
+    "definitions_de": ["Gesamtheit der Bauern oder ländlichen Landarbeiter als soziale Klasse"],
+    "examples_de": [["Die **Bauernschaft** rebellierte gegen harte Steuerpolitik", "Der Großteil der mittelalterlichen **Landbevölkerung** lebte in Armut"]]
+  },
+  {
+    "lemma": "peat",
+    "meanings_de": ["zersetzte Pflanzenmasse"],
+    "definitions_de": ["Teilweise zersetzte Pflanzenmasse, die in Feuchtgebieten entsteht und als Brennstoff oder Bodenzusatz verwendet wird"],
+    "examples_de": [["Irische Bauern verbrannten traditionell **Torf** zur Winterheizung", "Der Gärtner fügte **Torfmoos** hinzu, um die Bodenstruktur zu verbessern"]]
+  },
+  {
+    "lemma": "pebble",
+    "meanings_de": ["kleiner glatter Stein"],
+    "definitions_de": ["Kleiner abgerundeter Stein, der durch Wasser oder Erosion glatt geschliffen wurde"],
+    "examples_de": [["Kinder ließen **Kieselsteine** über die ruhige Seeoberfläche hüpfen", "Der Strand war mit bunten **Kieseln** bedeckt"]]
+  },
+  {
+    "lemma": "pecan",
+    "meanings_de": ["essbare Baumnuss"],
+    "definitions_de": ["Ovale Nuss von einem nordamerikanischen Hickorybaum mit süßem, reichem Geschmack"],
+    "examples_de": [["Sie fügte gehackte **Pekannüsse** zum Schokoladenbrownies-Teig hinzu", "Die berühmte **Pekannusstorte** gewann den ersten Preis auf dem Jahrmarkt"]]
+  },
+  {
+    "lemma": "peck",
+    "meanings_de": ["schneller scharfer Biss", "Trockenmaßeinheit"],
+    "definitions_de": ["Schneller scharfer Schlag oder Biss von einem Vogel", "Einheit für Trockenmaß, die acht Quart entspricht"],
+    "examples_de": [["Das Huhn gab ihm einen scharfen **Schnabelhieb** auf die Hand", "Vögel **pickten** an den auf dem Boden verstreuten Samen"], ["Der Bauer verkaufte Äpfel **scheffelweise** auf dem Markt", "Sie kaufte einen **Scheffel** frische grüne Bohnen"]]
+  },
+  {
+    "lemma": "pectin",
+    "meanings_de": ["gelierende Pflanzensubstanz"],
+    "definitions_de": ["Natürliche Substanz in Früchten, die beim Kochen mit Zucker hilft, Marmeladen und Gelees zu gelieren"],
+    "examples_de": [["Äpfel enthalten hohe Mengen an natürlichem **Pektin** für die Marmeladenherstellung", "Sie fügte pulverisiertes **Pektin** hinzu, um die Erdbeerkonserven gelieren zu lassen"]]
+  },
+  {
+    "lemma": "pectoral",
+    "meanings_de": ["Brustmuskelbereich"],
+    "definitions_de": ["Bezogen auf die Brust, insbesondere die großen Muskeln der oberen Brust"],
+    "examples_de": [["Er konzentrierte sich bei seinem Training auf **Brustmuskel**übungen", "Der Schwimmer hatte gut entwickelte **Brustmuskeln** vom Training"]]
+  },
+  {
+    "lemma": "peculiarity",
+    "meanings_de": ["besonderes merkwürdiges Merkmal"],
+    "definitions_de": ["Ungewöhnliche oder charakteristische Eigenschaft, die etwas anders oder seltsam macht"],
+    "examples_de": [["Das Haus hatte mehrere architektonische **Eigenarten**, die bemerkenswert waren", "Seine **Besonderheit**, mit Pflanzen zu sprechen, amüsierte seine Nachbarn"]]
+  },
+  {
+    "lemma": "pedagogue",
+    "meanings_de": ["strenger formeller Lehrer"],
+    "definitions_de": ["Lehrer, besonders einer, der in seinen Methoden übermäßig formal, pedantisch oder dogmatisch ist"],
+    "examples_de": [["Der altmodische **Pädagoge** bestand auf Auswendiglerntechniken", "Die Schüler fanden den strengen **Schulmeister** einschüchternd, aber effektiv"]]
+  },
+  {
+    "lemma": "pedagogy",
+    "meanings_de": ["Lehrmethodenwissenschaft"],
+    "definitions_de": ["Methode und Praxis des Lehrens, besonders als akademisches Fach oder theoretisches Konzept"],
+    "examples_de": [["Moderne **Pädagogik** betont interaktives Lernen gegenüber passivem Zuhören", "Sie studierte **Erziehungswissenschaft**, um ihre Unterrichtstechniken zu verbessern"]]
+  },
+  {
+    "lemma": "pedal",
+    "meanings_de": ["fußbetätigter Hebel"],
+    "definitions_de": ["Mit dem Fuß betätigter Hebel zur Steuerung einer Maschine, eines Fahrzeugs oder Musikinstruments"],
+    "examples_de": [["Sie drückte das Brems**pedal**, um das Auto anzuhalten", "Der Pianist nutzte das Halte**pedal** für dramatische Effekte"]]
+  },
+  {
+    "lemma": "peddler",
+    "meanings_de": ["reisender Kleinhändler"],
+    "definitions_de": ["Person, die umherreist und kleine Waren verkauft, oft von Tür zu Tür"],
+    "examples_de": [["Der **Hausierer** trug Haushaltswaren in seinem Karren", "Straßen**händler** verkauften Souvenirs an vorbeigehende Touristen"]]
+  },
+  {
+    "lemma": "peddling",
+    "meanings_de": ["Kleinwarenverkauf"],
+    "definitions_de": ["Tätigkeit des Umherreisens zum Verkauf kleiner Gegenstände oder illegaler Substanzen"],
+    "examples_de": [["Er verdiente seinen Lebensunterhalt mit dem **Hausieren** von Uhren an Straßenecken", "Die Polizei verhaftete Verdächtige wegen **Handelns** mit gefälschter Ware"]]
+  },
+  {
+    "lemma": "pedestal",
+    "meanings_de": ["tragende Basisstruktur", "Position der Bewunderung"],
+    "definitions_de": ["Basis oder Plattform, auf der eine Statue oder Säule steht", "Position unkritischen Respekts oder Bewunderung"],
+    "examples_de": [["Die Marmorstatue stand auf einem verzierten **Sockel**", "Das Museum stellte Artefakte auf beleuchteten **Podesten** aus"], ["Sie stellte ihren Mentor jahrelang auf ein **Podest**", "Athleten sollten nicht als perfekte Vorbilder auf **Podeste** gestellt werden"]]
+  },
+  {
+    "lemma": "pedestrian",
+    "meanings_de": ["gehende Person"],
+    "definitions_de": ["Person, die entlang einer Straße oder in einem bebauten Gebiet zu Fuß geht"],
+    "examples_de": [["**Fußgänger** müssen aus Sicherheitsgründen den Zebrastreifen benutzen", "Die belebte Kreuzung war voller **Passanten**"]]
+  },
+  {
+    "lemma": "pediatrician",
+    "meanings_de": ["Kinderarzt"],
+    "definitions_de": ["Arzt, der sich auf die Betreuung und Behandlung von Säuglingen, Kindern und Jugendlichen spezialisiert hat"],
+    "examples_de": [["Der **Kinderarzt** untersuchte das Baby bei der monatlichen Kontrolle", "Eltern vertrauten ihrem **Pädiater** bei Impfberatungen"]]
+  },
+  {
+    "lemma": "pedigree",
+    "meanings_de": ["Abstammungsnachweis", "vornehme Herkunft"],
+    "definitions_de": ["Aufgezeichnete Abstammung, besonders von reinrassigen Tieren, die die Abstammung zeigt", "Angesehene oder bemerkenswerte Abstammung, Hintergrund oder Linie"],
+    "examples_de": [["Der Hundezüchter stellte ein detailliertes **Stammbaum**zertifikat zur Verfügung", "Der **Stammbaum** des Pferdes ließ sich fünf Generationen zurückverfolgen"], ["Der Professor hatte einen beeindruckenden akademischen **Werdegang**", "Ihre **Herkunft** umfasste mehrere berühmte Künstler und Schriftsteller"]]
+  },
+  {
+    "lemma": "pediment",
+    "meanings_de": ["dreieckiges Architekturelement"],
+    "definitions_de": ["Dreieckiges dekoratives Element, das den Giebel eines Daches in der klassischen Architektur bildet"],
+    "examples_de": [["Der griechische Tempel hatte einen verzierten **Giebel** über den Säulen", "Geschnitzte Figuren schmückten das **Giebelfeld** des Gerichtsgebäudes"]]
+  },
+  {
+    "lemma": "pedophile",
+    "meanings_de": ["Kinderschänder"],
+    "definitions_de": ["Erwachsener, der sich auf schädliche, kriminelle Weise sexuell zu Kindern hingezogen fühlt"],
+    "examples_de": [["Der verurteilte **Pädophile** wurde zu einer Gefängnisstrafe verurteilt", "Eltern warnten Kinder vor potenziellen **Pädophilen**-Gefahren"]]
+  },
+  {
+    "lemma": "pedophilia",
+    "meanings_de": ["sexuelle Störung gegenüber Kindern"],
+    "definitions_de": ["Psychiatrische Störung mit sexueller Anziehung Erwachsener zu vorpubertären Kindern"],
+    "examples_de": [["Psychologen untersuchen **Pädophilie**, um Behandlungsprogramme zu entwickeln", "Gesetze verbieten strikt alle Handlungen im Zusammenhang mit **Pädophilie**"]]
+  },
+  {
+    "lemma": "pee",
+    "meanings_de": ["umgangssprachlicher Urinbegriff"],
+    "definitions_de": ["Umgangssprachliches Wort für Urin oder den Akt des Urinierens"],
+    "examples_de": [["Das Kleinkind verkündete, es müsse sofort **Pipi** machen", "Hunde markieren ihr Revier mit **Pipi**"]]
+  },
+  {
+    "lemma": "peek",
+    "meanings_de": ["schneller heimlicher Blick"],
+    "definitions_de": ["Schneller oder verstohlener Blick, besonders durch eine kleine Öffnung"],
+    "examples_de": [["Sie warf neugierig einen **Blick** durch das Schlüsselloch", "Kinder konnten dem **Spähen** nach den eingepackten Geschenken nicht widerstehen"]]
+  },
+  {
+    "lemma": "peeling",
+    "meanings_de": ["entfernte äußere Schicht"],
+    "definitions_de": ["Dünne Schicht oder Streifen von Material, besonders Haut, die von etwas entfernt wurde"],
+    "examples_de": [["Farb**schalen** blätterten vom alten Holzzaun ab", "Sie fegte die Kartoffel**schalen** vom Küchenboden auf"]]
+  },
+  {
+    "lemma": "peep",
+    "meanings_de": ["kleiner hoher Ton", "schneller verstohlener Blick"],
+    "definitions_de": ["Kurzer hoher Ton, der von jungen Vögeln oder kleinen Tieren gemacht wird", "Schneller heimlicher Blick auf etwas"],
+    "examples_de": [["Babyküken machten leise **Piepsgeräusche** in ihrem Nest", "Kein **Pieps** war von den schlafenden Kindern zu hören"], ["Er warf einen schnellen **Blick** auf seine Karten", "Sie konnte dem **Spähen** nach den Überraschungspartyvorbereitungen nicht widerstehen"]]
+  },
+  {
+    "lemma": "peerage",
+    "meanings_de": ["Adelssystem"],
+    "definitions_de": ["System der Adelstitel und die Gesamtheit der Peers"],
+    "examples_de": [["Er wurde für öffentliche Dienste in den **Adelsstand** erhoben", "Der britische **Adel** umfasst Herzöge, Grafen und Barone"]]
+  },
+  {
+    "lemma": "peg",
+    "meanings_de": ["hölzerner Befestigungsstift"],
+    "definitions_de": ["Kurzes zylindrisches Stück Holz oder Metall zum Befestigen oder Aufhängen"],
+    "examples_de": [["Sie hängte ihren Mantel an den hölzernen **Haken**", "Zelt**heringe** sicherten die Plane am Boden"]]
+  },
+  {
+    "lemma": "pelican",
+    "meanings_de": ["Wasservogel mit großem Beutel"],
+    "definitions_de": ["Großer Wasservogel mit langem Schnabel und dehnbarem Kehlsack zum Fischfang"],
+    "examples_de": [["**Pelikane** tauchten ins Wasser, um Fische zu fangen", "Der braune **Pelikan** ist Louisianas Staatsvogel"]]
+  },
+  {
+    "lemma": "pellet",
+    "meanings_de": ["kleine gepresste Kugel"],
+    "definitions_de": ["Kleine abgerundete gepresste Masse aus Material wie Nahrung, Tierfutter oder Munition"],
+    "examples_de": [["Das Luftgewehr schoss kleine Metall**kügelchen**", "Kaninchenfutter kommt in kleiner **Pellet**form"]]
+  },
+  {
+    "lemma": "pelt",
+    "meanings_de": ["Tierhaut mit Fell"],
+    "definitions_de": ["Haut eines Tieres mit noch anhaftendem Fell oder Haar"],
+    "examples_de": [["Fallensteller verkauften Biber**felle** an Pelzhändler", "Das Museum stellte verschiedene Tier**häute** aus"]]
+  },
+  {
+    "lemma": "penance",
+    "meanings_de": ["religiöse Buße"],
+    "definitions_de": ["Freiwillige Selbstbestrafung oder religiöse Handlung zur Reue für Sünden"],
+    "examples_de": [["Der Priester legte nach der Beichte **Buße** auf", "Sie vollzog **Bußhandlungen** für ihre Verfehlungen"]]
+  },
+  {
+    "lemma": "penchant",
+    "meanings_de": ["starke Vorliebe"],
+    "definitions_de": ["Starke gewohnheitsmäßige Vorliebe oder Neigung zu etwas"],
+    "examples_de": [["Sie hatte eine **Vorliebe** für das Sammeln von Vintage-Schmuck", "Seine **Neigung** zu scharfem Essen war allgemein bekannt"]]
+  },
+  {
+    "lemma": "pencil",
+    "meanings_de": ["Schreib- und Zeicheninstrument"],
+    "definitions_de": ["Dünner Holzschaft mit Graphitkern zum Schreiben oder Zeichnen"],
+    "examples_de": [["Die Schüler spitzten ihre **Bleistifte** vor dem Test", "Der Künstler skizzierte das Porträt mit einem weichen **Bleistift**"]]
+  },
+  {
+    "lemma": "pendant",
+    "meanings_de": ["hängendes Schmuckstück"],
+    "definitions_de": ["Schmuckstück, das an einer Kette hängt und um den Hals getragen wird"],
+    "examples_de": [["Sie trug einen Diamant**anhänger** an einer Goldkette", "Der antike **Anhänger** enthielt ein kleines Foto"]]
+  },
+  {
+    "lemma": "pendulum",
+    "meanings_de": ["schwingende Gewichtsstange"],
+    "definitions_de": ["Gewicht, das an einem festen Punkt aufgehängt ist und unter der Schwerkraft hin und her schwingt"],
+    "examples_de": [["Das **Pendel** der Standuhr schwang gleichmäßig", "Wissenschaftler verwenden **Pendel**, um physikalische Prinzipien zu demonstrieren"]]
+  },
+  {
+    "lemma": "penetration",
+    "meanings_de": ["Eindringvorgang", "Markteintrittstiefe"],
+    "definitions_de": ["Handlung oder Prozess des Eindringens in oder durch etwas", "Ausmaß, in dem ein Produkt oder eine Idee in einen Markt eindringt"],
+    "examples_de": [["Das **Eindringen** des Messers war nur oberflächlich", "Wasser**durchdringung** beschädigte das Fundament des Gebäudes"], ["Das Unternehmen erreichte eine bedeutende Markt**durchdringung** in Asien", "Die Marken**penetration** stieg nach der Werbekampagne"]]
+  },
+  {
+    "lemma": "penetrator",
+    "meanings_de": ["durchdringendes Gerät"],
+    "definitions_de": ["Werkzeug, Gerät oder Geschoss, das dazu bestimmt ist, Barrieren zu durchdringen oder zu durchbrechen"],
+    "examples_de": [["Das Militär entwickelte neue Panzer**durchschlagsgeschosse**", "Beton**bohrer** werden im Bauwesen verwendet"]]
+  },
+  {
+    "lemma": "penguin",
+    "meanings_de": ["flugunfähiger Antarktis-Vogel"],
+    "definitions_de": ["Schwarz-weißer flugunfähiger Seevogel, der hauptsächlich in antarktischen Regionen vorkommt"],
+    "examples_de": [["Kaiser**pinguine** drängten sich zur Wärme zusammen", "Der **Pinguin** watschelte unbeholfen an Land"]]
+  },
+  {
+    "lemma": "penicillin",
+    "meanings_de": ["Antibiotikum"],
+    "definitions_de": ["Aus Schimmelpilz gewonnenes antibiotisches Medikament zur Behandlung bakterieller Infektionen"],
+    "examples_de": [["Der Arzt verschrieb **Penicillin** gegen ihre Halsentzündung", "Alexander Fleming entdeckte **Penicillin** durch Zufall"]]
+  }
+]

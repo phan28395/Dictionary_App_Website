@@ -1,0 +1,260 @@
+[
+  {
+    "lemma": "healing",
+    "meanings_de": ["Heilungsprozess", "therapeutische Praxis"],
+    "definitions_de": ["natürlicher Prozess, durch den der Körper sich nach Verletzung oder Krankheit selbst repariert", "Handlung oder Praxis, verschiedene Methoden zu nutzen, um körperliche oder emotionale Gesundheit wiederherzustellen"],
+    "examples_de": [["Die **Heilung** der Wunde dauerte mehrere Wochen", "Ausreichend Ruhe und gute Ernährung sind für die **Heilung** unerlässlich"], ["Sie studierte **Heilmethoden** aus verschiedenen Kulturen", "Das Zentrum bietet verschiedene Formen der **Heiltherapie** an"]]
+  },
+  {
+    "lemma": "healthcare",
+    "meanings_de": ["Gesundheitssystem"],
+    "definitions_de": ["organisierte Bereitstellung medizinischer Versorgung für Einzelpersonen oder Gemeinschaften durch professionelle Dienstleistungen"],
+    "examples_de": [["Die Kosten im **Gesundheitswesen** steigen jedes Jahr weiter", "Sie arbeitet im **Gesundheitsmanagement** eines großen Krankenhauses"], ["Die allgemeine **Krankenversicherung** bietet medizinische Dienste für alle Bürger", "Die **Gesundheitsbranche** beschäftigt Millionen von Menschen weltweit"]]
+  },
+  {
+    "lemma": "heap",
+    "meanings_de": ["Haufen von Dingen", "große Menge"],
+    "definitions_de": ["unordentliche Ansammlung von Gegenständen, die übereinander liegen", "umgangssprachlicher Begriff für eine sehr große Menge oder Anzahl von etwas"],
+    "examples_de": [["Ein **Haufen** schmutziger Wäsche lag in der Ecke", "Sie kehrte die Blätter zu einem ordentlichen **Haufen** zusammen"], ["Wir haben **haufenweise** Arbeit zu erledigen", "Es waren **Unmengen** von Leuten beim Konzert"]]
+  },
+  {
+    "lemma": "hearsay",
+    "meanings_de": ["unbestätigte Information"],
+    "definitions_de": ["Informationen, die von anderen erhalten wurden und nicht ausreichend belegt oder als wahr verifiziert werden können"],
+    "examples_de": [["Die Gerüchte basierten auf **Hörensagen** statt auf Fakten", "**Zeugenaussagen** vom Hörensagen sind vor Gericht in der Regel nicht zulässig"], ["Glauben Sie nicht alles, was Sie hören; es könnte **Hörensagen** sein", "Der Zeitungsartikel stützte sich zu sehr auf **Gerüchte**"]]
+  },
+  {
+    "lemma": "hearse",
+    "meanings_de": ["Leichenwagen"],
+    "definitions_de": ["speziell konstruiertes Fahrzeug zum Transport eines Sargs zu einer Beerdigung oder zum Friedhof"],
+    "examples_de": [["Der schwarze **Leichenwagen** führte den Trauerzug langsam an", "Ein mit Blumen geschmückter **Leichenwagen** brachte den Sarg zum Friedhof"], ["Der Bestatter organisierte die Ankunft des **Leichenwagens**", "Mehrere Autos folgten dem **Leichenwagen** im Trauerzug"]]
+  },
+  {
+    "lemma": "heartache",
+    "meanings_de": ["emotionaler Schmerz"],
+    "definitions_de": ["tiefer emotionaler Schmerz oder Kummer, typischerweise verursacht durch Verlust oder Enttäuschung in der Liebe"],
+    "examples_de": [["Die Trennung verursachte ihr monatelang schrecklichen **Herzschmerz**", "Er konnte den **Liebeskummer** in seinen Augen nicht verbergen"], ["Eltern erleiden **Herzschmerz**, wenn ihre Kinder wegziehen", "Das Lied fing den **Liebeskummer** über verlorene Liebe perfekt ein"]]
+  },
+  {
+    "lemma": "heartbeat",
+    "meanings_de": ["Herzrhythmus", "kurzer Augenblick"],
+    "definitions_de": ["rhythmische Kontraktion und Ausdehnung des Herzens, das Blut durch den Körper pumpt", "sehr kurze Zeitspanne oder Augenblick"],
+    "examples_de": [["Der Arzt hörte ihren **Herzschlag** mit einem Stethoskop ab", "Sein **Herzschlag** beschleunigte sich, als er sie eintreten sah"], ["Sie würde im **Handumdrehen** zurückkommen, wenn man sie fragen würde", "Die Entscheidung wurde **blitzschnell** ohne Zögern getroffen"]]
+  },
+  {
+    "lemma": "heartbreak",
+    "meanings_de": ["romantischer Kummer"],
+    "definitions_de": ["überwältigender Schmerz oder Kummer, verursacht durch Liebesverlust oder tiefe Enttäuschung"],
+    "examples_de": [["Der **Liebeskummer** von ihrer Scheidung dauerte jahrelang", "Sie schrieb Gedichte, um mit ihrem **Herzschmerz** fertig zu werden"], ["Der erste **Liebeskummer** ist oft am schwersten zu überwinden", "Sein **Herzschmerz** war in jedem Lied spürbar, das er aufführte"]]
+  },
+  {
+    "lemma": "heartbreaker",
+    "meanings_de": ["Person die Liebeskummer verursacht"],
+    "definitions_de": ["Person, die attraktiv ist, aber emotionalen Schmerz verursacht, indem sie romantische Beziehungen achtlos beendet"],
+    "examples_de": [["Alle warnten sie, dass er ein **Herzensbrecher** sei", "Der berüchtigte **Herzensbrecher** hinterließ viele zerbrochene Beziehungen"], ["Sie erwarb sich im Studium den Ruf einer **Herzensb recherin**", "Dieser **Herzensbrecher** hat mit der halben Stadt etwas gehabt"]]
+  },
+  {
+    "lemma": "hearth",
+    "meanings_de": ["Kaminboden", "Heimsymbol"],
+    "definitions_de": ["Boden eines Kamins, meist aus Stein oder Ziegeln gefertigt", "symbolisches Zentrum des Zuhauses, das Wärme und Familienleben repräsentiert"],
+    "examples_de": [["Sie fegte jeden Morgen die Asche vom **Kaminboden**", "Die Katze liebte es, nahe dem warmen **Kamin** zu schlafen"], ["Sie versammelten sich um den **Herd**, um Familiengeschichten zu teilen", "Der **häusliche Herd** repräsentiert das Herz des traditionellen Familienlebens"]]
+  },
+  {
+    "lemma": "heartland",
+    "meanings_de": ["zentrale Region"],
+    "definitions_de": ["zentraler oder wichtigster Teil eines Landes oder Gebiets, der oft als kulturell bedeutsam angesehen wird"],
+    "examples_de": [["Das amerikanische **Kernland** produziert einen Großteil der nationalen Nahrungsmittel", "Kleine Städte prägen das **Herzland** des Landes"], ["Politiker führen oft intensive Wahlkämpfe in den **Kernstaaten**", "Die **Werte des Kernlands** wie harte Arbeit bleiben stark"]]
+  },
+  {
+    "lemma": "heater",
+    "meanings_de": ["Heizgerät"],
+    "definitions_de": ["Gerät, das Wärme erzeugt, um einen Raum, Wasser oder andere Substanzen zu erwärmen"],
+    "examples_de": [["Die **Heizung** hielt das Schlafzimmer die ganze Nacht warm", "Wir müssen bald den **Warmwasserbereiter** ersetzen"], ["Mach die **Heizung** an; es ist eiskalt hier drin", "Die **Autoheizung** braucht ein paar Minuten, bis sie funktioniert"]]
+  },
+  {
+    "lemma": "heath",
+    "meanings_de": ["Heidelandschaft"],
+    "definitions_de": ["Gebiet offenen, unkultivierten Landes, typischerweise mit Heidekraut und niedrigen Sträuchern bewachsen"],
+    "examples_de": [["Wildpferde streifen frei über die **Heide**", "Das lila Heidekraut bedeckte die **Heidelandschaft** im Herbst"], ["Sie machten lange Spaziergänge über die windgepeitschte **Heide**", "Die **Heide** bietet Lebensraum für viele Vogelarten"]]
+  },
+  {
+    "lemma": "heathen",
+    "meanings_de": ["Ungläubiger", "unzivilisierte Person"],
+    "definitions_de": ["Person, die keiner weit verbreiteten Religion, insbesondere dem Christentum, angehört", "Person, die als kulturlos oder ohne moralische Prinzipien angesehen wird"],
+    "examples_de": [["Missionare versuchten, die **Heiden** zum Christentum zu bekehren", "Der Begriff **Heide** wird heute von vielen als beleidigend empfunden"], ["Er nannte seinen unordentlichen Mitbewohner scherzhaft einen **Barbaren**", "Benimm dich nicht wie ein **Wilder** am Esstisch"]]
+  },
+  {
+    "lemma": "heather",
+    "meanings_de": ["blühender Strauch"],
+    "definitions_de": ["niedrig wachsender immergrüner Strauch mit kleinen lila, rosa oder weißen Blüten, häufig auf Moorland"],
+    "examples_de": [["Der Hügel war mit blühendem lila **Heidekraut** bedeckt", "**Heidehonig** hat eine charakteristische dunkle Farbe und Geschmack"], ["Schottische Landschaften zeigen oft weite Felder von **Heide**", "Sie pflückte einen Zweig **Heidekraut** für Glück"]]
+  },
+  {
+    "lemma": "heating",
+    "meanings_de": ["Heizsystem"],
+    "definitions_de": ["System oder Prozess der Wärmeversorgung eines Gebäudes oder Raums zur Aufrechterhaltung einer angenehmen Temperatur"],
+    "examples_de": [["Die **Heizkosten** waren während des kalten Winters teuer", "Die **Zentralheizung** hält das ganze Haus warm"], ["Sie installierten **Solarheizung**, um Energiekosten zu reduzieren", "Die **Heizungsanlage** benötigt jährliche Wartung"]]
+  },
+  {
+    "lemma": "heave",
+    "meanings_de": ["Hebevorgang", "aufsteigende Bewegung"],
+    "definitions_de": ["große Anstrengung, um etwas Schweres zu heben oder zu bewegen", "Aufwärts- oder Auswärtsbewegung, besonders der Brust beim schweren Atmen"],
+    "examples_de": [["Mit einem mächtigen **Ruck** hoben sie den Felsbrocken", "Es brauchte mehrere **Hebeversuche**, um die Möbel zu bewegen"], ["Sie spürte das **Heben** des Schiffs auf rauer See", "Seine Brust hob sich mit jedem mühsamen **Atemzug**"]]
+  },
+  {
+    "lemma": "heavyweight",
+    "meanings_de": ["schwerer Boxer", "einflussreiche Person"],
+    "definitions_de": ["Boxer, der in der schwersten Gewichtsklasse kämpft, typischerweise über 90 Kilogramm", "Person von erheblicher Bedeutung oder Einfluss in einem bestimmten Bereich"],
+    "examples_de": [["Der **Schwergewichtschampion** verteidigte seinen Titel erfolgreich", "Zwei **Schwergewichtler** kämpfen heute Abend um die Meisterschaft"], ["Sie ist ein **Schwergewicht** in der Technologiebranche", "Politische **Schwergewichte** nahmen am wichtigen Gipfeltreffen teil"]]
+  },
+  {
+    "lemma": "heckler",
+    "meanings_de": ["störende Person"],
+    "definitions_de": ["Person, die einen Darsteller oder öffentlichen Redner mit spöttischen oder aggressiven Kommentaren unterbricht"],
+    "examples_de": [["Die Sicherheit entfernte den **Störenfried** aus der Comedy-Show", "Der Politiker blieb trotz mehrerer **Zwischenrufer** ruhig"], ["Ein hartnäckiger **Störer** unterbrach die gesamte Präsentation", "Stand-up-Comedians haben oft mit betrunkenen **Zwischenrufern** zu tun"]]
+  },
+  {
+    "lemma": "heckling",
+    "meanings_de": ["störende Unterbrechung"],
+    "definitions_de": ["Handlung, einen öffentlichen Redner oder Darsteller mit lauten, unfreundlichen Kommentaren oder Fragen zu unterbrechen"],
+    "examples_de": [["Die **Zwischenrufe** aus dem Publikum machten es schwer fortzufahren", "Ständige **Störungen** zwangen den Redner, früh zu enden"], ["Die Sicherheit warnte vor jeglichen **Zwischenrufen** während der Rede", "Der Comedian machte die **Zwischenrufe** zu einem Teil seiner Show"]]
+  },
+  {
+    "lemma": "hectare",
+    "meanings_de": ["Flächenmaß"],
+    "definitions_de": ["metrische Flächeneinheit gleich 10.000 Quadratmetern oder etwa 2,47 Acres"],
+    "examples_de": [["Der Bauernhof umfasst fünfzig **Hektar** fruchtbares Land", "Jeder **Hektar** kann mehrere Tonnen Weizen produzieren"], ["Waldbrände zerstörten letzten Sommer Tausende von **Hektar**", "Sie kauften zehn **Hektar** für ihren Weinberg"]]
+  },
+  {
+    "lemma": "hedge",
+    "meanings_de": ["Pflanzenbarriere", "Schutzstrategie"],
+    "definitions_de": ["Zaun oder Grenze, gebildet durch eng wachsende Büsche oder Sträucher", "Weg, sich gegen finanziellen Verlust oder andere widrige Umstände zu schützen"],
+    "examples_de": [["Die hohe **Hecke** bietet Privatsphäre vor den Nachbarn", "Er schnitt die **Hecke** zu einem perfekten Rechteck"], ["Gold zu kaufen ist eine **Absicherung** gegen Inflation", "Sie **sicherte sich ab**, indem sie sich bei mehreren Universitäten bewarb"]]
+  },
+  {
+    "lemma": "hedgehog",
+    "meanings_de": ["stacheliges Säugetier"],
+    "definitions_de": ["kleines nachtaktives Säugetier mit einem Mantel aus scharfen Stacheln zum Schutz"],
+    "examples_de": [["Der **Igel** rollte sich bei Bedrohung zu einer Kugel zusammen", "Ein **Igel** besuchte jeden Abend unseren Garten"], ["Europäische **Igel** halten während der Wintermonate Winterschlaf", "Kinder lieben das niedliche Aussehen von **Igeln**"]]
+  },
+  {
+    "lemma": "hedging",
+    "meanings_de": ["ausweichendes Verhalten", "Risikoschutz"],
+    "definitions_de": ["Vermeidung einer direkten Antwort oder einer klaren Entscheidung", "Finanzstrategie zur Reduzierung des Risikos ungünstiger Preisbewegungen bei Vermögenswerten"],
+    "examples_de": [["Sein ständiges **Ausweichen** frustrierte diejenigen, die klare Antworten suchten", "Hör auf **herumzudrucksen** und sag uns, was du wirklich denkst"], ["Portfolio-**Absicherung** schützt vor Marktabschwüngen", "Währungs**absicherung** reduziert Wechselkursrisiken"]]
+  },
+  {
+    "lemma": "hedonism",
+    "meanings_de": ["Vergnügungsphilosophie"],
+    "definitions_de": ["Glaube, dass Vergnügen oder Glück das höchste Gut und das richtige Ziel des menschlichen Lebens ist"],
+    "examples_de": [["Sein Lebensstil des **Hedonismus** ließ ihn schließlich leer zurück", "Antike griechische Philosophen debattierten über die Vorzüge des **Hedonismus**"], ["Das Resort bediente Gäste, die **Hedonismus** und Luxus suchten", "Kritiker warfen ihnen vor, **Hedonismus** über Verantwortung zu fördern"]]
+  },
+  {
+    "lemma": "heed",
+    "meanings_de": ["sorgfältige Aufmerksamkeit"],
+    "definitions_de": ["sorgfältige Aufmerksamkeit oder Berücksichtigung, die jemandem oder etwas Wichtigem geschenkt wird"],
+    "examples_de": [["**Beachten** Sie die Warnschilder entlang des Weges", "Sie **befolgte** sofort den Rat ihres Arztes"], ["Arbeiter müssen alle Sicherheitsvorschriften **beachten**", "Er **ignorierte** die wiederholten Warnungen"]]
+  },
+  {
+    "lemma": "heft",
+    "meanings_de": ["Gewichtsqualität"],
+    "definitions_de": ["Gewicht oder Schwere von etwas, besonders als Zeichen von Qualität oder Bedeutung"],
+    "examples_de": [["Das Schwert hatte beträchtliches **Gewicht** in seiner Hand", "Man kann das **Gewicht** dieses Qualitätsleders spüren"], ["Das intellektuelle **Gewicht** des Buches beeindruckte die Kritiker", "Sie prüfte das **Gewicht** jeder Melone vor dem Kauf"]]
+  },
+  {
+    "lemma": "hegemony",
+    "meanings_de": ["dominanter Einfluss"],
+    "definitions_de": ["Führung oder Dominanz eines Landes, einer Gruppe oder Einheit über andere in politischen oder kulturellen Bereichen"],
+    "examples_de": [["Das Imperium behielt jahrhundertelang die **Hegemonie** über benachbarte Gebiete", "Unternehmens**hegemonie** bedroht den Wettbewerb kleiner Unternehmen"], ["Kulturelle **Hegemonie** prägt, wie Gesellschaften die Welt sehen", "Sie forderten die **Vorherrschaft** traditioneller Medienunternehmen heraus"]]
+  },
+  {
+    "lemma": "heifer",
+    "meanings_de": ["junge Kuh"],
+    "definitions_de": ["junge weibliche Kuh, die noch kein Kalb bekommen hat"],
+    "examples_de": [["Der Bauer kaufte mehrere **Färsen**, um die Herde zu erweitern", "Eine **Färse** bekommt normalerweise ihr erstes Kalb mit zwei Jahren"], ["Die preisgekrönte **Färse** gewann den ersten Platz auf der Messe", "**Färsen** grasten friedlich auf der Wiese"]]
+  },
+  {
+    "lemma": "heir",
+    "meanings_de": ["Erbschaftsempfänger"],
+    "definitions_de": ["Person, die gesetzlich berechtigt ist, Eigentum, Rang oder Titel von jemandem nach dessen Tod zu erhalten"],
+    "examples_de": [["Der älteste Sohn war **Erbe** des Familienvermögens", "Sie benannte ihre Nichte als **Erbin** in ihrem Testament"], ["Der **Thronfolger** bereitete sich darauf vor, den Thron zu übernehmen", "Mehrere **Erben** stritten vor Gericht um das Erbe"]]
+  },
+  {
+    "lemma": "heirloom",
+    "meanings_de": ["Familienschatz"],
+    "definitions_de": ["wertvoller Gegenstand, der seit mehreren Generationen einer Familie gehört"],
+    "examples_de": [["Die Perlenkette ihrer Großmutter war ein kostbares **Erbstück**", "Die antike Uhr ist ein **Familienerbstück**"], ["**Erbstück**-Tomaten haben Samen, die über Generationen weitergegeben wurden", "Sie schätzte die **Erbdecke**, die ihre Urgroßmutter gemacht hatte"]]
+  },
+  {
+    "lemma": "heist",
+    "meanings_de": ["Rauboperation"],
+    "definitions_de": ["sorgfältig geplanter Diebstahl, insbesondere von wertvollen Gegenständen aus einer Bank oder einem Geschäft"],
+    "examples_de": [["Der Bank**raub** machte landesweit Schlagzeilen", "Die Polizei untersuchte den Juweliergeschäfts**raub** monatelang"], ["Der Film zeigte einen ausgeklügelten Casino**überfall**", "Der Kunst**raub** blieb jahrzehntelang ungelöst"]]
+  },
+  {
+    "lemma": "heliport",
+    "meanings_de": ["Hubschrauberlandeplatz"],
+    "definitions_de": ["ausgewiesener Bereich oder Plattform für Hubschrauber zum Starten und Landen"],
+    "examples_de": [["Der Krankenhaus-**Hubschrauberlandeplatz** ermöglicht schnellen Notfalltransport von Patienten", "Ein privater **Heliport** befand sich auf dem Firmensitz"], ["Wetterbedingungen schlossen den Bergrettungs-**Hubschrauberlandeplatz**", "Die Yacht verfügte über einen eigenen **Heliport** an Deck"]]
+  },
+  {
+    "lemma": "helium",
+    "meanings_de": ["leichtes Gas"],
+    "definitions_de": ["farbloses, geruchloses Edelgas, das leichter als Luft ist, verwendet in Ballons und als Kühlmittel"],
+    "examples_de": [["Partyballons wurden mit **Helium** gefüllt, damit sie schweben", "**Helium** lässt Ihre Stimme hoch und quietschend klingen"], ["Wissenschaftler verwenden flüssiges **Helium** zur Kühlung von Supraleitern", "Die Welt steht vor einem möglichen **Helium**mangel"]]
+  },
+  {
+    "lemma": "helix",
+    "meanings_de": ["Spiralstruktur"],
+    "definitions_de": ["dreidimensionale Spiralkurve, wie ein Korkenzieher oder die Struktur der DNA"],
+    "examples_de": [["DNA bildet eine Doppel**helix**struktur in Zellen", "Die Treppe stieg in einer perfekten **Spirale** auf"], ["Die **Helix**form erscheint überall in der Natur", "Wissenschaftler untersuchten die **Helix**konfiguration des Proteins"]]
+  },
+  {
+    "lemma": "hellfire",
+    "meanings_de": ["ewige Strafe"],
+    "definitions_de": ["Feuer der Hölle, wie in religiösen Texten beschrieben, das ewige Strafe oder Verdammnis repräsentiert"],
+    "examples_de": [["Der Prediger warnte vor dem **Höllenfeuer** für unbußfertige Sünder", "Mittelalterliche Gemälde zeigten Seelen, die im **Höllenfeuer** brennen"], ["Er hielt eine **Feuer und Schwefel** Predigt", "Die Angst vor dem **Höllenfeuer** motivierte religiöse Bekehrung"]]
+  },
+  {
+    "lemma": "hello",
+    "meanings_de": ["Grußwort"],
+    "definitions_de": ["Wort, das als Begrüßung oder zu Beginn eines Telefongesprächs verwendet wird"],
+    "examples_de": [["Sie sagte allen **Hallo**, die den Laden betraten", "**Hallo**, ist jemand zu Hause?"], ["Gehen Sie mit einem freundlichen **Hallo** ans Telefon", "Ein einfaches **Hallo** kann jemandem den Tag erhellen"]]
+  },
+  {
+    "lemma": "helm",
+    "meanings_de": ["Schiffssteuer", "Führungsposition"],
+    "definitions_de": ["Rad oder Pinne, die zum Steuern eines Schiffes oder Bootes verwendet wird", "Position der Führung oder Kontrolle in einer Organisation"],
+    "examples_de": [["Der Kapitän umklammerte das **Steuer** während des Sturms", "Ein erfahrener Seemann übernahm das **Ruder**"], ["Sie übernahm letztes Jahr das **Ruder** des Unternehmens", "Mit neuer Führung am **Ruder** stiegen die Gewinne"]]
+  },
+  {
+    "lemma": "helmsman",
+    "meanings_de": ["Schiffssteuermann"],
+    "definitions_de": ["Person, die ein Schiff oder Boot steuert, insbesondere das zugewiesene Besatzungsmitglied"],
+    "examples_de": [["Der **Steuermann** hielt das Schiff bei Nebel auf Kurs", "Ein erfahrener **Rudergänger** navigierte durch die gefährlichen Gewässer"], ["Die Rennyacht braucht einen geschickten **Steuermann**", "Der **Steuermann** reagierte schnell auf die Befehle des Kapitäns"]]
+  },
+  {
+    "lemma": "helper",
+    "meanings_de": ["Hilfsperson"],
+    "definitions_de": ["Person, die jemand anderem bei Aufgaben hilft oder Unterstützung bietet"],
+    "examples_de": [["Die **Helfer** des Weihnachtsmanns arbeiten hart daran, Spielzeug für Weihnachten herzustellen", "Sie stellte einen **Helfer** für die geschäftige Weihnachtszeit ein"], ["Die Lehrerin teilte jede Woche Klassen**helfer** ein", "Freiwillige **Helfer** verteilten Essen in der Unterkunft"]]
+  },
+  {
+    "lemma": "helping",
+    "meanings_de": ["Essensportion"],
+    "definitions_de": ["Portion oder Servierung von Essen, die einer Person bei einer Mahlzeit gegeben wird"],
+    "examples_de": [["Möchten Sie eine zweite **Portion** Nachtisch?", "Sie servierte allen Gästen großzügige **Portionen**"], ["Das Kind bat um eine weitere **Portion** Kartoffelpüree", "Eine **Portion** Gemüse reicht nicht für wachsende Kinder"]]
+  },
+  {
+    "lemma": "hem",
+    "meanings_de": ["Kleidungskante"],
+    "definitions_de": ["Kante eines Stoff- oder Kleidungsstücks, die umgeschlagen und genäht wurde"],
+    "examples_de": [["Der **Saum** ihres Kleides musste gekürzt werden", "Er verfing sich mit dem Fuß im **Saum** des Vorhangs"], ["Sie nähte den **Saum** sorgfältig von Hand", "Der **Saum** löste sich nach mehreren Wäschen"]]
+  },
+  {
+    "lemma": "hematology",
+    "meanings_de": ["Blutwissenschaft"],
+    "definitions_de": ["Zweig der Medizin, der sich mit der Erforschung von Blut, blutbildenden Organen und Blutkrankheiten befasst"],
+    "examples_de": [["Sie spezialisierte sich auf pädiatrische **Hämatologie** im Krankenhaus", "**Hämatologische** Tests zeigten einen Eisenmangel"], ["Die **Hämatologie**-Abteilung behandelt alle blutbezogenen Erkrankungen", "Fortgeschrittene **Hämatologie**-Forschung konzentriert sich auf Krebsbehandlungen"]]
+  }
+]

@@ -1,0 +1,248 @@
+[
+  {
+    "lemma": "advisory",
+    "meanings_de": ["Warnhinweis", "Beratungsgremium"],
+    "definitions_de": ["Offizielle Mitteilung oder Warnung von Behörden über potenzielle Risiken oder notwendige Vorsichtsmaßnahmen", "Gruppe von Experten, die zur Beratung und Empfehlung in spezifischen Angelegenheiten ernannt wird"],
+    "examples_de": [["Der Wetterdienst gab eine **Sturmwarnung** für die Küstengebiete heraus", "**Reisewarnungen** informierten Touristen über den regionalen Konflikt"], ["Der Präsident berief einen **Wirtschaftsrat** zur Politikberatung ein", "Der medizinische **Beirat** empfahl neue Impfrichtlinien für Schulen"]]
+  },
+  {
+    "lemma": "advocacy",
+    "meanings_de": ["Öffentliche Interessenvertretung"],
+    "definitions_de": ["Aktive öffentliche Unterstützung oder Empfehlung einer bestimmten Sache, Politik oder Gruppe, oft durch organisierte Bemühungen"],
+    "examples_de": [["Ihr lebenslanges **Engagement** für Kinderrechte erhielt internationale Anerkennung", "Die Organisation konzentriert sich auf die **Interessenvertretung** für Umweltschutzmaßnahmen"], ["**Patientenverbände** helfen bei der Navigation durch komplexe Gesundheitssysteme", "Ihre **Lobbyarbeit** führte letztes Jahr zu bedeutenden Gesetzesänderungen"]]
+  },
+  {
+    "lemma": "aeon",
+    "meanings_de": ["Unermesslicher Zeitraum"],
+    "definitions_de": ["Unbestimmt langer Zeitraum, der oft Millionen oder Milliarden Jahre in geologischen oder kosmischen Zusammenhängen umfasst"],
+    "examples_de": [["Geologische Formationen entwickelten sich über unzählige **Äonen** der Erdgeschichte", "Das Universum existiert seit **Äonen** jenseits menschlicher Vorstellungskraft"], ["Antike Philosophen betrachteten die **Weltzeitalter** der kosmischen Existenz", "Diese Gesteinsschichten repräsentieren **Jahrmilliarden** sedimentärer Ablagerungsprozesse"]]
+  },
+  {
+    "lemma": "aeration",
+    "meanings_de": ["Belüftungsprozess"],
+    "definitions_de": ["Prozess der Luftzufuhr in ein Material oder eine Substanz zur Verbesserung ihrer Qualität oder Eigenschaften"],
+    "examples_de": [["Die richtige **Bodenbelüftung** hilft Pflanzenwurzeln, Nährstoffe effektiv aufzunehmen", "Der Wein profitiert von der **Belüftung** vor dem Servieren"], ["Die **Rasenbelüftung** verhindert Bodenverdichtung und fördert gesundes Graswachstum", "Die Wasseraufbereitungsanlage nutzt **Belüftung** zur Entfernung gelöster Gase"]]
+  },
+  {
+    "lemma": "aerial",
+    "meanings_de": ["Empfangsantenne", "Luftbildperspektive"],
+    "definitions_de": ["Gerät, das elektromagnetische Wellen für die Kommunikation empfängt oder sendet", "Fotografie oder Ansicht von oben, typischerweise aus Flugzeugen aufgenommen"],
+    "examples_de": [["Die **Fernsehantenne** muss für besseren Empfang neu ausgerichtet werden", "Gestern installierten sie eine neue **Antenne** auf dem Dach"], ["Die **Luftbildaufnahme** enthüllte bisher unbekannte archäologische Stätten", "**Luftaufnahmen** halfen bei der Bewertung der Hochwasserschäden"]]
+  },
+  {
+    "lemma": "aerodrome",
+    "meanings_de": ["Kleine Flugplatzanlage"],
+    "definitions_de": ["Kleiner Flughafen oder Flugplatz, besonders für Privatflugzeuge oder militärische Zwecke genutzt"],
+    "examples_de": [["Die historischen Flugzeuge versammelten sich zur Ausstellung auf dem örtlichen **Flugplatz**", "Privatpiloten bevorzugen oft kleinere **Flugplätze** gegenüber geschäftigen Flughäfen"], ["Der militärische **Fliegerhorst** diente während des Krieges als Ausbildungsbasis", "Wetterbedingungen erzwangen eine Notlandung auf dem nächsten **Landeplatz**"]]
+  },
+  {
+    "lemma": "aeroplane",
+    "meanings_de": ["Motorflugzeug"],
+    "definitions_de": ["Motorgetriebenes Fluggerät mit festen Flügeln, das durch Vorwärtsbewegung in der Luft Auftrieb erhält"],
+    "examples_de": [["Das **Flugzeug** kreiste über dem Flughafen und wartete auf Landeerlaubnis", "Kinder beobachteten aufgeregt startende **Flugzeuge** über ihnen"], ["Frühe **Flugzeugkonstruktionen** unterschieden sich stark von modernen Maschinen", "Das Museum zeigt historische **Flugzeuge** aus der goldenen Ära der Luftfahrt"]]
+  },
+  {
+    "lemma": "aerosol",
+    "meanings_de": ["Sprühdosensystem", "Schwebstoffgemisch"],
+    "definitions_de": ["Druckbehälter, der Inhalt als feinen Sprühnebel abgibt", "Suspension feiner fester Partikel oder Flüssigkeitströpfchen in Gas"],
+    "examples_de": [["Sie benutzte jeden Morgen ein **Deospray** vor der Arbeit", "Die **Sprühfarbe** machte die Arbeit viel schneller"], ["Atmosphärische **Aerosole** beeinflussen Klimamuster und Luftqualität erheblich", "Wissenschaftler untersuchen **Schwebstoffpartikel** zum Verständnis von Schadstofftransportmechanismen"]]
+  },
+  {
+    "lemma": "aerospace",
+    "meanings_de": ["Luft- und Raumfahrtindustrie"],
+    "definitions_de": ["Technologie- und Industriezweig, der sich sowohl mit Luftfahrt als auch mit Raumfahrt befasst"],
+    "examples_de": [["Das **Raumfahrtunternehmen** entwickelt Satelliten und Raumfahrzeuge für Erkundungen", "Sie studierte **Luft- und Raumfahrttechnik** an der Universität"], ["Große **Raumfahrthersteller** konkurrieren regelmäßig um staatliche Verteidigungsaufträge", "Die **Luft- und Raumfahrtbranche** treibt technologische Innovation in vielen Bereichen voran"]]
+  },
+  {
+    "lemma": "aesthetic",
+    "meanings_de": ["Schönheitsempfindungsprinzip", "Künstlerischer Stilansatz"],
+    "definitions_de": ["Gesamtheit der Prinzipien, die der Wertschätzung von Schönheit und künstlerischem Geschmack zugrunde liegen", "Bestimmte Theorie oder Auffassung von Schönheit oder Kunst, charakteristisch für eine Person, Kultur oder Bewegung"],
+    "examples_de": [["Die minimalistische **Ästhetik** betont Einfachheit und funktionale Gestaltungselemente", "Ihre persönliche **Ästhetik** bevorzugt kräftige Farben und geometrische Muster"], ["Die japanische **Ästhetik** schätzt Harmonie zwischen Natur und Design", "Moderne Architektur umarmt oft eine industrielle **Ästhetik** in städtischen Umgebungen"]]
+  },
+  {
+    "lemma": "aether",
+    "meanings_de": ["Klassisches fünftes Element", "Historisches Raummedium"],
+    "definitions_de": ["In der antiken Philosophie die reine Essenz, die Götter atmeten und den Raum über der irdischen Sphäre füllte", "Historisches Konzept eines unsichtbaren Mediums, von dem man einst dachte, es durchdringe den gesamten Raum für die Lichtübertragung"],
+    "examples_de": [["Die alten Griechen glaubten, **Äther** sei die göttliche Substanz des Himmels", "Alchemisten betrachteten **Äther** als fünftes Element neben Erde und Feuer"], ["Wissenschaftler theoretisierten einst, dass Licht durch den leuchtenden **Äther** reise", "Das Michelson-Morley-Experiment widerlegte die Existenz des **Äthers**"]]
+  },
+  {
+    "lemma": "affaire",
+    "meanings_de": ["Romantische Liebschaftsskandal", "Komplexe Angelegenheit"],
+    "definitions_de": ["Geheime romantische oder sexuelle Beziehung, besonders eine, die öffentlichen Skandal verursacht", "Komplizierte oder mysteriöse Situation oder Abfolge von Ereignissen"],
+    "examples_de": [["Die politische **Affäre** beherrschte wochenlang die Zeitungsschlagzeilen", "Ihre geheime **Affäre** endete, als jemand private E-Mails durchsickern ließ"], ["Die ganze **Angelegenheit** wurde zunehmend komplex, als Details auftauchten", "Die diplomatische **Affäre** erforderte sorgfältige Behandlung durch beide Regierungen"]]
+  },
+  {
+    "lemma": "affection",
+    "meanings_de": ["Liebevolle Zuneigung"],
+    "definitions_de": ["Sanftes Gefühl der Zuneigung, Fürsorge oder des Mögens für jemanden oder etwas"],
+    "examples_de": [["Das Kind zeigte große **Zuneigung** zu seinem neuen Welpen", "Seine **Liebe** zur klassischen Musik begann in der Kindheit"], ["Öffentliche **Zuneigungsbekundungen** sind in formellen Umgebungen unüblich", "Der Brief drückte tiefe **Zuneigung** für Familie und Freunde aus"]]
+  },
+  {
+    "lemma": "affidavit",
+    "meanings_de": ["Eidesstattliche Erklärung"],
+    "definitions_de": ["Schriftliche Erklärung, die durch Eid oder Versicherung an Eides statt bestätigt wird, zur Verwendung als Beweis vor Gericht"],
+    "examples_de": [["Die Zeugin unterzeichnete eine **eidesstattliche Erklärung** über ihre Beobachtungen", "Gerichtsverfahren erfordern **eidesstattliche Versicherungen** zur Feststellung bestimmter Tatsachen"], ["Die **Erklärung** muss notariell beglaubigt werden, um rechtsgültig zu sein", "Er reichte eine **eidesstattliche Versicherung** zur Unterstützung seines Versicherungsanspruchs ein"]]
+  },
+  {
+    "lemma": "affiliate",
+    "meanings_de": ["Angeschlossene Organisation"],
+    "definitions_de": ["Person oder Organisation, die offiziell mit einer größeren Einrichtung oder Organisation verbunden ist"],
+    "examples_de": [["Der Lokalsender ist ein **Tochterunternehmen** des nationalen Netzwerks", "**Universitätsangehörige** erhalten spezielle Bibliothekszugangsrechte"], ["Unser Unternehmen hat **Niederlassungen** in zwölf verschiedenen Ländern weltweit", "Das Forschungszentrum wurde eine **Zweigstelle** der medizinischen Fakultät"]]
+  },
+  {
+    "lemma": "affinity",
+    "meanings_de": ["Natürliche Anziehungsverbindung"],
+    "definitions_de": ["Spontane oder natürliche Vorliebe für jemanden oder etwas, oft basierend auf gemeinsamen Eigenschaften oder Interessen"],
+    "examples_de": [["Sie fühlte eine sofortige **Verbundenheit** mit ihren neuen Kollegen", "Seine **Affinität** zu Sprachen machte ihn zu einem ausgezeichneten Übersetzer"], ["Der Künstler zeigte eine starke **Neigung** zum abstrakten Expressionismus", "Kulturelle **Verwandtschaft** beeinflusst oft internationale Geschäftspartnerschaften erheblich"]]
+  },
+  {
+    "lemma": "affirmation",
+    "meanings_de": ["Positive Bestätigungserklärung"],
+    "definitions_de": ["Handlung oder Prozess des Bestätigens von etwas oder des Bestätigt-Werdens, einschließlich emotionaler Unterstützung oder Ermutigung"],
+    "examples_de": [["Tägliche **Affirmationen** helfen beim Aufbau von Selbstvertrauen und positivem Denken", "Das Gericht verlangt die **Bestätigung** der wahrheitsgemäßen Zeugenaussage"], ["Ihre ständige **Bestärkung** half ihm durch schwierige Zeiten", "Das Dokument benötigte eine offizielle **Bestätigung** durch die Vorstandsmitglieder"]]
+  },
+  {
+    "lemma": "affirmative",
+    "meanings_de": ["Positive Zustimmungsantwort"],
+    "definitions_de": ["Aussage oder Zeichen, das Zustimmung oder Einverständnis anzeigt oder ausdrückt, dass etwas wahr oder gültig ist"],
+    "examples_de": [["Sie nickte **bejahend** mit dem Kopf, als sie gefragt wurde", "Das Komitee stimmte dem Vorschlag **zustimmend** zu"], ["Eine **positive** Antwort erfordert sofortiges Handeln unsererseits", "Das Referendum wurde mit überwältigender **Ja-Mehrheit** angenommen"]]
+  },
+  {
+    "lemma": "affix",
+    "meanings_de": ["Angehängtes Wortelement"],
+    "definitions_de": ["Wortelement wie Präfix oder Suffix, das einem Grundwort hinzugefügt wird, um seine Bedeutung zu verändern"],
+    "examples_de": [["Das **Affix** 'un-' ändert die Bedeutung ins Gegenteil", "Das Englische verwendet viele **Affixe** aus dem Lateinischen und Griechischen"], ["Schüler lernten im Unterricht, wie **Wortanhänge** Bedeutungen verändern", "Das **Suffix** '-heit' verwandelt Adjektive in abstrakte Substantive"]]
+  },
+  {
+    "lemma": "affliction",
+    "meanings_de": ["Leiden oder Bedrängnis"],
+    "definitions_de": ["Etwas, das Schmerz, Leiden oder Bedrängnis verursacht, besonders eine Krankheit oder anhaltendes Problem"],
+    "examples_de": [["Die Dürre war ein schreckliches **Leiden** für die Bauerngemeinschaften", "Ihr Haupt**leiden** war chronische Arthritis in beiden Knien"], ["Seelische **Gebrechen** erfordern ebenso viel Pflege wie körperliche", "Die wirtschaftliche **Not** betraf Millionen während der Rezessionsjahre"]]
+  },
+  {
+    "lemma": "affluence",
+    "meanings_de": ["Wohlstand und Reichtum"],
+    "definitions_de": ["Zustand des Besitzes von reichlichem Vermögen, Eigentum oder materiellen Gütern, oft durch Lebensstil zur Schau gestellt"],
+    "examples_de": [["Der **Wohlstand** der Nachbarschaft zeigte sich an den Luxusautos", "Wachsender **Reichtum** führte landesweit zu erhöhten Konsumausgaben"], ["Ihr plötzlicher **Wohlstand** kam von einem erfolgreichen Geschäftsunternehmen", "Das Land erlebte während des Wirtschaftsbooms beispiellosen **Reichtum**"]]
+  },
+  {
+    "lemma": "affluent",
+    "meanings_de": ["Wohlhabende Gesellschaftsschicht", "Zufluss Nebengewässer"],
+    "definitions_de": ["Gruppe von Menschen mit reichlichem Vermögen oder materiellen Besitztümern", "Bach oder Fluss, der in einen größeren Fluss oder See mündet"],
+    "examples_de": [["Die **Wohlhabenden** unterstützen oft wohltätige Zwecke durch große Spenden", "Privatschulen bedienen hauptsächlich Kinder aus **begüterten** Familien"], ["Der Fluss hat mehrere **Zuflüsse**, die aus Bergtälern kommen", "Dieser **Nebenfluss** trägt im Frühjahr erhebliche Wassermengen bei"]]
+  },
+  {
+    "lemma": "afforestation",
+    "meanings_de": ["Aufforstungsprozess"],
+    "definitions_de": ["Anlage von Wald oder Waldgebiet in einem Gebiet, in dem zuvor keine Baumbedeckung vorhanden war"],
+    "examples_de": [["Die Regierung startete ein **Aufforstungsprogramm** zur Bekämpfung der Erosion", "**Aufforstungsbemühungen** helfen, Kohlenstoffemissionen aus industriellen Aktivitäten auszugleichen"], ["Großflächige **Aufforstung** verwandelte die karge Landschaft über Jahrzehnte", "Gemeinschaftliche **Aufforstungsprojekte** bieten sowohl ökologische als auch wirtschaftliche Vorteile"]]
+  },
+  {
+    "lemma": "affray",
+    "meanings_de": ["Öffentliche Gewaltstörung"],
+    "definitions_de": ["Fall von Kampf oder Gewalt an einem öffentlichen Ort, der den Frieden stört"],
+    "examples_de": [["Die Polizei traf schnell ein, um die **Schlägerei** draußen aufzulösen", "Die **Rauferei** führte zu mehreren Festnahmen und leichten Verletzungen"], ["Zeugen beschrieben den **Tumult** als plötzlich und völlig unerwartet", "Sicherheitskameras zeichneten die gesamte **Schlägerei** auf Video auf"]]
+  },
+  {
+    "lemma": "berber",
+    "meanings_de": ["Nordafrikanisches Volk", "Teppichwebstil"],
+    "definitions_de": ["Angehöriger indigener ethnischer Gruppen Nordafrikas, besonders in Marokko, Algerien und umliegenden Regionen", "Teppichart, die sich durch charakteristische Schlingenkonstruktion und natürliche Farbmuster auszeichnet"],
+    "examples_de": [["Die **Berber**-Gemeinschaften bewahren ihre traditionellen Sprachen und Bräuche", "Viele **Berber** leben in der Atlasgebirgsregion"], ["Der Flur ist mit strapazierfähigem **Berberteppich** in neutralen Tönen ausgelegt", "**Berberteppiche** werden für ihre einzigartigen geometrischen Muster geschätzt"]]
+  },
+  {
+    "lemma": "berg",
+    "meanings_de": ["Eisbergmasse"],
+    "definitions_de": ["Große Eismasse, die im Meer treibt, abgebrochen von einem Gletscher oder Schelfeis"],
+    "examples_de": [["Das Schiff navigierte vorsichtig um den massiven **Eisberg** herum", "Der Klimawandel führt dazu, dass mehr **Eisberge** von Gletschern abbrechen"], ["Unterwasserteile von **Eisbergen** stellen ernsthafte Navigationsgefahren dar", "Der **Eisberg** trieb mit der Meeresströmung nach Süden"]]
+  },
+  {
+    "lemma": "berliner",
+    "meanings_de": ["Berliner Stadtbewohner", "Marmeladengefülltes Gebäck"],
+    "definitions_de": ["Person, die in Berlin, Deutschland, lebt oder von dort stammt", "Traditionelles deutsches Gebäck mit Marmeladen- oder Geleefüllung, ohne zentrales Loch"],
+    "examples_de": [["Als geborene **Berlinerin** kannte sie alle Geheimnisse der Stadt", "Viele **Berliner** pendeln das ganze Jahr über mit dem Fahrrad"], ["Die Bäckerei verkauft frische **Berliner** mit Himbeerfüllung", "Während der Karnevalszeit sind **Berliner** besonders beliebte Leckereien"]]
+  },
+  {
+    "lemma": "bermudian",
+    "meanings_de": ["Bermuda-Inselbewohner"],
+    "definitions_de": ["Person, die auf Bermuda lebt oder von dort stammt, oder sich auf das Inselterritorium beziehend"],
+    "examples_de": [["Der **bermudische** Führer zeigte Touristen die besten Strände", "Viele **Bermuder** arbeiten in der internationalen Versicherungsbranche"], ["**Bermudische** Architektur zeichnet sich durch charakteristische weiße Dächer zur Regenwassersammlung aus", "Sie heiratete einen **Bermuder** und zog auf die Insel"]]
+  },
+  {
+    "lemma": "berry",
+    "meanings_de": ["Kleine saftige Frucht"],
+    "definitions_de": ["Kleine rundliche saftige Frucht ohne Stein, die typischerweise Samen enthält"],
+    "examples_de": [["Wilde **Beeren** wachsen reichlich entlang des Waldweges", "Der Kuchen wurde mit frischen **Beeren** aus dem Garten gemacht"], ["Vögel ernähren sich den ganzen Herbst über von **Beeren**", "Viele **Beeren** sind reich an Vitaminen und Antioxidantien"]]
+  },
+  {
+    "lemma": "beta",
+    "meanings_de": ["Griechischer Alphabetbuchstabe", "Software-Testversion"],
+    "definitions_de": ["Zweiter Buchstabe des griechischen Alphabets, verwendet in verschiedenen wissenschaftlichen und mathematischen Kontexten", "Vorläufige Version einer Software, die vor der endgültigen Version zum Testen freigegeben wird"],
+    "examples_de": [["Das **Beta**-Symbol erscheint häufig in Physikgleichungen", "Wissenschaftler verwenden **Beta** zur Bezeichnung des zweiten Elements in Reihen"], ["Benutzer meldeten mehrere Fehler während der **Beta**-Testphase", "Die **Beta-Version** enthält neue Funktionen zur Bewertung"]]
+  },
+  {
+    "lemma": "bhutanese",
+    "meanings_de": ["Bhutanischer Staatsbürger"],
+    "definitions_de": ["Person aus Bhutan oder sich auf das Himalaya-Königreich und seine Kultur beziehend"],
+    "examples_de": [["Die **bhutanische** Regierung misst stattdessen das Bruttonationalglück", "Traditionelle **bhutanische** Architektur verwendet keine Nägel beim Bau"], ["Viele **Bhutaner** praktizieren den Buddhismus als ihre Hauptreligion", "Der **bhutanische** Delegierte sprach auf der Umweltkonferenz"]]
+  },
+  {
+    "lemma": "bigfoot",
+    "meanings_de": ["Legendäre Waldkreatur"],
+    "definitions_de": ["Große, behaarte, affenähnliche Kreatur der nordamerikanischen Folklore, die angeblich Wälder bewohnt"],
+    "examples_de": [["**Bigfoot**-Sichtungen werden regelmäßig in den Wäldern des pazifischen Nordwestens gemeldet", "Die Dokumentation untersuchte Beweise für die mögliche Existenz von **Bigfoot**"], ["Viele Kulturen haben Legenden, die dem **Bigfoot**-Mythos ähneln", "**Bigfoot** ist zu einer Ikone der Kryptozoologie und Populärkultur geworden"]]
+  },
+  {
+    "lemma": "bighorn",
+    "meanings_de": ["Wildes Bergschaf"],
+    "definitions_de": ["Wildschaf, das in nordamerikanischen Bergen heimisch ist, bekannt für große gebogene Hörner bei Männchen"],
+    "examples_de": [["**Dickhornschafe** navigieren mit bemerkenswerter Geschicklichkeit steile Bergklippen", "Die Hörner des männlichen **Dickhornschafs** können bis zu dreißig Pfund wiegen"], ["Parkbesucher entdecken oft **Dickhornherden** in der Nähe von Felsvorsprüngen", "**Dickhornpopulationen** haben sich durch Naturschutzbemühungen erholt"]]
+  },
+  {
+    "lemma": "bikini",
+    "meanings_de": ["Zweiteiliges Badebekleidungsstück"],
+    "definitions_de": ["Damen-Zweiteiler-Badeanzug mit separatem Ober- und Unterteil, der typischerweise die Körpermitte freilegt"],
+    "examples_de": [["Sie kaufte einen neuen **Bikini** für den Strandurlaub", "Das Geschäft stellte bunte **Bikinis** im Schaufenster aus"], ["**Bikini**-Stile reichen von konservativ bis sehr freizügig", "Der erste **Bikini** sorgte 1946 bei seiner Einführung für Kontroversen"]]
+  },
+  {
+    "lemma": "biro",
+    "meanings_de": ["Kugelschreiber-Instrument"],
+    "definitions_de": ["Kugelschreiber, der dicke ölbasierte Tinte verwendet, benannt nach seinem Erfinder László Bíró"],
+    "examples_de": [["Sie unterzeichnete den Vertrag mit einem blauen **Kugelschreiber**", "Schüler müssen Prüfungen nur mit schwarzem **Kuli** ausfüllen"], ["Der **Kugelschreiber** revolutionierte das Schreiben, als er Füllfederhalter ersetzte", "Halten Sie einen Ersatz**kugelschreiber** bereit, falls der erste leer wird"]]
+  },
+  {
+    "lemma": "blackfoot",
+    "meanings_de": ["Indianische Konföderation"],
+    "definitions_de": ["Angehöriger eines indigenen amerikanischen Volkes, das ursprünglich Gebiete in Montana, Alberta und Saskatchewan bewohnte"],
+    "examples_de": [["Die **Blackfoot**-Nation hat eine reiche Tradition des Geschichtenerzählens", "**Blackfoot**-Krieger waren für ihre Reitkünste bekannt"], ["Traditionelle **Blackfoot**-Zeremonien werden bis heute fortgesetzt", "Das Museum zeigt eine umfangreiche **Blackfoot**-Artefaktsammlung"]]
+  },
+  {
+    "lemma": "blimp",
+    "meanings_de": ["Luftschiff ohne Gerüst"],
+    "definitions_de": ["Nicht-starres Luftschiff, das seine Form durch inneren Gasdruck aufrechterhält, oft für Werbung verwendet"],
+    "examples_de": [["Das Werbe**luftschiff** kreiste über dem Fußballstadion", "Die Fernsehberichterstattung nutzte ein **Luftschiff** für Luftaufnahmen"], ["**Luftschiffe** benötigen weniger Infrastruktur als traditionelle starre Luftschiffe", "Das Firmen**luftschiff** tourte durch Großstädte, um ihr Produkt zu bewerben"]]
+  },
+  {
+    "lemma": "bop",
+    "meanings_de": ["Jazz-Musikstil"],
+    "definitions_de": ["Jazz-Musikstil, charakterisiert durch schnelles Tempo, komplexe Harmonien und Improvisation, entwickelt in den 1940er Jahren"],
+    "examples_de": [["Charlie Parker war Pionier der **Bebop**-Bewegung in der Jazzgeschichte", "Musiker versammelten sich abends, um **Bebop** im Club zu spielen"], ["Die **Bebop**-Ära verwandelte Jazz von Tanzmusik zu Kunst", "Das Erlernen von **Bebop** erfordert fortgeschrittene musikalische Technik"]]
+  },
+  {
+    "lemma": "bodhisattva",
+    "meanings_de": ["Erleuchtungssuchender Buddhist"],
+    "definitions_de": ["Im Buddhismus ein Wesen, das Erleuchtung erlangt hat, aber das Nirvana aufschiebt, um anderen bei der Erleuchtung zu helfen"],
+    "examples_de": [["Der **Bodhisattva** gelobte, alle fühlenden Wesen zu retten", "Tempelwände zeigten Gemälde verschiedener **Bodhisattva**-Figuren"], ["Mitgefühl ist die wichtigste Tugend eines **Bodhisattva**", "Viele Buddhisten beten zum **Bodhisattva** Avalokiteshvara um Führung"]]
+  },
+  {
+    "lemma": "boer",
+    "meanings_de": ["Afrikaaner Bauernnachkomme"],
+    "definitions_de": ["Nachkomme niederländischsprachiger Siedler in Südafrika, historisch mit Landwirtschaft und ländlichem Leben verbunden"],
+    "examples_de": [["Die **Buren**-Bauern gründeten Siedlungen über das Veld", "Die **Buren**kultur beeinflusste stark die südafrikanische Geschichte und Entwicklung"], ["Traditionelle **Buren**küche bietet herzhafte Fleisch- und Gemüsegerichte", "Das Museum bewahrt Artefakte aus frühen **Buren**höfen"]]
+  },
+  {
+    "lemma": "bohemian",
+    "meanings_de": ["Unkonventioneller Künstlertyp"],
+    "definitions_de": ["Person, besonders ein Künstler oder Schriftsteller, die einen unkonventionellen Lebensstil führt, oft in Armut"],
+    "examples_de": [["Der **Bohemien**-Künstler lebte in einem beengten Atelierapartment", "Paris zog **bohemische** Schriftsteller und Maler in den 1920er Jahren an"], ["Ihr **Boheme**-Lebensstil schockierte ihre konservativen Familienmitglieder", "Das Viertel wurde zu einer **Bohème**-Enklave für kreative Typen"]]
+  }
+]

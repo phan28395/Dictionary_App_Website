@@ -1,0 +1,272 @@
+[
+  {
+    "lemma": "tempering",
+    "meanings_de": ["Wärmebehandlungsverfahren"],
+    "definitions_de": ["Verfahren, bei dem Metall oder Glas erhitzt und abgekühlt wird, um die gewünschte Härte und Festigkeit zu erreichen"],
+    "examples_de": [["Die Schwertklinge wurde durch **Vergüten** haltbarer gemacht", "Beim **Härten** von Glas entsteht Sicherheitsglas, das in kleine Stücke zerbricht"]]
+  },
+  {
+    "lemma": "tempest",
+    "meanings_de": ["heftiger Sturm"],
+    "definitions_de": ["Gewaltiger Sturm mit extrem starken Winden, oft begleitet von Regen, Hagel oder Schnee"],
+    "examples_de": [["Der **Sturm** zerstörte mehrere Boote im Hafen", "In Shakespeares Theaterstück erzeugt Prospero einen magischen **Gewittersturm**"]]
+  },
+  {
+    "lemma": "template",
+    "meanings_de": ["Muster zur Herstellung", "Dokumentenformat"],
+    "definitions_de": ["Physisches Muster oder Form, das als Vorlage für die Herstellung von etwas dient", "Vorgefertigtes Format oder Layout, das als Ausgangspunkt für Dokumente oder Projekte verwendet wird"],
+    "examples_de": [["Der Schreiner verwendete eine **Schablone** für die gebogenen Teile", "Wir brauchen eine **Vorlage** zum präzisen Zuschneiden dieser Holzformen"], ["Laden Sie die Berichts**vorlage** von der Firmenwebsite herunter", "Die Design**vorlage** spart stundenlange Formatierungsarbeit"]]
+  },
+  {
+    "lemma": "tempo",
+    "meanings_de": ["musikalische Geschwindigkeit"],
+    "definitions_de": ["Geschwindigkeit, mit der ein Musikstück gespielt oder gesungen wird"],
+    "examples_de": [["Der Dirigent erhöhte das **Tempo** während des letzten Satzes", "Tanzmusik hat typischerweise ein schnelleres **Tempo** als Balladen"]]
+  },
+  {
+    "lemma": "temporal",
+    "meanings_de": ["zeitbezogen", "Schädelknochen"],
+    "definitions_de": ["Sich auf Zeit oder die zeitliche Abfolge beziehend, insbesondere im Gegensatz zur Ewigkeit", "Einer von zwei Knochen, die einen Teil der Seite und Basis des Schädels bilden"],
+    "examples_de": [["Die **zeitlichen** Aspekte des Projekts erfordern sorgfältige Planung", "Wissenschaftler untersuchen **temporale** Muster beim Klimawandel"], ["Das **Schläfenbein** schützt wichtige Strukturen im Ohr", "Ein Bruch des **Schläfenbeins** erfordert sofortige medizinische Behandlung"]]
+  },
+  {
+    "lemma": "temptation",
+    "meanings_de": ["Verlangen nach Falschem"],
+    "definitions_de": ["Starker Drang oder Wunsch, etwas zu haben oder zu tun, besonders etwas, das als falsch oder unklug gilt"],
+    "examples_de": [["Sie widerstand der **Versuchung**, während der Besprechung aufs Handy zu schauen", "Die **Verlockung** des leichten Geldes brachte ihn in Schwierigkeiten"]]
+  },
+  {
+    "lemma": "ten",
+    "meanings_de": ["Zahl nach neun"],
+    "definitions_de": ["Grundzahl, die die Summe von neun und eins darstellt"],
+    "examples_de": [["Während eines Basketballspiels sind **zehn** Spieler auf dem Feld", "Sie zählte **zehn** Vögel auf der Telefonleitung"]]
+  },
+  {
+    "lemma": "tenacity",
+    "meanings_de": ["beharrliche Entschlossenheit"],
+    "definitions_de": ["Eigenschaft, entschlossen zu sein, etwas zu tun oder zu erreichen, gekennzeichnet durch anhaltende Bemühungen trotz Schwierigkeiten"],
+    "examples_de": [["Ihre **Hartnäckigkeit** beim Verfolgen ihrer Ziele beeindruckte alle in der Firma", "Die **Beharrlichkeit** des Bergsteigers half ihm, den Gipfel zu erreichen"]]
+  },
+  {
+    "lemma": "tenancy",
+    "meanings_de": ["Mietvertragszeit"],
+    "definitions_de": ["Besitz von Land oder Eigentum als Mieter unter einem Miet- oder Pachtvertrag"],
+    "examples_de": [["Ihr **Mietverhältnis** endet Ende nächsten Monats", "Der Vermieter beschloss, das **Pachtverhältnis** um ein weiteres Jahr zu verlängern"]]
+  },
+  {
+    "lemma": "tenant",
+    "meanings_de": ["Immobilienmieter"],
+    "definitions_de": ["Person, die Land oder Eigentum von einem Vermieter gemietet hat"],
+    "examples_de": [["Der **Mieter** zahlt die Miete am ersten Tag jedes Monats", "Neue **Mieter** müssen Referenzen und eine Kaution vorlegen"]]
+  },
+  {
+    "lemma": "tenderloin",
+    "meanings_de": ["erstklassiges Fleischstück"],
+    "definitions_de": ["Zartes Fleischstück aus der Lende von Rind oder Schwein"],
+    "examples_de": [["Der Koch bereitete Rinder**filet** für das besondere Abendessen zu", "Schweine**filet** ist eine ausgezeichnete Wahl für den Sonntagsbraten"]]
+  },
+  {
+    "lemma": "tending",
+    "meanings_de": ["Pflegehandlung"],
+    "definitions_de": ["Handlung des Kümmerns oder der Pflege von etwas oder jemandem"],
+    "examples_de": [["Die **Pflege** des Gartens erfordert im Sommer tägliche Aufmerksamkeit", "Ihre sorgfältige **Betreuung** der Patienten wurde von Vorgesetzten gelobt"]]
+  },
+  {
+    "lemma": "tendon",
+    "meanings_de": ["Muskel verbindendes Gewebe"],
+    "definitions_de": ["Flexible, aber unelastische Schnur aus faserigem Gewebe, die Muskel mit Knochen verbindet"],
+    "examples_de": [["Der Sportler zerrte sich während des Rennens eine **Sehne** im Knöchel", "Verletzungen der Achilles**sehne** sind bei Läufern und Tänzern häufig"]]
+  },
+  {
+    "lemma": "tenement",
+    "meanings_de": ["Mietshaus"],
+    "definitions_de": ["Großes Gebäude, das in mehrere separate Wohnungen unterteilt ist, typischerweise in schlechtem Zustand"],
+    "examples_de": [["Viele Einwanderer lebten in überfüllten **Mietshäusern** in der Stadt", "Das alte **Mietshaus** wurde zu modernen Luxuswohnungen renoviert"]]
+  },
+  {
+    "lemma": "tenet",
+    "meanings_de": ["Kernglaubensprinzip"],
+    "definitions_de": ["Prinzip oder Überzeugung, das von einer Gruppe oder Organisation als wahr angesehen wird"],
+    "examples_de": [["Meinungsfreiheit ist ein grundlegender **Grundsatz** der Demokratie", "Zu den **Prinzipien** des Unternehmens gehören Ehrlichkeit und Kundenzufriedenheit"]]
+  },
+  {
+    "lemma": "tenon",
+    "meanings_de": ["Holzverbindungszapfen"],
+    "definitions_de": ["Hervorstehendes Holzstück, das zum Einsetzen in eine Nut in einem anderen Stück gefertigt wird"],
+    "examples_de": [["Der Schreiner formte den **Zapfen** sorgfältig, damit er in die Nut passte", "Traditionelle Möbel verwenden **Zapfenverbindungen** für Stabilität"]]
+  },
+  {
+    "lemma": "tenor",
+    "meanings_de": ["männliche Singstimme", "allgemeiner Charakter"],
+    "definitions_de": ["Erwachsene männliche Singstimme zwischen Bariton und Countertenor", "Allgemeine Bedeutung, Charakter oder Richtung von etwas"],
+    "examples_de": [["Der **Tenor** sang die Hauptrolle in der Oper wunderschön", "Pavarotti war einer der berühmtesten **Tenöre** der Geschichte"], ["Der **Tenor** des Treffens war positiv und konstruktiv", "Ihre Rede veränderte den gesamten **Grundton** der Debatte"]]
+  },
+  {
+    "lemma": "tense",
+    "meanings_de": ["Verbzeitform", "Spannungszustand"],
+    "definitions_de": ["Grammatische Form eines Verbs, die die Zeit der Handlung ausdrückt", "Zustand mentaler oder emotionaler Anspannung aufgrund von Stress oder Angst"],
+    "examples_de": [["Schüler müssen lernen, die Vergangenheits**zeit** korrekt zu verwenden", "Das Perfekt zeigt abgeschlossene Handlungen mit aktueller Relevanz"], ["Die **angespannte** Atmosphäre machte alle während der Verhandlungen unbehaglich", "Muskeln können durch langes Sitzen am Schreibtisch **verspannt** werden"]]
+  },
+  {
+    "lemma": "tentacle",
+    "meanings_de": ["flexibles Tieranhängsel"],
+    "definitions_de": ["Langes, flexibles Körperanhängsel bestimmter Tiere, das zum Greifen, Bewegen oder Wahrnehmen verwendet wird"],
+    "examples_de": [["Der Oktopus wickelte seinen **Tentakel** um das Glas, um es zu öffnen", "Jeder **Fangarme** der Qualle enthält Tausende von Nesselzellen"]]
+  },
+  {
+    "lemma": "tenth",
+    "meanings_de": ["Ordnungszahl zehn"],
+    "definitions_de": ["Ordnungszahl, die der Zahl zehn in einer Reihenfolge entspricht"],
+    "examples_de": [["Sie wurde trotz ihrer Verletzung **Zehnte** im Marathon", "Die **zehnte** Jubiläumsfeier findet nächsten Monat statt"]]
+  },
+  {
+    "lemma": "tenure",
+    "meanings_de": ["Amtszeit"],
+    "definitions_de": ["Zeitraum, während dem jemand eine Stelle, ein Amt oder eine Position innehat, insbesondere eine dauerhafte akademische Anstellung"],
+    "examples_de": [["Professor Schmidt erhielt nach sechs Jahren Lehrtätigkeit eine **Festanstellung**", "Seine **Amtszeit** als Geschäftsführer dauerte über zwei Jahrzehnte"]]
+  },
+  {
+    "lemma": "tequila",
+    "meanings_de": ["mexikanischer Agavenschnaps"],
+    "definitions_de": ["Mexikanischer Schnaps, der aus dem fermentierten Saft der blauen Agavenpflanze destilliert wird"],
+    "examples_de": [["Sie bestellten im Restaurant Margaritas mit Premium-**Tequila**", "Die **Tequila**-Produktion konzentriert sich auf den Bundesstaat Jalisco"]]
+  },
+  {
+    "lemma": "tercentenary",
+    "meanings_de": ["dreihundertjähriges Jubiläum"],
+    "definitions_de": ["Dreihundertster Jahrestag eines bedeutenden Ereignisses oder einer Gründung"],
+    "examples_de": [["Die Stadt feierte ihr **Dreihundertjahrfeier** mit Paraden und Festivals", "Das **dreihundertjährige Jubiläum** der Universität brachte Alumni aus aller Welt zusammen"]]
+  },
+  {
+    "lemma": "terminal",
+    "meanings_de": ["Verkehrsstation", "Computerschnittstelle", "Endstadium"],
+    "definitions_de": ["Gebäude an einem Flughafen oder Bahnhof, wo Passagiere ankommen und abfahren", "Gerät zur Eingabe oder zum Empfang von Daten in einem Computersystem", "Sich auf das Ende oder die Endphase von etwas beziehend oder dort auftretend"],
+    "examples_de": [["Passagiere müssen zwei Stunden vor Abflug am **Terminal** sein", "Das neue **Terminal** kann jährlich fünfzig Millionen Reisende abfertigen"], ["Jeder Mitarbeiter hat ein Computer**terminal** an seinem Arbeitsplatz", "Das alte **Terminal** zeigt grünen Text auf schwarzem Hintergrund"], ["Der Arzt besprach mit der Familie Optionen für die **Palliativpflege**", "**Endgeschwindigkeit** tritt auf, wenn Luftwiderstand gleich Gravitationskraft ist"]]
+  },
+  {
+    "lemma": "termination",
+    "meanings_de": ["Beendigung oder Abschluss"],
+    "definitions_de": ["Handlung, etwas zu einem Ende zu bringen, oder der Zustand des Beendetseins"],
+    "examples_de": [["Die **Kündigung** des Vertrags erfordert eine dreißigtägige Kündigungsfrist", "Unrechtmäßige **Entlassung** kann zu rechtlichen Schritten gegen Arbeitgeber führen"]]
+  },
+  {
+    "lemma": "terminator",
+    "meanings_de": ["etwas, das beendet"],
+    "definitions_de": ["Person oder Sache, die etwas zu einem Ende oder Abschluss bringt"],
+    "examples_de": [["Das Null-**Zeichen** markiert das Ende einer Zeichenkette in der Programmierung", "Kabel**abschlüsse** verhindern Signalreflexionen in Netzwerkinstallationen"]]
+  },
+  {
+    "lemma": "terminology",
+    "meanings_de": ["Fachvokabular"],
+    "definitions_de": ["Gesamtheit der Begriffe, die in einem bestimmten Fach, Beruf oder Studienbereich verwendet werden"],
+    "examples_de": [["Medizinische **Fachsprache** kann für Patienten ohne Ausbildung verwirrend sein", "Der Professor erklärte die technische **Terminologie** vor Beginn der Vorlesung"]]
+  },
+  {
+    "lemma": "termite",
+    "meanings_de": ["holzfressendes Insekt"],
+    "definitions_de": ["Kleines blasses Insekt, das in Kolonien lebt und sich von Holz ernährt"],
+    "examples_de": [["**Termitenschäden** kosteten den Hausbesitzer Tausende Euro für Reparaturen", "Regelmäßige Inspektionen helfen, **Termitenbefall** frühzeitig zu erkennen"]]
+  },
+  {
+    "lemma": "tern",
+    "meanings_de": ["Seevogelart"],
+    "definitions_de": ["Seevogel mit langen spitzen Flügeln und gegabeltem Schwanz, der nach Fischen taucht"],
+    "examples_de": [["Küsten**seeschwalben** wandern weiter als jede andere Vogelart", "Die **Seeschwalben**kolonie nistete auf der felsigen Küsteninsel"]]
+  },
+  {
+    "lemma": "ternary",
+    "meanings_de": ["dreiteiliges System"],
+    "definitions_de": ["Aus drei Teilen oder Elementen bestehend oder auf der Zahl drei basierend"],
+    "examples_de": [["Informatiker arbeiten oft mit **ternären** Logiksystemen", "Die **dreiteilige** Form in der Musik hat drei unterschiedliche Abschnitte"]]
+  },
+  {
+    "lemma": "terrace",
+    "meanings_de": ["Außenplattform", "Häuserreihe"],
+    "definitions_de": ["Ebene gepflasterte oder bepflanzte Fläche neben einem Gebäude für Aktivitäten im Freien", "Reihe von Häusern, die in einheitlichem Stil als durchgehender Block gebaut wurden"],
+    "examples_de": [["Sie genossen das Frühstück auf der sonnigen **Terrasse** mit Gartenblick", "Die **Terrasse** des Restaurants bietet atemberaubende Aussicht auf die Stadt"], ["Viktorianische **Reihenhäuser** säumen viele Straßen in britischen Städten", "Die **Häuserreihe** stammte aus den 1800er Jahren"]]
+  },
+  {
+    "lemma": "terracotta",
+    "meanings_de": ["gebranntes Tonmaterial"],
+    "definitions_de": ["Bräunlich-roter Ton, der gebrannt und für Töpferwaren und Bauzwecke verwendet wird"],
+    "examples_de": [["Die **Terrakotta**-Armee enthält Tausende lebensgroße Kriegerstatuen", "**Terrakotta**-Töpfe eignen sich ideal für den Anbau von Kräutern und kleinen Pflanzen"]]
+  },
+  {
+    "lemma": "terrain",
+    "meanings_de": ["Landschaftsmerkmale"],
+    "definitions_de": ["Landstrich im Hinblick auf seine physischen Merkmale"],
+    "examples_de": [["Die Wanderer studierten das **Gelände**, bevor sie ihre Route planten", "Unwegsames **Terrain** machte die Rettungsaktion extrem schwierig"]]
+  },
+  {
+    "lemma": "terrapin",
+    "meanings_de": ["Süßwasserschildkröte"],
+    "definitions_de": ["Kleine Süßwasserschildkröte, die in Nordamerika heimisch ist"],
+    "examples_de": [["Die Diamant**schildkröte** lebt in küstennahen Brackwasserhabitaten", "**Sumpfschildkröten** sonnen sich auf Baumstämmen, um ihre Körpertemperatur zu regulieren"]]
+  },
+  {
+    "lemma": "terrier",
+    "meanings_de": ["kleine Hunderasse"],
+    "definitions_de": ["Kleiner Hund, ursprünglich gezüchtet, um Tiere in ihren Bauten zu jagen"],
+    "examples_de": [["Der Jack Russell **Terrier** jagte Eichhörnchen im Hinterhof", "Yorkshire **Terrier** sind trotz ihrer Größe ausgezeichnete Begleithunde"]]
+  },
+  {
+    "lemma": "territorial",
+    "meanings_de": ["gebietsbezogen"],
+    "definitions_de": ["Sich auf das Eigentum oder die Kontrolle eines Land- oder Wassergebiets beziehend"],
+    "examples_de": [["Der **territoriale** Streit zwischen den Ländern dauerte jahrzehntelang", "Katzen sind sehr **territoriale** Tiere, die ihre Grenzen markieren"]]
+  },
+  {
+    "lemma": "terry",
+    "meanings_de": ["saugfähiger Stoff"],
+    "definitions_de": ["Saugfähiger Stoff mit Schlingen auf beiden Seiten, der besonders für Handtücher verwendet wird"],
+    "examples_de": [["**Frottee**handtücher eignen sich perfekt zum Abtrocknen nach dem Schwimmen", "Der Bademantel war aus weichem **Frottee**baumwollmaterial"]]
+  },
+  {
+    "lemma": "tesla",
+    "meanings_de": ["Magnetfeldeinheit"],
+    "definitions_de": ["Einheit der magnetischen Flussdichte im Internationalen Einheitensystem"],
+    "examples_de": [["Der MRT-Scanner arbeitet mit einer Feldstärke von drei **Tesla**", "Ein **Tesla** entspricht zehntausend Gauß in der Magnetmessung"]]
+  },
+  {
+    "lemma": "tessellation",
+    "meanings_de": ["sich wiederholendes Muster"],
+    "definitions_de": ["Anordnung von Formen, die ohne Lücken oder Überlappungen zusammenpassen, um eine Fläche zu bedecken"],
+    "examples_de": [["Der Künstler schuf schöne **Parkettierungsmuster** mit geometrischen Formen", "Bienenwaben sind ein natürliches Beispiel für hexagonale **Parkettierung**"]]
+  },
+  {
+    "lemma": "tesseract",
+    "meanings_de": ["vierdimensionaler Würfel"],
+    "definitions_de": ["Theoretische geometrische Figur, die das vierdimensionale Analogon eines Würfels darstellt"],
+    "examples_de": [["Der **Tesserakt** ist im dreidimensionalen Raum schwer zu visualisieren", "Science-Fiction zeigt oft **Tesserakte** als Portale zwischen Dimensionen"]]
+  },
+  {
+    "lemma": "testator",
+    "meanings_de": ["Testamentsverfasser"],
+    "definitions_de": ["Person, die ein Testament verfasst oder ein Vermächtnis hinterlassen hat"],
+    "examples_de": [["Die **Erblasserin** hinterließ ihr gesamtes Vermögen wohltätigen Organisationen", "Ein **Testator** muss bei der Erstellung eines Testaments bei klarem Verstand sein"]]
+  },
+  {
+    "lemma": "tester",
+    "meanings_de": ["Person die testet", "Probeprodukt"],
+    "definitions_de": ["Person, deren Aufgabe es ist, Produkte oder Systeme auf Qualität zu testen", "Kleine Flasche oder Behälter eines Produkts zum Ausprobieren vor dem Kauf"],
+    "examples_de": [["Der Software**tester** fand vor der Veröffentlichung mehrere Fehler", "Qualitäts**prüfer** stellen sicher, dass Produkte Sicherheitsstandards erfüllen"], ["Probieren Sie den Parfüm**tester**, bevor Sie die volle Flasche kaufen", "Make-up-**Proben** helfen Kunden, den richtigen Farbton zu finden"]]
+  },
+  {
+    "lemma": "testicle",
+    "meanings_de": ["männliches Fortpflanzungsorgan"],
+    "definitions_de": ["Eines von zwei ovalen Organen, die bei männlichen Säugetieren Spermien produzieren"],
+    "examples_de": [["Regelmäßige Selbstuntersuchung kann helfen, **Hoden**anomalien früh zu erkennen", "Der Tierarzt untersuchte beide **Hoden** während der Hundeuntersuchung"]]
+  },
+  {
+    "lemma": "testimonial",
+    "meanings_de": ["Empfehlungsaussage"],
+    "definitions_de": ["Formelle Aussage, die den Charakter, die Qualifikationen einer Person oder die Qualität eines Produkts bezeugt"],
+    "examples_de": [["Kunden**referenzen** helfen, Vertrauen in die Produkte des Unternehmens aufzubauen", "Sie gab eine hervorragende **Empfehlung** für ihren ehemaligen Mitarbeiter ab"]]
+  },
+  {
+    "lemma": "testosterone",
+    "meanings_de": ["männliches Sexualhormon"],
+    "definitions_de": ["Hormon, das die Entwicklung männlicher sekundärer Geschlechtsmerkmale stimuliert, hauptsächlich in den Hoden produziert"],
+    "examples_de": [["Der **Testosteron**spiegel sinkt natürlich, wenn Männer älter werden", "Sportler dürfen kein künstliches **Testosteron** zur Leistungssteigerung verwenden"]]
+  }
+]

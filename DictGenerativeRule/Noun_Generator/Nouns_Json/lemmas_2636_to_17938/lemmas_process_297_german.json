@@ -1,0 +1,278 @@
+[
+  {
+    "lemma": "anaconda",
+    "meanings_de": ["große tropische Schlange"],
+    "definitions_de": ["massive ungiftige Schlange, die in Feuchtgebieten und Flüssen Südamerikas lebt"],
+    "examples_de": [["Die **Anakonda** wickelte sich langsam um den Baumast", "Wissenschaftler entdeckten eine **Anakonda** mit über sechs Metern Länge"]]
+  },
+  {
+    "lemma": "anaemia",
+    "meanings_de": ["Bluterkrankung"],
+    "definitions_de": ["medizinischer Zustand, bei dem das Blut nicht genügend gesunde rote Blutkörperchen besitzt, um ausreichend Sauerstoff zu transportieren"],
+    "examples_de": [["Ihre ständige Müdigkeit wurde als schwere **Anämie** diagnostiziert", "Der Arzt verschrieb Eisenpräparate zur Behandlung der **Anämie**"]]
+  },
+  {
+    "lemma": "anaesthesia",
+    "meanings_de": ["medizinische Betäubung"],
+    "definitions_de": ["Zustand kontrollierter Bewusstlosigkeit oder Empfindungslosigkeit, der durch Medikamente während medizinischer Eingriffe herbeigeführt wird"],
+    "examples_de": [["Der Chirurg wartete, bis die **Anästhesie** vollständig wirkte", "Vor dem Zahneingriff wurde eine lokale **Anästhesie** verabreicht"]]
+  },
+  {
+    "lemma": "anaesthetic",
+    "meanings_de": ["Betäubungsmittel"],
+    "definitions_de": ["Medikament oder Substanz, die vorübergehenden Verlust von Körperempfindungen oder Bewusstsein verursacht"],
+    "examples_de": [["Die Zahnärztin injizierte ein lokales **Anästhetikum** ins Zahnfleisch", "Für die komplexe Operation war ein allgemeines **Anästhetikum** erforderlich"]]
+  },
+  {
+    "lemma": "anaesthetist",
+    "meanings_de": ["Narkosearzt"],
+    "definitions_de": ["Arzt, der Narkosemittel verabreicht und Patienten während Operationen überwacht"],
+    "examples_de": [["Der **Anästhesist** überwachte während der gesamten Operation sorgfältig die Vitalzeichen", "Sie besprach ihre Krankengeschichte mit dem **Anästhesisten**"]]
+  },
+  {
+    "lemma": "anagram",
+    "meanings_de": ["Worträtsel"],
+    "definitions_de": ["Wort oder Phrase, die durch Umstellung aller Buchstaben eines anderen Wortes gebildet wird"],
+    "examples_de": [["Das Wort 'Lampe' ist ein **Anagramm** von 'Palme'", "Sie löste gern das tägliche **Anagramm**-Rätsel in der Zeitung"]]
+  },
+  {
+    "lemma": "analgesic",
+    "meanings_de": ["Schmerzmittel"],
+    "definitions_de": ["Medikament, das Schmerzen lindert, ohne Bewusstlosigkeit zu verursachen"],
+    "examples_de": [["Der Arzt verschrieb ein starkes **Analgetikum** gegen ihre Rückenschmerzen", "Rezeptfreie **Analgetika** können bei leichten Kopfschmerzen helfen"]]
+  },
+  {
+    "lemma": "analog",
+    "meanings_de": ["kontinuierliches Signal", "ähnliche Sache"],
+    "definitions_de": ["Gerät oder System, das Daten durch messbare physikalische Größen darstellt", "etwas, das einem anderen ähnlich oder damit vergleichbar ist"],
+    "examples_de": [["Die alte **analoge** Uhr zeigte noch immer die Zeit präzise an", "Schallplatten speichern Musik als **analoge** Schallwellen"], ["Das Herz kann als **Analogon** zu einer Pumpe gesehen werden", "Diese Situation hat kein **Analogon** in der modernen Geschichte"]]
+  },
+  {
+    "lemma": "analogue",
+    "meanings_de": ["ähnliche Sache", "kontinuierliches Signal"],
+    "definitions_de": ["Person oder Sache, die als vergleichbar mit einer anderen angesehen wird", "Gerät oder System, das Daten durch messbare physikalische Größen darstellt"],
+    "examples_de": [["Das neuronale Netzwerk des Gehirns hat kein perfektes **Analogon** in Computern", "Das antike Rom bietet ein **Analogon** zu modernen Großmächten"], ["Das **analoge** Thermometer nutzt Quecksilber zur Temperaturanzeige", "Musiker bevorzugen **analoge** Synthesizer wegen ihres warmen Klangs"]]
+  },
+  {
+    "lemma": "analogy",
+    "meanings_de": ["Vergleichserklärung"],
+    "definitions_de": ["Vergleich zwischen zwei Dingen zur Erklärung oder Verdeutlichung durch Aufzeigen ihrer Ähnlichkeiten"],
+    "examples_de": [["Die Lehrerin verwendete eine **Analogie**, die das Herz mit einer Pumpe verglich", "Eine **Analogie** zwischen Computern und Gehirnen hilft, das Gedächtnis zu erklären"]]
+  },
+  {
+    "lemma": "analyzer",
+    "meanings_de": ["Testgerät", "untersuchende Person"],
+    "definitions_de": ["Instrument oder Software, das Daten oder Substanzen untersucht und auswertet", "Person, die etwas detailliert analysiert oder untersucht"],
+    "examples_de": [["Der Spektrum-**Analysator** entdeckte ungewöhnliche Frequenzmuster", "Blutproben wurden durch den automatisierten **Analysator** verarbeitet"], ["Der Finanz-**Analyst** prognostizierte starke Quartalsergebnisse", "Sie arbeitete als System-**Analystin** für das Unternehmen"]]
+  },
+  {
+    "lemma": "anarchism",
+    "meanings_de": ["politische Philosophie"],
+    "definitions_de": ["politische Überzeugung, dass Regierung und Gesetze unnötig sind und zugunsten individueller Freiheit abgeschafft werden sollten"],
+    "examples_de": [["Seine Dissertation untersuchte den **Anarchismus** im Europa des neunzehnten Jahrhunderts", "Der **Anarchismus** befürwortet freiwillige Kooperation ohne hierarchische Autorität"]]
+  },
+  {
+    "lemma": "anarchist",
+    "meanings_de": ["politischer Anhänger"],
+    "definitions_de": ["Person, die an den Anarchismus glaubt oder die Abschaffung der Regierung befürwortet"],
+    "examples_de": [["Der **Anarchist** schrieb ausführlich über selbstverwaltete Gemeinschaften", "Die Polizei nahm mehrere **Anarchisten** während des Protestmarsches fest"]]
+  },
+  {
+    "lemma": "anarchy",
+    "meanings_de": ["Regierungslosigkeit", "völlige Unordnung"],
+    "definitions_de": ["Zustand der Gesellschaft ohne Regierung oder Gesetz", "Situation totaler Unordnung und Verwirrung"],
+    "examples_de": [["Das Land versank in **Anarchie**, nachdem die Regierung zusammengebrochen war", "Einige Philosophen argumentieren, **Anarchie** könnte zu wahrer Freiheit führen"], ["Das Klassenzimmer brach in **Anarchie** aus, als der Lehrer ging", "Die ausgefallenen Ampeln schufen **Anarchie** an der Kreuzung"]]
+  },
+  {
+    "lemma": "anathema",
+    "meanings_de": ["verhasste Sache"],
+    "definitions_de": ["etwas oder jemand, das verabscheut, verachtet oder stark verflucht wird"],
+    "examples_de": [["Gewalt war ein **Anathema** für ihre friedliche Natur", "Die neue Politik wurde zum **Anathema** für traditionelle Parteimitglieder"]]
+  },
+  {
+    "lemma": "anatomist",
+    "meanings_de": ["Körperstruktur-Experte"],
+    "definitions_de": ["Wissenschaftler, der die Struktur lebender Organismen durch Sektion untersucht"],
+    "examples_de": [["Der **Anatom** untersuchte sorgfältig die konservierten Präparate", "Mittelalterliche **Anatomen** machten trotz begrenzter Werkzeuge bahnbrechende Entdeckungen"]]
+  },
+  {
+    "lemma": "anatomy",
+    "meanings_de": ["Körperstruktur", "detaillierte Analyse"],
+    "definitions_de": ["wissenschaftliche Untersuchung der körperlichen Struktur von Menschen, Tieren und Organismen", "detaillierte Untersuchung oder Analyse von etwas"],
+    "examples_de": [["Medizinstudenten verbrachten Stunden mit dem Studium der menschlichen **Anatomie**", "Die **Anatomie** einer Blume zeigt ihre Fortpflanzungsorgane"], ["Sein Buch bietet eine **Anatomie** moderner politischer Systeme", "Der Bericht bot eine detaillierte **Anatomie** der Krise"]]
+  },
+  {
+    "lemma": "ancestry",
+    "meanings_de": ["Familienlinie"],
+    "definitions_de": ["Familienabstammung, die kontinuierlich von Vorfahren durch Generationen nachverfolgt wird"],
+    "examples_de": [["DNA-Tests enthüllten ihre vielfältige **Abstammung** von drei Kontinenten", "Er erforschte seine **Ahnenreihe** bis ins achtzehnte Jahrhundert zurück"]]
+  },
+  {
+    "lemma": "anchorage",
+    "meanings_de": ["Ankerplatz", "sichere Befestigung"],
+    "definitions_de": ["geschützter Ort, wo Schiffe sicher ankern können", "Mittel, durch das etwas fest befestigt oder gesichert wird"],
+    "examples_de": [["Der natürliche **Ankerplatz** schützte Boote vor stürmischem Wetter", "Schiffe warteten im **Ankergrund** auf Hafenfreigabe"], ["Die Brücke benötigte starke **Verankerungspunkte** im Grundgestein", "Die Kabel**verankerung** muss enormen Spannungskräften standhalten"]]
+  },
+  {
+    "lemma": "anchorman",
+    "meanings_de": ["Nachrichtensprecher"],
+    "definitions_de": ["Haupt-Fernseh- oder Radionachrichtensprecher, der das Programm koordiniert"],
+    "examples_de": [["Der erfahrene **Nachrichtensprecher** überbrachte Eilmeldungen mit ruhiger Autorität", "Sie wurde die erste weibliche **Anchorfrau** beim Sender"]]
+  },
+  {
+    "lemma": "anchovy",
+    "meanings_de": ["kleiner Fisch"],
+    "definitions_de": ["kleiner Salzwasserfisch, der oft in Salz oder Öl für Nahrungszwecke konserviert wird"],
+    "examples_de": [["Pizza mit **Sardellen** hat einen charakteristischen salzigen Geschmack", "Frische **Anchovis** sind in der mediterranen Küstenküche beliebt"]]
+  },
+  {
+    "lemma": "andante",
+    "meanings_de": ["musikalisches Tempo"],
+    "definitions_de": ["mäßig langsames Tempo in der Musik, schneller als Adagio aber langsamer als Moderato"],
+    "examples_de": [["Der Pianist spielte den **Andante**-Satz mit sanftem Ausdruck", "Mozart markierte diesen Abschnitt **andante** für ein Gehtempo"]]
+  },
+  {
+    "lemma": "andromeda",
+    "meanings_de": ["Galaxienname", "mythologische Prinzessin"],
+    "definitions_de": ["Spiralgalaxie, die der Milchstraße am nächsten ist", "Prinzessin in der griechischen Mythologie, die an einen Felsen gekettet wurde"],
+    "examples_de": [["Die **Andromeda**-Galaxie ist mit bloßem Auge sichtbar", "Astronomen studieren **Andromeda**, um galaktische Evolution zu verstehen"], ["Perseus rettete **Andromeda** vor dem Seeungeheuer", "Das Sternbild **Andromeda** zeigt die angekettete Prinzessin"]]
+  },
+  {
+    "lemma": "anecdote",
+    "meanings_de": ["kurze Geschichte"],
+    "definitions_de": ["kurze amüsante oder interessante Geschichte über einen realen Vorfall oder eine Person"],
+    "examples_de": [["Sie teilte eine lustige **Anekdote** über ihren ersten Arbeitstag", "Seine Rede enthielt persönliche **Anekdoten** aus seiner Kindheit"]]
+  },
+  {
+    "lemma": "anemia",
+    "meanings_de": ["Bluterkrankung"],
+    "definitions_de": ["medizinischer Zustand, bei dem dem Blut ausreichend gesunde rote Blutkörperchen oder Hämoglobin fehlen"],
+    "examples_de": [["Bluttests bestätigten, dass sie an Eisenmangel-**Anämie** litt", "Chronische **Blutarmut** kann schwere Müdigkeit und Schwäche verursachen"]]
+  },
+  {
+    "lemma": "anemone",
+    "meanings_de": ["Blütenpflanze", "Meerestier"],
+    "definitions_de": ["farbenfrohe Blume mit zarten Blütenblättern, die im Frühling blüht", "Meerestier mit Tentakeln, das einer Blume ähnelt"],
+    "examples_de": [["Wilde **Anemonen** bedeckten im Frühling den Waldboden", "Der Garten zeigte weiße und violette japanische **Windröschen**"], ["Clownfische leben symbiotisch in den Tentakeln der **Seeanemone**", "Der Gezeitentümpel enthielt mehrere farbenfrohe **Seeanemonen**"]]
+  },
+  {
+    "lemma": "anesthesia",
+    "meanings_de": ["medizinische Betäubung"],
+    "definitions_de": ["Zustand kontrollierter Bewusstlosigkeit oder Empfindungslosigkeit, der medizinisch herbeigeführt wird"],
+    "examples_de": [["Der Patient stand während der Herzoperation unter Voll**narkose**", "Die örtliche **Betäubung** machte nur den betroffenen Bereich gefühllos"]]
+  },
+  {
+    "lemma": "anesthesiologist",
+    "meanings_de": ["Facharzt für Anästhesie"],
+    "definitions_de": ["Arzt, der sich auf Anästhesie, Schmerzbehandlung und Intensivmedizin während Operationen spezialisiert hat"],
+    "examples_de": [["Der **Anästhesiologe** überwachte ihre Atmung während des gesamten Eingriffs", "Er besprach mögliche Wechselwirkungen mit dem **Narkosearzt**"]]
+  },
+  {
+    "lemma": "anesthesiology",
+    "meanings_de": ["medizinisches Fachgebiet"],
+    "definitions_de": ["Zweig der Medizin, der sich mit Anästhesie, Schmerzlinderung und Intensivpflege befasst"],
+    "examples_de": [["Sie schloss ihre Facharztausbildung in **Anästhesiologie** an einem großen Krankenhaus ab", "Fortschritte in der **Anästhesiologie** haben komplexe Operationen sicherer gemacht"]]
+  },
+  {
+    "lemma": "anesthetic",
+    "meanings_de": ["Betäubungsmittel"],
+    "definitions_de": ["Substanz, die Schmerzunempfindlichkeit oder Bewusstseinsverlust herbeiführt"],
+    "examples_de": [["Der Zahnarzt trug ein örtliches **Betäubungsmittel** vor der Injektion auf", "Die Voll**narkose** birgt mehr Risiken als lokale Optionen"]]
+  },
+  {
+    "lemma": "aneurysm",
+    "meanings_de": ["Gefäßaussackung"],
+    "definitions_de": ["gefährliche Ausbuchtung in einer Blutgefäßwand durch Schwäche, die reißen kann"],
+    "examples_de": [["Eine Notoperation war nötig, um das Hirn**aneurysma** zu reparieren", "Regelmäßige Vorsorgeuntersuchungen können ein Aorten**aneurysma** frühzeitig erkennen"]]
+  },
+  {
+    "lemma": "angelfish",
+    "meanings_de": ["tropischer Fisch"],
+    "definitions_de": ["bunter tropischer Fisch mit flachem, scheibenförmigem Körper und langen Flossen"],
+    "examples_de": [["Die **Kaiserfische** im Aquarium zeigten leuchtend gelbe und schwarze Streifen", "Süßwasser-**Skalare** benötigen warmes Wasser und sorgfältige Pflege"]]
+  },
+  {
+    "lemma": "angelica",
+    "meanings_de": ["Kräuterpflanze"],
+    "definitions_de": ["hohe aromatische Pflanze, die zum Kochen, in der Medizin und zur Likörherstellung verwendet wird"],
+    "examples_de": [["Kandierte **Engelwurz**-Stängel schmückten die traditionelle Hochzeitstorte", "Mittelalterliche Mönche züchteten **Angelika** in ihren Heilkräutergärten"]]
+  },
+  {
+    "lemma": "angina",
+    "meanings_de": ["Brustschmerz"],
+    "definitions_de": ["starke Brustschmerzen durch verminderte Durchblutung des Herzmuskels"],
+    "examples_de": [["Seine **Angina**-Anfälle traten hauptsächlich bei körperlicher Anstrengung auf", "Der Arzt verschrieb Nitroglyzerin-Tabletten zur **Angina**-Linderung"]]
+  },
+  {
+    "lemma": "angler",
+    "meanings_de": ["angelnde Person"],
+    "definitions_de": ["Person, die mit Rute und Schnur als Sport oder Freizeitbeschäftigung angelt"],
+    "examples_de": [["Der geduldige **Angler** wartete stundenlang auf den perfekten Fang", "Einheimische **Sportfischer** kannten die besten Stellen am Flussufer"]]
+  },
+  {
+    "lemma": "angling",
+    "meanings_de": ["Angelsport"],
+    "definitions_de": ["Sport oder Zeitvertreib des Angelns mit Rute und Schnur"],
+    "examples_de": [["Er nahm das **Angeln** als entspannendes Wochenendhobby auf", "Das Magazin behandelte verschiedene **Angel**techniken und -ausrüstungen"]]
+  },
+  {
+    "lemma": "angst",
+    "meanings_de": ["tiefe Besorgnis"],
+    "definitions_de": ["Gefühl tiefer Angst, Furcht oder existenzieller Sorge über das Leben"],
+    "examples_de": [["Teenager-**Angst** entspringt oft aus Identitäts- und sozialem Druck", "Seine Lyrik drückte die **Angst** des modernen Stadtlebens aus"]]
+  },
+  {
+    "lemma": "anguish",
+    "meanings_de": ["schwere Qual"],
+    "definitions_de": ["schwerer seelischer oder körperlicher Schmerz, Leiden oder extreme Bedrängnis"],
+    "examples_de": [["Eltern fühlten schreckliche **Qual** beim Warten auf Nachrichten von ihrem Kind", "Ihr Gesicht zeigte die **Pein** über den Verlust all dessen, was sie liebte"]]
+  },
+  {
+    "lemma": "anima",
+    "meanings_de": ["Seelenkonzept"],
+    "definitions_de": ["innerer weiblicher Teil der männlichen Persönlichkeit in der Jungschen Psychologie oder die Seele"],
+    "examples_de": [["Jung beschrieb die **Anima** als die unbewussten weiblichen psychologischen Eigenschaften", "Antike Philosophen debattierten, ob die **Seele** den körperlichen Tod überlebt"]]
+  },
+  {
+    "lemma": "animation",
+    "meanings_de": ["bewegte Bilder", "lebhafte Eigenschaft"],
+    "definitions_de": ["Technik, bewegte Bilder aus Zeichnungen oder Modellen zu erstellen", "Eigenschaft, voller Leben, Kraft oder Aufregung zu sein"],
+    "examples_de": [["Computer-**Animation** verwandelte die Filmindustrie vollständig", "Das Studio produzierte sowohl traditionelle als auch digitale **Animation**"], ["Sie sprach mit großer **Lebhaftigkeit** über ihre Forschungsentdeckungen", "Der Party fehlte es an **Schwung**, bis die Band zu spielen begann"]]
+  },
+  {
+    "lemma": "animator",
+    "meanings_de": ["Animationskünstler"],
+    "definitions_de": ["Künstler, der animierte Sequenzen für Filme, Spiele oder andere Medien erstellt"],
+    "examples_de": [["Der leitende **Animator** verbrachte Monate damit, Charakterbewegungen zu perfektionieren", "Digitale **Animatoren** nutzen ausgefeilte Software, um realistische Effekte zu erzeugen"]]
+  },
+  {
+    "lemma": "anime",
+    "meanings_de": ["japanische Animation"],
+    "definitions_de": ["Animationsstil aus Japan mit farbenfrohen Grafiken und fantastischen Themen"],
+    "examples_de": [["Beliebte **Anime**-Serien inspirieren oft weltweite Merchandise-Artikel und Conventions", "Sie lernte Japanisch, um **Anime** ohne Untertitel zu schauen"]]
+  },
+  {
+    "lemma": "animism",
+    "meanings_de": ["spiritueller Glaube"],
+    "definitions_de": ["religiöser Glaube, dass Objekte, Orte und Kreaturen eine eigene spirituelle Essenz besitzen"],
+    "examples_de": [["Der indigene **Animismus** betrachtet Berge und Flüsse als heilige Wesen", "Anthropologen studierten den **Animismus** in traditionellen pazifischen Inselkulturen"]]
+  },
+  {
+    "lemma": "animist",
+    "meanings_de": ["Glaubensanhänger"],
+    "definitions_de": ["Person, die an Animismus glaubt und dass natürliche Objekte Seelen haben"],
+    "examples_de": [["Der **Animist** führte Rituale durch, um die Waldgeister zu ehren", "Viele **Animisten** pflegen tiefe ökologische Verbindungen zu ihrer Umwelt"]]
+  },
+  {
+    "lemma": "animosity",
+    "meanings_de": ["starke Feindseligkeit"],
+    "definitions_de": ["starkes Gefühl von Abneigung, Hass oder feindlicher Opposition gegenüber jemandem"],
+    "examples_de": [["Jahre des Wettbewerbs schufen tiefe **Feindseligkeit** zwischen den Rivalen", "Sie konnte ihre **Animosität** gegenüber dem neuen Manager nicht verbergen"]]
+  },
+  {
+    "lemma": "anise",
+    "meanings_de": ["Gewürzpflanze"],
+    "definitions_de": ["aromatische Pflanze, deren Samen als Gewürz mit lakritzähnlichem Geschmack verwendet werden"],
+    "examples_de": [["Die Kekse waren mit gemahlenen **Anis**samen gewürzt", "Mediterrane Küchen verwenden häufig **Anis** in Broten und Likören"]]
+  }
+]

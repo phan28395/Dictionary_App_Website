@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "sable",
+    "meanings_de": ["sehr dunkle Farbe"],
+    "definitions_de": ["eine tiefschwarze oder extrem dunkle Farbe aufweisend, die an das Fell von Zobeltieren erinnert"],
+    "examples_de": [["Ihr **zobelfarbenes** Haar fiel elegant über ihre Schultern", "Die Künstlerin malte einen **rabenschwarzen** Himmel vor dem Sturm"]]
+  },
+  {
+    "lemma": "saccharine",
+    "meanings_de": ["übermäßig süß", "gekünstelt liebenswürdig"],
+    "definitions_de": ["in einem unangenehmen Maß zuckerhaltig oder zuckersüß schmeckend, sodass es als übertrieben empfunden wird", "eine übertriebene Freundlichkeit oder Sentimentalität zeigend, die unecht und aufgesetzt wirkt"],
+    "examples_de": [["Der Nachtisch war zu **süßlich** für die meisten Gäste", "Sie verdünnte den **überzuckerten** Sirup mit Wasser"], ["Sein **süßliches** Lächeln konnte seine wahren Absichten nicht verbergen", "Das **kitschige** Ende des Films enttäuschte viele Kritiker"]]
+  },
+  {
+    "lemma": "sacked",
+    "meanings_de": ["entlassen", "geplündert"],
+    "definitions_de": ["aus einer Arbeitsstelle oder Position entlassen, oft plötzlich und ohne Zeremonie", "von Eindringlingen geplündert und zerstört, besonders in historischen Kriegskontexten"],
+    "examples_de": [["Der Manager wurde nach dem Finanzskandal **gefeuert**", "Mehrere Mitarbeiter wurden während der Umstrukturierung **entlassen**"], ["Die **geplünderte** Stadt lag jahrzehntelang in Trümmern", "Wikinger hatten Klöster entlang der englischen Küste **verwüstet**"]]
+  },
+  {
+    "lemma": "sacramental",
+    "meanings_de": ["sakramental"],
+    "definitions_de": ["die Sakramente betreffend oder zu ihnen gehörend, also religiöse Handlungen, die als Vermittlung göttlicher Gnade verstanden werden"],
+    "examples_de": [["Der Priester bereitete das **sakramentale** Brot und den Wein vor", "Sie trug besondere **sakramentale** Gewänder für die Zeremonie"]]
+  },
+  {
+    "lemma": "sacrificial",
+    "meanings_de": ["als Opfer dargebracht", "aufopferungsvoll"],
+    "definitions_de": ["in Zusammenhang mit einem religiösen Opfer oder einer rituellen Darbringung stehend oder dafür verwendet", "die Aufgabe von etwas Wertvollem für einen höheren Zweck oder ein größeres Ziel beinhaltend"],
+    "examples_de": [["Der antike Tempel hatte einen **Opferaltar**", "Sie fanden **rituelle** Opfergaben im Grab"], ["Seine **aufopferungsvolle** Entscheidung rettete das gesamte Team", "Sie machte einen **opfervollen** Zug im Schachspiel"]]
+  },
+  {
+    "lemma": "saddled",
+    "meanings_de": ["belastet"],
+    "definitions_de": ["mit einer schwierigen Verantwortung, Schuld oder unangenehmen Situation belastet, die schwer abzuschütteln ist"],
+    "examples_de": [["Sie war mit den Fehlern ihres Vorgängers **belastet**", "Das Unternehmen ist mit enormen Schulden **belastet**"]]
+  },
+  {
+    "lemma": "sadistic",
+    "meanings_de": ["sadistisch"],
+    "definitions_de": ["Vergnügen daran findend, anderen Schmerzen, Leiden oder Demütigungen auf grausame Weise zuzufügen"],
+    "examples_de": [["Der Bösewicht hatte ein **sadistisches** Lachen beim Foltern der Helden", "Sein **sadistisches** Verhalten beunruhigte die Schulberater"]]
+  },
+  {
+    "lemma": "sage",
+    "meanings_de": ["weise"],
+    "definitions_de": ["tiefe Weisheit und gutes Urteilsvermögen besitzend oder zeigend, die durch Erfahrung gewonnen wurden"],
+    "examples_de": [["Der **weise** Berater half, die politische Krise zu lösen", "Ihre **weisen** Worte leiteten viele durch schwierige Zeiten"]]
+  },
+  {
+    "lemma": "sagging",
+    "meanings_de": ["durchhängend"],
+    "definitions_de": ["schlaff herabhängend oder absinkend aufgrund von Gewicht, Schwäche oder mangelnder Unterstützung"],
+    "examples_de": [["Das **durchhängende** Dach benötigte dringend Reparaturarbeiten", "Seine **gesunkene** Stimmung hob sich, als Freunde eintrafen"]]
+  },
+  {
+    "lemma": "said",
+    "meanings_de": ["besagt"],
+    "definitions_de": ["sich auf jemanden oder etwas beziehend, der oder das bereits erwähnt oder spezifiziert wurde"],
+    "examples_de": [["Das **besagte** Dokument wurde dem Gericht vorgelegt", "Die Zahlung für **besagte** Dienstleistungen ist nächsten Monat fällig"]]
+  },
+  {
+    "lemma": "saintly",
+    "meanings_de": ["heiligmäßig"],
+    "definitions_de": ["außergewöhnliche Heiligkeit, Tugend oder Güte zeigend, die der eines Heiligen ähnelt"],
+    "examples_de": [["Ihre **engelhafte** Geduld half schwierigen Jugendlichen, Hoffnung zu finden", "Die Krankenschwester hatte eine **aufopferungsvolle** Hingabe zu den Patienten"]]
+  },
+  {
+    "lemma": "salacious",
+    "meanings_de": ["lüstern"],
+    "definitions_de": ["ein unangemessenes Interesse an sexuellen Angelegenheiten habend oder sexuelles Verlangen auf unschickliche Weise erregend"],
+    "examples_de": [["Die Boulevardzeitung veröffentlichte **anzügliche** Klatschgeschichten über Prominente", "Er vermied **schlüpfrige** Inhalte in seinen Texten"]]
+  },
+  {
+    "lemma": "salaried",
+    "meanings_de": ["festangestellt"],
+    "definitions_de": ["eine feste regelmäßige Bezahlung für eine Anstellung erhaltend anstatt Stundenlohn oder Provision"],
+    "examples_de": [["**Festangestellte** Mitarbeiter erhalten keine Überstundenvergütung", "Sie bevorzugte **festbezahlte** Positionen für finanzielle Stabilität"]]
+  },
+  {
+    "lemma": "salient",
+    "meanings_de": ["hervorstechend"],
+    "definitions_de": ["am wichtigsten, auffälligsten oder prominentesten unter verschiedenen Merkmalen, Fakten oder Überlegungen, die diskutiert werden"],
+    "examples_de": [["Der Bericht hob die **wesentlichen** Punkte des Vorschlags hervor", "Ihr **schlagendes** Argument überzeugte die gesamte Jury"]]
+  },
+  {
+    "lemma": "saline",
+    "meanings_de": ["salzhaltig"],
+    "definitions_de": ["Salz enthaltend oder mit Salz durchsetzt wie Meerwasser oder medizinische Lösungen"],
+    "examples_de": [["Der Arzt verschrieb **salzhaltige** Tropfen für trockene Augen", "Meerespflanzen gedeihen natürlich in **salzhaltigen** Umgebungen"]]
+  },
+  {
+    "lemma": "salivary",
+    "meanings_de": ["Speichel-"],
+    "definitions_de": ["den Speichel betreffend oder Speichel produzierend, also die wässrige Flüssigkeit, die im Mund abgesondert wird"],
+    "examples_de": [["Die **Speicheldrüsen** schwollen während der Krankheit an", "Ärzte untersuchten ihre **Speichelkanäle** auf Verstopfungen"]]
+  },
+  {
+    "lemma": "salted",
+    "meanings_de": ["eingesalzen", "gesalzen"],
+    "definitions_de": ["durch Hinzufügen von Salz haltbar gemacht, um Verderb zu verhindern, besonders bei Fleisch oder Fisch", "mit Salz versehen zur Geschmacksverbesserung beim Kochen oder Essen"],
+    "examples_de": [["Der **eingepökelte** Kabeljau hielt monatelang ohne Kühlung", "Seeleute verließen sich auf **gepökeltes** Fleisch während der Reisen"], ["Sie bevorzugte **gesalzenes** Karamell gegenüber einfachen Sorten", "Der Koch servierte **gesalzene** Butter zum Brot"]]
+  },
+  {
+    "lemma": "salty",
+    "meanings_de": ["salzig", "verbittert"],
+    "definitions_de": ["den Geschmack von Salz habend oder eine bemerkenswerte Menge Salz enthaltend", "Groll, Verbitterung oder Verärgerung zeigend, besonders nach einer Enttäuschung oder Niederlage"],
+    "examples_de": [["Die Meeresgischt hinterließ einen **salzigen** Geschmack", "Diese Brezeln sind mir zu **salzig**"], ["Er war immer noch **sauer** wegen der Spielniederlage", "Ihre **bissige** Antwort überraschte alle beim Abendessen"]]
+  },
+  {
+    "lemma": "sanctified",
+    "meanings_de": ["geheiligt"],
+    "definitions_de": ["durch religiöse Zeremonie, Segnung oder Widmung für göttliche Zwecke heilig oder sakral gemacht"],
+    "examples_de": [["Der **geheiligte** Boden durfte nicht bebaut werden", "Sie betraten den **geweihten** Raum mit Ehrfurcht"]]
+  },
+  {
+    "lemma": "sanctioned",
+    "meanings_de": ["genehmigt", "sanktioniert"],
+    "definitions_de": ["offiziell genehmigt, autorisiert oder erlaubt von einer anerkannten Behörde oder Institution", "Sanktionen oder Strafen unterworfen, besonders wirtschaftlichen oder politischen Beschränkungen"],
+    "examples_de": [["Die **genehmigte** Veranstaltung verlief ohne Probleme", "Nur **autorisierte** Händler dürfen diese Produkte verkaufen"], ["Das **sanktionierte** Land litt unter schweren wirtschaftlichen Härten", "Mehrere **sanktionierte** Personen hatten eingefrorene Vermögenswerte"]]
+  },
+  {
+    "lemma": "sanctioning",
+    "meanings_de": ["genehmigend"],
+    "definitions_de": ["offizielle Erlaubnis, Genehmigung oder Autorisierung gebend, damit etwas fortfahren oder akzeptabel sein kann"],
+    "examples_de": [["Die **genehmigende** Stelle billigte die neuen Vorschriften", "Die die Veranstaltung **genehmigenden** Organisationen zogen ihre Unterstützung zurück"]]
+  },
+  {
+    "lemma": "sandy",
+    "meanings_de": ["sandig", "sandfarben"],
+    "definitions_de": ["mit Sand bedeckt, Sand enthaltend oder aus Sand bestehend wie Strände oder Wüstengebiete", "eine helle gelblich-braune Farbe habend, die Sand ähnelt"],
+    "examples_de": [["Der **sandige** Strand erstreckte sich kilometerweit entlang der Küste", "Ihre Schuhe waren nach dem Spaziergang **sandig**"], ["Sein **sandblondes** Haar wurde im Sommer heller", "Sie wählte ein **sandiges** Beige für die Wände"]]
+  },
+  {
+    "lemma": "sane",
+    "meanings_de": ["geistig gesund", "vernünftig"],
+    "definitions_de": ["einen gesunden Geist habend und nicht geisteskrank oder gestört", "gutes Urteilsvermögen und Vernunft in Gedanken, Handlungen oder Entscheidungen zeigend"],
+    "examples_de": [["Der Psychiater erklärte den Angeklagten für vollkommen **zurechnungsfähig**", "Sie blieb trotz extremen Stresses **bei klarem Verstand**"], ["Das ist die einzige **vernünftige** Lösung für dieses Problem", "Wir brauchen **vernünftige** Politik für Wirtschaftswachstum"]]
+  },
+  {
+    "lemma": "sanguine",
+    "meanings_de": ["optimistisch zuversichtlich", "rötlich"],
+    "definitions_de": ["optimistisch zuversichtlich und fröhlich, besonders in schwierigen oder herausfordernden Situationen", "eine rötliche Farbe habend, besonders in Bezug auf den Teint oder historische Kontexte"],
+    "examples_de": [["Sie blieb **zuversichtlich** bezüglich der Zukunftsaussichten des Unternehmens", "Seine **optimistische** Natur half in schweren Zeiten"], ["Der Künstler verwendete **rötliche** Kreide für Porträts", "Sein **rosiger** Teint deutete auf gute Gesundheit hin"]]
+  },
+  {
+    "lemma": "sanitary",
+    "meanings_de": ["hygienisch"],
+    "definitions_de": ["sich auf Sauberkeit und Hygiene beziehend oder diese fördernd, um Krankheiten zu verhindern und die Gesundheit zu erhalten"],
+    "examples_de": [["Das Restaurant fiel letzten Monat bei der **Hygieneinspektion** durch", "Krankenhäuser müssen strenge **hygienische** Bedingungen einhalten"]]
+  },
+  {
+    "lemma": "sanitized",
+    "meanings_de": ["desinfiziert", "bereinigt"],
+    "definitions_de": ["gereinigt und desinfiziert, um Bakterien, Keime oder andere schädliche Substanzen zu entfernen", "modifiziert, um anstößige, verstörende oder kontroverse Inhalte zu entfernen und es akzeptabler zu machen"],
+    "examples_de": [["Die **desinfizierten** Geräte waren bereit für die Operation", "Arbeiter **desinfizierten** alle Oberflächen nach dem Ausbruch"], ["Die **bereinigte** Version ließ gewalttätige Szenen komplett weg", "Sein **geschönter** Bericht vermied es, Misserfolge zu erwähnen"]]
+  },
+  {
+    "lemma": "sapiens",
+    "meanings_de": ["den modernen Menschen betreffend"],
+    "definitions_de": ["sich auf moderne Menschen als Spezies beziehend oder sie bezeichnend, vom wissenschaftlichen Namen Homo sapiens"],
+    "examples_de": [["Homo **sapiens** entstand vor etwa 300.000 Jahren", "Die **sapiens**-Spezies breitete sich über alle Kontinente aus"]]
+  },
+  {
+    "lemma": "sapphire",
+    "meanings_de": ["saphirblau"],
+    "definitions_de": ["die tiefblaue Farbe eines Saphir-Edelsteins habend"],
+    "examples_de": [["Ihre **saphirblauen** Augen funkelten im Sonnenlicht", "Der See hatte einen wunderschönen **saphirfarbenen** Schimmer"]]
+  },
+  {
+    "lemma": "sappy",
+    "meanings_de": ["übertrieben sentimental", "harzhaltig"],
+    "definitions_de": ["übermäßig sentimental oder emotional auf eine Weise, die albern oder peinlich erscheint", "klebriges Baumharz oder Harz enthaltend oder damit bedeckt"],
+    "examples_de": [["Das **schnulzige** Liebeslied brachte alle zum Fremdschämen", "Er schrieb **kitschige** Gedichte für seine Freundin"], ["Die **harzigen** Kiefernstämme waren nicht gut zum Verbrennen", "Ihre Hände waren nach dem Baumklettern **klebrig**"]]
+  },
+  {
+    "lemma": "sarcastic",
+    "meanings_de": ["sarkastisch"],
+    "definitions_de": ["Ironie verwendend, um zu verspotten, zu kritisieren oder Verachtung zu vermitteln, oft durch übertriebenes Lob oder vorgetäuschte Unwissenheit"],
+    "examples_de": [["Seine **sarkastischen** Kommentare verletzten mehr als direkte Kritik", "Sie zeigte ein **sarkastisches** Lächeln nach den Ausreden"]]
+  },
+  {
+    "lemma": "sardonic",
+    "meanings_de": ["sardonisch"],
+    "definitions_de": ["grimmig spöttisch oder zynisch auf eine Weise, die Verachtung, Skepsis oder schwarzen Humor zeigt"],
+    "examples_de": [["Sein **sardonisches** Lachen füllte das leere Theater", "Sie machte **bissige** Beobachtungen über die Unternehmenskultur"]]
+  },
+  {
+    "lemma": "sassy",
+    "meanings_de": ["frech"],
+    "definitions_de": ["eine lebhafte, kühne und etwas respektlose Haltung zeigend, die spielerisch oder unhöflich sein kann"],
+    "examples_de": [["Die **freche** Teenagerin widersprach ihren Eltern", "Ihre **schlagfertige** Antwort brachte die Störer zum Schweigen"]]
+  },
+  {
+    "lemma": "satanic",
+    "meanings_de": ["satanisch", "teuflisch"],
+    "definitions_de": ["sich auf Satan oder Teufelsanbetung beziehend oder charakteristisch dafür", "extrem böse, boshaft oder übelwollend in Natur oder Erscheinung"],
+    "examples_de": [["Der Kult führte um Mitternacht **satanische** Rituale durch", "Sie fanden **satanische** Symbole an Wände gemalt"], ["Seine **teuflische** Grausamkeit schockierte selbst abgehärtete Kriminelle", "Der **diabolische** Plan des Diktators entsetzte die Welt"]]
+  },
+  {
+    "lemma": "satiric",
+    "meanings_de": ["satirisch"],
+    "definitions_de": ["Humor, Ironie oder Übertreibung verwendend, um Fehler im menschlichen Verhalten oder in Institutionen zu kritisieren und aufzudecken"],
+    "examples_de": [["Die **satirische** Karikatur verspottete politische Korruption effektiv", "Sein **satirischer** Roman entlarvte die Heuchelei der Gesellschaft"]]
+  },
+  {
+    "lemma": "satirical",
+    "meanings_de": ["satirisch"],
+    "definitions_de": ["Satire enthaltend oder verwendend, um durch Humor und Ironie zu kritisieren, lächerlich zu machen oder Torheit aufzudecken"],
+    "examples_de": [["Das **satirische** Magazin machte sich über die Prominentenkultur lustig", "Sie schrieb **satirische** Essays über das moderne Leben"]]
+  },
+  {
+    "lemma": "satisfactory",
+    "meanings_de": ["zufriedenstellend"],
+    "definitions_de": ["Anforderungen oder Erwartungen angemessen erfüllend, wenn auch nicht außergewöhnlich gut"],
+    "examples_de": [["Seine Leistung war **zufriedenstellend**, aber nicht herausragend", "Das Hotel bot **zufriedenstellenden** Service für den Preis"]]
+  },
+  {
+    "lemma": "satisfied",
+    "meanings_de": ["zufrieden", "erfüllt"],
+    "definitions_de": ["erfreut oder zufrieden mit dem, was erlebt, erreicht oder erhalten wurde", "Anforderungen, Bedingungen oder Verpflichtungen vollständig und angemessen erfüllt habend"],
+    "examples_de": [["Der **zufriedene** Kunde hinterließ eine positive Bewertung", "Sie fühlte sich **befriedigt** nach Abschluss des Projekts"], ["Alle Bedingungen waren vor der Vertragsunterzeichnung **erfüllt**", "Die Gleichung ist **erfüllt**, wenn x gleich drei ist"]]
+  },
+  {
+    "lemma": "satisfying",
+    "meanings_de": ["befriedigend"],
+    "definitions_de": ["Befriedigung, Erfüllung oder Vergnügen gebend, indem Bedürfnisse, Wünsche oder Erwartungen gut erfüllt werden"],
+    "examples_de": [["Das Puzzle fertigzustellen war zutiefst **befriedigend**", "Sie fand das Unterrichten eine **erfüllende** Arbeit"]]
+  },
+  {
+    "lemma": "saturated",
+    "meanings_de": ["durchnässt", "gesättigt"],
+    "definitions_de": ["vollständig mit Flüssigkeit durchtränkt, sodass nicht mehr aufgenommen werden kann", "die maximal mögliche Menge einer Substanz, Farbe oder anderen Eigenschaft enthaltend"],
+    "examples_de": [["Seine Kleidung war nach dem Sturm **durchnässt**", "Der **vollgesogene** Schwamm tropfte ständig Wasser"], ["Der Markt ist mit ähnlichen Produkten **übersättigt**", "Die **satte** rote Farbe bedeckte alles vollständig"]]
+  },
+  {
+    "lemma": "saucy",
+    "meanings_de": ["keck", "würzig"],
+    "definitions_de": ["fröhliche Unhöflichkeit oder kühne Respektlosigkeit auf amüsante oder attraktive Weise zeigend", "eine reichhaltige, geschmackvolle Qualität wie eine gute Sauce habend"],
+    "examples_de": [["Ihr **keckes** Zwinkern brachte alle zum Lachen", "Die **frechen** Witze des Komikers überschritten Grenzen"], ["Das **würzige** Pastagericht wurde ihr Markenzeichen", "Sie servierten **saftige** Barbecue-Rippchen zum Abendessen"]]
+  },
+  {
+    "lemma": "savage",
+    "meanings_de": ["brutal", "unzivilisiert"],
+    "definitions_de": ["wild, gewalttätig und unkontrolliert auf eine Weise, die großen Schaden oder Verletzung verursacht", "in einem primitiven Zustand ohne moderne Zivilisation oder mangelnde Verfeinerung zeigend"],
+    "examples_de": [["Der **brutale** Angriff hinterließ mehrere Verletzte", "Kritiker gaben dem Film **vernichtende** Rezensionen"], ["Sie studierten **primitive** Stämme in abgelegenen Gebieten", "Seine **ungehobelten** Manieren schockierten die Dinner-Gäste"]]
+  },
+  {
+    "lemma": "saved",
+    "meanings_de": ["gerettet", "aufgespart"],
+    "definitions_de": ["durch Eingreifen vor Gefahr, Schaden, Verlust oder Zerstörung gerettet", "aufbewahrt, gelagert oder für zukünftige Nutzung zurückgelegt anstatt ausgegeben oder verwendet"],
+    "examples_de": [["Die **geretteten** Wanderer dankten ihren Rettern überschwänglich", "Er fühlte sich durch ihren rechtzeitigen Rat **erlöst**"], ["Sie nutzte ihr **gespartes** Geld für den Urlaub", "Die **gespeicherten** Dateien wurden auf dem Backup abgelegt"]]
+  },
+  {
+    "lemma": "savory",
+    "meanings_de": ["herzhaft", "anständig"],
+    "definitions_de": ["einen angenehmen Geschmack habend, der salzig oder würzig ist anstatt süß", "moralisch akzeptabel oder respektabel in Charakter oder Verhalten"],
+    "examples_de": [["Die **herzhafte** Pastete ergänzte das süße Dessert", "Sie bevorzugte **pikante** Snacks gegenüber Süßigkeiten"], ["Seine Geschäfte waren nicht ganz **sauber**", "Der Club zog ein weniger **anständiges** Publikum an"]]
+  },
+  {
+    "lemma": "savoury",
+    "meanings_de": ["herzhaft", "anständig"],
+    "definitions_de": ["einen angenehmen Geschmack habend, der salzig oder würzig ist anstatt süß", "moralisch akzeptabel oder respektabel in Charakter oder Verhalten"],
+    "examples_de": [["Die **herzhafte** Tarte war mit Käse gefüllt", "Die britische Küche bietet viele **pikante** Puddings"], ["Der Deal hatte einige weniger **saubere** Aspekte", "Er mied **zwielichtige** Gestalten in der Bar"]]
+  },
+  {
+    "lemma": "scalable",
+    "meanings_de": ["skalierbar"],
+    "definitions_de": ["in der Lage, in Größe, Umfang oder Kapazität vergrößert oder verkleinert zu werden, besonders in Geschäft oder Technologie"],
+    "examples_de": [["Das **skalierbare** Geschäftsmodell zog viele Investoren an", "Sie entwarfen eine **skalierbare** Softwarearchitektur"]]
+  },
+  {
+    "lemma": "scalar",
+    "meanings_de": ["skalar"],
+    "definitions_de": ["nur eine Größe und keine Richtung habend, besonders in Mathematik und Physik verwendet"],
+    "examples_de": [["Temperatur ist eine **skalare** Größe im Gegensatz zur Geschwindigkeit", "Das **skalare** Feld zeigte gleichmäßige Verteilungsmuster"]]
+  },
+  {
+    "lemma": "scaled",
+    "meanings_de": ["geschuppt", "maßstäblich"],
+    "definitions_de": ["mit Schuppen bedeckt, wie sie Fische oder Reptilien auf ihrer Haut haben", "proportional in der Größe angepasst, entweder vergrößert oder verkleinert bei Beibehaltung der Proportionen"],
+    "examples_de": [["Der **geschuppte** Fisch glitzerte im Sonnenlicht", "Ein **geschuppter** Drache erschien in der Geschichte"], ["Das **maßstabsgetreue** Modell zeigte Gebäudedetails deutlich", "Sie erstellten **maßstäbliche** Zeichnungen für das Projekt"]]
+  },
+  {
+    "lemma": "scalloped",
+    "meanings_de": ["gewellt", "überbacken"],
+    "definitions_de": ["einen welligen dekorativen Rand oder Saum habend wie eine Jakobsmuschel", "durch Backen in einer Sahne- oder Milchsauce zubereitet, oft mit Semmelbröseln bestreut"],
+    "examples_de": [["Sie trug ein Kleid mit **gewellten** Rändern", "Der **wellenförmige** Rand fügte dekorative Details hinzu"], ["Das Restaurant servierte **überbackene** Kartoffeln zum Abendessen", "Der **überbackene** Mais ihrer Großmutter war berühmt"]]
+  },
+  {
+    "lemma": "scaly",
+    "meanings_de": ["schuppig", "abblätternd"],
+    "definitions_de": ["mit Schuppen bedeckt, wie sie bei Fischen, Reptilien oder ähnlichen Kreaturen vorkommen", "eine trockene, abblätternde Oberfläche habend, die in dünnen Stücken abschält"],
+    "examples_de": [["Die **schuppige** Eidechse sonnte sich auf warmen Felsen", "Drachen werden mit **schuppiger** Haut dargestellt"], ["Seine **schuppigen** Ellbogen brauchten feuchtigkeitsspendende Lotion", "Die alte Farbe war **schuppig** und blätterte ab"]]
+  },
+  {
+    "lemma": "scandalous",
+    "meanings_de": ["skandalös"],
+    "definitions_de": ["allgemeine öffentliche Empörung, Schock oder Wut verursachend, indem es moralisch oder rechtlich falsch ist"],
+    "examples_de": [["Die **skandalöse** Affäre des Politikers ruinierte seine Karriere", "Ihr **skandalöses** Verhalten schockierte die konservative Stadt"]]
+  }
+]

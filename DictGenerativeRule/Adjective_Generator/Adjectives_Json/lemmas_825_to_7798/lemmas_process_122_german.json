@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "veiled",
+    "meanings_de": ["bedeckt oder verhüllt", "indirekt oder verschleiert"],
+    "definitions_de": ["mit einem Schleier oder ähnlicher Bedeckung versehen, die teilweise verbirgt oder das Sichtfeld einschränkt", "indirekt oder in verschleierter Weise ausgedrückt, um die wahre Bedeutung oder Absicht zu verbergen"],
+    "examples_de": [["Die **verschleierte** Frau ging leise über den Markt", "Ihr Gesicht blieb während der gesamten Zeremonie **verschleiert**"], ["Er machte eine **verschleierte** Drohung über die Preisgabe von Geheimnissen", "Die **verhüllte** Kritik in ihrer Rede war dennoch offensichtlich"]]
+  },
+  {
+    "lemma": "veined",
+    "meanings_de": ["mit Adern durchzogen"],
+    "definitions_de": ["sichtbare Adern, Streifen oder verzweigte Linien aufweisend, die Blutgefäßen ähneln und sich durch etwas hindurchziehen"],
+    "examples_de": [["Die **geäderte** Marmorarbeitsplatte sah elegant und teuer aus", "Ihre **geäderten** Hände zeigten deutlich ihr fortgeschrittenes Alter"], ["Die **geäderten** Blätter zeigten komplizierte Muster im Sonnenlicht", "Dieser **geäderte** Käse hat einen charakteristisch kräftigen Geschmack"]]
+  },
+  {
+    "lemma": "velvet",
+    "meanings_de": ["weich wie Samt"],
+    "definitions_de": ["die weiche, glatte Textur besitzend, die für Samtstoff charakteristisch ist"],
+    "examples_de": [["Die **samtenen** Blütenblätter fühlten sich luxuriös auf ihrer Haut an", "Seine **samtene** Stimme beruhigte alle im Raum"], ["Die **samtene** Dunkelheit der Nacht umhüllte die Stadt", "Sie streichelte das **samtweiche** Fell der Katze sanft"]]
+  },
+  {
+    "lemma": "velvety",
+    "meanings_de": ["weich und glatt"],
+    "definitions_de": ["eine weiche, glatte Textur besitzend, die in Gefühl oder Aussehen an Samt erinnert"],
+    "examples_de": [["Die **samtige** Schokoladenmousse schmolz auf ihrer Zunge", "Seine **samtige** Haut fühlte sich unglaublich glatt an"], ["Der Wein hatte einen **samtigen** Abgang, der lange nachklang", "Sie liebte die **samtige** Textur des Stoffes"]]
+  },
+  {
+    "lemma": "venerable",
+    "meanings_de": ["ehrwürdig"],
+    "definitions_de": ["Respekt gebietend aufgrund hohen Alters, Würde, Charakters oder gesellschaftlicher Stellung"],
+    "examples_de": [["Der **ehrwürdige** Professor hatte fünfzig Jahre lang unterrichtet", "Sie besuchten die **ehrwürdige** Kathedrale, die vor Jahrhunderten erbaut wurde"], ["Der **ehrwürdige** Richter gebot Respekt im Gerichtssaal", "Diese **ehrwürdige** Institution hat der Gemeinschaft gut gedient"]]
+  },
+  {
+    "lemma": "vengeful",
+    "meanings_de": ["rachsüchtig"],
+    "definitions_de": ["Rache begehrend oder suchend; den Wunsch habend, für empfundenes Unrecht oder Verletzungen Vergeltung zu üben"],
+    "examples_de": [["Der **rachsüchtige** Krieger verfolgte seine Feinde überallhin unerbittlich", "Ihre **rachsüchtige** Einstellung zerstörte viele wichtige persönliche Beziehungen"], ["Er schrieb einen **rachsüchtigen** Brief, nachdem er entlassen wurde", "Der **rachsüchtige** Geist verfolgte jene, die ihr Unrecht getan hatten"]]
+  },
+  {
+    "lemma": "venomous",
+    "meanings_de": ["Gift produzierend", "voller Bosheit"],
+    "definitions_de": ["Gift produzierend oder absondernd; fähig, durch Biss oder Stich Gift zu injizieren", "voller bitterer Bosheit, Gehässigkeit oder extremer Feindseligkeit in Art oder Rede"],
+    "examples_de": [["Die **giftige** Schlange schlug schnell nach ihrer Beute", "Mehrere **giftige** Spinnen leben in dieser tropischen Region"], ["Ihre **giftigen** Bemerkungen verletzten alle bei der Besprechung", "Er antwortete mit **giftiger** Kritik an ihrer Arbeit"]]
+  },
+  {
+    "lemma": "vented",
+    "meanings_de": ["mit Belüftungsöffnungen versehen"],
+    "definitions_de": ["mit Öffnungen oder Auslässen versehen, durch die Luft, Gas oder Flüssigkeit hindurchströmen kann"],
+    "examples_de": [["Der **belüftete** Helm hielt den Fahrer effektiv kühl", "Dieser **belüftete** Behälter verhindert gefährlichen Druckaufbau im Inneren"], ["Der **belüftete** Dachbodenraum verbesserte die Energieeffizienz des Hauses", "Sie trug **belüftete** Schuhe für bessere Luftzirkulation"]]
+  },
+  {
+    "lemma": "ventilated",
+    "meanings_de": ["mit Frischluft versorgt"],
+    "definitions_de": ["mit Frischluftzirkulation durch natürliche oder mechanische Mittel für Komfort versorgt"],
+    "examples_de": [["Der gut **belüftete** Raum fühlte sich trotz Sommerhitze angenehm an", "Dieser **belüftete** Lagerbereich verhindert effektiv Schimmelbildung"], ["Das **belüftete** Gewächshaus hielt das ganze Jahr über ideale Wachstumsbedingungen aufrecht", "Arbeiter benötigen aus Sicherheitsgründen ordentlich **belüftete** Räume"]]
+  },
+  {
+    "lemma": "verbatim",
+    "meanings_de": ["Wort für Wort"],
+    "definitions_de": ["genau dieselben Wörter verwendend; Wort für Wort ohne Änderung wiederholt oder kopiert"],
+    "examples_de": [["Sie wiederholte seine Anweisungen **wortwörtlich**, um Fehler zu vermeiden", "Das **wortgetreue** Protokoll erfasste jedes gesprochene Wort präzise"], ["Er zitierte die Passage **wortwörtlich** aus dem Original", "Das **wortgetreue** Protokoll erwies sich als entscheidend im Prozess"]]
+  },
+  {
+    "lemma": "verbose",
+    "meanings_de": ["übermäßig wortreich"],
+    "definitions_de": ["mehr Wörter als nötig verwendend; durch Wortreichtum und unnötige Ausschmückung im Ausdruck gekennzeichnet"],
+    "examples_de": [["Sein **wortreicher** Schreibstil machte Berichte schwer lesbar", "Der **weitschweifige** Redner verlor schnell die Aufmerksamkeit des Publikums"], ["Sie gab eine **weitschweifige** Erklärung einfacher Konzepte", "Das **ausschweifende** Handbuch verwirrte mehr, als es half"]]
+  },
+  {
+    "lemma": "verdant",
+    "meanings_de": ["grün bewachsen"],
+    "definitions_de": ["grün von Gras oder anderer üppiger Vegetation; bedeckt mit frischem, üppigem Pflanzenwuchs"],
+    "examples_de": [["Die **grüne** Wiese erstreckte sich endlos vor den Wanderern", "Frühlingsregen schufen **grünende** Hügel in der ganzen Region"], ["Sie pickten in einem **grünen** Tal neben Bächen", "Der **üppig grüne** Garten erforderte ständiges Gießen und Pflege"]]
+  },
+  {
+    "lemma": "verifiable",
+    "meanings_de": ["nachprüfbar"],
+    "definitions_de": ["in der Lage, durch Beweise oder Untersuchung überprüft, bestätigt oder als wahr bewiesen zu werden"],
+    "examples_de": [["Alle Behauptungen müssen durch verlässliche Quellen **nachprüfbar** sein", "Die Wissenschaftlerin lieferte **verifizierbare** Daten zur Unterstützung ihrer Theorie"], ["Seine Beschäftigungsgeschichte war durch Unterlagen leicht **nachprüfbar**", "Sie verlangten **nachweisbare** Einkommensnachweise für Kredite"]]
+  },
+  {
+    "lemma": "verified",
+    "meanings_de": ["als wahr bestätigt"],
+    "definitions_de": ["durch Überprüfung als wahr, genau oder legitim bestätigt, bewiesen oder festgestellt"],
+    "examples_de": [["Das **verifizierte** Konto gehörte der Prominenten selbst", "Alle **verifizierten** Fakten wurden in den Bericht aufgenommen"], ["Sie verwendete nur **verifizierte** Quellen für ihre Forschung", "Die **bestätigten** Ergebnisse bestätigten ihre anfängliche Hypothese vollständig"]]
+  },
+  {
+    "lemma": "verifying",
+    "meanings_de": ["auf Richtigkeit prüfend"],
+    "definitions_de": ["im Prozess des Überprüfens, Bestätigens oder Feststellens der Wahrheit oder Genauigkeit"],
+    "examples_de": [["Die Bank **überprüft** gerade Ihre Kontoinformationen", "Wissenschaftler **verifizieren** die experimentellen Ergebnisse durch Wiederholung"], ["Sie verbrachte Stunden damit, Daten für das Projekt zu **überprüfen**", "Der **Verifizierungsprozess** dauert normalerweise mehrere Werktage"]]
+  },
+  {
+    "lemma": "veritable",
+    "meanings_de": ["wahrhaft oder tatsächlich"],
+    "definitions_de": ["wirklich oder sehr wohl so seiend; echt, tatsächlich oder real ohne Übertreibung"],
+    "examples_de": [["Der Ausverkauf löste einen **wahrhaften** Ansturm von Käufern aus", "Ihr Garten war ein **wahres** Paradies der Farben"], ["Er stand täglich vor einem **wahrhaften** Berg von Papierkram", "Der Sturm brachte eine **wahre** Sintflut von Regen"]]
+  },
+  {
+    "lemma": "vermilion",
+    "meanings_de": ["leuchtend rot"],
+    "definitions_de": ["von lebhaft roter bis rötlich-oranger Farbe wie das Pigment Quecksilbersulfid"],
+    "examples_de": [["Der **zinnoberrote** Sonnenuntergang malte den Himmel heute Abend dramatisch", "Sie trug **zinnoberroten** Lippenstift zur formellen Veranstaltung"], ["Der Künstler mischte **zinnoberrote** Farbe für die Blumen", "**Zinnoberrote** Roben kennzeichneten die hochrangigen Mönche deutlich"]]
+  },
+  {
+    "lemma": "vernacular",
+    "meanings_de": ["umgangssprachlich"],
+    "definitions_de": ["die Muttersprache oder den Dialekt eines bestimmten Landes, einer Region oder Gruppe verwendend"],
+    "examples_de": [["Er schrieb Gedichte in **umgangssprachlichem** Englisch und vermied Förmlichkeit", "Die **volkstümliche** Architektur spiegelte lokale Bautraditionen perfekt wider"], ["Medizinische Begriffe wurden in **verständlicher** Sprache klar erklärt", "Sie studierte **umgangssprachliche** Ausdrücke aus verschiedenen Regionen ausführlich"]]
+  },
+  {
+    "lemma": "versatile",
+    "meanings_de": ["vielseitig einsetzbar"],
+    "definitions_de": ["fähig, sich an viele verschiedene Funktionen, Tätigkeiten oder Situationen anzupassen oder angepasst zu werden"],
+    "examples_de": [["Der **vielseitige** Schauspieler spielte sowohl Komödie als auch Drama", "Dieses **vielseitige** Werkzeug erfüllt mehrere Zwecke im Haushalt"], ["Sie ist eine **vielseitige** Athletin, die in mehreren Sportarten brilliert", "Die **vielseitige** Zutat funktioniert in süßen oder herzhaften Gerichten"]]
+  },
+  {
+    "lemma": "versed",
+    "meanings_de": ["erfahren oder bewandert"],
+    "definitions_de": ["durch Studium erfahren, geübt oder geschickt in einem bestimmten Thema oder einer Tätigkeit"],
+    "examples_de": [["Sie ist gut **bewandert** in klassischer Literatur und Poesie", "Der Anwalt war **versiert** im internationalen Handelsrecht"], ["Er ist **bewandert** in mehreren Programmiersprachen und Frameworks", "Der **versierte** Musiker spielte mehrere Instrumente professionell gut"]]
+  },
+  {
+    "lemma": "vertebrate",
+    "meanings_de": ["mit Wirbelsäule"],
+    "definitions_de": ["ein Rückgrat oder eine Wirbelsäule besitzend; zum Unterstamm der Tiere mit Rückgrat gehörend"],
+    "examples_de": [["**Wirbeltiere** umfassen Säugetiere, Vögel und Reptilien", "Das **Wirbeltier**-Fossil zeigte deutliche Überreste der Wirbelsäulenstruktur"], ["Wissenschaftler studieren die Evolution der **Wirbeltiere** durch vergleichende Anatomieforschung", "Alle **Wirbeltier**-Arten teilen grundlegend bestimmte Entwicklungsmerkmale"]]
+  },
+  {
+    "lemma": "vertical",
+    "meanings_de": ["senkrecht zur Horizontalen"],
+    "definitions_de": ["im rechten Winkel zur horizontalen Ebene; aufrecht, gerade nach oben und unten"],
+    "examples_de": [["Die **senkrechte** Felswand forderte selbst erfahrene Kletterer heraus", "Sie zeichnete **vertikale** Linien, um die Seite zu unterteilen"], ["Der **vertikale** Garten nutzte begrenzten städtischen Raum effizient", "**Vertikale** Jalousien filterten das helle Morgenlicht effektiv"]]
+  },
+  {
+    "lemma": "vested",
+    "meanings_de": ["rechtlich berechtigt", "eine Weste tragend"],
+    "definitions_de": ["ein gesetzliches Recht oder einen Anspruch habend, der nicht weggenommen oder verweigert werden kann", "eine Weste oder ein ähnliches Kleidungsstück über anderer Kleidung tragend"],
+    "examples_de": [["Mitarbeiter haben **unantastbare** Rechte auf ihre Rentenleistungen", "Sie hat ein **berechtigtes** Interesse am Erfolg des Unternehmens"], ["Die **bewesten** Chormitglieder sangen während des Sonntagsgottesdienstes", "**Beweste** Sicherheitskräfte patrouillierten regelmäßig auf dem Gebäude"]]
+  },
+  {
+    "lemma": "vestigial",
+    "meanings_de": ["als Überrest verbleibend"],
+    "definitions_de": ["als Spur oder Überrest von etwas verbleibend, das einst größer oder entwickelter war"],
+    "examples_de": [["Die **rudimentären** Beinknochen des Wals beweisen die Evolutionsgeschichte", "Einige Schlangen behalten **rudimentäre** Hüftknochen von Vorfahren"], ["Das **rudimentäre** Organ erfüllt keine Funktion mehr", "Diese **rudimentären** Strukturen liefern Beweise für gemeinsame Abstammung"]]
+  },
+  {
+    "lemma": "veterinary",
+    "meanings_de": ["tiermedizinisch"],
+    "definitions_de": ["sich auf die medizinische Versorgung und Behandlung von Tieren, insbesondere Haustieren, beziehend"],
+    "examples_de": [["Die **tierärztliche** Klinik behandelte Haustiere und Nutztiere", "Sie studierte **Veterinärmedizin** an der staatlichen Universität"], ["Die **tierärztliche** Versorgung hat sich in den letzten Jahrzehnten erheblich verbessert", "Der **Tierchirurg** operierte den verletzten Hund"]]
+  },
+  {
+    "lemma": "vexed",
+    "meanings_de": ["verärgert oder frustriert"],
+    "definitions_de": ["Verärgerung, Frustration oder Sorge über etwas Schwieriges oder Beunruhigendes fühlend oder zeigend"],
+    "examples_de": [["Sie sah **verärgert** aus wegen der ständigen Unterbrechungen heute", "Der **verärgerte** Kunde verlangte, mit der Geschäftsführung zu sprechen"], ["Er fühlte sich **verärgert** über die ungelöste Problemsituation", "Der **verärgerte** Gesichtsausdruck verriet deutlich ihre wachsende Ungeduld"]]
+  },
+  {
+    "lemma": "vibrant",
+    "meanings_de": ["voller Energie", "leuchtend und auffällig"],
+    "definitions_de": ["voller Energie, Enthusiasmus und Leben; vor Kraft oder Aktivität pulsierend", "hell, auffällig und intensiv in Farbe oder Licht; lebhaft und ins Auge fallend"],
+    "examples_de": [["Die **lebendige** Gemeinschaft feierte stolz ihre kulturelle Vielfalt", "Sie hat eine **lebhafte** Persönlichkeit, die Menschen anzieht"], ["Der Künstler verwendete **leuchtende** Farben im gesamten Gemälde", "Der **leuchtende** Sonnenuntergang erhellte den Abendhimmel"]]
+  },
+  {
+    "lemma": "vibrational",
+    "meanings_de": ["schwingungsbezogen"],
+    "definitions_de": ["sich auf Schwingung oder schnelle Hin- und Herbewegung von Teilchen beziehend oder dadurch gekennzeichnet"],
+    "examples_de": [["Die **Schwingungsfrequenz** bestimmt deutlich die Tonhöhe des Klangs", "Wissenschaftler maßen **Schwingungsenergie** in der Molekularstruktur"], ["**Schwingungstherapie** nutzt Schallwellen zu Heilzwecken", "Die **Schwingungsmuster** offenbarten strukturelle Schwächen in Materialien"]]
+  },
+  {
+    "lemma": "vicarious",
+    "meanings_de": ["stellvertretend erlebt"],
+    "definitions_de": ["durch imaginative oder mitfühlende Teilnahme an der Erfahrung einer anderen Person erlebt"],
+    "examples_de": [["Eltern empfinden oft **stellvertretenden** Stolz über die Leistungen ihrer Kinder", "Sie erlebte täglich **stellvertretende** Abenteuer durch Reisebücher"], ["Das Publikum empfand **stellvertretende** Verlegenheit für den Darsteller", "Er gewann **stellvertretende** Freude aus dem Erfolg seines Freundes"]]
+  },
+  {
+    "lemma": "vicious",
+    "meanings_de": ["absichtlich grausam", "heftig oder intensiv"],
+    "definitions_de": ["absichtlich grausam oder gewalttätig; den Wunsch zeigend, anderen zu schaden oder wehzutun", "schwer, intensiv oder hart in Grad, Art oder Wirkung auf jemanden"],
+    "examples_de": [["Der **brutale** Angriff hinterließ mehrere schwer verletzte Menschen", "Sie verbreitete **bösartige** Gerüchte über ihre ehemalige Freundin"], ["Der **heftige** Sturm zerstörte Häuser in der ganzen Region", "Sie standen einem **erbitterten** Wettbewerb auf dem Weltmarkt gegenüber"]]
+  },
+  {
+    "lemma": "victimized",
+    "meanings_de": ["zum Opfer gemacht"],
+    "definitions_de": ["unfair leiden gemacht; für grausame oder ungerechte Behandlung durch andere ausgewählt"],
+    "examples_de": [["Die **schikanierten** Schüler meldeten Mobbing bei den Schulbehörden", "Sie fühlte sich durch die unfairen Firmenrichtlinien **benachteiligt**"], ["**Geschädigte** Gemeinschaften kämpften nach der Katastrophe um den Wiederaufbau", "Der **viktimisierte** Zeuge benötigte Schutz vor weiteren Schäden"]]
+  },
+  {
+    "lemma": "victorian",
+    "meanings_de": ["aus viktorianischer Zeit", "prüde oder streng"],
+    "definitions_de": ["sich auf die Regierungszeit von Königin Victoria oder die Einstellungen und Werte dieser Zeit beziehend", "Einstellungen strenger Moral und Anstand habend, die mit der viktorianischen Zeit verbunden sind"],
+    "examples_de": [["Das **viktorianische** Herrenhaus wies durchgehend verzierte architektonische Details auf", "Sie sammelte **viktorianische** Möbel und dekorative Kunstgegenstände"], ["Seine **viktorianischen** Einstellungen zu Beziehungen wirkten heute veraltet", "Die **viktorianische** Empfindsamkeit verbot es, bestimmte Themen offen zu diskutieren"]]
+  },
+  {
+    "lemma": "victorious",
+    "meanings_de": ["siegreich"],
+    "definitions_de": ["einen Sieg oder Erfolg errungen habend; triumphierend in Schlacht, Wettkampf oder Konflikt"],
+    "examples_de": [["Das **siegreiche** Team feierte enthusiastisch seinen Meisterschaftssieg", "Sie ging **siegreich** aus dem schwierigen Rechtsstreit hervor"], ["Die **siegreiche** Armee kehrte unter jubelnden Menschenmengen nach Hause zurück", "Sein **siegreiches** Lächeln zeigte Stolz auf die Leistung"]]
+  },
+  {
+    "lemma": "viewable",
+    "meanings_de": ["sichtbar"],
+    "definitions_de": ["in der Lage, angeschaut, beobachtet oder gesehen zu werden; geeignet oder verfügbar zum Ansehen"],
+    "examples_de": [["Die Dokumente sind online über sicheren Zugang **einsehbar**", "Diese Dateien sind nur mit spezieller Software **sichtbar**"], ["Die Sonnenfinsternis war gleichzeitig von mehreren Ländern aus **sichtbar**", "Der **sichtbare** Bereich vergrößerte sich mit dem größeren Bildschirm"]]
+  },
+  {
+    "lemma": "vigilant",
+    "meanings_de": ["wachsam und aufmerksam"],
+    "definitions_de": ["sorgfältig auf mögliche Gefahren oder Schwierigkeiten achtend; ständig aufmerksam und achtsam"],
+    "examples_de": [["Der **wachsame** Wächter bemerkte sofort verdächtige Aktivitäten in der Nähe", "Eltern müssen immer **wachsam** bezüglich der Online-Sicherheit bleiben"], ["**Wachsame** Bürger meldeten das ungewöhnliche Verhalten der Polizei", "Sie blieb während der langen Nachtschicht **wachsam**"]]
+  },
+  {
+    "lemma": "vigorous",
+    "meanings_de": ["stark und energisch"],
+    "definitions_de": ["stark, gesund und voller Energie; durch kraftvolle und energische Handlung gekennzeichnet"],
+    "examples_de": [["Das **intensive** Trainingsprogramm verbesserte seine Fitness erheblich", "Sie verteidigte ihre Position **energisch**"], ["Die Pflanze zeigte **kräftiges** Wachstum im Frühlingssonnenschein", "Sie führten eine **lebhafte** Debatte über das Thema"]]
+  },
+  {
+    "lemma": "vile",
+    "meanings_de": ["extrem unangenehm", "moralisch verachtenswert"],
+    "definitions_de": ["für die Sinne oder Gefühle extrem unangenehm; ekelhaft oder beleidigend", "moralisch verachtenswert, böse oder schändlich; starke Verurteilung oder Abscheu verdienend"],
+    "examples_de": [["Der **widerliche** Geruch aus dem Müll machte alle krank", "Er machte **abscheuliche** Kommentare über seine ehemaligen Kollegen"], ["Das **scheußliche** Wetter ruinierte unsere Hochzeitspläne im Freien", "Solch **verabscheuungswürdiges** Verhalten wird hier nicht toleriert"]]
+  },
+  {
+    "lemma": "villainous",
+    "meanings_de": ["bösartig wie ein Schurke"],
+    "definitions_de": ["sich auf einen Schurken beziehend, ihn ausmachend oder ihm angemessen; extrem böse oder kriminell in der Natur"],
+    "examples_de": [["Sein **schurkischer** Plan, das Vermögen zu stehlen, scheiterte", "Der Schauspieler perfektionierte sein **schurkisches** Lachen für Filme"], ["Der **niederträchtige** Plan beinhaltete den Verrat vertrauter Freunde vollständig", "Sie spielte **schurkische** Charaktere in mehreren Thrillerfilmen"]]
+  },
+  {
+    "lemma": "vindicated",
+    "meanings_de": ["von Schuld befreit"],
+    "definitions_de": ["von Anschuldigung, Schuld oder Verdacht befreit; als richtig oder gerechtfertigt erwiesen"],
+    "examples_de": [["Der **rehabilitierte** Angeklagte feierte nach Jahren von Prozessen", "Ihre **bestätigte** Theorie erhielt Anerkennung von Wissenschaftskollegen"], ["Er fühlte sich **gerechtfertigt**, als Beweise seine Unschuld bewiesen", "Der **rehabilitierte** Whistleblower erhielt schließlich eine öffentliche Entschuldigung"]]
+  },
+  {
+    "lemma": "vindictive",
+    "meanings_de": ["unvernünftig rachsüchtig"],
+    "definitions_de": ["einen starken Wunsch nach Rache habend oder zeigend; Vergeltung über ein vernünftiges Maß hinaus verfolgend"],
+    "examples_de": [["Ihr **rachsüchtiges** Verhalten zerstörte mehrere berufliche Beziehungen dauerhaft", "Die **rachsüchtige** Klage schien von persönlichen Groll motiviert"], ["Er machte **rachsüchtige** Kommentare über ehemalige Geschäftspartner", "Die **rachsüchtige** Reaktion überschritt das ursprüngliche Vergehen erheblich"]]
+  },
+  {
+    "lemma": "violated",
+    "meanings_de": ["gebrochen oder missachtet"],
+    "definitions_de": ["gebrochen, verletzt oder missachtet, besonders in Bezug auf Regeln, Vereinbarungen oder persönliche Grenzen"],
+    "examples_de": [["Der **verletzte** Vertrag führte zu erneuten militärischen Konflikten", "Sie fühlte sich durch die Verletzung ihrer Privatsphäre **verletzt**"], ["Die **verletzten** Vorschriften führten zu hohen Geldstrafen", "Sein **verletztes** Vertrauen konnte nie vollständig wiederhergestellt werden"]]
+  },
+  {
+    "lemma": "violet",
+    "meanings_de": ["violett"],
+    "definitions_de": ["von einer bläulich-violetten Farbe, die am Ende des Spektrums gegenüber Rot zu sehen ist"],
+    "examples_de": [["Sie trug ein wunderschönes **violettes** Kleid zur Gala", "Die **violetten** Blumen blühten in Frühlingsgärten"], ["Der Sonnenuntergangshimmel wurde **violett**, bevor er zu Schwarz verblasste", "Er strich das Zimmer in sanften **violetten** Tönen"]]
+  },
+  {
+    "lemma": "viral",
+    "meanings_de": ["durch Virus verursacht", "sich online schnell verbreitend"],
+    "definitions_de": ["durch ein Virus oder eine Virusinfektion in lebenden Organismen verursacht oder damit zusammenhängend", "sich schnell und weit durch Internetfreigabe verbreitend, besonders auf Social-Media-Plattformen"],
+    "examples_de": [["Die **virale** Infektion breitete sich in der ganzen Schule aus", "Ärzte verschrieben Medikamente gegen ihre **viralen** Lungenentzündungssymptome"], ["Das Video wurde innerhalb von Stunden nach der Veröffentlichung **viral**", "Sein **viraler** Tweet generierte über Nacht Millionen von Aufrufen"]]
+  },
+  {
+    "lemma": "virgin",
+    "meanings_de": ["unberührt oder unbenutzt", "sexuell unerfahren"],
+    "definitions_de": ["noch nicht berührt, benutzt oder ausgebeutet; im ursprünglichen oder natürlichen Zustand", "keinen Geschlechtsverkehr gehabt habend; einen Zustand sexueller Unerfahrenheit beibehaltend"],
+    "examples_de": [["Sie erkundeten **unberührten** Wald, der von menschlicher Entwicklung verschont geblieben war", "Der **jungfräuliche** Schnee zeigte keine Fußspuren oder Spuren"], ["Die **jungfräuliche** Braut trug traditionelle weiße Hochzeitskleidung", "Alte Kulturen schätzten **jungfräuliche** Priesterinnen für den Tempeldienst"]]
+  },
+  {
+    "lemma": "virginal",
+    "meanings_de": ["rein und unberührt"],
+    "definitions_de": ["sich in einem Zustand der Jungfräulichkeit befindend; durch Reinheit, Unschuld oder Frische gekennzeichnet"],
+    "examples_de": [["Das **jungfräuliche** weiße Kleid symbolisierte Reinheit und Unschuld", "Ihr **jungfräuliches** Aussehen täuschte über ihre weltliche Erfahrung hinweg"], ["Die **unberührte** Landschaft blieb von moderner Entwicklung verschont", "Er bewahrte während seiner gesamten Karriere einen **makellosen** Ruf"]]
+  },
+  {
+    "lemma": "virile",
+    "meanings_de": ["männlich und stark"],
+    "definitions_de": ["Stärke, Energie und andere Eigenschaften besitzend, die traditionell mit männlicher Kraft und Potenz verbunden sind"],
+    "examples_de": [["Der **virile** Athlet dominierte jeden Wettkampf, an dem er teilnahm", "Sein **männliches** Aussehen zog Aufmerksamkeit im Fitnessstudio auf sich"], ["Der Schauspieler kultivierte ein **viriles** Image für Actionfilme", "Antike Statuen stellten **virile** Götter mit muskulösen Körpern dar"]]
+  },
+  {
+    "lemma": "virtuoso",
+    "meanings_de": ["außergewöhnlich geschickt"],
+    "definitions_de": ["außergewöhnliches Können zeigend, besonders in Musik oder einer anderen künstlerischen Tätigkeit, die technische Meisterschaft erfordert"],
+    "examples_de": [["Ihre **virtuose** Darbietung erhielt stehende Ovationen vom Publikum", "Der **virtuose** Pianist spielte das komplexe Stück mühelos"], ["Sein **virtuoses** Gitarrensolo beeindruckte selbst erfahrene Musiker", "Die **virtuosen** Messerkünste des Kochs erstaunten die Restaurantgäste"]]
+  },
+  {
+    "lemma": "virtuous",
+    "meanings_de": ["moralisch vortrefflich"],
+    "definitions_de": ["hohe moralische Standards, Rechtschaffenheit und Vortrefflichkeit des Charakters oder Verhaltens habend oder zeigend"],
+    "examples_de": [["Der **tugendhafte** Führer lehnte alle Bestechungen und Korruption ab", "Sie führte ein **tugendhaftes** Leben, das der Hilfe für andere gewidmet war"], ["Sein **tugendhaftes** Verhalten erwarb Respekt von der Gemeinschaft", "Die **tugendhafte** Wahl erforderte persönliche Opfer, fühlte sich aber richtig an"]]
+  },
+  {
+    "lemma": "virulent",
+    "meanings_de": ["extrem ansteckend", "bitter feindselig"],
+    "definitions_de": ["extrem schwer oder schädlich in den Auswirkungen; hochgradig infektiös, bösartig oder giftig", "bitter feindselig, antagonistisch oder hart in Ton, Art oder Wirkung"],
+    "examples_de": [["Der **virulente** Grippestamm breitete sich weltweit schnell aus", "Wissenschaftler untersuchten die **virulenten** Bakterien unter strengen Sicherheitsvorkehrungen"], ["Seine **virulente** Kritik zerstörte ihr Selbstvertrauen vollständig", "Die **virulente** politische Rhetorik spaltete die Nation tief"]]
+  },
+  {
+    "lemma": "visceral",
+    "meanings_de": ["instinktiv und emotional"],
+    "definitions_de": ["sich auf tiefe innere Gefühle statt auf Intellekt beziehend; instinktiv, emotional und unüberlegt"],
+    "examples_de": [["Sie hatte eine **viszerale** Reaktion auf die verstörenden Bilder", "Seine **viszerale** Höhenangst verhinderte das Bergsteigen"], ["Der Film provozierte **viszerale** Reaktionen bei empfindlichen Zuschauern", "Ihr **viszeraler** Hass auf Ungerechtigkeit motivierte lebenslangen Aktivismus"]]
+  }
+]

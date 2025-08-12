@@ -1,0 +1,296 @@
+[
+  {
+    "lemma": "jealousy",
+    "meanings_de": ["Eifersuchtsgefühl"],
+    "definitions_de": ["unangenehmes Gefühl des Neides auf das, was andere besitzen, oder die Angst, etwas Wertvolles an jemand anderen zu verlieren"],
+    "examples_de": [["Seine **Eifersucht** zerstörte nach und nach ihre Beziehung", "Sie empfand **Eifersucht**, als ihre Kollegin befördert wurde"]]
+  },
+  {
+    "lemma": "jean",
+    "meanings_de": ["Jeansstoff"],
+    "definitions_de": ["strapazierfähiger Baumwollstoff mit diagonaler Rippung, der besonders für die Herstellung von Freizeitkleidung verwendet wird"],
+    "examples_de": [["Die Jacke war aus dickem blauen **Jeansstoff** gefertigt", "Sie bevorzugte **Jeans**stoff wegen seiner Langlebigkeit und Bequemlichkeit"]]
+  },
+  {
+    "lemma": "jeep",
+    "meanings_de": ["robustes Geländefahrzeug"],
+    "definitions_de": ["kleines, stabiles Kraftfahrzeug mit Allradantrieb, das ursprünglich von Militärstreitkräften eingesetzt wurde"],
+    "examples_de": [["Sie fuhren mit dem **Jeep** durch unwegsames Berggelände", "Der alte Armee-**Jeep** wurde perfekt restauriert"]]
+  },
+  {
+    "lemma": "jello",
+    "meanings_de": ["Wackelpudding"],
+    "definitions_de": ["süße, aromatisierte Gelatinespeise, die beim Bewegen wackelt und beim Abkühlen fest wird"],
+    "examples_de": [["Die Kinder genossen roten **Wackelpudding** auf der Geburtstagsfeier", "Sie bereitete Limetten-**Götterspeise** mit Fruchtstücken zu"]]
+  },
+  {
+    "lemma": "jelly",
+    "meanings_de": ["Fruchtgelee", "gallertartige Substanz"],
+    "definitions_de": ["klarer, süßer Aufstrich aus mit Zucker eingekochtem Fruchtsaft", "weiche, halbtransparente Substanz mit einer Konsistenz zwischen flüssig und fest"],
+    "examples_de": [["Sie strich Trauben**gelee** auf ihr Frühstücksbrot", "Das selbstgemachte Erdbeer**gelee** gewann den ersten Preis"], ["Die Qualle sah aus wie schwimmendes **Gelee** im Wasser", "Das Medikament war in klarer **Gel**form erhältlich"]]
+  },
+  {
+    "lemma": "jellyfish",
+    "meanings_de": ["durchsichtige Meereskreatur"],
+    "definitions_de": ["Meerestier mit weichem, durchsichtigem, glockenförmigem Körper und langen, nesselnden Tentakeln"],
+    "examples_de": [["Die **Qualle** trieb langsam mit der Meeresströmung", "Schwimmer mieden das Gebiet wegen gefährlicher **Quallen**"]]
+  },
+  {
+    "lemma": "jeopardy",
+    "meanings_de": ["Gefahr oder Risiko"],
+    "definitions_de": ["ernsthafte Gefahr von Verlust, Schaden oder Versagen, die etwas Wichtiges bedroht"],
+    "examples_de": [["Sein rücksichtsloses Fahren brachte alle Leben in **Gefahr**", "Die Zukunft des Unternehmens war nach dem Verlust in **Gefahr**"]]
+  },
+  {
+    "lemma": "jerk",
+    "meanings_de": ["plötzliche ruckartige Bewegung", "unangenehme unhöfliche Person"],
+    "definitions_de": ["schnelle, plötzliche Bewegung oder Zug in eine Richtung", "Person, die sich auf nervige, unhöfliche oder dumme Weise verhält"],
+    "examples_de": [["Der Zug fuhr mit einem plötzlichen **Ruck** an", "Er gab dem Seil einen kräftigen **Ruck** zum Testen"], ["Dieser **Idiot** hat sich vor mir in die Schlange gedrängt", "Sei nicht so ein **Trottel** zu deiner Schwester"]]
+  },
+  {
+    "lemma": "jerky",
+    "meanings_de": ["getrockneter Fleischsnack"],
+    "definitions_de": ["mageres Fleisch, das in Streifen geschnitten und getrocknet wird, um Verderben zu verhindern, oft gewürzt"],
+    "examples_de": [["Er packte **Dörrfleisch** vom Rind für die lange Wanderung ein", "Das selbstgemachte Puten-**Jerky** war überraschend schmackhaft und zäh"]]
+  },
+  {
+    "lemma": "jersey",
+    "meanings_de": ["Mannschaftstrikot", "Jerseystoff"],
+    "definitions_de": ["Hemd, das von Sportmannschaftsmitgliedern getragen wird und Teamfarben sowie Spielernummer zeigt", "weicher, dehnbarer Strickstoff, der für die Herstellung bequemer Kleidung verwendet wird"],
+    "examples_de": [["Er trug stolz das **Trikot** seines Lieblingsspielers zu den Spielen", "Das Team präsentierte gestern ihr neues **Trikot**design"], ["Das Kleid war aus weichem Baumwoll-**Jersey** gefertigt", "**Jersey**stoff eignet sich perfekt für bequeme Alltagskleidung"]]
+  },
+  {
+    "lemma": "jest",
+    "meanings_de": ["spielerischer Scherz"],
+    "definitions_de": ["etwas, das zur Unterhaltung und nicht ernst gemeint gesagt oder getan wird, oft humorvoll"],
+    "examples_de": [["Seine Bemerkung war als **Scherz** gemeint, nicht als Kritik", "Sie machte einen **Spaß** über das Wetter, um die Stimmung aufzulockern"]]
+  },
+  {
+    "lemma": "jester",
+    "meanings_de": ["Hofnarr Unterhalter"],
+    "definitions_de": ["professioneller Unterhalter an mittelalterlichen Höfen, der Witze, Tricks und amüsante Darbietungen aufführte"],
+    "examples_de": [["Der **Hofnarr** des Königs trug bunte Kleidung mit Glöckchen", "Der **Narr** unterhielt die Gäste mit geistreichen Bemerkungen und Jonglieren"]]
+  },
+  {
+    "lemma": "jetty",
+    "meanings_de": ["ins Meer ragender Pier"],
+    "definitions_de": ["ins Wasser gebaute Struktur zum Schutz von Hafen oder Strand vor Wellen"],
+    "examples_de": [["Fischer versammelten sich jeden Morgen bei Tagesanbruch auf der **Mole**", "Wellen krachten während des Sturms gegen die steinerne **Hafenmole**"]]
+  },
+  {
+    "lemma": "jewel",
+    "meanings_de": ["kostbarer Edelstein"],
+    "definitions_de": ["wertvoller Stein, der geschnitten und poliert wird zur Verwendung in Schmuck oder Dekoration"],
+    "examples_de": [["Die Krone enthielt Dutzende funkelnder **Juwelen** und Diamanten", "Sie erbte ein **Juwel**, das seit Generationen in der Familie war"]]
+  },
+  {
+    "lemma": "jeweler",
+    "meanings_de": ["Schmuckhersteller -händler"],
+    "definitions_de": ["Person, die Schmuck und Edelsteine entwirft, herstellt, repariert oder verkauft"],
+    "examples_de": [["Der **Juwelier** untersuchte den Diamanten durch seine Lupe", "Sie brachte ihren antiken Ring zu einem vertrauenswürdigen **Goldschmied**"]]
+  },
+  {
+    "lemma": "jeweller",
+    "meanings_de": ["Schmuckhersteller -händler"],
+    "definitions_de": ["Person, die Schmuck und Edelsteine entwirft, herstellt, repariert oder verkauft"],
+    "examples_de": [["Der **Juwelier** fertigte einen maßgeschneiderten Verlobungsring für sie an", "Ein erfahrener **Goldschmied** kann gefälschte Edelsteine leicht erkennen"]]
+  },
+  {
+    "lemma": "jewellery",
+    "meanings_de": ["dekorative persönliche Schmuckstücke"],
+    "definitions_de": ["dekorative Gegenstände zur persönlichen Zierde, hergestellt aus Edelmetallen und Edelsteinen"],
+    "examples_de": [["Sie bewahrte ihren **Schmuck** in einer samtgefütterten Schatulle auf", "Das Museum stellte antiken **Schmuck** aus verschiedenen Kulturen aus"]]
+  },
+  {
+    "lemma": "jib",
+    "meanings_de": ["dreieckiges Vorsegel"],
+    "definitions_de": ["dreieckiges Segel, das vor dem Hauptmast auf Segelschiffen gesetzt wird"],
+    "examples_de": [["Der Segler stellte die **Fock** ein, um mehr Wind zu fangen", "Starke Winde zerrissen die **Fock** während der Hochseeregatta"]]
+  },
+  {
+    "lemma": "jig",
+    "meanings_de": ["lebhafter Tanz", "Führungswerkzeug"],
+    "definitions_de": ["schneller, lebhafter Tanz mit springenden Bewegungen, traditionell aus Irland oder Schottland", "Vorrichtung zur Führung von Werkzeugen oder zum Halten von Werkstücken in der Fertigung"],
+    "examples_de": [["Die Musiker spielten einen traditionellen irischen **Jig** auf der Hochzeit", "Alle tanzten gemeinsam den lebhaften **Jig**"], ["Der Tischler verwendete eine **Schablone**, um präzise Löcher zu bohren", "Diese **Lehre** stellt sicher, dass alle Teile identisch geschnitten werden"]]
+  },
+  {
+    "lemma": "jigsaw",
+    "meanings_de": ["Schneidwerkzeug", "Puzzlespiel"],
+    "definitions_de": ["Elektrowerkzeug mit dünnem Sägeblatt zum Schneiden von Kurven oder unregelmäßigen Linien", "Puzzle aus kleinen unregelmäßigen Teilen, die zusammenpassen und ein Bild ergeben"],
+    "examples_de": [["Er benutzte eine **Stichsäge**, um dekorative Formen ins Holz zu schneiden", "Die elektrische **Stichsäge** erledigte Kurven schnell"], ["Die Kinder verbrachten Stunden mit dem tausendteiligen **Puzzle**", "Sie rahmte ihr fertiges **Puzzle** einer Berglandschaft ein"]]
+  },
+  {
+    "lemma": "jihad",
+    "meanings_de": ["spiritueller Kampf"],
+    "definitions_de": ["Anstrengung oder Kampf auf dem Weg Gottes, einschließlich persönlicher spiritueller Entwicklung oder Verteidigung des Glaubens"],
+    "examples_de": [["Sein persönlicher **Dschihad** bestand darin, täglich seine schlechtesten Gewohnheiten zu überwinden", "Gelehrte diskutieren die wahre Bedeutung des **Dschihad** in den Texten"]]
+  },
+  {
+    "lemma": "jimmy",
+    "meanings_de": ["Brecheisen Einbruchwerkzeug"],
+    "definitions_de": ["kurzes Brecheisen, das von Einbrechern verwendet wird, um Türen oder Fenster aufzubrechen"],
+    "examples_de": [["Der Dieb benutzte ein **Brecheisen**, um in das Haus einzubrechen", "Die Polizei fand ein **Stemmeisen** nahe dem aufgebrochenen Fenster"]]
+  },
+  {
+    "lemma": "jingle",
+    "meanings_de": ["leichtes Klingeln", "Werbelied"],
+    "definitions_de": ["leichter metallischer Klang, der entsteht, wenn kleine Metallgegenstände aneinanderschlagen", "kurzes, eingängiges Lied oder Melodie in Werbespots zur Produktwerbung"],
+    "examples_de": [["Das **Klimpern** der Schlüssel kündigte seine frühe Heimkehr an", "Münzen erzeugten ein angenehmes **Klingeln** in ihrer Tasche"], ["Dieser Werbe**jingle** geht mir nicht mehr aus dem Kopf", "Die Firma kreierte einen einprägsamen **Jingle** für ihre Kampagne"]]
+  },
+  {
+    "lemma": "jinx",
+    "meanings_de": ["Pech Fluch"],
+    "definitions_de": ["Person, Sache oder Einfluss, von dem angenommen wird, dass er Pech oder Unglück bringt"],
+    "examples_de": [["Er betrachtete den zerbrochenen Spiegel als **Unglücksbringer** für seine Pläne", "Sprich nicht vom Sieg, du wirst unsere Chancen **verhexen**"]]
+  },
+  {
+    "lemma": "jitter",
+    "meanings_de": ["nervöses Zittern"],
+    "definitions_de": ["leichte unregelmäßige Bewegung oder Vibration, verursacht durch Nervosität oder technische Probleme"],
+    "examples_de": [["Kamera**zittern** ruinierte mehrere der aufgenommenen Actionaufnahmen", "Er bemerkte ein **Zittern** in seinen Händen vor der Rede"]]
+  },
+  {
+    "lemma": "jive",
+    "meanings_de": ["Swing-Tanzstil", "täuschendes Gerede"],
+    "definitions_de": ["lebhafter Tanz zu Swing-Musik, beliebt in den 1940er Jahren", "irreführendes, wertloses oder angeberisches Gerede, das täuschen oder beeindrucken soll"],
+    "examples_de": [["Sie tanzten **Jive** im Vintage-Musikclub", "**Jive** zu lernen erfordert guten Rhythmus und Energie"], ["Glaub nicht sein **Geschwätz** über sein Millionärsleben", "Das ist nur **Geschwafel** ohne wirkliche Substanz"]]
+  },
+  {
+    "lemma": "jobber",
+    "meanings_de": ["Großhändler"],
+    "definitions_de": ["Person, die Waren von Herstellern kauft und in großen Mengen an Einzelhändler verkauft"],
+    "examples_de": [["Der Möbel**großhändler** belieferte Geschäfte in der gesamten Region", "Sie arbeitete als **Zwischenhändlerin** in der Textilindustrie"]]
+  },
+  {
+    "lemma": "jock",
+    "meanings_de": ["Sportler Sportfanatiker"],
+    "definitions_de": ["Person, besonders in der Schule, die sehr in Sport und Athletik involviert ist"],
+    "examples_de": [["Der **Sportskanone** verbrachte jeden Nachmittag beim Football-Training", "Die **Athleten** der Highschool dominierten die Turnhalle und Sportplätze"]]
+  },
+  {
+    "lemma": "jockey",
+    "meanings_de": ["professioneller Reiter"],
+    "definitions_de": ["Person, die beruflich Pferde in Rennen reitet, meist von kleiner Statur"],
+    "examples_de": [["Der **Jockey** führte sein Pferd um Zentimeter zum Sieg", "Ein erfolgreicher **Jockey** zu werden erfordert jahrelanges hartes Training"]]
+  },
+  {
+    "lemma": "jog",
+    "meanings_de": ["langsamer Dauerlauf"],
+    "definitions_de": ["gemächliches Lauftempo, langsamer als Rennen, zur Bewegung oder Fitness"],
+    "examples_de": [["Sie macht jeden Morgen einen **Dauerlauf** um den Park", "Ein täglicher **Jogging**lauf hilft, die Herz-Kreislauf-Gesundheit zu erhalten"]]
+  },
+  {
+    "lemma": "jogging",
+    "meanings_de": ["Laufsport-Aktivität"],
+    "definitions_de": ["Aktivität des langsamen und stetigen Laufens als Form der körperlichen Bewegung"],
+    "examples_de": [["**Joggen** ist zu ihrer liebsten Form der täglichen Bewegung geworden", "Er begann mit dem **Laufen**, um seine allgemeine Fitness zu verbessern"]]
+  },
+  {
+    "lemma": "john",
+    "meanings_de": ["Toilette Badezimmer"],
+    "definitions_de": ["informeller Begriff für Toilette oder Badezimmer, besonders im amerikanischen Englisch"],
+    "examples_de": [["Er entschuldigte sich, um das **Klo** zu benutzen, bevor er ging", "Die **Toilette** ist den Flur runter auf der rechten Seite"]]
+  },
+  {
+    "lemma": "joiner",
+    "meanings_de": ["Tischler Schreiner"],
+    "definitions_de": ["Facharbeiter, der hölzerne Einbauten für Gebäude wie Türen und Treppen herstellt"],
+    "examples_de": [["Der **Tischler** fertigte wunderschöne Eichenschränke für die Küche", "Wir beauftragten einen **Schreiner** mit dem Bau maßgefertigter Regale"]]
+  },
+  {
+    "lemma": "joinery",
+    "meanings_de": ["Tischlerhandwerk"],
+    "definitions_de": ["Kunst, Handwerk oder Arbeit eines Tischlers, die hölzerne Einbauten und Strukturen umfasst"],
+    "examples_de": [["Das Haus zeigte exquisite **Tischlerarbeiten** in jedem einzelnen Raum", "Er studierte **Tischlerei** an einer traditionellen Handwerksschule"]]
+  },
+  {
+    "lemma": "joining",
+    "meanings_de": ["Verbindungsprozess"],
+    "definitions_de": ["Handlung oder Prozess des Verbindens oder Zusammenbringens von Dingen oder Menschen"],
+    "examples_de": [["Die **Fusion** der beiden Unternehmen schuf ein Kraftpaket", "Sorgfältiges **Verbinden** der Rohre verhinderte Wasserlecks"]]
+  },
+  {
+    "lemma": "joker",
+    "meanings_de": ["Spielkarten-Joker", "Spaßvogel"],
+    "definitions_de": ["Spielkarte, die jede vom Inhaber gewählte Karte darstellen kann", "Person, die häufig Witze macht oder anderen Streiche spielt"],
+    "examples_de": [["Sie zog den **Joker** und gewann den gesamten Pott", "Das Deck enthält zwei **Joker** für Wildcard-Spiele"], ["Der **Klassenclown** brachte alle während langweiliger Vorlesungen zum Lachen", "Er ist so ein **Spaßvogel**, man weiß nie, wann er ernst ist"]]
+  },
+  {
+    "lemma": "jolt",
+    "meanings_de": ["plötzlicher Stoß"],
+    "definitions_de": ["plötzlicher Schock, Überraschung oder Stoß, der etwas abrupt stört oder erschüttert"],
+    "examples_de": [["Das Auto fuhr mit einem erschütternden **Stoß** über ein Schlagloch", "Die Nachricht versetzte allen einen **Schock** der plötzlichen Realität"]]
+  },
+  {
+    "lemma": "joule",
+    "meanings_de": ["Energiemaßeinheit"],
+    "definitions_de": ["Energieeinheit im metrischen System, gleich der Arbeit, die von einem Newton über einen Meter verrichtet wird"],
+    "examples_de": [["Die Batterie speichert mehrere tausend **Joule** elektrischer Energie", "Ein **Joule** entspricht der Energie, um einen Apfel anzuheben"]]
+  },
+  {
+    "lemma": "journeying",
+    "meanings_de": ["Reiseprozess"],
+    "definitions_de": ["Handlung des Reisens von einem Ort zum anderen, besonders über große Entfernungen"],
+    "examples_de": [["Ihre **Reise** durch die Wüste dauerte mehrere erschöpfende Wochen", "Das **Reisen** mit dem Zug ermöglicht es, die Landschaft zu sehen"]]
+  },
+  {
+    "lemma": "journeyman",
+    "meanings_de": ["qualifizierter Geselle"],
+    "definitions_de": ["Arbeiter, der seine Lehre abgeschlossen hat und qualifiziert ist, aber noch kein Meister"],
+    "examples_de": [["Der **Klempnergeselle** konnte die meisten Reparaturen kompetent allein durchführen", "Nach jahrelanger Ausbildung wurde er **Elektrikergeselle**"]]
+  },
+  {
+    "lemma": "joust",
+    "meanings_de": ["mittelalterlicher Kampf"],
+    "definitions_de": ["Kampf zwischen zwei berittenen Rittern mit Lanzen, die versuchen, sich gegenseitig abzuwerfen"],
+    "examples_de": [["Ritter traten bei **Turnieren** an, um ihre Geschicklichkeit zu zeigen", "Das Mittelalterfest bot ein spannendes **Lanzenstechen** zwischen Champions"]]
+  },
+  {
+    "lemma": "joyride",
+    "meanings_de": ["rücksichtslose Spritztour"],
+    "definitions_de": ["Fahrt zum Vergnügen, besonders in einem gestohlenen Fahrzeug, das rücksichtslos gefahren wird"],
+    "examples_de": [["Die Teenager machten eine gefährliche **Spritztour** mit dem Auto", "Ihre **Schwarzfahrt** endete, als die Polizei sie beim Rasen erwischte"]]
+  },
+  {
+    "lemma": "joystick",
+    "meanings_de": ["Steuerhebel"],
+    "definitions_de": ["Hebel zur Steuerung von Bewegungen in Computerspielen oder Flugzeugen"],
+    "examples_de": [["Er steuerte den Kampfjet mit dem empfindlichen **Steuerknüppel**", "Das alte Arcade-Spiel hatte einen robusten **Joystick**"]]
+  },
+  {
+    "lemma": "jubilation",
+    "meanings_de": ["große Freude"],
+    "definitions_de": ["Gefühl großer Freude und des Triumphes, oft laut oder enthusiastisch ausgedrückt"],
+    "examples_de": [["Das Stadion brach in **Jubel** aus, als sie trafen", "Es herrschte großer **Jubel** bei der überraschenden Siegesverkündung"]]
+  },
+  {
+    "lemma": "jubilee",
+    "meanings_de": ["Jubiläumsfeier"],
+    "definitions_de": ["besondere Jubiläumsfeier, insbesondere das 25., 50. oder 60. Jahr eines bedeutenden Ereignisses"],
+    "examples_de": [["Die Königin feierte ihr goldenes **Jubiläum** mit großen Festlichkeiten", "Die Schule plante Veranstaltungen für ihr hundertjähriges **Jubiläum**"]]
+  },
+  {
+    "lemma": "judgement",
+    "meanings_de": ["Entscheidung oder Meinung", "Urteilsvermögen"],
+    "definitions_de": ["Schlussfolgerung oder Entscheidung nach Prüfung von Beweisen oder Fakten", "Fähigkeit, gute Entscheidungen zu treffen oder vernünftige Meinungen über Dinge zu bilden"],
+    "examples_de": [["Das Gericht wird sein **Urteil** nächsten Montagmorgen verkünden", "Sein **Urteil** über die Markttrends erwies sich als richtig"], ["Sie zeigte ausgezeichnetes **Urteilsvermögen** im Umgang mit der Krise", "Vertrauen Sie Ihrem **Urteilsvermögen** bei wichtigen Lebensentscheidungen"]]
+  },
+  {
+    "lemma": "judgeship",
+    "meanings_de": ["Richteramt"],
+    "definitions_de": ["Position oder Amt eines Richters einschließlich der Verantwortlichkeiten und Befugnisse"],
+    "examples_de": [["Sie wurde letztes Jahr in ein Bundes**richteramt** berufen", "Das **Richteramt** erfordert umfangreiche juristische Erfahrung und Weisheit"]]
+  },
+  {
+    "lemma": "judging",
+    "meanings_de": ["Bewertungsprozess"],
+    "definitions_de": ["Handlung der Meinungsbildung oder Entscheidungsfindung über Qualität, Wert oder Bedeutung"],
+    "examples_de": [["Das **Bewerten** des Wettbewerbs erforderte sorgfältige Betrachtung jedes Beitrags", "Sie verbrachte den Tag mit dem **Jurieren** von Einträgen auf der Messe"]]
+  },
+  {
+    "lemma": "judicature",
+    "meanings_de": ["Gerichtssystem"],
+    "definitions_de": ["System von Gerichten und Richtern in einem Land oder die Rechtspflege"],
+    "examples_de": [["Die **Justiz** behandelt alle Zivil- und Strafsachen landesweit", "Die Reform der **Gerichtsbarkeit** verbesserte den Zugang zu fairen Verfahren"]]
+  }
+]

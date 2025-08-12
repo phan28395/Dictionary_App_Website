@@ -1,0 +1,284 @@
+[
+  {
+    "lemma": "eulogy",
+    "meanings_de": ["Trauerrede für Verstorbene"],
+    "definitions_de": ["Förmliche Rede oder schriftliche Würdigung, die zu Ehren einer kürzlich verstorbenen Person gehalten wird, wobei deren Leben und Verdienste gewürdigt werden"],
+    "examples_de": [["Der Pfarrer hielt eine bewegende **Trauerrede** bei ihrer Beerdigung", "Er bereitete eine herzliche **Grabrede** für seinen verstorbenen Großvater vor"]]
+  },
+  {
+    "lemma": "eunuch",
+    "meanings_de": ["kastrierter Mann"],
+    "definitions_de": ["Mann, der kastriert wurde, insbesondere einer, der als Wächter in Harems eingesetzt wurde oder wichtige Positionen an Herrscherhöfen innehatte"],
+    "examples_de": [["Der Palast des Sultans wurde von vertrauenswürdigen **Eunuchen** bewacht", "**Eunuchen** bekleideten wichtige Ämter an alten chinesischen Kaiserhöfen"]]
+  },
+  {
+    "lemma": "euphemism",
+    "meanings_de": ["höflicher Ersatzausdruck"],
+    "definitions_de": ["Mildes oder indirektes Wort bzw. Ausdruck, der anstelle eines als zu hart oder direkt empfundenen Begriffs verwendet wird"],
+    "examples_de": [["'Entschlafen' ist ein häufiger **Euphemismus** für 'sterben'", "Das Unternehmen benutzte 'Personalanpassung' als **Euphemismus** für Entlassungen"]]
+  },
+  {
+    "lemma": "euphonium",
+    "meanings_de": ["Blechblasinstrument"],
+    "definitions_de": ["Großes Blechblasinstrument mit Ventilen, ähnlich einer kleinen Tuba, jedoch mit höherer Tonlage und weicherem Klang"],
+    "examples_de": [["Sie spielte das **Euphonium** in der Schulkapelle", "Das **Euphonium** erzeugt einen vollen, weichen Ton im Blechbläserensemble"]]
+  },
+  {
+    "lemma": "euphoria",
+    "meanings_de": ["intensives Glücksgefühl"],
+    "definitions_de": ["Gefühl oder Zustand intensiver Erregung, Freude und Wohlbefindens, das über das normale Maß hinauszugehen scheint"],
+    "examples_de": [["Der Gewinn der Meisterschaft erfüllte das Team mit **Euphorie**", "Sie erlebte einen Moment reiner **Euphorie** nach Erhalt der guten Nachricht"]]
+  },
+  {
+    "lemma": "euro",
+    "meanings_de": ["europäische Währungseinheit"],
+    "definitions_de": ["Offizielle Währung, die von den meisten Ländern der Europäischen Währungsunion verwendet wird"],
+    "examples_de": [["Das Hotelzimmer kostet fünfzig **Euro** pro Nacht", "Sie tauschte ihre Dollar am Flughafen in **Euro** um"]]
+  },
+  {
+    "lemma": "euthanasia",
+    "meanings_de": ["Sterbehilfepraxis"],
+    "definitions_de": ["Praxis der absichtlichen Lebensbeendigung zur Linderung von Schmerzen und Leiden, insbesondere bei unheilbar kranken Patienten"],
+    "examples_de": [["Die Debatte über **Sterbehilfe** wird in vielen Ländern weltweit geführt", "Manche Tierärzte empfehlen **Euthanasie** für schwer leidende Haustiere"]]
+  },
+  {
+    "lemma": "evacuation",
+    "meanings_de": ["Notfall-Räumungsprozess"],
+    "definitions_de": ["Organisierte Entfernung von Menschen aus einem gefährlichen Ort zu einem sicheren Bereich während eines Notfalls"],
+    "examples_de": [["Der Feueralarm löste eine sofortige **Evakuierung** des Gebäudes aus", "Die Küstenbewohner bereiteten sich auf die **Evakuierung** vor, als der Hurrikan näher kam"]]
+  },
+  {
+    "lemma": "evaluator",
+    "meanings_de": ["Bewertungsperson"],
+    "definitions_de": ["Person, die die Qualität, Bedeutung oder den Wert von etwas untersucht und beurteilt"],
+    "examples_de": [["Der **Evaluator** prüfte sorgfältig die Leistung jedes Schülers", "Ein unabhängiger **Gutachter** bewertete die Wirksamkeit des Programms"]]
+  },
+  {
+    "lemma": "evanescence",
+    "meanings_de": ["Vergänglichkeitseigenschaft"],
+    "definitions_de": ["Eigenschaft, flüchtig zu sein oder schnell zu verschwinden wie Dampf oder Rauch"],
+    "examples_de": [["Die **Vergänglichkeit** des Morgennebels schafft eine mystische Atmosphäre", "Sie fing die **Flüchtigkeit** der Kindheit in ihren Fotografien ein"]]
+  },
+  {
+    "lemma": "evangelicalism",
+    "meanings_de": ["protestantische christliche Bewegung"],
+    "definitions_de": ["Zweig des protestantischen Christentums, der die persönliche Erlösung durch den Glauben an Jesus Christus und die Autorität der Bibel betont"],
+    "examples_de": [["Der **Evangelikalismus** hat in Lateinamerika erheblich zugenommen", "Die Kirche folgt den Grundprinzipien des modernen **Evangelikalismus**"]]
+  },
+  {
+    "lemma": "evangelism",
+    "meanings_de": ["christliche Glaubensverbreitung"],
+    "definitions_de": ["Praxis der Verbreitung des christlichen Evangeliums durch Predigen oder persönliches Zeugnis, um andere zu bekehren"],
+    "examples_de": [["Die Kirche organisierte **Evangelisationskampagnen** in örtlichen Gemeinden", "Die Tür-zu-Tür-**Evangelisation** ist in manchen religiösen Gruppen noch üblich"]]
+  },
+  {
+    "lemma": "evangelist",
+    "meanings_de": ["Evangeliumsprediger", "begeisterter Verfechter"],
+    "definitions_de": ["Person, die andere durch Predigen zum Christentum zu bekehren sucht", "Leidenschaftlicher Befürworter oder Förderer einer bestimmten Sache oder Überzeugung"],
+    "examples_de": [["Der **Evangelist** reiste von Stadt zu Stadt und predigte das Evangelium", "Billy Graham war einer der berühmtesten **Evangelisten** des zwanzigsten Jahrhunderts"], ["Sie wurde zur **Verfechterin** nachhaltiger Lebensweisen", "Der Geschäftsführer war ein **Verfechter** der digitalen Transformation im Geschäftsleben"]]
+  },
+  {
+    "lemma": "evaporation",
+    "meanings_de": ["Flüssigkeit-zu-Gas-Prozess"],
+    "definitions_de": ["Prozess, bei dem flüssiges Wasser in Wasserdampf übergeht und in die Atmosphäre eintritt"],
+    "examples_de": [["Die heiße Sonne erhöhte die **Verdunstungsrate** des Sees", "Die **Verdunstung** ist ein entscheidender Teil des Wasserkreislaufs"]]
+  },
+  {
+    "lemma": "evasion",
+    "meanings_de": ["Ausweichhandlung"],
+    "definitions_de": ["Handlung des Vermeidens oder Entkommens vor etwas, insbesondere einer Pflicht, Frage oder Verantwortung"],
+    "examples_de": [["Seine ständige **Ausweicherei** bei direkten Fragen frustrierte den Interviewer", "**Steuerhinterziehung** kann schwerwiegende rechtliche Konsequenzen haben"]]
+  },
+  {
+    "lemma": "eve",
+    "meanings_de": ["Vorabend eines Ereignisses"],
+    "definitions_de": ["Abend oder Tag vor einem besonderen Ereignis, Feiertag oder wichtigen Anlass"],
+    "examples_de": [["Die Familie versammelte sich am **Heiligabend** zum gemeinsamen Essen", "Spannung lag in der Luft am **Vorabend** der Wahl"]]
+  },
+  {
+    "lemma": "evensong",
+    "meanings_de": ["Abendgottesdienst"],
+    "definitions_de": ["Kirchlicher Gottesdienst mit Abendgebeten, Psalmen und Lobgesängen in anglikanischen und episkopalen Traditionen"],
+    "examples_de": [["Der Domchor sang wunderschön während der **Abendandacht**", "Sie besuchten jeden Sonntag um fünf Uhr die **Vesper**"]]
+  },
+  {
+    "lemma": "eventuality",
+    "meanings_de": ["mögliches zukünftiges Ergebnis"],
+    "definitions_de": ["Mögliches Ereignis oder Ergebnis, das in der Zukunft eintreten könnte, insbesondere ein unangenehmes"],
+    "examples_de": [["Wir müssen uns auf alle **Eventualitäten** während des Sturms vorbereiten", "Die Versicherungspolice deckt die meisten **Eventualitäten** ab, die auftreten könnten"]]
+  },
+  {
+    "lemma": "evergreen",
+    "meanings_de": ["ganzjährig grüne Pflanze", "dauerhaft beliebte Sache"],
+    "definitions_de": ["Baum oder Strauch, der seine grünen Blätter das ganze Jahr über behält", "Etwas, das über lange Zeit frisch, interessant oder beliebt bleibt"],
+    "examples_de": [["Kiefern sind häufige **Immergrüne** in nördlichen Wäldern", "Der Gärtner pflanzte **Immergrüne** für ganzjährige Farbe"], ["Dieses Lied bleibt auch nach fünfzig Jahren ein **Dauerbrenner**", "Klassische Filme sind **zeitlose** Inhalte für Streaming-Plattformen"]]
+  },
+  {
+    "lemma": "everlasting",
+    "meanings_de": ["ewige Dauer"],
+    "definitions_de": ["Etwas, das für immer oder für sehr lange Zeit ohne Ende andauert"],
+    "examples_de": [["Ihr Versprechen **ewiger** Freundschaft rührte alle Herzen", "Das Denkmal steht als **immerwährendes** Tribut an gefallene Soldaten"]]
+  },
+  {
+    "lemma": "everyman",
+    "meanings_de": ["gewöhnlicher Durchschnittsmensch"],
+    "definitions_de": ["Gewöhnliche oder typische Person, die die einfachen Leute im Allgemeinen repräsentiert"],
+    "examples_de": [["Der Schauspieler stellte perfekt den **Jedermann** dar, der mit dem täglichen Leben kämpft", "Der **Durchschnittsbürger** als Held der Geschichte machte sie für das Publikum nachvollziehbar"]]
+  },
+  {
+    "lemma": "eviction",
+    "meanings_de": ["Zwangsräumungsaktion"],
+    "definitions_de": ["Rechtlicher Prozess, jemanden zu zwingen, eine Immobilie zu verlassen, die er mietet oder bewohnt"],
+    "examples_de": [["Der Vermieter leitete ein **Räumungsverfahren** wegen Nichtzahlung der Miete ein", "Viele Familien waren während des wirtschaftlichen Abschwungs von **Zwangsräumung** bedroht"]]
+  },
+  {
+    "lemma": "evocation",
+    "meanings_de": ["Erinnerungsheraufbeschwörung"],
+    "definitions_de": ["Handlung, ein Gefühl, eine Erinnerung oder ein Bild durch Beschreibung oder Suggestion in den Sinn zu bringen"],
+    "examples_de": [["Die **Heraufbeschwörung** von Kindheitssommern durch die Musik brachte ihr Tränen in die Augen", "Seine **Evokation** des alten Roms war lebendig und überzeugend"]]
+  },
+  {
+    "lemma": "ewe",
+    "meanings_de": ["weibliches Schaf"],
+    "definitions_de": ["Erwachsenes weibliches Schaf, insbesondere eines, das zur Zucht oder Wollproduktion gehalten wird"],
+    "examples_de": [["Der Bauer trennte die **Mutterschafe** von den Widdern", "Jedes **Mutterschaf** in der Herde brachte diesen Frühling zwei Lämmer zur Welt"]]
+  },
+  {
+    "lemma": "exaggeration",
+    "meanings_de": ["Übertreibungshandlung"],
+    "definitions_de": ["Handlung, etwas als größer, besser oder schlimmer darzustellen, als es wirklich ist"],
+    "examples_de": [["Seine Geschichte über den Fisch war eindeutig eine **Übertreibung**", "Die **Übertreibung** des Vorfalls durch die Medien verursachte unnötige Panik"]]
+  },
+  {
+    "lemma": "exaltation",
+    "meanings_de": ["extremer Glückszustand", "Erhebung zu Ehren"],
+    "definitions_de": ["Gefühl extremen Glücks und Aufregung über etwas", "Handlung, jemanden oder etwas zu einem höheren Rang oder einer Ehrenposition zu erheben"],
+    "examples_de": [["Sie fühlte reine **Begeisterung**, als sie den Zulassungsbescheid erhielt", "Die **Hochstimmung** der Menge war nach dem Sieg offensichtlich"], ["Die **Erhebung** des neuen Heiligen fand in Rom statt", "Seine **Beförderung** zum Firmenpräsidenten überraschte viele Kollegen"]]
+  },
+  {
+    "lemma": "examiner",
+    "meanings_de": ["Prüfungsperson"],
+    "definitions_de": ["Person, die Prüfungen durchführt oder etwas offiziell inspiziert, um Qualität oder Übereinstimmung zu bewerten"],
+    "examples_de": [["Der **Fahrprüfer** notierte jeden Fehler während der Prüfung", "**Gerichtsmediziner** bestimmen die Todesursache bei verdächtigen Todesfällen"]]
+  },
+  {
+    "lemma": "excavation",
+    "meanings_de": ["Ausgrabungsprozess"],
+    "definitions_de": ["Handlung, Erde vorsichtig zu entfernen, um vergrabene Überreste zu finden oder ein Loch für Bauarbeiten zu graben"],
+    "examples_de": [["Die archäologische **Ausgrabung** brachte antike Keramikfragmente zutage", "Die Bauarbeiter begannen mit der **Aushebung** für das Fundament des neuen Gebäudes"]]
+  },
+  {
+    "lemma": "excavator",
+    "meanings_de": ["Baggermaschine", "archäologischer Ausgräber"],
+    "definitions_de": ["Große Maschine mit Schaufel zum Graben und Bewegen von Erde", "Person, die beruflich archäologische Stätten ausgräbt"],
+    "examples_de": [["Die Baustelle verwendete drei **Bagger**, um das Land zu räumen", "Die Schaufel des **Baggers** konnte tonnenweise Erde pro Stunde bewegen"], ["Der leitende **Ausgräber** entdeckte den Eingang zum antiken Grab", "Erfahrene **Ausgrabungsleiter** wissen, wie man empfindliche Artefakte bewahrt"]]
+  },
+  {
+    "lemma": "excellence",
+    "meanings_de": ["überlegene Qualitätszustand"],
+    "definitions_de": ["Eigenschaft, herausragend oder extrem gut in Leistung, Fähigkeit oder Errungenschaft zu sein"],
+    "examples_de": [["Das Restaurant ist für seine **Exzellenz** in der französischen Küche bekannt", "Sie erhielt eine Auszeichnung für akademische **Spitzenleistungen**"]]
+  },
+  {
+    "lemma": "excellency",
+    "meanings_de": ["förmlicher Titel"],
+    "definitions_de": ["Förmlicher Titel zur Anrede hochrangiger Beamter wie Botschafter, Gouverneure oder Bischöfe"],
+    "examples_de": [["Eure **Exzellenz**, der Botschafter ist zum Treffen eingetroffen", "Seine **Exzellenz** der Gouverneur wird bei der Zeremonie sprechen"]]
+  },
+  {
+    "lemma": "excerpt",
+    "meanings_de": ["ausgewählter Textabschnitt"],
+    "definitions_de": ["Kurzer Auszug oder Abschnitt aus einem längeren Werk wie einem Buch, Film oder Musikstück"],
+    "examples_de": [["Das Magazin veröffentlichte einen **Auszug** aus ihrem kommenden Roman", "Er las während der Präsentation einen **Textausschnitt** aus Shakespeare vor"]]
+  },
+  {
+    "lemma": "exchanger",
+    "meanings_de": ["Austauschgerät", "Handelsperson"],
+    "definitions_de": ["Gerät, das Wärme oder andere Eigenschaften zwischen Flüssigkeiten überträgt", "Person, die beruflich Geld oder Waren austauscht"],
+    "examples_de": [["Der **Wärmetauscher** hilft, den Motor effizient zu kühlen", "Die Klimaanlage benötigt einen neuen **Wärmetauscher**"], ["Der **Geldwechsler** bot am Flughafen wettbewerbsfähige Kurse an", "**Börsenhändler** erleichtern Geschäfte auf dem Handelsparkett"]]
+  },
+  {
+    "lemma": "exchequer",
+    "meanings_de": ["staatliche Schatzkammer"],
+    "definitions_de": ["Königliche oder nationale Schatzkammer, insbesondere in Großbritannien, oder die Regierungsabteilung, die öffentliche Einnahmen verwaltet"],
+    "examples_de": [["Der **Schatzkanzler** verkündete den neuen Haushalt", "Die **Staatskasse** sah sich dieses Jahr einem erheblichen Defizit gegenüber"]]
+  },
+  {
+    "lemma": "excise",
+    "meanings_de": ["inländische Steuer"],
+    "definitions_de": ["Steuer, die auf bestimmte innerhalb eines Landes produzierte oder verkaufte Waren und Dienstleistungen erhoben wird"],
+    "examples_de": [["Die Regierung erhöhte die **Verbrauchssteuer** auf Tabakprodukte", "**Verbrauchssteuern** auf Alkohol generieren erhebliche Einnahmen"]]
+  },
+  {
+    "lemma": "excision",
+    "meanings_de": ["chirurgische Entfernungshandlung"],
+    "definitions_de": ["Handlung des Herausschneidens oder Entfernens von etwas, insbesondere durch eine Operation"],
+    "examples_de": [["Der Chirurg führte eine **Exzision** des Tumors durch", "Eine vollständige **Entfernung** des beschädigten Gewebes war notwendig"]]
+  },
+  {
+    "lemma": "excitability",
+    "meanings_de": ["Erregbarkeitseigenschaft"],
+    "definitions_de": ["Eigenschaft, leicht emotional oder körperlich erregt oder angeregt zu werden"],
+    "examples_de": [["Die **Erregbarkeit** des Welpen machte Trainingseinheiten herausfordernd", "Die **Nervenerregbarkeit** kann durch bestimmte Medikamente beeinflusst werden"]]
+  },
+  {
+    "lemma": "excitation",
+    "meanings_de": ["Erregungszustand"],
+    "definitions_de": ["Zustand emotionaler Erregung oder der Prozess, etwas auf ein höheres Energieniveau zu stimulieren"],
+    "examples_de": [["Die **Erregung** der Menge wuchs, als das Spiel intensiver wurde", "Elektrische **Erregung** von Neuronen löst Nervenimpulse aus"]]
+  },
+  {
+    "lemma": "exclamation",
+    "meanings_de": ["plötzlicher emotionaler Ausruf"],
+    "definitions_de": ["Plötzlicher Schrei oder Ausruf, der Überraschung, starke Emotionen oder Schmerz ausdrückt"],
+    "examples_de": [["Ihr **Freudenschrei** war im ganzen Raum zu hören", "Das Publikum stieß **Ausrufe** des Erstaunens während der Zaubershow aus"]]
+  },
+  {
+    "lemma": "exclusion",
+    "meanings_de": ["Ausschlusshandlung"],
+    "definitions_de": ["Handlung, jemandem oder etwas nicht zu erlauben, teilzunehmen oder einbezogen zu werden"],
+    "examples_de": [["Der **Ausschluss** bestimmter Schüler von Aktivitäten sorgte für Kontroversen", "Die Versicherungspolice hat mehrere **Ausschlussklauseln** für Vorerkrankungen"]]
+  },
+  {
+    "lemma": "excrement",
+    "meanings_de": ["körperliche Abfallstoffe"],
+    "definitions_de": ["Abfallstoffe, die aus dem Darm von Menschen oder Tieren ausgeschieden werden"],
+    "examples_de": [["Der Tierarzt untersuchte die **Exkremente** des Tieres auf Parasiten", "Vogel**kot** kann Autolack beschädigen, wenn er nicht schnell entfernt wird"]]
+  },
+  {
+    "lemma": "excretion",
+    "meanings_de": ["Abfallausscheidungsprozess"],
+    "definitions_de": ["Prozess, durch den Stoffwechselabfälle aus einem Organismus eliminiert werden"],
+    "examples_de": [["Die Nierenfunktion ist für die ordnungsgemäße **Ausscheidung** von Giftstoffen unerlässlich", "Die **Ausscheidung** von überschüssigem Salz hilft, das Körpergleichgewicht aufrechtzuerhalten"]]
+  },
+  {
+    "lemma": "excursion",
+    "meanings_de": ["kurze Vergnügungsreise"],
+    "definitions_de": ["Kurze Reise oder Fahrt, besonders eine, die zur Erholung oder Bildung unternommen wird"],
+    "examples_de": [["Die Klasse machte einen **Ausflug** ins Naturkundemuseum", "Wir buchten einen Tages**ausflug** zu den nahegelegenen Inseln"]]
+  },
+  {
+    "lemma": "executioner",
+    "meanings_de": ["Todesstrafen-Vollstrecker"],
+    "definitions_de": ["Beamter, der ein Todesurteil an einer verurteilten Person vollstreckt"],
+    "examples_de": [["Der **Henker** trug eine schwarze Kapuze, um seine Identität zu verbergen", "Mittelalterliche **Scharfrichter** dienten oft auch als medizinische Praktiker der Stadt"]]
+  },
+  {
+    "lemma": "executor",
+    "meanings_de": ["Testament-Vollstrecker"],
+    "definitions_de": ["Person, die ernannt wird, um die Bedingungen eines Testaments nach dem Tod von jemandem auszuführen"],
+    "examples_de": [["Sie ernannte ihren ältesten Sohn zum **Testamentsvollstrecker** ihres Nachlasses", "Der **Nachlassverwalter** muss das Vermögen gemäß den Anweisungen des Testaments verteilen"]]
+  },
+  {
+    "lemma": "exemplar",
+    "meanings_de": ["perfektes Beispielmodell"],
+    "definitions_de": ["Person oder Sache, die als typisches Beispiel oder ausgezeichnetes Modell einer Eigenschaft dient"],
+    "examples_de": [["Sie war ein **Musterbeispiel** an Mut während der Krise", "Dieses Gebäude dient als **Paradebeispiel** nachhaltiger Architektur"]]
+  },
+  {
+    "lemma": "exemption",
+    "meanings_de": ["Befreiung von Verpflichtung"],
+    "definitions_de": ["Zustand, frei von einer Verpflichtung oder Haftung zu sein, die anderen auferlegt wird"],
+    "examples_de": [["Religiöse Organisationen erhalten oft **Steuerbefreiung**", "Er beantragte eine **Befreiung** vom Militärdienst"]]
+  }
+]

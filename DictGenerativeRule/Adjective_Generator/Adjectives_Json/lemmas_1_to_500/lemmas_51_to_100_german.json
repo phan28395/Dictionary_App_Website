@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "happy",
+    "meanings_de": ["Freude oder Zufriedenheit empfindend", "Freude verursachend", "glücklich oder vom Glück begünstigt"],
+    "definitions_de": ["ein Gefühl der Freude, Zufriedenheit oder des Wohlbefindens empfindend, das sich oft in einem Lächeln oder fröhlichen Verhalten äußert", "bei anderen Menschen Gefühle der Freude, Zufriedenheit oder des Vergnügens hervorrufend oder damit verbunden", "durch erfreuliche Umstände oder glückliche Zufälle begünstigt; von günstigem Schicksal begleitet"],
+    "examples_de": [["Die **glücklichen** Kinder spielten den ganzen Nachmittag im Park", "Sie war **glücklich**, als sie die gute Nachricht erhielt"], ["Wir verbrachten einen **fröhlichen** Abend mit alten Freunden", "Der Film hatte ein **glückliches** Ende, das alle erfreute"], ["Es war ein **glücklicher** Zufall, dass wir uns dort trafen", "Durch einen **glücklichen** Umstand fanden sie die perfekte Lösung"]]
+  },
+  {
+    "lemma": "clear",
+    "meanings_de": ["durchsichtig oder ungehindert", "leicht zu verstehen", "frei von Zweifeln"],
+    "definitions_de": ["durchsichtig und lichtdurchlässig; frei von Hindernissen, Trübungen oder Beeinträchtigungen, sodass die Sicht nicht behindert wird", "leicht zu erfassen, verstehen oder zu interpretieren ohne Verwirrung, Mehrdeutigkeit oder Komplexität; deutlich und verständlich", "frei von Zweifeln, Verwirrung oder Unsicherheit; offensichtlich, eindeutig oder zweifelsfrei erkennbar"],
+    "examples_de": [["Das **klare** Wasser erlaubte uns, die Fische zu sehen", "Wir müssen den Weg von umgestürzten Ästen **frei** machen"], ["Ihre Anweisungen waren **klar** und leicht zu befolgen", "Der Professor gab eine **deutliche** Erklärung des Konzepts"], ["Es ist **klar**, dass wir unseren Ansatz ändern müssen", "Die Beweise machten seine Unschuld allen **deutlich**"]]
+  },
+  {
+    "lemma": "dead",
+    "meanings_de": ["nicht mehr lebend", "völlig ohne Aktivität", "exakt oder absolut"],
+    "definitions_de": ["nicht mehr am Leben; alle lebenswichtigen Funktionen dauerhaft verloren habend und ohne jegliche Lebenszeichen", "ohne jegliche Aktivität, Bewegung, Energie oder Kraft; vollständig inaktiv, funktionslos oder außer Betrieb", "vollständig, absolut oder genau in Grad, Position oder zeitlicher Abstimmung; ohne jede Abweichung"],
+    "examples_de": [["Die **toten** Blätter bedeckten den Waldboden", "Sie fanden einen **toten** Vogel im Garten"], ["Die Telefonleitung war während des Sturms **tot**", "Die Stadt war um Mitternacht **totenstill**"], ["Sie traf das Ziel **genau** in der Mitte", "Er lag mit seiner Antwort **völlig** daneben"]]
+  },
+  {
+    "lemma": "personal",
+    "meanings_de": ["eine Person betreffend", "privat statt öffentlich", "individuell gerichtet"],
+    "definitions_de": ["eine bestimmte Person betreffend, zu ihr gehörend oder sie charakterisierend; individuell und nicht allgemein", "das Privatleben, persönliche Beziehungen und Gefühle betreffend anstatt öffentliche oder berufliche Angelegenheiten", "direkt an eine bestimmte Person gerichtet oder für sie bestimmt; individuell und speziell zugeschnitten"],
+    "examples_de": [["Sie bewahrt ihre **persönlichen** Sachen in einer verschlossenen Schublade auf", "Das ist meine **persönliche** Meinung zu diesem Thema"], ["Er diskutiert keine **privaten** Angelegenheiten bei der Arbeit", "Sie stellten **persönliche** Fragen über ihr Familienleben"], ["Der Manager widmete jeder Beschwerde **persönliche** Aufmerksamkeit", "Sie erhielt eine **persönliche** Einladung vom Präsidenten"]]
+  },
+  {
+    "lemma": "military",
+    "meanings_de": ["Streitkräfte betreffend", "soldatisch charakteristisch"],
+    "definitions_de": ["die Streitkräfte, Waffen oder Kriegsführung betreffend oder damit verbunden; zum Militär gehörend oder es charakterisierend", "die disziplinierten Eigenschaften oder das Auftreten von Soldaten aufweisend; militärisch geprägt in Verhalten und Erscheinung"],
+    "examples_de": [["**Militärische** Operationen begannen bei Tagesanbruch", "Er diente zwanzig Jahre beim **Militär**"], ["Sie geht mit **militärischer** Präzision", "Die Schule hält **militärische** Disziplin aufrecht"]]
+  },
+  {
+    "lemma": "open",
+    "meanings_de": ["nicht geschlossen oder blockiert", "verfügbar oder zugänglich", "ehrlich und mitteilsam"],
+    "definitions_de": ["Zugang, Durchgang oder Sicht ermöglichend; nicht geschlossen, verschlossen oder eingeschränkt in irgendeiner Weise", "zur Nutzung, für Geschäfte oder zur Teilnahme verfügbar; für alle zugänglich und bereit, Besucher zu empfangen", "aufrichtig und kommunikativ; bereit, ehrlich zu sprechen oder Informationen ohne Zurückhaltung zu teilen"],
+    "examples_de": [["Die **offene** Tür ließ frische Luft herein", "Wir fuhren durch **offene** Landschaft"], ["Das Geschäft ist bis neun Uhr **geöffnet**", "Die Stelle ist noch **offen** für Bewerbungen"], ["Sie ist sehr **offen** über ihre Gefühle", "Wir brauchen eine **offene** Diskussion über dieses Thema"]]
+  },
+  {
+    "lemma": "international",
+    "meanings_de": ["zwischen mehreren Nationen", "in vielen Ländern bekannt"],
+    "definitions_de": ["zwischen zwei oder mehr Nationen oder deren Bürgern bestehend, stattfindend oder durchgeführt; länderübergreifend", "in vielen Ländern auf der ganzen Welt bekannt, anerkannt oder tätig; weltweit präsent oder wirksam"],
+    "examples_de": [["**Internationale** Handelsabkommen nutzen allen teilnehmenden Ländern", "Der Flughafen wickelt sowohl nationale als auch **internationale** Flüge ab"], ["Sie wurde nach den Olympischen Spielen eine **internationale** Berühmtheit", "Das Unternehmen hat einen **internationalen** Ruf für Qualität"]]
+  },
+  {
+    "lemma": "certain",
+    "meanings_de": ["völlig sicher", "bestimmt aber ungenannt", "unausweichlich oder gesichert"],
+    "definitions_de": ["vollkommen überzeugt oder sicher über etwas; ohne jeden Zweifel oder jede Unsicherheit", "bestimmt aber nicht ausdrücklich genannt oder spezifiziert; einige aber nicht alle betreffend", "sicher eintreffend oder kommend; zweifelsfrei als unvermeidlich feststehend"],
+    "examples_de": [["Ich bin **sicher**, dass wir die Tür abgeschlossen haben", "Sie war sich ihrer Entscheidung **gewiss**"], ["**Bestimmte** Schüler werden zusätzliche Hilfe benötigen", "Es gibt **gewisse** Regeln, die wir befolgen müssen"], ["Tod und Steuern sind im Leben **sicher**", "Der Sieg schien nach ihrem starken Start **gewiss**"]]
+  },
+  {
+    "lemma": "recent",
+    "meanings_de": ["vor kurzem geschehen", "modern oder zeitgenössisch"],
+    "definitions_de": ["vor nicht langer Zeit geschehen, begonnen oder getan; zu einer der Gegenwart verhältnismäßig nahen Vergangenheit gehörend", "zu Zeiten gehörend oder darin vorkommend, die der Gegenwart verhältnismäßig nahe sind; modern und aktuell"],
+    "examples_de": [["**Jüngste** Ereignisse haben unsere Pläne geändert", "Sie hat in den **letzten** Jahren ihr Studium abgeschlossen"], ["**Moderne** Technologie hat die Kommunikation verändert", "Das Museum zeigt sowohl antike als auch **zeitgenössische** Kunst"]]
+  },
+  {
+    "lemma": "available",
+    "meanings_de": ["nutzbar verfügbar", "frei erreichbar"],
+    "definitions_de": ["zur Nutzung, zum Erhalt oder zum Zugriff bereitstehend; zur Verfügung stehend und einsatzbereit", "frei und in der Lage, gesehen oder kontaktiert zu werden; nicht anderweitig beschäftigt oder verhindert"],
+    "examples_de": [["Frisches Obst ist auf dem Markt **erhältlich**", "Begrenzte Tickets sind noch für die heutige Show **verfügbar**"], ["Der Arzt ist dienstagnachmittags **erreichbar**", "Ich bin nach dem Mittagessen für ein Treffen **verfügbar**"]]
+  },
+  {
+    "lemma": "ready",
+    "meanings_de": ["vollständig vorbereitet", "bereit etwas zu tun", "kurz davor zu geschehen"],
+    "definitions_de": ["vollständig vorbereitet oder in geeignetem Zustand für sofortige Handlung oder Verwendung; einsatzbereit", "willens oder begierig, etwas zu tun; geistig geneigt oder eingestellt auf eine Handlung", "wahrscheinlich oder im Begriff, etwas Bestimmtes zu tun; kurz davor stehend"],
+    "examples_de": [["Das Abendessen ist **fertig** zum Servieren", "Die Athleten waren **bereit** für den Wettkampf"], ["Sie ist **bereit** zu helfen, wann immer es nötig ist", "Sind Sie **bereit**, die Besprechung zu beginnen?"], ["Der Vulkan sieht aus, als wäre er **bereit** auszubrechen", "Die Frucht ist **reif** und fällt bald vom Baum"]]
+  },
+  {
+    "lemma": "single",
+    "meanings_de": ["nur einer", "unverheiratet", "einzeln und getrennt"],
+    "definitions_de": ["nur einer; nicht einer von mehreren oder Teil eines Paares; allein und einzig", "nicht verheiratet oder nicht in einer romantischen Beziehung mit jemandem; alleinstehend", "einzeln oder getrennt voneinander betrachtet oder angesehen; individuell oder unterscheidbar"],
+    "examples_de": [["Ein **einziger** Fehler ruinierte das gesamte Projekt", "Sie hat keinen **einzigen** Arbeitstag verpasst"], ["Er ist seit zwei Jahren **Single**", "**Alleinstehende** zahlen oft höhere Steuern"], ["Jeder **einzelne** Schüler bestand die Prüfung", "Wir untersuchten jedes **einzelne** Beweisstück"]]
+  },
+  {
+    "lemma": "current",
+    "meanings_de": ["jetzt geschehend", "Strömung von Wasser/Elektrizität", "modern oder aktuell"],
+    "definitions_de": ["zur gegenwärtigen Zeit gehörend; jetzt geschehend oder getan werdend; momentan gültig", "sich auf den Fluss von Wasser, Luft oder Elektrizität in eine bestimmte Richtung beziehend", "modern und den neuesten Entwicklungen, Moden oder Trends folgend; zeitgemäß"],
+    "examples_de": [["Die **aktuelle** Situation erfordert sofortige Aufmerksamkeit", "Was ist Ihre **derzeitige** Adresse?"], ["Die **Strömung** des Flusses ist nach dem Regen stark", "Elektrischer **Strom** fließt durch den Draht"], ["Sie hält sich über **aktuelle** Modetrends auf dem Laufenden", "Die Software nutzt **moderne** Technologiestandards"]]
+  },
+  {
+    "lemma": "likely",
+    "meanings_de": ["wahrscheinlich eintreffend", "anscheinend geeignet"],
+    "definitions_de": ["mit hoher Wahrscheinlichkeit eintreffend oder wahr seiend; mit großer Wahrscheinlichkeit geschehend", "anscheinend geeignet, angemessen oder vielversprechend für einen bestimmten Zweck"],
+    "examples_de": [["Regen ist heute Nachmittag **wahrscheinlich**", "Es ist **wahrscheinlich**, dass die Preise nächstes Jahr steigen werden"], ["Sie ist eine **aussichtsreiche** Kandidatin für die Beförderung", "Dies scheint ein **geeigneter** Platz zum Campen zu sein"]]
+  },
+  {
+    "lemma": "general",
+    "meanings_de": ["alle oder die meisten betreffend", "nicht detailliert oder spezifisch", "leitend oder hauptsächlich"],
+    "definitions_de": ["alle oder die meisten Menschen, Orte oder Dinge betreffend oder berührend; weit verbreitet und umfassend", "nicht spezialisiert oder begrenzt; nur die Hauptmerkmale betrachtend oder einschließend ohne Details", "leitend oder hauptsächlich im Rang; die Gesamtverantwortung oder das Kommando habend"],
+    "examples_de": [["Die **allgemeine** Meinung befürwortet die neue Politik", "Es herrschte **allgemeine** Übereinstimmung über den Vorschlag"], ["Sie gab einen **allgemeinen** Überblick über das Thema", "Wir besprachen den Plan in **groben** Zügen"], ["Der **Geschäftsführer** beaufsichtigt alle Abteilungen", "Sie wurde zur **Chefjustiziarin** befördert"]]
+  },
+  {
+    "lemma": "short",
+    "meanings_de": ["klein in der Länge", "kurze Zeit dauernd", "unzureichend im Betrag"],
+    "definitions_de": ["eine kleine Entfernung von einem Ende zum anderen messend; nicht lang in der räumlichen Ausdehnung", "nur eine kleine Zeitspanne dauernd oder in Anspruch nehmend; kurz in der Dauer", "unzureichend, mangelhaft oder fehlend in Menge, Ausmaß oder Grad; zu wenig habend"],
+    "examples_de": [["Sie hat **kurze** schwarze Haare", "Das Seil ist zu **kurz**, um zu reichen"], ["Wir machten eine **kurze** Pause zum Mittagessen", "Es ist nur ein **kurzer** Spaziergang zum Laden"], ["Uns fehlt diesen Monat das Geld", "Das Rezept verlangt Butter, aber wir haben zu **wenig**"]]
+  },
+  {
+    "lemma": "red",
+    "meanings_de": ["Farbe des Blutes", "kommunistisch oder sozialistisch", "Wut/Verlegenheit zeigend"],
+    "definitions_de": ["von einer Farbe am Ende des Spektrums neben Orange; die Farbe von Blut oder reifen Tomaten", "sich auf Sozialismus, Kommunismus oder radikale linke Politik beziehend oder diese unterstützend", "im Gesicht gerötet vor Wut, Verlegenheit oder starker Emotion; errötend"],
+    "examples_de": [["Sie trug ein leuchtendes **rotes** Kleid", "Die **roten** Rosen waren wunderschön"], ["Die **rote** Fahne symbolisierte die Revolution", "Ihm wurden **rote** Sympathien vorgeworfen"], ["Sein Gesicht wurde **rot** vor Verlegenheit", "Sie war **rot** vor Wut nach dem Streit"]]
+  },
+  {
+    "lemma": "close",
+    "meanings_de": ["nahe im Raum", "intim oder vertraut", "fast genau"],
+    "definitions_de": ["in oder innerhalb einer kurzen Entfernung in Raum oder Zeit; in der Nähe befindlich", "eine starke persönliche Beziehung habend; intim, vertraut oder liebevoll verbunden", "sehr ähnlich oder fast gleich wie etwas; beinahe genau oder zutreffend"],
+    "examples_de": [["Die Apotheke liegt **nahe** beim Krankenhaus", "Wir wohnen **nah** am Strand"], ["Sie sind seit der Kindheit **enge** Freunde", "Sie steht ihrer Großmutter sehr **nahe**"], ["Ihre Schätzung war **nah** an der tatsächlichen Zahl", "Die Übersetzung ist **nah** an der ursprünglichen Bedeutung"]]
+  },
+  {
+    "lemma": "medical",
+    "meanings_de": ["Medizin betreffend", "ärztliche Versorgung erfordernd"],
+    "definitions_de": ["die Wissenschaft oder Praxis der Medizin und Behandlung von Krankheiten betreffend; medizinisch", "eine Behandlung durch einen Arzt oder medizinisches Fachpersonal erfordernd oder damit zusammenhängend"],
+    "examples_de": [["Sie studiert an der **medizinischen** Fakultät", "Die **medizinische** Forschung hat bedeutende Fortschritte gemacht"], ["Er braucht sofort **ärztliche** Hilfe", "Der **medizinische** Notfall erforderte schnelles Handeln"]]
+  },
+  {
+    "lemma": "difficult",
+    "meanings_de": ["schwer zu tun", "schwer zu handhaben"],
+    "definitions_de": ["viel Anstrengung, Geschick oder Planung benötigend, um erfolgreich zu sein; schwer durchzuführen oder auszuführen", "schwer zufriedenzustellen oder zu handhaben; Probleme oder Schwierigkeiten verursachend"],
+    "examples_de": [["Eine neue Sprache zu lernen ist **schwierig**, aber lohnend", "Der Test enthielt mehrere **schwierige** Fragen"], ["Er kann manchmal **schwierig** in der Zusammenarbeit sein", "Sie durchlebt eine **schwierige** Phase in ihrem Leben"]]
+  },
+  {
+    "lemma": "private",
+    "meanings_de": ["persönlich nicht öffentlich", "nicht staatlich", "abgeschieden von anderen"],
+    "definitions_de": ["einer bestimmten Person oder Gruppe gehörend oder sie betreffend; nicht öffentlich oder allgemein zugänglich", "im Besitz einer Einzelperson oder eines Unternehmens statt des Staates oder der Öffentlichkeit", "abgeschieden von der Anwesenheit, dem Blick oder dem Eindringen anderer; Privatsphäre bietend"],
+    "examples_de": [["Sie hält ihr **Privatleben** von der Arbeit getrennt", "Dies ist **privates** Eigentum, kein öffentliches Land"], ["Er arbeitet für ein **privates** Unternehmen", "Sie besuchen eine **Privatschule**"], ["Wir fanden einen **privaten** Platz für unser Picknick", "Die Besprechung fand in einem **privaten** Raum statt"]]
+  },
+  {
+    "lemma": "simple",
+    "meanings_de": ["leicht zu verstehen", "schlicht oder grundlegend", "nicht komplex in der Struktur"],
+    "definitions_de": ["leicht zu verstehen oder auszuführen; keine Schwierigkeit beim Begreifen darstellend", "schlicht, grundlegend oder unkompliziert in Form, Design oder Stil; ohne Verzierungen", "aus einem einzigen Element bestehend; nicht zusammengesetzt oder komplex in der Struktur"],
+    "examples_de": [["Die Anweisungen sind **einfach** zu befolgen", "Es ist ein **einfaches** Problem mit einer leichten Lösung"], ["Sie trug ein **schlichtes** schwarzes Kleid", "Sie führen ein **einfaches** Leben auf dem Land"], ["Wasser ist ein **einfaches** Molekül", "Das ist eine **einfache** Satzstruktur"]]
+  },
+  {
+    "lemma": "poor",
+    "meanings_de": ["Geld fehlt", "von niedriger Qualität", "Mitleid verdienend"],
+    "definitions_de": ["nicht genügend Geld besitzend, um auf einem komfortablen Standard zu leben; finanziell benachteiligt", "von minderwertiger Qualität, Wert oder Leistung; unter einem akzeptablen Standard", "Mitleid oder Sympathie verdienend; unglücklich in den Umständen oder im Zustand"],
+    "examples_de": [["**Arme** Familien kämpfen darum, sich das Nötigste zu leisten", "Er wuchs **arm** auf, arbeitete aber hart"], ["Das Restaurant serviert Essen von **schlechter** Qualität", "Ihre **schwache** Leistung führte zur Entlassung"], ["Das **arme** Kind verlor beide Eltern", "**Armes** Ding, sie war so lange krank"]]
+  },
+  {
+    "lemma": "common",
+    "meanings_de": ["häufig vorkommend", "von allen geteilt", "gewöhnlich nicht besonders"],
+    "definitions_de": ["oft vorkommend, gefunden oder getan; vorherrschend oder weit verbreitet in der Natur", "von zwei oder mehr Personen oder Dingen geteilt, ihnen gehörend oder sie betreffend", "gewöhnlich, üblich oder vertraut; nicht selten oder besonders in irgendeiner Weise"],
+    "examples_de": [["Regen ist in dieser Region **häufig**", "Es ist ein **häufiger** Fehler bei Anfängern"], ["Wir haben **gemeinsame** Interessen in der Musik", "Die beiden Kulturen teilen **gemeinsame** Traditionen"], ["Er ist nur ein **einfacher** Arbeiter, kein Manager", "Der **gesunde** Menschenverstand sagt uns, vorsichtig zu sein"]]
+  },
+  {
+    "lemma": "similar",
+    "meanings_de": ["ähnlich ohne identisch zu sein", "von derselben Art"],
+    "definitions_de": ["eine Ähnlichkeit in Aussehen, Charakter oder Menge habend, ohne identisch zu sein", "von derselben Art, Natur oder Kategorie; verwandt in Typ oder Klasse"],
+    "examples_de": [["Die beiden Gemälde sind im Stil **ähnlich**", "Ihre Erfahrungen waren bemerkenswert **ähnlich**"], ["Alle Säugetiere haben **ähnliche** Eigenschaften", "Diese Probleme erfordern **ähnliche** Lösungen"]]
+  },
+  {
+    "lemma": "past",
+    "meanings_de": ["zeitlich vergangen", "jenseits der Position", "früher oder vorherig"],
+    "definitions_de": ["in der Zeit vergangen und nicht mehr existierend; zu früheren Zeiten gehörend", "jenseits in der Position, weiter als; auf der anderen Seite von etwas", "in einer früheren Zeit existiert oder aufgetreten habend; früher oder vorherig"],
+    "examples_de": [["Wir können **vergangene** Ereignisse nicht ändern", "Das **vergangene** Jahr war herausfordernd"], ["Fahren Sie an der Kirche **vorbei** und biegen Sie rechts ab", "Es ist gleich **hinter** der Kreuzung"], ["Sie traf ihren **ehemaligen** Arbeitgeber auf der Konferenz", "**Vergangene** Erfahrungen haben uns Vorsicht gelehrt"]]
+  },
+  {
+    "lemma": "hot",
+    "meanings_de": ["hohe Temperatur", "scharf im Geschmack", "aktuell beliebt"],
+    "definitions_de": ["einen hohen Grad an Hitze oder Temperatur habend; sehr warm bis zu einem unangenehmen Grad", "Gewürze enthaltend, die ein brennendes Gefühl im Mund erzeugen; scharf gewürzt", "aktuell beliebt, modisch oder gefragt; sehr aktuell oder hochaktuell"],
+    "examples_de": [["Das **heiße** Wetter machte alle unbehaglich", "Vorsicht, der Teller ist sehr **heiß**"], ["Dieses Curry ist mir zu **scharf**", "Sie liebt **scharfes** mexikanisches Essen"], ["Das ist das **angesagte** neue Restaurant in der Innenstadt", "Dieses Thema ist gerade **heiß** in den Nachrichten"]]
+  },
+  {
+    "lemma": "natural",
+    "meanings_de": ["in der Natur existierend", "normal und erwartet", "nicht künstlich"],
+    "definitions_de": ["in der Natur existierend oder von ihr gebildet; nicht von Menschen gemacht oder verursacht", "normal, erwartet oder instinktiv; in Übereinstimmung mit der Natur der Dinge", "nicht künstlich, hergestellt oder verarbeitet; echt und authentisch"],
+    "examples_de": [["Der Park bewahrt **natürliche** Lebensräume", "**Naturkatastrophen** können ohne Warnung zuschlagen"], ["Es ist **natürlich**, vor Prüfungen nervös zu sein", "Kinder haben eine **natürliche** Neugier"], ["Sie bevorzugt **natürliche** Stoffe wie Baumwolle", "Die Schauspielerin hat **natürliches** blondes Haar"]]
+  },
+  {
+    "lemma": "significant",
+    "meanings_de": ["wichtig oder bedeutungsvoll", "groß im Ausmaß"],
+    "definitions_de": ["ausreichend groß oder wichtig, um Aufmerksamkeit zu verdienen; bemerkenswert oder bedeutungsvoll", "groß genug, um wichtig zu sein oder eine Wirkung zu haben; beträchtlich im Ausmaß"],
+    "examples_de": [["Dies ist ein **bedeutender** Moment in der Geschichte", "Die Studie enthüllte **bedeutsame** Erkenntnisse"], ["Es gab eine **erhebliche** Umsatzsteigerung", "Wir brauchen **erhebliche** Mittel für dieses Projekt"]]
+  },
+  {
+    "lemma": "entire",
+    "meanings_de": ["ganz und vollständig", "ungebrochen oder intakt"],
+    "definitions_de": ["das Ganze von etwas ausmachend; vollständig ohne dass etwas fehlt", "nicht gebrochen, beschädigt oder verfallen; in ursprünglicher Ganzheit erhalten"],
+    "examples_de": [["Sie las das **ganze** Buch an einem Tag", "Die **gesamte** Familie nahm an der Hochzeit teil"], ["Die Vase blieb trotz des Erdbebens **ganz**", "Bewahren Sie das Dokument aus rechtlichen Gründen **vollständig** auf"]]
+  },
+  {
+    "lemma": "serious",
+    "meanings_de": ["sorgfältiges Nachdenken erfordernd", "nicht scherzend oder spielerisch", "schwer oder gefährlich"],
+    "definitions_de": ["Nachdenken, Konzentration oder Anwendung erfordernd; wichtig und Aufmerksamkeit verdienend", "aufrichtig und ernsthaft statt scherzend oder halbherzig; ernst gemeint", "bedeutend in Grad, Menge oder Konsequenzen; Anlass zur Sorge gebend"],
+    "examples_de": [["Dies ist eine **ernste** Angelegenheit, die Diskussion erfordert", "Sie nimmt ihre Karriereziele **ernst**"], ["Ich meine es **ernst**, ich scherze nicht", "Er hatte einen **ernsten** Gesichtsausdruck"], ["Der Patient ist in **ernstem** Zustand", "Wir stehen vor **ernsten** Umweltherausforderungen"]]
+  },
+  {
+    "lemma": "financial",
+    "meanings_de": ["Geld betreffend", "Finanzmanagement betreffend"],
+    "definitions_de": ["Geldangelegenheiten, Einkommen, Ausgaben oder monetäre Ressourcen betreffend", "das Management von Geld, Bankwesen, Investitionen oder Finanzsysteme betreffend"],
+    "examples_de": [["Sie haben **finanzielle** Schwierigkeiten", "Wir brauchen **finanzielle** Unterstützung für das Projekt"], ["Sie arbeitet als **Finanzberaterin**", "Die **Finanzmärkte** sind heute volatil"]]
+  },
+  {
+    "lemma": "beautiful",
+    "meanings_de": ["die Sinne erfreuend", "ausgezeichnet oder wunderbar"],
+    "definitions_de": ["die Sinne oder den Geist ästhetisch erfreuend; Qualitäten der Schönheit besitzend", "ausgezeichnet, wunderbar oder sehr zufriedenstellend; verwendet um Zustimmung auszudrücken"],
+    "examples_de": [["Der Sonnenuntergang war absolut **wunderschön**", "Sie hat eine **schöne** Singstimme"], ["Das war ein **wunderbarer** Schlag beim Tennis", "Was für eine **schöne** Idee für die Party"]]
+  },
+  {
+    "lemma": "interesting",
+    "meanings_de": ["Neugier erweckend", "Aufmerksamkeit haltend"],
+    "definitions_de": ["Neugier oder Interesse erweckend; die Aufmerksamkeit auf sich ziehend und fesselnd", "fesselnd oder aufregend und die Aufmerksamkeit oder Neugier haltend"],
+    "examples_de": [["Die Dokumentation präsentierte **interessante** Fakten über das Meeresleben", "Sie hat eine **interessante** Perspektive auf das Thema"], ["Die Handlung wird im dritten Kapitel **interessanter**", "Er ist eine **interessante** Person zum Unterhalten"]]
+  },
+  {
+    "lemma": "left",
+    "meanings_de": ["Gegenteil von rechts", "verbleibend oder zurückgeblieben", "politischer Liberalismus"],
+    "definitions_de": ["auf oder in Richtung der Körperseite, die westlich ist, wenn man nach Norden schaut", "verbleibend nachdem andere gegangen sind oder verwendet wurden; noch verfügbar", "sich auf liberale, sozialistische oder radikale politische Ansichten beziehend"],
+    "examples_de": [["Biegen Sie an der Ampel **links** ab", "Sie schreibt mit der **linken** Hand"], ["Nur zwei Kekse waren im Glas **übrig**", "Ist noch Pizza von gestern **übrig**?"], ["Der **linke** Flügel der Partei lehnt dieses Gesetz ab", "Sie hat **linksgerichtete** politische Ansichten"]]
+  },
+  {
+    "lemma": "foreign",
+    "meanings_de": ["aus einem anderen Land", "unvertraut oder fremd"],
+    "definitions_de": ["von, aus, in oder charakteristisch für ein anderes Land als das eigene", "fremd und unvertraut; nicht natürlich zu einem Ort oder einer Situation gehörend"],
+    "examples_de": [["Sie studierte **fremde** Sprachen am College", "**Ausländische** Investoren kauften das Unternehmen"], ["Das Konzept war ihrer Kultur **fremd**", "Solches Verhalten ist seiner Natur **fremd**"]]
+  },
+  {
+    "lemma": "huge",
+    "meanings_de": ["extrem groß", "sehr groß im Umfang"],
+    "definitions_de": ["extrem groß in Größe, Menge oder physischen Dimensionen", "sehr groß in Maßstab, Grad oder Umfang; enorm in der Ausdehnung"],
+    "examples_de": [["Elefanten sind **riesige** Tiere", "Sie wohnen in einem **riesigen** Haus"], ["Die Entscheidung hatte **enorme** Auswirkungen", "Sie hat dieses Jahr **enorme** Fortschritte gemacht"]]
+  },
+  {
+    "lemma": "physical",
+    "meanings_de": ["den Körper betreffend", "Materie betreffend", "körperlichen Kontakt beinhaltend"],
+    "definitions_de": ["den Körper im Gegensatz zum Geist betreffend oder sich darauf beziehend", "sich auf Dinge beziehend, die durch die Sinne statt durch den Geist wahrgenommen werden; materiell", "körperlichen Kontakt, Aktion oder kräftige Aktivität beinhaltend"],
+    "examples_de": [["Regelmäßige **körperliche** Bewegung verbessert die Gesundheit", "Der Arzt führte eine **körperliche** Untersuchung durch"], ["Wir studieren die **physikalischen** Eigenschaften der Materie", "**Physische** Beweise wurden am Tatort gefunden"], ["Fußball ist ein sehr **körperbetonter** Sport", "Die Arbeit erfordert **körperliche** Kraft"]]
+  },
+  {
+    "lemma": "legal",
+    "meanings_de": ["das Recht betreffend", "gesetzlich erlaubt"],
+    "definitions_de": ["auf dem Gesetz oder Rechtssystem basierend, darauf bezogen oder damit befasst", "vom Gesetz erlaubt, anerkannt oder gefordert; rechtmäßig und legitim"],
+    "examples_de": [["Sie suchte **rechtlichen** Rat bei einem Anwalt", "Das **Rechtssystem** schützt die Rechte der Bürger"], ["Ist es **legal**, hier zu parken?", "Sie ergriffen **rechtliche** Schritte gegen das Unternehmen"]]
+  },
+  {
+    "lemma": "final",
+    "meanings_de": ["am Ende kommend", "entscheidend und abschließend"],
+    "definitions_de": ["am Ende einer Serie, eines Prozesses oder einer Aktivität kommend; letzt", "keinen weiteren Zweifel, keine Debatte oder Änderung zulassend; entscheidend und abschließend"],
+    "examples_de": [["Dies ist das **letzte** Kapitel des Buches", "Wir erreichten das **endgültige** Ziel"], ["Die Entscheidung des Richters ist **endgültig**", "Sie hatte das **letzte** Wort in der Angelegenheit"]]
+  },
+  {
+    "lemma": "perfect",
+    "meanings_de": ["ohne jegliche Mängel", "genau richtig", "vollständig und absolut"],
+    "definitions_de": ["alle erforderlichen Elemente, Qualitäten oder Eigenschaften habend; ohne Fehler oder Mängel", "präzise genau oder exakt; genau den Bedarf in der Situation erfüllend", "vollständig und absolut in Qualität oder Natur; total und uneingeschränkt"],
+    "examples_de": [["Sie hat **perfekte** Sehkraft", "Das Wetter war **perfekt** für unser Picknick"], ["Das ist die **perfekte** Lösung für unser Problem", "Sie kamen zur **perfekten** Zeit"], ["Es herrschte **vollkommene** Stille im Raum", "Sie sind in **vollkommener** Übereinstimmung"]]
+  },
+  {
+    "lemma": "safe",
+    "meanings_de": ["vor Gefahr geschützt", "keinen Schaden verursachend", "zuverlässig und vorsichtig"],
+    "definitions_de": ["vor Gefahr, Risiko oder Verletzung geschützt oder nicht ausgesetzt", "nicht wahrscheinlich Schaden, Verletzung oder Beschädigung zu verursachen oder dazu zu führen", "vorsichtig und nicht unternehmungslustig; nicht wahrscheinlich Risiken oder Chancen einzugehen"],
+    "examples_de": [["Die Kinder sind zu Hause **sicher**", "Bewahren Sie Ihre Wertsachen an einem **sicheren** Ort auf"], ["Dieses Spielzeug ist **sicher** für kleine Kinder", "Ist dieses Wasser **sicher** zu trinken?"], ["Er traf eine **sichere** Investitionsentscheidung", "Nehmen wir den **sicheren** Weg nach Hause"]]
+  },
+  {
+    "lemma": "supposed",
+    "meanings_de": ["als wahr angenommen", "erwartet oder erforderlich", "beabsichtigt oder gemeint"],
+    "definitions_de": ["allgemein ohne Beweis als der Fall angenommen oder geglaubt", "erwartet oder erforderlich, etwas gemäß Regeln oder Vereinbarungen zu tun", "beabsichtigt, entworfen oder gemeint, etwas zu sein oder zu tun"],
+    "examples_de": [["Der **vermeintliche** Dieb war tatsächlich unschuldig", "Das soll **angeblich** ein Geheimnis sein"], ["Sie **sollen** bis neun Uhr ankommen", "Wir **dürfen** hier nicht parken"], ["Was soll das **bedeuten**?", "Die Besprechung **sollte** früher beginnen"]]
+  },
+  {
+    "lemma": "central",
+    "meanings_de": ["in der Mitte", "am wichtigsten", "von einem Ort kontrolliert"],
+    "definitions_de": ["im Zentrum befindlich oder es bildend; in der Mitte von etwas", "von entscheidender Bedeutung; hauptsächlich, wesentlich oder primär in der Natur", "von einem einzigen Ort oder von einer einzigen Autorität kontrolliert oder organisiert"],
+    "examples_de": [["Das Hotel liegt **zentral**", "Der Central Park liegt mitten in Manhattan"], ["Vertrauen ist **zentral** für jede Beziehung", "Dies ist das **zentrale** Thema des Buches"], ["Das Unternehmen nutzt eine **zentrale** Datenbank", "Die **Zentralheizung** erwärmt das gesamte Gebäude"]]
+  },
+  {
+    "lemma": "main",
+    "meanings_de": ["am wichtigsten", "hauptsächlich oder primär"],
+    "definitions_de": ["am wichtigsten, folgenreichsten oder einflussreichsten; hauptsächlich in Größe oder Bedeutung", "hauptsächlich oder primär unter mehreren; vorherrschend in Einfluss oder Wirkung"],
+    "examples_de": [["Der **Hauptgrund** für das Verlassen war Geld", "Was ist die **Hauptzutat** in diesem Gericht?"], ["Die **Hauptstraße** führt direkt in die Innenstadt", "Sie spielt die **Hauptfigur** im Film"]]
+  },
+  {
+    "lemma": "dark",
+    "meanings_de": ["Abwesenheit von Licht", "tief in der Farbe", "geheimnisvoll oder verborgen"],
+    "definitions_de": ["mit wenig oder keinem Licht; kein Licht empfangend, reflektierend oder ausstrahlend", "von einer tiefen oder intensiven Farbe, besonders näher an Schwarz als an Weiß", "geheimnisvoll, verborgen oder nicht leicht zu verstehen; von Tragödie oder Unannehmlichkeit geprägt"],
+    "examples_de": [["Das Zimmer war völlig **dunkel**", "Es wird im Winter früh **dunkel**"], ["Sie hat **dunkelbraune** Augen", "Er bevorzugt **dunkle** Schokolade"], ["Der Film erforscht **dunkle** Themen", "Das waren **dunkle** Tage in unserer Geschichte"]]
+  },
+  {
+    "lemma": "blue",
+    "meanings_de": ["Farbe des Himmels", "traurig oder deprimiert", "unanständig oder gewagt"],
+    "definitions_de": ["von der Farbe zwischen Grün und Violett im Spektrum; Farbe des klaren Himmels", "Traurigkeit, Depression oder Melancholie fühlend oder zeigend", "informell: durch groben oder unanständigen Humor gekennzeichnet; gewagt oder pornografisch"],
+    "examples_de": [["Das **blaue** Meer erstreckte sich bis zum Horizont", "Sie trug einen marineblauen Anzug"], ["Er fühlt sich **niedergeschlagen**, seit sie gegangen ist", "Sei nicht **traurig**, es wird besser werden"], ["Der Komiker erzählte einige **anzügliche** Witze", "Das ist ein ziemlich **gewagter** Film"]]
+  },
+  {
+    "lemma": "specific",
+    "meanings_de": ["klar definiert", "bestimmt nicht allgemein", "einzigartig für etwas"],
+    "definitions_de": ["klar definiert, identifiziert oder mit Präzision und Detail angegeben", "sich auf eine bestimmte Sache beziehend und nicht auf andere; bestimmt statt allgemein", "einzigartig oder eigentümlich für eine bestimmte Sache, einen Ort oder ein Phänomen"],
+    "examples_de": [["Bitte geben Sie **konkrete** Beispiele", "Wir brauchen **spezifische** Anweisungen, um fortzufahren"], ["Dieses Werkzeug hat einen **bestimmten** Zweck", "Ich suche ein **bestimmtes** Buch"], ["Die Krankheit hat **spezifische** Symptome", "Diese Funktion ist **spezifisch** für unser Modell"]]
+  },
+  {
+    "lemma": "global",
+    "meanings_de": ["die ganze Welt betreffend", "umfassend und allumfassend"],
+    "definitions_de": ["die ganze Welt betreffend oder einbeziehend; weltweit in Umfang oder Anwendung", "alle Teile, Aspekte oder Elemente betrachtend oder einschließend; umfassend"],
+    "examples_de": [["Der Klimawandel ist ein **globales** Problem", "Das Unternehmen hat **weltweite** Aktivitäten"], ["Wir brauchen eine **globale** Lösung für dieses Problem", "Nehmen Sie eine **umfassende** Sicht der Situation ein"]]
+  },
+  {
+    "lemma": "various",
+    "meanings_de": ["verschiedene Arten", "mehrere oder viele"],
+    "definitions_de": ["von verschiedenen Arten, Formen oder Typen; Vielfalt oder Diversität zeigend", "mehr als einer; mehrere aber nicht sehr viele; eine Anzahl von"],
+    "examples_de": [["Das Geschäft verkauft **verschiedene** Brotsorten", "Menschen haben **verschiedene** Meinungen zu diesem Thema"], ["**Verschiedene** Leute haben sich über den Lärm beschwert", "Wir versuchten **verschiedene** Methoden, um es zu lösen"]]
+  }
+]

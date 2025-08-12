@@ -1,0 +1,284 @@
+[
+  {
+    "lemma": "glucose",
+    "meanings_de": ["Blutzucker"],
+    "definitions_de": ["Einfachzucker, der als primäre Energiequelle für lebende Zellen dient und im Blut transportiert wird"],
+    "examples_de": [["Diabetiker müssen ihren **Blutzuckerspiegel** regelmäßig kontrollieren", "**Glukose** liefert dem Gehirn die notwendige Energie"], ["Der Arzt ordnete einen **Glukosetoleranztest** an", "Pflanzen stellen **Traubenzucker** durch Photosynthese her"]]
+  },
+  {
+    "lemma": "glue",
+    "meanings_de": ["Klebstoff"],
+    "definitions_de": ["Klebrige Substanz zum dauerhaften Verbinden von Materialien"],
+    "examples_de": [["Tragen Sie den **Kleber** auf beide Flächen auf, bevor Sie sie zusammenpressen", "Die Kinder benutzten **Bastelkleber** für ihr Kunstprojekt"], ["**Holzleim** schafft eine feste Verbindung zwischen den Teilen", "Lassen Sie den **Klebstoff** vollständig trocknen"]]
+  },
+  {
+    "lemma": "glut",
+    "meanings_de": ["Überangebot"],
+    "definitions_de": ["Übermäßiges Angebot oder überschüssige Menge von etwas"],
+    "examples_de": [["Ein **Überangebot** an Tomaten drückte die Preise", "Der Markt litt unter einer **Schwemme** unverkaufter Waren"], ["Die **Ölschwemme** führte zu sinkenden Benzinpreisen", "Verlage befürchteten eine **Flut** ähnlicher Bücher"]]
+  },
+  {
+    "lemma": "gluten",
+    "meanings_de": ["Weizeneiweiß"],
+    "definitions_de": ["Kleberprotein in Weizen und verwandten Getreidesorten, das dem Teig Elastizität verleiht"],
+    "examples_de": [["Menschen mit Zöliakie können **Gluten** nicht verdauen", "**Kleber** gibt dem Brot seine elastische Textur"], ["Das Restaurant bietet eine **glutenfreie** Speisekarte an", "**Klebereiweiß** bildet sich, wenn Mehl mit Wasser vermischt wird"]]
+  },
+  {
+    "lemma": "gluttony",
+    "meanings_de": ["Völlerei"],
+    "definitions_de": ["Gewohnheitsmäßige Gier oder Maßlosigkeit beim Essen; eine der sieben Todsünden"],
+    "examples_de": [["Mittelalterliche Gemälde stellten **Völlerei** oft als Sünde dar", "Seine **Gefräßigkeit** führte zu ernsten Gesundheitsproblemen"], ["Das Festmahl artete in **Völlerei** und Verschwendung aus", "**Maßlosigkeit** beim Essen galt als moralisches Versagen"]]
+  },
+  {
+    "lemma": "glycogen",
+    "meanings_de": ["gespeicherte Glukose"],
+    "definitions_de": ["Form von Glukose, die in Leber und Muskeln zur Energiegewinnung gespeichert wird"],
+    "examples_de": [["Athleten erschöpfen ihre **Glykogenspeicher** während Marathonläufen", "Die Leber wandelt **Glykogen** wieder in Glukose um"], ["Kohlenhydratbeladung erhöht die **Glykogenspeicherung**", "Muskeln nutzen **Muskelglykogen** für schnelle Energie"]]
+  },
+  {
+    "lemma": "glyph",
+    "meanings_de": ["Schriftzeichen"],
+    "definitions_de": ["Bildzeichen oder symbolisches Zeichen, insbesondere in alten Schriftsystemen"],
+    "examples_de": [["Maya-**Glyphen** offenbarten ihr komplexes Kalendersystem", "Jede **Glyphe** repräsentierte ein Wort oder Konzept"], ["Der Stein war mit geheimnisvollen **Schriftzeichen** bedeckt", "Archäologen entschlüsselten die alten **Hieroglyphen**"]]
+  },
+  {
+    "lemma": "gnat",
+    "meanings_de": ["kleine Mücke"],
+    "definitions_de": ["Kleine zweiflügelige Mücke, die oft Schwärme bildet"],
+    "examples_de": [["**Mücken** schwärmten um die Verandalampe", "Eine **Stechmücke** flog mir beim Radfahren ins Auge"], ["Das schwüle Wetter brachte Wolken von **Gnitzen** hervor", "**Trauermücken** werden von Feuchtigkeit und süßen Gerüchen angezogen"]]
+  },
+  {
+    "lemma": "gnome",
+    "meanings_de": ["Gartenfigur", "mythischer Zwerg"],
+    "definitions_de": ["Dekorative Gartenfigur eines bärtigen Zwergs", "Legendäres zwergenartiges Wesen, das unter der Erde lebt"],
+    "examples_de": [["Sie stellte einen **Gartenzwerg** aus Keramik auf", "**Gartenzwerge** stammen ursprünglich aus Deutschland"], ["In der Sage bewachen **Gnome** unterirdische Schätze", "Die Geschichte handelte von hilfreichen **Erdgeistern** im Wald"]]
+  },
+  {
+    "lemma": "gnu",
+    "meanings_de": ["afrikanische Antilope"],
+    "definitions_de": ["Große afrikanische Antilope mit gebogenen Hörnern, auch Streifengnu genannt"],
+    "examples_de": [["**Gnuherden** wandern durch die Serengeti", "Das **Gnu** hat einen charakteristischen Bart und eine Mähne"], ["Löwen jagen oft junge **Gnus**", "Tausende **Streifengnus** überqueren jährlich den Fluss"]]
+  },
+  {
+    "lemma": "goad",
+    "meanings_de": ["Treibstock"],
+    "definitions_de": ["Stock mit spitzem Ende zum Antreiben von Rindern"],
+    "examples_de": [["Der Bauer benutzte einen **Treibstock** für die Ochsen", "Alte Pflüger trugen **Ochsenstachel** für ihre Tiere"], ["Der Elefantentrainer hielt einen traditionellen **Stachelstock**", "Metall-**Treibstöcke** ersetzten mit der Zeit die hölzernen"]]
+  },
+  {
+    "lemma": "goalie",
+    "meanings_de": ["Eishockeytorwart"],
+    "definitions_de": ["Spieler, der das Tor im Eishockey verteidigt"],
+    "examples_de": [["Der **Goalie** machte eine unglaubliche Parade", "Unser Team braucht einen Ersatz-**Torwart**"], ["Der **Torhüter** trug spezielle Schutzausrüstung", "Sie träumt davon, professionelle **Goalkeeperin** zu werden"]]
+  },
+  {
+    "lemma": "goalkeeper",
+    "meanings_de": ["Fußballtorwart"],
+    "definitions_de": ["Spieler, der das Tor im Fußball oder ähnlichen Sportarten verteidigt"],
+    "examples_de": [["Der **Torwart** hechtete, um den Elfmeter zu halten", "Jede Mannschaft hat einen **Torhüter** auf dem Feld"], ["Ein verletzter **Keeper** kann ausgewechselt werden", "Der **Schlussmann** trug ein andersfarbiges Trikot"]]
+  },
+  {
+    "lemma": "goaltender",
+    "meanings_de": ["Torverteidiger"],
+    "definitions_de": ["Spieler, der das Tor verteidigt, besonders im Eishockey"],
+    "examples_de": [["Der **Torhüter** musste vierzig Schüsse parieren", "Teams ziehen oft ihren **Goalie** für einen zusätzlichen Feldspieler"], ["Der Rookie-**Torwart** beeindruckte die Trainer", "**Torhüter** benötigen schnelle Reflexe"]]
+  },
+  {
+    "lemma": "goblet",
+    "meanings_de": ["Kelch"],
+    "definitions_de": ["Trinkgefäß oder Becher mit Fuß und Stiel"],
+    "examples_de": [["Wein wurde in kristallenen **Kelchen** serviert", "Der mittelalterliche **Pokal** war aus Zinn gefertigt"], ["Sie erhob ihren **Kelch** zum Anstoßen", "Antike Silber**pokale** schmückten die Tafel"]]
+  },
+  {
+    "lemma": "goblin",
+    "meanings_de": ["Kobold"],
+    "definitions_de": ["Kleines, hässliches, schelmisches Wesen aus der Folklore"],
+    "examples_de": [["**Kobolde** stehlen angeblich Haushaltsgegenstände", "Die Kinder verkleideten sich zu Halloween als **Goblins**"], ["Fantasy-Geschichten zeigen **Kobolde** oft als Bösewichte", "**Irrlichter** lebten im dunklen Wald"]]
+  },
+  {
+    "lemma": "godfather",
+    "meanings_de": ["Taufpate", "Verbrecherboss"],
+    "definitions_de": ["Mann, der ein Kind bei der Taufe als Pate begleitet", "Oberhaupt einer Verbrecherorganisation oder einflussreicher Anführer"],
+    "examples_de": [["Sein **Patenonkel** schenkte ihm etwas Besonderes", "Ich bat meinen Bruder, der **Taufpate** meines Sohnes zu werden"], ["Der Film zeigte einen mächtigen Mafia-**Paten**", "Er galt als der **Pate** des Jazz"]]
+  },
+  {
+    "lemma": "godmother",
+    "meanings_de": ["Taufpatin"],
+    "definitions_de": ["Frau, die ein Kind bei der Taufe als Patin begleitet"],
+    "examples_de": [["Ihre **Patentante** kam zu jeder Geburtstagsfeier", "Die gute **Fee** erfüllte drei Wünsche"], ["Meine **Patin** brachte mir das Stricken bei", "Sie bat ihre Schwester, die **Taufpatin** zu werden"]]
+  },
+  {
+    "lemma": "godson",
+    "meanings_de": ["Patensohn"],
+    "definitions_de": ["Männliches Patenkind in Bezug auf seine Paten"],
+    "examples_de": [["Sein **Patensohn** besuchte ihn jeden Sommer", "Der Pate hinterließ seinem **Patenkind** Geld"], ["Mein **Patenjunge** hat gerade sein Studium abgeschlossen", "Er behandelt seinen **Täufling** wie sein eigenes Kind"]]
+  },
+  {
+    "lemma": "goer",
+    "meanings_de": ["regelmäßiger Besucher"],
+    "definitions_de": ["Person, die regelmäßig etwas besucht oder an etwas teilnimmt"],
+    "examples_de": [["Sie ist eine regelmäßige **Theaterbesucherin**", "**Kirchgänger** füllten die Bänke am Sonntag"], ["**Partygäste** tanzten bis zum Morgengrauen", "**Konzertbesucher** warteten stundenlang auf Karten"]]
+  },
+  {
+    "lemma": "going",
+    "meanings_de": ["Weggang", "aktuelle Bedingungen"],
+    "definitions_de": ["Handlung des Weggehens oder Abreisens", "Bedingungen für Reise oder Fortschritt"],
+    "examples_de": [["Sein **Weggang** war plötzlich und unerwartet", "Das **Fortkommen** wird bei diesem Wetter schwierig"], ["Der **übliche Preis** für Nachhilfe beträgt fünfzig Euro", "Wenn es **hart auf hart** kommt, zeigen sich die Starken"]]
+  },
+  {
+    "lemma": "goldenrod",
+    "meanings_de": ["Goldrute"],
+    "definitions_de": ["Pflanze mit Büscheln kleiner gelber Blüten, die im Spätsommer blüht"],
+    "examples_de": [["Felder voller **Goldruten** kündigten den Herbst an", "**Goldrutenpollen** verursacht bei manchen Allergien"], ["Die **Goldrute** zog Schmetterlinge und Bienen an", "Indianer nutzten **Solidago** als Heilpflanze"]]
+  },
+  {
+    "lemma": "goldfinch",
+    "meanings_de": ["Stieglitz"],
+    "definitions_de": ["Kleiner gelb-schwarzer Singvogel"],
+    "examples_de": [["Ein **Stieglitz** saß auf der Distel", "**Distelfinken** lieben Futterplätze mit Nyjer-Samen"], ["Das männliche **Stieglitz** hat ein leuchtend gelbes Gefieder", "Europäische **Stieglitze** haben rote Gesichter"]]
+  },
+  {
+    "lemma": "goldfish",
+    "meanings_de": ["Goldfisch"],
+    "definitions_de": ["Kleiner orangefarbener oder gelber Fisch, der häufig als Haustier gehalten wird"],
+    "examples_de": [["Der **Goldfisch** schwamm Kreise in seinem Glas", "Kinder gewannen **Goldfische** auf dem Jahrmarkt"], ["**Goldfische** können viele Jahre alt werden", "Der Teich enthielt bunte **Zierfische**"]]
+  },
+  {
+    "lemma": "goldmine",
+    "meanings_de": ["Goldgrube"],
+    "definitions_de": ["Bergwerk, in dem Gold abgebaut wird; Quelle großen Reichtums oder Gewinns"],
+    "examples_de": [["Die alte **Goldmine** war seit Jahrzehnten verlassen", "Diese Webseite ist eine wahre **Fundgrube** an Informationen"], ["Goldsucher suchten nach der legendären **Goldader**", "Das Geschäft erwies sich als wahre **Goldgrube**"]]
+  },
+  {
+    "lemma": "goldsmith",
+    "meanings_de": ["Goldschmied"],
+    "definitions_de": ["Handwerker, der Gegenstände aus Gold und Edelmetallen herstellt"],
+    "examples_de": [["Der **Goldschmied** fertigte wunderschöne Eheringe", "Mittelalterliche **Goldschmiede** dienten als frühe Bankiers"], ["Sie machte eine Lehre bei einem Meister**goldschmied**", "Die **Goldschmiedin** reparierte die antike Brosche"]]
+  },
+  {
+    "lemma": "golem",
+    "meanings_de": ["Lehmgeschöpf"],
+    "definitions_de": ["Wesen aus der jüdischen Folklore, aus Lehm geschaffen und zum Leben erweckt"],
+    "examples_de": [["Der Rabbi erschuf einen **Golem** zum Schutz der Gemeinde", "Der **Golem** von Prag ist eine berühmte Legende"], ["In der Geschichte wandte sich der **Golem** gegen seinen Schöpfer", "Moderne Literatur zeigt oft **Golems** als Hauptfiguren"]]
+  },
+  {
+    "lemma": "golfer",
+    "meanings_de": ["Golfspieler"],
+    "definitions_de": ["Person, die Golf spielt"],
+    "examples_de": [["Professionelle **Golfer** spielen um Millionen", "Die **Golferin** wählte ihren Schläger sorgfältig aus"], ["Wochenend-**Golfspieler** füllten den Platz", "Tiger Woods wurde zum weltbesten **Golfer**"]]
+  },
+  {
+    "lemma": "golfing",
+    "meanings_de": ["Golfspielen"],
+    "definitions_de": ["Aktivität oder Sport des Golfspielens"],
+    "examples_de": [["Sie gingen jeden Samstagmorgen **golfen**", "**Golfspielen** erfordert Geduld und Übung"], ["Sein **Golfspiel** verbesserte sich mit Unterricht", "Geschäftliche **Golfrunden** sind üblich"]]
+  },
+  {
+    "lemma": "goliath",
+    "meanings_de": ["biblischer Riese", "riesige Einheit"],
+    "definitions_de": ["Biblischer Riese, der von David besiegt wurde", "Jede Person oder Sache von enormer Größe oder Macht"],
+    "examples_de": [["David besiegte **Goliath** mit einer Steinschleuder", "Die Geschichte von David und **Goliath** inspiriert Außenseiter"], ["Das kleine Unternehmen stand einem Konzern-**Giganten** gegenüber", "Er war ein **Riese** in der Technologiebranche"]]
+  },
+  {
+    "lemma": "gondola",
+    "meanings_de": ["venezianisches Boot", "Seilbahngondel"],
+    "definitions_de": ["Traditionelles flachbodiges Boot in Venedig", "Geschlossene Kabine, die an Seilen hängt"],
+    "examples_de": [["Touristen fuhren mit **Gondeln** durch Venedigs Kanäle", "Der **Gondoliere** sang beim Steuern"], ["Die Ski-**Gondel** brachte Skifahrer auf den Berg", "Sie fuhren mit der **Seilbahn** zum Gipfel"]]
+  },
+  {
+    "lemma": "gong",
+    "meanings_de": ["Schlagzeug-Gong"],
+    "definitions_de": ["Metallscheibe, die beim Anschlagen Klang erzeugt"],
+    "examples_de": [["Der **Essensgong** rief die Gäste zusammen", "Sie schlug den **Gong** zum Meditationsbeginn"], ["Der Orchester-**Gong** erzeugte dramatischen Effekt", "Tempel-**Gongs** riefen Mönche zum Gebet"]]
+  },
+  {
+    "lemma": "gonorrhea",
+    "meanings_de": ["Geschlechtskrankheit"],
+    "definitions_de": ["Sexuell übertragbare bakterielle Infektion"],
+    "examples_de": [["Antibiotika können **Gonorrhoe** wirksam behandeln", "Regelmäßige Tests helfen, **Tripper** früh zu erkennen"], ["Unbehandelte **Gonorrhoe** kann ernste Komplikationen verursachen", "Gesundheitszentren bieten **Tripper**-Screening an"]]
+  },
+  {
+    "lemma": "goo",
+    "meanings_de": ["klebrige Substanz"],
+    "definitions_de": ["Klebrige oder schleimige Substanz"],
+    "examples_de": [["Geheimnisvoller **Schleim** bedeckte die Küchentheke", "Die Schnecke hinterließ eine **Schleimspur**"], ["Kinder lieben es, mit **Glibber** zu spielen", "Industrieller **Schmier** verstopfte den Abfluss"]]
+  },
+  {
+    "lemma": "goodbye",
+    "meanings_de": ["Abschiedsgruß"],
+    "definitions_de": ["Ausdruck beim Abschied oder Verlassen"],
+    "examples_de": [["Sie winkte zum **Abschied** aus dem Fenster", "**Lebewohl** zu sagen ist immer schwierig"], ["Die Kinder riefen ihrer Lehrerin **Tschüss** zu", "Er ging ohne **Auf Wiedersehen** zu sagen"]]
+  },
+  {
+    "lemma": "goodwill",
+    "meanings_de": ["Wohlwollen", "Geschäftswert"],
+    "definitions_de": ["Freundliche, hilfsbereite oder kooperative Gefühle", "Etablierter Ruf eines Unternehmens über materielle Werte hinaus"],
+    "examples_de": [["Der Vertrag förderte das **Wohlwollen** zwischen den Nationen", "Sie erbrachte die Leistung aus reinem **Entgegenkommen**"], ["Der **Firmenwert** des Unternehmens war Millionen wert", "Kunden-**Vertrauen** aufzubauen dauert Jahre"]]
+  },
+  {
+    "lemma": "goody",
+    "meanings_de": ["kleine Leckerei"],
+    "definitions_de": ["Etwas Attraktives oder Begehrenswertes, besonders etwas Süßes zum Essen"],
+    "examples_de": [["Partytüten enthielten verschiedene **Leckereien**", "Die Bäckerei präsentierte verlockende **Süßigkeiten**"], ["Kinder warteten gespannt auf ihre **Naschereien**", "Sie packte gesunde **Snacks** für die Reise"]]
+  },
+  {
+    "lemma": "goof",
+    "meanings_de": ["dummer Fehler", "Dummkopf"],
+    "definitions_de": ["Törichter Fehler oder Schnitzer", "Alberne oder törichte Person"],
+    "examples_de": [["Sein **Patzer** kostete das Team das Spiel", "Jeder macht mal einen **Schnitzer**"], ["Sei nicht so ein **Trottel**!", "Der Klassen**kasper** brachte alle zum Lachen"]]
+  },
+  {
+    "lemma": "goon",
+    "meanings_de": ["angeheuerter Schläger"],
+    "definitions_de": ["Angeheuerter Schläger oder Leibwächter; dumme oder törichte Person"],
+    "examples_de": [["Die **Schergen** des Bösewichts verfolgten den Helden", "Firmen-**Schläger** schüchterten die Arbeiter ein"], ["Sicherheits-**Gorillas** blockierten den Eingang", "Benimm dich nicht wie ein **Rüpel** auf der Party"]]
+  },
+  {
+    "lemma": "goose",
+    "meanings_de": ["Gans"],
+    "definitions_de": ["Großer Wasservogel mit langem Hals und Schwimmhäuten"],
+    "examples_de": [["Eine **Gans** schnatterte laut den Eindringling an", "Wild**gänse** flogen für den Winter nach Süden"], ["Der Bauer züchtete **Gänse** für ihre Daunen", "Die Märchen der Mutter **Gans** sind berühmt"]]
+  },
+  {
+    "lemma": "gooseberry",
+    "meanings_de": ["Stachelbeere"],
+    "definitions_de": ["Kleine, runde, essbare Beere, die an dornigen Büschen wächst"],
+    "examples_de": [["**Stachelbeerkuchen** braucht viel Zucker", "Die grünen **Stachelbeeren** waren zu sauer"], ["Sie machte jeden Sommer **Stachelbeermarmelade**", "Wilde **Stachelbeeren** wuchsen am Wegrand"]]
+  },
+  {
+    "lemma": "gopher",
+    "meanings_de": ["Taschenratte"],
+    "definitions_de": ["Kleines grabendes Nagetier mit Backentaschen"],
+    "examples_de": [["**Erdhörnchen** zerstörten den Garten mit ihren Tunneln", "Die **Taschenratte** tauchte aus ihrem Loch auf"], ["Bauern betrachten **Wühlmäuse** als ernsthafte Schädlinge", "**Erdhörnchen**-Hügel übersäten den Rasen"]]
+  },
+  {
+    "lemma": "gore",
+    "meanings_de": ["Blutgewalt"],
+    "definitions_de": ["Durch Gewalt vergossenes Blut; grafische Gewaltdarstellung"],
+    "examples_de": [["Der Horrorfilm war voller **Blut und Gewalt**", "Das **Blutbad** am Tatort schockierte die Beamten"], ["Manche Zuschauer können **Gewaltszenen** in Filmen nicht ertragen", "Die Schlacht hinterließ **Blutlachen** auf dem Feld"]]
+  },
+  {
+    "lemma": "gorge",
+    "meanings_de": ["enge Schlucht"],
+    "definitions_de": ["Enges Tal zwischen Hügeln oder Bergen mit steilen Seiten"],
+    "examples_de": [["Der Fluss grub eine tiefe **Schlucht**", "Sie wanderten durch die malerische **Klamm**"], ["Wasserfälle stürzten die **Schlucht**wände hinab", "Die Brücke überspannte die felsige **Felsenschlucht**"]]
+  },
+  {
+    "lemma": "gorilla",
+    "meanings_de": ["Menschenaffe"],
+    "definitions_de": ["Größter lebender Primat, heimisch in afrikanischen Wäldern"],
+    "examples_de": [["Berg**gorillas** sind vom Aussterben bedroht", "Der Silberrücken-**Gorilla** führte seine Familiengruppe"], ["**Gorillas** sind überraschend sanfte Riesen", "Zoobesucher beobachteten die spielenden **Menschenaffen**"]]
+  },
+  {
+    "lemma": "gosling",
+    "meanings_de": ["Gänseküken"],
+    "definitions_de": ["Junge Gans"],
+    "examples_de": [["Flauschige **Gössel** folgten ihrer Mutter", "Das **Gänseküken** kämpfte, um mitzuhalten"], ["Der Frühling brachte neue **Gänsejunge** zum Teich", "Kanada**gänse**-Küken bleiben bei den Eltern"]]
+  },
+  {
+    "lemma": "gossamer",
+    "meanings_de": ["hauchdünner Stoff"],
+    "definitions_de": ["Feine, filmartige Substanz wie Spinnweben; alles Leichte und Zarte"],
+    "examples_de": [["Morgentau hing an **hauchdünnen** Spinnennetzen", "Ihr **hauchzartes** Kleid wehte im Wind"], ["**Elfenflügel** aus feinstem Gewebe trugen die Fee", "Die **durchscheinenden** Vorhänge filterten sanftes Licht"]]
+  }
+]

@@ -1,0 +1,284 @@
+[
+  {
+    "lemma": "irritant",
+    "meanings_de": ["reizauslösende Substanz"],
+    "definitions_de": ["Substanz oder Mittel, das bei Kontakt mit Körpergewebe zu physischen Beschwerden oder Entzündungen führt"],
+    "examples_de": [["Staubpartikel können für Allergiker ein erheblicher **Reizstoff** sein", "Die Chemikalie wirkte als Haut**reizstoff** und erforderte Schutzausrüstung"]]
+  },
+  {
+    "lemma": "irritation",
+    "meanings_de": ["Zustand der Verärgerung", "körperliche Entzündung"],
+    "definitions_de": ["Gefühl von Ärger, Ungeduld oder leichtem Zorn, das durch etwas Unangenehmes verursacht wird", "körperlicher Zustand von Schmerz, Rötung oder Entzündung im Körpergewebe"],
+    "examples_de": [["Sie konnte ihre **Verärgerung** nicht verbergen, als die Sitzung überzogen wurde", "Seine ständigen Unterbrechungen waren für alle eine Quelle der **Irritation**"], ["Die Haut**reizung** hielt mehrere Tage nach dem Kontakt mit der Pflanze an", "Eine **Reizung** der Augen kann durch Rauch oder Chemikalien entstehen"]]
+  },
+  {
+    "lemma": "islander",
+    "meanings_de": ["Inselbewohner"],
+    "definitions_de": ["Person, die auf einer Insel lebt oder von dort stammt, insbesondere von einer kleinen oder abgelegenen"],
+    "examples_de": [["Die pazifischen **Inselbewohner** pflegen einzigartige kulturelle Traditionen über Generationen", "Als lebenslange **Insulanerin** kannte sie jeden Strand und jede Bucht perfekt"]]
+  },
+  {
+    "lemma": "isle",
+    "meanings_de": ["kleine Insel"],
+    "definitions_de": ["kleine Insel oder Halbinsel, besonders eine, die für ihre Schönheit oder Bedeutung bekannt ist"],
+    "examples_de": [["Sie verbrachten ihre Flitterwochen auf einem tropischen **Eiland** in der Karibik", "Zu den Britischen Inseln gehören viele kleine **Eilande** vor der Küste"]]
+  },
+  {
+    "lemma": "islet",
+    "meanings_de": ["winzige Insel"],
+    "definitions_de": ["sehr kleine Insel, oft unbewohnt und typischerweise in Flüssen oder Seen zu finden"],
+    "examples_de": [["Mehrere **Inselchen** prägten den See und boten Nistplätze für Vögel", "Der Entdecker fand während der Expedition ein unbekanntes **Inselchen**"]]
+  },
+  {
+    "lemma": "ism",
+    "meanings_de": ["charakteristische Lehre"],
+    "definitions_de": ["charakteristische Lehre, Glaubenssystem oder Praxis, typischerweise eine, deren Name auf -ismus endet"],
+    "examples_de": [["Der Professor diskutierte verschiedene politische **Ismen** der Geschichte", "Sie war all der **Ismen** überdrüssig, die Menschen entzweiten"]]
+  },
+  {
+    "lemma": "isolationism",
+    "meanings_de": ["Isolationspolitik"],
+    "definitions_de": ["Politik oder Doktrin der Isolierung des eigenen Landes von den Angelegenheiten anderer Nationen durch Ablehnung internationaler Bündnisse"],
+    "examples_de": [["Der amerikanische **Isolationismus** endete mit dem Eintritt des Landes in den Zweiten Weltkrieg", "Die Partei befürwortete wirtschaftlichen **Isolationismus** zum Schutz heimischer Industrien"]]
+  },
+  {
+    "lemma": "isolationist",
+    "meanings_de": ["Befürworter der Isolation"],
+    "definitions_de": ["Person, die eine Politik der nationalen Isolation von internationalen politischen und wirtschaftlichen Angelegenheiten befürwortet oder unterstützt"],
+    "examples_de": [["Die **Isolationisten** argumentierten gegen den Beitritt zum internationalen Handelsabkommen", "Er war als **Isolationist** bekannt, der ausländische Militärinterventionen ablehnte"]]
+  },
+  {
+    "lemma": "isometric",
+    "meanings_de": ["Muskelübungsart"],
+    "definitions_de": ["Art des Krafttrainings, bei der sich Muskeln anspannen, ohne ihre Länge zu verändern oder Gelenke zu bewegen"],
+    "examples_de": [["Planks sind beliebte **isometrische** Übungen für die Rumpfmuskulatur", "Der Physiotherapeut empfahl **isometrische** Übungen für sein verletztes Knie"]]
+  },
+  {
+    "lemma": "isotope",
+    "meanings_de": ["Atomvariante"],
+    "definitions_de": ["Variante eines chemischen Elements mit gleicher Protonenzahl, aber unterschiedlicher Neutronenzahl"],
+    "examples_de": [["Kohlenstoff-14 ist ein radioaktives **Isotop** für archäologische Datierungen", "Wissenschaftler untersuchten verschiedene **Isotope** zur Erforschung der Elementeigenschaften"]]
+  },
+  {
+    "lemma": "issuance",
+    "meanings_de": ["Ausgabevorgang"],
+    "definitions_de": ["offizieller Vorgang der Bereitstellung oder Verteilung von etwas, insbesondere von Dokumenten, Aktien oder Währungen"],
+    "examples_de": [["Die **Ausgabe** neuer Reisepässe verzögerte sich durch Systemaktualisierungen", "Die Anleihen**emission** stieg während der wirtschaftlichen Erholung deutlich"]]
+  },
+  {
+    "lemma": "issuer",
+    "meanings_de": ["ausgebende Stelle"],
+    "definitions_de": ["Organisation oder Einrichtung, die Wertpapiere, Dokumente oder offizielle Gegenstände erstellt und ausgibt"],
+    "examples_de": [["Der Kreditkarten**herausgeber** genehmigte ihren Antrag binnen Minuten", "Behörden sind die wichtigsten **Aussteller** amtlicher Ausweisdokumente"]]
+  },
+  {
+    "lemma": "issuing",
+    "meanings_de": ["Ausgabeprozess"],
+    "definitions_de": ["fortlaufender Prozess der offiziellen Bereitstellung oder Verteilung von Dokumenten, Erklärungen oder Wertpapieren"],
+    "examples_de": [["Die Bank **gibt** neue Debitkarten mit verbesserter Sicherheit **aus**", "Das Unternehmen verzögerte die **Herausgabe** seines Quartalsberichts wegen Prüfungsbedenken"]]
+  },
+  {
+    "lemma": "italic",
+    "meanings_de": ["kursive Schriftart"],
+    "definitions_de": ["Schriftschnitt, bei dem die Buchstaben nach rechts geneigt sind, zur Hervorhebung oder Unterscheidung verwendet"],
+    "examples_de": [["Bitte schreiben Sie Fremdwörter **kursiv**, um sie vom Deutschen abzuheben", "Der Redakteur markierte alle Buchtitel für den **Kursivdruck**"]]
+  },
+  {
+    "lemma": "itch",
+    "meanings_de": ["Hautempfindung", "starkes Verlangen"],
+    "definitions_de": ["unangenehmes Gefühl auf der Haut, das den Wunsch zu kratzen hervorruft", "unruhiges Verlangen oder Sehnsucht, etwas zu tun"],
+    "examples_de": [["Der Mückenstich hinterließ ein lästiges **Jucken** auf ihrem Arm", "Er trug Salbe auf, um das hartnäckige **Jucken** zu lindern"], ["Sie verspürte den **Drang** zu reisen und neue Länder zu erkunden", "Der Unternehmer spürte das **Verlangen**, ein weiteres Geschäft zu gründen"]]
+  },
+  {
+    "lemma": "itching",
+    "meanings_de": ["Reizempfindung"],
+    "definitions_de": ["anhaltendes unangenehmes Hautgefühl, das den Wunsch hervorruft, zur Linderung zu kratzen"],
+    "examples_de": [["Das **Jucken** vom Ausschlag hielt ihn die ganze Nacht wach", "Anhaltendes **Jucken** kann ein Symptom verschiedener Hautkrankheiten sein"]]
+  },
+  {
+    "lemma": "iteration",
+    "meanings_de": ["wiederholte Version"],
+    "definitions_de": ["neue Version von etwas, die Änderungen gegenüber einer früheren Form enthält, oder der Prozess des Wiederholens"],
+    "examples_de": [["Die neueste **Version** der Software enthält mehrere Fehlerbehebungen", "Jede **Iteration** des Designs brachte sie der Perfektion näher"]]
+  },
+  {
+    "lemma": "itinerant",
+    "meanings_de": ["Wanderarbeiter"],
+    "definitions_de": ["Person, die von Ort zu Ort reist, besonders für die Arbeit, ohne festen Wohnsitz"],
+    "examples_de": [["Der **Wanderprediger** besuchte verschiedene Kirchen in der Region", "Viele Landarbeiter leben als **Wanderarbeiter** und folgen den Erntezeiten"]]
+  },
+  {
+    "lemma": "itinerary",
+    "meanings_de": ["Reiseplan"],
+    "definitions_de": ["detaillierter Plan oder Zeitplan für eine Reise mit Auflistung der zu besuchenden Orte und Aktivitäten"],
+    "examples_de": [["Der Reiseleiter verteilte die **Reiseroute** der Woche an alle Teilnehmer", "Sie plante ihre Europa-**Reiseroute** Monate im Voraus sorgfältig"]]
+  },
+  {
+    "lemma": "ivory",
+    "meanings_de": ["Elefantenstoßzahnmaterial", "blasse Farbe"],
+    "definitions_de": ["hartes weißes Material aus Elefantenstoßzähnen und Zähnen bestimmter Tiere", "blassgelblich-weiße Farbe, die dem Material von Elefantenstoßzähnen ähnelt"],
+    "examples_de": [["Die antiken Klaviertasten waren aus echtem **Elfenbein** gefertigt", "Der internationale Handel mit **Elfenbein** ist zum Schutz der Elefanten verboten"], ["Sie wählte ein **elfenbeinfarbenes** Brautkleid statt eines reinweißen", "Die Wände waren in einem warmen **Elfenbeinton** gestrichen"]]
+  },
+  {
+    "lemma": "ivy",
+    "meanings_de": ["Kletterpflanze"],
+    "definitions_de": ["immergrüne Kletterpflanze mit glänzenden Blättern, die sich an Wänden und Bäumen festhält"],
+    "examples_de": [["Die alten Universitätsgebäude waren mit dichtem **Efeu** bewachsen", "Sie pflanzte **Efeu** als natürlichen Sichtschutz"]]
+  },
+  {
+    "lemma": "jab",
+    "meanings_de": ["schneller Stoß", "Impfspritze"],
+    "definitions_de": ["schneller scharfer Schlag oder Stoß mit etwas Spitzem oder mit der Faust", "umgangssprachlicher Begriff für eine Injektion, besonders eine Impfung"],
+    "examples_de": [["Der Boxer landete einen kraftvollen **Stoß** ins Gesicht seines Gegners", "Sie gab ihm einen spielerischen **Knuff** in die Rippen"], ["Alle stellten sich für ihre Grippe**impfung** in der Klinik an", "Die Krankenschwester verabreichte die **Spritze** schnell und schmerzlos"]]
+  },
+  {
+    "lemma": "jack",
+    "meanings_de": ["Hebevorrichtung", "Spielkarte", "Männername"],
+    "definitions_de": ["mechanische Vorrichtung zum Heben schwerer Gegenstände, besonders Fahrzeuge", "Spielkarte im Kartendeck, die zwischen Zehn und Dame rangiert", "informeller Name für einen Mann oder gebräuchlicher männlicher Vorname"],
+    "examples_de": [["Er benutzte einen **Wagenheber**, um den platten Reifen zu wechseln", "Bewahren Sie einen **Wagenheber** für Notfälle im Kofferraum auf"], ["Sie zog den **Buben** in Herz aus dem Stapel", "Beim Blackjack zählt ein **Bube** zehn Punkte"], ["Jeder **Mann** von ihnen nahm an der Versammlung teil", "**Hans** ist seit seiner Kindheit sein Spitzname"]]
+  },
+  {
+    "lemma": "jackal",
+    "meanings_de": ["Wildhund"],
+    "definitions_de": ["mittelgroßer Wildhund in Afrika und Asien, bekannt für das Aasen und die Jagd im Rudel"],
+    "examples_de": [["**Schakale** heulten in der Ferne, als die Nacht über die Savanne hereinbrach", "Die Dokumentation zeigte **Schakale**, die Löwen folgten, um Reste zu erbeuten"]]
+  },
+  {
+    "lemma": "jackfruit",
+    "meanings_de": ["tropische Frucht"],
+    "definitions_de": ["große tropische Frucht mit dicker stacheliger Schale und süßem gelbem Fruchtfleisch, heimisch in Südasien"],
+    "examples_de": [["Die reife **Jackfrucht** wog bei der Ernte über fünfzehn Kilo", "Vegetarier verwenden junge **Jackfrucht** oft als Fleischersatz"]]
+  },
+  {
+    "lemma": "jackpot",
+    "meanings_de": ["Hauptgewinn"],
+    "definitions_de": ["größter Preis in einer Lotterie oder einem Glücksspiel, oder jeder große Glücksfall oder Erfolg"],
+    "examples_de": [["Sie gewann den Casino-**Jackpot** im Wert von fünf Millionen Euro", "Diesen Vertrag zu bekommen war wie ein **Hauptgewinn** für unser Unternehmen"]]
+  },
+  {
+    "lemma": "jackrabbit",
+    "meanings_de": ["großer Hase"],
+    "definitions_de": ["großer Hase in Nordamerika mit sehr langen Ohren und kräftigen Hinterbeinen"],
+    "examples_de": [["Der **Eselhase** hüpfte in gewaltigen Sprüngen durch die Wüste", "**Eselhasen** können Geschwindigkeiten von bis zu sechzig Kilometern pro Stunde erreichen"]]
+  },
+  {
+    "lemma": "jade",
+    "meanings_de": ["grüner Edelstein", "grüne Farbe"],
+    "definitions_de": ["harter Schmuckstein, typischerweise grün, verwendet in Schmuck und Schnitzereien", "grüne Farbe, die dem Edelstein Jade ähnelt"],
+    "examples_de": [["Das Museum stellte alte chinesische **Jade**skulpturen aus", "Sie trug eine zarte **Jade**kette, die von ihrer Großmutter vererbt wurde"], ["Der Designer wählte ein tiefes **Jadegrün** für die Akzentwand", "Ihre Augen waren von einem auffälligen **Jadegrün**"]]
+  },
+  {
+    "lemma": "jag",
+    "meanings_de": ["scharfer Vorsprung", "Aktivitätsphase"],
+    "definitions_de": ["scharfer Vorsprung oder spitzer Teil, der aus etwas herausragt", "Phase ungezügelter Aktivität oder Hingabe an etwas"],
+    "examples_de": [["Das Metall hatte gefährliche **Zacken**, die Verletzungen verursachen konnten", "Er schnitt sich an einer **Zacke** aus zerbrochenem Glas"], ["Sie machte einen Einkaufs**rausch** und überzog alle ihre Kreditkarten", "Sein Wein**anfall** dauerte fast eine Stunde"]]
+  },
+  {
+    "lemma": "jaguar",
+    "meanings_de": ["große Wildkatze"],
+    "definitions_de": ["große gefleckte Wildkatze aus Mittel- und Südamerika, die drittgrößte Katzenart"],
+    "examples_de": [["Der **Jaguar** schlich lautlos durch das Unterholz des Regenwalds", "**Jaguare** sind im Gegensatz zu vielen anderen Großkatzen ausgezeichnete Schwimmer"]]
+  },
+  {
+    "lemma": "jailbreak",
+    "meanings_de": ["Gefängnisausbruch"],
+    "definitions_de": ["Flucht aus dem Gefängnis oder die Handlung, Beschränkungen von elektronischen Geräten zu entfernen"],
+    "examples_de": [["Der berüchtigte **Gefängnisausbruch** machte landesweit Schlagzeilen", "Drei Häftlinge wurden beim Planen eines **Ausbruchs** aus dem Hochsicherheitsgefängnis erwischt"]]
+  },
+  {
+    "lemma": "jailer",
+    "meanings_de": ["Gefängniswärter"],
+    "definitions_de": ["Person, die für ein Gefängnis oder Gefangene verantwortlich ist und für deren Verwahrung und Überwachung sorgt"],
+    "examples_de": [["Der **Gefängniswärter** führte stündliche Kontrollen bei allen Insassen durch", "Sie arbeitete als **Wärterin** im Bezirksgefängnis"]]
+  },
+  {
+    "lemma": "jailhouse",
+    "meanings_de": ["Gefängnisgebäude"],
+    "definitions_de": ["Gebäude, das als Gefängnis genutzt wird, besonders eine kleinere lokale Haftanstalt"],
+    "examples_de": [["Bluesmusiker sangen oft über das Leben im **Gefängnis**", "Das alte **Gefängnisgebäude** wurde in eine Touristenattraktion umgewandelt"]]
+  },
+  {
+    "lemma": "jam",
+    "meanings_de": ["Fruchtaufstrich", "Verkehrsstau", "schwierige Lage"],
+    "definitions_de": ["süßer Aufstrich aus mit Zucker eingekochten Früchten bis zur Dickflüssigkeit", "Situation, in der die Bewegung blockiert ist, besonders im Verkehr", "schwierige oder unangenehme Situation oder Zwangslage"],
+    "examples_de": [["Sie strich Erdbeer**marmelade** auf ihr Frühstückstoast", "Omas hausgemachte **Konfitüre** gewann den ersten Preis auf dem Jahrmarkt"], ["Der **Stau** auf der Autobahn erstreckte sich kilometerweit zur Hauptverkehrszeit", "Ein **Stau** an der Kreuzung verursachte erhebliche Verzögerungen"], ["Er brachte sich mit schlechten Investitionen in eine finanzielle **Klemme**", "Kannst du mir aus dieser **Patsche** mit meinem Chef helfen?"]]
+  },
+  {
+    "lemma": "jamboree",
+    "meanings_de": ["großes Fest"],
+    "definitions_de": ["große Feier oder Party mit Unterhaltung, ursprünglich ein Treffen von Pfadfindern"],
+    "examples_de": [["Das jährliche Pfadfinder**treffen** zog Tausende junger Teilnehmer an", "Die Stadt organisierte ein Sommer**fest** mit Fahrgeschäften und Spielen"]]
+  },
+  {
+    "lemma": "jammer",
+    "meanings_de": ["Störgerät"],
+    "definitions_de": ["Gerät, das Funksignale oder andere elektronische Kommunikation blockiert oder stört"],
+    "examples_de": [["Das Militär setzte **Störsender** ein, um feindliche Kommunikation zu unterbrechen", "Handy**störsender** sind in vielen Ländern illegal"]]
+  },
+  {
+    "lemma": "jamming",
+    "meanings_de": ["Signalstörung", "Musikimprovisation"],
+    "definitions_de": ["absichtliche Blockierung oder Störung von Funk- oder elektronischen Signalen", "informelle Musiksession, bei der Musiker gemeinsam improvisieren"],
+    "examples_de": [["Die Funk**störung** verhinderte, dass die Sendung ihr Publikum erreichte", "Die Regierung beschuldigte ausländische Mächte der GPS-**Störung**"], ["Die Band verbrachte Stunden mit **Jammen** im Garagenstudio", "Nächtliche **Jam-Sessions** brachten ihre besten Songs hervor"]]
+  },
+  {
+    "lemma": "jangle",
+    "meanings_de": ["schriller Klang"],
+    "definitions_de": ["schriller metallischer Klang, der entsteht, wenn Metallgegenstände aneinanderschlagen, oder Zustand der Nervosität"],
+    "examples_de": [["Das **Klimpern** der Schlüssel kündigte ihre Ankunft an der Tür an", "Seine Nerven waren vor der wichtigen Präsentation zum **Zerreißen** gespannt"]]
+  },
+  {
+    "lemma": "janitor",
+    "meanings_de": ["Hausmeister"],
+    "definitions_de": ["Person, die für die Reinigung und Wartung eines Gebäudes, besonders einer Schule oder eines Büros, angestellt ist"],
+    "examples_de": [["Der **Hausmeister** kam früh, um die Schule für die Schüler vorzubereiten", "Sie arbeitete als **Hausmeisterin**, während sie Abendkurse besuchte"]]
+  },
+  {
+    "lemma": "jargon",
+    "meanings_de": ["Fachsprache"],
+    "definitions_de": ["spezielle Wörter oder Ausdrücke, die von einer bestimmten Berufsgruppe verwendet werden und für andere schwer verständlich sind"],
+    "examples_de": [["Medizinischer **Fachjargon** kann für Patienten ohne Gesundheitshintergrund verwirrend sein", "Der Vertrag war voller juristischer **Fachbegriffe**, die eine Übersetzung erforderten"]]
+  },
+  {
+    "lemma": "jasmine",
+    "meanings_de": ["duftende Blume"],
+    "definitions_de": ["Kletterpflanze mit duftenden weißen oder gelben Blüten, oft in Parfüms und Tees verwendet"],
+    "examples_de": [["Der **Jasmin** blühte nachts und erfüllte den Garten mit Duft", "Sie trank jeden Abend vor dem Schlafengehen **Jasmintee**"]]
+  },
+  {
+    "lemma": "jasper",
+    "meanings_de": ["undurchsichtiger Edelstein"],
+    "definitions_de": ["undurchsichtige Quarzvarietät, meist rot, braun oder gelb, als Schmuckstein verwendet"],
+    "examples_de": [["Der Juwelier fasste den roten **Jaspis** in einen Silberring", "Alte Zivilisationen schätzten **Jaspis** wegen seiner vermeintlichen Schutzeigenschaften"]]
+  },
+  {
+    "lemma": "jaundice",
+    "meanings_de": ["Gelbfärbungszustand"],
+    "definitions_de": ["medizinischer Zustand, der eine Gelbfärbung von Haut und Augen durch überschüssiges Bilirubin im Blut verursacht"],
+    "examples_de": [["Das Neugeborene entwickelte **Gelbsucht**, erholte sich aber mit Lichttherapie", "**Gelbsucht** kann ein Symptom verschiedener Lebererkrankungen sein"]]
+  },
+  {
+    "lemma": "java",
+    "meanings_de": ["Kaffee", "Programmiersprache"],
+    "definitions_de": ["umgangssprachlicher Begriff für Kaffee, besonders starken schwarzen Kaffee", "beliebte Programmiersprache zur Entwicklung von Anwendungen und Webinhalten"],
+    "examples_de": [["Er brauchte seinen morgendlichen **Kaffee**, bevor er mit der Arbeit begann", "Das Restaurant servierte den besten **Mokka** der Stadt"], ["Sie lernte **Java**, um Android-Anwendungen zu entwickeln", "Viele Unternehmenssysteme sind mit **Java** erstellt"]]
+  },
+  {
+    "lemma": "javelin",
+    "meanings_de": ["Wurfspeer"],
+    "definitions_de": ["leichter Speer zum Werfen im sportlichen Wettkampf oder historisch als Waffe"],
+    "examples_de": [["Der Athlet schleuderte den **Speer** über siebzig Meter weit", "Antike Krieger benutzten **Wurfspeere** im Kampf vor dem Nahkampf"]]
+  },
+  {
+    "lemma": "jawbone",
+    "meanings_de": ["Unterkieferknochen"],
+    "definitions_de": ["Knochen des Unterkiefers, der die unteren Zähne hält und das Kauen ermöglicht"],
+    "examples_de": [["Der Archäologe grub vorsichtig den alten menschlichen **Kieferknochen** aus", "Er brach sich bei dem Motorradunfall den **Unterkiefer**"]]
+  },
+  {
+    "lemma": "jay",
+    "meanings_de": ["bunter Vogel"],
+    "definitions_de": ["mittelgroßer Vogel aus der Krähenfamilie, oft farbenfroh mit blauem Gefieder"],
+    "examples_de": [["Ein **Eichelhäher** saß auf dem Vogelhäuschen vor dem Fenster", "Der Ruf des **Hähers** warnte andere Vögel vor nahender Gefahr"]]
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "recommendation",
+    "meanings_de": ["empfohlener Ratschlag"],
+    "definitions_de": ["Vorschlag oder Ratschlag darüber, was am besten zu tun ist, meist aufgrund von Fachwissen oder Erfahrung"],
+    "examples_de": [["Die **Empfehlung** des Arztes lautete, eine Woche lang Ruhe zu halten", "Aufgrund Ihrer **Empfehlung** haben wir das Restaurant besucht"]]
+  },
+  {
+    "lemma": "maker",
+    "meanings_de": ["schaffende Person"],
+    "definitions_de": ["Person oder Unternehmen, die bzw. das etwas herstellt oder produziert"],
+    "examples_de": [["Der **Möbelmacher** fertigte wunderschöne Holzstühle", "Sie ist eine begabte **Schmuckherstellerin**"]]
+  },
+  {
+    "lemma": "impression",
+    "meanings_de": ["wahrgenommene Wirkung", "physischer Abdruck"],
+    "definitions_de": ["Vorstellung, Gefühl oder Meinung über etwas oder jemanden, die sich aus Wahrnehmungen bildet", "Abdruck oder Spur, die durch Druck auf eine Oberfläche entsteht"],
+    "examples_de": [["Der erste **Eindruck** ist bei Vorstellungsgesprächen wichtig", "Seine Freundlichkeit hinterließ einen bleibenden **Eindruck** bei mir"], ["Das Fossil hinterließ einen klaren **Abdruck** im Gestein", "Machen Sie einen **Abdruck** des Schlüssels in Ton"]]
+  },
+  {
+    "lemma": "battery",
+    "meanings_de": ["Stromquelle", "Körperverletzung"],
+    "definitions_de": ["Gerät, das elektrische Energie speichert und abgibt, um Strom zu liefern", "Straftat des tätlichen Angriffs auf eine Person"],
+    "examples_de": [["Tauschen Sie die **Batterie** in Ihrem Rauchmelder jährlich aus", "Die **Autobatterie** versagte bei der Kälte"], ["Er wurde wegen schwerer **Körperverletzung** angeklagt", "**Körperverletzung** ist ein ernsthaftes Vergehen"]]
+  },
+  {
+    "lemma": "narrative",
+    "meanings_de": ["erzählende Darstellung"],
+    "definitions_de": ["mündliche oder schriftliche Darstellung zusammenhängender Ereignisse; eine Geschichte oder Erzählung"],
+    "examples_de": [["Das Buch präsentiert eine fesselnde **Erzählung** über das Leben von Einwanderern", "Jeder Zeuge lieferte eine andere **Darstellung** der Ereignisse"]]
+  },
+  {
+    "lemma": "sake",
+    "meanings_de": ["Nutzen, Zweck"],
+    "definitions_de": ["Zweck oder Grund, etwas zu tun; Nutzen oder Interesse einer Person oder Sache"],
+    "examples_de": [["Um Ihrer Gesundheit **willen** sollten Sie mit dem Rauchen aufhören", "Sie blieben um der Kinder **willen** zusammen"]]
+  },
+  {
+    "lemma": "delivery",
+    "meanings_de": ["Lieferung", "Entbindung"],
+    "definitions_de": ["Vorgang des Bringens von Waren oder Briefen zu Menschen", "Vorgang der Geburt eines Kindes"],
+    "examples_de": [["Die **Paketlieferung** kommt normalerweise vor Mittag", "Das Restaurant bietet kostenlosen **Lieferservice** an"], ["Der Arzt half bei der **Entbindung** von Zwillingen", "Sie hatte eine komplikationslose **Geburt** im Krankenhaus"]]
+  },
+  {
+    "lemma": "rep",
+    "meanings_de": ["Vertreter/in"],
+    "definitions_de": ["umgangssprachliche Kurzform für Repräsentant oder Vertreter"],
+    "examples_de": [["Der **Vertreter** besuchte gestern unser Büro", "Wenden Sie sich für weitere Informationen an Ihren örtlichen **Repräsentanten**"]]
+  },
+  {
+    "lemma": "diversity",
+    "meanings_de": ["Vielfalt, Verschiedenheit"],
+    "definitions_de": ["Zustand des Vorhandenseins vieler verschiedener Arten, Formen oder Ideen; die Unterschiedlichkeit in einer Gruppe"],
+    "examples_de": [["Das Unternehmen schätzt die **Vielfalt** seiner Belegschaft", "**Biodiversität** ist für gesunde Ökosysteme unerlässlich"]]
+  },
+  {
+    "lemma": "string",
+    "meanings_de": ["dünne Schnur", "verbundene Reihe"],
+    "definitions_de": ["dünne Schnur aus gedrehten Fäden oder Fasern", "Reihe von Dingen oder Ereignissen, die aufeinander folgen"],
+    "examples_de": [["Binden Sie das Paket mit einer **Schnur** zusammen", "Die **Gitarrensaite** riss während der Vorstellung"], ["Eine **Reihe** von Unfällen verzögerte das Projekt", "Sie gewann eine **Serie** von Siegen"]]
+  },
+  {
+    "lemma": "lawsuit",
+    "meanings_de": ["Rechtsstreit"],
+    "definitions_de": ["rechtliche Auseinandersetzung, bei der jemand vor Gericht verklagt wird"],
+    "examples_de": [["Das Unternehmen sieht sich wegen der Datenpanne mit einer **Klage** konfrontiert", "Sie reichten eine **Klage** gegen ihren ehemaligen Arbeitgeber ein"]]
+  },
+  {
+    "lemma": "deputy",
+    "meanings_de": ["Stellvertreter/in"],
+    "definitions_de": ["Person, die ernannt wurde, um für eine andere Person zu handeln oder sie zu vertreten"],
+    "examples_de": [["Der **stellvertretende** Bürgermeister nahm an der Zeremonie teil", "**Hilfssheriffs** patrouillieren auf den Landstraßen"]]
+  },
+  {
+    "lemma": "buddy",
+    "meanings_de": ["guter Freund"],
+    "definitions_de": ["umgangssprachliches Wort für einen engen Freund oder Kumpel"],
+    "examples_de": [["Mein **Kumpel** aus der Uni hat mich letztes Wochenende besucht", "Hey **Kumpel**, kannst du mir beim Umzug helfen?"]]
+  },
+  {
+    "lemma": "evil",
+    "meanings_de": ["extreme Bosheit"],
+    "definitions_de": ["tiefgreifende Unmoral und Boshaftigkeit; das moralisch Verwerfliche"],
+    "examples_de": [["Die Geschichte zeigt den Kampf zwischen Gut und **Böse**", "Sie kämpften gegen das **Übel** in ihrer Gesellschaft"]]
+  },
+  {
+    "lemma": "lane",
+    "meanings_de": ["schmale Straße", "markierte Fahrbahn"],
+    "definitions_de": ["schmale Straße, besonders auf dem Land", "Abschnitt einer Straße, der für eine einzelne Fahrzeugreihe markiert ist"],
+    "examples_de": [["Sie spazierten die ruhige **Landstraße** entlang", "Das Häuschen liegt am Ende der **Gasse**"], ["Bleiben Sie beim Fahren in Ihrer **Spur**", "Die Autobahn hat vier **Fahrspuren** in jede Richtung"]]
+  },
+  {
+    "lemma": "bean",
+    "meanings_de": ["essbarer Samen"],
+    "definitions_de": ["essbarer Samen, der in Schoten an bestimmten Pflanzen wächst"],
+    "examples_de": [["Fügen Sie **Bohnen** zur Suppe hinzu für zusätzliches Protein", "**Kaffeebohnen** müssen vor dem Aufbrühen gemahlen werden"]]
+  },
+  {
+    "lemma": "sauce",
+    "meanings_de": ["flüssige Würze"],
+    "definitions_de": ["dickflüssige Zubereitung, die mit Speisen serviert wird, um Feuchtigkeit und Geschmack hinzuzufügen"],
+    "examples_de": [["Gießen Sie die **Tomatensoße** über die Pasta", "Diese scharfe **Sauce** passt perfekt zum Hähnchen"]]
+  },
+  {
+    "lemma": "testing",
+    "meanings_de": ["Prüfvorgang"],
+    "definitions_de": ["Prozess der Untersuchung von etwas, um Qualität oder Leistung zu überprüfen"],
+    "examples_de": [["**Produkttests** gewährleisten die Sicherheit vor der Markteinführung", "Regelmäßige **Prüfungen** helfen Schülern, ihren Fortschritt zu verfolgen"]]
+  },
+  {
+    "lemma": "trick",
+    "meanings_de": ["geschickte Täuschung", "Kunststück"],
+    "definitions_de": ["Handlung, die darauf abzielt, jemanden zu täuschen oder zu betrügen", "geschickte oder kunstvolle Handlung zur Unterhaltung"],
+    "examples_de": [["Fallen Sie nicht auf diesen alten **Trick** herein", "Die E-Mail war ein **Trick**, um Passwörter zu stehlen"], ["Der Zauberer führte einen erstaunlichen **Kartentrick** vor", "Mein Hund beherrscht mehrere **Kunststücke**"]]
+  },
+  {
+    "lemma": "fantasy",
+    "meanings_de": ["Phantasievorstellung"],
+    "definitions_de": ["angenehme Situation, die man sich vorstellt, die aber unwahrscheinlich ist"],
+    "examples_de": [["Auf einer tropischen Insel zu leben ist ihre **Fantasie**", "Das Buch erforscht Themen von **Fantasie** und Realität"]]
+  },
+  {
+    "lemma": "absence",
+    "meanings_de": ["Zustand des Fehlens"],
+    "definitions_de": ["Zustand des Nicht-anwesend-Seins an einem Ort oder bei einer Person"],
+    "examples_de": [["Ihre **Abwesenheit** bei der Besprechung wurde bemerkt", "In **Ermangelung** von Beweisen wurden die Anklagen fallen gelassen"]]
+  },
+  {
+    "lemma": "symbol",
+    "meanings_de": ["repräsentatives Zeichen"],
+    "definitions_de": ["Zeichen, Markierung oder Wort, das eine Idee, ein Objekt oder eine Beziehung darstellt"],
+    "examples_de": [["Die Taube ist ein **Symbol** des Friedens", "Mathematische **Symbole** vereinfachen komplexe Gleichungen"]]
+  },
+  {
+    "lemma": "recognition",
+    "meanings_de": ["Erkennung, Anerkennung"],
+    "definitions_de": ["Handlung des Erkennens oder Zustand des Erkannt- oder Anerkanntwerdens"],
+    "examples_de": [["**Gesichtserkennung**stechnologie verbessert die Sicherheit", "Sie erhielt **Anerkennung** für ihre ehrenamtliche Arbeit"]]
+  },
+  {
+    "lemma": "tablespoon",
+    "meanings_de": ["großer Löffel", "Maßeinheit"],
+    "definitions_de": ["großer Löffel zum Servieren von Speisen", "Maßeinheit beim Kochen, entspricht drei Teelöffeln"],
+    "examples_de": [["Verwenden Sie einen **Esslöffel** zum Servieren des Gemüses", "Decken Sie den Tisch mit **Esslöffeln** und Teelöffeln"], ["Geben Sie einen **Esslöffel** Öl in die Pfanne", "Das Rezept erfordert zwei **Esslöffel** Mehl"]]
+  },
+  {
+    "lemma": "arrest",
+    "meanings_de": ["polizeiliche Festnahme"],
+    "definitions_de": ["Vorgang der rechtmäßigen Ingewahrsamnahme einer Person, normalerweise durch die Polizei"],
+    "examples_de": [["Die Polizei nahm während des Protests mehrere **Festnahmen** vor", "Der Verdächtige war wegen Diebstahls **verhaftet**"]]
+  },
+  {
+    "lemma": "approval",
+    "meanings_de": ["positive Meinung"],
+    "definitions_de": ["Gefühl oder Zeichen dafür, dass etwas gut oder akzeptabel ist; Zustimmung"],
+    "examples_de": [["Der Plan erfordert die **Genehmigung** des Vorstands, bevor er fortgesetzt wird", "Die Eltern gaben ihre **Zustimmung** für die Klassenfahrt"]]
+  },
+  {
+    "lemma": "aids",
+    "meanings_de": ["Immunschwächekrankheit"],
+    "definitions_de": ["schwere Krankheit, verursacht durch das HI-Virus, das die Fähigkeit des Körpers zerstört, Infektionen zu bekämpfen"],
+    "examples_de": [["Die **AIDS**-Forschung hat zu besseren Behandlungen geführt", "Die Wohltätigkeitsorganisation sammelt Gelder für die **AIDS**-Prävention"]]
+  },
+  {
+    "lemma": "independence",
+    "meanings_de": ["Selbstständigkeit, Unabhängigkeit"],
+    "definitions_de": ["Zustand der Freiheit von äußerer Kontrolle oder Unterstützung; Eigenständigkeit"],
+    "examples_de": [["Das Land feierte seinen **Unabhängigkeitstag**", "Teenager streben oft nach **Unabhängigkeit** von ihren Eltern"]]
+  },
+  {
+    "lemma": "rose",
+    "meanings_de": ["Blütenpflanze"],
+    "definitions_de": ["Gartenpflanze mit Dornen und duftenden Blüten, oft als Symbol der Liebe verwendet"],
+    "examples_de": [["Rote **Rosen** symbolisieren Liebe und Romantik", "Sie pflanzte **Rosen** entlang des Gartenzauns"]]
+  },
+  {
+    "lemma": "ghost",
+    "meanings_de": ["Geistererscheinung"],
+    "definitions_de": ["Geist einer verstorbenen Person, von dem geglaubt wird, dass er den Lebenden erscheint"],
+    "examples_de": [["Das alte Haus soll von **Geistern** heimgesucht werden", "Die Kinder verkleideten sich zu Halloween als **Gespenster**"]]
+  },
+  {
+    "lemma": "involvement",
+    "meanings_de": ["Beteiligungszustand"],
+    "definitions_de": ["Handlung oder Zustand der Teilnahme an etwas; das Einbezogensein"],
+    "examples_de": [["Die **Beteiligung** der Eltern verbessert die Schülerleistung", "Seine **Verwicklung** in den Skandal schockierte alle"]]
+  },
+  {
+    "lemma": "wire",
+    "meanings_de": ["Metallfaden", "elektrisches Kabel"],
+    "definitions_de": ["dünner, biegsamer Metallfaden oder -stab", "Kabel, das elektrischen Strom oder Signale überträgt"],
+    "examples_de": [["Sichern Sie den Zaun mit starkem **Draht**", "Vögel saßen auf dem **Telefondraht**"], ["Verbinden Sie die **Kabel** gemäß dem Schaltplan", "Der Elektriker ersetzte die alte **Verkabelung**"]]
+  },
+  {
+    "lemma": "mouse",
+    "meanings_de": ["kleines Nagetier", "Computergerät"],
+    "definitions_de": ["kleines Nagetier mit langem Schwanz", "von Hand bewegtes Gerät zur Steuerung eines Computercursors"],
+    "examples_de": [["Eine **Maus** lief über den Küchenboden", "Die Katze fing eine **Maus** in der Scheune"], ["Klicken Sie mit der **Maus**, um die Datei auszuwählen", "Meine kabellose **Maus** braucht neue Batterien"]]
+  },
+  {
+    "lemma": "airline",
+    "meanings_de": ["Fluggesellschaft"],
+    "definitions_de": ["Unternehmen, das regelmäßige Flüge für Passagiere oder Fracht anbietet"],
+    "examples_de": [["Die **Fluggesellschaft** stornierte Flüge wegen schlechten Wetters", "Sie arbeitet für eine große internationale **Fluglinie**"]]
+  },
+  {
+    "lemma": "founder",
+    "meanings_de": ["Firmengründer/in"],
+    "definitions_de": ["Person, die eine Institution, ein Unternehmen oder eine Organisation gründet"],
+    "examples_de": [["Der **Gründer** des Unternehmens begann in seiner Garage", "Sie interviewte die **Gründerin** der Wohltätigkeitsorganisation"]]
+  },
+  {
+    "lemma": "objective",
+    "meanings_de": ["Zielsetzung"],
+    "definitions_de": ["Sache, die angestrebt oder gesucht wird; ein Ziel oder Zweck"],
+    "examples_de": [["Unser Haupt**ziel** ist die Kundenzufriedenheit", "Das Team erreichte alle seine **Zielsetzungen**"]]
+  },
+  {
+    "lemma": "phenomenon",
+    "meanings_de": ["beobachtbares Ereignis"],
+    "definitions_de": ["Tatsache oder Situation, die existiert und beobachtet werden kann; bemerkenswertes Ereignis"],
+    "examples_de": [["Wissenschaftler untersuchen das **Phänomen** des Klimawandels", "Soziale Medien wurden zu einem globalen **Phänomen**"]]
+  },
+  {
+    "lemma": "silver",
+    "meanings_de": ["Edelmetall", "graue Farbe"],
+    "definitions_de": ["wertvolles, glänzend grauweiß es Metall, das für Schmuck und Münzen verwendet wird", "Farbe von Silbermetall"],
+    "examples_de": [["Die Halskette war aus reinem **Silber** gefertigt", "**Silber**preise schwanken mit den Marktbedingungen"], ["Ihr Haar wurde im Alter **silbergrau**", "Das Auto gibt es in **Silber** oder Schwarz"]]
+  },
+  {
+    "lemma": "cent",
+    "meanings_de": ["Penny-Münze"],
+    "definitions_de": ["Geldeinheit, die einem Hundertstel eines Dollars oder Euros entspricht"],
+    "examples_de": [["Die Süßigkeit kostet fünfzig **Cent**", "Ich habe keinen **Cent** mehr"]]
+  },
+  {
+    "lemma": "teenager",
+    "meanings_de": ["jugendliche Person"],
+    "definitions_de": ["Person im Alter zwischen dreizehn und neunzehn Jahren"],
+    "examples_de": [["Das Programm hilft **Teenagern**, berufliche Fähigkeiten zu entwickeln", "Die meisten **Jugendlichen** nutzen gerne soziale Medien"]]
+  },
+  {
+    "lemma": "viewer",
+    "meanings_de": ["zuschauende Person"],
+    "definitions_de": ["Person, die etwas ansieht, insbesondere Fernsehen"],
+    "examples_de": [["Millionen von **Zuschauern** sahen das Meisterschaftsspiel", "Die Dokumentation schockierte **Zuschauer** weltweit"]]
+  },
+  {
+    "lemma": "chocolate",
+    "meanings_de": ["süße Speise"],
+    "definitions_de": ["süße Speise aus gerösteten Kakaobohnen hergestellt"],
+    "examples_de": [["Dunkle **Schokolade** enthält gesunde Antioxidantien", "Sie schenkte ihm **Pralinen** zum Valentinstag"]]
+  },
+  {
+    "lemma": "grandmother",
+    "meanings_de": ["Mutter der Eltern"],
+    "definitions_de": ["Mutter des eigenen Vaters oder der eigenen Mutter"],
+    "examples_de": [["Meine **Großmutter** hat mir das Stricken beigebracht", "Sie besuchen ihre **Oma** jeden Sonntag"]]
+  },
+  {
+    "lemma": "missile",
+    "meanings_de": ["fliegende Waffe"],
+    "definitions_de": ["Waffe, die durch die Luft geschickt wird und beim Auftreffen auf das Ziel explodiert"],
+    "examples_de": [["Das Militär testete neue **Raketenabwehr**systeme", "Gelenkte **Raketen** können Ziele präzise treffen"]]
+  },
+  {
+    "lemma": "adventure",
+    "meanings_de": ["aufregendes Erlebnis"],
+    "definitions_de": ["ungewöhnliche, aufregende und möglicherweise gefährliche Aktivität oder Erfahrung"],
+    "examples_de": [["Ihr Campingausflug wurde zu einem richtigen **Abenteuer**", "Sie liebt es, **Abenteuergeschichten** zu lesen"]]
+  },
+  {
+    "lemma": "manufacturer",
+    "meanings_de": ["Produktionsunternehmen"],
+    "definitions_de": ["Person oder Unternehmen, die bzw. das Waren in großen Mengen herstellt"],
+    "examples_de": [["Der **Hersteller** rief fehlerhafte Produkte zurück", "Wenden Sie sich für den Garantieservice an den **Hersteller**"]]
+  },
+  {
+    "lemma": "crop",
+    "meanings_de": ["geerntete Pflanzen"],
+    "definitions_de": ["Pflanzen, die in großen Mengen für Nahrung oder andere Verwendung angebaut werden"],
+    "examples_de": [["Bauern ernten ihre **Maisernte** im Herbst", "Die diesjährige **Weizenernte** übertraf die Erwartungen"]]
+  },
+  {
+    "lemma": "survival",
+    "meanings_de": ["fortgesetztes Bestehen"],
+    "definitions_de": ["Zustand des Weiterlebens oder Weiterbestehens trotz Schwierigkeiten"],
+    "examples_de": [["Grundlegende **Überlebensfähigkeiten** umfassen das Finden von Wasser und Unterschlupf", "Das **Überleben** des Unternehmens hängt von neuen Investitionen ab"]]
+  },
+  {
+    "lemma": "dimension",
+    "meanings_de": ["messbare Ausdehnung", "Aspekt, Merkmal"],
+    "definitions_de": ["messbare Ausdehnung von etwas in Länge, Breite oder Höhe", "Aspekt oder Merkmal einer Situation"],
+    "examples_de": [["Überprüfen Sie die **Abmessungen**, bevor Sie Möbel kaufen", "Die Kiste hat **Maße** von zehn mal zwölf Zoll"], ["Dies fügt dem Problem eine neue **Dimension** hinzu", "Wir müssen alle **Dimensionen** des Problems berücksichtigen"]]
+  },
+  {
+    "lemma": "roll",
+    "meanings_de": ["rundes Brötchen", "Rollbewegung"],
+    "definitions_de": ["kleines rundes Brotstück für eine Person", "Bewegung des sich Überschlagens"],
+    "examples_de": [["Bestellen Sie ein Sandwich auf einem **Vollkornbrötchen**", "Frische **Brötchen** kommen stündlich aus dem Ofen"], ["Der Ball begann den Hügel hinunter zu **rollen**", "Sie machte eine Vorwärts**rolle** im Turnen"]]
+  }
+]

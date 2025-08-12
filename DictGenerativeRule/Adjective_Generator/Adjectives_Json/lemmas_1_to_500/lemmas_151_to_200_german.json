@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "additional",
+    "meanings_de": ["zusätzlich oder ergänzend"],
+    "definitions_de": ["zu etwas bereits Vorhandenem oder Verfügbarem als Extra oder Ergänzung hinzugefügt, um die Menge, den Umfang oder die Qualität zu erhöhen"],
+    "examples_de": [["Wir benötigen **zusätzliche** Mittel, um das Projekt abzuschließen", "Die Lehrerin stellte **zusätzliche** Materialien für interessierte Schüler bereit"]]
+  },
+  {
+    "lemma": "involved",
+    "meanings_de": ["kompliziert oder komplex", "engagiert oder beteiligt"],
+    "definitions_de": ["viele komplexe Teile oder Aspekte aufweisend, die das Verständnis erschweren und eine gründliche Auseinandersetzung erfordern", "aktiv an einer Tätigkeit teilnehmend oder in etwas einbezogen sein, wobei man Zeit und Energie investiert"],
+    "examples_de": [["Die Anleitung war zu **kompliziert** für Anfänger", "Diese Mathematikaufgabe ist **komplexer**, als sie zunächst erscheint"], ["Sie ist tief in gemeinnützige Projekte **involviert**", "Alle Teammitglieder sollten in die Entscheidungsfindung **einbezogen** werden"]]
+  },
+  {
+    "lemma": "concerned",
+    "meanings_de": ["besorgt oder beunruhigt", "betroffen oder verbunden"],
+    "definitions_de": ["Sorge oder Unruhe über etwas empfindend, das passieren könnte oder bereits geschehen ist, oft mit dem Wunsch, die Situation zu verbessern", "eine Verbindung zu oder Verantwortung für etwas habend, das besprochen wird oder relevant ist"],
+    "examples_de": [["Eltern sind über die Online-Sicherheit ihrer Kinder **besorgt**", "Der Arzt schien über die Testergebnisse **beunruhigt** zu sein"], ["Alle **betroffenen** Parteien müssen die Vereinbarung heute unterzeichnen", "Die für öffentliche Sicherheit **zuständige** Abteilung erließ neue Richtlinien"]]
+  },
+  {
+    "lemma": "wonderful",
+    "meanings_de": ["außerordentlich gut oder ausgezeichnet"],
+    "definitions_de": ["Freude, Vergnügen oder Bewunderung hervorrufend durch außergewöhnlich gute oder bemerkenswerte Eigenschaften, die positive Emotionen auslösen"],
+    "examples_de": [["Wir hatten gestern eine **wunderbare** Zeit am Strand", "Sie hat ein **wunderbares** Talent, Menschen zum Lachen zu bringen"]]
+  },
+  {
+    "lemma": "christian",
+    "meanings_de": ["das Christentum betreffend"],
+    "definitions_de": ["zum Christentum gehörend, sich auf dessen Lehren und Glaubensinhalte beziehend oder diese bekennend"],
+    "examples_de": [["Viele **christliche** Feiertage werden weltweit gefeiert", "Die Kirche folgt traditionellen **christlichen** Werten und Praktiken"]]
+  },
+  {
+    "lemma": "like",
+    "meanings_de": ["ähnlich oder gleichartig"],
+    "definitions_de": ["die gleichen Eigenschaften oder Qualitäten wie etwas anderes aufweisend, vergleichbar in Art oder Beschaffenheit"],
+    "examples_de": [["Die Zwillinge tragen jeden Tag **ähnliche** Outfits zur Schule", "Wir müssen **gleichgesinnte** Menschen für unser Team finden"]]
+  },
+  {
+    "lemma": "amazing",
+    "meanings_de": ["große Überraschung verursachend", "äußerst beeindruckend"],
+    "definitions_de": ["große Überraschung oder Verwunderung hervorrufend durch das Unerwartete oder kaum Glaubliche der Situation oder Leistung", "außerordentlich beeindruckend oder hervorragend in Qualität, Können oder Leistung, sodass es Bewunderung hervorruft"],
+    "examples_de": [["Der Zauberer führte einen **erstaunlichen** Trick mit Karten vor", "Es ist **erstaunlich**, wie schnell Kinder neue Sprachen lernen"], ["Die Aussicht vom Berggipfel war absolut **atemberaubend**", "Sie hat eine **beeindruckende** Fähigkeit, sich Namen zu merken"]]
+  },
+  {
+    "lemma": "alive",
+    "meanings_de": ["lebend und atmend", "aktiv und energiegeladen"],
+    "definitions_de": ["Leben besitzend, nicht tot oder unbelebt, weiterhin lebend und atmend mit funktionierenden Lebensfunktionen", "voller Energie, Aktivität oder Aufregung, die etwas lebendig und dynamisch erscheinen lässt"],
+    "examples_de": [["Die Pflanze ist trotz des harten Winters noch **am Leben**", "Ärzte arbeiteten hart daran, den Patienten **am Leben** zu halten"], ["Die Stadt **erwacht zum Leben** während der Sommerfestzeit", "Ihre Augen waren **lebendig** vor Neugier und Staunen"]]
+  },
+  {
+    "lemma": "healthy",
+    "meanings_de": ["in guter körperlicher Verfassung", "förderlich für das Wohlbefinden"],
+    "definitions_de": ["bei guter Gesundheit seiend und frei von Krankheit oder Gebrechen, mit normal funktionierenden Körperfunktionen", "die Gesundheit fördernd oder zum körperlichen und geistigen Wohlbefinden beitragend durch positive Eigenschaften"],
+    "examples_de": [["Regelmäßige Bewegung hilft Ihnen, **gesund** und stark zu bleiben", "Der Arzt sagte, das Baby sei vollkommen **gesund**"], ["Gemüse essen ist Teil eines **gesunden** Lebensstils", "Sie pflegen ein **gesundes** Gleichgewicht zwischen Arbeit und Entspannung"]]
+  },
+  {
+    "lemma": "commercial",
+    "meanings_de": ["den Handel betreffend", "auf Gewinn ausgerichtet"],
+    "definitions_de": ["mit Handel und Geschäftstätigkeiten verbunden oder darin engagiert, den Austausch von Waren und Dienstleistungen betreffend", "darauf ausgerichtet, Gewinn zu erzielen, anstatt privaten oder künstlerischen Zwecken zu dienen"],
+    "examples_de": [["Das Gebäude ist nur für **gewerbliche** Nutzung zugelassen", "Mehrere **kommerzielle** Fluggesellschaften bedienen diese Strecke täglich"], ["Der Film war weltweit ein großer **kommerzieller** Erfolg", "Sie lehnten das **kommerzielle** Angebot des Sponsors ab"]]
+  },
+  {
+    "lemma": "alone",
+    "meanings_de": ["ohne andere anwesend"],
+    "definitions_de": ["niemand anderen in der Nähe habend, für sich selbst seiend ohne Begleitung oder Gesellschaft"],
+    "examples_de": [["Sie arbeitet lieber **allein** in ihrem Büro", "Das Kind hatte Angst, nachts **allein** zu schlafen"]]
+  },
+  {
+    "lemma": "sweet",
+    "meanings_de": ["zuckrigen Geschmack habend", "freundlich und liebenswürdig", "reizend oder entzückend"],
+    "definitions_de": ["den angenehmen Geschmack habend, der für Zucker oder Honig charakteristisch ist", "eine freundliche und sanfte Natur gegenüber anderen zeigend oder besitzend", "allgemein angenehm durch Charme, Liebenswürdigkeit oder entzückende Eigenschaften"],
+    "examples_de": [["Der Orangensaft ist mir zu **süß**", "Kinder lieben **süße** Leckereien wie Bonbons und Kekse"], ["Sie hat eine so **liebenswerte** Persönlichkeit, dass sie jeder mag", "Es war **lieb** von dir, an meinen Geburtstag zu denken"], ["Das Baby machte die **süßesten** Geräusche beim Schlafen", "Was für ein **entzückendes** kleines Häuschen am See"]]
+  },
+  {
+    "lemma": "sick",
+    "meanings_de": ["von Krankheit betroffen", "Übelkeit empfindend", "überdrüssig oder angewidert"],
+    "definitions_de": ["von körperlicher oder geistiger Krankheit betroffen und nicht bei guter Gesundheit, mit beeinträchtigtem Wohlbefinden", "das Gefühl habend, sich übergeben zu müssen aufgrund von Magenverstimmung oder anderen Ursachen", "gründlich müde oder angewidert von etwas durch zu viel davon oder wiederholte negative Erfahrungen"],
+    "examples_de": [["Das **kranke** Kind blieb heute zu Hause und ging nicht zur Schule", "Sie ist die ganze Woche mit der Grippe **krank** gewesen"], ["Die Bootsfahrt verursachte bei mehreren Passagieren **Übelkeit**", "Mir wurde **schlecht**, nachdem ich zu viele Süßigkeiten gegessen hatte"], ["Ich habe es **satt**, jeden Tag die gleichen Ausreden zu hören", "Alle haben den ständigen Regen diesen Monat **satt**"]]
+  },
+  {
+    "lemma": "average",
+    "meanings_de": ["typisch oder gewöhnlich", "mathematischer Mittelwert"],
+    "definitions_de": ["Eigenschaften habend, die für die meisten Menschen oder Dinge typisch sind, nicht außergewöhnlich", "berechnet durch Addition von Mengen und Division durch ihre Anzahl, den statistischen Mittelwert darstellend"],
+    "examples_de": [["Der **durchschnittliche** Student braucht vier Jahre bis zum Abschluss", "Es war nur ein **gewöhnlicher** Tag ohne besondere Vorkommnisse"], ["Die **durchschnittliche** Temperatur diesen Monat beträgt zwanzig Grad", "Wir müssen den **Durchschnitt** dieser Testergebnisse berechnen"]]
+  },
+  {
+    "lemma": "stupid",
+    "meanings_de": ["an Intelligenz mangelnd", "sinnlos oder ärgerlich"],
+    "definitions_de": ["einen großen Mangel an Intelligenz oder gesundem Menschenverstand zeigend oder habend", "irritierend oder ärgerlich durch Sinnlosigkeit, Unvernunft oder mangelnden Sinn"],
+    "examples_de": [["Es war **dumm**, ohne Regenschirm rauszugehen", "Machen Sie keine **dummen** Fehler, indem Sie Ihre Arbeit nicht überprüfen"], ["Dieser **blöde** Computer friert alle fünf Minuten ein", "Wir hatten einen **sinnlosen** Streit über nichts Wichtiges"]]
+  },
+  {
+    "lemma": "chinese",
+    "meanings_de": ["China betreffend"],
+    "definitions_de": ["zu China, seinen Menschen, seiner Sprache oder Kultur gehörend oder damit in Beziehung stehend"],
+    "examples_de": [["Sie lernt an der Universität **Chinesisch** sprechen", "Wir haben gestern Abend **chinesisches** Essen bestellt"]]
+  },
+  {
+    "lemma": "responsible",
+    "meanings_de": ["für Handlungen verantwortlich", "zuverlässig und vertrauenswürdig"],
+    "definitions_de": ["die Verpflichtung habend, etwas zu tun, oder für die eigenen Handlungen rechenschaftspflichtig seiend", "fähig seiend, darauf vertraut zu werden, das Richtige oder Notwendige zu tun"],
+    "examples_de": [["Eltern sind für die Sicherheit und das Wohlergehen ihrer Kinder **verantwortlich**", "Der Manager ist für alle Abteilungsentscheidungen **verantwortlich**"], ["Sie ist sehr **zuverlässig** und erledigt Aufgaben immer pünktlich", "Wir brauchen eine **verantwortungsbewusste** Person, die auf das Haus aufpasst"]]
+  },
+  {
+    "lemma": "smart",
+    "meanings_de": ["intelligent und klug", "gepflegt im Aussehen", "schnell und kräftig"],
+    "definitions_de": ["schnelle Intelligenz und geistige Aufmerksamkeit zeigend oder besitzend", "sauber, ordentlich und stilvoll in Erscheinung oder Kleidung", "schnell, lebhaft und oft schmerzhaft in der körperlichen Einwirkung"],
+    "examples_de": [["Sie ist **klug** genug, komplexe Probleme schnell zu lösen", "Die **intelligenten** Schüler beendeten den Test früh"], ["Er sah sehr **schick** in seinem neuen Geschäftsanzug aus", "Das Restaurant hat ein **elegantes**, modernes Innendesign"], ["Der Ball traf ihn mit einem **heftigen** Schlag am Kopf", "Sie gab ihm einen **schnellen** Klaps auf die Schulter"]]
+  },
+  {
+    "lemma": "southern",
+    "meanings_de": ["aus dem Süden"],
+    "definitions_de": ["im Süden gelegen, nach Süden gerichtet oder aus dem Süden kommend"],
+    "examples_de": [["Die **südlichen** Bundesländer haben das ganze Jahr über wärmeres Wetter", "Wir reisten in den **südlichen** Teil Frankreichs"]]
+  },
+  {
+    "lemma": "western",
+    "meanings_de": ["aus dem Westen", "Cowboys betreffend"],
+    "definitions_de": ["im Westen gelegen, nach Westen gerichtet oder aus dem Westen kommend", "sich auf Cowboys und das Genre des amerikanischen Wilden Westens beziehend"],
+    "examples_de": [["**Westeuropa** umfasst Länder wie Frankreich und Spanien", "Die Sonne geht jeden Abend am **westlichen** Himmel unter"], ["Er liebt es, am Wochenende alte **Western** zu schauen", "Die Bar hatte ein **Western**-Thema mit Cowboy-Dekorationen"]]
+  },
+  {
+    "lemma": "british",
+    "meanings_de": ["Großbritannien betreffend"],
+    "definitions_de": ["zu Großbritannien, seinen Menschen oder seiner Kultur gehörend oder damit in Beziehung stehend"],
+    "examples_de": [["Sie spricht mit einem ausgeprägten **britischen** Akzent", "**Britisches** Wetter ist bekannt dafür, regnerisch und bewölkt zu sein"]]
+  },
+  {
+    "lemma": "following",
+    "meanings_de": ["nach etwas kommend", "als nächstes in der Zeit"],
+    "definitions_de": ["nach etwas in Zeit, Ort oder Reihenfolge kommend, als Konsequenz oder Resultat", "als nächstes erwähnt oder aufgelistet zu werden in einer Sequenz"],
+    "examples_de": [["Die Tage **nach** dem Sturm waren sonnig und ruhig", "Sie war nach der langen Heimreise erschöpft"], ["Bitte beantworten Sie die **folgenden** Fragen auf dem Formular", "Die **folgenden** Schüler sollen sich im Büro melden"]]
+  },
+  {
+    "lemma": "complete",
+    "meanings_de": ["alle Teile habend", "absolut oder total"],
+    "definitions_de": ["alle notwendigen oder normalen Teile, Komponenten oder Schritte besitzend", "im größtmöglichen Ausmaß oder Grad, vollständig oder absolut"],
+    "examples_de": [["Stellen Sie sicher, dass Sie ein **vollständiges** Werkzeugset haben", "Die **gesammelten** Werke Shakespeares füllen viele Bände"], ["Das Projekt war ein **vollkommener** Erfolg über alle Erwartungen hinaus", "Es herrschte **absolute** Stille im leeren Haus"]]
+  },
+  {
+    "lemma": "fun",
+    "meanings_de": ["vergnüglich und unterhaltsam"],
+    "definitions_de": ["Unterhaltung, Vergnügen oder Freude bietend, die Vergnügen und positive Gefühle erzeugt"],
+    "examples_de": [["Die Geburtstagsfeier war für alle wirklich **lustig**", "Schwimmen am Strand ist eine **unterhaltsame** Sommeraktivität"]]
+  },
+  {
+    "lemma": "present",
+    "meanings_de": ["jetzt existierend", "anwesend seiend"],
+    "definitions_de": ["jetzt zu diesem Zeitpunkt existierend oder vorkommend, nicht in der Vergangenheit oder Zukunft", "an einem bestimmten Ort seiend, nicht anderswo oder abwesend"],
+    "examples_de": [["Wir müssen uns auf **gegenwärtige** Umstände konzentrieren, nicht auf vergangene Fehler", "Die **aktuelle** Situation erfordert sofortiges Handeln"], ["Alle Studenten müssen bei der Abschlussprüfung **anwesend** sein", "Mehrere Prominente waren bei der Wohltätigkeitsveranstaltung **zugegen**"]]
+  },
+  {
+    "lemma": "actual",
+    "meanings_de": ["real und existierend"],
+    "definitions_de": ["tatsächlich oder in der Realität existierend, nicht eingebildet, vermutet oder vorgetäuscht"],
+    "examples_de": [["Die **tatsächlichen** Kosten waren höher als die Schätzung", "Was ist der **wirkliche** Grund, warum du mich heute angerufen hast?"]]
+  },
+  {
+    "lemma": "negative",
+    "meanings_de": ["Verneinung ausdrückend", "schädlich oder schlecht", "weniger als null"],
+    "definitions_de": ["Verneinung, Ablehnung oder die entgegengesetzte Bedeutung ausdrückend oder enthaltend", "schädlich, unangenehm oder nicht konstruktiv in Wirkung oder Ergebnis", "weniger als null im mathematischen Wert oder in der elektrischen Ladung"],
+    "examples_de": [["Sie gab eine **negative** Antwort auf die Einladung", "Der Test kam **negativ** auf Infektionen zurück"], ["Ständige Kritik hat eine **negative** Wirkung auf Kinder", "Versuchen Sie, **negative** Gedanken über sich selbst zu vermeiden"], ["Die Temperatur fiel letzte Nacht auf **minus** zehn Grad", "Eine **negative** Zahl mal positiv ergibt ein **negatives** Ergebnis"]]
+  },
+  {
+    "lemma": "regular",
+    "meanings_de": ["einem Muster folgend", "üblich oder normal"],
+    "definitions_de": ["einem festen, einheitlichen oder vorhersehbaren Muster folgend oder danach angeordnet", "üblich, gewohnheitsmäßig oder normal im Auftreten, in der Praxis oder im Erscheinungsbild"],
+    "examples_de": [["Der Zug fährt nach einem **regelmäßigen** Fahrplan jede Stunde", "Sie pflegt **regelmäßige** Bewegungsgewohnheiten für gute Gesundheit"], ["Er ist ein **Stammkunde** im Café", "Dies ist nur ein **normaler** Tag im Büro"]]
+  },
+  {
+    "lemma": "dangerous",
+    "meanings_de": ["wahrscheinlich Schaden verursachend"],
+    "definitions_de": ["fähig oder wahrscheinlich, Schaden, Verletzungen oder nachteilige Auswirkungen zu verursachen"],
+    "examples_de": [["Im Ozean während eines Sturms zu schwimmen ist **gefährlich**", "Halten Sie **gefährliche** Chemikalien von Kindern und Haustieren fern"]]
+  },
+  {
+    "lemma": "favorite",
+    "meanings_de": ["am meisten gemocht oder bevorzugt"],
+    "definitions_de": ["vor allen anderen derselben Art bevorzugt oder mit besonderer Gunst betrachtet"],
+    "examples_de": [["Schokoladeneis ist mein **liebstes** Dessert", "Sie ist die **Lieblingsschülerin** des Lehrers in der Klasse"]]
+  },
+  {
+    "lemma": "independent",
+    "meanings_de": ["frei von Kontrolle", "selbstständig"],
+    "definitions_de": ["frei von äußerer Kontrolle und nicht von der Autorität eines anderen abhängig", "nicht von einem anderen für Lebensunterhalt, Unterstützung oder Existenz abhängig"],
+    "examples_de": [["Das Land wurde nach Jahren der Kolonialherrschaft **unabhängig**", "Sie schätzt ihren **unabhängigen** Lebensstil und ihre Entscheidungsfreiheit"], ["Er ist finanziell **unabhängig** und braucht keine Hilfe von der Familie", "Das Geschäft ist ein **unabhängiges** Unternehmen, keine Kette"]]
+  },
+  {
+    "lemma": "front",
+    "meanings_de": ["vorderste Position"],
+    "definitions_de": ["an, bei oder in der Position, die nach vorne zeigt oder am prominentesten ist"],
+    "examples_de": [["Bitte setzen Sie sich in die **vordere** Reihe des Klassenzimmers", "Die **Haustür** muss dieses Wochenende gestrichen werden"]]
+  },
+  {
+    "lemma": "online",
+    "meanings_de": ["mit Internet verbunden"],
+    "definitions_de": ["mit dem Internet oder Computernetzwerk verbunden, darüber bedient oder verfügbar"],
+    "examples_de": [["Viele Menschen bevorzugen **Online**-Shopping gegenüber Ladenbesuchen", "Der **Online**-Kurs beginnt nächsten Montagmorgen"]]
+  },
+  {
+    "lemma": "aware",
+    "meanings_de": ["Kenntnis habend von"],
+    "definitions_de": ["Kenntnis oder Wahrnehmung einer Situation, Tatsache oder eines Gefühls habend"],
+    "examples_de": [["Sind Sie sich der neuen Unternehmensrichtlinien **bewusst**?", "Sie wurde sich **bewusst**, dass ihr jemand nach Hause folgte"]]
+  },
+  {
+    "lemma": "extra",
+    "meanings_de": ["zusätzlich oder mehr"],
+    "definitions_de": ["zu einer bestehenden oder üblichen Menge, Anzahl oder einem Grad hinzugefügt"],
+    "examples_de": [["Möchten Sie **extra** Käse auf Ihrer Pizza?", "Der Lehrer gab **zusätzliche** Hausaufgaben über das Wochenende auf"]]
+  },
+  {
+    "lemma": "light",
+    "meanings_de": ["nicht schwer", "hell in der Farbe", "nicht ernst"],
+    "definitions_de": ["von geringem Gewicht und leicht zu heben, tragen oder bewegen", "blass in der Farbe oder wenig Farbsättigung habend", "nicht ernst oder tiefgründig, sondern eher amüsant oder unterhaltsam"],
+    "examples_de": [["Dieser Koffer ist **leicht** genug, um ihn nach oben zu tragen", "Sie bevorzugt **leichte** Stoffe für Sommerkleidung"], ["Die Wände sind in einem **hellen** Blauton gestrichen", "Ihr Haar wurde im Sommer **hellbraun**"], ["Wir hatten während des Abendessens eine **leichte** Unterhaltung", "Es ist nur **leichte** Lektüre für den Strandurlaub"]]
+  },
+  {
+    "lemma": "european",
+    "meanings_de": ["Europa betreffend"],
+    "definitions_de": ["zu Europa oder seinen Völkern gehörend, darauf bezogen oder dafür charakteristisch"],
+    "examples_de": [["Viele **europäische** Länder verwenden den Euro als Währung", "Sie studierte **europäische** Geschichte an der Universität"]]
+  },
+  {
+    "lemma": "multiple",
+    "meanings_de": ["mehrere Teile habend"],
+    "definitions_de": ["mehrere Teile, Elemente oder Mitglieder in der Anzahl habend oder einbeziehend"],
+    "examples_de": [["Der Unfall betraf **mehrere** Fahrzeuge auf der Autobahn", "Sie besitzt **mehrere** Abschlüsse von verschiedenen Universitäten"]]
+  },
+  {
+    "lemma": "wild",
+    "meanings_de": ["in der Natur lebend", "unkontrolliert oder extrem"],
+    "definitions_de": ["in natürlichen Bedingungen lebend oder wachsend und nicht domestiziert oder kultiviert", "unkontrolliert, ungezügelt oder extrem in Verhalten, Emotion oder Erscheinung"],
+    "examples_de": [["**Wilde** Tiere sollten aus sicherer Entfernung beobachtet werden", "Sie pflückten **wilde** Beeren, die entlang des Weges wuchsen"], ["Die Menge wurde **wild**, als ihr Team ein Tor schoss", "Sie hatte **wildes**, lockiges Haar, das nicht zu bändigen war"]]
+  },
+  {
+    "lemma": "presidential",
+    "meanings_de": ["den Präsidenten betreffend"],
+    "definitions_de": ["zu einem Präsidenten oder einer Präsidentschaft gehörend, darauf bezogen oder dafür angemessen"],
+    "examples_de": [["Die **Präsidentschaftswahlen** finden alle vier Jahre statt", "Die Sicherheit war während des **Präsidentenbesuchs** streng"]]
+  },
+  {
+    "lemma": "daily",
+    "meanings_de": ["jeden Tag geschehend"],
+    "definitions_de": ["jeden Tag oder an jedem Wochentag getan, geschehend oder produziert"],
+    "examples_de": [["Vitamine zu nehmen ist Teil ihrer **täglichen** Routine", "Die Zeitung bietet **tägliche** Updates zu aktuellen Ereignissen"]]
+  },
+  {
+    "lemma": "female",
+    "meanings_de": ["Frauen oder Mädchen betreffend"],
+    "definitions_de": ["zu Frauen, Mädchen oder dem Geschlecht gehörend oder darauf bezogen, das Eier produziert"],
+    "examples_de": [["Die **weiblichen** Studenten überwiegen die männlichen in diesem Programm", "Viele **weibliche** Athleten treten auf professionellem Niveau an"]]
+  },
+  {
+    "lemma": "warm",
+    "meanings_de": ["mäßig heiße Temperatur", "freundlich und herzlich"],
+    "definitions_de": ["einen mäßigen Grad an Wärme habend oder abgebend", "Begeisterung, Zuneigung oder Freundlichkeit in Art oder Persönlichkeit zeigend"],
+    "examples_de": [["Die Suppe ist noch **warm** vom Herd", "Packen Sie **warme** Kleidung für die Bergtour ein"], ["Sie empfing ihn mit einem **herzlichen** Willkommen an der Tür", "Der Gastgeber hatte eine **warmherzige**, freundliche Persönlichkeit"]]
+  },
+  {
+    "lemma": "clean",
+    "meanings_de": ["frei von Schmutz", "moralisch rein", "vollständig und geschickt"],
+    "definitions_de": ["frei von Schmutz, Flecken oder schädlichen Substanzen", "moralisch unbefleckt oder rein, keine Illegalität beinhaltend", "glatt geschickt und ohne Fehler in Ausführung oder Form"],
+    "examples_de": [["Stellen Sie sicher, dass Ihre Hände vor dem Essen **sauber** sind", "Die Küche war nach dem Schrubben makellos **sauber**"], ["Er hat ein **sauberes** Strafregister ohne Verhaftungen", "Das Unternehmen pflegt **saubere** Geschäftspraktiken"], ["Die Turnerin machte eine **saubere** Landung nach dem Sprung", "Es war ein **sauberer** Treffer im Baseballspiel"]]
+  },
+  {
+    "lemma": "tiny",
+    "meanings_de": ["extrem klein"],
+    "definitions_de": ["sehr klein in Größe, Menge oder Grad"],
+    "examples_de": [["Der Babyvogel war **winzig** genug, um in Ihre Handfläche zu passen", "Sie wohnt in einer **winzigen** Wohnung in der Innenstadt"]]
+  },
+  {
+    "lemma": "mental",
+    "meanings_de": ["den Geist betreffend"],
+    "definitions_de": ["zum Geist oder Intellekt gehörend, darauf bezogen oder darin existierend"],
+    "examples_de": [["Schach erfordert starke **geistige** Fähigkeiten und Konzentration", "**Psychische** Gesundheit ist genauso wichtig wie körperliche Gesundheit"]]
+  },
+  {
+    "lemma": "glad",
+    "meanings_de": ["erfreut und glücklich"],
+    "definitions_de": ["Freude, Vergnügen oder Entzücken über etwas empfindend, das geschehen ist"],
+    "examples_de": [["Ich bin **froh**, dass du zur Party kommen konntest", "Sie war **erfreut**, die guten Nachrichten zu hören"]]
+  },
+  {
+    "lemma": "quiet",
+    "meanings_de": ["wenig Lärm machend", "ruhig und friedlich"],
+    "definitions_de": ["wenig oder keinen Lärm oder Geräusch machend", "frei von Störung, Aktivität oder Aufregung, friedlich und ruhig"],
+    "examples_de": [["Bitte seien Sie **leise**, während das Baby schläft", "Die Bibliothek ist ein **ruhiger** Ort zum Lernen"], ["Wir verbrachten einen **ruhigen** Abend zu Hause mit Lesen", "Nach der Pensionierung führten sie ein **ruhiges** Leben auf dem Land"]]
+  },
+  {
+    "lemma": "bright",
+    "meanings_de": ["starkes Licht ausstrahlend", "intelligent und schnell", "lebhaft in der Farbe"],
+    "definitions_de": ["viel Licht ausstrahlend oder reflektierend, das die Umgebung erhellt", "Intelligenz und geistige Aufmerksamkeit zeigend mit schnellem Verständnis für Dinge", "starke, intensive oder lebhafte Farbe habend, die Aufmerksamkeit erregt"],
+    "examples_de": [["Die **helle** Sonne machte es schwer zu sehen", "Wir brauchen **helle** Lichter für das Fotostudio"], ["Sie ist eine **kluge** Schülerin, die Konzepte schnell lernt", "Seine **brillanten** Ideen halfen, die Probleme des Unternehmens zu lösen"], ["Der Künstler verwendete **leuchtende** Gelb- und Orangetöne im Gemälde", "Kinder bevorzugen oft **knallige** Farben gegenüber matten"]]
+  },
+  {
+    "lemma": "annual",
+    "meanings_de": ["jedes Jahr geschehend"],
+    "definitions_de": ["einmal pro Jahr zur gleichen Zeit oder Jahreszeit auftretend"],
+    "examples_de": [["Das Unternehmen hält seine **jährliche** Versammlung im Januar ab", "Wir machen einen **jährlichen** Urlaub in den Bergen"]]
+  }
+]

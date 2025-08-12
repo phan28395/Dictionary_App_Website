@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "other",
+    "meanings_de": ["verschieden vom genannten", "zusätzlich oder übrig"],
+    "definitions_de": ["sich unterscheidend oder getrennt von dem erwähnten oder implizierten Gegenstand oder Person", "die verbleibenden in einer Gruppe über die bereits genannten hinaus"],
+    "examples_de": [["Ich bevorzuge das **andere** Restaurant auf der gegenüberliegenden Straßenseite", "Nach sorgfältiger Überlegung wählte sie die **andere** Option"], ["Haben Sie noch **andere** Fragen zum Projekt?", "Die **anderen** Schüler kamen nach dem Klingeln an"]]
+  },
+  {
+    "lemma": "good",
+    "meanings_de": ["hohe Qualität oder Standard", "moralisch richtig", "angenehm oder erfreulich", "geschickt oder fähig"],
+    "definitions_de": ["die wünschenswerten oder auszeichnenden Eigenschaften einer bestimmten Sache besitzend", "den moralischen Standards von richtig und gerecht entsprechend", "Vergnügen, Genuss oder Befriedigung für die Sinne oder den Geist bringend", "die notwendigen Fähigkeiten, Kenntnisse oder Erfahrungen besitzend, um etwas gut zu machen"],
+    "examples_de": [["Dieses Restaurant serviert wirklich **gutes** Essen jeden Tag", "Sie kaufte einen **guten** Wintermantel von hoher Qualität"], ["Ehrlich zu sein ist immer eine **gute** Sache", "Er ist ein **guter** Mensch, der seinen Nachbarn hilft"], ["Wir hatten eine richtig **gute** Zeit auf der Party", "Das Wetter war **gut** für unser Picknick gestern"], ["Sie ist wirklich **gut** im professionellen Violinspiel", "Mit zwanzig Jahren Erfahrung ist er ein **guter** Fahrer"]]
+  },
+  {
+    "lemma": "new",
+    "meanings_de": ["kürzlich hergestellt oder geschaffen", "unbekannt oder anders"],
+    "definitions_de": ["vor kurzem ins Dasein gebracht, hergestellt, produziert oder zum ersten Mal erworben", "zuvor nicht bekannt, erfahren oder von jemandem bis jetzt angetroffen"],
+    "examples_de": [["Sie haben letztes Wochenende ein **neues** Auto gekauft", "Das Unternehmen führte gestern seine **neue** Produktlinie ein"], ["Der Studienbeginn war eine völlig **neue** Erfahrung für sie", "Er versucht, **neue** Fähigkeiten für seine Karriere zu erlernen"]]
+  },
+  {
+    "lemma": "great",
+    "meanings_de": ["sehr groß in der Größe", "ausgezeichnet in Qualität", "wichtig oder bemerkenswert"],
+    "definitions_de": ["von einem Ausmaß, einer Menge oder Intensität erheblich über dem Normalen oder Durchschnittlichen", "von Fähigkeit, Qualität oder Bedeutung erheblich über dem Normalen oder Durchschnittlichen", "von erheblicher Wichtigkeit, Auszeichnung oder Bedeutung in einem bestimmten Bereich"],
+    "examples_de": [["Sie entdeckten während ihrer Expedition eine **große** Schlucht", "Eine **große** Menschenmenge versammelte sich, um die Parade zu sehen"], ["Sie hat bei ihrer heutigen Präsentation **großartige** Arbeit geleistet", "Das war ein **toller** Film, den wir gestern Abend gesehen haben"], ["Einstein war einer der **großen** Wissenschaftler der Geschichte", "Die **Große** Depression betraf Millionen amerikanischer Familien"]]
+  },
+  {
+    "lemma": "big",
+    "meanings_de": ["groß in der Größe", "wichtig oder bedeutsam"],
+    "definitions_de": ["von beträchtlicher Größe, Ausdehnung oder physischen Dimensionen im Vergleich zu anderen", "schwerwiegende oder wichtige Konsequenzen, Einfluss oder Wirkung auf etwas habend"],
+    "examples_de": [["Sie wohnen in einem **großen** Haus mit zehn Zimmern", "Der Elefant ist ein **großes** Tier, das in Afrika vorkommt"], ["Das ist eine **große** Entscheidung, die alle betreffen wird", "Sie bekam gestern eine **große** Beförderung bei der Arbeit"]]
+  },
+  {
+    "lemma": "high",
+    "meanings_de": ["große vertikale Ausdehnung", "groß in der Menge", "erhöht in Position"],
+    "definitions_de": ["sich weit nach oben von einer Basis erstreckend oder große vertikale Distanz habend", "groß in Quantität, Grad, Intensität oder Kraft über normale Niveaus hinaus", "an einer relativ großen Entfernung über dem Boden gelegen oder sich dorthin erstreckend"],
+    "examples_de": [["Die Berggipfel waren extrem **hoch** über dem Tal", "Das Gebäude hat durchgehend sehr **hohe** Decken in jedem Raum"], ["Die Benzinpreise sind diesen Sommer landesweit ungewöhnlich **hoch**", "Sie hat **hohe** Erwartungen an die Leistung ihrer Schüler"], ["Der Habicht flog **hoch** über dem Walddach", "Sie bauten ihr Haus **hoch** am Berghang"]]
+  },
+  {
+    "lemma": "old",
+    "meanings_de": ["lange Zeit existiert", "früher oder vorherig"],
+    "definitions_de": ["für eine relativ lange Zeitperiode gelebt oder existiert habend", "zur Vergangenheit gehörend oder damit verbunden statt zur Gegenwart"],
+    "examples_de": [["Meine Großmutter wird dieses Jahr neunzig Jahre **alt**", "Dieses **alte** Gebäude wurde achtzehnhundertfünfzig erbaut"], ["Sie spricht immer noch mit ihren **alten** Freunden vom College", "Er verkaufte sein **altes** Auto und kaufte ein neues"]]
+  },
+  {
+    "lemma": "bad",
+    "meanings_de": ["schlecht in Qualität", "moralisch falsch", "unangenehm oder schädlich"],
+    "definitions_de": ["einen akzeptablen Standard von Qualität oder Leistung nicht erreichend", "nicht den Standards moralischer Tugend oder akzeptablen Verhaltens entsprechend", "Unbehagen, Unglück oder Schaden für jemanden oder etwas Beteiligtes verursachend"],
+    "examples_de": [["Das Restaurant hatte gestern Abend wirklich **schlechten** Service", "Diese Milch riecht **schlecht** und sollte weggeworfen werden"], ["Von anderen zu stehlen ist eine sehr **schlechte** Sache", "Er fühlte sich **schlecht**, weil er seine Eltern angelogen hatte"], ["Der Sturm verursachte **schlimme** Schäden an Küstenhäusern", "Sie hat heute einen **schlechten** Tag bei der Arbeit"]]
+  },
+  {
+    "lemma": "different",
+    "meanings_de": ["nicht gleich", "unterschiedlich in Art"],
+    "definitions_de": ["nicht identisch oder ähnlich in Charakter, Form oder Qualität beim Vergleich", "getrennt unterscheidbar in Natur, Form oder Qualität von etwas anderem"],
+    "examples_de": [["Jede Schneeflocke hat ein völlig **anderes** Muster als andere", "Dein Ansatz ist **anders** als das, was wir normalerweise tun"], ["Die Zwillinge haben sehr **unterschiedliche** Persönlichkeiten, obwohl sie gleich aussehen", "Wir brauchen eine **andere** Strategie, um dieses Problem zu lösen"]]
+  },
+  {
+    "lemma": "american",
+    "meanings_de": ["bezogen auf Amerika", "charakteristisch für Amerikaner"],
+    "definitions_de": ["von, bezogen auf oder charakteristisch für die Vereinigten Staaten oder ihre Einwohner", "Eigenschaften oder Merkmale habend, die typischerweise mit den Menschen oder der Kultur Amerikas verbunden sind"],
+    "examples_de": [["Die **amerikanische** Flagge hat fünfzig Sterne und dreizehn Streifen", "Sie studiert **amerikanische** Geschichte an der Universität in der Innenstadt"], ["Sein **amerikanischer** Akzent war auffällig, als er im Ausland sprach", "Sie servieren traditionelles **amerikanisches** Essen in diesem Diner"]]
+  },
+  {
+    "lemma": "little",
+    "meanings_de": ["klein in der Größe", "klein in der Menge", "jung im Alter"],
+    "definitions_de": ["klein in Größe, Menge oder Grad im Vergleich zu normalen Erwartungen", "nicht viel oder kaum etwas in Quantität, Ausmaß oder Dauer", "jung oder jünger als üblich, besonders in Bezug auf Kinder"],
+    "examples_de": [["Sie wohnt in einem **kleinen** Haus in der Nähe des Parks", "Der **kleine** Vogel saß auf dem Fenstersims"], ["Wir haben sehr **wenig** Zeit vor der Deadline", "Er weiß **wenig** über fortgeschrittene Mathematik oder Physik"], ["Ihr **kleiner** Bruder hat dieses Jahr mit dem Kindergarten begonnen", "Als ich **klein** war, liebte ich es, draußen zu spielen"]]
+  },
+  {
+    "lemma": "sure",
+    "meanings_de": ["überzeugt oder sicher", "zuverlässig oder sicher"],
+    "definitions_de": ["vollkommen überzeugt, dass man ohne Zweifel über etwas richtig liegt", "verlässlich oder vertrauenswürdig, dass etwas wie erwartet geschieht oder sich verhält"],
+    "examples_de": [["Bist du **sicher**, dass das die richtige Adresse ist?", "Ich bin **sicher**, dass sie pünktlich zum Meeting kommt"], ["Diese Methode ist ein **sicherer** Weg, das Problem zu lösen", "Er ist eine **sichere** Wahl für den Teamkapitän dieses Jahr"]]
+  },
+  {
+    "lemma": "small",
+    "meanings_de": ["begrenzt in der Größe", "gering in der Bedeutung"],
+    "definitions_de": ["von begrenzter Größe, Anzahl oder Ausmaß im Vergleich zu dem, was typisch ist", "relativ unbedeutend, unwesentlich oder trivial in Wichtigkeit oder Auswirkung"],
+    "examples_de": [["Der **kleine** Welpe passte problemlos in ihre Hände", "Sie begannen mit einer **kleinen** Investition in das Unternehmen"], ["Es ist nur ein **kleines** Problem, das wir schnell beheben können", "Mach dir keine Sorgen über solche **kleinen** Details"]]
+  },
+  {
+    "lemma": "right",
+    "meanings_de": ["moralisch korrekt", "faktisch korrekt", "Gegenteil von links", "rechtlicher Anspruch"],
+    "definitions_de": ["moralisch gut, gerechtfertigt oder akzeptabel nach ethischen Standards", "wahr oder korrekt als Tatsache oder in Übereinstimmung mit der Realität", "auf, in Richtung oder bezogen auf die Seite gegenüber von links", "ein moralischer oder rechtlicher Anspruch, etwas zu haben oder zu tun"],
+    "examples_de": [["Anderen zu helfen ist immer das **Richtige**", "Sie traf die **richtige** Entscheidung, indem sie die Wahrheit sagte"], ["Deine Antwort auf die Matheaufgabe ist absolut **richtig**", "Ist das der **richtige** Weg zum Bahnhof?"], ["Biegen Sie an der nächsten Ampel **rechts** ab", "Er schreibt mit der **rechten** Hand, nicht mit der linken"], ["Jeder hat das **Recht**, seine Meinung frei zu äußern", "Arbeiter kämpften für ihr **Recht** auf faire Löhne"]]
+  },
+  {
+    "lemma": "large",
+    "meanings_de": ["groß in der Größe", "umfangreich im Umfang"],
+    "definitions_de": ["von beträchtlicher oder relativ großer Größe, Ausdehnung oder Kapazität", "weit im Bereich oder Umfang, viele Menschen oder Dinge einbeziehend"],
+    "examples_de": [["Sie brauchen einen **großen** Lastwagen, um all ihre Möbel zu transportieren", "Der **große** Elefant ging langsam durch den Safaripark"], ["Das Unternehmen hat einen **großen** Einfluss auf die lokale Wirtschaft", "Sie hat eine **große** Sammlung von Vintage-Schallplatten"]]
+  },
+  {
+    "lemma": "real",
+    "meanings_de": ["tatsächlich existierend", "echt oder authentisch", "bedeutend oder ernst"],
+    "definitions_de": ["tatsächlich als Ding existierend oder in Wirklichkeit vorkommend, nicht eingebildet", "keine Nachahmung oder künstlich, sondern echt und authentisch in der Natur", "verwendet, um die Bedeutung, Ernsthaftigkeit oder das Ausmaß von etwas zu betonen"],
+    "examples_de": [["Einhörner sind mythische Kreaturen, keine **echten** Tiere", "Basiert diese Geschichte auf **realen** Ereignissen oder ist sie Fiktion?"], ["Sie trug **echte** Diamanten zur Gala, keine falschen", "Diese Jacke ist aus **echtem** Leder, nicht aus Kunstleder"], ["Die Pandemie schuf **echte** Probleme für Kleinunternehmer", "Es besteht eine **reale** Chance auf Regen heute Nachmittag"]]
+  },
+  {
+    "lemma": "best",
+    "meanings_de": ["höchste Qualität", "am vorteilhaftesten"],
+    "definitions_de": ["von der ausgezeichnetsten, wirksamsten oder wünschenswertesten Art oder Qualität", "am vorteilhaftesten, geeignetsten oder ratsam unter den gegebenen Umständen"],
+    "examples_de": [["Das ist das **beste** Pizzarestaurant in der ganzen Stadt", "Sie gibt immer ihr **Bestes** bei allem, was sie tut"], ["Die Autobahn zu nehmen ist die **beste** Route während der Hauptverkehrszeit", "Es ist am **besten**, früh anzukommen, um gute Plätze zu bekommen"]]
+  },
+  {
+    "lemma": "long",
+    "meanings_de": ["groß in der Länge", "ausgedehnt in der Zeit", "starkes Verlangen habend"],
+    "definitions_de": ["eine große Entfernung von Ende zu Ende im Raum messend", "eine große Zeitspanne dauernd oder in Anspruch nehmend", "einen starken Wunsch oder Verlangen nach etwas über Zeit habend"],
+    "examples_de": [["Der Fluss ist über zweihundert Meilen **lang**", "Sie hat wunderschönes **langes** Haar, das bis zur Taille reicht"], ["Es war eine **lange** Besprechung, die vier Stunden dauerte", "Sie machten letzten Sommer einen **langen** Urlaub in Europa"], ["Er hatte sich **lange** danach gesehnt, seine Heimat zu besuchen", "Sie sehnte sich nach den friedlichen Tagen ihrer Kindheit"]]
+  },
+  {
+    "lemma": "young",
+    "meanings_de": ["frühe Lebensphase", "kürzlich geformt"],
+    "definitions_de": ["nur kurze Zeit gelebt oder existiert habend, nicht alt", "erst kürzlich oder vor nicht langer Zeit gemacht, begonnen oder geformt"],
+    "examples_de": [["Die **jungen** Kinder spielten fröhlich zusammen auf dem Spielplatz", "Sie ist zu **jung**, um legal Auto zu fahren"], ["Das ist noch ein **junges** Unternehmen, das erst letztes Jahr gegründet wurde", "Die **junge** Demokratie steht vor vielen Herausforderungen"]]
+  },
+  {
+    "lemma": "important",
+    "meanings_de": ["von großer Bedeutung", "hohen Status habend"],
+    "definitions_de": ["von großer Bedeutung oder Wert, wahrscheinlich tiefgreifende Auswirkungen auf den Erfolg habend", "hohen Rang, Status oder Autorität in einem bestimmten Bereich oder einer Organisation habend"],
+    "examples_de": [["Gute Kommunikation ist **wichtig** für jede erfolgreiche Beziehung", "Es ist **wichtig**, gesunde Lebensmittel zu essen und regelmäßig Sport zu treiben"], ["Sie traf sich gestern mit mehreren **wichtigen** Regierungsbeamten", "Er ist eine **wichtige** Persönlichkeit in der Technologiebranche"]]
+  },
+  {
+    "lemma": "only",
+    "meanings_de": ["einzig oder allein", "lediglich oder nur"],
+    "definitions_de": ["der oder die einzige(n) ohne andere anwesend oder beteiligt", "mit dem negativen Ergebnis, dass nichts mehr als das Gesagte wahr ist"],
+    "examples_de": [["Sie ist die **einzige** Person, die das geheime Passwort kennt", "Das ist die **einzige** Lösung für unser aktuelles Problem"], ["Es kostet **nur** fünf Euro, also ist es ziemlich erschwinglich", "Ich wollte dir **nur** bei der Aufgabe helfen"]]
+  },
+  {
+    "lemma": "national",
+    "meanings_de": ["bezogen auf Nation", "landesweit verbreitet"],
+    "definitions_de": ["bezogen auf oder charakteristisch für eine Nation oder ihre Regierung als Ganzes", "sich über eine ganze Nation erstreckend statt lokal oder regional"],
+    "examples_de": [["Die **Nationalhymne** wird vor jedem Baseballspiel hier gespielt", "Sie diskutierten **nationale** Sicherheitsfragen bei der Besprechung"], ["Die Geschichte schaffte es heute Morgen in die **nationalen** Schlagzeilen", "Es ist zu einem **nationalen** Trend unter jungen Leuten geworden"]]
+  },
+  {
+    "lemma": "black",
+    "meanings_de": ["dunkelste Farbe", "bezogen auf Rasse", "ohne Licht"],
+    "definitions_de": ["von der allerdunkelsten Farbe aufgrund von Abwesenheit oder Absorption von Licht", "bezogen auf Menschen mit dunkler Haut, besonders afrikanischer Herkunft", "gekennzeichnet durch vollständige Abwesenheit von Licht oder Sichtbarkeit"],
+    "examples_de": [["Sie trug ein wunderschönes **schwarzes** Kleid zur formellen Veranstaltung", "Die Katze hat glänzendes **schwarzes** Fell, das im Sonnenlicht schimmert"], ["Der Black History Month wird jeden Februar in Amerika gefeiert", "Sie ist eine prominente **schwarze** Autorin und Bürgerrechtlerin"], ["Der Raum war völlig **schwarz**, als der Strom ausfiel", "Sie warteten in der **schwarzen** Nacht auf die Morgendämmerung"]]
+  },
+  {
+    "lemma": "social",
+    "meanings_de": ["bezogen auf Gesellschaft", "bezogen auf Interaktion"],
+    "definitions_de": ["bezogen auf die Gesellschaft oder ihre Organisation und die Art, wie Menschen zusammenleben", "bezogen auf Aktivitäten, bei denen Menschen sich treffen und miteinander interagieren"],
+    "examples_de": [["**Soziale** Ungleichheit bleibt ein großes Problem in vielen Ländern", "Sie untersuchten die **sozialen** Auswirkungen neuer Technologie"], ["Sie ist sehr **gesellig** und genießt es, überall neue Leute kennenzulernen", "Wir nahmen während der Konferenz an mehreren **gesellschaftlichen** Veranstaltungen teil"]]
+  },
+  {
+    "lemma": "able",
+    "meanings_de": ["notwendige Fähigkeit habend", "Gelegenheit habend"],
+    "definitions_de": ["die Kraft, Fähigkeit, Mittel oder Gelegenheit habend, etwas zu tun", "beträchtliche Fähigkeit, Kompetenz oder Intelligenz in einem bestimmten Bereich habend"],
+    "examples_de": [["Sie war **imstande**, das Projekt vor der Deadline fertigzustellen", "Sind Sie **in der Lage**, morgen früh an der Besprechung teilzunehmen?"], ["Sie ist eine sehr **fähige** Managerin, die ihr Team gut führt", "Die **begabten** Schüler absolvierten die fortgeschrittenen Kurse problemlos"]]
+  },
+  {
+    "lemma": "political",
+    "meanings_de": ["bezogen auf Regierung", "bezogen auf Macht"],
+    "definitions_de": ["bezogen auf die Regierung oder öffentliche Angelegenheiten eines Landes oder Gebiets", "bezogen auf Aktivitäten, die darauf abzielen, jemandes Status zu verbessern oder Macht innerhalb einer Organisation zu erhöhen"],
+    "examples_de": [["Die **politische** Situation in der Region bleibt sehr instabil", "Sie studierte vier Jahre lang **Politikwissenschaft** an der Universität"], ["Seine Beförderung war mehr **politisch** motiviert als leistungsbasiert", "Büropolitik kann das Arbeitsumfeld schwierig machen"]]
+  },
+  {
+    "lemma": "public",
+    "meanings_de": ["für alle offen", "bezogen auf Regierung", "vielen bekannt"],
+    "definitions_de": ["offen für oder zugänglich für alle Menschen in der Gemeinschaft ohne Einschränkung", "bezogen auf oder bereitgestellt von der Regierung statt von privaten Unternehmen", "getan, wahrgenommen oder existierend in offener Sicht anderer Menschen allgemein"],
+    "examples_de": [["Die **öffentliche** Bibliothek bietet allen kostenlosen Internetzugang", "Dieser Strand ist **öffentliches** Eigentum, das ganzjährig geöffnet ist"], ["Sie arbeitet im **öffentlichen** Gesundheitswesen für die Stadtverwaltung", "**Öffentliche** Schulen bieten allen Kindern kostenlose Bildung"], ["Sie machten ihre Beziehung gestern auf Social Media **öffentlich**", "Er fühlt sich nicht wohl beim **öffentlichen** Sprechen vor großen Veranstaltungen"]]
+  },
+  {
+    "lemma": "white",
+    "meanings_de": ["hellste Farbe", "bezogen auf Rasse", "blass im Aussehen"],
+    "definitions_de": ["von der Farbe von Milch oder frischem Schnee aufgrund von Lichtreflexion", "bezogen auf Menschen mit heller Haut, besonders europäischer Abstammung", "sehr blass im Aussehen, besonders durch Krankheit, Angst oder Schock"],
+    "examples_de": [["Sie strich die Wände **weiß**, um den Raum aufzuhellen", "Frischer **weißer** Schnee bedeckte gestern die Berggipfel"], ["Die Nachbarschaft bestand überwiegend aus **weißen** Mittelklassefamilien", "Weiße Privilegien sind ein wichtiges Thema in der sozialen Gerechtigkeit"], ["Sein Gesicht wurde **weiß**, als er die schlechten Nachrichten hörte", "Sie sah nach dem Unfall **weiß** wie ein Laken aus"]]
+  },
+  {
+    "lemma": "better",
+    "meanings_de": ["überlegen in Qualität", "geeigneter", "genesen von Krankheit"],
+    "definitions_de": ["von einer ausgezeichneteren oder wirksameren Art oder Qualität als andere", "vorteilhafter oder geeigneter für einen bestimmten Zweck oder eine Situation", "teilweise oder vollständig genesen von Krankheit, Verletzung oder psychischem Stress"],
+    "examples_de": [["Dieses Restaurant hat **besseres** Essen als das in der Innenstadt", "Sie ist eine **bessere** Schwimmerin als ihr älterer Bruder"], ["Mit dem Zug zu fahren wäre **besser** als dorthin zu fahren", "Es ist **besser**, sich zu entschuldigen, als einen Freund zu verlieren"], ["Mir geht es viel **besser** nach dem Ausruhen am ganzen Wochenende", "Ihr geht es jetzt **besser** und sie kann zur Arbeit zurückkehren"]]
+  },
+  {
+    "lemma": "late",
+    "meanings_de": ["nach erwarteter Zeit", "nahe Ende der Periode", "kürzlich verstorben"],
+    "definitions_de": ["etwas tun oder stattfinden nach der erwarteten oder üblichen Zeit", "zu oder stattfindend nahe dem Ende einer bestimmten Periode gehörend", "kürzlich gestorben oder verwendet, um sich auf jemanden zu beziehen, der gestorben ist"],
+    "examples_de": [["Sie kam heute Morgen zu **spät** zur wichtigen Besprechung", "Der Zug hat heute zwanzig Minuten **Verspätung**"], ["Es geschah **Ende** Dezember, kurz vor Neujahr", "Sie arbeitete **spät** in die Nacht hinein, um den Bericht fertigzustellen"], ["Ihr **verstorbener** Ehemann war ein renommierter Wissenschaftler und Professor", "Die Bücher des **verstorbenen** Autors inspirieren weiterhin Leser"]]
+  },
+  {
+    "lemma": "free",
+    "meanings_de": ["ohne Kosten", "nicht kontrolliert", "verfügbar zur Nutzung"],
+    "definitions_de": ["gegeben oder verfügbar ohne Gebühr oder Zahlung an den Empfänger", "nicht unter der Kontrolle oder Macht einer anderen Person oder Autorität", "nicht besetzt oder in Gebrauch und daher für jemanden verfügbar"],
+    "examples_de": [["Das Museum bietet Einwohnern jeden Sonntag **freien** Eintritt", "Sie bekam eine **kostenlose** Probe im Lebensmittelgeschäft"], ["Nach Jahren des Kampfes waren sie endlich **frei** von Schulden", "Der Vogel wurde gestern aus seinem Käfig **freigelassen**"], ["Hast du dieses Wochenende **Zeit**, mir beim Umzug zu helfen?", "Dieser Parkplatz ist **frei**, wenn du ihn brauchst"]]
+  },
+  {
+    "lemma": "sorry",
+    "meanings_de": ["Bedauern empfindend", "Mitgefühl ausdrückend", "in schlechtem Zustand"],
+    "definitions_de": ["Kummer empfindend, besonders durch Mitgefühl mit dem Unglück eines anderen", "Bedauern oder Reue für die eigenen Handlungen oder Situation empfindend", "in einem schlechten oder erbärmlichen Zustand, der Mitgefühl verdient"],
+    "examples_de": [["Es **tut mir leid**, dass ich versehentlich deine Lieblingstasse zerbrochen habe", "Sie fühlte sich **schlecht**, weil sie seine Geburtstagsfeier verpasst hatte"], ["Es **tut mir so leid** von deinem Verlust zu hören", "Es **tut uns leid**, dass du diese schwere Zeit durchmachst"], ["Das alte Gebäude befindet sich in einem **erbärmlichen** Zustand", "Seine Kleidung war nach dem Camping in einem **jämmerlichen** Zustand"]]
+  },
+  {
+    "lemma": "low",
+    "meanings_de": ["nicht hoch oben", "unter normalem Niveau", "nicht laut"],
+    "definitions_de": ["nicht weit über dem Boden, Meer oder Horizontniveau gelegen", "unter dem üblichen oder erwarteten Niveau, Betrag oder Intensität", "nicht laut oder intensiv in Lautstärke, Ton oder Grad"],
+    "examples_de": [["Das Flugzeug flog bei der Landung **tief** über dem Wasser", "Sie duckte sich unter die **niedrige** Decke im Keller"], ["Die Benzinpreise sind dieses Jahr auf ihrem **tiefsten** Punkt", "Seine Testergebnisse waren dieses Semester enttäuschend **niedrig**"], ["Bitte sprechen Sie mit **leiser** Stimme in der Bibliothek", "Sie stellte die Musik auf eine **niedrige** Lautstärke ein"]]
+  },
+  {
+    "lemma": "human",
+    "meanings_de": ["bezogen auf Menschen", "Mitgefühl zeigend"],
+    "definitions_de": ["bezogen auf oder charakteristisch für Menschen oder menschliche Wesen im Allgemeinen", "die besseren Eigenschaften der Menschheit wie Freundlichkeit und Mitgefühl zeigend"],
+    "examples_de": [["**Menschliches** Verhalten ist komplex und schwer genau vorherzusagen", "Das Museum zeigt Artefakte aus frühen **menschlichen** Zivilisationen"], ["Die Freiwilligen zeigten große **menschliche** Güte gegenüber Katastrophenopfern", "Es ist nur **menschlich**, manchmal im Leben Fehler zu machen"]]
+  },
+  {
+    "lemma": "true",
+    "meanings_de": ["faktenkonform", "loyal oder treu", "genau positioniert"],
+    "definitions_de": ["in Übereinstimmung mit Tatsachen oder Realität und nicht falsch oder irrtümlich", "loyal oder treu zu einer Person, einem Glauben oder einer Sache ohne zu schwanken", "genau oder exakt platziert, geformt oder positioniert wie beabsichtigt"],
+    "examples_de": [["Ist es **wahr**, dass du in eine andere Stadt ziehst?", "Die Geschichte stellte sich nach Untersuchung als **wahr** heraus"], ["Sie blieb trotz Druck ihren Prinzipien **treu**", "Er war in schwierigen Zeiten ein **treuer** Freund"], ["Das Rad muss **gerade** sein für eine reibungslose Fahrt", "Stelle sicher, dass der Bilderrahmen **gerade** an der Wand hängt"]]
+  },
+  {
+    "lemma": "whole",
+    "meanings_de": ["vollständig oder komplett", "nicht zerbrochen"],
+    "definitions_de": ["alle Teile oder Elemente enthaltend, ohne dass etwas fehlt oder ausgeschlossen ist", "nicht geteilt, zerbrochen oder beschädigt, sondern in einem vollständigen Stück"],
+    "examples_de": [["Sie aß gestern Abend die **ganze** Pizza allein", "Die **ganze** Klasse nahm am Wissenschaftsprojekt teil"], ["Die Archäologen fanden mehrere **ganze** Tongefäße intakt", "Schlucken Sie die Pille **ganz** mit Wasser, kauen Sie sie nicht"]]
+  },
+  {
+    "lemma": "easy",
+    "meanings_de": ["nicht schwierig", "bequem und entspannt"],
+    "definitions_de": ["ohne große Anstrengung oder Schwierigkeit beim Ausführen oder Verstehen erreicht", "frei von Sorgen, Ängsten oder Problemen, die einen entspannten Zustand schaffen"],
+    "examples_de": [["Fahrradfahren lernen ist mit Übung **einfach**", "Der Test war überraschend **leicht** für die meisten Schüler"], ["Sie hat ein **einfaches** Leben mit wenigen Sorgen oder Stress", "Er hat eine **lockere** Art, die Menschen sich wohl fühlen lässt"]]
+  },
+  {
+    "lemma": "hard",
+    "meanings_de": ["fest und hart", "schwierig zu tun", "mit großer Anstrengung"],
+    "definitions_de": ["fest, solide und widerstandsfähig gegen Druck, Kraft oder Eindringen", "große körperliche oder geistige Anstrengung erfordernd, um zu erreichen oder zu verstehen", "mit viel Anstrengung, Energie oder Kraft"],
+    "examples_de": [["Der Boden war nach wochenlangem Ausbleiben von Regen **hart**", "Diese Matratze ist zu **hart** für bequemes Schlafen"], ["Eine neue Sprache zu lernen ist **schwer**, aber sehr lohnend", "Der Test war so **schwierig**, dass viele Schüler durchfielen"], ["Sie arbeitete **hart**, um ihre Ziele dieses Jahr zu erreichen", "Es regnet **stark** draußen, nimm besser einen Regenschirm"]]
+  },
+  {
+    "lemma": "early",
+    "meanings_de": ["vor üblicher Zeit", "nahe dem Anfang"],
+    "definitions_de": ["geschehend oder getan vor der üblichen oder erwarteten Zeit", "zu oder geschehend nahe dem Anfang einer Periode gehörend"],
+    "examples_de": [["Sie kommt immer **früh** zu wichtigen Besprechungen bei der Arbeit", "Die Blumen blühten dieses Jahr **früh** aufgrund des warmen Wetters"], ["Höhlenmalereien zeigen **frühe** menschliche künstlerische Ausdrucksformen", "In den **frühen** Tagen des Internets waren Verbindungen langsam"]]
+  },
+  {
+    "lemma": "possible",
+    "meanings_de": ["möglich zu geschehen", "möglich zu tun"],
+    "definitions_de": ["fähig zu geschehen oder zu existieren bei den richtigen Umständen oder Bedingungen", "fähig getan oder erreicht zu werden mit verfügbaren Mitteln oder Ressourcen"],
+    "examples_de": [["Ist es **möglich**, das Projekt bis Freitag fertigzustellen?", "Regen ist heute Nachmittag laut Vorhersage **möglich**"], ["Wir müssen jede **mögliche** Lösung für dieses Problem erkunden", "Sie tat alles **Mögliche**, um ihrem Freund zum Erfolg zu verhelfen"]]
+  },
+  {
+    "lemma": "wrong",
+    "meanings_de": ["nicht korrekt", "moralisch schlecht", "nicht geeignet"],
+    "definitions_de": ["nicht korrekt oder wahr gemäß Fakten oder genauer Information", "nicht den anerkannten moralischen Standards von richtig entsprechend", "nicht geeignet, angemessen oder wünschenswert für eine bestimmte Situation"],
+    "examples_de": [["Deine Antwort auf die Matheaufgabe ist völlig **falsch**", "Ich glaube, du hast die **falsche** Telefonnummer"], ["Stehlen ist **falsch**, egal unter welchen Umständen", "Er wusste, es war **falsch**, seine Eltern anzulügen"], ["Das ist das **falsche** Werkzeug für diese spezielle Arbeit", "Du fragst die **falsche** Person über Computerprobleme"]]
+  },
+  {
+    "lemma": "full",
+    "meanings_de": ["maximale Menge enthaltend", "vollständig oder ganz", "satt vom Essen"],
+    "definitions_de": ["so viel oder so viele wie möglich innerhalb der Grenzen enthaltend oder haltend", "vollständig oder alles enthaltend, was normal, erwartet oder möglich ist", "genug Essen gegessen habend, um sich vollkommen zufrieden zu fühlen"],
+    "examples_de": [["Der Parkplatz war bis Mittag heute vollständig **voll**", "Gießen Sie Wasser ein, bis das Glas bis zum Rand **voll** ist"], ["Bitte schreiben Sie Ihren **vollständigen** Namen auf das Antragsformular", "Sie erzählte uns die **ganze** Geschichte, was passiert war"], ["Ich bin zu **satt**, um nach diesem Essen noch Nachtisch zu essen", "Die Kinder waren **satt** nach Pizza und Kuchen"]]
+  },
+  {
+    "lemma": "local",
+    "meanings_de": ["bezogen auf Gebiet", "in der Nähe wohnend"],
+    "definitions_de": ["bezogen auf oder vorkommend in einem bestimmten Gebiet, einer Stadt oder einem Ort", "zugehörig zu oder verbunden mit dem bestimmten Gebiet, wo man lebt"],
+    "examples_de": [["Kaufen Sie bei **lokalen** Geschäften ein, um die Gemeindewirtschaft zu unterstützen", "Die **lokale** Wettervorhersage sagt morgen Nachmittag Regen voraus"], ["Fragen Sie einen **Einheimischen** nach dem Weg zum Museum", "Sie ist eine **Einheimische**, die alle besten Restaurants kennt"]]
+  },
+  {
+    "lemma": "strong",
+    "meanings_de": ["körperliche Kraft habend", "dauerhaft und solide", "intensiv im Grad"],
+    "definitions_de": ["die Kraft habend, schwere Gewichte zu bewegen oder körperlich anspruchsvolle Aufgaben auszuführen", "fähig, großer Kraft oder Druck standzuhalten ohne zu brechen oder nachzugeben", "einen hohen Grad an Intensität, Konzentration oder Wirksamkeit habend"],
+    "examples_de": [["Sie muss **stark** sein, um diese schweren Kisten zu heben", "Der Athlet hat sehr **starke** Arme vom jahrelangen Training"], ["Diese Brücke ist **stark** genug, um schwere Lastwagen zu tragen", "Wir brauchen **starkes** Seil, das nicht unter Druck reißt"], ["Sie hat **starke** Meinungen über Umweltschutzthemen", "Der Kaffee hat einen **starken** Geschmack, den manche Leute nicht mögen"]]
+  },
+  {
+    "lemma": "fine",
+    "meanings_de": ["hohe Qualität", "sehr dünn", "zufriedenstellender Zustand", "Geldstrafe"],
+    "definitions_de": ["von hoher Qualität mit sehr guten oder überlegenen Eigenschaften", "aus sehr kleinen Partikeln bestehend oder sehr dünne Struktur habend", "in einem zufriedenstellenden, akzeptablen oder normalen Zustand", "eine Geldsumme, die als Strafe für ein Vergehen auferlegt wird"],
+    "examples_de": [["Dieses Restaurant serviert jeden Abend **feine** Gourmetküche", "Sie hat einen **feinen** Geschmack in Kunst und Musik"], ["Der Sand an diesem Strand ist unglaublich **fein** und weich", "Verwenden Sie ein **feines** Sieb, um die Samen zu entfernen"], ["Mir geht es **gut** nach der gestrigen kleinen Operation", "Das Wetter ist **schön** für unser Picknick im Freien"], ["Er zahlte eine **Geldstrafe** für falsches Parken", "Das Unternehmen erhielt eine hohe **Geldstrafe** für Sicherheitsverstöße"]]
+  },
+  {
+    "lemma": "federal",
+    "meanings_de": ["bezogen auf Bundesregierung", "bezogen auf Föderation"],
+    "definitions_de": ["bezogen auf die Zentralregierung eines Landes statt auf lokale Regierungen", "bezogen auf ein System, in dem Staaten sich unter einer zentralen Autorität vereinen"],
+    "examples_de": [["**Bundesrecht** hat Vorrang vor Landesrecht in Verfassungsangelegenheiten", "Sie arbeitet für eine **Bundesbehörde** in Washington DC"], ["Das **föderale** System erlaubt Staaten einige autonome Befugnisse", "Die Schweiz hat eine **föderale** Struktur mit verschiedenen Kantonen"]]
+  },
+  {
+    "lemma": "nice",
+    "meanings_de": ["angenehm oder erfreulich", "freundlich und nett", "Präzision erfordernd"],
+    "definitions_de": ["Vergnügen oder Zufriedenheit durch Annehmlichkeit oder Entzücken gebend", "angenehm im Umgang, Freundlichkeit und Rücksicht für andere zeigend", "sorgfältige Überlegung, Aufmerksamkeit oder Präzision bei der Handhabung erfordernd"],
+    "examples_de": [["Wir hatten gestern eine **schöne** Zeit am Strand", "Was für ein **schönes** Wetter wir diesen Frühling haben"], ["Sie ist so eine **nette** Person, die jedem hilft", "Es war **nett** von dir, Blumen mitzubringen"], ["Es gibt einen **feinen** Unterschied zwischen diesen zwei ähnlichen Konzepten", "Das erfordert ein **genaues** Urteilsvermögen, um richtig zu handhaben"]]
+  },
+  {
+    "lemma": "special",
+    "meanings_de": ["besser als üblich", "für Zweck entworfen", "besonders wichtig"],
+    "definitions_de": ["besser, größer oder anderweitig verschieden von dem, was üblich oder gewöhnlich ist", "speziell zu einer bestimmten Person, einem Zweck oder einer Situation gehörend", "besondere Wichtigkeit oder Bedeutung über das Gewöhnliche hinaus habend"],
+    "examples_de": [["Sie bereiteten ein **besonderes** Essen für ihre Geburtstagsfeier zu", "Dieser Wein ist **besonders**, aufbewahrt für wichtige Anlässe"], ["Sie braucht **spezielle** Ausrüstung für ihren medizinischen Zustand", "Die Schule bietet **spezielle** Programme für begabte Schüler"], ["Heute ist ein **besonderer** Tag in der Geschichte unserer Familie", "Du hast einen **besonderen** Platz in meinem Herzen"]]
+  },
+  {
+    "lemma": "major",
+    "meanings_de": ["sehr wichtig", "größer in der Größe"],
+    "definitions_de": ["sehr wichtig, ernst oder bedeutsam in Wirkung oder Konsequenz", "größer in Größe, Menge oder Ausmaß als andere seiner Art"],
+    "examples_de": [["Der Klimawandel ist ein **großes** Anliegen für zukünftige Generationen", "Sie leistete einen **bedeutenden** Beitrag zur wissenschaftlichen Forschung"], ["Das Unternehmen kündigte **große** Entlassungen an, die Tausende von Mitarbeitern betreffen", "Es gibt einen **erheblichen** Unterschied zwischen diesen beiden Ansätzen"]]
+  },
+  {
+    "lemma": "economic",
+    "meanings_de": ["bezogen auf Wirtschaft", "finanziell lohnend"],
+    "definitions_de": ["bezogen auf die Wirtschaftswissenschaft oder die Wirtschaft eines Landes oder einer Region", "gerechtfertigt in Bezug auf Rentabilität oder gutes Preis-Leistungs-Verhältnis bietend"],
+    "examples_de": [["Die **wirtschaftlichen** Auswirkungen der Pandemie waren weltweit schwerwiegend", "Sie studierte **Wirtschaftstheorie** auf Graduiertenebene"], ["Dieses Auto ist sehr **wirtschaftlich** im Betrieb und in der Wartung", "Es ist nicht **wirtschaftlich**, ein so altes Gerät zu reparieren"]]
+  }
+]

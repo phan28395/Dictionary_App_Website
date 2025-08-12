@@ -1,0 +1,146 @@
+[
+  {
+    "lemma": "excessive",
+    "meanings_de": ["mehr als notwendig", "über normale Grenzen hinaus"],
+    "definitions_de": ["über das vernünftige, notwendige oder normale Maß in Menge oder Grad hinausgehend", "die üblichen, angemessenen oder festgelegten Grenzen in Quantität oder Ausmaß überschreitend"],
+    "examples_de": [["Die **übermäßige** Hitze machte Aktivitäten im Freien heute gefährlich", "Seine **exzessiven** Ausgaben für Luxusartikel beunruhigten seine Familie"], ["Der Lehrer beschwerte sich über **übermäßigen** Lärm vom Spielplatz", "**Übermäßiger** Niederschlag verursachte dieses Frühjahr Überschwemmungen in mehreren Stadtteilen"]]
+  },
+  {
+    "lemma": "countless",
+    "meanings_de": ["zu viele zum Zählen"],
+    "definitions_de": ["so zahlreich, dass das Zählen unmöglich oder unpraktisch ist, unzählbar in der Menge"],
+    "examples_de": [["Sie erhielt **unzählige** Nachrichten der Unterstützung nach der Bekanntgabe", "Der Nachthimmel zeigte **zahllose** Sterne in dieser klaren Nacht"]]
+  },
+  {
+    "lemma": "interior",
+    "meanings_de": ["innerer Teil", "vom Küstengebiet entfernt", "innere Angelegenheiten betreffend"],
+    "definitions_de": ["innerhalb oder im Inneren von etwas gelegen, besonders innerhalb eines Gebäudes oder einer Struktur", "im Binnenland eines Landes oder einer Region gelegen, entfernt von der Küste", "die internen oder inländischen Angelegenheiten eines Landes oder einer Organisation betreffend"],
+    "examples_de": [["Die **inneren** Wände müssen neu gestrichen werden, bevor die neuen Mieter einziehen", "Sie beauftragte einen Designer, die **Innenräume** komplett zu renovieren"], ["Sie reisten in die **inneren** Regionen, um indigene Kulturen zu studieren", "Die **Binnenprovinzen** erleben extremere Temperaturschwankungen als Küstengebiete"], ["Der **Innenminister** kündigte gestern neue Richtlinien für die Grenzsicherheit an", "**Innere** Angelegenheiten der Nation hatten Vorrang vor der Außenpolitik"]]
+  },
+  {
+    "lemma": "faithful",
+    "meanings_de": ["loyal und zuverlässig", "originalgetreu"],
+    "definitions_de": ["loyal und standhaft in Treue, Zuneigung oder Pflicht gegenüber jemandem oder etwas bleibend", "den Tatsachen oder dem Original entsprechend; etwas genau und ohne Abweichung darstellend"],
+    "examples_de": [["Ihr **treuer** Hund wartete jeden Abend an der Tür auf sie", "Er blieb seinen Prinzipien **treu**, trotz intensiven Drucks, Kompromisse einzugehen"], ["Der Film ist eine **originalgetreue** Adaption des klassischen Romans", "Diese Übersetzung bietet eine **getreue** Wiedergabe des Originaltextes"]]
+  },
+  {
+    "lemma": "depressed",
+    "meanings_de": ["traurig und hoffnungslos", "abgesenkt in Position", "wirtschaftlich zurückgegangen"],
+    "definitions_de": ["unter Gefühlen schwerer Niedergeschlagenheit, Traurigkeit und Hoffnungslosigkeit leidend", "nach unten gedrückt oder unter die normale oder übliche Position oder Ebene abgesenkt", "wirtschaftlichen Niedergang mit reduzierter Aktivität und hoher Arbeitslosigkeit erlebend"],
+    "examples_de": [["Sie fühlte sich **deprimiert**, nachdem sie letzten Monat unerwartet ihren Job verlor", "Der **depressive** Teenager suchte schließlich Hilfe bei einem Schulberater"], ["Der **eingedrückte** Knopf muss gelöst werden, bevor die Maschine neu gestartet wird", "Schwerer Schnee hinterließ eine **eingedrückte** Stelle in der Dachkonstruktion"], ["Die **depressive** Wirtschaft führte zu weit verbreiteten Geschäftsschließungen und Arbeitslosigkeit", "Die Immobilienwerte blieben in der Region mehrere Jahre **gedrückt**"]]
+  },
+  {
+    "lemma": "embarrassed",
+    "meanings_de": ["peinlich berührtes Schamgefühl"],
+    "definitions_de": ["Selbstbewusstsein, Scham oder Unbeholfenheit in einer sozialen Situation fühlend oder zeigend"],
+    "examples_de": [["Er fühlte sich **verlegen**, als er vor allen stolperte", "Sie war zu **beschämt**, um zuzugeben, dass sie das Treffen vergessen hatte"]]
+  },
+  {
+    "lemma": "disturbing",
+    "meanings_de": ["Sorge oder Aufregung verursachend"],
+    "definitions_de": ["Angst, Sorge oder Unruhe verursachend; den Seelenfrieden störend oder beunruhigend"],
+    "examples_de": [["Die **beunruhigenden** Nachrichten über den Klimawandel besorgen viele junge Menschen", "Sie fand die gewalttätigen Szenen im Film zutiefst **verstörend**"]]
+  },
+  {
+    "lemma": "explicit",
+    "meanings_de": ["klar ausgedrückt", "grafischen Inhalt zeigend"],
+    "definitions_de": ["klar und detailliert ausgedrückt, sodass kein Raum für Verwirrung oder Zweifel bleibt", "sexuelles oder gewalttätiges Material in grafischen Details ohne Zensur beschreibend oder zeigend"],
+    "examples_de": [["Der Vertrag enthält **explizite** Anweisungen zu Zahlungsbedingungen und Fristen", "Sie gab **eindeutige** Anweisungen, um Verwirrung über den Standort zu vermeiden"], ["Der Film erhielt eine **explizite** Bewertung aufgrund gewalttätiger Inhalte", "Einige Websites erfordern eine Altersverifizierung, bevor sie **explizites** Material online zeigen"]]
+  },
+  {
+    "lemma": "novel",
+    "meanings_de": ["neu und ungewöhnlich"],
+    "definitions_de": ["neu, originell oder ungewöhnlich auf eine interessante und auffällige Weise"],
+    "examples_de": [["Wissenschaftler entdeckten einen **neuartigen** Ansatz zur Behandlung der seltenen Krankheit", "Ihre **innovative** Idee zum Recycling von Plastik beeindruckte das Umweltkomitee"]]
+  },
+  {
+    "lemma": "viable",
+    "meanings_de": ["erfolgsfähig"],
+    "definitions_de": ["fähig, erfolgreich zu funktionieren oder in der Praxis wirksam zu sein; durchführbar"],
+    "examples_de": [["Der Geschäftsplan scheint angesichts der günstigen Marktbedingungen **durchführbar**", "Solarenergie wird zu einer immer **tragfähigeren** Alternative zu fossilen Brennstoffen"]]
+  },
+  {
+    "lemma": "reluctant",
+    "meanings_de": ["unwillig oder zögerlich"],
+    "definitions_de": ["unwillig und zögerlich, etwas zu tun; Zweifel oder Unwillen zeigend"],
+    "examples_de": [["Sie war **zögerlich**, persönliche Informationen mit neuen Kollegen zu teilen", "Der **widerwillige** Zeuge stimmte gestern schließlich zu, vor Gericht auszusagen"]]
+  },
+  {
+    "lemma": "stiff",
+    "meanings_de": ["starr und unflexibel", "formell und unfreundlich", "schwierig oder streng"],
+    "definitions_de": ["nicht leicht zu biegen oder in der Form zu verändern; starr und schwer zu bewegen", "formell, unfreundlich oder ohne Leichtigkeit in Verhalten oder Bewegung", "streng, schwierig oder große Anstrengung erfordernd, um zu überwinden oder zu erreichen"],
+    "examples_de": [["Mein Nacken fühlt sich **steif** an, nachdem ich in einer unbequemen Position geschlafen habe", "Der **steife** Karton war perfekt für die Herstellung des Ausstellungsständers"], ["Seine **steife** Art machte die Gäste auf der Party unbehaglich", "Das Gespräch blieb **steif**, trotz Versuchen, die Stimmung aufzulockern"], ["Das Unternehmen steht dieses Jahr vor **harter** Konkurrenz durch internationale Hersteller", "Sie bestand die Prüfung trotz **schwieriger** Fragen zu fortgeschrittenen Themen"]]
+  },
+  {
+    "lemma": "consecutive",
+    "meanings_de": ["aufeinanderfolgend"],
+    "definitions_de": ["kontinuierlich aufeinanderfolgend in ununterbrochener oder logischer Reihenfolge ohne Unterbrechung"],
+    "examples_de": [["Das Team gewann fünf **aufeinanderfolgende** Spiele, um das Finale der Meisterschaft zu erreichen", "Es regnete sieben **aufeinanderfolgende** Tage, was zu weitverbreiteten Überschwemmungsproblemen führte"]]
+  },
+  {
+    "lemma": "associate",
+    "meanings_de": ["verbunden oder verwandt"],
+    "definitions_de": ["mit etwas anderem in Gedanken oder tatsächlich verbunden; in Beziehung stehend"],
+    "examples_de": [["Der **außerordentliche** Professor unterrichtete dieses Semester ausschließlich fortgeschrittene Chemiekurse", "Diese Symptome werden häufig mit saisonalen Allergien im Frühling **assoziiert**"]]
+  },
+  {
+    "lemma": "risky",
+    "meanings_de": ["mit Gefahr verbunden"],
+    "definitions_de": ["die Möglichkeit von Gefahr, Misserfolg oder Verlust beinhaltend; gefährlich"],
+    "examples_de": [["In Startups zu investieren kann **riskant**, aber potenziell sehr lohnend sein", "Die **riskante** Bergbesteigung erforderte erfahrene Führer und Sicherheitsausrüstung"]]
+  },
+  {
+    "lemma": "blank",
+    "meanings_de": ["leer oder unbeschriftet", "keine Emotion zeigend"],
+    "definitions_de": ["keine Markierungen, Schrift oder Dekoration habend; leer an Inhalt oder Details", "keine Emotionen, kein Verständnis oder kein Interesse im Gesichtsausdruck zeigend"],
+    "examples_de": [["Bitte unterschreiben Sie Ihren Namen auf der **leeren** Linie unten", "Sie starrte auf die **leere** Seite, unfähig etwas zu schreiben"], ["Sein **ausdrucksloser** Gesichtsausdruck gab keinen Hinweis auf seine wahren Gefühle", "Sie warf ihm einen **leeren** Blick zu, als er das Treffen erwähnte"]]
+  },
+  {
+    "lemma": "beneficial",
+    "meanings_de": ["gute Ergebnisse erzeugend"],
+    "definitions_de": ["gute oder hilfreiche Ergebnisse oder Wirkungen erzeugend; Vorteile verleihend, vorteilhaft"],
+    "examples_de": [["Regelmäßige Bewegung ist **vorteilhaft** für die körperliche und geistige Gesundheit", "Die neue Politik erwies sich als besonders **nützlich** für Kleinunternehmer"]]
+  },
+  {
+    "lemma": "rude",
+    "meanings_de": ["unhöflich und beleidigend"],
+    "definitions_de": ["beleidigend unhöflich oder schlecht erzogen im Verhalten oder in der Sprache gegenüber anderen"],
+    "examples_de": [["Es ist **unhöflich**, Menschen zu unterbrechen, wenn sie höflich sprechen", "Der **grobe** Kunde schrie das Personal wegen eines kleinen Fehlers an"]]
+  },
+  {
+    "lemma": "perceived",
+    "meanings_de": ["verstanden oder interpretiert"],
+    "definitions_de": ["durch Sinne oder Verstand auf eine bestimmte Weise bewusst geworden, verstanden oder interpretiert"],
+    "examples_de": [["Die **wahrgenommene** Bedrohung stellte sich als falscher Alarm heraus", "Ihr **vermeintliches** Desinteresse war tatsächlich nur extreme Schüchternheit"]]
+  },
+  {
+    "lemma": "surrounding",
+    "meanings_de": ["rundherum um etwas"],
+    "definitions_de": ["sich auf allen Seiten von etwas erstreckend; einen Bereich umgebend oder umfassend"],
+    "examples_de": [["Die **umliegenden** Berge bieten effektiven Schutz vor harten Winterwinden", "Die Polizei durchsuchte die **umliegende** Gegend nach Hinweisen auf den Vorfall"]]
+  },
+  {
+    "lemma": "ashamed",
+    "meanings_de": ["Scham oder Schuld fühlend"],
+    "definitions_de": ["sich verlegen, schuldig oder entehrt fühlend bezüglich der eigenen Handlungen, Eigenschaften oder Verbindungen"],
+    "examples_de": [["Er **schämte** sich für sein Verhalten auf der Party letzte Nacht", "Sie **schämte** sich zuzugeben, dass sie nie schwimmen gelernt hatte"]]
+  },
+  {
+    "lemma": "stunning",
+    "meanings_de": ["extrem schön", "schockierend oder erstaunlich"],
+    "definitions_de": ["extrem beeindruckend oder schön auf eine Weise, die erstaunt oder entzückt", "Schock, Überraschung oder Erstaunen verursachend, weil unerwartet oder bemerkenswert"],
+    "examples_de": [["Die Braut sah **umwerfend** aus in ihrem eleganten weißen Hochzeitskleid", "Der Sonnenuntergang schuf eine **atemberaubende** Farbenpracht am Himmel"], ["Die Wahlergebnisse waren gestern für politische Analysten landesweit **verblüffend**", "Ihre **beeindruckende** Darbietung brachte ihr Standing Ovations vom Publikum ein"]]
+  },
+  {
+    "lemma": "sunny",
+    "meanings_de": ["hell mit Sonnenschein", "fröhlich und optimistisch"],
+    "definitions_de": ["helles Sonnenlicht mit wenigen oder keinen Wolken am Himmel habend", "fröhlich, optimistisch und positiv in Stimmung oder Veranlagung durchgehend"],
+    "examples_de": [["Das **sonnige** Wetter machte es perfekt für unser Strandpicknick heute", "Wir genossen drei **sonnige** Tage während unseres Bergcampingausflugs"], ["Ihre **sonnige** Persönlichkeit erhellte täglich die Stimmung aller im Büro", "Trotz Rückschlägen behielt er immer eine **optimistische** Lebenseinstellung"]]
+  },
+  {
+    "lemma": "bizarre",
+    "meanings_de": ["sehr seltsam"],
+    "definitions_de": ["sehr seltsam oder ungewöhnlich auf eine Weise, die Überraschung oder Verwirrung verursacht"],
+    "examples_de": [["Die **bizarren** Skulpturen des Künstlers zogen neugierige Besucher in die Galerie", "Es war **bizarr**, Schnee in der Wüste fallen zu sehen"]]
+  }
+]

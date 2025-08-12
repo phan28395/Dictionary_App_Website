@@ -1,0 +1,266 @@
+[
+  {
+    "lemma": "signora",
+    "meanings_de": ["Italienische verheiratete Frau"],
+    "definitions_de": ["Italienische Anredeform für eine verheiratete Frau, entspricht Frau oder gnädige Frau"],
+    "examples_de": [["Die **Signora** empfing uns herzlich in ihrem Haus", "Bitte sagen Sie **Signora** Rossi, dass ihr Tisch bereit ist"]]
+  },
+  {
+    "lemma": "sikh",
+    "meanings_de": ["Anhänger der Sikh-Religion"],
+    "definitions_de": ["Mitglied einer monotheistischen Religion, die im 15. Jahrhundert im Punjab gegründet wurde"],
+    "examples_de": [["Viele **Sikhs** tragen als Teil ihrer religiösen Praxis einen Turban", "Die **Sikh**-Gemeinde feiert jedes Jahr im April Vaisakhi"]]
+  },
+  {
+    "lemma": "sikhism",
+    "meanings_de": ["Monotheistische Religion"],
+    "definitions_de": ["Von Guru Nanak im 15. Jahrhundert gegründete Religion, die Gleichheit und Hingabe an einen Gott betont"],
+    "examples_de": [["Der **Sikhismus** lehrt die Bedeutung eines ehrlichen Lebens und des Teilens", "Der Goldene Tempel ist die heiligste Stätte im **Sikhismus**"]]
+  },
+  {
+    "lemma": "sinai",
+    "meanings_de": ["Wüstenhalbinsel"],
+    "definitions_de": ["Dreieckige Halbinsel in Ägypten zwischen dem Mittelmeer und dem Roten Meer"],
+    "examples_de": [["Der Berg **Sinai** gilt als der Ort, an dem Moses die Zehn Gebote empfing", "Die **Sinai**-Halbinsel verbindet Afrika mit Asien"]]
+  },
+  {
+    "lemma": "sinbad",
+    "meanings_de": ["Fiktiver Seefahrer"],
+    "definitions_de": ["Legendärer Seefahrerheld aus der nahöstlichen Folklore, bekannt für seine sieben Reisen"],
+    "examples_de": [["**Sindbad** begegnete auf seinen Abenteuern vielen magischen Kreaturen", "Die Geschichten von **Sindbad** erscheinen in Tausendundeiner Nacht"]]
+  },
+  {
+    "lemma": "singapore",
+    "meanings_de": ["Inselstaat"],
+    "definitions_de": ["Souveräner Stadtstaat und Inselland in Südostasien, bekannt für wirtschaftlichen Erfolg"],
+    "examples_de": [["**Singapur** ist einer der geschäftigsten Häfen der Welt", "Viele internationale Unternehmen haben ihre Asien-Zentrale in **Singapur**"]]
+  },
+  {
+    "lemma": "singaporean",
+    "meanings_de": ["Bürger Singapurs"],
+    "definitions_de": ["Person, die Staatsbürger der Republik Singapur ist oder aus Singapur stammt"],
+    "examples_de": [["Die **singapurische** Delegation traf zur Handelskonferenz ein", "Viele **Singapurer** sprechen mehrere Sprachen, darunter Englisch und Mandarin"]]
+  },
+  {
+    "lemma": "sioux",
+    "meanings_de": ["Indigenes Volk Nordamerikas"],
+    "definitions_de": ["Gruppe indigener Stämme aus der Great-Plains-Region Nordamerikas"],
+    "examples_de": [["Die **Sioux**-Nation umfasst die Lakota- und Dakota-Völker", "Viele **Sioux**-Traditionen werden heute noch in Reservaten praktiziert"]]
+  },
+  {
+    "lemma": "siren",
+    "meanings_de": ["Warngerät", "Mythisches Wesen"],
+    "definitions_de": ["Lautes Warngerät, das einen heulenden Ton erzeugt", "Mythisches Meereswesen, das Seeleute mit bezaubernder Musik anlockt"],
+    "examples_de": [["Die **Sirene** des Krankenwagens heulte, als er durch den Verkehr raste", "Feuerwehrfahrzeuge testen ihre **Sirenen** jeden Samstag um zwölf Uhr mittags"], ["Antike griechische Seeleute fürchteten, die **Sirenen** würden sie zum Schiffbruch führen", "In der Mythologie wurden **Sirenen** oft als halb Frau, halb Vogel dargestellt"]]
+  },
+  {
+    "lemma": "sitter",
+    "meanings_de": ["Sitzende Person", "Betreuer"],
+    "definitions_de": ["Person, die für ein Porträt oder Foto Modell sitzt", "Person, die auf Kinder oder Haustiere aufpasst, während die Besitzer weg sind"],
+    "examples_de": [["Der Künstler bat das **Modell**, zwanzig Minuten still zu sitzen", "Die **Porträtierte** trug ihr schönstes Kleid für das Gemälde"], ["Wir müssen einen zuverlässigen **Babysitter** für Samstagabend finden", "Der **Tiersitter** kommt zweimal täglich, um die Katzen zu füttern"]]
+  },
+  {
+    "lemma": "siva",
+    "meanings_de": ["Hindu-Gottheit"],
+    "definitions_de": ["Wichtiger hinduistischer Gott, bekannt als Zerstörer und Verwandler in der hinduistischen Dreifaltigkeit"],
+    "examples_de": [["Anhänger von **Shiva** tragen oft heilige Asche auf ihrer Stirn", "Der **Shiva** geweihte Tempel zieht jährlich Tausende von Pilgern an"]]
+  },
+  {
+    "lemma": "skylab",
+    "meanings_de": ["Raumstation"],
+    "definitions_de": ["Erste Raumstation der Vereinigten Staaten, die von 1973 bis 1979 die Erde umkreiste"],
+    "examples_de": [["**Skylab** bewies, dass Menschen über längere Zeit im Weltraum leben und arbeiten können", "Drei verschiedene Besatzungen besuchten **Skylab** während seiner Betriebszeit"]]
+  },
+  {
+    "lemma": "slav",
+    "meanings_de": ["Angehöriger einer Volksgruppe"],
+    "definitions_de": ["Angehöriger eines der Völker Osteuropas, die slawische Sprachen sprechen"],
+    "examples_de": [["Viele **Slawen** wanderten im frühen 20. Jahrhundert nach Nordamerika aus", "Die **slawischen** Völker teilen ähnliche sprachliche und kulturelle Traditionen"]]
+  },
+  {
+    "lemma": "slavic",
+    "meanings_de": ["Sprachfamilie"],
+    "definitions_de": ["Gruppe verwandter Sprachen, die von slawischen Völkern in Osteuropa gesprochen werden"],
+    "examples_de": [["Russisch und Polnisch sind beides **slawische** Sprachen", "**Slawische** Sprachen verwenden entweder das kyrillische oder das lateinische Alphabet"]]
+  },
+  {
+    "lemma": "slavonic",
+    "meanings_de": ["Alte Sprachform"],
+    "definitions_de": ["Alte Form der slawischen Sprache, die in religiösen Texten und der Liturgie verwendet wird"],
+    "examples_de": [["Das **Altkirchenslawische** war die erste slawische Literatursprache", "Viele orthodoxe Kirchen verwenden noch immer **Slawonisch** in ihren Gottesdiensten"]]
+  },
+  {
+    "lemma": "slovak",
+    "meanings_de": ["Person aus der Slowakei", "Sprache der Slowakei"],
+    "definitions_de": ["Staatsbürger oder Einwohner der Slowakei in Mitteleuropa", "Westslawische Sprache, die hauptsächlich in der Slowakei gesprochen wird"],
+    "examples_de": [["Der **slowakische** Athlet gewann drei Medaillen bei den Olympischen Spielen", "Viele **slowakische** Einwanderer ließen sich in den Bergbaustädten Pennsylvanias nieder"], ["Sie lernt **Slowakisch**, um mit ihren Großeltern zu kommunizieren", "Das **Slowakische** verwendet das lateinische Alphabet mit speziellen diakritischen Zeichen"]]
+  },
+  {
+    "lemma": "slovakia",
+    "meanings_de": ["Europäisches Land"],
+    "definitions_de": ["Binnenstaat in Mitteleuropa, der früher Teil der Tschechoslowakei war"],
+    "examples_de": [["Die **Slowakei** trat 2004 der Europäischen Union bei", "Die Hauptstadt der **Slowakei** ist Bratislava"]]
+  },
+  {
+    "lemma": "slovene",
+    "meanings_de": ["Person aus Slowenien", "Sprache Sloweniens"],
+    "definitions_de": ["Staatsbürger oder Einwohner Sloweniens in Südosteuropa", "Südslawische Sprache, die hauptsächlich in Slowenien gesprochen wird"],
+    "examples_de": [["Die **slowenische** Künstlerin stellte ihre Werke weltweit in Galerien aus", "Viele **Slowenen** genießen das Skifahren in ihrem bergigen Land"], ["Das **Slowenische** kennt neben Singular und Plural auch den Dual", "Sie studierte **Slowenisch**, um ihr Familienerbe besser zu verstehen"]]
+  },
+  {
+    "lemma": "slovenia",
+    "meanings_de": ["Europäisches Land"],
+    "definitions_de": ["Kleines Land in Mitteleuropa, das an Italien, Österreich, Ungarn und Kroatien grenzt"],
+    "examples_de": [["**Slowenien** war die erste ehemalige jugoslawische Republik, die der EU beitrat", "Der Bleder See in **Slowenien** ist ein beliebtes Touristenziel"]]
+  },
+  {
+    "lemma": "slovenian",
+    "meanings_de": ["Person aus Slowenien"],
+    "definitions_de": ["Staatsbürger Sloweniens oder zu Slowenien und seinen Menschen gehörend"],
+    "examples_de": [["Das **slowenische** Team schnitt bei Wintersportwettbewerben gut ab", "Die **slowenische** Küche vereint mediterrane und mitteleuropäische Einflüsse"]]
+  },
+  {
+    "lemma": "smith",
+    "meanings_de": ["Metallhandwerker", "Häufiger Nachname"],
+    "definitions_de": ["Person, die mit Metall arbeitet, insbesondere durch Erhitzen und Hämmern", "Häufigster Nachname in englischsprachigen Ländern"],
+    "examples_de": [["Der **Schmied** fertigte Hufeisen in seiner Werkstatt", "Der Dorf**schmied** reparierte Werkzeuge und landwirtschaftliche Geräte"], ["John **Smith** wird oft als generischer Name in Beispielen verwendet", "Die Familie **Smith** lebt seit Generationen in dieser Stadt"]]
+  },
+  {
+    "lemma": "snoopy",
+    "meanings_de": ["Zeichentrick-Hundefigur"],
+    "definitions_de": ["Beliebte Beagle-Figur aus Charles Schulz' Comic-Serie Die Peanuts"],
+    "examples_de": [["**Snoopy** stellt sich oft vor, er sei ein Jagdflieger aus dem Ersten Weltkrieg", "Kinder lieben es, **Snoopy** in den Weihnachtsspecials tanzen zu sehen"]]
+  },
+  {
+    "lemma": "soho",
+    "meanings_de": ["Londoner Stadtteil", "New Yorker Viertel"],
+    "definitions_de": ["Trendiges Viertel im Londoner West End, bekannt für Unterhaltung und Nachtleben", "Stadtteil in Manhattan, bekannt für Gusseisengebäude und Kunstgalerien"],
+    "examples_de": [["Viele Theater und Restaurants befinden sich im Londoner **Soho**", "**Soho** in London ist seit Jahrhunderten ein Unterhaltungsviertel"], ["Künstler verwandelten New Yorks **SoHo** in ein kreatives Zentrum", "**SoHo** steht für South of Houston Street in Manhattan"]]
+  },
+  {
+    "lemma": "sodom",
+    "meanings_de": ["Biblische Stadt"],
+    "definitions_de": ["Antike Stadt, die laut biblischen Berichten von Gott wegen ihrer Verderbtheit zerstört wurde"],
+    "examples_de": [["Die Zerstörung von **Sodom** und Gomorra wird im Buch Genesis beschrieben", "**Sodom** wurde zum Symbol für göttliches Gericht über die Sünde"]]
+  },
+  {
+    "lemma": "sol",
+    "meanings_de": ["Sonnengott", "Musiknote"],
+    "definitions_de": ["Römischer Sonnengott in der antiken Mythologie", "Fünfte Note der Tonleiter in der Solmisation"],
+    "examples_de": [["**Sol** Invictus war eine wichtige Gottheit in der spätrömischen Religion", "Die alten Römer widmeten den 25. Dezember **Sol**"], ["Im Lied Do-Re-Mi folgt **Sol** auf Fa", "Der Chor übte, **Sol** in der richtigen Tonhöhe zu singen"]]
+  },
+  {
+    "lemma": "solomon",
+    "meanings_de": ["Biblischer König"],
+    "definitions_de": ["Weiser König von Israel, bekannt für den Bau des Ersten Tempels in Jerusalem"],
+    "examples_de": [["König **Salomo** war berühmt für seine Weisheit beim Richten von Streitigkeiten", "Das Hohelied **Salomos** wird diesem biblischen König zugeschrieben"]]
+  },
+  {
+    "lemma": "somali",
+    "meanings_de": ["Person aus Somalia", "Sprache Somalias"],
+    "definitions_de": ["Einheimischer oder Bewohner Somalias in Ostafrika", "Kuschitische Sprache, die in Somalia und benachbarten Regionen gesprochen wird"],
+    "examples_de": [["Die **somalische** Gemeinde feiert jährlich ihre kulturellen Feste", "Viele **somalische** Flüchtlinge haben sich in Minnesota niedergelassen"], ["Sie nimmt **Somali**-Unterricht, um mit Einwandererfamilien zu arbeiten", "**Somali** verwendet seit 1972 das lateinische Alphabet"]]
+  },
+  {
+    "lemma": "somalia",
+    "meanings_de": ["Afrikanisches Land"],
+    "definitions_de": ["Land am Horn von Afrika, das an Äthiopien, Kenia und den Indischen Ozean grenzt"],
+    "examples_de": [["**Somalia** hat die längste Küstenlinie auf dem afrikanischen Festland", "Internationale Bemühungen zur Stabilisierung **Somalias** dauern an"]]
+  },
+  {
+    "lemma": "sombrero",
+    "meanings_de": ["Mexikanischer Hut"],
+    "definitions_de": ["Traditioneller mexikanischer Hut mit sehr breiter Krempe zum Schutz vor der Sonne"],
+    "examples_de": [["Die Mariachi-Musiker trugen bei ihrer Aufführung verzierte **Sombreros**", "Touristen kaufen oft bunte **Sombreros** als Souvenirs aus Mexiko"]]
+  },
+  {
+    "lemma": "sophist",
+    "meanings_de": ["Antiker griechischer Lehrer"],
+    "definitions_de": ["Antiker griechischer Lehrer für Philosophie und Rhetorik, der Gebühren für seinen Unterricht verlangte"],
+    "examples_de": [["**Sophisten** reisten zwischen griechischen Städten und unterrichteten wohlhabende Schüler", "Platon kritisierte die **Sophisten** für ihre relativistischen Lehren"]]
+  },
+  {
+    "lemma": "sorbonne",
+    "meanings_de": ["Französische Universität"],
+    "definitions_de": ["Historische Universität in Paris, gegründet 1257 und Zentrum der französischen Hochschulbildung"],
+    "examples_de": [["Viele berühmte Intellektuelle haben an der **Sorbonne** studiert", "Die **Sorbonne** bleibt eine der renommiertesten Universitäten Europas"]]
+  },
+  {
+    "lemma": "sorghum",
+    "meanings_de": ["Getreideart"],
+    "definitions_de": ["Dürreresistentes Getreide, das für Nahrung, Tierfutter und Sirupproduktion angebaut wird"],
+    "examples_de": [["Landwirte pflanzen **Sorghum** in Gebieten an, die für Mais zu trocken sind", "Süße **Sorghum**-Hirse kann zu einem melasseartigen Sirup verarbeitet werden"]]
+  },
+  {
+    "lemma": "southerner",
+    "meanings_de": ["Person aus dem Süden"],
+    "definitions_de": ["Person, die im südlichen Teil eines Landes lebt oder von dort stammt"],
+    "examples_de": [["Viele **Südstaatler** zogen während der Industrialisierung für Fabrikjobs nach Norden", "Der **Südländer** sprach mit einem ausgeprägten regionalen Akzent"]]
+  },
+  {
+    "lemma": "southwestern",
+    "meanings_de": ["Regionaler Stil"],
+    "definitions_de": ["Kunst- und Architekturstil aus dem Südwesten der USA, der indianische und spanische Einflüsse vereint"],
+    "examples_de": [["Das Restaurant war im **Südwest**-Stil mit Adobe-Wänden und türkisfarbenen Akzenten eingerichtet", "Die **südwestliche** Küche kombiniert mexikanische und indianische Aromen"]]
+  },
+  {
+    "lemma": "spain",
+    "meanings_de": ["Europäisches Land"],
+    "definitions_de": ["Land in Südwesteuropa, das den größten Teil der Iberischen Halbinsel einnimmt"],
+    "examples_de": [["**Spanien** ist berühmt für Flamenco-Tanz und Stierkampf", "Viele Touristen besuchen **Spanien** wegen seiner Strände und historischen Städte"]]
+  },
+  {
+    "lemma": "spam",
+    "meanings_de": ["Dosenfleisch", "Unerwünschte Nachrichten"],
+    "definitions_de": ["Vorgekochtes Schweinefleischprodukt in Dosen, 1937 von Hormel eingeführt", "Unaufgefordert versandte Massennachrichten, besonders E-Mails"],
+    "examples_de": [["**Spam** wurde während des Zweiten Weltkriegs wegen seiner langen Haltbarkeit beliebt", "Hawaii verbraucht pro Kopf mehr **Spam** als jeder andere Bundesstaat"], ["Mein E-Mail-Filter hat diese Woche über 100 **Spam**-Nachrichten abgefangen", "Klicken Sie nicht auf Links in **Spam**-E-Mails, da sie Viren enthalten könnten"]]
+  },
+  {
+    "lemma": "spaniard",
+    "meanings_de": ["Person aus Spanien"],
+    "definitions_de": ["Staatsbürger Spaniens oder Person spanischer Abstammung"],
+    "examples_de": [["Der **Spanier** gewann das Tennisturnier zum dritten Mal in Folge", "Viele **Spanier** machen an heißen Sommertagen eine Siesta am Nachmittag"]]
+  },
+  {
+    "lemma": "sparta",
+    "meanings_de": ["Antike griechische Stadt"],
+    "definitions_de": ["Antiker griechischer Stadtstaat, bekannt für seine Militärkultur und Kriegergesellschaft"],
+    "examples_de": [["**Sparta** rivalisierte mit Athen um die Vorherrschaft im antiken Griechenland", "Junge Knaben in **Sparta** begannen mit sieben Jahren ihre militärische Ausbildung"]]
+  },
+  {
+    "lemma": "spartan",
+    "meanings_de": ["Antiker griechischer Krieger", "Asketischer Lebensstil"],
+    "definitions_de": ["Bürger oder Soldat des antiken Sparta, bekannt für Disziplin und Mut", "Lebensstil, der durch Einfachheit, Sparsamkeit und Mangel an Komfort gekennzeichnet ist"],
+    "examples_de": [["Die **spartanischen** Krieger wurden im gesamten antiken Griechenland gefürchtet", "**Spartanische** Soldaten trainierten von Kindheit an, um Elitekämpfer zu werden"], ["Ihre **spartanische** Wohnung enthielt nur die nötigsten Möbel", "Er führte ein **spartanisches** Leben, das sich auf Arbeit und Studium konzentrierte"]]
+  },
+  {
+    "lemma": "sphinx",
+    "meanings_de": ["Mythisches Wesen", "Ägyptisches Monument"],
+    "definitions_de": ["Mythisches Wesen mit Menschenkopf und Löwenkörper", "Antikes ägyptisches Monument nahe den Pyramiden von Gizeh"],
+    "examples_de": [["In der griechischen Mythologie stellte die **Sphinx** den Reisenden Rätsel", "Die **Sphinx** bewachte den Eingang zur antiken Stadt"], ["Die Große **Sphinx** von Gizeh ist über 4.500 Jahre alt", "Touristen bestaunen die massive **Sphinx** bei den Pyramiden"]]
+  },
+  {
+    "lemma": "spica",
+    "meanings_de": ["Heller Stern"],
+    "definitions_de": ["Hellster Stern im Sternbild Jungfrau und einer der hellsten Sterne am Nachthimmel"],
+    "examples_de": [["**Spica** ist tatsächlich ein Doppelsternsystem etwa 250 Lichtjahre entfernt", "Antike Bauern nutzten die Position von **Spica**, um die Pflanzzeiten zu bestimmen"]]
+  },
+  {
+    "lemma": "spock",
+    "meanings_de": ["Fiktive Figur"],
+    "definitions_de": ["Logischer halb-menschlicher, halb-vulkanischer Wissenschaftsoffizier aus der Fernsehserie Star Trek"],
+    "examples_de": [["Mr. **Spocks** berühmter Gruß lautet 'Lebe lang und in Frieden'", "**Spock** wurde zu einer Ikone für Logik und Vernunft in der Popkultur"]]
+  },
+  {
+    "lemma": "stalin",
+    "meanings_de": ["Sowjetischer Führer"],
+    "definitions_de": ["Sowjetischer Diktator, der die UdSSR von 1924 bis 1953 regierte"],
+    "examples_de": [["**Stalin** verwandelte die Sowjetunion in eine Industriemacht", "Millionen starben unter **Stalins** brutalem Regime"]]
+  },
+  {
+    "lemma": "stalingrad",
+    "meanings_de": ["Historische Stadt"],
+    "definitions_de": ["Sowjetische Stadt, Schauplatz einer wichtigen Schlacht im Zweiten Weltkrieg, heute Wolgograd"],
+    "examples_de": [["Die Schlacht von **Stalingrad** markierte einen Wendepunkt im Zweiten Weltkrieg", "**Stalingrad** erlitt monatelangen verheerenden Stadtkampf"]]
+  }
+]

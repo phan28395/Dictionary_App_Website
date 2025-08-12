@@ -1,0 +1,272 @@
+[
+  {
+    "lemma": "cassette",
+    "meanings_de": ["Magnetbandkassette"],
+    "definitions_de": ["Kunststoffgehäuse mit Magnetband zur Aufnahme oder Wiedergabe von Tönen"],
+    "examples_de": [["Sie fand eine alte **Kassette** im Dachbodenschrank", "Der **Kassettenspieler** funktionierte nach Jahren nicht mehr"]]
+  },
+  {
+    "lemma": "castaway",
+    "meanings_de": ["Schiffbrüchiger"],
+    "definitions_de": ["Person, die nach einem Schiffbruch oder durch Aussetzung isoliert gestrandet ist"],
+    "examples_de": [["Der **Schiffbrüchige** überlebte monatelang von Kokosnüssen", "Sie retteten den **Gestrandeten** von der einsamen Insel"]]
+  },
+  {
+    "lemma": "caste",
+    "meanings_de": ["gesellschaftliches Kastensystem"],
+    "definitions_de": ["erbliche Gesellschaftsschicht oder -gruppe mit eingeschränkter sozialer Interaktion"],
+    "examples_de": [["Das **Kastensystem** teilte die Gesellschaft in starre Gruppen ein", "Die **Kastenschranken** zu durchbrechen erwies sich in traditionellen Gemeinschaften als schwierig"]]
+  },
+  {
+    "lemma": "caster",
+    "meanings_de": ["Möbelrolle", "Gießer"],
+    "definitions_de": ["kleines Rad an Möbeln zur leichten Bewegung", "Person, die Material in Formen gießt oder formt"],
+    "examples_de": [["Die **Rolle** am Stuhl war kaputt und musste ersetzt werden", "Sie brachte **Rollen** an, um den Tisch beweglich zu machen"], ["Der **Metallgießer** goss flüssige Bronze in die Formen", "Ein erfahrener **Gießer** arbeitete täglich in der Gießerei"]]
+  },
+  {
+    "lemma": "casting",
+    "meanings_de": ["Besetzungsverfahren", "Gussstückherstellung"],
+    "definitions_de": ["Verfahren zur Auswahl von Schauspielern für Rollen in einer Aufführung", "durch Gießen von Material in eine Form hergestelltes Objekt"],
+    "examples_de": [["Die **Casting**-Direktorin befragte hunderte hoffnungsvolle Schauspieler", "Sie ging zum **Vorsprechen** für den neuen Film"], ["Der **Bronzeguss** erforderte durchgehend sorgfältige Temperaturkontrolle", "Sie untersuchten das **Gussstück** auf Oberflächenfehler"]]
+  },
+  {
+    "lemma": "castration",
+    "meanings_de": ["Entfernung der Fortpflanzungsorgane"],
+    "definitions_de": ["chirurgische Entfernung der Hoden bei männlichen Tieren oder Menschen"],
+    "examples_de": [["Der Tierarzt führte die **Kastration** bei den Nutztieren durch", "Die **Kastration** von Haustieren hilft bei der Kontrolle der Tierpopulation"]]
+  },
+  {
+    "lemma": "cataclysm",
+    "meanings_de": ["massive Katastrophe"],
+    "definitions_de": ["großangelegtes gewaltsames Ereignis, das große Zerstörung oder grundlegenden Wandel in Natur oder Gesellschaft verursacht"],
+    "examples_de": [["Der Asteroideneinschlag war eine **Katastrophe**, die die Dinosaurier auslöschte", "Der Krieg brachte über Nacht ein **Verhängnis** über die friedliche Region"]]
+  },
+  {
+    "lemma": "catacomb",
+    "meanings_de": ["unterirdische Grabkammer"],
+    "definitions_de": ["unterirdischer Friedhof mit Gängen und Räumen für Gräber"],
+    "examples_de": [["Touristen erkundeten die alten **Katakomben** unter der Stadt", "Die **Katakomben** enthielten tausende Grabnischen"]]
+  },
+  {
+    "lemma": "catalog",
+    "meanings_de": ["Verzeichnisdokument"],
+    "definitions_de": ["systematische Liste von Gegenständen mit Beschreibungen, oft als Nachschlagewerk"],
+    "examples_de": [["Sie durchstöberte den **Katalog**, um die richtigen Teile zu finden", "Der **Bibliothekskatalog** hilft beim Auffinden von Büchern nach Themen"]]
+  },
+  {
+    "lemma": "catalogue",
+    "meanings_de": ["Verzeichnisdokument"],
+    "definitions_de": ["systematische Liste von Gegenständen mit Beschreibungen, oft als Nachschlagewerk"],
+    "examples_de": [["Der **Museumskatalog** zeigte umfassend alle ausgestellten Kunstwerke", "Sie bestellte gestern Möbel aus dem **Online-Katalog**"]]
+  },
+  {
+    "lemma": "catalyst",
+    "meanings_de": ["Veränderungsbeschleuniger"],
+    "definitions_de": ["Substanz, die eine chemische Reaktion beschleunigt, ohne dabei verbraucht zu werden, oder Auslöser für bedeutenden Wandel"],
+    "examples_de": [["Der **Katalysator** erhöhte die Reaktionsgeschwindigkeit in den Experimenten erheblich", "Ihre Rede wurde zum **Auslöser** für gesellschaftliche Reformen"]]
+  },
+  {
+    "lemma": "catamaran",
+    "meanings_de": ["Doppelrumpfboot"],
+    "definitions_de": ["Boot mit zwei parallelen, durch einen Rahmen verbundenen Rümpfen"],
+    "examples_de": [["Der **Katamaran** segelte ruhig durch die raue See", "Sie mieteten einen **Katamaran** für ihren Tropenurlaub"]]
+  },
+  {
+    "lemma": "catapult",
+    "meanings_de": ["Belagerungswaffe", "Startvorrichtung"],
+    "definitions_de": ["antike Militärvorrichtung zum Schleudern von Geschossen auf Feinde", "Mechanismus, der Objekte mit plötzlicher Kraft startet"],
+    "examples_de": [["Mittelalterliche Armeen nutzten das **Katapult**, um Burgmauern zu durchbrechen", "Das **Katapult** schleuderte Steine über die Festungsmauern"], ["Das **Startkatapult** des Flugzeugträgers brachte Jets zum Abheben", "Sie bauten ein kleines **Katapult** für das Wissenschaftsprojekt"]]
+  },
+  {
+    "lemma": "cataract",
+    "meanings_de": ["Augenlinsentrübung", "großer Wasserfall"],
+    "definitions_de": ["medizinischer Zustand, der eine Trübung der Augenlinse verursacht und das Sehvermögen beeinträchtigt", "großer Wasserfall oder gewaltige Wassermassen"],
+    "examples_de": [["Der Arzt diagnostizierte **grauen Star** in beiden Augen", "Die **Katarakt**-Operation stellte sein Sehvermögen fast vollständig wieder her"], ["Das Boot näherte sich sehr vorsichtig dem gefährlichen **Wasserfall**", "Nebel stieg von den **Stromschnellen** auf, als das Wasser unten aufschlug"]]
+  },
+  {
+    "lemma": "catastrophe",
+    "meanings_de": ["plötzliche große Katastrophe"],
+    "definitions_de": ["plötzliches Ereignis, das großen Schaden, Leid oder dramatische Veränderung der Umstände verursacht"],
+    "examples_de": [["Das Erdbeben war eine **Katastrophe**, die ganze Städte zerstörte", "Die finanzielle **Katastrophe** traf ein, als der Markt plötzlich zusammenbrach"]]
+  },
+  {
+    "lemma": "caliphate",
+    "meanings_de": ["islamisches Herrschaftsgebiet"],
+    "definitions_de": ["islamischer Staat unter Führung eines Kalifen als politischer und religiöser Nachfolger des Propheten Mohammed"],
+    "examples_de": [["Das **Kalifat** erstreckte sich auf seinem Höhepunkt über drei Kontinente", "Verschiedene **Kalifate** herrschten im Laufe der islamischen Geschichte über verschiedene Regionen"]]
+  },
+  {
+    "lemma": "calliope",
+    "meanings_de": ["Dampforgelinstrument"],
+    "definitions_de": ["Musikinstrument mit Dampfpfeifen, das über eine Tastatur gespielt wird und oft im Zirkus verwendet wird"],
+    "examples_de": [["Die **Dampforgel** des Zirkus spielte fröhliche Melodien vor den Vorstellungen", "Dampf trieb den charakteristischen Pfeifton der **Kalliope** an"]]
+  },
+  {
+    "lemma": "calvary",
+    "meanings_de": ["Kreuzigungshügel"],
+    "definitions_de": ["Hügel außerhalb Jerusalems, wo Jesus Christus nach christlicher Überlieferung gekreuzigt wurde"],
+    "examples_de": [["Pilger besuchten **Golgatha**, um an der heiligen Stätte zu beten", "Das Gemälde stellte Christi Weg nach **Kalvarienberg** dar"]]
+  },
+  {
+    "lemma": "calvinism",
+    "meanings_de": ["protestantisches Theologiesystem"],
+    "definitions_de": ["protestantisches theologisches System nach den Lehren von Johannes Calvin mit Betonung auf Prädestination und Erlösung durch Glauben"],
+    "examples_de": [["Der **Calvinismus** verbreitete sich während der protestantischen Reformation in ganz Europa", "Die Kirche folgte in ihren Lehren dem strengen **Calvinismus**"]]
+  },
+  {
+    "lemma": "calvinist",
+    "meanings_de": ["Calvin-Lehre-Anhänger"],
+    "definitions_de": ["Person, die den religiösen Lehren und der Theologie von Johannes Calvin folgt"],
+    "examples_de": [["Der **Calvinist** glaubte fest an Prädestination und göttliche Souveränität", "Viele **Calvinisten** siedelten sich in den Kolonien der Neuen Welt an"]]
+  },
+  {
+    "lemma": "calypso",
+    "meanings_de": ["karibischer Musikstil"],
+    "definitions_de": ["westindischer Musikstil mit afrikanischen Rhythmen und aktuellen Texten aus Trinidad"],
+    "examples_de": [["Die Band spielte **Calypso**-Musik beim Strandfestival", "**Calypso**-Rhythmen erfüllten die Luft während der Karnevalsfeierlichkeiten"]]
+  },
+  {
+    "lemma": "cam",
+    "meanings_de": ["rotierendes Maschinenteil"],
+    "definitions_de": ["rotierendes Rad oder Zylinder mit unregelmäßiger Form zur Umwandlung von Dreh- in Linearbewegung"],
+    "examples_de": [["Die **Nockenwelle** steuerte präzise die Ventilzeiten des Motors", "Ingenieure entwarfen einen **Nocken**, um den Mechanismus reibungslos zu betreiben"]]
+  },
+  {
+    "lemma": "cambrian",
+    "meanings_de": ["geologische Zeitperiode"],
+    "definitions_de": ["früheste geologische Periode des Paläozoikums, gekennzeichnet durch das Auftreten vieler Tiergruppen"],
+    "examples_de": [["**Kambrische** Fossilien zeigten die Explosion vielfältiger Lebensformen", "Das **Kambrium** dauerte etwa 55 Millionen Jahre"]]
+  },
+  {
+    "lemma": "camelot",
+    "meanings_de": ["Artussagen-Schloss"],
+    "definitions_de": ["legendäres Schloss und Hof von König Artus in der britischen Mythologie und Romantik"],
+    "examples_de": [["Ritter versammelten sich in **Camelot** zu den Tafelrunden", "Die Geschichte beschrieb **Camelot** als einen Ort der Ritterlichkeit"]]
+  },
+  {
+    "lemma": "camorra",
+    "meanings_de": ["italienische Verbrecherorganisation"],
+    "definitions_de": ["geheime Verbrecherorganisation mit Ursprung in Neapel, Italien, ähnlich der Mafia"],
+    "examples_de": [["Die Polizei untersuchte **Camorra**-Aktivitäten in den südlichen Regionen", "Die **Camorra** kontrollierte illegale Geschäfte im gesamten Gebiet"]]
+  },
+  {
+    "lemma": "canton",
+    "meanings_de": ["Verwaltungsbezirk"],
+    "definitions_de": ["politische oder administrative Einheit, besonders in der Schweiz, oder Eckbereich einer Flagge"],
+    "examples_de": [["Jeder Schweizer **Kanton** hat sein eigenes lokales Regierungssystem", "Das **Obereck** der Flagge zeigte das Nationalsymbol prominent"]]
+  },
+  {
+    "lemma": "canuck",
+    "meanings_de": ["Kanadier-Spitzname"],
+    "definitions_de": ["informeller Begriff für eine kanadische Person, manchmal als beleidigend empfunden"],
+    "examples_de": [["Das Hockeyteam nannte sich stolz die **Canucks**", "Manche **Kanadier** finden den Begriff liebenswert, andere nicht"]]
+  },
+  {
+    "lemma": "capitol",
+    "meanings_de": ["Regierungsgebäude"],
+    "definitions_de": ["Gebäude, in dem die Legislative tagt, insbesondere das US-Kongressgebäude in Washington"],
+    "examples_de": [["Senatoren stiegen die **Kapitol**-Stufen zur Abstimmung hinauf", "Das **Staatskapitol** beherbergte beide Gesetzgebungskammern"]]
+  },
+  {
+    "lemma": "capricorn",
+    "meanings_de": ["Sternzeichen-Konstellation"],
+    "definitions_de": ["zehntes astrologisches Zeichen, dargestellt durch eine Ziege, vom 22. Dezember bis 19. Januar"],
+    "examples_de": [["Menschen, die im **Steinbock** geboren sind, neigen zu praktischem Denken", "Das Sternbild **Steinbock** erscheint am südlichen Himmel"]]
+  },
+  {
+    "lemma": "capsicum",
+    "meanings_de": ["Paprikagattung"],
+    "definitions_de": ["Pflanzengattung, die Paprika produziert, einschließlich Gemüsepaprika und Chilischoten"],
+    "examples_de": [["Der Garten enthielt mehrere Sorten von **Paprika**pflanzen", "Rote **Paprika** brachte Farbe in den frischen Salat"]]
+  },
+  {
+    "lemma": "cardigan",
+    "meanings_de": ["Strickjacke mit Knöpfen"],
+    "definitions_de": ["gestrickter Pullover oder Jacke, die vorne mit Knöpfen geöffnet wird"],
+    "examples_de": [["Sie trug eine **Strickjacke** über ihrem Kleid für Wärme", "Die **Wolljacke** hatte dekorative Knöpfe an der Vorderseite"]]
+  },
+  {
+    "lemma": "carioca",
+    "meanings_de": ["Rio-Einwohner"],
+    "definitions_de": ["Einheimischer oder Bewohner von Rio de Janeiro, Brasilien"],
+    "examples_de": [["Der **Carioca** zeigte Touristen die besten Orte der Stadt", "Viele **Cariocas** feiern Karneval mit leidenschaftlicher Begeisterung"]]
+  },
+  {
+    "lemma": "carmelite",
+    "meanings_de": ["katholischer Orden"],
+    "definitions_de": ["Mitglied des römisch-katholischen Ordens, der auf dem Berg Karmel gegründet wurde"],
+    "examples_de": [["Die **Karmeliter**-Nonnen lebten im abgeschiedenen Kloster", "**Karmelitische** Spiritualität betont Kontemplation und Gebet"]]
+  },
+  {
+    "lemma": "carolingian",
+    "meanings_de": ["fränkische Dynastiezeit"],
+    "definitions_de": ["bezogen auf die von Karl dem Großen gegründete fränkische Dynastie, die das mittelalterliche Europa regierte"],
+    "examples_de": [["**Karolingische** Handschriften bewahrten altes Wissen für zukünftige Generationen", "Das **karolingische** Reich vereinte einen Großteil Westeuropas"]]
+  },
+  {
+    "lemma": "cartesian",
+    "meanings_de": ["Descartes-Philosophiesystem"],
+    "definitions_de": ["bezogen auf den französischen Philosophen Descartes oder seine mathematischen und philosophischen Methoden"],
+    "examples_de": [["Schüler trugen Punkte im **kartesischen** Koordinatensystem ein", "**Kartesische** Logik beeinflusste das moderne wissenschaftliche Denken erheblich"]]
+  },
+  {
+    "lemma": "carthusian",
+    "meanings_de": ["Mönchsordenmitglied"],
+    "definitions_de": ["Mitglied des strengen katholischen Mönchsordens, gegründet vom heiligen Bruno"],
+    "examples_de": [["Die **Kartäuser**-Mönche lebten schweigend in einzelnen Zellen", "**Kartäuser**klöster hielten strenge Regeln der Einsamkeit ein"]]
+  },
+  {
+    "lemma": "carver",
+    "meanings_de": ["Schnitzer"],
+    "definitions_de": ["Person, die Materialien, besonders Holz oder Stein, künstlerisch schneidet oder formt"],
+    "examples_de": [["Der **Holzschnitzer** schuf kunstvolle Designs auf Möbeln", "Ein geschickter **Bildhauer** verwandelte den Marmor in eine Skulptur"]]
+  },
+  {
+    "lemma": "cashmere",
+    "meanings_de": ["feine Ziegenwolle"],
+    "definitions_de": ["feine, weiche Wolle von Kaschmirziegen, verwendet für Luxuskleidung"],
+    "examples_de": [["Der **Kaschmirpullover** fühlte sich unglaublich weich auf ihrer Haut an", "Echtes **Kaschmir** stammt von bestimmten Himalaya-Ziegenrassen"]]
+  },
+  {
+    "lemma": "cassandra",
+    "meanings_de": ["Unheilsprophetin"],
+    "definitions_de": ["Person, die Unglück oder Katastrophen vorhersagt, besonders wenn Warnungen nicht geglaubt werden"],
+    "examples_de": [["Sie wurde zur **Kassandra** des Büros, die vor Budgetproblemen warnte", "Wie **Kassandra** blieben seine zutreffenden Vorhersagen völlig unbeachtet"]]
+  },
+  {
+    "lemma": "cassia",
+    "meanings_de": ["Zimtbaumart"],
+    "definitions_de": ["Baum, der aromatische Rinde produziert, ähnlich wie Zimt, als Gewürz verwendet"],
+    "examples_de": [["**Kassienrinde** würzte die traditionellen Weihnachtsplätzchen perfekt", "Der Markt verkaufte sowohl echten Zimt als auch **Kassie**"]]
+  },
+  {
+    "lemma": "castor",
+    "meanings_de": ["Biberölsubstanz", "Möbelrolle"],
+    "definitions_de": ["ölige Substanz aus Biberdrüsen, verwendet in Parfüm und Medizin", "kleine schwenkbare Rolle für Möbel"],
+    "examples_de": [["Parfümeure schätzten einst **Bibergeil** wegen seines moschusartigen Dufts", "Das Medikament enthielt **Castoreum** als Wirkstoff"], ["Der Schreibtisch bewegte sich leicht auf seinen **Laufrollen**", "Eine **Rolle** brach, wodurch der Stuhl wackelte"]]
+  },
+  {
+    "lemma": "caterpillar",
+    "meanings_de": ["Schmetterlingslarve"],
+    "definitions_de": ["wurmartige Larve von Schmetterling oder Motte, die sich von Pflanzen ernährt"],
+    "examples_de": [["Die **Raupe** fraß jeden Tag durch mehrere Blätter", "Eine pelzige **Raupe** kroch am Gartenzweig entlang"]]
+  },
+  {
+    "lemma": "catholicism",
+    "meanings_de": ["christliche Kirchentradition"],
+    "definitions_de": ["religiöser Glaube und Praxis der römisch-katholischen Kirche unter Führung des Papstes"],
+    "examples_de": [["Der **Katholizismus** verbreitete sich während der Kolonialisierung in ganz Lateinamerika", "Sie konvertierte vor ihrer Hochzeit zum **Katholizismus**"]]
+  },
+  {
+    "lemma": "caucasian",
+    "meanings_de": ["hellhäutige Rassenklassifikation"],
+    "definitions_de": ["Person europäischer Abstammung mit heller Haut, historisch in der Rassenklassifikation verwendet"],
+    "examples_de": [["Das Volkszählungsformular führte **kaukasisch** als ethnische Kategorie auf", "Viele **Kaukasier** siedelten sich während der Expansion in der Region an"]]
+  },
+  {
+    "lemma": "cavalier",
+    "meanings_de": ["berittener Soldat", "überhebliche Person"],
+    "definitions_de": ["zu Pferde kämpfender Soldat, besonders Unterstützer von König Karl im englischen Bürgerkrieg", "Person mit arroganter oder abweisender Haltung"],
+    "examples_de": [["Der **Kavalier** stürmte mit erhobenem Schwert in die Schlacht", "Royalistische **Kavaliere** kämpften erbittert gegen die Parlamentstruppen"], ["Seine **sorglose** Einstellung zur Sicherheit beunruhigte seine Kollegen", "Sie gab eine **gleichgültige** Antwort auf ernste Fragen"]]
+  }
+]

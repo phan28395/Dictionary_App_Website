@@ -1,0 +1,284 @@
+[
+  {
+    "lemma": "workbench",
+    "meanings_de": ["Werkbank für Handarbeit"],
+    "definitions_de": ["Stabiler Tisch oder Arbeitsfläche, die speziell für handwerkliche Arbeiten wie Tischlerei oder Reparaturen konzipiert ist"],
+    "examples_de": [["Der Schreiner ordnete seine Werkzeuge auf der **Werkbank**, bevor er mit der Arbeit begann", "Sie baute das Modellflugzeug an der alten **Werkbank** ihres Vaters"]]
+  },
+  {
+    "lemma": "workbook",
+    "meanings_de": ["Übungsheft für Bildung"],
+    "definitions_de": ["Heft oder Buch mit Übungen und Aufgaben, mit denen Schüler ihre Fähigkeiten trainieren können"],
+    "examples_de": [["Die Schüler lösten während des Unterrichts Mathematikaufgaben in ihren **Arbeitsheften**", "Das **Übungsheft** für Sprachen enthielt Grammatikübungen und Vokabeltraining"]]
+  },
+  {
+    "lemma": "workday",
+    "meanings_de": ["Arbeitstag"],
+    "definitions_de": ["Zeitraum, während dessen gearbeitet wird, typischerweise acht Stunden"],
+    "examples_de": [["Ihr normaler **Arbeitstag** beginnt um neun und endet um fünf Uhr", "Die Bauarbeiter verlängerten ihren **Arbeitstag**, um das Projekt fertigzustellen"]]
+  },
+  {
+    "lemma": "workflow",
+    "meanings_de": ["Arbeitsablauf"],
+    "definitions_de": ["Organisierte Abfolge von Schritten oder Prozessen, durch die eine Arbeit vom Anfang bis zum Ende fortschreitet"],
+    "examples_de": [["Die neue Software verbesserte unseren **Arbeitsablauf** bei der Dokumentenfreigabe erheblich", "Die Marketingabteilung gestaltete ihren **Workflow** neu, um unnötige Engpässe zu beseitigen"]]
+  },
+  {
+    "lemma": "workforce",
+    "meanings_de": ["Gesamtheit der Arbeitskräfte"],
+    "definitions_de": ["Alle Personen, die in einem Unternehmen oder Land arbeiten oder für Arbeit zur Verfügung stehen"],
+    "examples_de": [["Das Unternehmen erweiterte seine **Belegschaft** durch die Einstellung von fünfzig neuen Mitarbeitern", "Die Automatisierung hat die erforderlichen Fähigkeiten in der heutigen **Arbeitnehmerschaft** verändert"]]
+  },
+  {
+    "lemma": "workhorse",
+    "meanings_de": ["zuverlässiger Arbeiter", "robuste Arbeitsausrüstung"],
+    "definitions_de": ["Person, die beständig und zuverlässig an schwierigen Aufgaben arbeitet", "Maschine oder Fahrzeug, das unter starker Beanspruchung zuverlässig funktioniert"],
+    "examples_de": [["Sarah ist seit Jahren das **Arbeitstier** unserer Abteilung", "Das Buchhaltungsteam behandelt Jim wie ihr **Zugpferd** während jeder Steuersaison"], ["Dieser alte Lastwagen war zwanzig Jahre lang unser **Arbeitspferd**", "Der Drucker wurde während der Berichtssaison zum **Arbeitstier** des Büros"]]
+  },
+  {
+    "lemma": "workhouse",
+    "meanings_de": ["historische Armenanstalt"],
+    "definitions_de": ["Einrichtung, in der arme Menschen untergebracht wurden und im Austausch für Essen und Unterkunft arbeiten mussten"],
+    "examples_de": [["Die **Arbeitshäuser** im viktorianischen England waren für ihre harten Bedingungen berüchtigt", "Das alte **Armenhaus** wurde zu Wohnungen umgebaut"]]
+  },
+  {
+    "lemma": "workload",
+    "meanings_de": ["Arbeitsmenge"],
+    "definitions_de": ["Gesamtmenge an Arbeit, die einer Person oder Maschine zugewiesen oder von ihr erwartet wird"],
+    "examples_de": [["Die Lehrer beklagten sich über ihre jedes Semester steigende **Arbeitsbelastung**", "Der Server stürzte aufgrund einer unerwartet hohen **Arbeitslast** ab"]]
+  },
+  {
+    "lemma": "workman",
+    "meanings_de": ["Handwerker"],
+    "definitions_de": ["Mann, der körperliche oder handwerkliche Arbeit verrichtet, besonders im Bau- oder Wartungsbereich"],
+    "examples_de": [["Der **Handwerker** kam früh, um das kaputte Fenster zu reparieren", "Mehrere **Arbeiter** renovierten das alte viktorianische Haus"]]
+  },
+  {
+    "lemma": "workmanship",
+    "meanings_de": ["Verarbeitungsqualität"],
+    "definitions_de": ["Geschick und Qualität, die in etwas Handgefertigtem oder in der ausgeführten Arbeit erkennbar sind"],
+    "examples_de": [["Die Möbel zeigten in jedem geschnitzten Detail hervorragende **Handwerkskunst**", "Schlechte **Verarbeitung** führte dazu, dass die Terrasse nach einem Winter einstürzte"]]
+  },
+  {
+    "lemma": "workspace",
+    "meanings_de": ["Arbeitsbereich"],
+    "definitions_de": ["Physischer Bereich oder Umgebung, in der jemand arbeitet, einschließlich Schreibtisch, Werkzeuge und Ausstattung"],
+    "examples_de": [["Sie organisierte ihren **Arbeitsplatz**, um Produktivität und Komfort zu maximieren", "Das offene Bürodesign schuf gemeinsame **Arbeitsbereiche** für die Zusammenarbeit"]]
+  },
+  {
+    "lemma": "workstation",
+    "meanings_de": ["ausgestatteter Arbeitsplatz", "leistungsstarker Computer"],
+    "definitions_de": ["Schreibtisch oder Bereich, der mit Werkzeugen und Geräten für eine bestimmte Aufgabe ausgestattet ist", "Hochleistungscomputer, der für technische oder wissenschaftliche Anwendungen entwickelt wurde"],
+    "examples_de": [["Jedem Mitarbeiter wurde ein **Arbeitsplatz** mit zwei Monitoren zugewiesen", "Der ergonomische **Arbeitsplatz** half, ihre Rückenschmerzen zu lindern"], ["Der Grafikdesigner benötigte eine leistungsstarke **Workstation** zum Rendern", "Ingenieur-**Workstations** können Tausende von Euro kosten"]]
+  },
+  {
+    "lemma": "worm",
+    "meanings_de": ["weichhäutiges wirbelloses Tier", "Computer-Schadsoftware"],
+    "definitions_de": ["Längliches, weichhäutiges wirbelloses Tier ohne Gliedmaßen, das im Boden lebt", "Bösartiges Computerprogramm, das sich selbst repliziert, um sich auf andere Computer auszubreiten"],
+    "examples_de": [["**Regenwürmer** helfen, den Boden im Garten zu belüften", "Das Rotkehlchen zog einen **Wurm** aus dem nassen Gras"], ["Der Computer-**Wurm** infizierte über Nacht Tausende von Systemen", "Die IT-Sicherheit blockierte den E-Mail-**Wurm**, bevor er sich ausbreiten konnte"]]
+  },
+  {
+    "lemma": "wormhole",
+    "meanings_de": ["theoretischer Raumdurchgang"],
+    "definitions_de": ["Hypothetischer Tunnel durch die Raumzeit, der Abkürzungen für lange Reisen durch das Universum schaffen könnte"],
+    "examples_de": [["Wissenschaftler diskutieren, ob **Wurmlöcher** tatsächlich in der Realität existieren könnten", "Der Science-Fiction-Film zeigte eine Reise durch ein **Wurmloch**"]]
+  },
+  {
+    "lemma": "worrying",
+    "meanings_de": ["besorgte Grübeltätigkeit"],
+    "definitions_de": ["Handlung oder Zustand des Gefühls von Angst und Sorge über tatsächliche oder potenzielle Probleme"],
+    "examples_de": [["Das ständige **Grübeln** über die Zukunft beeinträchtigte ihren Schlaf", "Seine **Besorgnis** nahm zu, als die Deadline näher rückte"]]
+  },
+  {
+    "lemma": "worse",
+    "meanings_de": ["schlechterer Vergleichszustand"],
+    "definitions_de": ["Ungünstigerer, unbefriedigenderer oder unangenehmerer Zustand im Vergleich zu einem anderen"],
+    "examples_de": [["Das Wetter wurde **schlimmer**, als der Sturm sich näherte", "Sein Zustand war **schlimmer**, als die Ärzte anfangs dachten"]]
+  },
+  {
+    "lemma": "worsening",
+    "meanings_de": ["Verschlechterungsprozess"],
+    "definitions_de": ["Prozess des fortschreitenden Schlechter- oder Schwererwerdens über die Zeit"],
+    "examples_de": [["Die **Verschlechterung** der Luftqualität führte zu Gesundheitswarnungen", "Wirtschaftsindikatoren zeigten eine **Verschlechterung** der Marktbedingungen"]]
+  },
+  {
+    "lemma": "worship",
+    "meanings_de": ["religiöse Verehrungspraxis"],
+    "definitions_de": ["Handlungen religiöser Hingabe und Ehrfurcht, die einer Gottheit oder einem heiligen Objekt erwiesen werden"],
+    "examples_de": [["Der sonntägliche **Gottesdienst** beginnt punkt zehn Uhr", "Verschiedene Kulturen haben einzigartige Formen der **Anbetung** und des Gebets"]]
+  },
+  {
+    "lemma": "worshipper",
+    "meanings_de": ["Person in Anbetung"],
+    "definitions_de": ["Person, die einer Gottheit durch religiöse Praktiken Ehrfurcht und Verehrung erweist"],
+    "examples_de": [["**Gläubige** füllten den Tempel während des religiösen Festes", "Der frühmorgendliche **Betende** betete still in der Kapelle"]]
+  },
+  {
+    "lemma": "worst",
+    "meanings_de": ["ungünstigstes Extrem"],
+    "definitions_de": ["Ungünstigste, schwierigste oder unangenehmste Situation oder Eigenschaft in einer Reihe von Möglichkeiten"],
+    "examples_de": [["Dies war der **schlimmste** Sturm, den die Region seit Jahrzehnten erlebt hatte", "Sie bereitete sich auf das **Schlimmste** vor"]]
+  },
+  {
+    "lemma": "wounded",
+    "meanings_de": ["verletzte Personen kollektiv"],
+    "definitions_de": ["Menschen, die verletzt wurden, besonders in Kriegen oder bei Unfällen"],
+    "examples_de": [["Sanitäter eilten herbei, um den **Verwundeten** nach der Explosion zu helfen", "Das Krankenhaus behandelte Dutzende **Verletzte** vom Unfall"]]
+  },
+  {
+    "lemma": "wounding",
+    "meanings_de": ["Verletzungsakt"],
+    "definitions_de": ["Handlung oder Prozess des Zufügens körperlicher Verletzungen oder emotionalen Schadens bei jemandem"],
+    "examples_de": [["Die **Verwundung** von Zivilisten verstieß gegen internationales Recht", "Ihre **verletzenden** Bemerkungen trafen ihn tief"]]
+  },
+  {
+    "lemma": "wow",
+    "meanings_de": ["Erstaunensausdruck"],
+    "definitions_de": ["Ausruf, der Erstaunen, Bewunderung oder beeindruckende Überraschung ausdrückt"],
+    "examples_de": [["Das Publikum stieß ein kollektives **Wow** beim Zaubertrick aus", "Ihre Leistung erntete **Begeisterungsrufe** von allen Juroren"]]
+  },
+  {
+    "lemma": "wraith",
+    "meanings_de": ["geisterhafte Erscheinung"],
+    "definitions_de": ["Geist oder gespenstische Erscheinung einer Person, besonders kurz vor oder nach dem Tod gesehen"],
+    "examples_de": [["Ein **Geist** erschien im Nebel nahe dem Friedhof", "Die blasse Gestalt sah aus wie ein **Gespenst** im Mondlicht"]]
+  },
+  {
+    "lemma": "wrangler",
+    "meanings_de": ["Viehhüter", "Streitschlichter"],
+    "definitions_de": ["Person, die sich um Pferde oder Rinder auf einer Ranch kümmert und sie handhabt", "Person, die sich in langwierige Streitigkeiten oder Auseinandersetzungen einlässt"],
+    "examples_de": [["Der **Viehtreiber** trieb die Pferde bei Tagesanbruch zusammen", "Ein erfahrener **Pferdeführer** leitete Touristen auf dem Reitweg"], ["Der **Chefunterhändler** vermittelte zwischen den zerstrittenen Abteilungen", "Sie wurde als **Streitschlichterin** für schwierige Kunden bekannt"]]
+  },
+  {
+    "lemma": "wrangling",
+    "meanings_de": ["Streitführung", "Viehhandhabung"],
+    "definitions_de": ["Beteiligung an komplizierten oder langwierigen Streitigkeiten und Auseinandersetzungen", "Tätigkeit des Hütens, Handhabens oder Verwaltens von Vieh"],
+    "examples_de": [["Politisches **Gezänk** verzögerte das Gesetz monatelang", "Ihr ständiges **Streiten** störte das gesamte Treffen"], ["Das **Viehtreiben** erfordert Geschick und Geduld", "Er verbrachte die Sommer damit, auf der Ranch seines Onkels Pferde zu **hüten**"]]
+  },
+  {
+    "lemma": "wraparound",
+    "meanings_de": ["umlaufendes Designelement"],
+    "definitions_de": ["Design oder Merkmal, das sich um etwas krümmt oder erstreckt, um es einzuschließen oder zu umgeben"],
+    "examples_de": [["Das Haus hatte eine wunderschöne **umlaufende** Veranda", "Sie trug eine stylische **Rundum-Sonnenbrille** am Strand"]]
+  },
+  {
+    "lemma": "wrapper",
+    "meanings_de": ["Umhüllungsmaterial"],
+    "definitions_de": ["Stück Papier, Plastik oder Folie, das etwas bedeckt, um es zu schützen oder zu enthalten"],
+    "examples_de": [["Sie entfernte vorsichtig das **Bonbonpapier** und warf es weg", "Das Sandwich kam in einer biologisch abbaubaren **Verpackung**"]]
+  },
+  {
+    "lemma": "wrapping",
+    "meanings_de": ["Verpackungsmaterial", "Einwickelvorgang"],
+    "definitions_de": ["Material, das zum Abdecken oder Schützen von etwas verwendet wird, besonders bei Geschenken", "Handlung des Bedeckens von etwas mit Papier, Stoff oder anderem Material"],
+    "examples_de": [["Das **Geschenkpapier** zeigte ein festliches Weihnachtsmuster", "Sie bewahrte das schöne **Einwickelpapier** zur Wiederverwendung auf"], ["Das **Einpacken** der Geschenke dauerte am Heiligabend Stunden", "Sorgfältiges **Verpacken** schützte die zerbrechlichen Artikel während des Versands"]]
+  },
+  {
+    "lemma": "wrath",
+    "meanings_de": ["intensiver Zorn"],
+    "definitions_de": ["Extremer Ärger oder Wut, oft mit einem Wunsch nach Rache oder Bestrafung"],
+    "examples_de": [["Der **Zorn** des Königs traf jene, die ihn verraten hatten", "Sie sah sich dem **Zorn** ihrer Mutter gegenüber, nachdem sie die Vase zerbrochen hatte"]]
+  },
+  {
+    "lemma": "wreath",
+    "meanings_de": ["kreisförmige Dekoration"],
+    "definitions_de": ["Kreisförmige Anordnung von Blumen, Blättern oder anderem Material, die als Dekoration oder Ehrung verwendet wird"],
+    "examples_de": [["Ein weihnachtlicher **Kranz** hing an der Haustür", "Sie legten einen Gedenk**kranz** am Grab nieder"]]
+  },
+  {
+    "lemma": "wreck",
+    "meanings_de": ["zerstörte Überreste", "zerstörerischer Unfall"],
+    "definitions_de": ["Schwer beschädigte oder zerstörte Überreste von etwas, besonders eines Fahrzeugs", "Unfall oder Vorfall, der schwere Schäden oder Zerstörung verursacht"],
+    "examples_de": [["Taucher erkundeten das alte **Schiffswrack** auf dem Meeresboden", "Das Auto**wrack** blockierte stundenlang den Verkehr"], ["Der Zug**unfall** resultierte aus einem Signalfehler", "Der Sturm verursachte mehrere **Unfälle** auf der Autobahn"]]
+  },
+  {
+    "lemma": "wreckage",
+    "meanings_de": ["verstreute Trümmer"],
+    "definitions_de": ["Zerbrochene Überreste oder Trümmer von etwas, das schwer beschädigt oder zerstört wurde"],
+    "examples_de": [["Ermittler durchsuchten die **Trümmer** nach Überlebenden", "Der Tornado hinterließ **Trümmer**, die über die ganze Nachbarschaft verstreut waren"]]
+  },
+  {
+    "lemma": "wrecker",
+    "meanings_de": ["Abbruchgerät", "Abschleppfahrzeug"],
+    "definitions_de": ["Person oder Maschine, die Gebäude oder Strukturen abreißt", "Fahrzeug, das dazu bestimmt ist, beschädigte oder illegal geparkte Fahrzeuge abzuschleppen"],
+    "examples_de": [["Die **Abrissbirne** zerstörte das verurteilte Gebäude in Stunden", "Ein professioneller **Abbruchunternehmer** zerlegte sorgfältig die alte Brücke"], ["Der **Abschleppwagen** kam, um das liegengebliebene Auto abzuholen", "Die Polizei rief einen **Abschlepper**, um das verlassene Fahrzeug zu entfernen"]]
+  },
+  {
+    "lemma": "wrecking",
+    "meanings_de": ["Abrisstätigkeit"],
+    "definitions_de": ["Handlung des Abrisses oder schweren Beschädigens von Gebäuden, Fahrzeugen oder anderen Strukturen"],
+    "examples_de": [["Der **Abriss** des alten Stadions begann bei Tagesanbruch", "**Abbruchteams** arbeiteten die ganze Nacht hindurch, um Trümmer zu beseitigen"]]
+  },
+  {
+    "lemma": "wren",
+    "meanings_de": ["kleiner Singvogel"],
+    "definitions_de": ["Kleiner brauner Singvogel mit kurzem aufrechtem Schwanz und lautem melodischem Gesang"],
+    "examples_de": [["Ein **Zaunkönig** baute sein Nest im Gartenschuppen", "Der winzige **Zaunkönig** sang laut aus der Hecke"]]
+  },
+  {
+    "lemma": "wrench",
+    "meanings_de": ["Greifwerkzeug", "plötzliche Verdrehung"],
+    "definitions_de": ["Werkzeug mit Backen zum Greifen und Drehen von Muttern, Bolzen oder Rohren", "Plötzliche heftige Drehung oder Zug, die Schmerzen oder Schäden verursacht"],
+    "examples_de": [["Der Mechaniker wählte den **Schraubenschlüssel** in der richtigen Größe für die Arbeit", "Sie bewahrte einen **Maulschlüssel** im Notfallset ihres Autos auf"], ["Er spürte eine schmerzhafte **Zerrung** in seiner Schulter während des Spiels", "Der emotionale **Schmerz** des Abschieds von zu Hause war schwierig"]]
+  },
+  {
+    "lemma": "wrestle",
+    "meanings_de": ["Ringkampf-Sportwettkampf"],
+    "definitions_de": ["Körperlicher Wettkampf oder Sport, bei dem Gegner ringen und versuchen, sich gegenseitig zu werfen oder festzuhalten"],
+    "examples_de": [["Der Meisterschafts**kampf** dauerte dreißig intensive Minuten", "Ihr freundschaftlicher **Ringkampf** auf dem Rasen endete mit Gelächter"]]
+  },
+  {
+    "lemma": "wrestler",
+    "meanings_de": ["Ringkampf-Sportler"],
+    "definitions_de": ["Person, die am Ringen als Sport oder professioneller Unterhaltung teilnimmt"],
+    "examples_de": [["Der **Ringer** trainierte täglich sechs Stunden für die Olympischen Spiele", "Professionelle **Wrestler** kombinieren Athletik mit theatralischer Darbietung"]]
+  },
+  {
+    "lemma": "wrestling",
+    "meanings_de": ["Ringkampfsport"],
+    "definitions_de": ["Sport mit Grifftechniken, bei dem Gegner versuchen, körperliche Überlegenheit zu erlangen"],
+    "examples_de": [["**Ringen** an der High School erfordert Kraft und strategisches Denken", "Professionelles **Wrestling** kombiniert Athletik mit Unterhaltung"]]
+  },
+  {
+    "lemma": "wretch",
+    "meanings_de": ["elende Person"],
+    "definitions_de": ["Unglückliche oder unglückliche Person, die Mitleid oder Verachtung verdient"],
+    "examples_de": [["Der arme **Elende** hatte alles im Feuer verloren", "Er fühlte sich wie ein **Schuft**, nachdem er seinen Freund verraten hatte"]]
+  },
+  {
+    "lemma": "wright",
+    "meanings_de": ["geschickter Handwerker"],
+    "definitions_de": ["Arbeiter, der in der Herstellung oder dem Bau von Dingen geschickt ist, besonders mit Holz"],
+    "examples_de": [["Der **Schiffsbauer** formte sorgfältig jedes Holz für das Schiff", "Ein **Stellmacher** reparierte das gebrochene Rad des Wagens"]]
+  },
+  {
+    "lemma": "wrinkle",
+    "meanings_de": ["Hautfaltenlinie", "Stofffalte"],
+    "definitions_de": ["Linie oder Falte in der Haut, verursacht durch Alterung oder Gesichtsausdrücke", "Kleine Linie oder Falte in Stoff oder Papier"],
+    "examples_de": [["Lachfalten bildeten **Fältchen** um ihre Augen", "Der Dermatologe empfahl eine Creme zur Reduzierung von **Falten**"], ["Sie bügelte jede **Falte** aus ihrem Vorstellungsoutfit", "Das Papier hatte eine **Knitterfalte** vom Falten"]]
+  },
+  {
+    "lemma": "wristwatch",
+    "meanings_de": ["Armbanduhr"],
+    "definitions_de": ["Kleine Uhr, die an einem Band oder Armband um das Handgelenk getragen wird"],
+    "examples_de": [["Seine Vintage-**Armbanduhr** war ein Familienerbstück", "Sie schaute auf ihre **Armbanduhr** und eilte zum Meeting"]]
+  },
+  {
+    "lemma": "writ",
+    "meanings_de": ["formeller Gerichtsbeschluss"],
+    "definitions_de": ["Formeller schriftlicher Befehl, der von einem Gericht oder einer Justizbehörde ausgestellt wird und eine bestimmte Handlung anordnet"],
+    "examples_de": [["Das Gericht erließ einen **Beschluss**, der sein Erscheinen forderte", "Anwälte reichten einen **Haftprüfungsantrag** ein"]]
+  },
+  {
+    "lemma": "wrongdoing",
+    "meanings_de": ["illegales oder unmoralisches Verhalten"],
+    "definitions_de": ["Illegales, unehrliches oder moralisch falsches Verhalten oder Aktivität, die gegen Gesetze oder ethische Standards verstößt"],
+    "examples_de": [["Die Untersuchung deckte jahrelanges **Fehlverhalten** des Unternehmens auf", "Sie weigerte sich, an jeglichem **Vergehen** bei der Arbeit teilzunehmen"]]
+  },
+  {
+    "lemma": "lodge",
+    "meanings_de": ["rustikale Unterkunft", "Bruderschaftsorganisation"],
+    "definitions_de": ["Gebäude, das vorübergehende Unterkunft bietet, oft in ländlichen oder Erholungsgebieten", "Lokale Niederlassung oder Treffpunkt einer Bruderschaftsorganisation"],
+    "examples_de": [["Die **Skihütte** bot warme Betten nach kalten Tagen auf der Piste", "Sie übernachteten in einer **Jagdhütte** tief im Wald"], ["Er besuchte jeden Donnerstagabend die Versammlung der Freimaurer**loge**", "Die **Loge** stimmte über die Aufnahme neuer Mitglieder ab"]]
+  }
+]

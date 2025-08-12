@@ -1,0 +1,284 @@
+[
+  {
+    "lemma": "neon",
+    "meanings_de": ["Gas für Beleuchtung", "greller Farbstil"],
+    "definitions_de": ["farbloses Edelgas, das bei elektrischer Ladung hell orange-rot leuchtet", "grelle Leuchtfarben oder Designs, die mit dem Stil von Neonbeleuchtung verbunden sind"],
+    "examples_de": [["Das **Neonschild** flackerte vor dem amerikanischen Diner", "Wissenschaftler verwenden **Neon** in der Lasertechnologie"], ["Sie trug **neonfarbene** Turnschuhe zur Party", "Die **Neon**-Ästhetik des Clubs zog ein junges Publikum an"]]
+  },
+  {
+    "lemma": "neophyte",
+    "meanings_de": ["Anfänger oder Neuling"],
+    "definitions_de": ["Person, die neu in einem Fachgebiet, einer Fertigkeit oder einem Glaubenssystem ist"],
+    "examples_de": [["Der **Neuling** im Programmieren kämpfte mit grundlegenden Konzepten", "Als **Neueinsteigerin** im Investmentbereich suchte sie professionellen Rat"]]
+  },
+  {
+    "lemma": "nephew",
+    "meanings_de": ["Sohn des Geschwisters"],
+    "definitions_de": ["männliches Kind des Bruders, der Schwester oder der angeheirateten Geschwister"],
+    "examples_de": [["Mein **Neffe** hat dieses Jahr mit dem Studium begonnen", "Sie kaufte ihrem **Neffen** ein Geburtstagsgeschenk"]]
+  },
+  {
+    "lemma": "nepotism",
+    "meanings_de": ["Vetternwirtschaft"],
+    "definitions_de": ["Praxis der Bevorzugung von Verwandten oder Freunden bei beruflichen Ernennungen"],
+    "examples_de": [["Das Unternehmen sah sich Vorwürfen der **Vetternwirtschaft** bei Einstellungen ausgesetzt", "**Nepotismus** untergrub die Glaubwürdigkeit und Fairness der Organisation"]]
+  },
+  {
+    "lemma": "nerd",
+    "meanings_de": ["technikbegeisterte Person"],
+    "definitions_de": ["Person mit extremem Interesse an technischen oder intellektuellen Themen, oft sozial unbeholfen"],
+    "examples_de": [["Der Computer-**Nerd** half allen bei technischen Problemen", "Sie bezeichnete sich stolz als Science-Fiction-**Nerd**"]]
+  },
+  {
+    "lemma": "nestling",
+    "meanings_de": ["Jungvogel"],
+    "definitions_de": ["junger Vogel, der das Nest noch nicht verlassen hat"],
+    "examples_de": [["Das Rotkehlchen fütterte seine **Nestlinge** mit Würmern", "Drei winzige **Jungvögel** zwitscherten laut nach Futter"]]
+  },
+  {
+    "lemma": "netball",
+    "meanings_de": ["Mannschaftsballsport"],
+    "definitions_de": ["dem Basketball ähnlicher Sport, hauptsächlich von Frauen gespielt, mit sieben Spielern pro Team"],
+    "examples_de": [["Sie spielte während ihrer gesamten Schulzeit **Netzball**", "Das **Netball**-Team trainierte zweimal wöchentlich für Wettkämpfe"]]
+  },
+  {
+    "lemma": "netherworld",
+    "meanings_de": ["Unterwelt oder Hölle", "verborgene Verbrecherwelt"],
+    "definitions_de": ["mythologischer Ort, wohin die Geister der Toten gehen, oft als unterirdisch dargestellt", "geheime Welt illegaler oder unmoralischer Aktivitäten in der Gesellschaft"],
+    "examples_de": [["Antike Mythen beschrieben Reisen in die **Unterwelt**", "Der Held stieg in die **Totenwelt** hinab, um Seelen zu retten"], ["Der Detektiv ermittelte in der kriminellen **Unterwelt** der Stadt", "Drogendealer operierten in der städtischen **Schattenwelt**"]]
+  },
+  {
+    "lemma": "netting",
+    "meanings_de": ["Netzmaterial"],
+    "definitions_de": ["Material aus Fäden, die zu einem offenen Maschenmuster gewebt oder geknotet sind"],
+    "examples_de": [["Das Moskito**netz** schützte Schlafende vor Insektenstichen", "Der Gärtner bedeckte Pflanzen mit schützendem **Netz**"]]
+  },
+  {
+    "lemma": "nettle",
+    "meanings_de": ["Brennnessel"],
+    "definitions_de": ["Pflanze mit Blättern, die mit brennenden Haaren bedeckt sind und Reizungen verursachen"],
+    "examples_de": [["Sie streifte beim Wandern versehentlich **Brennnesseln**", "**Brennnessel**suppe ist trotz des Brennens der Pflanze überraschend nahrhaft"]]
+  },
+  {
+    "lemma": "neurologist",
+    "meanings_de": ["Facharzt für Nervenheilkunde"],
+    "definitions_de": ["Arzt, der sich auf die Diagnose und Behandlung von Erkrankungen des Nervensystems spezialisiert hat"],
+    "examples_de": [["Der **Neurologe** ordnete eine MRT-Untersuchung ihres Gehirns an", "Er konsultierte einen **Neurologen** wegen seiner wiederkehrenden Kopfschmerzen"]]
+  },
+  {
+    "lemma": "neurology",
+    "meanings_de": ["Nervenheilkunde"],
+    "definitions_de": ["Teilgebiet der Medizin, das sich mit Erkrankungen des Nervensystems und des Gehirns befasst"],
+    "examples_de": [["Sie studierte **Neurologie**, um Gehirnerkrankungen besser zu verstehen", "Die **neurologische** Abteilung des Krankenhauses behandelte täglich Schlaganfallpatienten"]]
+  },
+  {
+    "lemma": "neuron",
+    "meanings_de": ["Nervenzelle"],
+    "definitions_de": ["spezialisierte Zelle, die Nervenimpulse im Nervensystem überträgt"],
+    "examples_de": [["**Neuronen** kommunizieren über elektrische und chemische Signale", "Beschädigte **Nervenzellen** können Lähmungen oder Gefühlsverlust verursachen"]]
+  },
+  {
+    "lemma": "neuroscience",
+    "meanings_de": ["Neurowissenschaft"],
+    "definitions_de": ["wissenschaftliche Erforschung des Nervensystems einschließlich des Gehirns und seiner Funktionen"],
+    "examples_de": [["Die **Neurowissenschaft** enthüllte, wie Erinnerungen im Gehirn entstehen", "Sie promovierte in kognitiver **Neurowissenschaft**"]]
+  },
+  {
+    "lemma": "neuroscientist",
+    "meanings_de": ["Neurowissenschaftler"],
+    "definitions_de": ["Wissenschaftler, der die Struktur und Funktion des Nervensystems und des Gehirns erforscht"],
+    "examples_de": [["Der **Neurowissenschaftler** entdeckte einen neuen Gehirnpfad", "**Neurowissenschaftler** nutzen Bildgebung zur Erforschung mentaler Prozesse"]]
+  },
+  {
+    "lemma": "neurosurgeon",
+    "meanings_de": ["Neurochirurg"],
+    "definitions_de": ["Facharzt, der Operationen an Gehirn, Rückenmark und Nervensystem durchführt"],
+    "examples_de": [["Der **Neurochirurg** entfernte erfolgreich den Gehirntumor", "Nur erfahrene **Neurochirurgen** wagen sich an solch delikate Operationen"]]
+  },
+  {
+    "lemma": "neurosurgery",
+    "meanings_de": ["Neurochirurgie"],
+    "definitions_de": ["medizinisches Fachgebiet der chirurgischen Behandlung von Erkrankungen des Nervensystems"],
+    "examples_de": [["Der Patient unterzog sich einer **neurochirurgischen** Operation zur Druckentlastung des Gehirns", "Fortschritte in der **Neurochirurgie** haben die Überlebensraten erheblich verbessert"]]
+  },
+  {
+    "lemma": "neurotic",
+    "meanings_de": ["neurotische Person"],
+    "definitions_de": ["Person, die an einer Neurose leidet oder übermäßige Angst und emotionale Instabilität zeigt"],
+    "examples_de": [["Der **Neurotiker** sorgte sich ständig um unwahrscheinliche Katastrophen", "Ihr **neurotisches** Verhalten belastete die Beziehungen zu Freunden"]]
+  },
+  {
+    "lemma": "neurotransmitter",
+    "meanings_de": ["Nervenbotenstoff"],
+    "definitions_de": ["chemische Substanz, die Signale zwischen Nervenzellen im Nervensystem überträgt"],
+    "examples_de": [["Dopamin ist ein **Neurotransmitter**, der mit Freude und Belohnung verbunden ist", "Depressionen können mit Ungleichgewichten bestimmter **Botenstoffe** zusammenhängen"]]
+  },
+  {
+    "lemma": "neuter",
+    "meanings_de": ["sächliches Geschlecht", "kastriertes Tier"],
+    "definitions_de": ["grammatische Kategorie für Wörter, die weder männlich noch weiblich sind", "Tier, das chirurgisch sterilisiert wurde, um die Fortpflanzung zu verhindern"],
+    "examples_de": [["Im Deutschen hat 'das Kind' das **sächliche** Geschlecht", "Lateinische **Neutra** folgen spezifischen Deklinationsmustern"], ["Der Tierarzt empfahl, unseren Kater **kastrieren** zu lassen", "Das **kastrierte** Tier zeigte nach der Operation ruhigeres Verhalten"]]
+  },
+  {
+    "lemma": "neutrality",
+    "meanings_de": ["Neutralität"],
+    "definitions_de": ["Zustand, in dem keine Seite in einem Konflikt oder Streit unterstützt wird"],
+    "examples_de": [["Die Schweiz bewahrte ihre **Neutralität** während beider Weltkriege", "Die **Neutralität** des Vermittlers half, den Streit fair zu lösen"]]
+  },
+  {
+    "lemma": "neutralization",
+    "meanings_de": ["Neutralisierung"],
+    "definitions_de": ["Prozess, etwas unwirksam oder unschädlich zu machen, besonders in Chemie oder Konflikten"],
+    "examples_de": [["Die **Neutralisierung** der Säure verhinderte weitere Schäden", "Die diplomatische **Neutralisierung** von Bedrohungen erhielt den regionalen Frieden"]]
+  },
+  {
+    "lemma": "neutron",
+    "meanings_de": ["Neutron"],
+    "definitions_de": ["subatomares Teilchen ohne elektrische Ladung, das in Atomkernen vorkommt"],
+    "examples_de": [["**Neutronen** und Protonen bilden zusammen den Atomkern", "Kernreaktoren nutzen **Neutronen**beschuss zur Energiegewinnung"]]
+  },
+  {
+    "lemma": "newborn",
+    "meanings_de": ["Neugeborenes"],
+    "definitions_de": ["Baby, das gerade geboren wurde, typischerweise weniger als vier Wochen alt"],
+    "examples_de": [["Das **Neugeborene** schlief friedlich in den Armen seiner Mutter", "Das **Neugeborenen**screening prüft frühzeitig auf genetische Störungen"]]
+  },
+  {
+    "lemma": "newcomer",
+    "meanings_de": ["Neuankömmling"],
+    "definitions_de": ["Person, die kürzlich an einem Ort angekommen ist oder sich einer Gruppe angeschlossen hat"],
+    "examples_de": [["Der **Neuankömmling** fand schnell Freunde in der Nachbarschaft", "**Neulinge** im Unternehmen nahmen an einer Einführungsveranstaltung teil"]]
+  },
+  {
+    "lemma": "newlywed",
+    "meanings_de": ["Frischvermählter"],
+    "definitions_de": ["Person, die kürzlich geheiratet hat, typischerweise innerhalb des letzten Jahres"],
+    "examples_de": [["Die **Frischvermählten** brachen zu ihrer Hochzeitsreise nach Italien auf", "Viele **Neuvermählte** haben Schwierigkeiten, ihre Finanzen zu vereinen"]]
+  },
+  {
+    "lemma": "newsagent",
+    "meanings_de": ["Zeitungshändler"],
+    "definitions_de": ["Person oder Geschäft, das Zeitungen, Zeitschriften und verwandte Artikel verkauft"],
+    "examples_de": [["Der **Zeitungshändler** öffnete früh, um die Morgenzeitungen zu verteilen", "Sie kaufte Lottoscheine beim örtlichen **Kiosk**besitzer"]]
+  },
+  {
+    "lemma": "newscast",
+    "meanings_de": ["Nachrichtensendung"],
+    "definitions_de": ["Nachrichtenprogramm im Fernsehen oder Radio, das aktuelle Ereignisse präsentiert"],
+    "examples_de": [["Die abendliche **Nachrichtensendung** berichtete über internationale Eilmeldungen", "Wetterberichte schließen jede morgendliche **Nachrichtensendung** ab"]]
+  },
+  {
+    "lemma": "newscaster",
+    "meanings_de": ["Nachrichtensprecher"],
+    "definitions_de": ["Person, die Nachrichten in Fernseh- oder Radiosendungen präsentiert"],
+    "examples_de": [["Die **Nachrichtensprecherin** überbrachte Eilmeldungen mit professioneller Gelassenheit", "Erfahrene **Nachrichtensprecher** können bei technischen Störungen improvisieren"]]
+  },
+  {
+    "lemma": "newsgroup",
+    "meanings_de": ["Online-Diskussionsforum"],
+    "definitions_de": ["Internetforum, in dem Nutzer Nachrichten zu bestimmten Themen zur Diskussion posten"],
+    "examples_de": [["Die Technologie-**Newsgroup** diskutierte die neuesten Software-Veröffentlichungen", "Sie fand hilfreiche Ratschläge in Eltern-**Diskussionsforen**"]]
+  },
+  {
+    "lemma": "newsletter",
+    "meanings_de": ["Rundschreiben"],
+    "definitions_de": ["regelmäßig verteilte Publikation mit Nachrichten und Informationen für bestimmte Zielgruppen"],
+    "examples_de": [["Der Firmen-**Newsletter** kündigte bevorstehende Richtlinienänderungen an", "Sie abonnierte mehrere Branchen-**Rundschreiben** für aktuelle Informationen"]]
+  },
+  {
+    "lemma": "newsman",
+    "meanings_de": ["männlicher Nachrichtenreporter"],
+    "definitions_de": ["männlicher Journalist, der Nachrichten für Medienunternehmen sammelt und berichtet"],
+    "examples_de": [["Der erfahrene **Nachrichtenreporter** berichtete aus Kriegen in mehreren Ländern", "Junge **Reporter** konkurrierten um die besten Berichterstattungsaufträge"]]
+  },
+  {
+    "lemma": "newspaperman",
+    "meanings_de": ["Zeitungsmann"],
+    "definitions_de": ["Person, die für eine Zeitung als Reporter, Redakteur oder Verleger arbeitet"],
+    "examples_de": [["Der alte **Zeitungsmann** erinnerte sich daran, als die Druckpressen nachts liefen", "**Zeitungsleute** trafen sich nach der Arbeit im Presseclub"]]
+  },
+  {
+    "lemma": "newsprint",
+    "meanings_de": ["Zeitungspapier"],
+    "definitions_de": ["preiswertes Papier aus Holzschliff, hauptsächlich zum Drucken von Zeitungen verwendet"],
+    "examples_de": [["Der Mangel an **Zeitungspapier** wirkte sich auf die Produktionskosten aus", "Recyceltes **Zeitungspapier** hilft, die Umweltbelastung erheblich zu reduzieren"]]
+  },
+  {
+    "lemma": "newsreader",
+    "meanings_de": ["Nachrichtensprecher"],
+    "definitions_de": ["Person, die Nachrichtenmeldungen in Fernseh- oder Radioprogrammen vorliest"],
+    "examples_de": [["Der **Nachrichtensprecher** bewahrte während der Notfallsendung die Ruhe", "Britische **Nachrichtensprecher** sind für ihren formellen Präsentationsstil bekannt"]]
+  },
+  {
+    "lemma": "newsreel",
+    "meanings_de": ["Wochenschau"],
+    "definitions_de": ["kurzer Film über Nachrichten und aktuelle Ereignisse, der vor dem Fernsehen in Kinos gezeigt wurde"],
+    "examples_de": [["Alte **Wochenschauen** dokumentierten wichtige historische Ereignisse auf Film", "Die Kriegs-**Wochenschau** zeigte Truppen beim Vormarsch durch Europa"]]
+  },
+  {
+    "lemma": "newsroom",
+    "meanings_de": ["Nachrichtenredaktion"],
+    "definitions_de": ["Raum oder Bereich, in dem Journalisten und Redakteure arbeiten, um Nachrichten zu produzieren"],
+    "examples_de": [["Die **Nachrichtenredaktion** summte vor Aktivität kurz vor Redaktionsschluss", "Digitale Technologie veränderte die Arbeitsweise moderner **Redaktionen**"]]
+  },
+  {
+    "lemma": "newsstand",
+    "meanings_de": ["Zeitungskiosk"],
+    "definitions_de": ["Stand oder Kiosk, an dem Zeitungen, Zeitschriften und Periodika verkauft werden"],
+    "examples_de": [["Er schnappte sich eine Morgenzeitung vom U-Bahn-**Zeitungskiosk**", "Der Flughafen-**Kiosk** führte internationale Publikationen"]]
+  },
+  {
+    "lemma": "newt",
+    "meanings_de": ["Molch"],
+    "definitions_de": ["kleiner Salamander, der sowohl an Land als auch im Wasser lebt"],
+    "examples_de": [["Der Teich beherbergte mehrere Arten bunter **Molche**", "**Molche** kehren während ihrer Paarungszeit ins Wasser zurück"]]
+  },
+  {
+    "lemma": "newton",
+    "meanings_de": ["Kraftmaßeinheit"],
+    "definitions_de": ["Krafteinheit im Internationalen System, gleich der Kraft, die Beschleunigung erzeugt"],
+    "examples_de": [["Der Motor erzeugte fünfzigtausend **Newton** Schub", "Ein **Newton** entspricht der Kraft zur Beschleunigung eines Kilogramms"]]
+  },
+  {
+    "lemma": "nexus",
+    "meanings_de": ["Verbindung oder Verknüpfung"],
+    "definitions_de": ["zentraler Verbindungspunkt, an dem mehrere Elemente zusammentreffen oder verknüpft sind"],
+    "examples_de": [["Die Stadt diente als **Knotenpunkt** für den internationalen Handel", "Die Forschung enthüllte den **Zusammenhang** zwischen Armut und Kriminalität"]]
+  },
+  {
+    "lemma": "nib",
+    "meanings_de": ["Schreibfeder"],
+    "definitions_de": ["spitzes Ende eines Stifts, besonders eines Füllfederhalters, das das Papier berührt"],
+    "examples_de": [["Die goldene **Feder** des Füllers glitt sanft über das Papier", "Sie ersetzte die beschädigte **Schreibfeder** durch eine neue"]]
+  },
+  {
+    "lemma": "niche",
+    "meanings_de": ["Wandnische", "spezialisierte Marktposition"],
+    "definitions_de": ["flache Vertiefung in einer Wand zur Präsentation von Objekten oder Statuen", "spezialisiertes Marktsegment, das für bestimmte Produkte oder Fähigkeiten geeignet ist"],
+    "examples_de": [["Die Statue stand anmutig in der gemeißelten **Steinnische**", "Sie stellte frische Blumen in die **Nische** im Flur"], ["Das Unternehmen fand seine **Marktnische** im Verkauf von Bio-Tierfutter", "Künstler kämpfen oft darum, ihre kreative **Nische** zu finden"]]
+  },
+  {
+    "lemma": "nick",
+    "meanings_de": ["kleine Schnittstelle"],
+    "definitions_de": ["kleiner Schnitt, Kerbe oder Vertiefung auf einer Oberfläche oder Kante"],
+    "examples_de": [["Der antike Tisch hatte mehrere **Kerben** von jahrelangem Gebrauch", "Er bekam heute Morgen beim Rasieren eine kleine **Schnittwunde**"]]
+  },
+  {
+    "lemma": "nickel",
+    "meanings_de": ["Metallelement", "Fünf-Cent-Münze"],
+    "definitions_de": ["hartes silberweißes Metallelement, das in Legierungen und Beschichtungen verwendet wird", "US-amerikanische Münze im Wert von fünf Cent, teilweise aus Nickel hergestellt"],
+    "examples_de": [["Edelstahl enthält **Nickel** für Korrosionsbeständigkeit", "Die Fabrik verarbeitet **Nickel**erz zu reinem Metall"], ["Sie brauchte noch einen **Nickel** für die Parkuhr", "Der Automat akzeptierte nur Vierteldollar und **Nickels**"]]
+  },
+  {
+    "lemma": "nickelodeon",
+    "meanings_de": ["frühes Kino", "alte Musikmaschine"],
+    "definitions_de": ["Kino des frühen zwanzigsten Jahrhunderts mit fünf Cent Eintritt", "münzbetriebene Maschine, die Musik spielte, Vorläufer der Jukebox"],
+    "examples_de": [["Stummfilme zogen Menschenmassen in die Nachbarschafts-**Nickelodeons**", "Das **Nickelodeon** zeigte den ganzen Tag kurze Filme"], ["Das antike **Nickelodeon** spielte noch alte Melodien", "Sammler schätzen funktionierende **Nickelodeons** aus den frühen 1900ern"]]
+  },
+  {
+    "lemma": "nickname",
+    "meanings_de": ["Spitzname"],
+    "definitions_de": ["vertrauter oder humorvoller Name, der einer Person anstelle ihres echten Namens gegeben wird"],
+    "examples_de": [["Seine Freunde nannten ihn bei seinem **Spitznamen** aus der Kindheit", "Der **Spitzname** 'Rote' kam von ihrem kastanienbraunen Haar"]]
+  }
+]

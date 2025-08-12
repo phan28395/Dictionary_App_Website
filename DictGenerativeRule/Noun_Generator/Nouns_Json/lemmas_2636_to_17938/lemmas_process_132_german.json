@@ -1,0 +1,296 @@
+[
+  {
+    "lemma": "maltreatment",
+    "meanings_de": ["körperliche Misshandlung", "grausame emotionale Behandlung"],
+    "definitions_de": ["körperlicher Missbrauch oder Gewalt, die einer Person oder einem Tier Schaden zufügt", "psychologischer oder emotionaler Missbrauch, der mentale Belastung oder Leiden verursacht"],
+    "examples_de": [["Die Untersuchung deckte jahrelange **Misshandlungen** im Pflegeheim auf", "Berichte über **Kindesmisshandlung** nahmen während der Pandemie zu"], ["Verbale **Misshandlung** kann bei Opfern bleibende psychische Narben hinterlassen", "Die Mitarbeiterin reichte eine Beschwerde wegen **Misshandlung** am Arbeitsplatz durch Vorgesetzte ein"]]
+  },
+  {
+    "lemma": "malware",
+    "meanings_de": ["schädliche Computersoftware"],
+    "definitions_de": ["bösartige Software, die entwickelt wurde, um Computersysteme zu beschädigen, zu stören oder unbefugten Zugriff darauf zu erlangen"],
+    "examples_de": [["Das Firmennetzwerk wurde durch eine Phishing-E-Mail mit **Schadsoftware** infiziert", "Installieren Sie ein Antivirenprogramm, um Ihren Computer vor **Malware**-Angriffen zu schützen"]]
+  },
+  {
+    "lemma": "mamba",
+    "meanings_de": ["giftige afrikanische Schlange"],
+    "definitions_de": ["sich schnell bewegende, hochgiftige Schlange aus Afrika, bekannt für ihren tödlichen Biss"],
+    "examples_de": [["Die Schwarze **Mamba** ist eine der schnellsten und gefährlichsten Schlangen", "Wildtierexperten warnten Wanderer vor **Mamba**-Sichtungen in der Gegend"]]
+  },
+  {
+    "lemma": "mambo",
+    "meanings_de": ["lateinamerikanischer Tanzstil", "rhythmische Tanzmusik"],
+    "definitions_de": ["kubanischer Tanz mit Hüftbewegungen zu synkopiertem Rhythmus", "Musikgenre aus Kuba mit afrikanischen und lateinamerikanischen Einflüssen"],
+    "examples_de": [["Sie nahmen **Mambo**-Unterricht zur Vorbereitung auf ihre Hochzeitsfeier", "Das Paar gewann den ersten Platz im **Mambo**-Wettbewerb"], ["Die Band spielte die ganze Nacht energiegeladene **Mambo**-Musik", "Klassische **Mambo**-Aufnahmen aus den 1950er Jahren sind heute noch beliebt"]]
+  },
+  {
+    "lemma": "mamma",
+    "meanings_de": ["informeller Mutterbegriff", "milchproduzierende Drüse"],
+    "definitions_de": ["informelles oder kindliches Wort für Mutter, ähnlich wie Mama oder Mutti", "Milchdrüse bei weiblichen Säugetieren, die Milch zur Ernährung der Jungen produziert"],
+    "examples_de": [["Das Kleinkind streckte weinend die Arme nach seiner **Mama** aus", "Er nennt seine Mutter auch als Erwachsener noch **Mama**"], ["Der Tierarzt untersuchte die **Milchdrüse** der Katze auf Anzeichen einer Infektion", "Neugeborene Welpen suchen instinktiv nach der **Milchdrüse** ihrer Mutter"]]
+  },
+  {
+    "lemma": "mammal",
+    "meanings_de": ["warmblütiges Wirbeltier"],
+    "definitions_de": ["Tier, das seine Jungen mit Milch aus Milchdrüsen füttert und typischerweise Haare oder Fell hat"],
+    "examples_de": [["Wale sind die größten **Säugetiere**, die heute im Ozean leben", "Menschen gehören zusammen mit Hunden und Katzen zur Klasse der **Säugetiere**"]]
+  },
+  {
+    "lemma": "mammalian",
+    "meanings_de": ["säugetierbezogen"],
+    "definitions_de": ["charakteristisch für oder zur Klasse der warmblütigen Wirbeltiere gehörend, die Säugetiere genannt werden"],
+    "examples_de": [["Wissenschaftler erforschen die **Säugetier**evolution durch Fossilienfunde und DNA-Analysen", "Das **Säugetier**gehirn ist komplexer als das von Reptilien"]]
+  },
+  {
+    "lemma": "mammography",
+    "meanings_de": ["Brust-Röntgenuntersuchung"],
+    "definitions_de": ["medizinische Bildgebungstechnik mit Röntgenstrahlen zur Untersuchung von Brustgewebe zur Früherkennung von Krebs"],
+    "examples_de": [["Frauen über vierzig sollten regelmäßige **Mammographie**-Untersuchungen einplanen", "Die **Mammographie** zeigte eine kleine Masse, die weitere Tests erforderte"]]
+  },
+  {
+    "lemma": "mammoth",
+    "meanings_de": ["ausgestorbenes elefantenähnliches Tier", "extrem große Größe"],
+    "definitions_de": ["prähistorisches elefantenähnliches Wesen mit langen gebogenen Stoßzähnen und zottigem Haar", "etwas von enormer Größe, Ausmaß oder Bedeutung"],
+    "examples_de": [["Wissenschaftler entdeckten gefrorene **Mammut**überreste im sibirischen Permafrost", "Das Museum zeigt ein vollständiges **Mammut**skelett aus der Eiszeit"], ["Das Unternehmen unternahm ein **mammut**artiges Projekt zur Modernisierung seiner Infrastruktur", "Der Umzug der gesamten Bibliothek war eine **Mammut**aufgabe, die Monate dauerte"]]
+  },
+  {
+    "lemma": "mammy",
+    "meanings_de": ["informeller Mutterbegriff", "historische Betreuerrolle"],
+    "definitions_de": ["informelles oder dialektales Wort für Mutter, besonders im irischen Sprachgebrauch", "historischer Begriff für versklavte Frau, die sich im amerikanischen Süden um weiße Kinder kümmerte"],
+    "examples_de": [["Irische Kinder nannten ihre Mütter in ländlichen Gebieten oft **Mammy**", "Sie bezeichnet ihre Mutter immer noch liebevoll als **Mammy**"], ["Die Museumsausstellung untersuchte die komplexe Geschichte der **Mammy**-Figur", "Historische Aufzeichnungen zeigen, wie **Mammys** die Familiendynamik im Süden prägten"]]
+  },
+  {
+    "lemma": "manatee",
+    "meanings_de": ["großes Wassersäugetier"],
+    "definitions_de": ["sich langsam bewegendes pflanzenfressendes Meeressäugetier mit paddelartigen Flossen in warmen Küstengewässern"],
+    "examples_de": [["Touristen versammelten sich, um **Seekühe** in den klaren Quellen schwimmen zu sehen", "Naturschutzmaßnahmen haben geholfen, die gefährdete **Seekuh**-Population zu schützen"]]
+  },
+  {
+    "lemma": "mandala",
+    "meanings_de": ["geometrisches spirituelles Symbol"],
+    "definitions_de": ["kreisförmiges Design mit komplizierten Mustern, das in hinduistischen und buddhistischen spirituellen Praktiken zur Meditation verwendet wird"],
+    "examples_de": [["Die Mönche verbrachten Wochen damit, ein aufwendiges Sand-**Mandala** zu erschaffen", "Sie malte **Mandala**-Muster als Form der Meditation und Stressbewältigung aus"]]
+  },
+  {
+    "lemma": "mandarin",
+    "meanings_de": ["chinesische Sprachvarietät", "Zitrusfrucht", "chinesischer Beamter"],
+    "definitions_de": ["Standardform der chinesischen Sprache basierend auf dem Pekinger Dialekt", "kleine süße Orange mit lockerer Schale, die sich leicht schälen lässt", "historischer hochrangiger Regierungsbeamter im kaiserlichen China"],
+    "examples_de": [["Sie lernte drei Jahre lang **Mandarin**, bevor sie nach Peking reiste", "Die meisten Geschäfte in China werden auf **Mandarin**-Chinesisch abgewickelt"], ["Die Kinder schälten gerne **Mandarinen** für ihre Lunchboxen", "Frische **Mandarinen** sind während der Winterfeiertage reichlich vorhanden"], ["Der **Mandarin** trug aufwendige Gewänder, die seinen hohen Rang anzeigten", "Historische Dramen stellen oft das Leben kaiserlicher **Mandarine** dar"]]
+  },
+  {
+    "lemma": "mandatory",
+    "meanings_de": ["gesetzlich vorgeschrieben"],
+    "definitions_de": ["etwas, das durch Gesetz, Regel oder Vorschrift erforderlich ist und befolgt werden muss"],
+    "examples_de": [["Das Tragen von Sicherheitsgurten ist für alle Fahrzeuginsassen **obligatorisch**", "Das Unternehmen machte Diversity-Schulungen für alle Mitarbeiter zur **Pflicht**"]]
+  },
+  {
+    "lemma": "mandible",
+    "meanings_de": ["Unterkieferknochen"],
+    "definitions_de": ["Unterkieferknochen bei Wirbeltieren, der die unteren Zähne hält und sich beim Kauen bewegt"],
+    "examples_de": [["Der Zahnarzt untersuchte ihren **Unterkiefer** auf Anzeichen einer Kiefergelenksstörung", "Fossilienjäger entdeckten einen vollständigen Dinosaurier-**Unterkiefer** an der Fundstelle"]]
+  },
+  {
+    "lemma": "mandolin",
+    "meanings_de": ["Saiteninstrument"],
+    "definitions_de": ["kleines lautenähnliches Instrument mit gepaarten Saiten, das mit einem Plektrum in der Volksmusik gespielt wird"],
+    "examples_de": [["Er spielte wunderschöne italienische Melodien auf seiner antiken **Mandoline**", "Die Bluegrass-Band hatte einen geschickten **Mandolinen**spieler"]]
+  },
+  {
+    "lemma": "mane",
+    "meanings_de": ["Tiernackenhaar"],
+    "definitions_de": ["langes dichtes Haar, das am Hals von Pferden, Löwen und einigen anderen Tieren wächst"],
+    "examples_de": [["Die prächtige **Mähne** des Löwen ließ ihn größer und einschüchternder erscheinen", "Sie flocht die **Mähne** des Pferdes vor dem Reitwettbewerb"]]
+  },
+  {
+    "lemma": "maneuver",
+    "meanings_de": ["geplante Bewegungsoperation", "taktische Militärübung"],
+    "definitions_de": ["sorgfältig geplante Bewegung oder Bewegungsabfolge, die Geschick und Koordination erfordert", "groß angelegte militärische Übung zur Simulation von Kampfoperationen"],
+    "examples_de": [["Der Pilot führte ein schwieriges **Manöver** aus, um dem Sturm auszuweichen", "Parallelparken erfordert die Beherrschung eines spezifischen Fahr**manövers**"], ["Die Armee führte Winter**manöver** in der Bergregion durch", "Marine**manöver** testeten die Einsatzbereitschaft der Flotte"]]
+  },
+  {
+    "lemma": "maneuverability",
+    "meanings_de": ["Manövrierfähigkeit"],
+    "definitions_de": ["Fähigkeit eines Fahrzeugs, Schiffs oder Flugzeugs, leicht Richtung und Position zu ändern"],
+    "examples_de": [["Die überlegene **Manövrierfähigkeit** des Kampfjets verschaffte ihm einen Vorteil im Gefecht", "Kleine Boote haben in engen Kanälen eine bessere **Wendigkeit** als große Schiffe"]]
+  },
+  {
+    "lemma": "manga",
+    "meanings_de": ["japanische Comics"],
+    "definitions_de": ["japanische Comics und Graphic Novels mit charakteristischem Kunststil und Erzählweise"],
+    "examples_de": [["Sie sammelte **Manga**-Serien von ihren japanischen Lieblingsautoren", "Die Buchhandlung erweiterte ihre **Manga**-Abteilung aufgrund wachsender Nachfrage"]]
+  },
+  {
+    "lemma": "manganese",
+    "meanings_de": ["metallisches chemisches Element"],
+    "definitions_de": ["hartes sprödes grauweißes metallisches Element, das in der Stahlproduktion und als Nahrungsmineral verwendet wird"],
+    "examples_de": [["Stahlhersteller fügen **Mangan** hinzu, um Festigkeit und Haltbarkeit zu verbessern", "Der Arzt empfahl **Mangan**präparate für bessere Knochengesundheit"]]
+  },
+  {
+    "lemma": "manger",
+    "meanings_de": ["Tierfuttertrog"],
+    "definitions_de": ["langer offener Kasten oder Trog, aus dem Pferde oder Rinder Heu oder Getreide fressen"],
+    "examples_de": [["Der Stallbursche füllte die **Krippe** jeden Morgen mit frischem Heu", "Der Überlieferung nach wurde das Jesuskind in eine **Krippe** gelegt"]]
+  },
+  {
+    "lemma": "mango",
+    "meanings_de": ["tropische Steinfrucht"],
+    "definitions_de": ["süße saftige tropische Frucht mit gelb-orangem Fruchtfleisch und großem flachen Kern"],
+    "examples_de": [["Sie machte einen köstlichen Smoothie mit reifer **Mango** und Kokosmilch", "Der **Mango**baum in ihrem Garten trägt jeden Sommer Früchte"]]
+  },
+  {
+    "lemma": "mangrove",
+    "meanings_de": ["tropischer Küstenbaum"],
+    "definitions_de": ["tropischer Baum oder Strauch, der in Küstensümpfen mit verschlungenen Wurzeln über dem Wasser wächst"],
+    "examples_de": [["**Mangroven**wälder schützen Küsten vor Erosion und Sturmschäden", "Viele Fischarten laichen im Schutz der **Mangroven**wurzeln"]]
+  },
+  {
+    "lemma": "manhattan",
+    "meanings_de": ["New Yorker Stadtbezirk", "Whiskey-Cocktail"],
+    "definitions_de": ["dicht besiedelter Stadtbezirk von New York City auf einer Insel", "Cocktail aus Whiskey, süßem Wermut und Bitterstoffen"],
+    "examples_de": [["Sie nahmen die U-Bahn von Brooklyn nach **Manhattan** zur Arbeit", "**Manhattans** Skyline ist weltweit erkennbar"], ["Der Barkeeper mixte einen perfekten **Manhattan** mit Roggenwhiskey", "Sie bestellte einen **Manhattan** zu ihrem Steak-Dinner"]]
+  },
+  {
+    "lemma": "manhole",
+    "meanings_de": ["Straßenzugangsöffnung"],
+    "definitions_de": ["abgedeckte Öffnung in einer Straße oder einem Gehweg, die Zugang zu unterirdischen Versorgungsleitungen ermöglicht"],
+    "examples_de": [["Arbeiter hoben den **Kanaldeckel** an, um die Abwasserleitungen zu inspizieren", "Dampf stieg an dem kalten Wintermorgen aus dem **Gully** auf"]]
+  },
+  {
+    "lemma": "manhood",
+    "meanings_de": ["erwachsener männlicher Zustand", "männliche Eigenschaften"],
+    "definitions_de": ["Zustand oder Zeitraum des Erwachsenseins als männlicher Mensch", "traditionell mit Männern verbundene Eigenschaften wie Mut und Stärke"],
+    "examples_de": [["Viele Kulturen haben Zeremonien, die den Übergang zum **Mannesalter** markieren", "Er erreichte das **Erwachsenenalter** während schwieriger wirtschaftlicher Zeiten"], ["Die Tapferkeit des Soldaten wurde als Beweis seiner **Männlichkeit** angesehen", "Verschiedene Gesellschaften haben unterschiedliche Definitionen von **Männlichkeit**"]]
+  },
+  {
+    "lemma": "manhunt",
+    "meanings_de": ["organisierte Verbrechersuche"],
+    "definitions_de": ["organisierte Suche von Polizei und Strafverfolgungsbehörden nach einem gesuchten Verbrecher oder Flüchtigen"],
+    "examples_de": [["Die Polizei startete eine massive **Fahndung** nach dem Gefängnisausbruch", "Die **Großfahndung** erstreckte sich über drei Bundesstaaten und dauerte zwei Wochen"]]
+  },
+  {
+    "lemma": "mania",
+    "meanings_de": ["extreme geistige Erregung", "intensive Begeisterungsbesessenheit"],
+    "definitions_de": ["Geisteskrankheit, gekennzeichnet durch Phasen extremer Erregung, Wahnvorstellungen und Überaktivität", "übermäßige Begeisterung oder Besessenheit für etwas"],
+    "examples_de": [["Die **Manie** des Patienten erforderte sofortige medizinische Intervention und Überwachung", "Während manischer Episoden erlebte sie rasende Gedanken und Schlaflosigkeit"], ["Die Stadt wurde während der World Series von Baseball-**Manie** erfasst", "Sammler entwickelten eine **Manie** für Vintage-Vinylplatten"]]
+  },
+  {
+    "lemma": "maniac",
+    "meanings_de": ["geistig instabile Person", "besessener Enthusiast"],
+    "definitions_de": ["Person, die aufgrund geistiger Instabilität extremes, wildes oder gewalttätiges Verhalten zeigt", "Person mit übermäßiger Begeisterung oder Besessenheit für etwas"],
+    "examples_de": [["Der Film zeigte einen **Wahnsinnigen**, der eine Kleinstadt terrorisierte", "Die Polizei beschrieb den Verdächtigen als gefährlichen **Verrückten**"], ["Er ist ein Fitness-**Fanatiker**, der zweimal täglich trainiert", "Sie ist eine Putz-**Fanatikerin**, die keine Unordnung tolerieren kann"]]
+  },
+  {
+    "lemma": "manifest",
+    "meanings_de": ["Schiffsfrachtliste", "Passagierliste"],
+    "definitions_de": ["detaillierte Liste der auf einem Schiff oder Flugzeug beförderten Fracht", "offizielle Liste der Passagiere auf einem Schiff oder Flugzeug"],
+    "examples_de": [["Der Zollbeamte überprüfte das **Manifest** des Schiffes vor der Inspektion", "Jeder Artikel muss auf dem Fracht**manifest** deklariert werden"], ["Flugbegleiter überprüften die Passagiere anhand des **Manifests** vor dem Abflug", "Sein Name erschien auf dem Schiffs**manifest** von 1892"]]
+  },
+  {
+    "lemma": "manifestation",
+    "meanings_de": ["sichtbare Darstellung", "spirituelle Erscheinung"],
+    "definitions_de": ["Handlung oder Tatsache, etwas deutlich durch Zeichen oder Handlungen zu zeigen oder darzustellen", "Erscheinung eines Geistes oder göttlichen Wesens in physischer Form"],
+    "examples_de": [["Der Ausschlag war eine **Manifestation** ihrer allergischen Reaktion", "Proteste waren eine **Manifestation** weit verbreiteter öffentlicher Unzufriedenheit"], ["Einige Gläubige behaupteten, während des Gebetsgottesdienstes **Manifestationen** bezeugt zu haben", "Das Medium beschrieb verschiedene spirituelle **Erscheinungen** im Haus"]]
+  },
+  {
+    "lemma": "manifesto",
+    "meanings_de": ["öffentliches Erklärungsdokument"],
+    "definitions_de": ["schriftliche öffentliche Erklärung von Absichten, Meinungen, Zielen oder Motiven einer Gruppe oder Einzelperson"],
+    "examples_de": [["Die politische Partei veröffentlichte ihr **Manifest** vor der Wahl", "Das **Manifest** der Künstlerin erklärte ihren revolutionären Ansatz zur Malerei"]]
+  },
+  {
+    "lemma": "manifold",
+    "meanings_de": ["Motorabgasteil", "mathematischer Raum"],
+    "definitions_de": ["Rohrsystem in Motoren, das Abgase aus den Zylindern sammelt", "mathematischer Raum, der lokal dem euklidischen Raum ähnelt"],
+    "examples_de": [["Der Mechaniker ersetzte den gerissenen Abgas**krümmer** im Auto", "Ein undichter **Krümmer** kann zu Motorleistungsproblemen führen"], ["Doktoranden studierten Differentialgleichungen auf gekrümmten **Mannigfaltigkeiten**", "Der Professor erklärte, wie **Mannigfaltigkeiten** in der theoretischen Physik auftreten"]]
+  },
+  {
+    "lemma": "manila",
+    "meanings_de": ["philippinische Hauptstadt", "starker Papiertyp"],
+    "definitions_de": ["Hauptstadt und größte Stadt der Philippinen auf der Insel Luzon", "starkes beigefarbenes Papier, ursprünglich aus Manilahanf hergestellt"],
+    "examples_de": [["Sie flogen von Tokio nach **Manila** zu ihrem Geschäftstreffen", "Die Bucht von **Manila** bietet Touristen wunderschöne Sonnenuntergangsblicke"], ["Sie archivierte Dokumente in **Manila**-Ordnern zur einfachen Organisation", "Das Büro bestellte **Manila**-Umschläge für den Versand von Verträgen"]]
+  },
+  {
+    "lemma": "manilla",
+    "meanings_de": ["Metall-Handelsarmband"],
+    "definitions_de": ["hufeisenförmiges Metallarmband, das historisch als Währung im westafrikanischen Handel verwendet wurde"],
+    "examples_de": [["Das Museum stellte **Manillas** aus, die in der Ära des Sklavenhandels verwendet wurden", "Archäologen fanden alte **Manillas** an der Handelsposten-Stätte"]]
+  },
+  {
+    "lemma": "manioc",
+    "meanings_de": ["tropisches Wurzelgemüse"],
+    "definitions_de": ["tropische Pflanze mit stärkehaltigen essbaren Wurzeln, auch bekannt als Kassava oder Tapioka"],
+    "examples_de": [["Bauern ernteten **Maniok**, um Mehl für traditionelles Brot herzustellen", "**Maniok** dient in vielen tropischen Regionen als Grundnahrungsmittel"]]
+  },
+  {
+    "lemma": "manipulation",
+    "meanings_de": ["physische Objekthandhabung", "psychologische Kontrolltaktiken"],
+    "definitions_de": ["geschicktes Handhaben, Kontrollieren oder Verwenden von Objekten oder Materialien mit den Händen", "cleveres oder skrupelloses Kontrollieren oder Beeinflussen von jemandem zum persönlichen Vorteil"],
+    "examples_de": [["Die präzise **Handhabung** der Instrumente durch den Chirurgen rettete das Leben des Patienten", "Die Physiotherapie beinhaltete eine sorgfältige **Manipulation** des verletzten Gelenks"], ["Seine **Manipulation** von Fakten führte die Jury während des Prozesses in die Irre", "Emotionale **Manipulation** in Beziehungen kann bleibende psychische Schäden verursachen"]]
+  },
+  {
+    "lemma": "manipulator",
+    "meanings_de": ["kontrollierende Person", "mechanisches Handhabungsgerät"],
+    "definitions_de": ["Person, die andere unfair zum persönlichen Vorteil kontrolliert oder beeinflusst", "mechanisches Gerät oder Roboterarm zur Fernhandhabung von Objekten"],
+    "examples_de": [["Sie erkannte, dass ihr Partner ein geschickter emotionaler **Manipulator** war", "Der **Manipulator** nutzte Schuldgefühle, um Familienmitglieder zu kontrollieren"], ["Die Fabrik installierte Roboter-**Manipulatoren** am Fließband", "Wissenschaftler verwendeten **Manipulatoren**, um radioaktive Materialien sicher zu handhaben"]]
+  },
+  {
+    "lemma": "mankind",
+    "meanings_de": ["alle Menschen"],
+    "definitions_de": ["Menschheit kollektiv einschließlich aller Menschen unabhängig von Geschlecht, Ethnizität oder Nationalität"],
+    "examples_de": [["Die Erfindung des Internets veränderte die Kommunikation für die gesamte **Menschheit**", "Die Weltraumforschung repräsentiert das größte Abenteuer der **Menschheit** jenseits der Erde"]]
+  },
+  {
+    "lemma": "manna",
+    "meanings_de": ["biblische Nahrungssubstanz", "unerwartetes nützliches Geschenk"],
+    "definitions_de": ["Nahrung, die laut Bibel den Israeliten in der Wüste auf wundersame Weise zur Verfügung gestellt wurde", "unerwarteter Nutzen oder Vorteil, der zur perfekten Zeit kommt"],
+    "examples_de": [["Laut der Heiligen Schrift erschien **Manna** jeden Morgen, um das Volk zu ernähren", "Das Gemälde zeigte Israeliten, die **Manna** in der Wüste sammelten"], ["Die unerwartete Spende war wie **Manna** vom Himmel für die Wohltätigkeitsorganisation", "Regen nach der Dürre war **Manna** für die kämpfenden Bauern"]]
+  },
+  {
+    "lemma": "mannequin",
+    "meanings_de": ["Schaufensterpuppe"],
+    "definitions_de": ["lebensgroßes Modell einer menschlichen Figur zur Präsentation von Kleidung in Geschäften"],
+    "examples_de": [["Das Geschäft arrangierte **Schaufensterpuppen** im Fenster mit Frühlingsmode", "Künstler verwenden **Mannequins**, um menschliche Proportionen und Posen zu studieren"]]
+  },
+  {
+    "lemma": "mannerism",
+    "meanings_de": ["charakteristische Verhaltensgewohnheit", "Kunstbewegungsstil"],
+    "definitions_de": ["gewohnheitsmäßige Geste, Sprechweise oder Verhalten, das für eine Person charakteristisch ist", "europäischer Kunststil des 16. Jahrhunderts, gekennzeichnet durch verlängerte Formen und ungewöhnliche Effekte"],
+    "examples_de": [["Sein ständiges Räuspern war eine störende **Eigenart** während der Besprechungen", "Der Schauspieler übernahm spezifische **Manierismen**, um die historische Figur darzustellen"], ["Das Museum zeigte eine Ausstellung über italienische **Manierismus**-Gemälde", "Der **Manierismus** entstand, als Künstler über den Naturalismus der Renaissance hinausgingen"]]
+  },
+  {
+    "lemma": "manoeuvrability",
+    "meanings_de": ["Manövrierfähigkeit"],
+    "definitions_de": ["Fähigkeit eines Fahrzeugs, Schiffs oder Flugzeugs, leicht Richtung und Position zu ändern"],
+    "examples_de": [["Die ausgezeichnete **Wendigkeit** des Sportwagens machte das Fahren zum Vergnügen", "Kleinere Boote haben in überfüllten Häfen eine bessere **Manövrierfähigkeit**"]]
+  },
+  {
+    "lemma": "manoeuvre",
+    "meanings_de": ["geplante Bewegungsoperation", "taktische Militärübung"],
+    "definitions_de": ["sorgfältig geplante Bewegung oder Bewegungsabfolge, die Geschick und Koordination erfordert", "groß angelegte militärische Übung zur Simulation von Kampfoperationen"],
+    "examples_de": [["Der Fahrer führte ein geschicktes **Manöver** aus, um den Unfall zu vermeiden", "Das Einparken in engen Räumen erfordert sorgfältige **Manöver**"], ["Das Regiment nahm an gemeinsamen **Manövern** mit verbündeten Streitkräften teil", "Militärische **Manöver** testeten neue Kommunikationssysteme auf dem Schlachtfeld"]]
+  },
+  {
+    "lemma": "manor",
+    "meanings_de": ["großes Landhaus", "feudales Gutsland"],
+    "definitions_de": ["großes Landhaus mit Ländereien, das einem wohlhabenden Grundbesitzer gehört", "Landgut in feudaler Zeit unter Herrschaft einschließlich Dörfern und Ackerland"],
+    "examples_de": [["Das viktorianische **Herrenhaus** war in ein Luxushotel umgewandelt worden", "Sie besichtigten das historische **Anwesen** und seine schönen Gärten"], ["Mittelalterliche Bauern bearbeiteten die Felder, die zum **Gut** des Herrn gehörten", "Das **Gutshof**system dominierte das ländliche Leben im feudalen England"]]
+  },
+  {
+    "lemma": "manpower",
+    "meanings_de": ["verfügbare Arbeitskräfte"],
+    "definitions_de": ["Anzahl der für eine Arbeit, ein Projekt oder eine Organisation verfügbaren oder erforderlichen Arbeiter"],
+    "examples_de": [["Das Bauprojekt erforderte erhebliche **Arbeitskräfte**, um termingerecht fertiggestellt zu werden", "Militärplaner bewerteten die verfügbaren **Personalressourcen** für die Operation"]]
+  },
+  {
+    "lemma": "manse",
+    "meanings_de": ["Pfarrhaus"],
+    "definitions_de": ["Haus, das von einer Kirche für ihren Pfarrer oder Pastor zum Wohnen zur Verfügung gestellt wird"],
+    "examples_de": [["Das alte **Pfarrhaus** neben der Kirche benötigte umfangreiche Reparaturen", "Die Familie des Pfarrers zog nach seiner Ernennung in das **Pfarrhaus** ein"]]
+  },
+  {
+    "lemma": "manservant",
+    "meanings_de": ["männlicher Hausangestellter"],
+    "definitions_de": ["männlicher Diener, der in einem Haushalt zur Verrichtung häuslicher Pflichten angestellt ist"],
+    "examples_de": [["Die wohlhabende Familie beschäftigte einen **Diener** zur Verwaltung der Haushaltsangelegenheiten", "In viktorianischen Zeiten diente ein **Kammerdiener** oft als persönlicher Diener für Herren"]]
+  }
+]

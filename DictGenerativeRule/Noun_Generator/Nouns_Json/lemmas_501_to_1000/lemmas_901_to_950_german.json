@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "tip",
+    "meanings_de": ["spitzes Ende", "Trinkgeld", "hilfreicher Hinweis"],
+    "definitions_de": ["äußerstes Ende oder Spitze von etwas Dünnem oder sich Verjüngendem", "Geldbetrag, der zusätzlich zur Rechnung für guten Service gegeben wird", "nützlicher praktischer Ratschlag oder Information"],
+    "examples_de": [["Die **Spitze** des Bleistifts brach beim Schreiben ab", "Mit dem Finger berührte sie spielerisch ihre **Nasenspitze**"], ["Er hinterließ ein großzügiges **Trinkgeld** für den ausgezeichneten Service", "In Deutschland sind zehn Prozent **Trinkgeld** üblich"], ["Danke für den **Tipp** mit der Abkürzung", "Sie gab mir einen wertvollen **Hinweis** zur Gartenpflege"]]
+  },
+  {
+    "lemma": "plastic",
+    "meanings_de": ["Kunststoff", "Kreditkarten"],
+    "definitions_de": ["synthetisches Material aus Polymeren, das in Form gebracht werden kann", "Kredit- oder Debitkarten, die zur Zahlung verwendet werden"],
+    "examples_de": [["Das Spielzeug bestand vollständig aus recyceltem **Kunststoff**", "**Plastikverpackungen** sind praktisch, belasten aber die Umwelt"], ["Sie zahlt lieber mit **Karte** als mit Bargeld", "Die meisten Geschäfte akzeptieren **Plastikgeld** als Zahlungsmittel"]]
+  },
+  {
+    "lemma": "tooth",
+    "meanings_de": ["Zahnstruktur", "vorspringender Teil"],
+    "definitions_de": ["harte weiße Struktur im Mund zum Beißen und Kauen", "zahnähnlicher vorspringender Teil an einem Werkzeug oder einer Maschine"],
+    "examples_de": [["Der Zahnarzt untersuchte jeden **Zahn** auf Karies", "Kinder verlieren ihre **Milchzähne** etwa im Alter von sechs Jahren"], ["Das Sägeblatt hat scharfe **Zähne** zum Holzschneiden", "Jeder **Zahn** des Zahnrads muss perfekt ausgerichtet sein"]]
+  },
+  {
+    "lemma": "meat",
+    "meanings_de": ["Tierfleisch", "Hauptsubstanz"],
+    "definitions_de": ["Fleisch von Tieren, das als Nahrung für Menschen verwendet wird", "wesentlicher oder wichtigster Teil von etwas"],
+    "examples_de": [["Sie isst aus ethischen Gründen kein **Fleisch**", "Der Metzger verkauft jeden Morgen frisches **Fleisch**"], ["Kommen wir zum **Kern** der Diskussion", "Der **Hauptinhalt** des Arguments wurde klar dargestellt"]]
+  },
+  {
+    "lemma": "stress",
+    "meanings_de": ["psychischer Druck", "physische Belastung", "sprachliche Betonung"],
+    "definitions_de": ["geistige oder emotionale Anspannung durch belastende Umstände", "auf ein Material ausgeübte Kraft oder Spannung", "Hervorhebung einer Silbe oder eines Wortes beim Sprechen"],
+    "examples_de": [["Arbeitsbedingter **Stress** beeinträchtigt ihren Schlaf", "Sport hilft, **Stress** und Angstzustände zu reduzieren"], ["Die Brücke brach unter der **Belastung** schwerer Lastwagen zusammen", "Materialermüdung entsteht durch wiederholte **Beanspruchung**"], ["Im Deutschen liegt die **Betonung** oft auf der ersten Silbe", "Die **Betonung** auf der ersten Silbe verändert die Bedeutung"]]
+  },
+  {
+    "lemma": "february",
+    "meanings_de": ["zweiter Monat"],
+    "definitions_de": ["zweiter Monat des Jahres im gregorianischen Kalender"],
+    "examples_de": [["Der **Februar** hat außer in Schaltjahren achtundzwanzig Tage", "Der Valentinstag wird am vierzehnten **Februar** gefeiert"]]
+  },
+  {
+    "lemma": "constitution",
+    "meanings_de": ["Grundgesetz", "körperliche Verfassung"],
+    "definitions_de": ["grundlegende Prinzipien und Gesetze, die Struktur und Befugnisse einer Regierung festlegen", "körperlicher und geistiger Zustand des menschlichen Körpers"],
+    "examples_de": [["Das **Grundgesetz** schützt die Grundrechte der Bürger", "Sie schlugen eine Änderung der **Verfassung** vor"], ["Trotz ihres Alters hat sie eine robuste **Konstitution**", "Seine schwache **Verfassung** macht ihn anfällig für Krankheiten"]]
+  },
+  {
+    "lemma": "definition",
+    "meanings_de": ["Wortbedeutung", "Bildschärfe"],
+    "definitions_de": ["Erklärung der genauen Bedeutung eines Wortes oder Ausdrucks", "Grad der Deutlichkeit in Umrissen oder Details"],
+    "examples_de": [["Das Wörterbuch bietet klare **Definitionen** für Fachbegriffe", "Wir brauchen eine präzise **Definition** des Problems"], ["Der Fernseher hat eine ausgezeichnete **Bildschärfe**", "Kameras mit höherer **Auflösung** erfassen mehr Details"]]
+  },
+  {
+    "lemma": "uncle",
+    "meanings_de": ["männlicher Verwandter"],
+    "definitions_de": ["Bruder eines Elternteils oder Ehemann einer Tante"],
+    "examples_de": [["Mein **Onkel** brachte mir das Fahrradfahren bei", "**Onkel** Klaus besucht uns jedes Weihnachten mit Geschenken"]]
+  },
+  {
+    "lemma": "metal",
+    "meanings_de": ["chemisches Element", "Musikgenre"],
+    "definitions_de": ["festes Material, das Wärme und Elektrizität leitet und metallische Eigenschaften hat", "Rockmusikgenre mit verstärkten Instrumenten und intensiven Rhythmen"],
+    "examples_de": [["Eisen ist ein häufig im Bauwesen verwendetes **Metall**", "**Edelmetalle** wie Gold behalten ihren Wert"], ["**Heavy-Metal**-Bands dominierten die Musikszene", "Sie hört beim Training gern **Metal**"]]
+  },
+  {
+    "lemma": "album",
+    "meanings_de": ["Musiksammlung", "Fotobuch"],
+    "definitions_de": ["Sammlung von Aufnahmen, die als einzelnes Produkt veröffentlicht werden", "Buch zum Aufbewahren von Fotos, Briefmarken oder anderen Sammlerstücken"],
+    "examples_de": [["Ihr Debüt**album** führte weltweit die Charts an", "Sie kaufte das **Album** auf Vinyl und digital"], ["Das Hochzeits**album** enthält Hunderte schöner Fotos", "Er ordnete Briefmarken in seinem Sammler**album**"]]
+  },
+  {
+    "lemma": "self",
+    "meanings_de": ["persönliche Identität", "autonomes Wesen"],
+    "definitions_de": ["das wesentliche Sein einer Person, das sie von anderen unterscheidet", "individuelle Person als Objekt der Selbstbetrachtung oder Handlung"],
+    "examples_de": [["Sie blieb ihrem wahren **Selbst** treu", "Meditation hilft, sich mit dem inneren **Ich** zu verbinden"], ["Er sieht sein zukünftiges **Selbst** als erfolgreicher", "Das **Ich** muss individuelle Bedürfnisse mit der Gesellschaft ausbalancieren"]]
+  },
+  {
+    "lemma": "investor",
+    "meanings_de": ["Finanzanleger"],
+    "definitions_de": ["Person, die Geld in Unternehmungen investiert und profitable Renditen erwartet"],
+    "examples_de": [["Der **Investor** analysierte sorgfältig Markttrends vor seiner Entscheidung", "**Risikokapitalgeber** finanzieren Start-up-Unternehmen"]]
+  },
+  {
+    "lemma": "fruit",
+    "meanings_de": ["Pflanzenprodukt", "Ergebnis"],
+    "definitions_de": ["süßes, fleischiges Produkt einer Pflanze, das Samen enthält", "Ergebnisse oder Belohnungen einer Handlung oder Anstrengung"],
+    "examples_de": [["Frisches **Obst** liefert wichtige Vitamine und Ballaststoffe", "Der Markt verkauft exotische **Früchte** aus tropischen Regionen"], ["Ihre harte Arbeit trug endlich **Früchte** mit der Beförderung", "Sie genossen die **Früchte** ihrer Arbeit"]]
+  },
+  {
+    "lemma": "desk",
+    "meanings_de": ["Arbeitsmöbel", "Büroabteilung"],
+    "definitions_de": ["Tisch mit Schubladen zum Lesen, Schreiben oder Arbeiten", "Abteilung oder Bereich, der sich mit bestimmten Angelegenheiten befasst"],
+    "examples_de": [["Sie ordnete Papiere auf ihrem **Schreibtisch** im Büro", "Der antike **Schreibtisch** gehörte ihrem Großvater"], ["Wenden Sie sich an die **Auskunft** für Unterstützung", "Die Nachrichten**redaktion** bearbeitet aktuelle Meldungen"]]
+  },
+  {
+    "lemma": "valley",
+    "meanings_de": ["Landsenke"],
+    "definitions_de": ["tiefliegendes Gebiet zwischen Hügeln oder Bergen mit Fluss"],
+    "examples_de": [["Das fruchtbare **Tal** brachte jedes Jahr reiche Ernten hervor", "Nebel setzte sich am frühen Morgen im **Tal** ab"]]
+  },
+  {
+    "lemma": "abortion",
+    "meanings_de": ["Schwangerschaftsabbruch"],
+    "definitions_de": ["bewusste Beendigung einer menschlichen Schwangerschaft vor der Lebensfähigkeit des Fötus"],
+    "examples_de": [["Die Debatte über **Abtreibungsrechte** dauert landesweit an", "Sie traf die schwierige Entscheidung für einen **Schwangerschaftsabbruch**"]]
+  },
+  {
+    "lemma": "chapter",
+    "meanings_de": ["Buchabschnitt", "Organisationszweig"],
+    "definitions_de": ["Hauptabschnitt eines Buches, typischerweise mit Nummer oder Titel", "lokaler Zweig einer Gesellschaft oder Organisation"],
+    "examples_de": [["Sie las **Kapitel** fünf vor dem Schlafengehen zu Ende", "Jedes **Kapitel** behandelt eine andere historische Periode"], ["Die Ortsgruppe trifft sich monatlich in der Bibliothek", "Sie trat dem Universitäts**verband** der Organisation bei"]]
+  },
+  {
+    "lemma": "commitment",
+    "meanings_de": ["engagiertes Versprechen", "finanzielle Verpflichtung"],
+    "definitions_de": ["Zustand der Hingabe an eine Sache, Aktivität oder Beziehung", "Engagement oder Verpflichtung, die die Handlungsfreiheit einschränkt"],
+    "examples_de": [["Ihre **Verpflichtung** zur Exzellenz treibt den Unternehmenserfolg voran", "Die Ehe erfordert **Engagement** von beiden Partnern"], ["Sie konnte wegen vorheriger **Verpflichtungen** nicht teilnehmen", "Finanzielle **Verbindlichkeiten** hinderten ihn am Reisen"]]
+  },
+  {
+    "lemma": "proposal",
+    "meanings_de": ["Vorschlag", "Heiratsantrag"],
+    "definitions_de": ["formeller Plan oder Vorschlag zur Prüfung", "Akt, jemandem einen Heiratsantrag zu machen"],
+    "examples_de": [["Das Komitee prüfte ihren Forschungs**antrag** sorgfältig", "Sein Geschäfts**vorschlag** skizzierte klar die erwarteten Gewinne"], ["Sie sagte Ja zu seinem romantischen **Heiratsantrag**", "Der **Antrag** fand in ihrem Lieblingsrestaurant statt"]]
+  },
+  {
+    "lemma": "capacity",
+    "meanings_de": ["maximale Menge", "Fähigkeitspotenzial"],
+    "definitions_de": ["maximale Menge, die etwas enthalten oder produzieren kann", "Fähigkeit oder Kraft, etwas zu tun, zu erfahren oder zu verstehen"],
+    "examples_de": [["Das Stadion hat eine **Kapazität** von fünfzigtausend", "Der Tank erreichte schnell seine volle **Füllmenge**"], ["Sie hat das **Potenzial** für große Führungsqualitäten", "Seine **Fähigkeit**, Sprachen zu lernen, erstaunt alle"]]
+  },
+  {
+    "lemma": "nose",
+    "meanings_de": ["Gesichtsorgan", "vorderer Vorsprung"],
+    "definitions_de": ["Organ über dem Mund zum Atmen und Riechen", "vorderer Teil eines Flugzeugs, Autos oder anderen Fahrzeugs"],
+    "examples_de": [["Er brach sich letzte Woche beim Rugby die **Nase**", "Ihre **Nase** nimmt selbst das schwächste Parfüm wahr"], ["Die **Nase** des Flugzeugs senkte sich beim Sinkflug", "Die **Front** des Autos wurde bei der Kollision beschädigt"]]
+  },
+  {
+    "lemma": "variable",
+    "meanings_de": ["veränderlicher Faktor", "mathematisches Symbol"],
+    "definitions_de": ["Element, Merkmal oder Faktor, der sich verändern kann", "Symbol, das eine unbekannte oder sich ändernde Größe in der Mathematik darstellt"],
+    "examples_de": [["Das Wetter ist eine **Variable**, die Ernteerträge beeinflusst", "Viele **Variablen** beeinflussen das Versuchsergebnis"], ["Lösen Sie die Gleichung nach der **Variablen** x auf", "Die **Variable** steht in der Formel für die Temperatur"]]
+  },
+  {
+    "lemma": "convention",
+    "meanings_de": ["formelles Treffen", "akzeptierte Praxis"],
+    "definitions_de": ["großes Treffen von Menschen mit gemeinsamen Interessen oder Beruf", "akzeptierte Art des Verhaltens oder Handelns in der Gesellschaft"],
+    "examples_de": [["Die jährliche **Tagung** zieht Tausende von Teilnehmern an", "Sie sprach letztes Jahr auf dem Medizin**kongress**"], ["Gesellschaftliche **Konventionen** bestimmen angemessenes Verhalten bei Beerdigungen", "Sie stellten **Konventionen** mit ihrem unkonventionellen Lebensstil in Frage"]]
+  },
+  {
+    "lemma": "jury",
+    "meanings_de": ["Gerichtsgremium", "Bewertungskomitee"],
+    "definitions_de": ["Gruppe von Personen, die vereidigt wurden, um ein Urteil in einem Gerichtsverfahren zu fällen", "Komitee, das Einreichungen in einem Wettbewerb bewertet"],
+    "examples_de": [["Die **Geschworenen** berieten drei Tage vor der Entscheidung", "Der **Schöffendienst** ist eine wichtige staatsbürgerliche Pflicht"], ["Die **Jury** verlieh dem Gemälde den ersten Preis", "Eine internationale **Jury** wählte das Siegerdesign aus"]]
+  },
+  {
+    "lemma": "root",
+    "meanings_de": ["Pflanzenteil", "fundamentale Quelle"],
+    "definitions_de": ["Teil der Pflanze, der Wasser und Nährstoffe aus dem Boden aufnimmt", "grundlegende Ursache, Quelle oder Ursprung von etwas"],
+    "examples_de": [["**Baumwurzeln** breiten sich tief unter der Erde aus für Stabilität", "Ziehen Sie Unkraut vollständig mit den **Wurzeln** heraus"], ["Geld ist die **Wurzel** vieler Probleme", "Sie verfolgten das Problem bis zu seiner **Grundursache**"]]
+  },
+  {
+    "lemma": "incident",
+    "meanings_de": ["spezifisches Ereignis", "kleinerer Konflikt"],
+    "definitions_de": ["einzelnes Vorkommnis oder Ereignis bestimmter Art", "Ereignis mit Konflikt, Unfall oder ungewöhnlichen Umständen"],
+    "examples_de": [["Der **Vorfall** ereignete sich während der Nachtschicht", "Mehrere ähnliche **Vorfälle** wurden letzten Monat gemeldet"], ["Ein diplomatischer **Zwischenfall** belastete die Beziehungen zwischen den Ländern", "Die Sicherheit untersuchte den **Vorfall** am Tor"]]
+  },
+  {
+    "lemma": "hearing",
+    "meanings_de": ["Klangwahrnehmung", "Rechtsverfahren"],
+    "definitions_de": ["Fähigkeit, Geräusche durch das Ohr wahrzunehmen", "Sitzung, in der Beweise und Argumente vorgelegt werden"],
+    "examples_de": [["Sein **Gehör** verschlechterte sich allmählich mit dem Alter", "Hunde haben ein besseres **Gehör** als Menschen"], ["Die Gerichts**verhandlung** ist für Dienstag angesetzt", "Beide Seiten präsentierten Beweise bei der **Anhörung**"]]
+  },
+  {
+    "lemma": "payment",
+    "meanings_de": ["Geldüberweisung", "Konsequenzbegleichung"],
+    "definitions_de": ["Handlung, geschuldetes Geld für Waren oder Dienstleistungen zu zahlen", "Leiden oder Verlust als Folge einer Handlung"],
+    "examples_de": [["Monatliche **Zahlungen** sind am Ersten fällig", "Sie tätigte die letzte **Zahlung** für ihren Kredit"], ["Sein rücksichtsloses Verhalten forderte schließlich seinen **Tribut**", "Die Natur fordert **Vergeltung** für Umweltschäden"]]
+  },
+  {
+    "lemma": "bear",
+    "meanings_de": ["großes Säugetier", "Marktpessimist"],
+    "definitions_de": ["großes schweres Säugetier mit dickem Fell und starken Krallen", "Investor, der mit fallenden Kursen rechnet und entsprechend verkauft"],
+    "examples_de": [["Der **Bär** fing Lachse im reißenden Bach", "**Schwarzbären** halten während der Wintermonate Winterschlaf"], ["**Baissiers** dominierten den Handel, als die Aktien stark fielen", "Er ist seit Kurzem ein **Pessimist** bei Technologieaktien"]]
+  },
+  {
+    "lemma": "surgery",
+    "meanings_de": ["medizinische Operation", "Arztpraxis"],
+    "definitions_de": ["medizinische Behandlung mit Öffnung des Körpers zur Reparatur von Schäden", "Ort, an dem ein Arzt oder Zahnarzt Patienten behandelt"],
+    "examples_de": [["Die **Operation** dauerte vier Stunden, verlief aber reibungslos", "Sie erholte sich schnell nach der Knie**operation**"], ["Die Ärztin empfängt täglich Patienten in ihrer **Praxis**", "Rufen Sie die **Praxis** an, um einen Termin zu vereinbaren"]]
+  },
+  {
+    "lemma": "shadow",
+    "meanings_de": ["dunkle Form", "verfolgende Person"],
+    "definitions_de": ["dunkler Bereich, wo Licht durch etwas blockiert wird", "Person, die einer anderen genau folgt, um zu beobachten oder zu schützen"],
+    "examples_de": [["Die **Schatten** der Bäume wurden länger, als der Abend nahte", "Sie saß im **Schatten**, um kühl zu bleiben"], ["Der Detektiv **beschattete** den Verdächtigen den ganzen Tag", "Neue Mitarbeiter **begleiten** anfangs erfahrene Kollegen"]]
+  },
+  {
+    "lemma": "witness",
+    "meanings_de": ["Beobachterperson", "Beweis"],
+    "definitions_de": ["Person, die ein Ereignis sieht, besonders ein Verbrechen oder einen Unfall", "Beweis oder Beleg für die Existenz oder Wahrheit von etwas"],
+    "examples_de": [["Mehrere **Zeugen** sahen, wie sich der Unfall ereignete", "Der **Zeuge** sagte unter Eid vor Gericht aus"], ["Diese Ruinen **zeugen** von einer alten Zivilisation", "Ihr Erfolg ist **Zeugnis** ihrer Entschlossenheit"]]
+  },
+  {
+    "lemma": "chest",
+    "meanings_de": ["Körperteil", "Aufbewahrungskiste"],
+    "definitions_de": ["vorderer Teil des Körpers zwischen Hals und Bauch", "große starke Kiste zur Aufbewahrung oder zum Transport"],
+    "examples_de": [["Er fühlte Schmerzen in der **Brust** beim Sport", "Sie trug ein Abzeichen an ihrer **Brust**tasche"], ["Die antike **Truhe** enthielt Familienerbstücke", "Piraten vergruben Schätze in hölzernen **Kisten**"]]
+  },
+  {
+    "lemma": "amendment",
+    "meanings_de": ["formelle Änderung", "Bodenverbesserung"],
+    "definitions_de": ["formelle Änderung oder Ergänzung eines Gesetzes, einer Verfassung oder eines Dokuments", "Substanz, die dem Boden zur Qualitätsverbesserung hinzugefügt wird"],
+    "examples_de": [["Der erste **Verfassungszusatz** schützt die Redefreiheit", "Der Kongress verabschiedete eine **Änderung** des Gesetzentwurfs"], ["Kompost ist ein ausgezeichneter **Bodenverbesserer**", "Fügen Sie **Zusätze** hinzu, bevor Sie neue Pflanzen setzen"]]
+  },
+  {
+    "lemma": "extent",
+    "meanings_de": ["Ausmaß", "räumliche Fläche"],
+    "definitions_de": ["Grad, in dem etwas geschieht oder wahr ist", "von etwas bedeckte Fläche oder Volumen"],
+    "examples_de": [["Das **Ausmaß** des Schadens wurde nach der Inspektion deutlich", "In welchem **Maße** stimmen Sie dem zu"], ["Sie kartierten die **Ausdehnung** des Waldbrands", "Die volle **Ausdehnung** erstreckte sich über Kilometer"]]
+  },
+  {
+    "lemma": "pleasure",
+    "meanings_de": ["Glücksgefühl", "Vergnügungsquelle"],
+    "definitions_de": ["Gefühl von Glück, Zufriedenheit oder Genuss", "Aktivität oder Erfahrung, die Vergnügen bereitet"],
+    "examples_de": [["Sie empfand große **Freude** daran, anderen zu helfen", "Das Konzert bereitete Tausenden **Vergnügen**"], ["Lesen ist eines der einfachen **Vergnügen** des Lebens", "Zu den heimlichen **Freuden** gehören Schokolade und Reality-TV"]]
+  },
+  {
+    "lemma": "holiday",
+    "meanings_de": ["Urlaubszeit", "Feiertag"],
+    "definitions_de": ["längere Zeit der Erholung und Freizeit außerhalb der Arbeit", "Tag der Feier, an dem die meisten Menschen nicht arbeiten"],
+    "examples_de": [["Sie verbrachten ihren Sommer**urlaub** in Griechenland", "Die Familie braucht nach stressigen Monaten **Ferien**"], ["Weihnachten ist weltweit ein wichtiger **Feiertag**", "Banken schließen an gesetzlichen **Feiertagen**"]]
+  },
+  {
+    "lemma": "talent",
+    "meanings_de": ["natürliche Fähigkeit", "antike Währung"],
+    "definitions_de": ["natürliche Begabung oder Geschicklichkeit für etwas", "antike Gewichts- und Geldeinheit"],
+    "examples_de": [["Ihr **Talent** für Musik zeigte sich früh in der Kindheit", "Das Unternehmen rekrutiert Top-**Talente** von Universitäten"], ["Ein **Talent** Gold war eine beträchtliche Summe wert", "Biblische **Talente** stellten große Geldsummen dar"]]
+  },
+  {
+    "lemma": "expectation",
+    "meanings_de": ["erwartetes Ergebnis", "Verhaltensstandard"],
+    "definitions_de": ["starke Überzeugung, dass etwas geschehen oder wahr sein wird", "Überzeugung darüber, wie sich jemand verhalten oder leisten sollte"],
+    "examples_de": [["Die Verkäufe übertrafen die **Erwartungen** für das Quartal", "Ihre **Erwartungen** waren von Anfang an unrealistisch"], ["Eltern haben hohe **Erwartungen** an ihre Kinder", "Die Stelle bringt bestimmte **Anforderungen** mit sich"]]
+  },
+  {
+    "lemma": "ride",
+    "meanings_de": ["Fahrzeugfahrt", "Vergnügungsattraktion"],
+    "definitions_de": ["Reise auf einem Pferd, Fahrrad oder in einem Fahrzeug", "mechanische Attraktion in einem Vergnügungspark"],
+    "examples_de": [["Die **Fahrt** zur Arbeit dauert dreißig Minuten", "Sie gab ihm eine **Mitfahrgelegenheit** zum Flughafen"], ["Die Achterbahn**fahrt** begeisterte die Kinder", "Welche **Attraktion** sollten wir als Nächstes ausprobieren"]]
+  },
+  {
+    "lemma": "wing",
+    "meanings_de": ["Fluganhang", "Gebäudeabschnitt"],
+    "definitions_de": ["paariger Anhang, der Vögeln und Insekten das Fliegen ermöglicht", "Teil eines Gebäudes, der vom Hauptabschnitt vorspringt"],
+    "examples_de": [["Der Vogel breitete seine **Flügel** aus, bevor er abhob", "Schmetterlings**flügel** zeigen wunderschöne Muster"], ["Das Krankenhaus fügte letztes Jahr einen neuen **Flügel** hinzu", "Ihr Büro befindet sich im Ost**flügel**"]]
+  },
+  {
+    "lemma": "corporation",
+    "meanings_de": ["Geschäftseinheit"],
+    "definitions_de": ["großes Unternehmen, das befugt ist, als einzelne juristische Person zu handeln"],
+    "examples_de": [["Die **Gesellschaft** beschäftigt weltweit Tausende von Menschen", "Multinationale **Konzerne** beeinflussen die Weltwirtschaft erheblich"]]
+  },
+  {
+    "lemma": "sector",
+    "meanings_de": ["Wirtschaftsbereich", "geometrische Fläche"],
+    "definitions_de": ["eigenständiger Teil der Wirtschaft oder Gesellschaft", "Teil eines Kreises zwischen zwei Radien"],
+    "examples_de": [["Der Technologie**sektor** treibt das Wirtschaftswachstum an", "Mitarbeiter des öffentlichen **Sektors** erfüllen staatliche Aufgaben"], ["Berechnen Sie die Fläche dieses **Kreissektors**", "Der **Sektor** stellt ein Viertel des Kreises dar"]]
+  },
+  {
+    "lemma": "fat",
+    "meanings_de": ["Körpergewebe", "Nahrungsnährstoff"],
+    "definitions_de": ["weiches fettiges Gewebe, das im Tierkörper gespeichert wird", "ölige Substanz in Lebensmitteln, die vom Körper genutzt wird"],
+    "examples_de": [["Sport hilft, den Körper**fett**anteil zu reduzieren", "Das Fleisch hatte zu viel **Fett** an den Rändern"], ["Gesunde **Fette** umfassen Olivenöl und Avocados", "**Fettarme** Diäten waren jahrelang beliebt"]]
+  },
+  {
+    "lemma": "experiment",
+    "meanings_de": ["wissenschaftlicher Test", "neuer Versuch"],
+    "definitions_de": ["wissenschaftliches Verfahren zum Testen einer Hypothese oder zum Nachweis von Fakten", "neue Vorgehensweise ohne Gewissheit über das Ergebnis"],
+    "examples_de": [["Das **Experiment** testete die Auswirkungen der Temperatur", "Schüler führten **Experimente** im Chemielabor durch"], ["Das Leben im Ausland war ein interessantes **Experiment**", "Die neue Speisekarte des Restaurants ist ein **Versuch**"]]
+  },
+  {
+    "lemma": "farmer",
+    "meanings_de": ["Landwirt"],
+    "definitions_de": ["Person, die einen Bauernhof besitzt oder bewirtschaftet und Pflanzen anbaut oder Tiere züchtet"],
+    "examples_de": [["Der **Landwirt** erntete den Weizen im Spätsommer", "Örtliche **Bauern** verkaufen ihre Erzeugnisse auf dem Wochenmarkt"]]
+  },
+  {
+    "lemma": "english",
+    "meanings_de": ["Sprachsystem", "Dralleffekt"],
+    "definitions_de": ["westgermanische Sprache mit Ursprung in England, heute weltweit gesprochen", "Drall, der einem Ball beim Billard oder ähnlichen Spielen gegeben wird"],
+    "examples_de": [["**Englisch** ist die internationale Geschäftssprache", "Sie unterrichtet **Englisch** für ausländische Studenten"], ["Geben Sie dem Spielball etwas **Effet**", "Der **Drall** ließ den Ball nach links kurven"]]
+  },
+  {
+    "lemma": "confidence",
+    "meanings_de": ["Selbstvertrauen", "anvertrautes Geheimnis"],
+    "definitions_de": ["Gefühl der Selbstsicherheit aus der Wertschätzung der eigenen Fähigkeiten", "geheime oder private Information, die mit jemandem geteilt wird"],
+    "examples_de": [["Ihr **Selbstvertrauen** wuchs mit jeder erfolgreichen Präsentation", "**Selbstvertrauen** aufzubauen braucht Zeit und Übung"], ["Sie erzählte mir **vertraulich** von ihren Plänen", "Bewahren Sie diese Information **streng vertraulich**"]]
+  },
+  {
+    "lemma": "bunch",
+    "meanings_de": ["gruppierte Sammlung", "große Menge"],
+    "definitions_de": ["Anzahl von Dingen, die zusammenwachsen oder zusammengehalten werden", "große Anzahl oder Menge von etwas"],
+    "examples_de": [["Sie kaufte eine **Staude** Bananen im Laden", "Ein **Strauß** Blumen erhellte den Raum"], ["Eine **Schar** Kinder spielte im Park", "Vielen Dank für deine Hilfe heute"]]
+  }
+]

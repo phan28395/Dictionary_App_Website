@@ -1,0 +1,296 @@
+[
+  {
+    "lemma": "sunrise",
+    "meanings_de": ["zur frühen Morgenzeit"],
+    "definitions_de": ["sich auf die frühe Morgenzeit beziehend, wenn die Sonne über dem Horizont erscheint oder zu dieser Zeit stattfindend"],
+    "examples_de": [["Der **morgendliche** Yogakurs bei Sonnenaufgang zieht viele begeisterte Teilnehmer an", "Sie machte atemberaubende Fotos vom **frühmorgendlichen** Himmel am Strand"]]
+  },
+  {
+    "lemma": "superb",
+    "meanings_de": ["hervorragend in Qualität"],
+    "definitions_de": ["von hervorragender Qualität, in jeder Hinsicht beeindruckend und außergewöhnlich, dabei alle Erwartungen übertreffend"],
+    "examples_de": [["Der Küchenchef bereitete ein **hervorragendes** Menü für die Gäste zu", "Ihre **großartige** Leistung im Theaterstück erhielt tosenden Applaus"]]
+  },
+  {
+    "lemma": "supercharged",
+    "meanings_de": ["mit Kraft verstärkt", "intensiv aufgeladen"],
+    "definitions_de": ["mit einem Kompressor ausgestattet, der die Motorleistung durch zusätzliche Luftzufuhr in die Brennkammer erhöht", "mit intensiver Energie, Aufregung oder Emotionen erfüllt, die über das normale Maß hinausgehen"],
+    "examples_de": [["Der **aufgeladene** Motor sprang sofort mit voller Kraft an", "Er fuhr am Wochenende einen Sportwagen mit **Kompressormotor**"], ["Die **aufgeheizte** Stimmung im Konzertsaal war elektrisierend", "Ihre **hochgradig emotionale** Verfassung machte eine sachliche Diskussion unmöglich"]]
+  },
+  {
+    "lemma": "supercritical",
+    "meanings_de": ["über kritischem Punkt", "äußerst wichtig"],
+    "definitions_de": ["sich auf eine Substanz bei Temperatur und Druck über ihrem kritischen Punkt beziehend, wo keine klare Trennung zwischen flüssiger und gasförmiger Phase existiert", "von höchster Wichtigkeit oder Schwere, die sofortige Aufmerksamkeit oder Handlung erfordert"],
+    "examples_de": [["Das **überkritische** Fluid-Extraktionsverfahren liefert reine Verbindungen", "**Überkritisches** Kohlendioxid wird bei der Entkoffeinierung eingesetzt"], ["Der Reaktor erreichte **hochkritische** Bedingungen, die eine Notabschaltung erforderten", "Diese **überaus kritische** Entscheidung wird die Zukunft des Unternehmens bestimmen"]]
+  },
+  {
+    "lemma": "superficial",
+    "meanings_de": ["nur oberflächlich", "ohne Tiefgang"],
+    "definitions_de": ["an oder auf der Oberfläche existierend oder auftretend, ohne darunter einzudringen", "nicht gründlich, tief oder vollständig im Verständnis, Charakter oder in der Substanz"],
+    "examples_de": [["Der Arzt behandelte ihre **oberflächlichen** Wunden mit Desinfektionsmittel", "Am Auto entstanden nur **oberflächliche** Lackschäden"], ["Sein **oberflächliches** Physikwissen wurde während der Debatte offensichtlich", "Ihre **oberflächliche** Freundschaft endete, als echte Probleme auftraten"]]
+  },
+  {
+    "lemma": "superfluous",
+    "meanings_de": ["unnötig und überschüssig"],
+    "definitions_de": ["über das Ausreichende oder Notwendige hinausgehend, keinem nützlichen Zweck im aktuellen Kontext dienend"],
+    "examples_de": [["Der Bericht enthielt **überflüssige** Details, die die Hauptpunkte verschleierten", "Sie entfernte alle **unnötigen** Dekorationen aus dem minimalistischen Design"]]
+  },
+  {
+    "lemma": "superhuman",
+    "meanings_de": ["übermenschliche Fähigkeiten"],
+    "definitions_de": ["außergewöhnliche Fähigkeiten oder Kräfte besitzend oder zeigend, die über das normalerweise für Menschen Mögliche hinausgehen"],
+    "examples_de": [["Die Rettung erforderte **übermenschliche** Kräfte, um die Trümmer anzuheben", "Sie zeigte **übermenschliche** Geduld mit den schwierigen Schülern"]]
+  },
+  {
+    "lemma": "superimposed",
+    "meanings_de": ["darübergelegt"],
+    "definitions_de": ["über etwas anderes gelegt oder platziert, insbesondere so, dass beide noch erkennbar oder sichtbar sind"],
+    "examples_de": [["Die **überlagerten** Bilder erzeugten einen interessanten künstlerischen Effekt", "Untertitel wurden **eingeblendet** über die fremdsprachigen Filmszenen"]]
+  },
+  {
+    "lemma": "superlative",
+    "meanings_de": ["höchste Qualität", "grammatischer Grad"],
+    "definitions_de": ["von höchster Qualität oder höchstem Grad, alle anderen an Exzellenz übertreffend", "die Form eines Adjektivs oder Adverbs bezeichnend, die den höchsten Grad einer Eigenschaft ausdrückt"],
+    "examples_de": [["Das Restaurant erhielt **herausragende** Kritiken von Gastronomiekritikern", "Ihre **außergewöhnliche** Leistung wurde mit Standing Ovations belohnt"], ["'Am besten' ist die **Superlativform** von 'gut'", "Die Schüler übten den Gebrauch von Adjektiven im **Superlativ**"]]
+  },
+  {
+    "lemma": "supernatural",
+    "meanings_de": ["übernatürlich"],
+    "definitions_de": ["Kräften zugeschrieben, die jenseits des wissenschaftlichen Verständnisses oder der Naturgesetze liegen, oft mit mystischen Elementen verbunden"],
+    "examples_de": [["Viele Kulturen haben **übernatürliche** Vorstellungen vom Leben nach dem Tod", "Der Film zeigte **übernatürliche** Wesen und unerklärliche Phänomene"]]
+  },
+  {
+    "lemma": "supernumerary",
+    "meanings_de": ["über normale Anzahl"],
+    "definitions_de": ["in Überschuss zur normalen, erforderlichen oder üblichen Anzahl in einem bestimmten Kontext oder System vorhanden"],
+    "examples_de": [["Der Patient hatte **überzählige** Zähne, die gezogen werden mussten", "**Zusätzliches** Personal wurde für die Weihnachtszeit eingestellt"]]
+  },
+  {
+    "lemma": "superscript",
+    "meanings_de": ["hochgestellt"],
+    "definitions_de": ["über und seitlich zu einem anderen Zeichen in kleinerer Größe geschrieben oder gedruckt"],
+    "examples_de": [["Mathematische Exponenten werden **hochgestellt** geschrieben", "Die Fußnotenreferenz erschien als **hochgestellte** Zahl"]]
+  },
+  {
+    "lemma": "supersonic",
+    "meanings_de": ["überschallschnell"],
+    "definitions_de": ["eine Geschwindigkeit betreffend oder bezeichnend, die größer ist als die Schallgeschwindigkeit in Luft auf Meereshöhe"],
+    "examples_de": [["Das **Überschallflugzeug** durchbrach mühelos die Schallmauer", "**Überschallflüge** erzeugen charakteristische Schockwellenmuster"]]
+  },
+  {
+    "lemma": "superstitious",
+    "meanings_de": ["abergläubisch"],
+    "definitions_de": ["übermäßigen Glauben an übernatürliche Einflüsse oder Praktiken habend oder zeigend, die auf Furcht oder Unwissenheit basieren"],
+    "examples_de": [["Seine **abergläubische** Natur hinderte ihn daran, unter Leitern durchzugehen", "Der **abergläubische** Seemann trug immer seinen Glücksbringer bei sich"]]
+  },
+  {
+    "lemma": "supervised",
+    "meanings_de": ["unter Aufsicht"],
+    "definitions_de": ["von jemandem in Autorität beobachtet und geleitet, um ordnungsgemäße Durchführung oder Verhalten sicherzustellen"],
+    "examples_de": [["Kinder dürfen nur im **beaufsichtigten** Bereich schwimmen", "Das **betreute** Ausbildungsprogramm dauerte sechs Monate"]]
+  },
+  {
+    "lemma": "supervisory",
+    "meanings_de": ["Aufsicht betreffend"],
+    "definitions_de": ["die Rolle des Beobachtens und Leitens von Arbeit oder Arbeitern habend oder damit zusammenhängend"],
+    "examples_de": [["Sie übernahm eine **leitende** Position in der Fabrik", "Seine **Aufsichtspflichten** umfassten die Bewertung der Mitarbeiterleistung"]]
+  },
+  {
+    "lemma": "supine",
+    "meanings_de": ["auf dem Rücken liegend", "passiv und schwach"],
+    "definitions_de": ["mit dem Gesicht nach oben auf dem Rücken liegend, wobei Gesicht und Oberkörper nach oben zeigen", "aus Schwäche oder Gleichgültigkeit versäumend zu handeln oder zu protestieren, wenn Handlung erforderlich ist"],
+    "examples_de": [["Der Patient blieb während der Untersuchung in **Rückenlage**", "Übungen in **Rückenlage** stärken effektiv die Rumpfmuskulatur"], ["Ihre **untätige** Hinnahme von Ungerechtigkeit enttäuschte viele Unterstützer", "Die **passive** Reaktion der Regierung auf die Krise erzürnte die Bürger"]]
+  },
+  {
+    "lemma": "supple",
+    "meanings_de": ["biegsam und geschmeidig"],
+    "definitions_de": ["sich leicht und anmutig biegend und bewegend mit glatter Flexibilität und ohne Steifheit"],
+    "examples_de": [["Regelmäßiges Yoga hält den Körper **geschmeidig** und kräftig", "Die **weiche** Lederjacke schmiegte sich perfekt an ihre Figur"]]
+  },
+  {
+    "lemma": "supplemental",
+    "meanings_de": ["zusätzlich zum Hauptteil"],
+    "definitions_de": ["zusätzlich zu dem bereits Vorhandenen bereitgestellt, um etwas zu vervollständigen oder zu verbessern"],
+    "examples_de": [["Die Studenten erhielten **ergänzende** Materialien für fortgeschrittene Themen", "Das Unternehmen bietet **zusätzliche** Versicherungsleistungen für Mitarbeiter"]]
+  },
+  {
+    "lemma": "supplementary",
+    "meanings_de": ["ergänzend oder verbessernd"],
+    "definitions_de": ["etwas durch Bereitstellung des Fehlenden oder zusätzlichen Materials vervollständigend oder verbessernd"],
+    "examples_de": [["Die Lehrerin stellte **ergänzende** Arbeitsblätter für zusätzliche Übungen bereit", "**Zusätzliche** Vitamine halfen, ihren allgemeinen Gesundheitszustand zu verbessern"]]
+  },
+  {
+    "lemma": "supported",
+    "meanings_de": ["physisch gestützt", "unterstützt oder befürwortet"],
+    "definitions_de": ["von einer Struktur oder einem Fundament getragen oder gehalten, um ein Fallen zu verhindern", "Unterstützung, Ermutigung oder Zustimmung von anderen in verschiedenen Formen erhalten"],
+    "examples_de": [["Das Dach wird von starken Stahlträgern **gestützt**", "Ihr verletztes Bein muss beim Gehen **abgestützt** werden"], ["Die Forschungsergebnisse werden durch umfangreiche Daten **untermauert**", "Er fühlte sich von seiner Familie in schwierigen Zeiten **unterstützt**"]]
+  },
+  {
+    "lemma": "supporting",
+    "meanings_de": ["unterstützend", "in Nebenrolle"],
+    "definitions_de": ["Gewicht tragend oder Unterstützung bietend, um Stabilität oder Funktion aufrechtzuerhalten", "eine sekundäre, aber wichtige Rolle spielend, die dem Hauptelement zum Erfolg verhilft"],
+    "examples_de": [["Die **tragenden** Wände tragen die strukturelle Last des Gebäudes", "**Unterstützende** Beweise stärkten den Fall des Staatsanwalts erheblich"], ["Sie gewann einen Preis als beste **Nebendarstellerin**", "Die **Nebencharaktere** verliehen der Geschichte mehr Tiefe"]]
+  },
+  {
+    "lemma": "suppressed",
+    "meanings_de": ["gewaltsam unterdrückt", "emotional zurückgehalten"],
+    "definitions_de": ["gewaltsam beendet oder daran gehindert, ausgedrückt oder offenbart zu werden", "bewusst gehemmt oder vom natürlichen Ausdruck von Emotionen oder Wünschen zurückgehalten"],
+    "examples_de": [["Die **unterdrückten** Informationen wurden später von Whistleblowern enthüllt", "Regierungstruppen **unterdrückten** den Aufstand innerhalb von Tagen"], ["Ihre **unterdrückte** Wut brach schließlich während der Besprechung hervor", "Jahre **verdrängter** Erinnerungen kamen während der Therapiesitzungen hoch"]]
+  },
+  {
+    "lemma": "suppressive",
+    "meanings_de": ["zur Unterdrückung neigend"],
+    "definitions_de": ["dazu neigend, Ausdruck, Aktivität oder Entwicklung von etwas zu unterdrücken, zurückzuhalten oder zu verhindern"],
+    "examples_de": [["Die **repressive** Politik des Regimes schränkte die Meinungsfreiheit ein", "**Unterdrückungsfeuer** hinderte feindliche Kräfte am Vorrücken"]]
+  },
+  {
+    "lemma": "supranational",
+    "meanings_de": ["über nationale Grenzen hinaus"],
+    "definitions_de": ["Macht oder Einfluss habend, die nationale Grenzen oder Regierungen überschreitet und über nationalstaatlicher Ebene operiert"],
+    "examples_de": [["Die Europäische Union ist eine **supranationale** Organisation", "**Überstaatliche** Gerichte können nationale Rechtsentscheidungen aufheben"]]
+  },
+  {
+    "lemma": "surgical",
+    "meanings_de": ["chirurgisch", "äußerst präzise"],
+    "definitions_de": ["sich auf Chirurgie beziehend oder in der Chirurgie oder bei von Chirurgen durchgeführten Operationen verwendet", "mit extremer Präzision und Genauigkeit wie bei einem chirurgischen Eingriff durchgeführt"],
+    "examples_de": [["Der Patient benötigte einen **chirurgischen** Eingriff zur Tumorentfernung", "Die Krankenschwestern bereiteten **chirurgische** Instrumente für die Operation vor"], ["Das Militär führte einen **präzisen** Schlag gegen feindliche Stellungen durch", "Ihre **chirurgische** Präzision beim Redigieren verbesserte das Manuskript"]]
+  },
+  {
+    "lemma": "surging",
+    "meanings_de": ["kraftvoll vorwärtsdrängend"],
+    "definitions_de": ["sich plötzlich und kraftvoll vorwärts oder aufwärts in einer starken wellenartigen Bewegung bewegend"],
+    "examples_de": [["Die **wogende** Menschenmenge drängte zur Konzertbühne", "**Brandende** Wellen schlugen unaufhörlich gegen die felsige Küste"]]
+  },
+  {
+    "lemma": "surly",
+    "meanings_de": ["mürrisch und unfreundlich"],
+    "definitions_de": ["schlecht gelaunt und unfreundlich im Verhalten, Feindseligkeit oder Unhöflichkeit zeigend"],
+    "examples_de": [["Der **mürrische** Kellner nahm unsere Anwesenheit kaum zur Kenntnis", "Seine **griesgrämige** Haltung machte die Zusammenarbeit schwierig und unangenehm"]]
+  },
+  {
+    "lemma": "surmounted",
+    "meanings_de": ["überwunden oder gekrönt"],
+    "definitions_de": ["eine Schwierigkeit oder ein Hindernis überwunden habend, oder etwas oben drauf platziert habend"],
+    "examples_de": [["Das Monument wird von einem goldenen Adler **gekrönt**", "Sie **überwanden** erfolgreich alle Hindernisse bis zum Abschluss"]]
+  },
+  {
+    "lemma": "surpassing",
+    "meanings_de": ["unvergleichlich hervorragend"],
+    "definitions_de": ["unvergleichlich groß oder hervorragend, das Gewöhnliche übersteigend oder ihm überlegen"],
+    "examples_de": [["Ihre **außergewöhnliche** Schönheit fesselte alle Gäste der Gala", "Der Künstler zeigte **überragende** Fähigkeiten in der Porträtmalerei"]]
+  },
+  {
+    "lemma": "surreal",
+    "meanings_de": ["bizarr traumhaft"],
+    "definitions_de": ["die Qualitäten des Surrealismus besitzend, gekennzeichnet durch bizarre, traumhafte Verzerrung der Realität"],
+    "examples_de": [["Die Unfallszene hatte etwas **Surreales** an sich", "Der Gang durch die leere Stadt fühlte sich völlig **unwirklich** an"]]
+  },
+  {
+    "lemma": "surrealistic",
+    "meanings_de": ["surrealistisch geprägt"],
+    "definitions_de": ["Eigenschaften besitzend, die für den Surrealismus charakteristisch sind, unzusammenhängende Bilder auf bizarre, traumhafte Weise kombinierend"],
+    "examples_de": [["Der Film nutzte **surrealistische** Bildsprache zur Darstellung psychischer Zustände", "Ihre **surrealistischen** Gemälde stellten konventionelle künstlerische Perspektiven in Frage"]]
+  },
+  {
+    "lemma": "surrogate",
+    "meanings_de": ["Ersatz oder Stellvertreter"],
+    "definitions_de": ["als Ersatz oder Stellvertreter für jemanden oder etwas anderes fungierend"],
+    "examples_de": [["Sie diente dem Paar als **Leihmutter**", "Die Puppe wurde für sie zu einem **Ersatzkind**"]]
+  },
+  {
+    "lemma": "kazakhstani",
+    "meanings_de": ["aus Kasachstan"],
+    "definitions_de": ["sich auf Kasachstan oder seine Menschen, Kultur oder Sprache beziehend"],
+    "examples_de": [["Die **kasachische** Delegation traf zu Handelsverhandlungen ein", "Sie studierte **kasachische** Volksmusik für ihre Abschlussarbeit"]]
+  },
+  {
+    "lemma": "kenyan",
+    "meanings_de": ["aus Kenia"],
+    "definitions_de": ["sich auf Kenia oder seine Menschen, Kultur oder Sprache beziehend"],
+    "examples_de": [["**Kenianische** Läufer dominierten erneut den Marathonwettbewerb", "Das Restaurant serviert täglich authentische **kenianische** Küche"]]
+  },
+  {
+    "lemma": "keynesian",
+    "meanings_de": ["Keynes betreffend"],
+    "definitions_de": ["sich auf die Wirtschaftstheorien von John Maynard Keynes beziehend, die staatliche Eingriffe in die Wirtschaft befürworten"],
+    "examples_de": [["Die Regierung verfolgte während der Rezession **keynesianische** Politik", "Die **keynesianische** Wirtschaftslehre betont nachfrageseitige Lösungen für Konjunktureinbrüche"]]
+  },
+  {
+    "lemma": "kurdish",
+    "meanings_de": ["kurdisch"],
+    "definitions_de": ["sich auf die Kurden oder ihre Sprache und Kultur beziehend"],
+    "examples_de": [["Sie lernte **Kurdisch** von ihrer Großmutter sprechen", "Das Museum zeigte eine Ausstellung **kurdischer** Kunst"]]
+  },
+  {
+    "lemma": "kuwaiti",
+    "meanings_de": ["aus Kuwait"],
+    "definitions_de": ["sich auf Kuwait oder seine Menschen, Kultur oder Sprache beziehend"],
+    "examples_de": [["Die **kuwaitische** Botschaft veranstaltete einen kulturellen Austausch", "**Kuwaitische** Ölreserven gehören zu den größten der Welt"]]
+  },
+  {
+    "lemma": "kyrgyzstani",
+    "meanings_de": ["aus Kirgisistan"],
+    "definitions_de": ["sich auf Kirgisistan oder seine Menschen, Kultur oder Sprache beziehend"],
+    "examples_de": [["Das **kirgisische** Team nahm an den Winterolympiaden teil", "Traditionelle **kirgisische** Jurten prägten die Berglandschaft"]]
+  },
+  {
+    "lemma": "surrounded",
+    "meanings_de": ["rundherum eingeschlossen"],
+    "definitions_de": ["etwas auf allen Seiten habend, was eine vollständige Umschließung oder Barriere bildet"],
+    "examples_de": [["Die Burg war von einem tiefen Graben **umgeben**", "Sie fühlte sich von unterstützenden Freunden und Familie **umringt**"]]
+  },
+  {
+    "lemma": "surviving",
+    "meanings_de": ["weiterhin lebend", "noch existierend"],
+    "definitions_de": ["trotz Härte, Gefahr oder schwieriger Umstände weiterhin lebend oder existierend", "noch vorhanden, wenn andere ähnliche Dinge verloren gegangen oder zerstört wurden"],
+    "examples_de": [["Die **überlebenden** Passagiere wurden nach drei Tagen gerettet", "Nur zwei **überlebende** Mitglieder kamen zum Treffen"], ["Das Museum zeigt **erhaltene** Artefakte aus antiken Zivilisationen", "Dies ist die einzige **erhaltene** Kopie des Manuskripts"]]
+  },
+  {
+    "lemma": "susceptible",
+    "meanings_de": ["leicht beeinflussbar", "anfällig für Schaden"],
+    "definitions_de": ["wahrscheinlich oder geneigt, von einer bestimmten Sache beeinflusst oder geschädigt zu werden", "emotional leicht betroffen oder wenig Widerstand gegen etwas Schädliches habend"],
+    "examples_de": [["Kleine Kinder sind besonders **anfällig** für Gruppendruck", "Das Metall ist **empfindlich** gegen Rost bei Feuchtigkeit"], ["Sie war im Winter **anfällig** für Erkältungen", "Seine **empfängliche** Natur ließ ihn jede Geschichte glauben"]]
+  },
+  {
+    "lemma": "suspected",
+    "meanings_de": ["mutmaßlich"],
+    "definitions_de": ["für schuldig, wahr oder wahrscheinlich gehalten, aber ohne sicheren Beweis"],
+    "examples_de": [["Der **mutmaßliche** Dieb wurde von Polizeibeamten befragt", "Die Ärzte ordneten Tests für die **vermutete** Virusinfektion an"]]
+  },
+  {
+    "lemma": "suspended",
+    "meanings_de": ["von oben hängend", "vorübergehend ausgesetzt"],
+    "definitions_de": ["von etwas oberhalb hängend, sodass alle Seiten außer am Befestigungspunkt frei sind", "vorübergehend daran gehindert, fortzufahren oder in Kraft zu sein oder zu wirken"],
+    "examples_de": [["Wunderschöne Kristalle **hingen** am Kronleuchter", "Die Brücke **hing** hoch über dem Fluss"], ["Sein Führerschein wurde für sechs Monate **entzogen**", "Das Spiel blieb wegen starken Regens **unterbrochen**"]]
+  },
+  {
+    "lemma": "suspenseful",
+    "meanings_de": ["spannungsgeladen"],
+    "definitions_de": ["erregte Erwartung oder Unsicherheit darüber erregend, was geschehen wird, und dadurch dramatische Spannung erzeugend"],
+    "examples_de": [["Der **spannende** Film hielt das Publikum durchgehend in Atem", "Sie schreibt **fesselnde** Romane, die Leser nicht aus der Hand legen können"]]
+  },
+  {
+    "lemma": "sustained",
+    "meanings_de": ["anhaltend über längere Zeit"],
+    "definitions_de": ["über einen längeren Zeitraum oder ohne Unterbrechung auf gleichbleibendem Niveau fortdauernd"],
+    "examples_de": [["Die Wirtschaft zeigte über fünf Jahre **anhaltendes** Wachstum", "Ihre **ausdauernde** Anstrengung brachte schließlich die gewünschten Ergebnisse"]]
+  },
+  {
+    "lemma": "swagger",
+    "meanings_de": ["selbstbewusst prahlend"],
+    "definitions_de": ["selbstbewusstes, arrogantes oder aggressives Selbstvertrauen in Verhalten oder Erscheinung habend oder zeigend"],
+    "examples_de": [["Seine **großspurige** Art verärgerte seine bescheideneren Kollegen", "Das Team behielt seinen **selbstbewussten** Stil während der gesamten Saison bei"]]
+  },
+  {
+    "lemma": "swampy",
+    "meanings_de": ["sumpfartig"],
+    "definitions_de": ["charakteristisch für einen Sumpf oder ihm ähnelnd mit weichem, nassem, schwammigem Boden"],
+    "examples_de": [["Das **sumpfige** Gelände machte das Wandern extrem schwierig", "Mücken gediehen in den **morastigen** Bedingungen nahe dem Fluss"]]
+  },
+  {
+    "lemma": "swank",
+    "meanings_de": ["elegant luxuriös"],
+    "definitions_de": ["stilvoll luxuriös und teuer, Reichtum oder Kultiviertheit auffällig zur Schau stellend"],
+    "examples_de": [["Sie übernachteten in einem **noblen** Hotel mit Blick auf den Central Park", "Das **schicke** Restaurant verlangte formelle Kleidung zum Abendessen"]]
+  }
+]

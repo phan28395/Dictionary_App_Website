@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "fitting",
+    "meanings_de": ["passend und angemessen", "eingebaut werdend"],
+    "definitions_de": ["den Umständen oder dem Zweck entsprechend und daher als richtig oder angebracht empfunden", "gerade in etwas eingebaut, befestigt oder angebracht werdend"],
+    "examples_de": [["Es war **angemessen**, die Gedenkfeier bei Sonnenuntergang abzuhalten", "Das Kleid war eine **passende** Wahl für den festlichen Anlass"], ["Die Handwerker sind dabei, neue Fenster **einzubauen**", "Sie **fügt** die Puzzleteile sorgfältig zusammen"]]
+  },
+  {
+    "lemma": "five",
+    "meanings_de": ["die Zahl fünf betreffend"],
+    "definitions_de": ["der Kardinalzahl zwischen vier und sechs entsprechend, diese Anzahl betreffend"],
+    "examples_de": [["Die Familie muss täglich **fünf** Kinder versorgen", "Wir brauchen noch **fünf** Minuten, um das Projekt abzuschließen"]]
+  },
+  {
+    "lemma": "fivefold",
+    "meanings_de": ["fünfmal so viel"],
+    "definitions_de": ["aus fünf Teilen bestehend oder um das Fünffache vermehrt beziehungsweise verstärkt"],
+    "examples_de": [["Das Unternehmen verzeichnete eine **fünffache** Gewinnsteigerung", "Ihre Bemühungen führten zu einem **fünffachen** Wachstum innerhalb von zwei Jahren"]]
+  },
+  {
+    "lemma": "flaccid",
+    "meanings_de": ["weich und schlaff", "kraftlos oder schwach"],
+    "definitions_de": ["weich, locker und ohne normale Muskelspannung oder Festigkeit, erschlafft", "ohne Energie, Nachdruck oder Wirksamkeit in Handlung oder Ausdruck"],
+    "examples_de": [["Nach Monaten im Gipsverband waren seine Armmuskeln völlig **schlaff**", "Die Blätter der Pflanze wurden ohne ausreichend Wasser **welk**"], ["Das Komitee gab nur eine **kraftlose** Antwort auf die Krise", "Ihr **lahmer** Versuch, witzig zu sein, ging völlig daneben"]]
+  },
+  {
+    "lemma": "flagging",
+    "meanings_de": ["nachlassend oder ermüdend", "mit Flaggen markierend"],
+    "definitions_de": ["müde werdend, schwächer werdend oder den Enthusiasmus für etwas verlierend", "mit Flaggen oder ähnlichen Markierungen kennzeichnend"],
+    "examples_de": [["Ihre **nachlassende** Energie war bei der Abschlusspräsentation deutlich spürbar", "Die **sinkende** Moral des Teams erforderte eine motivierende Ansprache"], ["Sie **markieren** die gefährlichen Stellen entlang des Wanderwegs", "Arbeiter waren dabei, die Baustelle zur Sicherheit **abzusperren**"]]
+  },
+  {
+    "lemma": "flagrant",
+    "meanings_de": ["offenkundig empörend"],
+    "definitions_de": ["in auffälliger und schockierender Weise gegen Regeln oder Normen verstoßend, unverschämt offensichtlich"],
+    "examples_de": [["Seine **eklatante** Missachtung der Sicherheitsvorschriften verursachte den Unfall", "Der Schiedsrichter ahndete ein **grobes** Foul während des Spiels"]]
+  },
+  {
+    "lemma": "flaky",
+    "meanings_de": ["in Flocken zerfallend", "unzuverlässig oder schrullig"],
+    "definitions_de": ["leicht in dünne, flache Stücke oder Schichten zerfallend oder sich ablösend", "sich unzuverlässig, exzentrisch oder unberechenbar verhaltend"],
+    "examples_de": [["Die Torte hatte einen perfekt goldenen und **blättrigen** Teig", "Ihre Kopfhaut wurde im Winter trocken und **schuppig**"], ["Er ist zu **unzuverlässig**, um ihm wichtige Aufgaben anzuvertrauen", "Mein **zerstreuter** Mitbewohner vergaß schon wieder die Miete zu zahlen"]]
+  },
+  {
+    "lemma": "flamboyant",
+    "meanings_de": ["auffällig extravagant"],
+    "definitions_de": ["durch überschwängliche Art, Selbstbewusstsein und stilvolle Extravaganz Aufmerksamkeit erregend"],
+    "examples_de": [["Der Pfau präsentierte seine **prächtigen** Federn, um Partner anzulocken", "Seine **schillernde** Persönlichkeit machte ihn auf Partys sehr beliebt"]]
+  },
+  {
+    "lemma": "flaming",
+    "meanings_de": ["mit Flammen brennend", "leidenschaftlich oder heftig"],
+    "definitions_de": ["mit Flammen brennend oder hell leuchtend erscheinend", "starke Emotionen zeigend oder sehr leidenschaftlich und intensiv"],
+    "examples_de": [["Die **flammenden** Holzscheite knisterten die ganze Nacht im Kamin", "Eine **brennende** Fackel erleuchtete den dunklen Pfad"], ["Sie hatten einen **heftigen** Streit über Politik beim Abendessen", "Sein **hitziges** Temperament brachte ihn oft in Schwierigkeiten"]]
+  },
+  {
+    "lemma": "flammable",
+    "meanings_de": ["leicht entzündlich"],
+    "definitions_de": ["sich leicht entzündend und bei Kontakt mit Flammen schnell brennend, feuergefährlich"],
+    "examples_de": [["Halten Sie **brennbare** Materialien beim Kochen vom Herd fern", "Das Lager bewahrt **entzündliche** Chemikalien in speziellen Behältern auf"]]
+  },
+  {
+    "lemma": "flaring",
+    "meanings_de": ["sich ausweitend", "aufflackernd"],
+    "definitions_de": ["sich allmählich nach außen ausbreitend, um an einem Ende breiter zu werden", "mit plötzlichem hellem oder unstetigem Licht brennend oder leuchtend"],
+    "examples_de": [["Sie trug ein Kleid mit **ausgestelltem** Rock zum Tanzen", "Seine **geblähten** Nasenflügel zeigten seinen wachsenden Zorn"], ["Das **aufflackernde** Streichholz erhellte kurz die dunkle Höhle", "**Flackernde** Fackeln säumten nachts die Burgmauern"]]
+  },
+  {
+    "lemma": "flashy",
+    "meanings_de": ["auffällig protzig"],
+    "definitions_de": ["in oberflächlicher oder geschmackloser Weise auffällig attraktiv oder beeindruckend"],
+    "examples_de": [["Er fährt einen **auffälligen** roten Sportwagen, um Eindruck zu machen", "Ihr **protziger** Schmuck zog auf der Party alle Blicke auf sich"]]
+  },
+  {
+    "lemma": "flattened",
+    "meanings_de": ["platt gemacht"],
+    "definitions_de": ["durch Drücken, Zerquetschen oder Glätten flach oder eben gemacht"],
+    "examples_de": [["Der Sturm hinterließ **niedergewalzte** Getreidefelder", "Sie fand einen **plattgewalzten** Cent auf den Bahngleisen"]]
+  },
+  {
+    "lemma": "flattering",
+    "meanings_de": ["vorteilhaft aussehen lassend", "übermäßig lobend"],
+    "definitions_de": ["jemanden oder etwas so attraktiv wie möglich erscheinen lassend", "übertriebenes oder unaufrichtiges Lob ausdrückend, um jemandem zu gefallen"],
+    "examples_de": [["Das Kleid hat einen **vorteilhaften** Schnitt, der ihrer Figur schmeichelt", "Weiches Licht erzeugt eine **schmeichelhafte** Wirkung auf Fotos"], ["Seine **schmeichelnden** Kommentare schienen darauf abzuzielen, ihre Gunst zu gewinnen", "Die Rezension war **schmeichelhaft**, aber nicht ganz ehrlich"]]
+  },
+  {
+    "lemma": "flawed",
+    "meanings_de": ["fehlerhaft oder mangelhaft"],
+    "definitions_de": ["Unvollkommenheiten, Fehler oder Schwächen aufweisend, die Wert oder Wirksamkeit mindern"],
+    "examples_de": [["Der Diamant war trotz kleiner **Fehler** wunderschön", "Ihre **fehlerhafte** Argumentation führte zur falschen Schlussfolgerung"]]
+  },
+  {
+    "lemma": "flawless",
+    "meanings_de": ["makellos perfekt"],
+    "definitions_de": ["ohne jegliche Makel, Fehler oder Unvollkommenheiten in Erscheinung oder Leistung"],
+    "examples_de": [["Ihr **makelloser** Teint benötigte überhaupt kein Make-up", "Die Turnerin zeigte eine **fehlerlose** Kür und gewann Gold"]]
+  },
+  {
+    "lemma": "fledged",
+    "meanings_de": ["flügge geworden", "voll entwickelt"],
+    "definitions_de": ["bei Jungvögeln die zum Fliegen notwendigen Federn entwickelt habend", "volle Entwicklung oder Status in einer bestimmten Rolle erreicht habend"],
+    "examples_de": [["Die **flüggen** Küken waren bereit, das Nest zu verlassen", "Junge Adler werden nach drei Monaten vollständig **flugfähig**"], ["Sie ist jetzt ein **vollwertiges** Mitglied des Ärzteteams", "Das Startup wurde nach der Finanzierung zu einem **ausgereiften** Unternehmen"]]
+  },
+  {
+    "lemma": "fledgling",
+    "meanings_de": ["neu gegründet oder unerfahren"],
+    "definitions_de": ["neu und unerfahren in einer bestimmten Tätigkeit oder Situation, noch am Anfang stehend"],
+    "examples_de": [["Das **junge** Unternehmen kämpfte darum, seine ersten Kunden zu finden", "Als **angehende** Schriftstellerin reichte sie Geschichten bei Zeitschriften ein"]]
+  },
+  {
+    "lemma": "fleeting",
+    "meanings_de": ["sehr kurz dauernd"],
+    "definitions_de": ["nur für sehr kurze Zeit bestehend, bevor es verschwindet oder endet, flüchtig"],
+    "examples_de": [["Sie erhaschte einen **flüchtigen** Blick auf den seltenen Vogel", "Ihr Glück erwies sich als **kurzlebig**, als schlechte Nachrichten eintrafen"]]
+  },
+  {
+    "lemma": "fleshy",
+    "meanings_de": ["fleischig dick", "fleischähnlich in Textur"],
+    "definitions_de": ["eine beträchtliche Menge an Fleisch oder Fett am Körper habend, korpulent", "eine weiche, dicke Textur habend, die Fleisch ähnelt"],
+    "examples_de": [["Sein **fleischiges** Gesicht zeigte Spuren guten Lebens", "Die **pummeligen** Ärmchen des Babys waren zum Kneifen süß"], ["Die Pflanze hat dicke, **fleischige** Blätter, die Wasser speichern", "**Saftige** Früchte wie Pfirsiche sind im Sommer beliebt"]]
+  },
+  {
+    "lemma": "flickering",
+    "meanings_de": ["unstetig leuchtend"],
+    "definitions_de": ["unstetig oder mit schwankendem, unterbrochenem Licht scheinend oder brennend, flackernd"],
+    "examples_de": [["Die **flackernde** Kerze warf tanzende Schatten an die Wand", "Ein **flimmerndes** Neonschild warb für das alte Motel"]]
+  },
+  {
+    "lemma": "flightless",
+    "meanings_de": ["flugunfähig"],
+    "definitions_de": ["die Fähigkeit zu fliegen nicht besitzend, besonders bei bestimmten Vogelarten"],
+    "examples_de": [["Pinguine sind **flugunfähige** Vögel, die stattdessen ans Schwimmen angepasst sind", "Der Dodo war ein **flugunfähiger** Vogel, der ausgestorben ist"]]
+  },
+  {
+    "lemma": "flimsy",
+    "meanings_de": ["dünn und schwach gebaut", "schwach und unglaubwürdig"],
+    "definitions_de": ["aus dünnem Material gefertigt, das leicht reißt oder keine Festigkeit hat", "schwach, unzureichend oder nicht überzeugend in Art oder Qualität"],
+    "examples_de": [["Der **dünne** Zeltstoff riss im starken Wind", "Sie trug ein **hauchdünnes** Kleid, das für kaltes Wetter ungeeignet war"], ["Seine **fadenscheinige** Ausrede überzeugte niemanden von seiner Unschuld", "Die Anklage stützte sich auf **dürftige** Beweise"]]
+  },
+  {
+    "lemma": "flint",
+    "meanings_de": ["extrem hart"],
+    "definitions_de": ["extrem hart wie der Feuerstein, der zum Funkenschlagen verwendet wird, unnachgiebig"],
+    "examples_de": [["Seine **eiserne** Entschlossenheit half ihm, jedes Hindernis zu überwinden", "Sie warf ihm einen **steinharten** Blick zu, der keinen Widerspruch duldete"]]
+  },
+  {
+    "lemma": "flirtatious",
+    "meanings_de": ["kokett flirtend"],
+    "definitions_de": ["sich auf spielerische Weise verhaltend, die romantisches oder sexuelles Interesse andeutet"],
+    "examples_de": [["Ihr **kokettes** Lächeln erregte seine Aufmerksamkeit quer durch den Raum", "Er fand ihre **flirtende** Art charmant, aber nicht ernst gemeint"]]
+  },
+  {
+    "lemma": "floating",
+    "meanings_de": ["auf Flüssigkeit treibend", "nicht fest fixiert"],
+    "definitions_de": ["auf der Oberfläche einer Flüssigkeit ruhend oder sich bewegend ohne zu sinken", "nicht dauerhaft befestigt oder an einem bestimmten Ort angesiedelt"],
+    "examples_de": [["**Treibendes** Eis stellt in nördlichen Gewässern eine Gefahr für Schiffe dar", "Bunte Blätter **trieben** auf der Teichoberfläche"], ["Das Unternehmen hält eine **flexible** Belegschaft für geschäftige Zeiten bereit", "Sie hat **wechselnde** Arbeitszeiten, die sich wöchentlich ändern"]]
+  },
+  {
+    "lemma": "flooded",
+    "meanings_de": ["überschwemmt mit Wasser", "überwältigt von Übermaß"],
+    "definitions_de": ["mit einem Überfluss an Wasser über normale Grenzen hinaus bedeckt oder gefüllt", "mit einer übermäßigen Menge von etwas überwältigt"],
+    "examples_de": [["Der **überflutete** Keller erforderte professionelle Wasserschadensanierung", "**Überschwemmte** Straßen machten das Fahren nach dem Sturm unmöglich"], ["Das Büro wurde mit Beschwerden über den Service **überflutet**", "Ihr Posteingang war mit Glückwunschnachrichten **überschwemmt**"]]
+  },
+  {
+    "lemma": "floodlit",
+    "meanings_de": ["mit Flutlicht beleuchtet"],
+    "definitions_de": ["durch kraftvolle Scheinwerfer erhellt, die breite Lichtstrahlen über ein Gebiet werfen"],
+    "examples_de": [["Das **flutlichtbeleuchtete** Stadion ermöglichte Nachtspiele", "Das **angestrahlte** Schloss sah vor dem dunklen Himmel magisch aus"]]
+  },
+  {
+    "lemma": "floored",
+    "meanings_de": ["zu Boden geschlagen", "völlig überrascht"],
+    "definitions_de": ["durch Gewalt zu Boden oder auf den Grund geschlagen", "völlig überrascht, schockiert oder überwältigt von etwas Unerwartetem"],
+    "examples_de": [["Der Boxer wurde von einem kraftvollen rechten Haken **niedergestreckt**", "Ein Schlag **streckte** den Herausforderer in der ersten Runde nieder"], ["Ich war vom unerwarteten Jobangebot völlig **perplex**", "Die Nachricht von ihrer Scheidung **verblüffte** alle, die sie kannten"]]
+  },
+  {
+    "lemma": "floppy",
+    "meanings_de": ["schlaff herabhängend"],
+    "definitions_de": ["dazu neigend, locker und flexibel zu hängen oder sich zu bewegen ohne Steifheit"],
+    "examples_de": [["Die **schlappenden** Ohren des Hundes hüpften, als er herumrannte", "Sie trug einen **schlabbrigen** Sonnenhut zum Strandpicknick"]]
+  },
+  {
+    "lemma": "floral",
+    "meanings_de": ["Blumen betreffend"],
+    "definitions_de": ["mit Blumen verziert oder Blumen darstellend, oder sich allgemein auf Blumen beziehend"],
+    "examples_de": [["Sie wählte eine **geblümte** Tapete für das Gästezimmer", "Die Braut trug einen wunderschönen **Blumenstrauß** zum Altar"]]
+  },
+  {
+    "lemma": "florid",
+    "meanings_de": ["überladen verziert", "gerötet im Gesicht"],
+    "definitions_de": ["aufwändig verschnörkelt oder kompliziert im Stil oder in der Dekoration", "eine rote oder gerötete Gesichtsfarbe habend, typisch durch Gesundheit oder Emotion"],
+    "examples_de": [["Sein **blumiger** Prosastil machte den Roman schwer lesbar", "Das viktorianische Haus wies **verschnörkelte** architektonische Details auf"], ["Sein **gerötetes** Gesicht deutete auf Bluthochdruckprobleme hin", "Nach dem Treppensteigen wurde ihr Gesicht ziemlich **rot**"]]
+  },
+  {
+    "lemma": "flourishing",
+    "meanings_de": ["prächtig gedeihend"],
+    "definitions_de": ["auf gesunde, kräftige und erfolgreiche Weise wachsend oder sich entwickelnd, blühend"],
+    "examples_de": [["Der **blühende** Garten produzierte den ganzen Sommer über Gemüse", "Ihr **florierendes** Geschäft expandierte auf drei neue Standorte"]]
+  },
+  {
+    "lemma": "flowered",
+    "meanings_de": ["mit Blumen verziert", "Blüten tragend"],
+    "definitions_de": ["mit einem Muster oder Design verziert, das Blumen zeigt", "geblüht habend oder Blüten als Teil des natürlichen Wachstums produziert habend"],
+    "examples_de": [["Sie trug ein **geblümtes** Kleid zur Gartenparty", "Die **blumengemusterten** Vorhänge belebten das schlichte Zimmer"], ["Die frisch **erblühten** Rosen erfüllten die Luft mit Duft", "Nachdem der Kaktus **geblüht** hatte, produzierte er leuchtend rosa Blüten"]]
+  },
+  {
+    "lemma": "flowering",
+    "meanings_de": ["Blüten hervorbringend", "Höhepunkt erreichend"],
+    "definitions_de": ["Blüten produzierend oder im Prozess des Blühens befindlich", "den Höhepunkt oder die erfolgreichste Periode der Entwicklung erreichend"],
+    "examples_de": [["Die **blühenden** Kirschbäume ziehen jeden Frühling Touristen an", "**Blühende** Pflanzen brauchen während der Blütezeit mehr Wasser"], ["Die Renaissance markierte die **Blütezeit** von Kunst und Kultur", "Ihr **aufblühendes** Talent als Pianistin beeindruckte die Jury"]]
+  },
+  {
+    "lemma": "flowery",
+    "meanings_de": ["voller Blumen", "überladen ausgeschmückt"],
+    "definitions_de": ["mit Blumen bedeckt oder viele wachsende Blumen habend", "aufwändige, verzierte oder übermäßig dekorative Sprache oder Stil verwendend"],
+    "examples_de": [["Die **blumenreiche** Wiese war perfekt für ein Sommerpicknick", "Bienen summten den ganzen Tag im **blühenden** Garten"], ["Seine **blumige** Rede war voller unnötiger Metaphern", "Sie schrieb **schwülstige** Dankesschreiben mit übertriebenen Lobpreisungen"]]
+  },
+  {
+    "lemma": "flowing",
+    "meanings_de": ["fließend bewegend", "locker hängend"],
+    "definitions_de": ["sich stetig und kontinuierlich in einem Strom oder einer Strömung bewegend", "locker und anmutig hängend oder fallend"],
+    "examples_de": [["Der **fließende** Fluss trug Boote stromabwärts zum Meer", "Der Verkehr **floss** endlich wieder reibungslos nach der Unfallräumung"], ["Ihr **wallendes** Haar fing die Brise ein, als sie ging", "Die Tänzerin trug **wallende** Gewänder, die sich wunderschön bewegten"]]
+  },
+  {
+    "lemma": "fluctuating",
+    "meanings_de": ["unregelmäßig schwankend"],
+    "definitions_de": ["unregelmäßig in Anzahl, Menge oder Intensität steigend und fallend"],
+    "examples_de": [["Die Aktie zeigte **schwankende** Kurse während des gesamten Handelstages", "Ihre **wechselnden** Stimmungen machten die Zusammenarbeit schwierig"]]
+  },
+  {
+    "lemma": "fluent",
+    "meanings_de": ["fließend sprechend", "mühelos fließend"],
+    "definitions_de": ["fähig, reibungslos, leicht und ausdrucksvoll zu sprechen oder zu schreiben", "reibungslos und mühelos fließend oder sich bewegend"],
+    "examples_de": [["Sie spricht **fließend** drei Sprachen einschließlich Mandarin", "Nach Jahren im Ausland wurde er mit den lokalen Gebräuchen **vertraut**"], ["Die **flüssige** Darbietung des Pianisten beeindruckte das gesamte Publikum", "Ihre **fließenden** Bewegungen zeugten von jahrelangem Tanztraining"]]
+  },
+  {
+    "lemma": "fluffy",
+    "meanings_de": ["weich und luftig"],
+    "definitions_de": ["weich, leicht und luftig in der Textur, oft mit feinen Fasern, flauschig"],
+    "examples_de": [["Das **flauschige** Fell des Kätzchens lud jeden zum Streicheln ein", "Sie häufte **kuschelige** Kissen auf dem Bett für mehr Komfort"]]
+  },
+  {
+    "lemma": "fluorescent",
+    "meanings_de": ["fluoreszierend leuchtend"],
+    "definitions_de": ["sichtbares Licht ausstrahlend, wenn es Strahlung wie ultraviolettem Licht ausgesetzt wird"],
+    "examples_de": [["Das Büro verwendet **Leuchtstofflampen** zur Senkung der Energiekosten", "Sie trug **neongelbe** Kleidung für bessere Sichtbarkeit beim Joggen"]]
+  },
+  {
+    "lemma": "flush",
+    "meanings_de": ["bündig mit Oberfläche", "reichlich vorhanden", "rot vor Emotion"],
+    "definitions_de": ["vollständig eben oder auf gleicher Höhe mit einer anderen Oberfläche", "reichlich von etwas habend, besonders Geld", "rot im Gesicht durch starke Emotion, Hitze oder Alkohol"],
+    "examples_de": [["Die Tür sollte **bündig** mit dem Wandrahmen sein", "Achten Sie darauf, dass die Fliesen **bündig** aneinander liegen"], ["Nach dem Lottogewinn waren sie **gut bei Kasse**", "Das Unternehmen ist mit neuem Investitionskapital **gut ausgestattet**"], ["Ihr Gesicht war vor Verlegenheit über den Fehler **gerötet**", "Er sah nach dem Laufen in der Hitze **erhitzt** aus"]]
+  },
+  {
+    "lemma": "flushed",
+    "meanings_de": ["gerötet im Gesicht"],
+    "definitions_de": ["ein gerötetes Gesicht habend durch Hitze, Emotion, Krankheit oder Anstrengung"],
+    "examples_de": [["Ihre **geröteten** Wangen zeigten, dass sie hart trainiert hatte", "Das Kind sah **fiebrig** aus und brauchte Ruhe"]]
+  },
+  {
+    "lemma": "fluvial",
+    "meanings_de": ["Flüsse betreffend"],
+    "definitions_de": ["sich auf einen Fluss oder fließendes Wasser beziehend oder darin vorkommend"],
+    "examples_de": [["**Fluviale** Sedimentablagerungen schufen das fruchtbare Tal", "Wissenschaftler untersuchen **fluviale** Erosionsmuster entlang des Flussufers"]]
+  },
+  {
+    "lemma": "flying",
+    "meanings_de": ["durch die Luft bewegend", "schnell gemacht"],
+    "definitions_de": ["sich mit Flügeln oder in einem Flugzeug durch die Luft bewegend", "schnell oder kurz während der Bewegung gemacht"],
+    "examples_de": [["Ein **fliegender** Vogel warf seinen Schatten auf den Boden", "Das **fliegende** Flugzeug hinterließ weiße Streifen am Himmel"], ["Sie machte einen **kurzen** Besuch, um nach ihren Eltern zu sehen", "Er machte einen **gewagten** Sprung über den Gartenzaun"]]
+  },
+  {
+    "lemma": "foaming",
+    "meanings_de": ["Schaum erzeugend"],
+    "definitions_de": ["eine Masse kleiner Blasen oder Schaum produzierend oder damit bedeckt"],
+    "examples_de": [["Die **schäumenden** Wellen brachen gegen die felsige Küste", "Er trug **schäumende** Rasiercreme auf, bevor er den Rasierer benutzte"]]
+  },
+  {
+    "lemma": "focal",
+    "meanings_de": ["den Brennpunkt betreffend"],
+    "definitions_de": ["sich auf einen Brennpunkt oder zentralen Punkt der Aufmerksamkeit beziehend oder dort befindlich"],
+    "examples_de": [["Der Kamin dient als **zentraler** Blickfang des Raumes", "Ihre Forschung wurde zum **Mittelpunkt** der Konferenz"]]
+  },
+  {
+    "lemma": "focused",
+    "meanings_de": ["auf eine Sache konzentriert"],
+    "definitions_de": ["Aufmerksamkeit oder Anstrengung konzentriert auf ein bestimmtes Ziel oder Objekt richtend"],
+    "examples_de": [["Sie blieb trotz der lauten Ablenkungen um sie herum **konzentriert**", "Ein **fokussierter** Ansatz half ihm, seine Karriereziele zu erreichen"]]
+  },
+  {
+    "lemma": "focussed",
+    "meanings_de": ["auf eine Sache konzentriert"],
+    "definitions_de": ["Aufmerksamkeit oder Anstrengung konzentriert auf ein bestimmtes Ziel oder Objekt richtend"],
+    "examples_de": [["Er blieb **fokussiert** darauf, das Projekt vor Ablauf der Frist zu beenden", "Das Team blieb während des intensiven Wettbewerbs **konzentriert**"]]
+  },
+  {
+    "lemma": "foetal",
+    "meanings_de": ["den Fötus betreffend"],
+    "definitions_de": ["sich auf einen Fötus während der vorgeburtlichen Entwicklung beziehend oder charakteristisch dafür"],
+    "examples_de": [["Der Ultraschall zeigte eine normale **fetale** Entwicklung nach zwanzig Wochen", "Ärzte überwachten die **fetale** Herzfrequenz während der Wehen"]]
+  }
+]

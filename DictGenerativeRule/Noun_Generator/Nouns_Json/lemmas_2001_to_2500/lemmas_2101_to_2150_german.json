@@ -1,0 +1,296 @@
+[
+  {
+    "lemma": "belly",
+    "meanings_de": ["Bauchbereich", "gewölbte Unterseite"],
+    "definitions_de": ["der vordere Körperteil zwischen Brust und Beinen, der die Verdauungsorgane enthält", "die gerundete untere Fläche oder Unterseite eines Gegenstands"],
+    "examples_de": [["Das Baby trat seiner Mutter während der Schwangerschaft in den **Bauch**", "Er rieb sich den **Bauch**, nachdem er zu viel gegessen hatte"], ["Der **Bauch** des Schiffes schrammte am Kai entlang", "Wir konnten den weißen **Bauch** des Flugzeugs über uns sehen"]]
+  },
+  {
+    "lemma": "banking",
+    "meanings_de": ["Finanzdienstleistungen", "Böschungsbau"],
+    "definitions_de": ["die geschäftliche Tätigkeit der Verwaltung von Geldeinlagen und Bereitstellung von Finanzdienstleistungen", "die Praxis, erhöhte Ränder entlang von Wasserstraßen oder Straßen zu bauen"],
+    "examples_de": [["Sie begann ihre Karriere im **Investmentbanking** nach dem Studium", "**Online-Banking** hat die Kontoverwaltung wesentlich bequemer gemacht"], ["Die **Uferbefestigung** am Fluss verhinderte Überschwemmungen bei Stürmen", "Die **Kurvenüberhöhung** hilft Fahrzeugen, Kurven mit höherer Geschwindigkeit zu nehmen"]]
+  },
+  {
+    "lemma": "asshole",
+    "meanings_de": ["beleidigendes Schimpfwort", "anatomische Öffnung"],
+    "definitions_de": ["eine äußerst unangenehme oder rücksichtslose Person, die sich schlecht verhält", "die Öffnung am Ende des Verdauungstrakts"],
+    "examples_de": [["Dieses **Arschloch** hat mich ohne zu blinken geschnitten", "Sei nicht so ein **Arschloch** zum Kellner"], ["Der Arzt untersuchte den Patienten auf Hämorrhoiden im Bereich des **Afters**", "Medizinstudenten lernen die Fachterminologie für die **Analregion**"]]
+  },
+  {
+    "lemma": "journalism",
+    "meanings_de": ["Nachrichtenberuf"],
+    "definitions_de": ["der Beruf des Schreibens für Zeitungen, Zeitschriften oder der Ausstrahlung von Nachrichten"],
+    "examples_de": [["Sie studierte **Journalismus** an der Universität, um Reporterin zu werden", "Guter **Journalismus** erfordert die Überprüfung von Fakten vor der Veröffentlichung"]]
+  },
+  {
+    "lemma": "flash",
+    "meanings_de": ["plötzliches Licht", "kurzer Moment", "Speichergerät"],
+    "definitions_de": ["ein plötzlicher heller Lichtblitz, der kurz erscheint", "eine extrem kurze Zeitspanne oder ein schnelles Auftreten", "ein tragbares Computerspeichergerät"],
+    "examples_de": [["Der **Kamerablitz** blendete vorübergehend alle auf dem Foto", "Der Blitz erzeugte einen brillanten **Lichtblitz** am Nachthimmel"], ["Die Antwort kam ihr in einem **Geistesblitz**", "Der ganze Vorfall war im **Nu** vorbei"], ["Speichere deine Dateien auf diesem **USB-Stick**, bevor du gehst", "Der **Speicherstick** kann bis zu 64 Gigabyte aufnehmen"]]
+  },
+  {
+    "lemma": "obstacle",
+    "meanings_de": ["physische Barriere", "Schwierigkeit Herausforderung"],
+    "definitions_de": ["etwas, das physisch Bewegung oder Fortschritt auf einem Weg blockiert", "ein Problem oder eine Schwierigkeit, die das Erreichen eines Ziels verhindert"],
+    "examples_de": [["Der umgestürzte Baum war ein großes **Hindernis** auf dem Wanderweg", "Die Läufer mussten während des Rennens über mehrere **Hindernisse** springen"], ["Sprachunterschiede können ein **Hindernis** für die Kommunikation sein", "Finanzielle Zwänge waren das größte **Hindernis** beim Start ihres Unternehmens"]]
+  },
+  {
+    "lemma": "ridge",
+    "meanings_de": ["erhöhte Landform", "erhabene Oberflächenlinie"],
+    "definitions_de": ["ein langer, schmaler erhöhter Landabschnitt oder Gebirgszug", "eine erhabene Linie oder Kante auf einer Oberfläche oder einem Objekt"],
+    "examples_de": [["Sie wanderten entlang des **Bergrückens** und genossen spektakuläre Ausblicke", "Der **Gebirgskamm** trennt die Wassereinzugsgebiete zweier Flusssysteme"], ["Fühle die **Rillen** auf dieser Münze, um zu prüfen, ob sie echt ist", "Die **Grate** auf dem Dach helfen, Regenwasser abzuleiten"]]
+  },
+  {
+    "lemma": "bastard",
+    "meanings_de": ["beleidigendes Schimpfwort", "uneheliches Kind"],
+    "definitions_de": ["eine unangenehme oder verachtenswerte Person, die sich anderen gegenüber schlecht verhält", "eine Person, die von unverheirateten Eltern geboren wurde"],
+    "examples_de": [["Dieser **Mistkerl** hat meinen Parkplatz geklaut, als ich wartete", "Sei nicht so ein **Scheißkerl** zu deinem kleinen Bruder"], ["Im Mittelalter bedeutete ein **Bastard** zu sein, keine Erbrechte zu haben", "Der Roman erforscht, wie die Gesellschaft **uneheliche Kinder** historisch behandelte"]]
+  },
+  {
+    "lemma": "tumor",
+    "meanings_de": ["abnormales Wachstum"],
+    "definitions_de": ["eine abnormale Gewebemasse, die wächst, wenn sich Zellen unkontrolliert vermehren"],
+    "examples_de": [["Der Arzt fand einen kleinen **Tumor** bei der Routineuntersuchung", "Nicht alle **Tumore** sind krebsartig, manche sind völlig gutartig"]]
+  },
+  {
+    "lemma": "architect",
+    "meanings_de": ["Gebäudedesigner", "Schöpfer Planer"],
+    "definitions_de": ["ein Fachmann, der Gebäude entwirft und deren Bau überwacht", "jemand, der die Struktur von etwas Komplexem erstellt oder entwickelt"],
+    "examples_de": [["Der **Architekt** präsentierte die Baupläne für das neue Bürogebäude", "Frank Lloyd Wright war ein berühmter amerikanischer **Architekt**"], ["Sie war die **Hauptarchitektin** der Expansionsstrategie des Unternehmens", "Er gilt als **Architekt** der modernen Wirtschaftstheorie"]]
+  },
+  {
+    "lemma": "wrist",
+    "meanings_de": ["Gelenkverbindung"],
+    "definitions_de": ["das Gelenk, das die Hand mit dem Unterarm verbindet und Handbewegungen ermöglicht"],
+    "examples_de": [["Sie trug ein silbernes Armband um ihr linkes **Handgelenk**", "Der Arzt untersuchte sein **Handgelenk** nach dem Sturz"]]
+  },
+  {
+    "lemma": "harbor",
+    "meanings_de": ["geschützter Hafen", "Zuflucht gewähren"],
+    "definitions_de": ["ein geschützter Wasserbereich, wo Schiffe sicher anlegen können", "jemandem oder etwas Schutz oder Zuflucht gewähren"],
+    "examples_de": [["Die Fischerboote kehrten vor Sonnenuntergang in den **Hafen** zurück", "Pearl **Harbor** ist ein berühmter Marinestützpunkt in Hawaii"], ["Sie konnte keinen Groll gegen ihre alte Freundin **hegen**", "Das alte Lagerhaus **beherbergte** mehrere obdachlose Familien"]]
+  },
+  {
+    "lemma": "bullshit",
+    "meanings_de": ["Unsinn Gerede", "täuschender Inhalt"],
+    "definitions_de": ["dummes oder unwahres Gerede, das keinen Wert oder keine Bedeutung hat", "absichtlich täuschende oder irreführende Aussagen oder Handlungen"],
+    "examples_de": [["Hör auf mit dem **Quatsch** und sag mir, was wirklich passiert ist", "Seine Erklärung klang für alle wie kompletter **Blödsinn**"], ["Die Werbung war voller Marketing-**Bullshit**", "Komm mir nicht mit diesem **Scheiß**, dass du zu beschäftigt bist"]]
+  },
+  {
+    "lemma": "realm",
+    "meanings_de": ["Königreich Territorium", "Tätigkeitsfeld"],
+    "definitions_de": ["ein Königreich oder Gebiet, das von einem Monarchen oder einer Regierung regiert wird", "ein bestimmter Bereich des Wissens, der Tätigkeit oder des Interesses"],
+    "examples_de": [["Die Königin herrschte über ein riesiges **Reich**, das sich über drei Kontinente erstreckte", "Ritter verteidigten das **Reich** gegen eindringende Armeen"], ["Diese Entdeckung eröffnet neue Möglichkeiten im **Bereich** der Physik", "Ihre Expertise liegt im **Bereich** der internationalen Finanzen"]]
+  },
+  {
+    "lemma": "bet",
+    "meanings_de": ["Glücksspielwette", "wahrscheinliche Annahme"],
+    "definitions_de": ["Geld oder etwas Wertvolles, das auf ein unsicheres Ergebnis gesetzt wird", "eine zuversichtliche Aussage darüber, was wahrscheinlich passieren wird"],
+    "examples_de": [["Er setzte fünfzig Dollar auf das Pferderennen als **Wette**", "Die **Wette** zahlte sich aus, als sein Team die Meisterschaft gewann"], ["Ich **wette**, sie kommt wieder zu spät wie immer", "Die beste **Wahl** ist, die Autobahn zu nehmen"]]
+  },
+  {
+    "lemma": "inspector",
+    "meanings_de": ["offizieller Prüfer"],
+    "definitions_de": ["ein Beamter, der etwas prüft, um sicherzustellen, dass Standards oder Vorschriften eingehalten werden"],
+    "examples_de": [["Der **Bauinspektor** überprüfte die Konstruktion auf Verstöße gegen die Bauvorschriften", "Ein **Gesundheitsinspektor** besuchte das Restaurant letzte Woche"]]
+  },
+  {
+    "lemma": "surveillance",
+    "meanings_de": ["Überwachung Beobachtung"],
+    "definitions_de": ["genaue Beobachtung einer Person, eines Ortes oder einer Aktivität, insbesondere durch Behörden"],
+    "examples_de": [["Das Geschäft nutzt **Überwachungskameras**, um Ladendiebstahl zu verhindern", "Die Polizei hielt den Verdächtigen drei Monate lang unter **Überwachung**"]]
+  },
+  {
+    "lemma": "trauma",
+    "meanings_de": ["psychische Belastung", "körperliche Verletzung"],
+    "definitions_de": ["schwerer emotionaler Schock und Stress nach einer verstörenden Erfahrung", "schwere körperliche Verletzung durch plötzlichen Aufprall oder Gewalt"],
+    "examples_de": [["Der Unfall hinterließ bei ihr ein dauerhaftes psychisches **Trauma**", "Ein **Kindheitstrauma** kann die psychische Gesundheit im Erwachsenenalter beeinflussen"], ["Der Patient erlitt ein stumpfes **Trauma** am Kopf", "Notärzte sind auf die Behandlung schwerer **Traumafälle** spezialisiert"]]
+  },
+  {
+    "lemma": "romance",
+    "meanings_de": ["Liebesbeziehung", "abenteuerliche Qualität"],
+    "definitions_de": ["ein Gefühl von Aufregung und Liebe zwischen Menschen in einer Beziehung", "eine Qualität von Geheimnis, Aufregung und fernem Abenteuer"],
+    "examples_de": [["Ihre Büro**romanze** wurde zum Gesprächsthema der Firma", "Sie schreibt **Liebesromane**, die in historischen Zeiten spielen"], ["Die **Romantik** des Segelns über den Ozean zog viele Abenteurer an", "Es gibt eine gewisse **Romantik** beim Reisen mit dem Zug"]]
+  },
+  {
+    "lemma": "deadline",
+    "meanings_de": ["endgültiger Zeitpunkt"],
+    "definitions_de": ["der späteste Zeitpunkt oder das späteste Datum, bis zu dem etwas abgeschlossen sein muss"],
+    "examples_de": [["Der **Abgabetermin** für das Projekt ist nächsten Freitag um fünf Uhr", "Das Versäumen der **Frist** könnte zu Vertragsstrafen führen"]]
+  },
+  {
+    "lemma": "compensation",
+    "meanings_de": ["Bezahlung für Arbeit", "Schadenszahlung"],
+    "definitions_de": ["Geld und Leistungen, die im Austausch für Arbeit oder Dienstleistungen erhalten werden", "Zahlung zum Ausgleich von Verlust, Verletzung oder Leid"],
+    "examples_de": [["Der Job bietet eine wettbewerbsfähige **Vergütung** einschließlich Krankenversicherung", "**Vergütungspakete** für Führungskräfte beinhalten oft Aktienoptionen"], ["Die Fluggesellschaft bot **Entschädigung** für den annullierten Flug an", "Arbeiter erhielten **Entschädigung** für ihre Arbeitsplatzverletzungen"]]
+  },
+  {
+    "lemma": "insect",
+    "meanings_de": ["kleines Gliederfüßer"],
+    "definitions_de": ["ein kleines Tier mit sechs Beinen und meist Flügeln wie Ameisen, Bienen oder Fliegen"],
+    "examples_de": [["Der Garten war voller nützlicher **Insekten** wie Marienkäfer", "Einige **Insekten** können Krankheiten auf Menschen übertragen"]]
+  },
+  {
+    "lemma": "output",
+    "meanings_de": ["Produktionsmenge", "Computerergebnis"],
+    "definitions_de": ["die Menge von etwas, das von einer Person, Maschine oder einem System produziert wird", "Informationen, die von einem Computerprogramm oder elektronischen Gerät erzeugt werden"],
+    "examples_de": [["Die Fabrik steigerte ihre **Produktion** im letzten Jahr um zwanzig Prozent", "Die landwirtschaftliche **Produktion** hängt stark von den Wetterbedingungen ab"], ["Überprüfen Sie die **Druckerausgabe** auf Fehlermeldungen", "Die **Ausgabe** des Programms erscheint sofort auf dem Bildschirm"]]
+  },
+  {
+    "lemma": "parliament",
+    "meanings_de": ["gesetzgebende Körperschaft"],
+    "definitions_de": ["die oberste gesetzgebende Körperschaft in bestimmten Ländern, bestehend aus gewählten Vertretern"],
+    "examples_de": [["Das **Parlament** stimmte für die Genehmigung der neuen Umweltgesetzgebung", "Die **Parlamentsmitglieder** debattierten sechs Stunden über den Haushalt"]]
+  },
+  {
+    "lemma": "suite",
+    "meanings_de": ["verbundene Räume", "Softwaresammlung", "musikalische Komposition"],
+    "definitions_de": ["eine Reihe verbundener Räume in einem Hotel oder Gebäude", "eine Sammlung verwandter Computerprogramme, die zusammen verkauft werden", "eine Reihe von Musikstücken, die zusammen aufgeführt werden sollen"],
+    "examples_de": [["Sie buchten die Hochzeits**suite** mit Meerblick", "Die Executive **Suite** umfasst einen Konferenzraum und eine Küche"], ["Die Office-**Suite** enthält Textverarbeitungs- und Tabellenkalkulationsprogramme", "Adobe Creative **Suite** enthält verschiedene Design-Anwendungen"], ["Das Orchester führte Bachs Orchester**suite** in D-Dur auf", "Der Komponist schrieb eine **Suite**, inspiriert von den Jahreszeiten"]]
+  },
+  {
+    "lemma": "separation",
+    "meanings_de": ["Teilung auseinander", "eheliche Trennung"],
+    "definitions_de": ["die Handlung oder der Zustand, sich von etwas zu entfernen oder entfernt zu werden", "eine Vereinbarung, bei der Ehepaare getrennt leben, aber verheiratet bleiben"],
+    "examples_de": [["Die **Trennung** von Kirche und Staat ist ein grundlegendes Prinzip", "Körperliche **Trennung** schwächte ihre emotionale Bindung nicht"], ["Sie kündigten ihre **Trennung** nach fünfzehn Jahren Ehe an", "Die **Trennungsvereinbarung** regelte Sorgerecht und finanzielle Angelegenheiten"]]
+  },
+  {
+    "lemma": "demon",
+    "meanings_de": ["böser Geist", "quälende Kraft"],
+    "definitions_de": ["ein böses übernatürliches Wesen aus religiösen oder mythologischen Traditionen", "etwas, das anhaltende Angst, Sorge oder Qual verursacht"],
+    "examples_de": [["Alte Texte beschreiben **Dämonen**, die von menschlichen Körpern Besitz ergreifen", "Der Film zeigte einen **Dämon**, der eine Kleinstadt terrorisierte"], ["Er stellte sich schließlich seinen inneren **Dämonen** durch Therapie", "Die Sucht war ihr persönlicher **Dämon**, den sie überwinden musste"]]
+  },
+  {
+    "lemma": "eating",
+    "meanings_de": ["Nahrungsaufnahme"],
+    "definitions_de": ["der Akt des Verzehrens von Nahrung durch Einführen in den Mund, Kauen und Schlucken"],
+    "examples_de": [["Gesunde **Essgewohnheiten** beinhalten viel Obst und Gemüse", "Das Restaurant hat **Essbereiche** im Freien für schönes Wetter"]]
+  },
+  {
+    "lemma": "equality",
+    "meanings_de": ["gleiche Behandlung Status"],
+    "definitions_de": ["der Zustand der Gleichheit in Rechten, Status und Chancen unabhängig von Unterschieden"],
+    "examples_de": [["Die Bewegung kämpfte für Rassen**gleichheit** in Bildung und Beschäftigung", "Die **Gleichstellung** der Geschlechter bleibt ein wichtiges Ziel in vielen Arbeitsplätzen"]]
+  },
+  {
+    "lemma": "probability",
+    "meanings_de": ["Wahrscheinlichkeitsmaß"],
+    "definitions_de": ["das Ausmaß, in dem etwas wahrscheinlich eintritt, mathematisch zwischen null und eins gemessen"],
+    "examples_de": [["Die **Wahrscheinlichkeit** von Regen morgen beträgt siebzig Prozent", "Statistikstudenten lernen, die **Wahrscheinlichkeit** mit Formeln zu berechnen"]]
+  },
+  {
+    "lemma": "acquisition",
+    "meanings_de": ["Erlangung von etwas", "Unternehmenskauf"],
+    "definitions_de": ["der Akt, Besitz oder Kontrolle über etwas zu erlangen", "der Kauf eines Unternehmens durch ein anderes Unternehmen"],
+    "examples_de": [["Der **Spracherwerb** beginnt in der frühen Kindheit durch Zuhören", "Das Museum feierte seine **Erwerbung** seltener Gemälde"], ["Die **Übernahme** verdoppelte den Marktanteil des Unternehmens über Nacht", "Sorgfältige Prüfung ist vor jeder größeren **Akquisition** entscheidend"]]
+  },
+  {
+    "lemma": "custody",
+    "meanings_de": ["rechtliche Vormundschaft", "Gewahrsam Kontrolle"],
+    "definitions_de": ["das gesetzliche Recht, für ein Kind zu sorgen und Entscheidungen zu treffen", "der Zustand, inhaftiert oder unter Bewachung gehalten zu werden"],
+    "examples_de": [["Das Gericht sprach beiden Eltern das gemeinsame **Sorgerecht** zu", "**Sorgerechtvereinbarungen** stellen die besten Interessen der Kinder in den Vordergrund"], ["Der Verdächtige blieb bis zum Prozess in **Polizeigewahrsam**", "Beweise müssen die **Beweiskette** für Gerichtsverfahren aufrechterhalten"]]
+  },
+  {
+    "lemma": "compromise",
+    "meanings_de": ["gegenseitige Einigung", "Sicherheitsverletzung"],
+    "definitions_de": ["eine durch gegenseitiges Zugeständnis erreichte Einigung, bei der jede Seite etwas aufgibt", "Aussetzung von Risiko oder Gefahr, insbesondere der Sicherheit oder Integrität"],
+    "examples_de": [["Sie erreichten einen **Kompromiss** beim Budget nach langen Verhandlungen", "Die Ehe erfordert oft **Kompromisse** von beiden Partnern"], ["Die Datenpanne war eine schwerwiegende **Kompromittierung** von Kundeninformationen", "Die Verwendung schwacher Passwörter kann Ihre Kontosicherheit **gefährden**"]]
+  },
+  {
+    "lemma": "trash",
+    "meanings_de": ["Abfall Müll", "wertloser Inhalt"],
+    "definitions_de": ["weggeworfenes Abfallmaterial oder Müll, der entsorgt werden muss", "etwas, das als wertlos, von schlechter Qualität oder verachtenswert gilt"],
+    "examples_de": [["Bring den **Müll** dienstags abends an den Bordstein", "Der Strand war mit Plastik**müll** übersät"], ["Dieser Film war absoluter **Schrott** trotz des Hypes", "Lies nicht diesen Boulevardzeitungs**müll**"]]
+  },
+  {
+    "lemma": "earthquake",
+    "meanings_de": ["Bodenbeben"],
+    "definitions_de": ["ein plötzliches heftiges Beben des Bodens, verursacht durch Bewegungen in der Erdkruste"],
+    "examples_de": [["Das **Erdbeben** erreichte 6,5 auf der Richterskala", "Kalifornien erlebt jedes Jahr Tausende kleiner **Erdbeben**"]]
+  },
+  {
+    "lemma": "wake",
+    "meanings_de": ["Wasserspur", "Trauerfeier", "wach werden"],
+    "definitions_de": ["die Spur aufgewühlten Wassers hinter einem fahrenden Boot", "eine Versammlung vor einer Beerdigung, bei der Menschen Respekt zollen", "der Zustand des Wachseins oder Bewusstwerdens"],
+    "examples_de": [["Das Schnellboot hinterließ eine große **Kielwasserspur**", "Schwimmer sollten das **Kielwasser** vorbeifahrender Boote meiden"], ["Familie und Freunde versammelten sich zur **Totenwache**, um Erinnerungen zu teilen", "Die irische **Totenwache** dauerte die ganze Nacht"], ["Sie würde jeden Morgen im Morgengrauen **aufwachen**", "**Weck** das Baby nicht mit lauten Geräuschen"]]
+  },
+  {
+    "lemma": "necessity",
+    "meanings_de": ["wesentliche Anforderung"],
+    "definitions_de": ["etwas, das absolut benötigt wird und für einen Zweck unverzichtbar ist"],
+    "examples_de": [["Sauberes Wasser ist eine grundlegende **Notwendigkeit** für das menschliche Überleben", "Budgetkürzungen zwangen sie, alles außer dem **Notwendigsten** zu eliminieren"]]
+  },
+  {
+    "lemma": "horn",
+    "meanings_de": ["tierische Projektion", "Musikinstrument", "Fahrzeugsignal"],
+    "definitions_de": ["ein harter, spitzer Auswuchs, der aus dem Kopf eines Tieres wächst", "ein Blechblasinstrument mit gewundener Rohrform", "eine Vorrichtung an Fahrzeugen, die ein lautes Warnsignal erzeugt"],
+    "examples_de": [["Das Nashorn nutzt sein **Horn** zur Verteidigung gegen Raubtiere", "Stier**hörner** können mehrere Meter lang werden"], ["Sie spielt **Waldhorn** im Schulorchester", "Die **Bläsersektion** verlieh der Jazzband Fülle"], ["Der Fahrer **hupte**, um Fußgänger zu warnen", "Auto**hupen** tönten während des Staus"]]
+  },
+  {
+    "lemma": "parameter",
+    "meanings_de": ["begrenzender Faktor", "mathematische Variable"],
+    "definitions_de": ["eine Grenze oder Begrenzung, die den Umfang eines Prozesses oder einer Aktivität definiert", "eine numerische Eigenschaft oder Variable in einer mathematischen Gleichung oder Funktion"],
+    "examples_de": [["Wir müssen innerhalb der vom Budget gesetzten **Parameter** arbeiten", "Die Projekt**parameter** umfassen Zeit, Kosten und Qualitätsanforderungen"], ["Passen Sie die **Parameter** in der Gleichung an, um verschiedene Ergebnisse zu erhalten", "Die Funktion akzeptiert drei **Parameter** für die Berechnung"]]
+  },
+  {
+    "lemma": "grip",
+    "meanings_de": ["fester Halt", "Verständnis Kontrolle"],
+    "definitions_de": ["ein fester Halt oder Griff an etwas mit Händen oder Werkzeugen", "die Fähigkeit, eine Situation effektiv zu verstehen oder zu kontrollieren"],
+    "examples_de": [["Sein **Griff** am Tennisschläger war zu fest", "Die Bergsteigerin verlor ihren **Halt** und stürzte"], ["Das Unternehmen verliert seinen **Einfluss** auf den Markt", "Bekomm deine Emotionen in den **Griff**, bevor du antwortest"]]
+  },
+  {
+    "lemma": "mathematics",
+    "meanings_de": ["Zahlenwissenschaft"],
+    "definitions_de": ["die abstrakte Wissenschaft von Zahlen, Mengen und Formen, einschließlich Arithmetik, Algebra, Geometrie und Analysis"],
+    "examples_de": [["Sie studierte **Mathematik** im Hauptfach und arbeitet jetzt als Statistikerin", "Die **Mathematik** bildet die Grundlage für Ingenieurwesen und Physik"]]
+  },
+  {
+    "lemma": "hallway",
+    "meanings_de": ["Innenkorridor"],
+    "definitions_de": ["ein Korridor oder Durchgang innerhalb eines Gebäudes, der Räume oder Bereiche verbindet"],
+    "examples_de": [["Der **Flur** war mit Familienfotos an beiden Wänden dekoriert", "Schüler dürfen nicht in den Schul**fluren** rennen"]]
+  },
+  {
+    "lemma": "liability",
+    "meanings_de": ["rechtliche Verantwortung", "finanzielle Schuld", "nachteilige Eigenschaft"],
+    "definitions_de": ["rechtliche Verantwortung für etwas, insbesondere Schäden oder Schulden", "eine Schuld oder finanzielle Verpflichtung gegenüber einer anderen Partei", "eine Person oder Sache, die Probleme verursacht oder einen in Nachteil versetzt"],
+    "examples_de": [["Die **Haftpflichtversicherung** des Unternehmens deckt Arbeitsunfälle ab", "Immobilieneigentümer haben **Haftung** für Verletzungen auf ihrem Grundstück"], ["Kurzfristige **Verbindlichkeiten** erscheinen in der Unternehmensbilanz", "Das Unternehmen kämpfte mit der Zahlung seiner langfristigen **Verbindlichkeiten**"], ["Seine mangelnde Erfahrung machte ihn zu einer **Belastung** für das Team", "Diese alte Ausrüstung ist mehr **Belastung** als Vermögenswert"]]
+  },
+  {
+    "lemma": "fluid",
+    "meanings_de": ["fließende Substanz", "fließend veränderlich"],
+    "definitions_de": ["eine Substanz, die frei fließt wie Flüssigkeiten und Gase", "sich geschmeidig ändernd oder wahrscheinlich auf anpassungsfähige Weise ändernd"],
+    "examples_de": [["Der Mechaniker überprüfte alle Motor**flüssigkeiten** einschließlich Öl", "Körper**flüssigkeiten** können bestimmte Krankheiten übertragen"], ["Die Situation bleibt **fließend** und könnte sich schnell ändern", "Sie hat einen **flüssigen** Schreibstil, der die Leser fesselt"]]
+  },
+  {
+    "lemma": "homeland",
+    "meanings_de": ["Heimatland"],
+    "definitions_de": ["das Land, in dem eine Person geboren wurde oder starke kulturelle Verbindungen der Vorfahren hat"],
+    "examples_de": [["Einwanderer pflegen oft starke Bindungen zu ihrer **Heimat**", "Er kehrte nach zwanzig Jahren im Ausland in seine **Heimat** zurück"]]
+  },
+  {
+    "lemma": "exam",
+    "meanings_de": ["formeller Test"],
+    "definitions_de": ["ein formeller Test des Wissens oder der Fähigkeiten in einem Fach oder einer Fertigkeit"],
+    "examples_de": [["Die Studenten lernten die ganze Nacht für die Abschluss**prüfung**", "Die medizinische Zulassungs**prüfung** dauert acht Stunden"]]
+  },
+  {
+    "lemma": "anchor",
+    "meanings_de": ["Schiffsgewicht", "Nachrichtensprecher", "Sicherungspunkt"],
+    "definitions_de": ["ein schweres Gerät, das auf den Meeresboden abgesenkt wird, um ein Schiff an Ort und Stelle zu halten", "der Hauptmoderator einer Fernsehnachrichtensendung", "etwas, das Stabilität, Sicherheit oder Vertrauen bietet"],
+    "examples_de": [["Der Kapitän befahl der Besatzung, in der Bucht **Anker** zu werfen", "Der **Anker** wog über zweitausend Pfund"], ["Sie arbeitete als Nachrichten**moderatorin** für die Abendsendung", "Der **Moderator** stellte jede Geschichte mit kurzen Kommentaren vor"], ["Die Familie war ihr **Anker** in schwierigen Zeiten", "Der Eckladen diente als **Anker** für die Nachbarschaft"]]
+  },
+  {
+    "lemma": "vitamin",
+    "meanings_de": ["essentieller Nährstoff"],
+    "definitions_de": ["eine organische Verbindung, die in kleinen Mengen für normales Wachstum und Körperfunktion erforderlich ist"],
+    "examples_de": [["Orangensaft ist eine ausgezeichnete Quelle für **Vitamin** C", "Der Arzt empfahl, im Winter **Vitamin**-D-Präparate einzunehmen"]]
+  },
+  {
+    "lemma": "hostage",
+    "meanings_de": ["gefangene Person"],
+    "definitions_de": ["eine Person, die gefangen gehalten wird, um andere zu zwingen, Forderungen zu erfüllen oder als Sicherheit"],
+    "examples_de": [["Die Bankräuber nahmen während der Konfrontation drei **Geiseln**", "Verhandlungsführer arbeiteten an der sicheren Freilassung der **Geiseln**"]]
+  }
+]

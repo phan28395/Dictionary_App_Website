@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "addressable",
+    "meanings_de": ["ansprechbar", "adressierbar"],
+    "definitions_de": ["fähig, direkt angesprochen, kontaktiert oder erreicht zu werden für Kommunikation oder Interaktion", "über eine spezifische Adresse oder Kennzeichnung erreichbar, besonders in technischen oder digitalen Systemen"],
+    "examples_de": [["Die Geschäftsführerin war für alle Mitarbeiter **ansprechbar** während der Sprechstunden", "Diese Bedenken sind durch angemessene Schulung **adressierbar**"], ["Jedes Gerät im Netzwerk hat einen **adressierbaren** Speicherbereich", "Der **adressierbare** Markt für dieses Produkt umfasst Millionen potentieller Kunden"]]
+  },
+  {
+    "lemma": "addressed",
+    "meanings_de": ["angesprochen oder adressiert", "behandelt oder bearbeitet"],
+    "definitions_de": ["in Rede oder Schrift an eine bestimmte Person oder Gruppe gerichtet worden", "behandelt, bearbeitet oder Aufmerksamkeit geschenkt worden, um etwas zu lösen oder zu klären"],
+    "examples_de": [["Der Brief war an den Firmenpräsidenten **adressiert**", "Sie fühlte sich geehrt, als der Redner sie direkt **ansprach**"], ["Alle Sicherheitsbedenken wurden vor Baubeginn **behandelt**", "Die **bearbeiteten** Probleme stellten für das Team keine Hindernisse mehr dar"]]
+  },
+  {
+    "lemma": "adept",
+    "meanings_de": ["hochgradig geschickt oder bewandert"],
+    "definitions_de": ["sehr geschickt oder bewandert in etwas durch Übung und natürliche Begabung, wobei Expertise und Können deutlich erkennbar sind"],
+    "examples_de": [["Sie ist **versiert** im Lösen komplexer mathematischer Probleme", "Der Koch war **geschickt** im Umgang mit dem Messer und schnitt Gemüse präzise"], ["Er wurde **bewandert** im Lesen von Emotionen durch jahrelange Erfahrung", "Das Unternehmen stellte Berater ein, die in digitaler Transformation **versiert** waren"]]
+  },
+  {
+    "lemma": "adherent",
+    "meanings_de": ["anhaftend oder befestigt", "einer Überzeugung anhängend"],
+    "definitions_de": ["fest an einer Oberfläche oder einem Objekt durch physische Verbindung haftend oder klebend", "einer bestimmten Überzeugung, Sache oder Führungsperson ergeben oder diese unterstützend"],
+    "examples_de": [["Die **anhaftende** Beschichtung schützte das Metall vor Rost", "Entfernen Sie jegliches **anhaftendes** Gewebe vor dem Anlegen des Verbands"], ["Er war ein **treuer** Anhänger der philosophischen Bewegung", "Die **ergebenen** Parteimitglieder stellten sich hinter ihren Kandidaten"]]
+  },
+  {
+    "lemma": "adhesive",
+    "meanings_de": ["klebrig oder haftend"],
+    "definitions_de": ["fähig, durch natürliche oder chemische Eigenschaften fest an einer Oberfläche oder einem Objekt zu haften"],
+    "examples_de": [["Das **Klebeband** hielt das Paket sicher verschlossen", "Dieses **selbstklebende** Pflaster schützt Ihre Wunde während der Heilung"], ["Die **klebenden** Eigenschaften des Leims machen ihn perfekt für Bastelarbeiten", "Wählen Sie eine **haftende** Oberfläche für besseren Halt während des Trainings"]]
+  },
+  {
+    "lemma": "adjacent",
+    "meanings_de": ["angrenzend oder benachbart"],
+    "definitions_de": ["neben oder angrenzend an etwas anderes, eine Grenze teilend oder sich in unmittelbarer Nähe befindend"],
+    "examples_de": [["Das Hotel liegt **angrenzend** an das Einkaufszentrum", "Unsere Büros befinden sich in **benachbarten** Gebäuden derselben Straße"], ["Die **angrenzenden** Zimmer teilen sich eine Verbindungstür für mehr Komfort", "Pflanzen Sie Tomaten in Beete **neben** Kräutern für besseres Wachstum"]]
+  },
+  {
+    "lemma": "adjectival",
+    "meanings_de": ["adjektivisch"],
+    "definitions_de": ["sich auf Adjektive beziehend oder als Adjektiv in der Grammatik oder Sprache funktionierend"],
+    "examples_de": [["Die **adjektivische** Phrase modifiziert das Substantiv in diesem Satz", "Schüler lernten, **adjektivische** Nebensätze in komplexen Sätzen zu identifizieren"], ["Ihre **adjektivische** Verwendung von Substantiven schuf lebendige Beschreibungen", "Das Wort hat sowohl **adjektivische** als auch adverbiale Funktionen"]]
+  },
+  {
+    "lemma": "adjective",
+    "meanings_de": ["als Adjektiv fungierend", "hinzugefügt oder abhängig"],
+    "definitions_de": ["sich beziehend auf oder funktionierend als ein Wort, das ein Substantiv modifiziert oder beschreibt", "zu etwas anderem als ergänzend hinzugefügt statt als wesentlicher Bestandteil"],
+    "examples_de": [["Die **adjektivische** Form des Wortes beschreibt Eigenschaften", "Verwenden Sie mehr **adjektivische** Phrasen, um Ihre Texte beschreibender zu gestalten"], ["Dies sind lediglich **zusätzliche** Überlegungen zum Hauptargument", "Das Komitee dient in **beratender** Funktion für den Vorstand"]]
+  },
+  {
+    "lemma": "adjunct",
+    "meanings_de": ["zusätzlich aber untergeordnet", "vorübergehend angegliedert"],
+    "definitions_de": ["hinzugefügt oder angehängt an etwas, aber kein wesentlicher Teil davon", "mit einer Organisation in vorübergehender oder untergeordneter Funktion verbunden oder hinzugefügt"],
+    "examples_de": [["Sie unterrichtet als **außerordentliche** Professorin an der Universität", "Das Forschungszentrum fungiert als **angegliederte** Einrichtung"], ["Das **beratende** Komitee bietet bei Bedarf unterstützende Beratung", "Er dient in einer **unterstützenden** Rolle für das Hauptteam"]]
+  },
+  {
+    "lemma": "adjustable",
+    "meanings_de": ["verstellbar"],
+    "definitions_de": ["fähig, verstellt, verändert oder angepasst zu werden, um verschiedenen Bedürfnissen oder Bedingungen gerecht zu werden"],
+    "examples_de": [["Die **verstellbare** Schreibtischhöhe passt sich Nutzern verschiedener Größen an", "Dieser Stuhl hat **verstellbare** Armlehnen für maximalen Komfort"], ["Zinssätze bei **variablen** Hypotheken ändern sich mit den Marktbedingungen", "Die **anpassbaren** Einstellungen ermöglichen Ihnen, Ihre Erfahrung zu personalisieren"]]
+  },
+  {
+    "lemma": "adjusted",
+    "meanings_de": ["angepasst oder verändert", "emotional ausgeglichen"],
+    "definitions_de": ["verändert oder modifiziert, um eine gewünschte Passung, Erscheinung oder ein Ergebnis zu erreichen", "erfolgreich an Bedingungen oder Umstände angepasst, besonders psychologisch"],
+    "examples_de": [["Die **bereinigten** Zahlen berücksichtigen die Inflation über die Zeit", "Sie trug ihre **angepasste** Uniform nach den Änderungen"], ["Er ist trotz seiner schwierigen Kindheitserfahrungen gut **angepasst**", "Die **integrierte** Schülerin blühte in ihrer neuen Schule auf"]]
+  },
+  {
+    "lemma": "admirable",
+    "meanings_de": ["bewundernswert"],
+    "definitions_de": ["Respekt und Anerkennung verdienend für Exzellenz, Leistung oder positive Eigenschaften"],
+    "examples_de": [["Ihre **bewundernswerte** Hingabe an die Wohltätigkeitsarbeit inspirierte andere", "Das Team zeigte **bewundernswerten** Mut unter schwierigen Umständen"], ["Seine **bewundernswerte** Ehrlichkeit brachte ihm das Vertrauen aller ein", "Der Architekt schuf eine **bewundernswerte** Verbindung von Form und Funktion"]]
+  },
+  {
+    "lemma": "admired",
+    "meanings_de": ["respektiert", "mit Freude betrachtet"],
+    "definitions_de": ["mit Respekt, Anerkennung oder warmer Wertschätzung für Qualitäten oder Leistungen betrachtet", "mit Vergnügen, Staunen oder Zufriedenheit für Schönheit oder Exzellenz angeschaut"],
+    "examples_de": [["Die **respektierte** Führungskraft inspirierte Loyalität unter ihren Anhängern", "Er war eine **geschätzte** Persönlichkeit in der wissenschaftlichen Gemeinschaft"], ["Die **bewunderten** Gemälde füllten die Galerie mit interessierten Besuchern", "Der **bewunderte** Garten zog Fotografen aus der ganzen Region an"]]
+  },
+  {
+    "lemma": "admissible",
+    "meanings_de": ["zulässig oder gültig", "zutrittsberechtigt"],
+    "definitions_de": ["akzeptabel oder gültig, besonders als Beweismittel vor Gericht", "das Recht habend, zugelassen zu werden oder Zutritt zu einem Ort zu erhalten"],
+    "examples_de": [["Der Richter befand die Beweise als **zulässig** vor Gericht", "Nur **zulässige** Dokumente werden für den Antrag berücksichtigt"], ["Studenten mit **zulässigen** Testergebnissen können sich sofort einschreiben", "Das **zulässige** Alter für dieses Programm beträgt achtzehn Jahre"]]
+  },
+  {
+    "lemma": "adopted",
+    "meanings_de": ["rechtlich als Kind angenommen", "gewählt oder akzeptiert"],
+    "definitions_de": ["rechtlich von anderen Eltern als eigenes Kind angenommen und aufgezogen", "aufgenommen, gewählt oder als eigene Idee, Methode oder Praxis gebilligt"],
+    "examples_de": [["Ihre **adoptierte** Tochter brachte der ganzen Familie Freude", "**Adoptierte** Kinder haben dieselben gesetzlichen Rechte wie leibliche"], ["Das Unternehmen **übernahm** neue Richtlinien zur Effizienzsteigerung", "Die **angenommene** Resolution wurde einstimmig verabschiedet"]]
+  },
+  {
+    "lemma": "adoptive",
+    "meanings_de": ["durch Adoption verwandt"],
+    "definitions_de": ["durch Adoption statt durch Geburt verwandt, besonders in Bezug auf Eltern oder Familie"],
+    "examples_de": [["Ihre **Adoptiveltern** zogen sie mit Liebe und Fürsorge auf", "Die **Adoptivfamilie** hieß ihren neuen Sohn herzlich willkommen"], ["**Adoptivmütter** stehen vor einzigartigen Herausforderungen und Belohnungen", "Er suchte nach seinen leiblichen Eltern, während er seine **Adoptiveltern** liebte"]]
+  },
+  {
+    "lemma": "adorable",
+    "meanings_de": ["liebenswert und bezaubernd"],
+    "definitions_de": ["große Zuneigung oder Entzücken hervorrufend durch Charme, Attraktivität oder herzerwärmende Eigenschaften"],
+    "examples_de": [["Der **niedliche** Welpe ließ im Tierheim alle Herzen schmelzen", "Sie trug ein **entzückendes** Kleid zu ihrer Geburtstagsfeier"], ["Seine **bezaubernden** Grübchen erschienen, wann immer er lächelte", "Die Kinder führten eine **reizende** Vorstellung für die Eltern auf"]]
+  },
+  {
+    "lemma": "adored",
+    "meanings_de": ["innig geliebt", "verehrt oder angebetet"],
+    "definitions_de": ["tief und zärtlich mit großer Zuneigung und Hingabe geliebt", "mit tiefer, oft schwärmerischer Liebe, Verehrung oder Ehrfurcht betrachtet"],
+    "examples_de": [["Die **geliebte** Großmutter war das Herz der Familie", "Seine **angebetete** Frau unterstützte ihn durch jede Herausforderung"], ["Der **verehrte** Prominente konnte nirgendwohin gehen ohne folgende Fans", "Alte Völker bauten Tempel für ihre **angebeteten** Gottheiten"]]
+  },
+  {
+    "lemma": "adoring",
+    "meanings_de": ["tiefe Liebe zeigend"],
+    "definitions_de": ["tiefe Liebe, Hingabe und Bewunderung für jemanden oder etwas fühlend oder zeigend"],
+    "examples_de": [["Ihre **verehrenden** Fans warteten stundenlang, um sie zu treffen", "Er blickte mit **liebevollen** Augen auf sein Neugeborenes"], ["Die **begeisterte** Menge jubelte, als ihr Team gewann", "Sie erhielt **schwärmerische** Briefe von Bewunderern weltweit"]]
+  },
+  {
+    "lemma": "adorned",
+    "meanings_de": ["geschmückt oder verziert"],
+    "definitions_de": ["schöner oder attraktiver gemacht durch Verzierung mit Ornamenten oder Verschönerungen"],
+    "examples_de": [["Der **geschmückte** Weihnachtsbaum funkelte mit Lichtern und Ornamenten", "Ihr **verziertes** Haar zeigte Blumen für die Hochzeit"], ["Die **geschmückten** Palastwände zeigten unbezahlbare Kunstwerke", "Alte Krieger trugen **verzierte** Helme, um ihren Rang zu zeigen"]]
+  },
+  {
+    "lemma": "adrift",
+    "meanings_de": ["treibend ohne Kontrolle", "ohne Ziel oder Führung"],
+    "definitions_de": ["treibend ohne festgemacht oder gesteuert zu sein, von Wasser- oder Luftströmungen getragen", "ohne Zweck, Führung oder Unterstützung im Leben, sich verloren oder abgetrennt fühlend"],
+    "examples_de": [["Das Boot wurde Meilen vom Ufer entfernt **treibend** gefunden", "Trümmer trieben nach dem Sturm **umher**"], ["Er fühlte sich **orientierungslos**, nachdem er unerwartet seinen Job verlor", "Junge Absolventen fühlen sich oft **verloren** auf dem Arbeitsmarkt"]]
+  },
+  {
+    "lemma": "adroit",
+    "meanings_de": ["geschickt und gewandt"],
+    "definitions_de": ["gewandt oder geschickt im Gebrauch von Händen oder Verstand mit Geschicklichkeit und Einfallsreichtum"],
+    "examples_de": [["Der **geschickte** Chirurg führte die heikle Operation erfolgreich durch", "Ihr **gewandter** Umgang mit der Krise verhinderte größeren Schaden"], ["Ein **versierter** Verhandlungsführer findet Lösungen, wo andere Stillstand sehen", "Sein **gewandtes** Wortspiel machte die Rede sowohl informativ als auch unterhaltsam"]]
+  },
+  {
+    "lemma": "adulterated",
+    "meanings_de": ["verunreinigt", "verfälscht oder verschlechtert"],
+    "definitions_de": ["in der Qualität verschlechtert durch Hinzufügen minderwertiger oder fremder Substanzen", "korrumpiert, verschlechtert oder minderwertig gemacht durch Einführung ungeeigneter Elemente"],
+    "examples_de": [["Die **verunreinigte** Milch enthielt schädliche Chemikalien", "Inspektoren fanden **verfälschte** Produkte im Lagerhaus"], ["Seine **verfälschte** Version der Ereignisse verwirrte die Ermittlung", "Die **manipulierten** Daten führten zu falschen Schlussfolgerungen"]]
+  },
+  {
+    "lemma": "adulterous",
+    "meanings_de": ["ehebrecherisch"],
+    "definitions_de": ["Ehebruch oder freiwilligen Geschlechtsverkehr außerhalb der Ehe beinhaltend oder dadurch gekennzeichnet"],
+    "examples_de": [["Die **ehebrecherische** Affäre zerstörte ihre Ehe", "Sie entdeckte die **außereheliche** Beziehung ihres Mannes"], ["Der Roman erforschte die Konsequenzen **ehebrecherischen** Verhaltens", "Historische Aufzeichnungen enthüllten die **ehebrecherischen** Liaisons des Königs"]]
+  },
+  {
+    "lemma": "advancing",
+    "meanings_de": ["vorwärts bewegend", "fortschreitend oder entwickelnd"],
+    "definitions_de": ["sich in Raum oder Zeit vorwärts bewegend, näher kommend oder herannahend", "Fortschritte machend oder sich entwickelnd, besonders in Rang, Wissen oder Leistung"],
+    "examples_de": [["Die **vorrückende** Armee zwang die Dorfbewohner zur Evakuierung", "Wir beobachteten die **heranziehenden** Gewitterwolken mit Sorge"], ["Ihre **fortschreitende** Karriere erforderte einen Umzug zur Zentrale", "Die **fortschreitende** Technologie revolutionierte die Kommunikationsmethoden"]]
+  },
+  {
+    "lemma": "advantageous",
+    "meanings_de": ["vorteilhaft"],
+    "definitions_de": ["einen Vorteil, Nutzen oder eine günstige Position beim Erreichen von Erfolg oder gewünschten Ergebnissen bietend"],
+    "examples_de": [["Die Lage auf dem Hügel war **vorteilhaft** für die Verteidigung", "Mehrere Sprachen zu beherrschen ist **vorteilhaft** im globalen Geschäft"], ["Sie verhandelten einen **vorteilhaften** Vertrag mit Lieferanten", "Frühe Investitionen erwiesen sich als **vorteilhaft**, als die Aktien stiegen"]]
+  },
+  {
+    "lemma": "adventitious",
+    "meanings_de": ["zufällig geschehend", "an ungewöhnlicher Stelle wachsend"],
+    "definitions_de": ["zufällig geschehend oder durchgeführt statt nach Plan oder Absicht", "an einer ungewöhnlichen oder abnormalen Stelle erscheinend, besonders in botanischen oder medizinischen Kontexten"],
+    "examples_de": [["Ihre **zufällige** Begegnung am Flughafen veränderte beider Leben", "Der Forscher bemerkte mehrere **zufällige** Befunde während der Experimente"], ["Die Pflanze entwickelte **adventive** Wurzeln entlang ihres Stammes", "**Zufällige** Geräusche in der Lunge deuteten auf eine mögliche Infektion hin"]]
+  },
+  {
+    "lemma": "adventurous",
+    "meanings_de": ["risikobereit", "voller Abenteuer"],
+    "definitions_de": ["bereit, Risiken einzugehen oder neue und potenziell schwierige Erfahrungen auszuprobieren", "voller Aufregung, Gefahr oder ungewöhnlicher Erfahrungen, die die eigenen Fähigkeiten testen"],
+    "examples_de": [["Die **abenteuerlustigen** Reisenden erkundeten abgelegene Bergdörfer", "Sie hat einen **unternehmungslustigen** Geist, der Herausforderungen liebt"], ["Sie planten eine **abenteuerliche** Expedition zur Antarktis", "Seine **experimentierfreudige** Küche kombiniert unerwartete Aromen"]]
+  },
+  {
+    "lemma": "adverbial",
+    "meanings_de": ["adverbial"],
+    "definitions_de": ["sich auf Adverbien beziehend oder als Adverb oder adverbiale Phrase in der Grammatik funktionierend"],
+    "examples_de": [["Der **adverbiale** Nebensatz modifiziert das Hauptverb", "Schüler identifizierten **adverbiale** Elemente in jedem Satz"], ["Ihre **adverbiale** Verwendung von Adjektiven schuf dynamische Prosa", "Die Phrase hat hier eine **adverbiale** Funktion"]]
+  },
+  {
+    "lemma": "adverse",
+    "meanings_de": ["schädlich oder ungünstig"],
+    "definitions_de": ["Erfolg oder Entwicklung verhindernd durch Schädlichkeit, Ungünstigkeit oder Schaffung von Schwierigkeiten"],
+    "examples_de": [["**Widrige** Wetterbedingungen verzögerten das Bauprojekt", "Das Medikament kann bei manchen Patienten **unerwünschte** Wirkungen haben"], ["Das Unternehmen sah sich nach dem Skandal **negativer** Publicity gegenüber", "Trotz **widriger** Umstände schloss sie ihr Studium ab"]]
+  },
+  {
+    "lemma": "advertised",
+    "meanings_de": ["öffentlich angekündigt", "weithin bekannt gemacht"],
+    "definitions_de": ["öffentlich angekündigt oder durch bezahlte Medien beworben, um Aufmerksamkeit oder Kundschaft anzuziehen", "weithin bekannt gemacht oder durch verschiedene Mittel an die Öffentlichkeit gebracht"],
+    "examples_de": [["Der **beworbene** Ausverkauf zog Hunderte von Käufern an", "Die Stelle wurde in großen Zeitungen landesweit **ausgeschrieben**"], ["Ihr **angekündigtes** Engagement für Qualität zog neue Kunden an", "Die **beworbenen** Vorteile des Programms erwiesen sich als zutreffend"]]
+  },
+  {
+    "lemma": "advisable",
+    "meanings_de": ["ratsam oder klug"],
+    "definitions_de": ["empfehlenswert oder vorschlagenswert als weise, klug oder vorteilhaft zu tun"],
+    "examples_de": [["Es ist **ratsam**, Flüge früh zu buchen für bessere Preise", "Tägliches Tragen von Sonnenschutz ist **empfehlenswert** für die Hautgesundheit"], ["Der Anwalt sagte, eine Einigung sei **ratsam** angesichts der Umstände", "Die Einnahme von Vitaminen kann während der Wintermonate **empfehlenswert** sein"]]
+  },
+  {
+    "lemma": "advised",
+    "meanings_de": ["beraten oder empfohlen", "informiert oder benachrichtigt"],
+    "definitions_de": ["Anleitung, Empfehlungen oder Rat darüber erhalten, was getan werden sollte", "über etwas offiziell oder formell informiert oder benachrichtigt worden"],
+    "examples_de": [["Der Arzt **riet**, dass Ruhe für die Genesung unerlässlich sei", "Den Studenten wurde **geraten**, Bewerbungen früh einzureichen"], ["Bitte beachten Sie, dass das Büro heute früh **schließt**", "Alle Bewohner wurden über die Notfallverfahren **informiert**"]]
+  },
+  {
+    "lemma": "advisory",
+    "meanings_de": ["beratend", "empfohlen aber nicht verpflichtend"],
+    "definitions_de": ["die Befugnis oder Funktion habend, Rat zu geben oder Empfehlungen auszusprechen", "als Warnung oder Empfehlung dienend, aber keine Befolgung erfordernd"],
+    "examples_de": [["Der **Beirat** trifft sich vierteljährlich zur Strategieberatung", "Sie dient in **beratender** Funktion für den CEO"], ["Der Wetterdienst gab eine **Warnung** für kleine Boote heraus", "**Reisewarnungen** helfen Touristen, im Ausland sicher zu bleiben"]]
+  },
+  {
+    "lemma": "aerated",
+    "meanings_de": ["mit Luft versorgt", "leichter oder schaumig gemacht"],
+    "definitions_de": ["mit Luft versorgt oder der Luftzirkulation für Frische ausgesetzt", "leichter gemacht durch Einarbeitung von Luft, wodurch eine schaumige oder sprudelnde Textur entsteht"],
+    "examples_de": [["Der **belüftete** Boden förderte gesundes Wurzelwachstum", "Fische gedeihen in richtig **belüftetem** Aquariumwasser"], ["Die **luftige** Schokolade hatte eine leichte, sprudelnde Textur", "**Kohlensäurehaltige** Getränke enthalten gelöstes Kohlendioxid"]]
+  },
+  {
+    "lemma": "aerial",
+    "meanings_de": ["in oder aus der Luft", "in der Luft existierend"],
+    "definitions_de": ["in der Luft existierend, geschehend oder von Flugzeugen aus operierend", "aus Luft bestehend, für sie typisch oder sich auf Luft oder Atmosphäre beziehend"],
+    "examples_de": [["Das **Luftbild** zeigte die gesamte Küstenlinie", "**Luftakrobaten** führten atemberaubende Kunststücke auf"], ["Vögel sind **luftlebende** Geschöpfe, die für den Flug angepasst sind", "Die **Luftwurzeln** von Orchideen absorbieren Feuchtigkeit aus der Luft"]]
+  },
+  {
+    "lemma": "aerobic",
+    "meanings_de": ["Sauerstoff benötigend", "Sauerstoffverbrauch verbessernd"],
+    "definitions_de": ["sich auf freien Sauerstoff für Leben und biologische Prozesse beziehend oder ihn erfordernd", "sich auf Übungen beziehend, die die kardiovaskuläre Effizienz und den Sauerstoffverbrauch verbessern"],
+    "examples_de": [["**Aerobe** Bakterien brauchen Sauerstoff zum Überleben und zur Vermehrung", "Pflanzen durchlaufen nachts **aerobe** Atmung"], ["Regelmäßiges **aerobes** Training stärkt Herz und Lunge", "Sie unterrichtet **Aerobic**-Tanzkurse im Fitnessstudio"]]
+  },
+  {
+    "lemma": "aerodynamic",
+    "meanings_de": ["für Luftströmung konzipiert"],
+    "definitions_de": ["entworfen oder geformt, um Luftwiderstand zu reduzieren und effizient durch Luft zu bewegen"],
+    "examples_de": [["Das **aerodynamische** Design des Autos verbessert die Kraftstoffeffizienz", "Rennräder haben **aerodynamische** Rahmen und Komponenten"], ["Die **aerodynamische** Form von Vogelflügeln ermöglicht effizienten Flug", "Ingenieure testeten die **aerodynamischen** Eigenschaften in Windkanälen"]]
+  },
+  {
+    "lemma": "aeronautic",
+    "meanings_de": ["luftfahrtbezogen"],
+    "definitions_de": ["sich auf die Wissenschaft, das Design und den Betrieb von Flugzeugen und Flug beziehend"],
+    "examples_de": [["Der **Luftfahrt**ingenieur entwarf innovative Flügelstrukturen", "Studenten studierten **luftfahrttechnische** Prinzipien in der Flugschule"], ["Das Museum zeigt **luftfahrttechnische** Errungenschaften der Geschichte", "Ihr **luftfahrttechnisches** Wissen half, das technische Problem zu lösen"]]
+  },
+  {
+    "lemma": "aeronautical",
+    "meanings_de": ["luftfahrttechnisch"],
+    "definitions_de": ["sich auf die Luftfahrt beziehend, die Wissenschaft und Praxis des Flugs und der Flugzeuge"],
+    "examples_de": [["Sie erwarb ihren **luftfahrttechnischen** Ingenieurabschluss mit Auszeichnung", "Die **luftfahrttechnischen** Karten zeigten eingeschränkte Luftraumbereiche"], ["**Luftfahrttechnische** Innovationen haben das Fliegen sicherer denn je gemacht", "Die Konferenz konzentrierte sich auf **luftfahrttechnische** Sicherheitsstandards"]]
+  },
+  {
+    "lemma": "aesthetic",
+    "meanings_de": ["Schönheit betreffend", "künstlerische Sensibilität"],
+    "definitions_de": ["sich mit Schönheit oder der Wertschätzung von Schönheit in Kunst und Natur befassend", "sich auf einen bestimmten Stil, künstlerische Sensibilität oder Geschmacksprinzipien beziehend"],
+    "examples_de": [["Die **ästhetische** Anziehungskraft des Gebäudes zieht viele Fotografen an", "Sie traf **ästhetische** Entscheidungen, die das Ambiente des Raums verbesserten"], ["Sein **ästhetischer** Sinn beeinflusste alle seine Designentscheidungen", "Die Marke entwickelte eine minimalistische **Ästhetik** für ihre Produkte"]]
+  },
+  {
+    "lemma": "affable",
+    "meanings_de": ["freundlich und angenehm"],
+    "definitions_de": ["freundlich, gutmütig und leicht anzusprechen in einer warmen, angenehmen Art"],
+    "examples_de": [["Der **liebenswürdige** Gastgeber ließ jeden sich sofort willkommen fühlen", "Seine **umgängliche** Persönlichkeit half ihm, im Verkauf zu brillieren"], ["Trotz ihres Erfolgs blieb sie **freundlich** und zugänglich", "Das **angenehme** Gespräch machte den langen Flug erträglich"]]
+  },
+  {
+    "lemma": "affected",
+    "meanings_de": ["beeinflusst oder verändert", "künstlich im Verhalten"],
+    "definitions_de": ["beeinflusst, verändert oder betroffen von einem externen Faktor oder Zustand", "künstlich und darauf ausgelegt zu beeindrucken, nicht natürlich oder echt im Verhalten"],
+    "examples_de": [["Die **betroffenen** Gebiete erhielten sofort Nothilfe", "Alle waren tief **betroffen** von den tragischen Nachrichten"], ["Ihr **gekünstelter** Akzent täuschte niemanden auf der Party", "Er sprach in **affektierter** Weise, um sophistiziert zu wirken"]]
+  },
+  {
+    "lemma": "affecting",
+    "meanings_de": ["emotional bewegend"],
+    "definitions_de": ["starke Emotionen hervorrufend, besonders Traurigkeit, Mitgefühl oder Mitleid bei anderen"],
+    "examples_de": [["Die **bewegende** Geschichte brachte viele zu Tränen", "Sie hielt eine **ergreifende** Rede über die Überwindung von Widrigkeiten"], ["Die **berührenden** Szenen des Dokumentarfilms blieben den Zuschauern lange im Gedächtnis", "Seine **bewegende** Darbietung erhielt stehende Ovationen"]]
+  },
+  {
+    "lemma": "affectionate",
+    "meanings_de": ["liebevoll oder zärtlich"],
+    "definitions_de": ["bereitwillig Wärme, Zuneigung oder zärtliche Gefühle gegenüber anderen durch Handlungen oder Worte zeigend"],
+    "examples_de": [["Das **liebevolle** Paar hielt während des Abendessens Händchen", "Sie ist sehr **zärtlich** mit ihren Enkelkindern"], ["Ihre **verschmuste** Katze will immer kuscheln", "Er schrieb **liebevolle** Briefe an seine Familie im Ausland"]]
+  },
+  {
+    "lemma": "affective",
+    "meanings_de": ["Emotionen betreffend", "Gefühle beeinflussend"],
+    "definitions_de": ["sich auf Stimmungen, Gefühle und emotionale Zustände in der Psychologie beziehend", "die Kraft habend, Emotionen und Gefühle zu beeinflussen oder hervorzurufen"],
+    "examples_de": [["Der Therapeut behandelte sowohl kognitive als auch **affektive** Probleme", "**Affektive** Störungen umfassen Depression und Angst"], ["Musik hat starke **affektive** Macht über menschliche Emotionen", "Die **affektive** Komponente des Lernens verbessert die Gedächtnisleistung"]]
+  },
+  {
+    "lemma": "affiliated",
+    "meanings_de": ["offiziell verbunden"],
+    "definitions_de": ["offiziell angeschlossen, verbunden oder mit einer größeren Organisation oder Gruppe assoziiert"],
+    "examples_de": [["Das Krankenhaus ist der medizinischen Fakultät **angeschlossen**", "Alle **angeschlossenen** Mitglieder erhalten monatliche Newsletter"], ["Sie arbeitet für ein mit der Universität **verbundenes** Unternehmen", "Die **angegliederten** Filialen arbeiten nach Unternehmensrichtlinien"]]
+  },
+  {
+    "lemma": "affirmative",
+    "meanings_de": ["zustimmend oder einwilligend", "positiv und unterstützend"],
+    "definitions_de": ["Zustimmung, Einwilligung oder Akzeptanz ausdrückend statt Verneinung oder Ablehnung", "unterstützend, ermutigend oder positive Bestätigung von etwas ausdrückend"],
+    "examples_de": [["Sie nickte dem Vorschlag **zustimmend** zu", "Die Abstimmung führte zu einer **bejahenden** Entscheidung"], ["Das Unternehmen ergreift **positive** Maßnahmen zur Sicherstellung der Vielfalt", "Seine **bestätigende** Antwort ermutigte uns fortzufahren"]]
+  },
+  {
+    "lemma": "affixed",
+    "meanings_de": ["befestigt oder angebracht"],
+    "definitions_de": ["an etwas anderem befestigt, festgemacht oder verbunden, besonders auf dauerhafte Weise"],
+    "examples_de": [["Das Etikett war fest am Paket **angebracht**", "Eine Plakette wurde am Sockel des Denkmals **befestigt**"], ["Die Briefmarke muss vor dem Versand **aufgeklebt** werden", "Warnschilder wurden an allen gefährlichen Geräten **angebracht**"]]
+  },
+  {
+    "lemma": "afflicted",
+    "meanings_de": ["leidend unter etwas"],
+    "definitions_de": ["leidend unter oder betroffen von etwas Schädlichem, besonders Krankheit oder Unglück"],
+    "examples_de": [["Die **betroffenen** Patienten erhielten spezialisierte medizinische Versorgung", "Von Dürre **heimgesuchte** Gemeinden brauchen sofortige Hilfe"], ["Er war jahrelang von chronischen Schmerzen **geplagt**", "Die **heimgesuchte** Region kämpfte mit der Erholung von Überschwemmungen"]]
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "bench",
+    "meanings_de": ["lange Sitzbank", "Richterbank"],
+    "definitions_de": ["längliches Sitzmöbel für mehrere Personen, meist aus Holz oder Metall gefertigt", "Sitzplatz der Richter im Gerichtssaal oder die Richterschaft als Institution"],
+    "examples_de": [["Der alte Mann saß jeden Morgen auf der **Bank** im Park und fütterte die Tauben", "Entlang des Wanderwegs wurden neue **Bänke** für müde Wanderer aufgestellt"], ["Der Fall wird nächsten Monat vor dem vollständigen **Richterkollegium** verhandelt", "Nach jahrelanger Anwaltspraxis wurde sie zur **Richterin** ernannt"]]
+  },
+  {
+    "lemma": "counter",
+    "meanings_de": ["Arbeitsfläche", "Zählvorrichtung"],
+    "definitions_de": ["ebene Arbeitsfläche in Küche oder Geschäft, auf der Speisen zubereitet oder Geschäfte abgewickelt werden", "Gerät oder Person, die Dinge zählt oder Zahlen berechnet"],
+    "examples_de": [["Nach dem Kochen wischte sie die **Arbeitsplatte** in der Küche gründlich ab", "Der Apotheker stand den ganzen Tag hinter der **Theke** und füllte Rezepte aus"], ["Der elektronische **Zähler** erfasste stündlich die Besucherzahlen des Museums", "**Besucherzähler** helfen Websites, ihre täglichen Zugriffe zu überwachen"]]
+  },
+  {
+    "lemma": "odds",
+    "meanings_de": ["Wahrscheinlichkeit", "Unstimmigkeit"],
+    "definitions_de": ["Verhältnis, das die Wahrscheinlichkeit des Eintretens eines Ereignisses im Vergleich zum Nichteintreffen angibt", "Zustand der Meinungsverschiedenheit oder des Konflikts zwischen Personen oder Dingen"],
+    "examples_de": [["Die **Gewinnchancen** im Lotto sind verschwindend gering, trotzdem spielen viele Menschen", "Buchmacher legen die **Quoten** basierend auf ihrer Einschätzung der Erfolgschancen fest"], ["Sie sind seit Wochen über die Projektausrichtung **uneins**", "Sein Verhalten stand im **Widerspruch** zu seinen erklärten Werten"]]
+  },
+  {
+    "lemma": "rat",
+    "meanings_de": ["Nagetier", "Verräter"],
+    "definitions_de": ["langschwänziges Nagetier, größer als eine Maus, oft als Schädling betrachtet", "Person, die andere verrät oder bei Behörden denunziert"],
+    "examples_de": [["Die **Ratte** huschte auf der Suche nach Essensresten durch den Keller", "Gesundheitsinspektoren fanden **Ratten** im Lagerbereich des Restaurants"], ["Vertraue ihm nicht, er ist ein **Spitzel**, der alles der Geschäftsführung meldet", "Die Bande entdeckte, dass ein **Verräter** heimlich mit der Polizei zusammenarbeitete"]]
+  },
+  {
+    "lemma": "horror",
+    "meanings_de": ["intensives Entsetzen", "schreckliches Ereignis"],
+    "definitions_de": ["intensives Gefühl von Angst, Schock oder Abscheu, ausgelöst durch etwas Erschreckendes", "äußerst unangenehmes oder schockierendes Ereignis, das seelische Belastung verursacht"],
+    "examples_de": [["Sie schrie vor **Entsetzen**, als sie den Unfallort erblickte", "**Horrorfilme** nutzen Spannung und brutale Szenen, um das Publikum zu erschrecken"], ["Die **Schrecken** des Krieges hinterließen dauerhafte Traumata bei den Veteranen", "Die Eltern sahen mit **Grauen**, wie das Spielgerät plötzlich zusammenbrach"]]
+  },
+  {
+    "lemma": "prevention",
+    "meanings_de": ["Verhinderung", "Schutzmaßnahmen"],
+    "definitions_de": ["Handlung, die verhindert, dass etwas geschieht oder entsteht, bevor es eintritt", "Maßnahmen zur Verhinderung von Krankheiten, Verletzungen oder anderen unerwünschten Folgen"],
+    "examples_de": [["**Kriminalprävention** setzt auf Bürgerbeteiligung und bessere Beleuchtung in der Innenstadt", "Die **Verhütung** von Waldbränden erfordert regelmäßiges Entfernen von Unterholz"], ["**Krankheitsvorbeugung** durch Impfungen rettet weltweit jährlich Millionen Leben", "Die neuen **Präventionsmaßnahmen** halbierten die Arbeitsunfälle"]]
+  },
+  {
+    "lemma": "segment",
+    "meanings_de": ["Teilstück", "Marktsegment"],
+    "definitions_de": ["Teil von etwas, der getrennt ist oder vom Ganzen getrennt werden kann", "abgegrenzte Gruppe innerhalb eines größeren Marktes mit ähnlichen Merkmalen"],
+    "examples_de": [["Jedes **Segment** der Orange enthält Kerne und saftiges Fruchtfleisch", "Die Dokumentation war in drei **Abschnitte** unterteilt, die verschiedene Zeiträume behandelten"], ["Das **Luxusautosegment** macht nur zehn Prozent des Gesamtumsatzes aus", "Marketingteams sprechen gezielt bestimmte **Kundensegmente** mit maßgeschneiderten Botschaften an"]]
+  },
+  {
+    "lemma": "tail",
+    "meanings_de": ["Tierschwanz", "hinteres Ende"],
+    "definitions_de": ["flexibler Fortsatz am hinteren Ende des Tierkörpers", "hinterer oder unterster Teil von etwas, besonders bei Flugzeugen oder Prozessionen"],
+    "examples_de": [["Der Hund wedelte aufgeregt mit dem **Schwanz**, als sein Herrchen nach Hause kam", "Pfauen zeigen ihre bunten **Schwanzfedern**, um potenzielle Partner anzulocken"], ["Der Pilot überprüfte während der Vorflugkontrolle sorgfältig das **Heck** des Flugzeugs", "Sie befand sich am **Ende** der Marathonläufergruppe"]]
+  },
+  {
+    "lemma": "implementation",
+    "meanings_de": ["Umsetzung", "Durchführung"],
+    "definitions_de": ["Prozess der praktischen Umsetzung einer Entscheidung, eines Plans oder Systems", "Ausführung eines Plans, einer Methode oder eines Konzepts für einen bestimmten Zweck"],
+    "examples_de": [["Die **Implementierung** der neuen Software dauerte aufgrund von Fehlern länger als erwartet", "Erfolgreiche **Umsetzung** erfordert sorgfältige Planung und ausreichende Ressourcen"], ["Die **Durchführung** von Richtlinien weicht oft aufgrund praktischer Zwänge von den ursprünglichen Absichten ab", "Die **Implementierungsphase** beginnt nach Genehmigung des Projektplans durch alle Beteiligten"]]
+  },
+  {
+    "lemma": "strip",
+    "meanings_de": ["schmaler Streifen", "Entfernung"],
+    "definitions_de": ["langes, schmales Stück Material, Stoff, Papier oder Land", "Vorgang des Entfernens von Kleidung, Bedeckung oder Wegnahme von etwas"],
+    "examples_de": [["Sie riss einen **Streifen** Stoff ab, um die Wunde schnell zu verbinden", "Die **Landebahn** war durch den dichten Morgennebel kaum zu erkennen"], ["Die Arbeiter mussten alte Farbe **abbeizen**, bevor sie neu streichen konnten", "Das Gericht kann die Staatsbürgerschaft **entziehen**, wenn sie betrügerisch erlangt wurde"]]
+  },
+  {
+    "lemma": "preference",
+    "meanings_de": ["bevorzugte Wahl", "Vorrangstellung"],
+    "definitions_de": ["stärkere Neigung zu einer Alternative gegenüber anderen Möglichkeiten", "Priorität, die etwas oder jemandem gegenüber anderen Optionen eingeräumt wird"],
+    "examples_de": [["Ihre **Vorliebe** für klassische Musik prägte die Musikauswahl bei der Hochzeit erheblich", "**Kundenpräferenzen** ändern sich je nach Trends und saisonalen Faktoren"], ["Veteranen erhalten bei vielen staatlichen Stellen **Bevorzugung** bei der Einstellung", "Die Software speichert Ihre **Einstellungen** für zukünftige Besuche"]]
+  },
+  {
+    "lemma": "feedback",
+    "meanings_de": ["Rückmeldung", "Rückkopplung"],
+    "definitions_de": ["Information über Reaktionen auf ein Produkt oder eine Leistung zur Verbesserung", "lautes Pfeifgeräusch, wenn ein Mikrofon seine eigene Ausgabe aufnimmt"],
+    "examples_de": [["**Mitarbeiterfeedback** hilft Führungskräften, Arbeitsbedingungen und Moral zu verbessern", "Die Lehrerin gibt **Rückmeldungen** zu Aufsätzen, um das Schreiben zu verbessern"], ["Die **Rückkopplung** vom Mikrofon schmerzte während der Rede in allen Ohren", "Tontechniker arbeiten ständig daran, **Rückkopplungen** bei Live-Auftritten zu vermeiden"]]
+  },
+  {
+    "lemma": "health-care",
+    "meanings_de": ["medizinische Versorgung", "Gesundheitssystem"],
+    "definitions_de": ["organisierte Bereitstellung medizinischer Dienste für Einzelpersonen oder Gemeinschaften", "System zur Erhaltung und Verbesserung der körperlichen und geistigen Gesundheit durch Dienstleistungen"],
+    "examples_de": [["Die Kosten für die **Gesundheitsversorgung** steigen jährlich schneller als die Inflation", "Ländliche Gebiete verfügen oft nicht über ausreichende **Gesundheitseinrichtungen**"], ["Das **Gesundheitssystem** steht vor Herausforderungen durch alternde Bevölkerung und chronische Krankheiten", "Viele Arbeitgeber bieten **Krankenversicherungsleistungen** als Teil des Gehaltspakets an"]]
+  },
+  {
+    "lemma": "criminal",
+    "meanings_de": ["Straftäter", "strafrechtlich"],
+    "definitions_de": ["Person, die eine Straftat begangen hat oder rechtskräftig verurteilt wurde", "das Strafrecht oder die strafrechtliche Verfolgung von Verbrechen betreffend"],
+    "examples_de": [["Der **Verbrecher** wurde wegen Raubes zu zehn Jahren Gefängnis verurteilt", "Gewohnheits**täter** beginnen oft schon in jungen Jahren mit kleineren Delikten"], ["Das **Strafrecht** unterscheidet sich erheblich vom Zivilrecht in Verfahren und Strafen", "Das **Strafjustizsystem** umfasst Polizei, Gerichte und Strafvollzugsanstalten"]]
+  },
+  {
+    "lemma": "can",
+    "meanings_de": ["Metalldose", "Toilette"],
+    "definitions_de": ["zylindrischer Metallbehälter zur Aufbewahrung von Lebensmitteln, Getränken oder anderen Materialien", "umgangssprachlicher Ausdruck für Toilette oder sanitäre Einrichtung"],
+    "examples_de": [["Sie öffnete eine **Dose** Suppe für ein schnelles Mittagessen", "Das Recycling von Aluminium**dosen** reduziert Umweltabfälle und Energieverbrauch"], ["Er entschuldigte sich während der langen Besprechung, um aufs **Klo** zu gehen", "Die mobile **Toilette** auf der Baustelle muss täglich geleert werden"]]
+  },
+  {
+    "lemma": "buyer",
+    "meanings_de": ["Käufer", "Einkäufer"],
+    "definitions_de": ["Person, die Waren oder Dienstleistungen von einem Verkäufer erwirbt", "Fachkraft, die Produkte für Einzelhandelsgeschäfte auswählt und einkauft"],
+    "examples_de": [["Der **Käufer** verhandelte erfolgreich einen niedrigeren Preis für den Gebrauchtwagen", "Erst**käufer** von Immobilien benötigen oft Hilfe beim Verständnis des Kaufprozesses"], ["Die Mode**einkäuferin** reist zweimal jährlich nach Paris für neue Kollektionen", "**Einkäufer** im Einzelhandel müssen Verbrauchertrends Monate im Voraus vorhersagen"]]
+  },
+  {
+    "lemma": "cooperation",
+    "meanings_de": ["Zusammenarbeit", "Kooperationsbereitschaft"],
+    "definitions_de": ["Prozess des gemeinsamen Arbeitens auf ein gemeinsames Ziel hin", "Bereitschaft, hilfsbereit zu sein und das Verlangte zu tun"],
+    "examples_de": [["Internationale **Zusammenarbeit** ist für die Bewältigung des Klimawandels weltweit unerlässlich", "Das Projekt gelang durch die **Kooperation** aller beteiligten Abteilungen"], ["Wir schätzen Ihre **Mitarbeit** während dieser Sicherheitskontrolle", "Kinder lernen **Zusammenarbeit** durch Gruppenaktivitäten und Mannschaftssport"]]
+  },
+  {
+    "lemma": "profession",
+    "meanings_de": ["Beruf", "Glaubensbekenntnis"],
+    "definitions_de": ["bezahlte Tätigkeit, die eine längere Ausbildung und formale Qualifikationen erfordert", "öffentliches Bekenntnis zu einem religiösen Glauben"],
+    "examples_de": [["Die Medizin ist ein **Beruf**, der jahrelange Ausbildung und Praxis erfordert", "Sie wählte den **Lehrerberuf** trotz des bescheidenen Gehalts"], ["Sein **Glaubensbekenntnis** bewegte die Gemeinde zu Tränen", "Die **Profess** des Mönchs markierte seine Verpflichtung zum Ordensleben"]]
+  },
+  {
+    "lemma": "killing",
+    "meanings_de": ["Tötung", "erschöpfende Tätigkeit"],
+    "definitions_de": ["vorsätzliche Herbeiführung des Todes einer Person oder eines Tieres", "extrem anstrengende oder fordernde Tätigkeit, die Energie raubt"],
+    "examples_de": [["Die **Tötung** gefährdeter Arten wird weltweit mit schweren Strafen geahndet", "Die Polizei untersuchte die **Tötung** als möglichen Fall von Notwehr"], ["Das Training war **mörderisch**, aber ich fühle mich jetzt großartig", "An der Börse einen **Reibach** zu machen, erfordert Glück und Können"]]
+  },
+  {
+    "lemma": "photographer",
+    "meanings_de": ["Fotograf", "Bildkünstler"],
+    "definitions_de": ["Person, die beruflich oder als ernsthaftes Hobby fotografiert", "Künstler, der Fotografie als Medium des kreativen Ausdrucks nutzt"],
+    "examples_de": [["Der Hochzeits**fotograf** hielt jeden besonderen Moment der Zeremonie wunderschön fest", "Tier**fotografen** warten oft stundenlang geduldig auf die perfekte Aufnahme"], ["Berühmte **Fotografen** wie Ansel Adams verwandelten Landschaftsfotografie in Kunst", "Die Ausstellung des **Fotografen** zeigte eindrucksvolle Porträts des städtischen Lebens"]]
+  },
+  {
+    "lemma": "engagement",
+    "meanings_de": ["Verlobung", "aktive Beteiligung"],
+    "definitions_de": ["formelle Vereinbarung zur Heirat, meist durch Übergabe eines Verlobungsrings besiegelt", "Zustand der aktiven Beteiligung oder Verpflichtung zu etwas"],
+    "examples_de": [["Ihre **Verlobung** wurde am Wochenende freudig auf der Familienfeier verkündet", "Der **Verlobungsring** funkelte mit einem zweikarätigen Diamanten in Platin"], ["Die **Beteiligung** der Schüler verbessert sich bei interaktiven Lehrmethoden erheblich", "Bürger**engagement** hilft Kommunalverwaltungen, bessere Entscheidungen zu treffen"]]
+  },
+  {
+    "lemma": "paint",
+    "meanings_de": ["Farbanstrich", "Schminke"],
+    "definitions_de": ["flüssige Substanz, die auf Oberflächen aufgetragen wird, um sie zu färben, zu schützen oder zu dekorieren", "kosmetisches Make-up, besonders wenn stark oder grell aufgetragen"],
+    "examples_de": [["Wir brauchen zwei Eimer **Farbe**, um die Schlafzimmerwände komplett zu streichen", "Die **Farbe** war noch feucht, deshalb konnten wir den Zaun nicht berühren"], ["Sie trug zu viel **Schminke** für das Foto auf", "Bühnenschauspieler tragen **Make-up**, um aus den hinteren Reihen sichtbar zu sein"]]
+  },
+  {
+    "lemma": "pitch",
+    "meanings_de": ["Wurf", "Tonhöhe", "Verkaufspräsentation"],
+    "definitions_de": ["Werfen eines Balls, besonders im Baseball zum Schlagmann", "Grad der Höhe oder Tiefe eines musikalischen Tons oder einer Stimme", "überzeugende Präsentation mit dem Ziel, etwas zu verkaufen oder Unterstützung zu gewinnen"],
+    "examples_de": [["Der schnelle **Wurf** des Werfers brachte den besten Schlagmann der Liga zum Ausscheiden", "Ihr **Wurf** landete perfekt über der Platte für einen Strike"], ["Die **Tonhöhe** der Sängerin war während der schwierigen Arie perfekt", "Hunde können Töne in viel höherer **Tonlage** hören als Menschen"], ["Die **Präsentation** des Start-ups überzeugte Investoren, ihre innovative App zu finanzieren", "Sie übte ihre **Verkaufspräsentation** vor dem wichtigen Kundentreffen"]]
+  },
+  {
+    "lemma": "salad",
+    "meanings_de": ["gemischtes Gemüse", "kalte Speise"],
+    "definitions_de": ["Gericht aus gemischtem rohem Gemüse, oft mit Dressing serviert", "kalte Speise aus verschiedenen Zutaten, die mit Dressing vermischt werden"],
+    "examples_de": [["Sie bestellte heute zum Mittagessen einen Caesar-**Salat** mit gegrilltem Hähnchen", "Der Garten**salat** enthielt frisch gepflückte Tomaten, Gurken und Karotten"], ["Kartoffel**salat** ist eine beliebte Beilage bei sommerlichen Grillpartys", "Der Obst**salat** bot einen erfrischenden Abschluss des schweren Mahls"]]
+  },
+  {
+    "lemma": "stair",
+    "meanings_de": ["einzelne Stufe", "Treppenanlage"],
+    "definitions_de": ["einzelne Stufe in einer Treppe innerhalb oder außerhalb eines Gebäudes", "Reihe von Stufen, die von einer Etage oder Ebene zur anderen führen"],
+    "examples_de": [["Vorsicht bei der kaputten **Stufe** am unteren Ende der Treppe", "Jede **Treppenstufe** war laut Bauvorschriften genau siebzehn Zentimeter hoch"], ["Sie stieg nach ihrer Knieoperation langsam die **Treppe** hinauf", "Die Wendel**treppe** führte zu einem wunderschönen Dachgarten"]]
+  },
+  {
+    "lemma": "notice",
+    "meanings_de": ["schriftliche Mitteilung", "Aufmerksamkeit"],
+    "definitions_de": ["schriftliche oder gedruckte Ankündigung mit Informationen oder Warnungen", "Aufmerksamkeit, Beobachtung oder Wahrnehmung von etwas"],
+    "examples_de": [["Die **Räumungsmitteilung** gab den Mietern dreißig Tage Zeit, die Wohnung zu verlassen", "Angeschlagene **Hinweise** warnten Schwimmer vor gefährlichen Strömungen"], ["Haben Sie das neue Gemälde im Flur **bemerkt**?", "Die Veränderung war so subtil, dass sie kaum jemand **wahrnehmen** würde"]]
+  },
+  {
+    "lemma": "grace",
+    "meanings_de": ["elegante Bewegung", "göttliche Gnade", "Tischgebet"],
+    "definitions_de": ["geschmeidige und elegante Art der Bewegung oder des Verhaltens", "unverdiente göttliche Hilfe zur Heiligung oder Erlösung", "kurzes Dankgebet vor oder nach einer Mahlzeit"],
+    "examples_de": [["Die Ballerina bewegte sich mit unglaublicher **Anmut** über die Bühne", "Sie meisterte die schwierige Situation mit **Würde** und Eleganz"], ["Durch Gottes **Gnade** fand die Familie Kraft in schweren Zeiten", "Viele glauben, dass göttliche **Barmherzigkeit** Leben verwandeln kann"], ["Großvater sprach immer das **Tischgebet** vor unserem Sonntagsessen", "Die Kinder wechselten sich beim **Dankgebet** an Feiertagen ab"]]
+  },
+  {
+    "lemma": "divorce",
+    "meanings_de": ["Ehescheidung", "vollständige Trennung"],
+    "definitions_de": ["rechtliche Auflösung einer Ehe durch ein Gericht oder eine Behörde", "vollständige Trennung zwischen Dingen, die zuvor verbunden waren"],
+    "examples_de": [["Ihre **Scheidung** wurde nach monatelangen Verhandlungen über das Vermögen rechtskräftig", "**Scheidungsraten** haben sich in den letzten fünfzig Jahren weltweit erheblich verändert"], ["Man kann Wirtschaftspolitik nicht völlig von ihren sozialen Folgen **trennen**", "Die **Abkehr** des Unternehmens von traditionellen Methoden verbesserte die Effizienz erheblich"]]
+  },
+  {
+    "lemma": "vessel",
+    "meanings_de": ["Schiff", "Gefäß"],
+    "definitions_de": ["großes Boot oder Schiff für Reisen auf dem Wasser", "hohler Behälter oder Röhre für Flüssigkeiten oder Körperflüssigkeiten"],
+    "examples_de": [["Das Fracht**schiff** verließ den Hafen mit Tausenden von Containern", "Marine**schiffe** patrouillierten ständig in den Gewässern zur Sicherung der Seewege"], ["Blut**gefäße** transportieren ständig Sauerstoff und Nährstoffe durch den Körper", "Das antike **Gefäß** enthielt über zweitausend Jahre alten Wein"]]
+  },
+  {
+    "lemma": "pig",
+    "meanings_de": ["Nutztier", "gierige Person"],
+    "definitions_de": ["domestiziertes Tier mit rosa Haut, das zur Fleischproduktion gehalten wird", "Person, die gierig, schmutzig oder unangenehm im Verhalten ist"],
+    "examples_de": [["Der Bauer züchtete **Schweine** für die jährliche Speck- und Schinkenproduktion", "**Schweine** sind trotz verbreiteter Vorurteile tatsächlich intelligente Tiere"], ["Sei kein **Vielfraß** und lass auch anderen etwas von der Pizza übrig", "Er ist ein **Ferkel**, das niemals hinter sich aufräumt"]]
+  },
+  {
+    "lemma": "assignment",
+    "meanings_de": ["zugewiesene Aufgabe", "Übertragung"],
+    "definitions_de": ["Aufgabe oder Arbeit, die jemandem als Teil der Arbeit oder des Studiums zugewiesen wird", "rechtliche Übertragung eines Rechts oder Eigentums an eine andere Person"],
+    "examples_de": [["Die Haus**aufgabe** musste ausnahmslos bis Freitagmorgen abgegeben werden", "Ihr erster **Auftrag** als Reporterin war die Berichterstattung über Schulratssitzungen"], ["Die **Abtretung** des Mietvertrags erforderte zunächst die Zustimmung des Vermieters", "Patent**übertragungsdokumente** müssen bei der zuständigen Stelle eingereicht werden"]]
+  },
+  {
+    "lemma": "distinction",
+    "meanings_de": ["merklicher Unterschied", "besondere Auszeichnung"],
+    "definitions_de": ["Unterschied oder Kontrast zwischen ähnlichen Dingen oder Personen", "besondere Ehre oder Anerkennung für eine Leistung"],
+    "examples_de": [["Der **Unterschied** zwischen den beiden Theorien ist subtil, aber akademisch wichtig", "Sie konnte anfangs keinen **Unterschied** zwischen den eineiigen Zwillingen erkennen"], ["Er schloss sein Studium an der renommierten Universität mit **Auszeichnung** ab", "Der Soldat erhielt eine **Auszeichnung** für Tapferkeit unter Feindbeschuss"]]
+  },
+  {
+    "lemma": "circuit",
+    "meanings_de": ["Stromkreis", "regelmäßige Route"],
+    "definitions_de": ["vollständiger Weg, durch den Elektrizität fließt, einschließlich der Stromquelle", "regelmäßige Reise um ein bestimmtes Gebiet oder zwischen bestimmten Orten"],
+    "examples_de": [["Der **Stromkreis** war unterbrochen, wodurch alle Lichter sofort ausfielen", "Ingenieure entwickelten sorgfältig einen neuen **Schaltkreis** für die Computerplatine"], ["Der Richter bereist monatlich einen **Bezirk**, der drei ländliche Landkreise umfasst", "Die **Vortragsreise** hielt sie ständig zwischen Universitäten unterwegs"]]
+  },
+  {
+    "lemma": "acid",
+    "meanings_de": ["chemische Verbindung", "ätzende Substanz"],
+    "definitions_de": ["chemische Verbindung, die in wässriger Lösung Wasserstoffionen freisetzt", "Substanz mit saurem Geschmack, die Metalle angreifen kann"],
+    "examples_de": [["Schwefel**säure** wird weltweit in Autobatterien und industriellen Prozessen verwendet", "Das Lackmuspapier färbte sich rot und zeigte die Anwesenheit von **Säure** an"], ["**Saurer Regen** schädigt im Laufe der Zeit Gebäude und schadet aquatischen Ökosystemen", "Magen**säure** hilft bei der Verdauung, kann aber manchmal Sodbrennen verursachen"]]
+  },
+  {
+    "lemma": "efficiency",
+    "meanings_de": ["produktive Wirksamkeit", "Ressourcenoptimierung"],
+    "definitions_de": ["Fähigkeit, etwas mit minimalem Aufwand oder Kosten zu erreichen", "Verhältnis von geleisteter Nutzarbeit zur aufgewendeten Gesamtenergie"],
+    "examples_de": [["Das neue System verbesserte die **Effizienz** durch erhebliche Verkürzung der Bearbeitungszeit", "Energie**effizienz** in Gebäuden spart Geld und reduziert die Umweltbelastung"], ["Der **Wirkungsgrad** des Motors bestimmt direkt seinen Kraftstoffverbrauch", "Die Arbeitsplatz**effizienz** stieg nach Einführung besserer Organisationswerkzeuge"]]
+  },
+  {
+    "lemma": "memorial",
+    "meanings_de": ["Gedenkstätte", "Gedenkfeier"],
+    "definitions_de": ["Bauwerk oder Statue, die an eine Person oder ein Ereignis erinnern soll", "Gottesdienst oder Zeremonie zum Gedenken an einen Verstorbenen"],
+    "examples_de": [["Das Kriegs**denkmal** ehrt Soldaten, die tapfer für ihr Land gestorben sind", "Am Unfallort errichteten sie ein **Mahnmal**"], ["Die **Gedenkfeier** würdigte ihr Leben und ihre vielen Beiträge würdevoll", "Jährliche **Gedenkveranstaltungen** halten die Erinnerung an die Opfer für die Familien lebendig"]]
+  },
+  {
+    "lemma": "blue",
+    "meanings_de": ["Farbton", "trauriges Gefühl"],
+    "definitions_de": ["Farbe zwischen Grün und Violett im sichtbaren Lichtspektrum", "Gefühl von Traurigkeit oder Depression"],
+    "examples_de": [["Der **blaue** Himmel erstreckte sich endlos an diesem perfekten Sommertag", "Sie strich ihre Schlafzimmerwände in einem beruhigenden Hell**blau**"], ["Er ist **niedergeschlagen**, seit sein bester Freund weggezogen ist", "Der Montags**blues** betrifft viele Arbeitnehmer nach der Wochenendentspannung"]]
+  },
+  {
+    "lemma": "entity",
+    "meanings_de": ["eigenständiges Wesen", "Organisationseinheit"],
+    "definitions_de": ["Ding mit einer eigenen und unabhängigen Existenz in der Realität oder Vorstellung", "Organisation oder Wesen mit einer rechtlichen Identität getrennt von ihren Mitgliedern"],
+    "examples_de": [["Jeder lebende Organismus ist eine eigenständige biologische **Einheit** mit einzigartigen Merkmalen", "Das Konzept der Seele als vom Körper getrennte **Wesenheit**"], ["Die Geschäfts**einheit** muss jährlich ihre eigene Steuererklärung einreichen", "Staatliche **Körperschaften** unterliegen anderen Regeln als private Unternehmen"]]
+  },
+  {
+    "lemma": "iphone",
+    "meanings_de": ["Smartphone-Gerät", "Apple-Produkt"],
+    "definitions_de": ["von Apple Inc. entwickeltes und vermarktetes Smartphone mit Touchscreen-Oberfläche", "Mobilgerät mit iOS-Betriebssystem in verschiedenen Modellen"],
+    "examples_de": [["Sie ließ gestern ihr **iPhone** fallen und der Bildschirm zerbrach leider", "Das neue **iPhone** bietet verbesserte Kameras und längere Akkulaufzeit"], ["**iPhone**-Apps können ausschließlich aus dem Apple App Store heruntergeladen werden", "Viele Menschen tauschen ihr **iPhone** alle zwei bis drei Jahre aus"]]
+  },
+  {
+    "lemma": "punishment",
+    "meanings_de": ["Strafe", "Bestrafung"],
+    "definitions_de": ["Strafe, die für ein Vergehen, Verbrechen oder Fehlverhalten verhängt wird", "Handlung des Bestrafens oder Zustand des Bestraftwerdens"],
+    "examples_de": [["Die **Strafe** für Diebstahl variiert je nach Wert des Gestohlenen", "Die Todes**strafe** bleibt in vielen Ländern weltweit umstritten"], ["Eltern diskutierten, ob **Bestrafung** oder positive Verstärkung besser funktioniert", "Die **Strafe** stand in keinem Verhältnis zur Geringfügigkeit des Vergehens"]]
+  },
+  {
+    "lemma": "pill",
+    "meanings_de": ["Medikamententablette", "Verhütungsmittel"],
+    "definitions_de": ["kleine runde Masse aus Medizin, die als Ganzes geschluckt wird", "orales Verhütungsmittel, das täglich zur Schwangerschaftsverhütung eingenommen wird"],
+    "examples_de": [["Nehmen Sie alle vier Stunden eine **Tablette** zur Fieber- und Schmerzlinderung", "Die bittere **Pille** war ohne Wasser schwer zu schlucken"], ["Sie nimmt seit drei Jahren problemlos die **Pille**", "Die **Antibabypille** revolutionierte in den 1960er Jahren die Familienplanung erheblich"]]
+  },
+  {
+    "lemma": "myth",
+    "meanings_de": ["traditionelle Erzählung", "falscher Glaube"],
+    "definitions_de": ["traditionelle Geschichte über Helden oder übernatürliche Wesen zur Erklärung von Naturphänomenen", "weit verbreiteter, aber falscher Glaube oder Vorstellung über etwas"],
+    "examples_de": [["Griechische **Mythen** erzählen Geschichten von Göttern und Helden wie Zeus und Herakles", "Schöpfungs**mythen** existieren weltweit in Kulturen zur Erklärung der menschlichen Herkunft"], ["Der **Mythos**, dass wir nur zehn Prozent unseres Gehirns nutzen, hält sich hartnäckig", "Es ist ein **Irrglaube**, dass Goldfische nur ein Drei-Sekunden-Gedächtnis haben"]]
+  },
+  {
+    "lemma": "economist",
+    "meanings_de": ["Wirtschaftsexperte", "Wirtschaftsanalyst"],
+    "definitions_de": ["Experte für Wirtschaftswissenschaften, der Produktion und Konsum von Gütern untersucht", "Person, die beruflich Wirtschaftsdaten und -trends analysiert"],
+    "examples_de": [["Der **Ökonom** sagte anhand aktueller Marktindikatoren eine Rezession voraus", "Führende **Wirtschaftswissenschaftler** sind sich über den besten geldpolitischen Ansatz uneinig"], ["Sie arbeitet als **Volkswirtin** bei der Bundesbank", "**Ökonomen** untersuchen, wie Gesellschaften knappe Ressourcen auf konkurrierende Bedürfnisse verteilen"]]
+  },
+  {
+    "lemma": "craft",
+    "meanings_de": ["handwerkliche Tätigkeit", "Kunstfertigkeit"],
+    "definitions_de": ["kreative Tätigkeit, bei der Dinge geschickt von Hand hergestellt werden", "Geschick beim Täuschen anderer oder bei kluger Planung"],
+    "examples_de": [["Sie erlernte geduldig das **Töpferhandwerk** von ihrer Großmutter", "Traditionelle **Handwerke** werden landesweit durch Ausbildungsprogramme erhalten"], ["Der Spion nutzte seine **List**, um unbemerkt Informationen zu beschaffen", "Das Schreiben von Romanen erfordert die vollständige Beherrschung der **Erzählkunst**"]]
+  },
+  {
+    "lemma": "poetry",
+    "meanings_de": ["Versdichtung", "künstlerischer Ausdruck"],
+    "definitions_de": ["literarisches Werk, in dem Sprache für ästhetische und evokative Qualitäten verwendet wird", "Qualität von Schönheit und emotionaler Intensität im kreativen Ausdruck"],
+    "examples_de": [["Sie veröffentlichte mit fünfundzwanzig Jahren ihren ersten **Gedichtband**", "**Lyrik** nutzt Rhythmus, Metaphern und Bilder, um Bedeutung anders zu vermitteln"], ["Es liegt **Poesie** in der Art, wie sich Tänzer über die Bühne bewegen", "Die **Poesie** des Sonnenuntergangs bewegte alle zu dankbarer Stille"]]
+  },
+  {
+    "lemma": "thread",
+    "meanings_de": ["dünner Faden", "Diskussionsthema"],
+    "definitions_de": ["dünner Strang aus Baumwolle, Wolle oder anderem Fasermaterial zum Nähen", "durchgehendes Thema oder Merkmal in einer Situation oder einem Schriftstück"],
+    "examples_de": [["Sie benutzte roten **Faden**, um den Knopf sorgfältig wieder anzunähen", "Der **Faden** riss, während sie das zarte Muster stickte"], ["Ein roter **Faden** der Erlösung zieht sich durch alle seine Romane", "Der Diskussions**faden** im Forum erstreckte sich über mehrere Seiten"]]
+  },
+  {
+    "lemma": "privilege",
+    "meanings_de": ["besonderes Recht", "Vorteil"],
+    "definitions_de": ["besonderes Recht oder Vorteil, der einer bestimmten Person oder Gruppe gewährt wird", "Gelegenheit, etwas zu tun, was als besondere Ehre angesehen wird"],
+    "examples_de": [["Autofahren ist ein **Privileg**, das bei Verstößen entzogen werden kann", "Das Exekutiv**privileg** schützt bestimmte Präsidentenkommunikationen rechtlich vor Offenlegung"], ["Es war ein **Privileg**, den Nobelpreisträger persönlich zu treffen", "Viele Menschen schätzen die **Privilegien**, die sie täglich genießen, nicht"]]
+  },
+  {
+    "lemma": "coal",
+    "meanings_de": ["fossiler Brennstoff", "glühende Kohle"],
+    "definitions_de": ["schwarzes Gestein aus Pflanzenresten, das als Brennstoff verwendet wird", "glühendes oder verkohltes Stück Holz oder anderes Material"],
+    "examples_de": [["Der **Kohlebergbau** bleibt trotz moderner Sicherheitsausrüstung gefährlich", "Das Kraftwerk verbrennt **Kohle** zur Stromerzeugung für die Region"], ["Heiße **Glut** vom Lagerfeuer könnte leicht einen Waldbrand auslösen", "Sie zeichnete mit einem Stück **Holzkohle** auf Papier"]]
+  },
+  {
+    "lemma": "fool",
+    "meanings_de": ["törichter Mensch", "Hofnarr"],
+    "definitions_de": ["Person, die unklug handelt oder der es an gesundem Menschenverstand mangelt", "historischer Unterhalter, der königliche Höfe mit Witzen und Späßen amüsierte"],
+    "examples_de": [["Sei kein **Narr** und fahre nach dem Alkoholkonsum heute Abend Auto", "Nur ein **Dummkopf** würde eine so offensichtliche Lüge glauben"], ["Der **Hofnarr** des Königs unterhielt die Gäste mit geistreichen Beobachtungen und Akrobatik", "**Hofnarren** überbrachten oft harte Wahrheiten als Humor getarnt"]]
+  },
+  {
+    "lemma": "cow",
+    "meanings_de": ["Nutztier", "weibliches Rind"],
+    "definitions_de": ["großes domestiziertes Tier, das zur Milch- oder Fleischproduktion gehalten wird", "erwachsenes Weibchen von Rindern oder bestimmten anderen Großtieren"],
+    "examples_de": [["Die Milch**kuh** produziert durchschnittlich täglich zwanzig Liter Milch", "Schwarz-weiße **Kühe** grasten friedlich auf der grünen Weide"], ["Der Bauer trennte zur Sicherheit die **Kühe** von den Bullen", "Eine Mutter**kuh** beschützt ihr Kalb heftig vor möglichen Gefahren"]]
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "ugly",
+    "meanings_de": ["unangenehm anzusehen", "moralisch verwerflich"],
+    "definitions_de": ["ein Aussehen habend, das als unangenehm oder abstoßend für das Auge empfunden wird", "moralisch verwerfliches Verhalten zeigend oder beinhaltend, das bei anderen Unbehagen oder Ablehnung hervorruft"],
+    "examples_de": [["Die **hässliche** Narbe in seinem Gesicht machte ihn unsicher", "Das alte Gebäude ist **hässlich**, hat aber historischen Wert"], ["Es war ein **hässlicher** Vorfall, der ihrem Ruf schadete", "Die **hässliche** Wahrheit über die Korruption schockierte die Gemeinde"]]
+  },
+  {
+    "lemma": "palestinian",
+    "meanings_de": ["Palästina betreffend"],
+    "definitions_de": ["zu Palästina, seinen Bewohnern, seiner Kultur oder seinen Gebieten gehörend oder diese betreffend"],
+    "examples_de": [["**Palästinensische** Künstler stellten ihre Werke in der internationalen Galerie aus", "Die **palästinensische** Delegation nahm gestern an der Friedenskonferenz teil"]]
+  },
+  {
+    "lemma": "fiscal",
+    "meanings_de": ["die Finanzen betreffend"],
+    "definitions_de": ["die Staatseinnahmen, öffentliche Gelder, Steuern oder finanzielle Angelegenheiten betreffend"],
+    "examples_de": [["Das **Fiskaljahr** endet für viele Unternehmen im Juni", "Der Kongress debattierte stundenlang über die neue **Fiskalpolitik**"]]
+  },
+  {
+    "lemma": "flat",
+    "meanings_de": ["eben und glatt", "emotionslos", "fest und unveränderlich", "vollständig und direkt"],
+    "definitions_de": ["eine ebene Oberfläche ohne erhöhte Bereiche oder Vertiefungen aufweisend", "ohne Emotion, Begeisterung oder Energie in Ausdruck oder Vortrag", "auf einer Ebene festgelegt, ohne Variation oder Schwankung über die Zeit", "absolut und uneingeschränkt in Art oder Ausdruck, ohne Mehrdeutigkeit"],
+    "examples_de": [["Die **flache** Oberfläche eignet sich perfekt zum Teigausrollen", "Wir brauchen eine **ebene** Fläche, um das Lager aufzuschlagen"], ["Ihre Stimme war während der gesamten Präsentation **emotionslos**", "Die Darbietung des Schauspielers kam beim Publikum **flach** an"], ["Sie berechnen eine **Pauschale** unabhängig von der Nutzung", "Das Unternehmen bietet **Pauschalpreise** für alle Kunden"], ["Er gab eine **glatte** Absage auf ihren Vorschlag", "Das ist eine **glatte** Lüge und jeder weiß es"]]
+  },
+  {
+    "lemma": "wise",
+    "meanings_de": ["gutes Urteilsvermögen habend", "gelehrt und kenntnisreich"],
+    "definitions_de": ["Erfahrung, Wissen und gutes Urteilsvermögen bei Entscheidungen zeigend oder besitzend", "großes Wissen oder Gelehrsamkeit besitzend, die durch Studium und Erfahrung angesammelt wurde"],
+    "examples_de": [["Es war **klug**, Geld für Notfälle zu sparen", "Sie traf eine **weise** Entscheidung, das Angebot anzunehmen"], ["Der **weise** Professor teilte Erkenntnisse aus jahrelanger Forschung", "Alte **Weise** studierten jahrhundertelang die Sterne"]]
+  },
+  {
+    "lemma": "organic",
+    "meanings_de": ["ohne Chemikalien hergestellt", "natürlich entstehend", "Organe betreffend"],
+    "definitions_de": ["ohne Verwendung künstlicher Chemikalien oder Pestizide produziert oder angebaut", "sich natürlich und allmählich entwickelnd, ohne erzwungen oder gekünstelt zu sein", "sich auf körperliche Organe oder eine organisierte physische Struktur beziehend"],
+    "examples_de": [["Sie kauft nur **biologisches** Gemüse von lokalen Bauernhöfen", "Das Restaurant serviert täglich **biologische**, regional bezogene Zutaten"], ["Die Protestbewegung hatte ein **organisches** Wachstum über die Zeit", "Ihre Freundschaft entwickelte sich auf **natürliche**, organische Weise"], ["Der Arzt fand keine **organische** Ursache für ihre Symptome", "Tests zeigten **organische** Schäden am Lebergewebe"]]
+  },
+  {
+    "lemma": "diverse",
+    "meanings_de": ["Vielfalt zeigend"],
+    "definitions_de": ["ein großes Maß an Vielfalt oder Unterschieden zwischen Elementen aufweisend"],
+    "examples_de": [["Die Universität hat eine **vielfältige** Studentenschaft aus vielen Ländern", "Unser Team profitiert von **unterschiedlichen** Perspektiven und Hintergründen"]]
+  },
+  {
+    "lemma": "intellectual",
+    "meanings_de": ["den Intellekt betreffend", "hochgebildet"],
+    "definitions_de": ["die Fähigkeit betreffend, Ideen zu denken und zu verstehen", "einen hochentwickelten Intellekt und Geschmack für akademische Bestrebungen besitzend"],
+    "examples_de": [["Schach ist ein **intellektuelles** Spiel, das strategisches Denken erfordert", "Die **geistigen** Eigentumsrechte schützen kreative Werke"], ["Sie ist eine **Intellektuelle**, die zum Vergnügen Philosophie liest", "Die **intellektuelle** Elite versammelte sich zum jährlichen Symposium"]]
+  },
+  {
+    "lemma": "tight",
+    "meanings_de": ["fest fixiert", "wenig Raum habend", "streng oder fordernd", "enge Beziehung"],
+    "definitions_de": ["fest oder eng an Ort und Stelle fixiert und schwer zu bewegen", "wenig Platz zwischen Dingen oder wenig Bewegungsraum habend", "streng kontrolliert oder durchgesetzt mit wenig erlaubter Flexibilität", "eine enge Bindung oder starke Verbindung zwischen Menschen habend"],
+    "examples_de": [["Stellen Sie sicher, dass der Deckel **fest** sitzt, bevor Sie schütteln", "Das Seil wurde **straff** über die Lücke gezogen"], ["Diese Schuhe sind zu **eng** für bequemes Gehen", "Der **straffe** Zeitplan ließ keinen Raum für Verzögerungen"], ["Die Sicherheit war beim internationalen Gipfeltreffen **streng**", "Sie führen ein **strenges** Regiment mit strikten Regeln"], ["Wir sind seit der Grundschule **enge** Freunde", "Die **eng verbundene** Gemeinschaft unterstützt sich immer gegenseitig"]]
+  },
+  {
+    "lemma": "absolute",
+    "meanings_de": ["vollständig und total", "nicht eingeschränkt"],
+    "definitions_de": ["vollständig und total ohne jeden Zweifel oder Vorbehalt", "in keiner Weise eingeschränkt oder vermindert; unabhängig existierend"],
+    "examples_de": [["Der Diktator verlangte **absolute** Loyalität von seinen Anhängern", "Sie hat **absolutes** Vertrauen in die Fähigkeiten ihres Teams"], ["Das Gericht entschied mit **absoluter** Autorität in der Angelegenheit", "In der Physik ist der **absolute** Nullpunkt die niedrigstmögliche Temperatur"]]
+  },
+  {
+    "lemma": "external",
+    "meanings_de": ["außen oder äußerlich", "von außen kommend"],
+    "definitions_de": ["zur äußeren Oberfläche oder Struktur gehörend oder diese bildend", "von einer Quelle außerhalb des Gegenstands kommend oder abgeleitet"],
+    "examples_de": [["Die **Außenwände** brauchen einen neuen Anstrich", "Prüfen Sie die **Außentemperatur**, bevor Sie hinausgehen"], ["Das Unternehmen stellte **externe** Berater für das Projekt ein", "**Externe** Faktoren beeinflussten die Wahlergebnisse erheblich"]]
+  },
+  {
+    "lemma": "surprising",
+    "meanings_de": ["Überraschung verursachend"],
+    "definitions_de": ["bei jemandem mildes Erstaunen oder unerwarteten Schock hervorrufend"],
+    "examples_de": [["Die Testergebnisse waren für alle Beteiligten **überraschend**", "Es ist **erstaunlich**, wie schnell Kinder neue Sprachen lernen"]]
+  },
+  {
+    "lemma": "mobile",
+    "meanings_de": ["bewegungsfähig", "Telefone betreffend"],
+    "definitions_de": ["fähig, sich zu bewegen oder frei und leicht bewegt zu werden", "sich auf Mobiltelefone oder tragbare Kommunikationsgeräte beziehend"],
+    "examples_de": [["Die **mobile** medizinische Einheit reist in ländliche Gebiete", "Ältere Patienten benötigen **mobile** Hilfsmittel zum Gehen"], ["Laden Sie unsere **mobile** App für bequemes Einkaufen überall herunter", "Die **Mobilfunk**technologie hat revolutioniert, wie wir täglich kommunizieren"]]
+  },
+  {
+    "lemma": "worried",
+    "meanings_de": ["sich sorgend"],
+    "definitions_de": ["Angst oder Besorgnis über tatsächliche oder mögliche Probleme fühlend oder zeigend"],
+    "examples_de": [["Eltern waren **besorgt** über die Online-Sicherheit ihrer Kinder", "Sie sah **besorgt** aus, als sie die Nachrichten hörte"]]
+  },
+  {
+    "lemma": "random",
+    "meanings_de": ["ohne Muster"],
+    "definitions_de": ["ohne Methode oder bewusste Entscheidung geschehend, getan oder gewählt"],
+    "examples_de": [["Die Lotterie verwendet **zufällige** Nummernauswahl für Fairness", "Die Polizei führte **stichprobenartige** Kontrollen am Grenzübergang durch"]]
+  },
+  {
+    "lemma": "asleep",
+    "meanings_de": ["im Schlafzustand"],
+    "definitions_de": ["im Zustand des Schlafes; nicht wach oder bei Bewusstsein"],
+    "examples_de": [["Das Baby schlief nach dem Trinken warmer Milch **ein**", "Macht keinen Lärm; alle **schlafen** oben"]]
+  },
+  {
+    "lemma": "extraordinary",
+    "meanings_de": ["sehr ungewöhnlich", "über das Gewöhnliche hinaus"],
+    "definitions_de": ["sehr ungewöhnlich oder bemerkenswert auf eine Weise, die Staunen hervorruft", "über das Übliche, Regelmäßige oder Gewohnheitsmäßige im Umfang hinausgehend"],
+    "examples_de": [["Sie hat **außergewöhnliches** Talent für das Violinspiel", "Die Rettung war eine **außerordentliche** Heldentat"], ["Der Vorstand berief eine **außerordentliche** Sitzung ein, um die Krise zu besprechen", "Diese Umstände erfordern **außergewöhnliche** Maßnahmen zur ordnungsgemäßen Lösung"]]
+  },
+  {
+    "lemma": "near",
+    "meanings_de": ["nah bei der Entfernung", "fast geschehend"],
+    "definitions_de": ["in oder zu einer kurzen Entfernung im Raum", "kurz davor, in der Zeit zu geschehen oder erreicht zu werden"],
+    "examples_de": [["Der Lebensmittelladen ist **nahe** bei unserem Haus in der Innenstadt", "Halten Sie gefährliche Chemikalien von **nahen** Lebensmittelbereichen fern"], ["Wir sind **nahe** daran, das Bauprojekt erfolgreich abzuschließen", "Die **nahe** Zukunft hält viele aufregende Möglichkeiten bereit"]]
+  },
+  {
+    "lemma": "conventional",
+    "meanings_de": ["der Tradition folgend"],
+    "definitions_de": ["auf dem basierend oder folgend, was traditionell oder allgemein akzeptiert wird"],
+    "examples_de": [["Sie wählten eine **konventionelle** Hochzeitszeremonie mit traditionellen Gelübden", "**Herkömmliche** Weisheit besagt, zehn Prozent des Einkommens zu sparen"]]
+  },
+  {
+    "lemma": "nearby",
+    "meanings_de": ["nah bei der Entfernung"],
+    "definitions_de": ["in kurzer Entfernung in der Umgebung gelegen"],
+    "examples_de": [["Es gibt eine Apotheke **in der Nähe**, wenn Sie Medizin brauchen", "Die **nahegelegenen** Bewohner beschwerten sich über den Baulärm"]]
+  },
+  {
+    "lemma": "comprehensive",
+    "meanings_de": ["vollständig und gründlich"],
+    "definitions_de": ["alle oder fast alle Elemente oder Aspekte von etwas einschließend"],
+    "examples_de": [["Der Bericht bietet eine **umfassende** Analyse der Markttrends", "Studenten müssen eine **umfassende** Prüfung vor dem Abschluss bestehen"]]
+  },
+  {
+    "lemma": "stable",
+    "meanings_de": ["nicht verändernd", "fest und stetig", "für Pferde"],
+    "definitions_de": ["nicht wahrscheinlich zu ändern oder zu scheitern; fest etabliert", "nicht wahrscheinlich nachzugeben oder umzukippen; fest fixiert", "sich auf ein Gebäude zur Unterbringung von Pferden oder Vieh beziehend"],
+    "examples_de": [["Der Zustand des Patienten ist nach der Operation **stabil**", "Sie haben eine **stabile** Beziehung, die auf Vertrauen aufgebaut ist"], ["Stellen Sie sicher, dass die Leiter **stabil** ist, bevor Sie hinaufsteigen", "Der Tisch ist auf diesem unebenen Boden nicht **stabil**"], ["Der Stallbursche füttert jeden Morgen die Pferde im **Stall**", "Sie lernte das Reiten in der örtlichen **Reitanlage**"]]
+  },
+  {
+    "lemma": "efficient",
+    "meanings_de": ["gut funktionierend"],
+    "definitions_de": ["maximale Produktivität mit minimalem verschwendetem Aufwand oder Kosten erreichend"],
+    "examples_de": [["Das neue System ist **effizienter** als das alte", "Sie ist eine **effiziente** Managerin, die Dinge schnell erledigt"]]
+  },
+  {
+    "lemma": "welcome",
+    "meanings_de": ["gern empfangen", "frei zu tun"],
+    "definitions_de": ["mit Freude oder Zustimmung gern empfangen oder zugelassen", "erlaubt oder eingeladen, etwas frei zu tun oder zu nehmen"],
+    "examples_de": [["Sie sind immer **willkommen** bei uns zum Abendessen", "Die kühle Brise war eine **willkommene** Erleichterung von der Hitze"], ["Sie können gerne meinen Computer benutzen, während ich weg bin", "Besucher sind **eingeladen**, den Garten frei zu erkunden"]]
+  },
+  {
+    "lemma": "ideal",
+    "meanings_de": ["perfektes Beispiel", "im Denken existierend"],
+    "definitions_de": ["der eigenen Vorstellung von Perfektion entsprechend; am besten geeignet", "nur in der Vorstellung existierend; wünschenswert, aber unwahrscheinlich"],
+    "examples_de": [["Dieser Standort ist **ideal** für unser neues Restaurant", "Sie ist die **ideale** Kandidatin für die Führungsposition"], ["In einer **idealen** Welt gäbe es keine Armut", "Seine **ideale** Lösung ignorierte praktische Einschränkungen völlig"]]
+  },
+  {
+    "lemma": "loose",
+    "meanings_de": ["nicht fest", "nicht streng", "nicht eingeschlossen"],
+    "definitions_de": ["nicht fest oder straff an Ort und Stelle fixiert; gelöst", "nicht streng oder exakt in Interpretation oder Durchsetzung", "frei von Einschränkung oder Zurückhaltung; auf freiem Fuß"],
+    "examples_de": [["Die Schraube hat sich **gelöst** und muss sofort festgezogen werden", "Sie bevorzugt im Sommer **lockere** Kleidung"], ["Sie haben eine **lockere** Auslegung der Regeln", "Der Film basiert **lose** auf wahren Ereignissen"], ["Der Hund kam **los** und rannte durch die Nachbarschaft", "Es gibt einen **losen** Draht, der elektrische Probleme verursacht"]]
+  },
+  {
+    "lemma": "drunk",
+    "meanings_de": ["durch Alkohol berauscht"],
+    "definitions_de": ["durch Alkohol in dem Maße beeinflusst, dass die Kontrolle verloren geht"],
+    "examples_de": [["Der **betrunkene** Fahrer wurde am Kontrollpunkt verhaftet", "Er wurde auf der Büro-Weihnachtsfeier **betrunken**"]]
+  },
+  {
+    "lemma": "missing",
+    "meanings_de": ["nicht anwesend", "nicht gefunden"],
+    "definitions_de": ["nicht anwesend, wenn erwartet oder vermutet zu sein", "trotz Suche nicht zu finden oder zu lokalisieren"],
+    "examples_de": [["Drei Schüler **fehlten** heute Morgen im Unterricht", "Dem Bericht **fehlen** wichtige Daten über Kosten"], ["Das **vermisste** Kind wurde nach zwei Tagen sicher gefunden", "Die Polizei sucht nach den **verschwundenen** Schmuckstücken"]]
+  },
+  {
+    "lemma": "silly",
+    "meanings_de": ["Verstand fehlend", "spielerisch töricht"],
+    "definitions_de": ["einen Mangel an gesundem Menschenverstand oder Urteilsvermögen habend oder zeigend", "spielerisch und unbeschwert auf harmlose, amüsante Weise"],
+    "examples_de": [["Es war **dumm**, ohne Regenschirm hinauszugehen", "Machen Sie keine **albernen** Fehler bei den einfachen Fragen"], ["Die Kinder schnitten sich gegenseitig **alberne** Grimassen", "Wir verbrachten den Nachmittag damit, **alberne** Witze zu erzählen"]]
+  },
+  {
+    "lemma": "remote",
+    "meanings_de": ["weit entfernt", "geringe Möglichkeit"],
+    "definitions_de": ["weit von den Hauptzentren der Bevölkerung entfernt gelegen", "sehr wenig Verbindung oder Beziehung zu etwas habend"],
+    "examples_de": [["Sie leben in einem **abgelegenen** Dorf in den Bergen", "Die Hütte ist zu **abgelegen** für Internetdienst"], ["Es gibt nur eine **geringe** Chance auf Regen heute", "Die beiden Vorfälle scheinen **entfernt** voneinander"]]
+  },
+  {
+    "lemma": "remarkable",
+    "meanings_de": ["Aufmerksamkeit verdienend"],
+    "definitions_de": ["Aufmerksamkeit verdienend als außergewöhnlich oder außergewöhnlich in der Qualität"],
+    "examples_de": [["Sie machte **bemerkenswerte** Fortschritte beim schnellen Erlernen der Sprache", "Der Wissenschaftler machte eine **bemerkenswerte** Entdeckung über die DNA-Struktur"]]
+  },
+  {
+    "lemma": "everyday",
+    "meanings_de": ["alltäglich und gewöhnlich"],
+    "definitions_de": ["täglich als Teil der regelmäßigen Routine des Lebens geschehend oder verwendet"],
+    "examples_de": [["Das sind meine **alltäglichen** Schuhe für den Weg zur Arbeit", "Das Museum zeigt **alltägliche** Gegenstände aus dem alten Rom"]]
+  },
+  {
+    "lemma": "naked",
+    "meanings_de": ["ohne Kleidung", "ohne Bedeckung", "offen und unverhüllt"],
+    "definitions_de": ["ohne Kleidung am Körper; nackt oder bloß", "ohne die übliche Bedeckung oder den Schutz auf etwas", "offen ausgedrückt ohne Versuch zu verschleiern oder zu verbergen"],
+    "examples_de": [["Der Arzt bat ihn, sein Hemd für die Untersuchung auszuziehen", "Antike griechische Athleten traten **nackt** bei den Olympischen Spielen an"], ["Die **kahlen** Äste sahen karg gegen den Winterhimmel aus", "Berühren Sie niemals **blanke** elektrische Drähte ohne Schutz"], ["Es war **nackter** Ehrgeiz, der ihren Erfolg antrieb", "Die **nackte** Wahrheit ist manchmal schwer zu akzeptieren"]]
+  },
+  {
+    "lemma": "sufficient",
+    "meanings_de": ["genug für den Zweck"],
+    "definitions_de": ["genug, um die Bedürfnisse einer Situation oder eines Zwecks zu erfüllen"],
+    "examples_de": [["Wir haben **ausreichende** Mittel, um das Projekt erfolgreich abzuschließen", "Zwei Stunden sollten **genügend** Zeit für die Prüfung sein"]]
+  },
+  {
+    "lemma": "vital",
+    "meanings_de": ["absolut notwendig", "voller Energie"],
+    "definitions_de": ["absolut notwendig oder wichtig für Leben oder Erfolg", "voller Energie und Leben; animiert und energisch"],
+    "examples_de": [["Wasser ist **lebenswichtig** für das menschliche Überleben in der Wüste", "Es ist **entscheidend**, dass wir vor Beginn der Sitzung ankommen"], ["Mit neunzig bleibt sie **vital** und täglich aktiv", "Der **vitale** junge Athlet gewann drei Goldmedaillen"]]
+  },
+  {
+    "lemma": "impressive",
+    "meanings_de": ["Bewunderung hervorrufend"],
+    "definitions_de": ["Bewunderung durch Größe, Qualität oder Geschick hervorrufend; großartig und beeindruckend"],
+    "examples_de": [["Die **beeindruckende** Architektur der Kathedrale zieht jährlich Tausende von Touristen an", "Sie hielt eine **eindrucksvolle** Präsentation, die den Auftrag gewann"]]
+  },
+  {
+    "lemma": "fantastic",
+    "meanings_de": ["außergewöhnlich gut", "fantasievoll und unrealistisch"],
+    "definitions_de": ["außergewöhnlich gut oder attraktiv auf enthusiastische Weise", "fantasievoll oder phantasievoll; fern von Realität oder Praktikabilität"],
+    "examples_de": [["Das Essen in diesem Restaurant ist absolut **fantastisch**", "Wir hatten gestern eine **fantastische** Zeit am Strand"], ["Drachen und Einhörner sind **fantastische** Kreaturen aus der Mythologie", "Seine **fantastischen** Geschichten unterhielten die Kinder stundenlang"]]
+  },
+  {
+    "lemma": "mere",
+    "meanings_de": ["nichts mehr als"],
+    "definitions_de": ["verwendet, um zu betonen, wie klein oder unbedeutend etwas ist"],
+    "examples_de": [["Der **bloße** Gedanke an Spinnen macht sie nervös", "Er gewann das Rennen mit **nur** zwei Sekunden Vorsprung"]]
+  },
+  {
+    "lemma": "radical",
+    "meanings_de": ["grundlegende Veränderung", "politisch extrem", "mathematische Wurzel"],
+    "definitions_de": ["die grundlegende Natur von etwas betreffend oder beeinflussend", "extreme politische oder soziale Reformen befürwortend; revolutionär in der Natur", "sich auf die Wurzel einer Zahl oder Menge beziehend"],
+    "examples_de": [["Das Unternehmen braucht **radikale** Veränderungen, um im Wettbewerb zu überleben", "Sie schlug eine **radikale** Lösung für das Problem vor"], ["Die **radikale** Gruppe organisierte Proteste gegen die Regierung", "Seine **radikalen** Ansichten entfremdeten gemäßigte Parteimitglieder"], ["Schüler lernten, **Wurzel**ausdrücke in der Algebra zu vereinfachen", "Das **Wurzel**zeichen zeigt eine Quadratwurzeloperation an"]]
+  },
+  {
+    "lemma": "scary",
+    "meanings_de": ["Angst verursachend"],
+    "definitions_de": ["Angst oder Alarm verursachend; furchteinflößend in Natur oder Erscheinung"],
+    "examples_de": [["Der **gruselige** Film hielt die Kinder die ganze Nacht wach", "Nachts allein zu gehen kann manchmal **beängstigend** sein"]]
+  },
+  {
+    "lemma": "attractive",
+    "meanings_de": ["angenehmes Aussehen", "ansprechende Eigenschaften"],
+    "definitions_de": ["angenehm oder ansprechend anzusehen; körperlich schön", "Eigenschaften habend, die Interesse wecken oder Menschen anziehen"],
+    "examples_de": [["Sie trug ein **attraktives** Kleid zur Party", "Das Haus hat eine **ansprechende** Landschaftsgestaltung im Garten"], ["Das Stellenangebot war wegen der Zusatzleistungen **attraktiv**", "Sie machten gestern ein **attraktives** Angebot an Investoren"]]
+  },
+  {
+    "lemma": "content",
+    "meanings_de": ["in friedlichem Glück"],
+    "definitions_de": ["in einem Zustand friedlichen Glücks und Zufriedenheit mit den Umständen"],
+    "examples_de": [["Sie scheint **zufrieden** mit ihrem Leben auf dem Land", "Die Katze sah **zufrieden** aus, wie sie im sonnigen Fenster schlief"]]
+  },
+  {
+    "lemma": "round",
+    "meanings_de": ["kreisförmige Form", "vollständige Serie"],
+    "definitions_de": ["wie ein Kreis oder eine Kugel geformt; ohne Winkel gekrümmt", "eine vollständige Serie, Menge oder einen Kreislauf von Ereignissen bildend"],
+    "examples_de": [["Der **runde** Tisch fördert gleichberechtigte Teilnahme an Diskussionen", "Sie trug eine **runde** Brille, die zu ihrem Gesicht passte"], ["Lasst uns eine weitere **Runde** Vorstellungen für Neuankömmlinge machen", "Der Arzt macht täglich seine **Runden** im Krankenhaus"]]
+  },
+  {
+    "lemma": "chemical",
+    "meanings_de": ["die Chemie betreffend"],
+    "definitions_de": ["die Chemie oder die Wechselwirkungen von Substanzen betreffend"],
+    "examples_de": [["Die **chemische** Reaktion erzeugte ein unerwartetes Gas", "Arbeiter müssen Schutz tragen, wenn sie mit **chemischen** Substanzen umgehen"]]
+  },
+  {
+    "lemma": "vulnerable",
+    "meanings_de": ["anfällig für Schaden"],
+    "definitions_de": ["der Möglichkeit ausgesetzt, körperlich oder emotional angegriffen oder verletzt zu werden"],
+    "examples_de": [["Kinder sind besonders **anfällig** für Online-Raubtiere", "Die Küstenstadt ist **anfällig** für Hurrikanschäden"]]
+  },
+  {
+    "lemma": "square",
+    "meanings_de": ["vier gleiche Seiten", "rechten Winkel bildend", "altmodische Person"],
+    "definitions_de": ["vier gleiche gerade Seiten und vier rechte Winkel habend", "einen rechten Winkel habend oder bildend; senkrecht zu etwas", "altmodische oder langweilig konventionelle Einstellungen oder Verhaltensweisen habend"],
+    "examples_de": [["Der **quadratische** Garten hat gleiche Seiten von zehn Fuß", "Zeichnen Sie ein **Quadrat** um die richtige Antwort"], ["Stellen Sie sicher, dass der Rahmen **rechtwinklig** zur Wand ist", "Der Zimmermann prüfte, dass die Ecken perfekt **rechtwinklig** waren"], ["Sei nicht so **spießig**; probiere etwas Neues aus", "Seine **spießigen** Einstellungen schienen jüngeren Kollegen veraltet"]]
+  },
+  {
+    "lemma": "literary",
+    "meanings_de": ["die Literatur betreffend"],
+    "definitions_de": ["das Schreiben, Studium oder die Wertschätzung von Literatur und Büchern betreffend"],
+    "examples_de": [["Sie gewann einen **literarischen** Preis für ihren ersten Roman", "Die **Literaturzeitschrift** veröffentlicht monatlich Gedichte und Kurzgeschichten"]]
+  },
+  {
+    "lemma": "magic",
+    "meanings_de": ["übernatürliche Kräfte", "wunderbar und aufregend"],
+    "definitions_de": ["übernatürliche Kräfte habend, um Ereignisse geheimnisvoll zu beeinflussen", "wunderbar und aufregend auf eine Weise, die übernatürlich erscheint"],
+    "examples_de": [["Der Zauberer benutzte **magische** Zaubersprüche, um Feinde zu besiegen", "Kinder glauben während der Ferienzeit an **Magie**"], ["Es war ein **magischer** Moment, als sie die Meisterschaft gewannen", "Der Sonnenuntergang schuf eine **magische** Atmosphäre am Strand"]]
+  },
+  {
+    "lemma": "legitimate",
+    "meanings_de": ["rechtmäßig und gültig", "vernünftig und gerechtfertigt"],
+    "definitions_de": ["dem Gesetz oder den Regeln entsprechend; gültig und rechtmäßig", "mit Logik oder Rechtfertigung verteidigt werden könnend; vernünftig"],
+    "examples_de": [["Sie hat einen **legitimen** Anspruch auf das Erbe", "Nur **legitime** Unternehmen können sich für diese Lizenz bewerben"], ["Das ist eine **berechtigte** Sorge bezüglich des Projektzeitplans", "Er stellte **berechtigte** Fragen zur Forschungsmethodik"]]
+  },
+  {
+    "lemma": "slight",
+    "meanings_de": ["gering im Grad", "dünn und zart"],
+    "definitions_de": ["klein in Grad, Menge oder Wichtigkeit; nicht beträchtlich", "dünn und zart in Bau oder Struktur; nicht robust"],
+    "examples_de": [["Es besteht eine **geringe** Chance auf Regen heute Nachmittag", "Sie bemerkte eine **leichte** Verbesserung in seinem Verhalten"], ["Ihre **zierliche** Gestalt ließ sie jünger erscheinen als ihr Alter", "Die **leichte** Brise bewegte kaum den Vorhang"]]
+  }
+]

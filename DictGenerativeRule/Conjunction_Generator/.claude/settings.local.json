@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "defaultMode": "bypassPermissions"
+  },
+  "hooks": {
+    "Stop": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python E:/CompanyBuilding/DictionaryContent/Noun_Generator/play_completion_sound.py"
+          }
+        ]
+      }
+    ]
+  }
+}

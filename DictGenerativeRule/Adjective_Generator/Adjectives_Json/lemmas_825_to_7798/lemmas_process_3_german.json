@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "blanketed",
+    "meanings_de": ["vollständig bedeckt", "vor Blicken verborgen"],
+    "definitions_de": ["mit einer Schicht aus Material bedeckt oder wie mit einer Decke überzogen, sodass die darunterliegende Oberfläche vollständig verborgen ist", "vollständig verborgen oder verdeckt durch etwas, das darüber liegt und die Sicht verhindert"],
+    "examples_de": [["Die Berge waren über Nacht mit einer **dicken** Schneedecke **bedeckt**", "Der **dichte** Morgennebel hatte die ganze Stadt **eingehüllt**"], ["Wichtige Details wurden durch bürokratisches Kauderwelsch **verschleiert**", "Der Skandal wurde von anderen großen Nachrichtenereignissen **überdeckt**"]]
+  },
+  {
+    "lemma": "blasphemous",
+    "meanings_de": ["religiös respektlos"],
+    "definitions_de": ["Verachtung oder Respektlosigkeit gegenüber Gott, religiösen Überzeugungen oder heiligen Dingen zeigend, oft in einer Weise, die Gläubige als verletzend empfinden"],
+    "examples_de": [["Die **blasphemische** Darstellung religiöser Figuren des Künstlers löste eine Kontroverse aus", "Viele hielten seine Witze über heilige Rituale für **gotteslästerlich**"]]
+  },
+  {
+    "lemma": "blasted",
+    "meanings_de": ["durch Explosion beschädigt", "äußerst ärgerlich"],
+    "definitions_de": ["durch eine Explosion oder starke Kraft beschädigt, zerstört oder in Mitleidenschaft gezogen, oft mit sichtbaren Spuren der Zerstörung", "verwendet, um Ärger oder Frustration über etwas extrem Irritierendes auszudrücken, oft als verstärkende Beschreibung"],
+    "examples_de": [["Die **zerbombte** Landschaft zeigte Spuren der jüngsten Angriffe", "Arbeiter entfernten **gesprengtes** Gestein von der Baustelle"], ["Dieser **verfluchte** Wecker hat mich wieder viel zu früh geweckt", "Ich kann meine **verdammten** Schlüssel nirgendwo im Haus finden"]]
+  },
+  {
+    "lemma": "blasting",
+    "meanings_de": ["explosiv kraftvoll", "scharf kritisierend"],
+    "definitions_de": ["explosive Kraft oder extrem lauten Schall erzeugend oder verwendend, oft in einer Weise, die die Umgebung erschüttert", "scharfe Kritik in kraftvoller oder öffentlicher Weise äußernd, meist mit der Absicht, Missstände anzuprangern"],
+    "examples_de": [["Die **dröhnende** Musik von nebenan hielt alle wach", "Bauarbeiter waren den ganzen Tag damit beschäftigt, sich durch **massives** Gestein zu **sprengen**"], ["Der Senator hielt eine **vernichtende** Rede gegen die neue Politik", "Kritiker **zerpflückten** den Film wegen seiner schwachen Handlung"]]
+  },
+  {
+    "lemma": "blatant",
+    "meanings_de": ["völlig offensichtlich"],
+    "definitions_de": ["offen und schamlos auf offensichtliche Weise getan, ohne Versuch es zu verbergen, oft mit einer gewissen Dreistigkeit"],
+    "examples_de": [["Seine **offensichtliche** Missachtung der Regeln führte zu seiner Entlassung", "Die Werbung enthielt **eklatante** Falschbehauptungen über das Produkt"]]
+  },
+  {
+    "lemma": "blazing",
+    "meanings_de": ["heftig brennend", "extrem hell", "intensiv emotional"],
+    "definitions_de": ["mit hellen Flammen und intensiver Hitze heftig brennend, dabei oft eine bedrohliche oder zerstörerische Kraft entwickelnd", "mit extrem hellem oder blendendem Licht scheinend, das die Augen überwältigt und oft Unbehagen verursacht", "intensive Emotionen, besonders Wut, auf dramatische Weise zeigend, sodass die Gefühlsintensität für andere deutlich spürbar wird"],
+    "examples_de": [["Das **lodernde** Feuer breitete sich schnell durch den trockenen Wald aus", "Feuerwehrleute kämpften stundenlang gegen das **brennende** Gebäude"], ["Die **gleißende** Sonne machte es unmöglich, draußen zu arbeiten", "Sie lief über den **glühend** heißen Sand zum Wasser"], ["Sie hatten einen **heftigen** Streit, der ihre Freundschaft beendete", "Sein **loderndes** Temperament sorgte dafür, dass alle ihm auswichen, wenn er wütend war"]]
+  },
+  {
+    "lemma": "bleached",
+    "meanings_de": ["chemisch gebleicht", "durch Einwirkung verblasst"],
+    "definitions_de": ["durch chemische Behandlung oder Entfernung von Farbe weiß oder blass gemacht, oft zu Reinigungs- oder ästhetischen Zwecken", "natürliche Farbe durch längere Einwirkung von Sonne oder Witterungseinflüssen verloren habend"],
+    "examples_de": [["Ihr **gebleichtes** Haar bildete einen Kontrast zu ihren dunklen Augenbrauen", "Das Krankenhaus verwendet **gebleichte** Wäsche, um ordnungsgemäße Hygiene sicherzustellen"], ["Die Wüstensonne hatte die Knochen **ausgebleicht** und brüchig gemacht", "Jahrelanges Sonnenlicht hatte die Vorhänge fast **weiß** **gebleicht**"]]
+  },
+  {
+    "lemma": "bleak",
+    "meanings_de": ["hoffnungslos", "kalt und kahl"],
+    "definitions_de": ["wenig oder keine Hoffnung, Glück oder Ermutigung bietend; eine niederdrückende oder pessimistische Aussicht vermittelnd", "rauem Wetter ausgesetzt und ohne Wärme, Schutz oder Vegetation; eine unwirtliche und trostlose Umgebung darstellend"],
+    "examples_de": [["Die Wirtschaftsprognose sieht für das kommende Jahr **düster** aus", "Sie zeichnete ein **trostloses** Bild vom Leben ohne Bildung"], ["Die **kahle** Landschaft erstreckte sich endlos unter grauen Winterhimmeln", "Sie drängten sich in dem **trostlosen** Wartezimmer zusammen"]]
+  },
+  {
+    "lemma": "blended",
+    "meanings_de": ["glatt vermischt"],
+    "definitions_de": ["kombiniert oder glatt miteinander vermischt, um ein einheitliches Ganzes zu bilden, ohne dass einzelne Bestandteile erkennbar sind"],
+    "examples_de": [["Der Koch kreierte eine perfekt **vermischte** Sauce für die Pasta", "Ihre **zusammengewachsene** Patchworkfamilie bemühte sich, neue Traditionen zu schaffen"]]
+  },
+  {
+    "lemma": "blessed",
+    "meanings_de": ["göttlich begünstigt", "Glück bringend"],
+    "definitions_de": ["durch religiöse Zeremonie geheiligt oder geweiht; von Gott begünstigt oder unter göttlichem Schutz stehend", "Freude, Zufriedenheit oder Glück bringend; vom Schicksal begünstigt und glücklich"],
+    "examples_de": [["Der Priester **segnete** die Gemeinde am Ende des Gottesdienstes", "Sie betrachteten ihr Kind als **gesegnetes** Geschenk von oben"], ["Wir verbrachten eine **herrliche** Woche fernab vom Arbeitsstress", "Sie fühlte sich **gesegnet**, solch unterstützende Freunde zu haben"]]
+  },
+  {
+    "lemma": "blighted",
+    "meanings_de": ["von Krankheit befallen", "ruiniert oder verdorben"],
+    "definitions_de": ["von Pflanzenkrankheit befallen, die Welken und Absterben verursacht, oft mit sichtbaren Verfärbungen oder Deformationen", "verdorben, geschädigt oder zerstört, insbesondere durch widrige Bedingungen oder negative Einflüsse"],
+    "examples_de": [["Die **befallenen** Ernten bedeuteten schwere Verluste für die Bauern", "Botaniker untersuchten die **kranken** Bäume, um die Krankheit zu identifizieren"], ["Die Stadterneuerung zielte auf **heruntergekommene** Viertel zur Sanierung ab", "Seine **zerrüttete** Kindheit hinterließ bleibende emotionale Narben"]]
+  },
+  {
+    "lemma": "blinded",
+    "meanings_de": ["nicht sehen könnend", "urteilslos"],
+    "definitions_de": ["der Sehkraft beraubt oder vorübergehend oder dauerhaft unfähig zu sehen, oft durch äußere Einwirkung verursacht", "unfähig, klar oder rational zu denken aufgrund starker Emotionen, die das Urteilsvermögen beeinträchtigen"],
+    "examples_de": [["Der helle Blitz **blendete** den Fotografen vorübergehend", "Der Unfall machte ihn auf einem Auge dauerhaft **blind**"], ["Sie war von Eifersucht **geblendet** und konnte die Wahrheit nicht sehen", "Die Liebe hatte ihn für ihre offensichtlichen Fehler **blind** gemacht"]]
+  },
+  {
+    "lemma": "blindfold",
+    "meanings_de": ["die Augen bedeckend"],
+    "definitions_de": ["dazu bestimmt, die Augen zu bedecken, um das Sehen zu verhindern, meist als Band oder Tuch"],
+    "examples_de": [["Der **Blindverkostungstest** bewies die Fähigkeiten des Weinexperten", "Die Kinder spielten auf der Geburtstagsfeier ein Spiel mit **verbundenen** Augen"]]
+  },
+  {
+    "lemma": "blindfolded",
+    "meanings_de": ["mit bedeckten Augen"],
+    "definitions_de": ["die Augen mit Stoff oder Verband bedeckt habend, um das Sehen zu verhindern, oft für Spiele oder Experimente"],
+    "examples_de": [["Die Teilnehmer mit **verbundenen** Augen versuchten, Gegenstände durch Berührung zu identifizieren", "Justitia wird oft als Frau mit **verbundenen** Augen dargestellt, die eine Waage hält"]]
+  },
+  {
+    "lemma": "blinding",
+    "meanings_de": ["extrem hell", "klares Denken verhindernd"],
+    "definitions_de": ["so hell, dass es die Sicht überwältigt oder vorübergehende Unfähigkeit zu sehen verursacht, oft schmerzhaft für die Augen", "so intensiv oder überwältigend, dass es klares Denken oder Urteilsvermögen verhindert"],
+    "examples_de": [["Die **blendenden** Scheinwerfer machten das Fahren bei Nacht gefährlich", "Ein **greller** Blitz erhellte den gesamten Himmel"], ["Sie empfand **blinde** Wut, als sie den Verrat entdeckte", "Sein **blinder** Ehrgeiz hinderte ihn daran, die Konsequenzen zu sehen"]]
+  },
+  {
+    "lemma": "blinking",
+    "meanings_de": ["an und aus blinkend"],
+    "definitions_de": ["wiederholt in regelmäßigem oder unregelmäßigem Muster an- und ausgehend, oft als Signal oder Warnung"],
+    "examples_de": [["Die **blinkenden** Lichter am Router zeigten Probleme mit der Internetverbindung an", "Sterne erschienen wie **blinkende** Lichter am klaren Nachthimmel"]]
+  },
+  {
+    "lemma": "blissful",
+    "meanings_de": ["überaus glücklich"],
+    "definitions_de": ["vollkommenes Glück und Freude erlebend oder erzeugend; in einem Zustand perfekter Zufriedenheit"],
+    "examples_de": [["Das Paar verbrachte **glückselige** Flitterwochen auf der tropischen Insel", "Sie blieb in **seliger** Unwissenheit über die bevorstehenden Probleme"]]
+  },
+  {
+    "lemma": "blistering",
+    "meanings_de": ["glühend heiß", "scharf kritisierend", "extrem schnell"],
+    "definitions_de": ["so heiß, dass es Blasen verursachen kann oder dazu imstande ist, oft mit brennender Intensität", "scharfe Kritik oder Verachtung auf intensive Weise äußernd, meist mit verletzender Absicht", "mit extrem hoher Geschwindigkeit oder Intensität bewegend oder ausgeführt"],
+    "examples_de": [["Die **sengende** Wüstenhitze machte Reisen während der Mittagszeit gefährlich", "Sie bekam einen **heftigen** Sonnenbrand, nachdem sie die Sonnencreme vergessen hatte"], ["Der Manager lieferte eine **vernichtende** Kritik der Teamleistung", "Seine **beißenden** Bemerkungen ließen alle in unbehaglicher Stille zurück"], ["Der Läufer hielt während des gesamten Marathons ein **rasantes** Tempo", "Die Band spielte in einem **halsbrecherischen** Tempo"]]
+  },
+  {
+    "lemma": "blithe",
+    "meanings_de": ["sorglos heiter"],
+    "definitions_de": ["eine lässige und fröhliche Gleichgültigkeit zeigend, die als gefühllos oder unangemessen betrachtet wird"],
+    "examples_de": [["Ihre **sorglose** Ablehnung von Sicherheitsbedenken beunruhigte ihre Kollegen", "Er behielt trotz zunehmender Probleme eine **unbekümmerte** Haltung bei"]]
+  },
+  {
+    "lemma": "bloated",
+    "meanings_de": ["mit Flüssigkeit geschwollen", "übermäßig groß"],
+    "definitions_de": ["mit Flüssigkeit oder Gas angeschwollen, was zu unangenehmer Ausdehnung führt, oft mit Spannungsgefühl verbunden", "unnötig oder unerwünscht groß, übertrieben oder aufgebläht in Umfang oder Ausmaß"],
+    "examples_de": [["Er fühlte sich **aufgebläht**, nachdem er beim Abendessen zu viel gegessen hatte", "Die **aufgedunsene** Leiche wurde treibend im Fluss gefunden"], ["Das **aufgeblähte** Budget enthielt viele unnötige Ausgaben", "Kritiker nannten die **überfrachtete** Software ineffizient und langsam"]]
+  },
+  {
+    "lemma": "blockaded",
+    "meanings_de": ["abgeriegelt"],
+    "definitions_de": ["abgeriegelt oder umzingelt, um zu verhindern, dass Waren oder Menschen ein- oder austreten können"],
+    "examples_de": [["Der **blockierte** Hafen verhinderte die Ankunft von Lebensmittellieferungen", "Demonstranten **blockierten** den Haupteingang des Gebäudes"]]
+  },
+  {
+    "lemma": "blockading",
+    "meanings_de": ["aktiv Zugang blockierend"],
+    "definitions_de": ["im Prozess des Abriegelns eines Bereichs, um Bewegungen hinein oder heraus zu verhindern"],
+    "examples_de": [["Seestreitkräfte **blockierten** den feindlichen Hafen", "Die **blockierenden** Truppen verhinderten, dass Vorräte in die Stadt gelangten"]]
+  },
+  {
+    "lemma": "blocked",
+    "meanings_de": ["bewegungsgehindert", "am Geschehen gehindert"],
+    "definitions_de": ["Bewegung oder Durchgang durch ein Hindernis verhindert habend, sodass kein Weiterkommen möglich ist", "am Eintreten oder Fortschreiten durch Einmischung oder Intervention gehindert"],
+    "examples_de": [["Der **verstopfte** Abfluss ließ das Wasser zurückstauen", "Der Verkehr war durch den umgestürzten Baum vollständig **blockiert**"], ["Ihre Beförderung wurde durch Büropolitik **verhindert**", "Das **blockierte** Gesetz schaffte es nie zur Abstimmung"]]
+  },
+  {
+    "lemma": "blocky",
+    "meanings_de": ["blockartig geformt"],
+    "definitions_de": ["eine solide, kantige Form habend, die rechteckigen Blöcken ähnelt, oft mit wenig Rundungen"],
+    "examples_de": [["Die **blockige** Architektur des Gebäudes wirkte veraltet", "Seine **klobige** Handschrift war schwer zu lesen"]]
+  },
+  {
+    "lemma": "blond",
+    "meanings_de": ["hellblondes Haar"],
+    "definitions_de": ["Haar von hellgelber oder goldener Farbe habend, meist natürlich vorkommend"],
+    "examples_de": [["Das **blonde** Kind fiel unter seinen dunkelhaarigen Geschwistern auf", "Sie färbte ihr Haar für den Sommer **blond**"]]
+  },
+  {
+    "lemma": "blonde",
+    "meanings_de": ["hellblondes Haar"],
+    "definitions_de": ["Haar von hellgelber oder goldener Farbe habend, besonders bei Frauen verwendet"],
+    "examples_de": [["Die **blonde** Schauspielerin war für ihre ikonische Frisur bekannt", "Sie wechselte mit professionellen Strähnchen von brünett zu **blond**"]]
+  },
+  {
+    "lemma": "blooded",
+    "meanings_de": ["von adeliger Abstammung", "kampferfahren"],
+    "definitions_de": ["reine Zucht oder aristokratische Abstammung habend, besonders bei Tieren oder in adeligen Kreisen", "Erfahrung in Schlacht oder gewaltsamen Konflikten habend, durch Kampf gehärtet"],
+    "examples_de": [["Die **reinrassigen** Pferde erzielten hohe Preise bei der Auktion", "Nur **blaublütige** Aristokraten konnten dem exklusiven Club beitreten"], ["Die **kampferprobten** Veteranen wussten, wie man mit Gefechtssituationen umgeht", "Diese **kriegserfahrenen** Krieger hatten viele Schlachten überlebt"]]
+  },
+  {
+    "lemma": "bloodless",
+    "meanings_de": ["ohne Blutvergießen", "ohne Vitalität"],
+    "definitions_de": ["ohne Gewalt oder Töten erreicht, friedlich und ohne Verluste an Menschenleben", "ohne Kraft, Emotion oder Lebendigkeit; blass erscheinend und energielos"],
+    "examples_de": [["Die Revolution war bemerkenswert **unblutig** mit minimalen Opfern", "Sie verhandelten eine **friedliche** Machtübergabe"], ["Sein **blutleeres** Gesicht zeigte die Auswirkungen der Krankheit", "Die **leblose** Aufführung vermochte das Publikum nicht zu bewegen"]]
+  },
+  {
+    "lemma": "bloodshot",
+    "meanings_de": ["rot vor Reizung"],
+    "definitions_de": ["Augen mit sichtbaren roten Blutgefäßen habend aufgrund von Müdigkeit, Anstrengung oder Reizung"],
+    "examples_de": [["Seine **blutunterlaufenen** Augen verrieten, dass er seit Tagen nicht geschlafen hatte", "Allergien hinterließen jeden Frühling ihre Augen **gerötet**"]]
+  },
+  {
+    "lemma": "bloodstained",
+    "meanings_de": ["mit Blut befleckt"],
+    "definitions_de": ["mit Blut markiert oder bedeckt, besonders von Gewalt oder Verletzung herrührend"],
+    "examples_de": [["Die Polizei fand **blutverschmierte** Kleidung am Tatort", "Die **blutigen** Verbände mussten regelmäßig gewechselt werden"]]
+  },
+  {
+    "lemma": "bloodthirsty",
+    "meanings_de": ["nach Gewalt gierend"],
+    "definitions_de": ["ein Verlangen habend oder zeigend zu töten oder Gewalt und Blutvergießen zu sehen"],
+    "examples_de": [["Die **blutrünstige** Menge forderte harte Strafen für Kriminelle", "Historische Berichte beschreiben die **blutdürstigen** Eroberungen antiker Krieger"]]
+  },
+  {
+    "lemma": "blooming",
+    "meanings_de": ["üppig blühend", "gesund und blühend"],
+    "definitions_de": ["Blüten erzeugend oder im Zustand des Blütenerzeugens, oft in voller Pracht", "gesund, attraktiv und voller jugendlicher Kraft erscheinend"],
+    "examples_de": [["Die **blühenden** Rosen erfüllten den Garten mit Duft", "Der Frühling brachte **blühende** Blumen in jeden Garten"], ["Sie sah nach ihrem Urlaub **blühend** gesund aus", "Die **florierende** Wirtschaft schuf viele neue Arbeitsplätze"]]
+  },
+  {
+    "lemma": "blotched",
+    "meanings_de": ["mit Flecken versehen"],
+    "definitions_de": ["mit unregelmäßigen Flecken oder Stellen von Farbe oder Textur markiert"],
+    "examples_de": [["Seine **fleckige** Haut zeigte Anzeichen von Sonnenschäden", "Die **gefleckten** Blätter deuteten auf eine Pflanzenkrankheit hin"]]
+  },
+  {
+    "lemma": "blown",
+    "meanings_de": ["vom Wind bewegt", "durch Explosion zerstört"],
+    "definitions_de": ["durch Wind oder Luftströmung bewegt oder getragen, oft in ungeordneter Weise", "durch Explosion oder übermäßigen Druck beschädigt oder zerstört"],
+    "examples_de": [["**Verwehte** Blätter bedeckten nach dem Sturm die gesamte Einfahrt", "Ihr **verwehtes** Haar machte es schwer zu sehen beim Fahren"], ["Der **geplatzte** Reifen ließ das Auto gefährlich ausscheren", "Ingenieure untersuchten die **durchgebrannte** Dichtung, um die Ursache zu ermitteln"]]
+  },
+  {
+    "lemma": "bluff",
+    "meanings_de": ["direkt und herzhaft"],
+    "definitions_de": ["eine direkte, gutmütige Art habend, die abrupt erscheinen mag, aber ehrlich ist"],
+    "examples_de": [["Seine **herzliche** Art beruhigte nervöse Angestellte", "Der **joviale** Seekapitän war bei seiner Mannschaft beliebt"]]
+  },
+  {
+    "lemma": "bluish",
+    "meanings_de": ["etwas blau"],
+    "definitions_de": ["eine leichte blaue Farbe oder Tönung habend, nicht vollständig blau"],
+    "examples_de": [["Der **bläuliche** Schimmer ihrer Lippen zeigte, dass ihr kalt war", "Berge erschienen im fernen Morgendunst **bläulich**"]]
+  },
+  {
+    "lemma": "blunt",
+    "meanings_de": ["nicht scharf", "direkt in der Rede"],
+    "definitions_de": ["eine abgenutzte Kante oder Spitze habend, die nicht scharf ist und daher schlecht schneidet", "auf direkte Weise sprechend, ohne zu versuchen, höflich oder diplomatisch zu sein"],
+    "examples_de": [["Das **stumpfe** Messer hatte Mühe, durch das Fleisch zu schneiden", "Jahrelanger Gebrauch hatte die Schere **stumpf** gemacht"], ["Ihre **unverblümte** Einschätzung der Situation schockierte den Vorstand", "Ich schätze seine **direkte** Ehrlichkeit über meine Leistung"]]
+  },
+  {
+    "lemma": "blunted",
+    "meanings_de": ["weniger scharf gemacht", "in der Wirkung reduziert"],
+    "definitions_de": ["durch Gebrauch oder absichtliche Handlung weniger scharf oder spitz gemacht", "in Kraft, Intensität oder Wirksamkeit reduziert oder abgeschwächt"],
+    "examples_de": [["Die **abgestumpfte** Klinge benötigte professionelles Schärfen", "Wiederholter Gebrauch hatte die Schneide **stumpf** gemacht"], ["Jahre der Enttäuschung hatten seinen Enthusiasmus **gedämpft**", "Die neue Politik **milderte** die Auswirkungen der Rezession ab"]]
+  },
+  {
+    "lemma": "blurred",
+    "meanings_de": ["unklar oder undeutlich"],
+    "definitions_de": ["nicht klar oder deutlich in Umriss oder Detail; schwer klar wahrzunehmen"],
+    "examples_de": [["Das **verschwommene** Foto wurde mit zittriger Hand aufgenommen", "Meine **verschwommene** Sicht bedeutete, dass ich eine neue Brille brauchte"]]
+  },
+  {
+    "lemma": "blurry",
+    "meanings_de": ["ohne klare Definition"],
+    "definitions_de": ["nicht klar oder scharf definiert; unscharfe Ränder oder Details habend"],
+    "examples_de": [["Das **unscharfe** Bild machte es schwer, Gesichter zu identifizieren", "Alles sah ohne ihre Kontaktlinsen **verschwommen** aus"]]
+  },
+  {
+    "lemma": "blushing",
+    "meanings_de": ["rote Wangen zeigend"],
+    "definitions_de": ["Gesicht gerötet habend durch Verlegenheit, Schüchternheit oder romantische Gefühle"],
+    "examples_de": [["Die **errötende** Braut schritt langsam den Gang entlang", "Sein **gerötetes** Gesicht verriet seine Verlegenheit über den Fehler"]]
+  },
+  {
+    "lemma": "boastful",
+    "meanings_de": ["übermäßig stolz"],
+    "definitions_de": ["übermäßigen Stolz und Selbstzufriedenheit in Errungenschaften, Besitztümern oder Fähigkeiten zeigend"],
+    "examples_de": [["Seine **prahlerischen** Geschichten über Reichtum nervten seine Kollegen", "Der **angeberische** Athlet verlor Fans durch ständige Selbstdarstellung"]]
+  },
+  {
+    "lemma": "bobtail",
+    "meanings_de": ["mit verkürztem Schwanz"],
+    "definitions_de": ["einen Schwanz habend, der von Natur aus kurz ist oder gekürzt wurde"],
+    "examples_de": [["Die **stummelschwänzige** Katze wurde mit einem natürlich kurzen Schwanz geboren", "**Stutzschwänzige** Pferde waren in bestimmten Zuchtprogrammen üblich"]]
+  },
+  {
+    "lemma": "bodied",
+    "meanings_de": ["bestimmten Körperbau habend"],
+    "definitions_de": ["einen Körper von bestimmtem Typ habend, in Zusammensetzungen verwendet"],
+    "examples_de": [["Der **vollmundige** Wein hatte reiche, komplexe Aromen", "Ein **kräftig** **gebauter** Athlet glänzte bei Kontaktsportarten"]]
+  },
+  {
+    "lemma": "bodily",
+    "meanings_de": ["den Körper betreffend"],
+    "definitions_de": ["sich auf den menschlichen Körper beziehend oder ihn betreffend anstatt den Geist"],
+    "examples_de": [["Der Unfall verursachte schwere **körperliche** Schäden bei Passagieren", "Regelmäßige Bewegung fördert **körperliche** Gesundheit und geistiges Wohlbefinden"]]
+  },
+  {
+    "lemma": "boggy",
+    "meanings_de": ["nass und schwammig"],
+    "definitions_de": ["aus nassem, schwammigem Boden bestehend, der zu weich ist, um schweres Gewicht zu tragen"],
+    "examples_de": [["Das **sumpfige** Gelände machte das Wandern extrem schwierig", "Rinder mieden die **morastigen** Bereiche in der Nähe des Baches"]]
+  },
+  {
+    "lemma": "bogus",
+    "meanings_de": ["gefälscht oder betrügerisch"],
+    "definitions_de": ["nicht echt oder wahr; betrügerisch oder gefälscht"],
+    "examples_de": [["Die Polizei verhaftete ihn wegen der Verwendung **gefälschter** Ausweise", "Ihr **falscher** medizinischer Abschluss täuschte jahrelang Patienten"]]
+  },
+  {
+    "lemma": "bohemian",
+    "meanings_de": ["unkonventionell künstlerisch"],
+    "definitions_de": ["einen unkonventionellen Lebensstil führend, oft künstlerisch, mit wenig Rücksicht auf gesellschaftliche Konventionen"],
+    "examples_de": [["Das **bohemische** Viertel zog Künstler und Musiker an", "Ihr **bohemischer** Lebensstil schockierte ihre konservativen Eltern"]]
+  },
+  {
+    "lemma": "boiled",
+    "meanings_de": ["in Wasser erhitzt"],
+    "definitions_de": ["gekocht oder verarbeitet durch Erhitzen in kochendem Wasser oder Flüssigkeit"],
+    "examples_de": [["Die **gekochten** Eier waren perfekt für den Salat", "**Gekochtes** Gemüse behielt seinen Nährwert"]]
+  },
+  {
+    "lemma": "boisterous",
+    "meanings_de": ["laut und energiegeladen"],
+    "definitions_de": ["lärmend, energiegeladen und fröhlich auf eine Art, die an Zurückhaltung mangelt"],
+    "examples_de": [["Die **lärmenden** Kinder machten Konzentration unmöglich", "Eine **ausgelassene** Menge feierte den Sieg der Mannschaft"]]
+  }
+]

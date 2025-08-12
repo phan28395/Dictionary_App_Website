@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "t-shirt",
+    "meanings_de": ["Freizeitoberteil"],
+    "definitions_de": ["kurzärmeliges Oberteil aus Baumwolle oder ähnlichem Material für den Alltag"],
+    "examples_de": [["Er trug das **T-Shirt** seiner Lieblingsband zum Konzert", "Pack mehrere **T-Shirts** für den Sommerurlaub ein"]]
+  },
+  {
+    "lemma": "civilian",
+    "meanings_de": ["Zivilperson"],
+    "definitions_de": ["Person, die nicht den Streitkräften oder der Polizei angehört"],
+    "examples_de": [["**Zivilisten** wurden aus dem Konfliktgebiet evakuiert", "Das Programm hilft Soldaten beim Übergang ins **Zivilleben**"]]
+  },
+  {
+    "lemma": "basket",
+    "meanings_de": ["geflochtener Behälter"],
+    "definitions_de": ["Behälter aus verflochtenen Streifen verschiedener Materialien"],
+    "examples_de": [["Sie trug frisches Gemüse in einem **Weidenkorb**", "Der **Wäschekorb** quoll über vor schmutziger Kleidung"]]
+  },
+  {
+    "lemma": "loser",
+    "meanings_de": ["erfolglose Person"],
+    "definitions_de": ["Person, die häufig scheitert oder allgemein erfolglos ist"],
+    "examples_de": [["Nenn dich nicht selbst einen **Verlierer**, nur weil du einmal gescheitert bist", "Der **Verlierer** der Spielshow erhielt trotzdem Trostpreise"]]
+  },
+  {
+    "lemma": "franchise",
+    "meanings_de": ["Geschäftslizenz", "Wahlrecht"],
+    "definitions_de": ["Genehmigung zum Verkauf von Waren oder Dienstleistungen eines Unternehmens in einem bestimmten Gebiet", "Recht zur Teilnahme an öffentlichen Wahlen"],
+    "examples_de": [["Sie kauften ein Fast-Food-**Franchise** in der Innenstadt", "Der **Franchisevertrag** legte spezifische Betriebsanforderungen fest"], ["Das allgemeine **Wahlrecht** gewährte allen erwachsenen Bürgern Stimmrecht", "Das **Frauenwahlrecht** wurde in Deutschland 1918 eingeführt"]]
+  },
+  {
+    "lemma": "saint",
+    "meanings_de": ["heilige Person"],
+    "definitions_de": ["Person, die von religiöser Autorität als heilig oder tugendhaft anerkannt wird"],
+    "examples_de": [["Die Kirche wurde nach dem **Heiligen** Franziskus von Assisi benannt", "Sie hat die Geduld einer **Heiligen** mit diesen Kindern"]]
+  },
+  {
+    "lemma": "aim",
+    "meanings_de": ["Zweck oder Ziel"],
+    "definitions_de": ["Absicht oder gewünschtes Ergebnis einer Handlung"],
+    "examples_de": [["Das **Ziel** des Projekts ist die Abfallreduzierung", "Ihr **Ziel** war es, das Studium in drei Jahren abzuschließen"]]
+  },
+  {
+    "lemma": "prosecution",
+    "meanings_de": ["Strafverfolgung"],
+    "definitions_de": ["Einleitung und Durchführung rechtlicher Schritte gegen jemanden"],
+    "examples_de": [["Die **Staatsanwaltschaft** legte überzeugende Beweise gegen den Angeklagten vor", "Sie arbeitet bei der **Staatsanwaltschaft** in aufsehenerregenden Fällen"]]
+  },
+  {
+    "lemma": "bite",
+    "meanings_de": ["Beißvorgang", "kleine Menge"],
+    "definitions_de": ["Vorgang des Schneidens oder Greifens mit Zähnen", "kleines Stück oder kleine Menge Nahrung"],
+    "examples_de": [["Der **Hundebiss** erforderte ärztliche Behandlung", "**Mückenstiche** bedeckten ihre Arme nach dem Camping"], ["Möchtest du einen **Bissen** von meinem Sandwich?", "Nimm noch schnell einen **Happen** vor der Besprechung"]]
+  },
+  {
+    "lemma": "lyrics",
+    "meanings_de": ["Liedtext"],
+    "definitions_de": ["Worte eines Liedes oder Gedichts"],
+    "examples_de": [["Sie lernte alle **Songtexte** ihrer Lieblingslieder auswendig", "Die **Liedtexte** vermittelten tiefe emotionale Bedeutung"]]
+  },
+  {
+    "lemma": "compound",
+    "meanings_de": ["umzäuntes Gelände", "chemische Verbindung"],
+    "definitions_de": ["von Zaun oder Mauer umschlossenes Gelände mit Gebäuden", "Substanz aus zwei oder mehr chemischen Elementen"],
+    "examples_de": [["Das militärische **Gelände** wurde schwer bewacht", "Sie lebten in einer gesicherten **Wohnanlage**"], ["Wasser ist eine **Verbindung** aus Wasserstoff und Sauerstoff", "Wissenschaftler entdeckten eine neue chemische **Verbindung**"]]
+  },
+  {
+    "lemma": "architecture",
+    "meanings_de": ["Gebäudegestaltung", "Systemstruktur"],
+    "definitions_de": ["Kunst und Wissenschaft des Entwerfens und Bauens von Gebäuden", "komplexe Struktur oder Organisation von etwas"],
+    "examples_de": [["Die gotische **Architektur** der Kathedrale zieht viele Touristen an", "Sie studierte **Architektur** an einer renommierten Universität"], ["Die **Softwarearchitektur** benötigte eine vollständige Umstrukturierung", "Die **Architektur** des Gehirns zu verstehen bleibt eine Herausforderung"]]
+  },
+  {
+    "lemma": "reach",
+    "meanings_de": ["Ausmaß des Einflusses"],
+    "definitions_de": ["Ausmaß oder Bereich der physischen oder geistigen Kraft einer Person"],
+    "examples_de": [["Die **Reichweite** des Unternehmens erstreckt sich über fünf Kontinente", "Soziale Medien erhöhten die **Reichweite** ihrer Botschaft"]]
+  },
+  {
+    "lemma": "destination",
+    "meanings_de": ["Reiseziel"],
+    "definitions_de": ["Ort, zu dem jemand oder etwas unterwegs ist"],
+    "examples_de": [["Paris war ihr **Flitterwochenziel**", "Das Paket erreichte sicher seinen **Bestimmungsort**"]]
+  },
+  {
+    "lemma": "province",
+    "meanings_de": ["Verwaltungsregion"],
+    "definitions_de": ["wichtigste Verwaltungseinheit bestimmter Länder oder Staaten"],
+    "examples_de": [["Quebec ist eine französischsprachige **Provinz** Kanadas", "Jede **Provinz** hat ihre eigene Lokalregierung"]]
+  },
+  {
+    "lemma": "sum",
+    "meanings_de": ["Gesamtbetrag"],
+    "definitions_de": ["Gesamtbetrag, der sich aus der Addition von Zahlen ergibt"],
+    "examples_de": [["Die **Summe** aller Ausgaben überstieg unser Budget", "Berechne die **Summe** dieser Zahlen"]]
+  },
+  {
+    "lemma": "lecture",
+    "meanings_de": ["Bildungsvortrag"],
+    "definitions_de": ["Bildungsvortrag vor einem Publikum, insbesondere Studenten"],
+    "examples_de": [["Die **Vorlesung** des Professors über Quantenphysik war faszinierend", "Die Teilnahme an **Vorlesungen** ist für diesen Kurs verpflichtend"]]
+  },
+  {
+    "lemma": "trading",
+    "meanings_de": ["Handelstätigkeit"],
+    "definitions_de": ["Tätigkeit des Kaufens und Verkaufens von Waren oder Dienstleistungen"],
+    "examples_de": [["Der **Aktienhandel** erfordert sorgfältige Marktanalyse", "Internationale **Handelsabkommen** nutzen beiden Ländern"]]
+  },
+  {
+    "lemma": "acceptance",
+    "meanings_de": ["Annahmeakt"],
+    "definitions_de": ["Handlung der Zustimmung, etwas Angebotenes zu empfangen oder zu übernehmen"],
+    "examples_de": [["Ihre **Zulassung** zum Medizinstudium erfüllte einen lebenslangen Traum", "Die **Akzeptanz** verschiedener Kulturen bereichert unsere Gesellschaft"]]
+  },
+  {
+    "lemma": "revelation",
+    "meanings_de": ["überraschende Enthüllung"],
+    "definitions_de": ["überraschende und zuvor unbekannte Tatsache, die offenbart wurde"],
+    "examples_de": [["Die **Enthüllung** über seine Vergangenheit schockierte alle", "Wissenschaftliche **Erkenntnisse** stellen oft bestehende Überzeugungen infrage"]]
+  },
+  {
+    "lemma": "indicator",
+    "meanings_de": ["Anzeichen oder Messgerät"],
+    "definitions_de": ["etwas, das den Zustand oder das Niveau von etwas anzeigt"],
+    "examples_de": [["Wirtschaftliche **Indikatoren** deuten auf anhaltendes Wachstum hin", "Die **Temperaturanzeige** zeigte gefährliche Werte"]]
+  },
+  {
+    "lemma": "collaboration",
+    "meanings_de": ["Zusammenarbeit"],
+    "definitions_de": ["Handlung der Zusammenarbeit mit jemandem zur Herstellung von etwas"],
+    "examples_de": [["Ihre **Zusammenarbeit** führte zu bahnbrechender Forschung", "Erfolgreiche **Kooperation** erfordert klare Kommunikation"]]
+  },
+  {
+    "lemma": "rhetoric",
+    "meanings_de": ["überzeugende Sprache"],
+    "definitions_de": ["Kunst des effektiven oder überzeugenden Sprechens oder Schreibens"],
+    "examples_de": [["Politische **Rhetorik** verschleiert oft die wirklichen Probleme", "Sie studierte **Rhetorik**, um ihre öffentlichen Reden zu verbessern"]]
+  },
+  {
+    "lemma": "monkey",
+    "meanings_de": ["Primatentier"],
+    "definitions_de": ["kleiner bis mittelgroßer Primat mit typischerweise langem Schwanz"],
+    "examples_de": [["**Affen** schwangen sich durch die Dschungelbäume", "Das **Affengehege** im Zoo zieht viele Kinder an"]]
+  },
+  {
+    "lemma": "protocol",
+    "meanings_de": ["formelles Verfahren", "Kommunikationsregeln"],
+    "definitions_de": ["offizielles Verfahren oder Regelsystem zur Verwaltung von Angelegenheiten", "Regelsatz für die Datenkommunikation"],
+    "examples_de": [["Das diplomatische **Protokoll** muss bei Staatsbesuchen eingehalten werden", "Das medizinische **Protokoll** gewährleistet die Patientensicherheit"], ["Das Internet**protokoll** ermöglicht die Kommunikation zwischen Computern", "Das Netzwerk**protokoll** verhinderte unbefugten Zugriff"]]
+  },
+  {
+    "lemma": "finish",
+    "meanings_de": ["Endpunkt", "Oberflächenbeschichtung"],
+    "definitions_de": ["Ende oder letzter Teil von etwas", "Oberflächenerscheinung oder Beschichtung eines hergestellten Gegenstands"],
+    "examples_de": [["Die **Ziellinie** des Marathons war voller Zuschauer", "Ein starker **Endspurt** sicherte ihren Sieg"], ["Die glänzende **Oberfläche** des Tisches erfordert besondere Pflege", "Wählen Sie zwischen matter oder glänzender **Lackierung**"]]
+  },
+  {
+    "lemma": "jeans",
+    "meanings_de": ["Denimhose"],
+    "definitions_de": ["Freizeithose aus Denimstoff"],
+    "examples_de": [["Sie trug zerrissene **Jeans** und ein Vintage-T-Shirt", "Diese **Jeans** haben jahrelang gehalten"]]
+  },
+  {
+    "lemma": "companion",
+    "meanings_de": ["begleitende Person"],
+    "definitions_de": ["Person, die jemanden begleitet oder Erfahrungen mit ihm teilt"],
+    "examples_de": [["Ihr treuer **Begleiter** verließ niemals ihre Seite", "Reise**gefährten** machen Reisen angenehmer"]]
+  },
+  {
+    "lemma": "recipient",
+    "meanings_de": ["empfangende Person"],
+    "definitions_de": ["Person, die etwas Gegebenes, Gesendetes oder Verliehenes erhält"],
+    "examples_de": [["Der **Preisträger** hielt eine emotionale Rede", "Organ**empfänger** müssen Medikamente gegen Abstoßung nehmen"]]
+  },
+  {
+    "lemma": "array",
+    "meanings_de": ["geordnete Anordnung"],
+    "definitions_de": ["beeindruckende Darstellung oder Bandbreite einer bestimmten Sache"],
+    "examples_de": [["Eine **Vielfalt** von Optionen machte die Wahl schwierig", "Der Laden präsentierte eine **Auswahl** frischer Produkte"]]
+  },
+  {
+    "lemma": "ranch",
+    "meanings_de": ["große Farm"],
+    "definitions_de": ["große Farm zur Viehzucht, besonders im amerikanischen Westen"],
+    "examples_de": [["Die Rinder**ranch** erstreckte sich über Tausende von Hektar", "Sie verbrachten die Sommer auf der **Ranch** ihres Großvaters"]]
+  },
+  {
+    "lemma": "scout",
+    "meanings_de": ["suchende Person", "Jugendmitglied"],
+    "definitions_de": ["Person, die geschickt wird, um Informationen über feindliche Positionen zu sammeln", "Mitglied einer Jugendorganisation, die Outdoor-Fähigkeiten lehrt"],
+    "examples_de": [["Der **Späher** berichtete dem Hauptquartier über feindliche Bewegungen", "Talent**scouts** suchen nach vielversprechenden neuen Spielern"], ["Die **Pfadfinder** lernten auf der Reise Campingfähigkeiten", "Sie verdiente sich Abzeichen als **Pfadfinderin**"]]
+  },
+  {
+    "lemma": "medal",
+    "meanings_de": ["Leistungsauszeichnung"],
+    "definitions_de": ["Metallscheibe, die als Auszeichnung für Leistungen vergeben wird"],
+    "examples_de": [["Die Athletin gewann drei Gold**medaillen** bei den Olympischen Spielen", "Militär**orden** würdigen tapfere Taten"]]
+  },
+  {
+    "lemma": "translation",
+    "meanings_de": ["Sprachübertragung"],
+    "definitions_de": ["Prozess der Umwandlung von Text oder Sprache von einer Sprache in eine andere"],
+    "examples_de": [["Die **Übersetzung** erfasste die ursprüngliche Bedeutung des Gedichts", "Genaue **Übersetzung** erfordert kulturelles Verständnis"]]
+  },
+  {
+    "lemma": "ski",
+    "meanings_de": ["Schneegleiter"],
+    "definitions_de": ["langer, flacher Läufer, der am Fuß getragen wird, um über Schnee zu gleiten"],
+    "examples_de": [["Sie wachste ihre **Skier** vor der Abfahrt", "Leih**skier** sind im Resort erhältlich"]]
+  },
+  {
+    "lemma": "conservation",
+    "meanings_de": ["Erhaltungsmaßnahme"],
+    "definitions_de": ["Verhinderung verschwenderischer Nutzung von Ressourcen oder Schutz der Natur"],
+    "examples_de": [["Der **Artenschutz** bewahrt bedrohte Tierarten", "**Energieeinsparung** reduziert die Umweltbelastung"]]
+  },
+  {
+    "lemma": "habitat",
+    "meanings_de": ["natürliche Umgebung"],
+    "definitions_de": ["natürliche Umgebung, in der ein Organismus lebt"],
+    "examples_de": [["Die Abholzung zerstört wichtige **Lebensräume** für Wildtiere", "Der Feuchtgebiets**lebensraum** unterstützt vielfältige Arten"]]
+  },
+  {
+    "lemma": "contractor",
+    "meanings_de": ["beauftragter Spezialist"],
+    "definitions_de": ["Person oder Unternehmen, die für bestimmte Arbeiten beauftragt wird"],
+    "examples_de": [["Der **Auftragnehmer** schloss die Renovierung termingerecht ab", "Freiberufliche **Dienstleister** kümmern sich selbst um ihre Steuern"]]
+  },
+  {
+    "lemma": "trailer",
+    "meanings_de": ["gezogenes Fahrzeug", "Vorschau"],
+    "definitions_de": ["von einem anderen gezogenes Fahrzeug zum Transport von Gütern", "kurzer Werbefilm mit Ausschnitten"],
+    "examples_de": [["Sie luden Campingausrüstung in den **Anhänger**", "Der Boots**anhänger** erleichterte das Wassern"], ["Der Film**trailer** erzeugte Begeisterung für die Veröffentlichung", "Schau dir den **Trailer** an, bevor du dich für den Film entscheidest"]]
+  },
+  {
+    "lemma": "pitcher",
+    "meanings_de": ["Behälter", "Baseballspieler"],
+    "definitions_de": ["großer Behälter mit Griff und Ausguss für Flüssigkeiten", "Spieler, der den Ball zum Schlagmann im Baseball wirft"],
+    "examples_de": [["Füll den **Krug** mit Eiswasser für das Abendessen", "Der Keramik**krug** enthielt frische Limonade"], ["Der **Werfer** warf drei Schlagmänner hintereinander aus", "Sie ist die Star-**Werferin** des Teams"]]
+  },
+  {
+    "lemma": "towel",
+    "meanings_de": ["saugfähiges Tuch"],
+    "definitions_de": ["Stück saugfähiger Stoff oder Papier zum Trocknen"],
+    "examples_de": [["Häng das nasse **Handtuch** zum Trocknen auf die Stange", "**Strandtücher** sind größer als Badetücher"]]
+  },
+  {
+    "lemma": "bonus",
+    "meanings_de": ["Zusatzzahlung"],
+    "definitions_de": ["Zahlung zusätzlich zur regulären Vergütung"],
+    "examples_de": [["Die Mitarbeiter erhielten einen Jahresend**bonus**", "Der Antrittsgeld**bonus** zog Top-Talente an"]]
+  },
+  {
+    "lemma": "genre",
+    "meanings_de": ["Kunstkategorie"],
+    "definitions_de": ["Kategorie künstlerischer Komposition, die durch Stil oder Form gekennzeichnet ist"],
+    "examples_de": [["Science-Fiction ist ihr liebstes literarisches **Genre**", "Der Film mischt mehrere **Genres** wirkungsvoll"]]
+  },
+  {
+    "lemma": "caller",
+    "meanings_de": ["anrufende Person"],
+    "definitions_de": ["Person, die einen Telefonanruf tätigt oder zu Besuch kommt"],
+    "examples_de": [["Der **Anrufer** hinterließ eine Nachricht auf dem Anrufbeantworter", "Unbekannte **Anrufer** entpuppen sich oft als Telefonverkäufer"]]
+  },
+  {
+    "lemma": "exit",
+    "meanings_de": ["Ausweg"],
+    "definitions_de": ["Weg aus einem Gebäude, Raum oder Fahrzeug hinaus"],
+    "examples_de": [["**Notausgänge** müssen jederzeit frei bleiben", "Nimm die nächste **Ausfahrt** von der Autobahn"]]
+  },
+  {
+    "lemma": "hook",
+    "meanings_de": ["gebogene Vorrichtung"],
+    "definitions_de": ["gebogene oder gekrümmte Vorrichtung zum Fangen, Halten oder Ziehen"],
+    "examples_de": [["Häng deinen Mantel an den **Haken** neben der Tür", "Der Angel**haken** verfing sich in Unterwassergeröll"]]
+  },
+  {
+    "lemma": "pit",
+    "meanings_de": ["tiefes Loch", "Obstkern"],
+    "definitions_de": ["großes Loch im Boden oder in der Oberfläche", "harter Stein in bestimmten Früchten"],
+    "examples_de": [["Arbeiter gruben eine **Grube** für das Fundament", "Der Orchester**graben** befand sich unter der Bühne"], ["Entferne den **Kern** vor dem Essen des Pfirsichs", "Kirsch**kerne** können beim Verschlucken gefährlich sein"]]
+  },
+  {
+    "lemma": "cholesterol",
+    "meanings_de": ["fettartige Substanz"],
+    "definitions_de": ["wachsartige Substanz im Blut, die die Herzgesundheit beeinflussen kann"],
+    "examples_de": [["Hoher **Cholesterinspiegel** erhöht das Risiko von Herzkrankheiten", "Regelmäßige Bewegung hilft, den **Cholesterinwert** zu senken"]]
+  },
+  {
+    "lemma": "advertisement",
+    "meanings_de": ["Werbeanzeige"],
+    "definitions_de": ["Mitteilung oder Ankündigung zur Bewerbung eines Produkts, einer Dienstleistung oder Veranstaltung"],
+    "examples_de": [["Die **Anzeige** erschien in großen Zeitungen", "Fernseh**werbung** beeinflusst das Verbraucherverhalten"]]
+  },
+  {
+    "lemma": "bombing",
+    "meanings_de": ["Sprengstoffangriff"],
+    "definitions_de": ["Angriff mit Bomben oder anderen Sprengvorrichtungen"],
+    "examples_de": [["Der **Bombenanschlag** zerstörte mehrere Gebäude in der Innenstadt", "Ermittler suchten nach Hinweisen zum **Bombenattentat**"]]
+  }
+]

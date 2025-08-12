@@ -1,0 +1,254 @@
+[
+  {
+    "lemma": "trivia",
+    "meanings_de": ["nebensächliche Fakten"],
+    "definitions_de": ["unwichtige oder belanglose Informationen, besonders verschiedene Wissensfakten über unterschiedliche Themen"],
+    "examples_de": [["Das Pubquiz drehte sich um Film-**Trivia** aus den 80er Jahren", "Sie sammelt gerne zufälliges **Trivialwissen** über historische Ereignisse"]]
+  },
+  {
+    "lemma": "troika",
+    "meanings_de": ["Dreigespann", "Dreiergruppe"],
+    "definitions_de": ["russischer Schlitten oder Wagen, der von drei nebeneinander laufenden Pferden gezogen wird", "Gruppe von drei Personen, die zusammenarbeiten, besonders in leitenden oder verwaltenden Funktionen"],
+    "examples_de": [["Die traditionelle **Troika** raste über die verschneite russische Landschaft", "Ein Gemälde einer **Troika** hängt im Winterpalast"], ["Die Führungs**troika** traf alle wichtigen Unternehmensentscheidungen gemeinsam", "Eine **Troika** von Beratern lenkte die Politik des neuen Präsidenten"]]
+  },
+  {
+    "lemma": "trojan",
+    "meanings_de": ["Schadprogramm", "Person aus Troja"],
+    "definitions_de": ["Art von Schadsoftware, die sich als legitimes Programm tarnt und heimlich schädliche Aktionen ausführt", "Person aus der antiken Stadt Troja oder etwas, das sich auf diese Stadt bezieht"],
+    "examples_de": [["Der Computer war mit einem **Trojaner** infiziert, der Passwörter stahl", "Scannen Sie E-Mail-Anhänge immer, um **Trojaner**-Infektionen zu vermeiden"], ["Das Museum stellte Artefakte der **trojanischen** Zivilisation aus", "Homers Epos erzählt die Geschichte **trojanischer** Krieger"]]
+  },
+  {
+    "lemma": "troll",
+    "meanings_de": ["Internet-Störenfried", "Fabelwesen"],
+    "definitions_de": ["Person, die online provokante Nachrichten postet, um emotionale Reaktionen hervorzurufen", "übernatürliches Wesen aus der Folklore, typischerweise als hässlich dargestellt und unter Brücken lebend"],
+    "examples_de": [["Füttert den **Troll** nicht, indem ihr auf seine beleidigenden Kommentare antwortet", "Die Forenmoderatoren sperrten den hartnäckigen **Troll** schnell"], ["Die Kindergeschichte handelte von einem mürrischen **Troll**, der die Brücke bewachte", "In der nordischen Mythologie verwandelten sich **Trolle** bei Sonnenlicht zu Stein"]]
+  },
+  {
+    "lemma": "trolley",
+    "meanings_de": ["Rollwagen", "Straßenbahn"],
+    "definitions_de": ["kleiner Wagen auf Rädern zum Transport von Waren oder zum Servieren von Speisen", "elektrisches Schienenfahrzeug, das auf Gleisen durch Stadtstraßen fährt"],
+    "examples_de": [["Die Flugbegleiterin schob den Getränke**wagen** durch den Gang", "Sie lud die Einkäufe auf den Einkaufs**wagen**"], ["Die historische **Straßenbahn** bringt Touristen durch die Innenstadt von San Francisco", "Wir fuhren mit der **Straßenbahn** zum Hafenviertel"]]
+  },
+  {
+    "lemma": "trolling",
+    "meanings_de": ["Online-Provokation"],
+    "definitions_de": ["das Posten von provokativen oder themenfremden Nachrichten online, um emotionale Reaktionen bei anderen hervorzurufen"],
+    "examples_de": [["Die Website führte strenge Regeln ein, um **Trolling** in Kommentaren zu verhindern", "Sein ständiges **Trollen** führte zur Sperrung auf mehreren sozialen Plattformen"]]
+  },
+  {
+    "lemma": "trombone",
+    "meanings_de": ["Blechblasinstrument"],
+    "definitions_de": ["großes Blechblasinstrument mit verschiebbarem Rohr, das die Tonhöhe durch Verlängerung der Luftsäule ändert"],
+    "examples_de": [["Die Jazzband präsentierte ein erstaunliches **Posaunen**solo", "Sie übte **Posaunen**tonleitern für das bevorstehende Konzert"]]
+  },
+  {
+    "lemma": "trombonist",
+    "meanings_de": ["Posaunist"],
+    "definitions_de": ["Person, die professionell oder als versierter Amateur Posaune spielt"],
+    "examples_de": [["Der berühmte **Posaunist** trat mit Symphonieorchestern weltweit auf", "Unsere Schulband braucht noch einen **Posaunisten** für die Blechbläsersektion"]]
+  },
+  {
+    "lemma": "trooper",
+    "meanings_de": ["Staatspolizist", "Kavalleriesoldat"],
+    "definitions_de": ["Mitglied der Staatspolizei, besonders einer, der auf Autobahnen patrouilliert", "Soldat in einer Kavallerieeinheit oder berittenen Polizeitruppe"],
+    "examples_de": [["Der **Staatspolizist** hielt den rasenden Fahrer an", "Die Highway-**Polizisten** reagierten schnell auf die Unfallstelle"], ["Der Kavallerie**soldat** ritt voraus, um feindliche Positionen auszukundschaften", "Historische Darsteller kleideten sich als Bürgerkriegs**soldaten**"]]
+  },
+  {
+    "lemma": "troopship",
+    "meanings_de": ["Truppentransportschiff"],
+    "definitions_de": ["Schiff, das für den Transport von Militärpersonal und deren Ausrüstung konzipiert oder verwendet wird"],
+    "examples_de": [["Das **Truppentransportschiff** beförderte Tausende Soldaten über den Atlantik", "Veteranen erinnerten sich an ihre beengten Quartiere an Bord des Kriegs**transportschiffs**"]]
+  },
+  {
+    "lemma": "trope",
+    "meanings_de": ["literarisches Stilmittel"],
+    "definitions_de": ["häufiges oder wiederkehrendes Thema, Motiv oder Klischee in Literatur, Film oder anderen kreativen Werken"],
+    "examples_de": [["Der widerwillige Held ist ein klassischer **Topos** in Abenteuergeschichten", "Moderne Autoren unterlaufen oft traditionelle romantische **Tropen**"]]
+  },
+  {
+    "lemma": "trophy",
+    "meanings_de": ["Siegespokal"],
+    "definitions_de": ["dekoratives Objekt, das als Preis für den Gewinn eines Wettbewerbs oder für herausragende Leistungen verliehen wird"],
+    "examples_de": [["Der Meisterschafts**pokal** stand stolz in der Vitrine der Schule", "Sie polierte ihre Tennis**trophäe**, bevor sie sie ins Regal stellte"]]
+  },
+  {
+    "lemma": "tropic",
+    "meanings_de": ["Wendekreis"],
+    "definitions_de": ["einer von zwei Breitengraden, die die nördlichsten und südlichsten Punkte markieren, an denen die Sonne direkt über dem Kopf steht"],
+    "examples_de": [["Der **Wendekreis** des Krebses verläuft durch Mexiko und Indien", "Viele tropische Vögel wandern saisonal zwischen den beiden **Wendekreisen**"]]
+  },
+  {
+    "lemma": "troposphere",
+    "meanings_de": ["unterste Atmosphärenschicht"],
+    "definitions_de": ["unterste Schicht der Erdatmosphäre, in der Wetterphänomene auftreten, erstreckt sich von der Oberfläche bis etwa zehn Kilometer Höhe"],
+    "examples_de": [["Verkehrsflugzeuge fliegen typischerweise nahe der Obergrenze der **Troposphäre**", "Die meisten Wetterphänomene treten innerhalb der **Troposphäre** auf"]]
+  },
+  {
+    "lemma": "trot",
+    "meanings_de": ["Pferdegangart"],
+    "definitions_de": ["mäßig schnelle Gangart eines Pferdes oder ähnlichen Tieres zwischen Schritt und Galopp"],
+    "examples_de": [["Die Reiterin trieb ihr Pferd in einen gleichmäßigen **Trab**", "Das Pony hielt einen bequemen **Trab** um die Arena"]]
+  },
+  {
+    "lemma": "trotter",
+    "meanings_de": ["Trabpferd", "Schweinsfuß"],
+    "definitions_de": ["Pferd, das für Trabrennen gezüchtet und trainiert wurde", "Fuß eines Schweins, der als Nahrungsmittel verwendet wird"],
+    "examples_de": [["Der Champion-**Traber** gewann Rennen auf Rennbahnen im ganzen Land", "Trabrennen zeigen speziell trainierte **Traber**"], ["Das Restaurant servierte traditionelle eingelegte Schweins**füße**", "Manche Kulturen betrachten **Schweinsfüße** als Delikatesse"]]
+  },
+  {
+    "lemma": "troubadour",
+    "meanings_de": ["mittelalterlicher Dichter-Musiker"],
+    "definitions_de": ["mittelalterlicher Lyriker und Musiker, der Lieder über höfische Liebe und Ritterlichkeit komponierte und aufführte"],
+    "examples_de": [["Der **Troubadour** unterhielt Adlige mit romantischen Balladen", "Mittelalterliche **Troubadoure** reisten von Burg zu Burg und traten auf"]]
+  },
+  {
+    "lemma": "troublemaker",
+    "meanings_de": ["Unruhestifter"],
+    "definitions_de": ["Person, die gewohnheitsmäßig Schwierigkeiten, Störungen oder Ärger für andere verursacht"],
+    "examples_de": [["Die Lehrerin trennte die **Unruhestifter** in verschiedene Ecken", "Jeder Arbeitsplatz scheint mindestens einen **Störenfried** zu haben"]]
+  },
+  {
+    "lemma": "trough",
+    "meanings_de": ["langer Behälter", "Tiefpunkt"],
+    "definitions_de": ["langer schmaler Behälter, aus dem Tiere fressen oder trinken", "niedrigster Punkt in einem Zyklus, besonders in der Wirtschaft oder bei Wellenmustern"],
+    "examples_de": [["Der Bauer füllte den **Trog** mit frischem Wasser für das Vieh", "Pferde versammelten sich bei Sonnenuntergang um den Futter**trog**"], ["Die Wirtschaft erreichte ihr **Tief**, bevor sie sich zu erholen begann", "Dem Wellen**tal** folgte ein weiterer hoher Kamm"]]
+  },
+  {
+    "lemma": "trouncing",
+    "meanings_de": ["vernichtende Niederlage"],
+    "definitions_de": ["gründliche Niederlage oder Schlappe in einem Wettbewerb, Spiel oder Konflikt"],
+    "examples_de": [["Die Heimmannschaft erlitt gestern eine **Schlappe** im Spiel", "Die Debatte endete mit einer vollständigen **Niederlage** seiner Argumente"]]
+  },
+  {
+    "lemma": "troupe",
+    "meanings_de": ["Künstlergruppe"],
+    "definitions_de": ["Gruppe von Schauspielern, Tänzern oder anderen Darstellern, die zusammenarbeiten"],
+    "examples_de": [["Die Tanz**truppe** trat in Veranstaltungsorten im ganzen Land auf", "Eine reisende Theater**truppe** brachte Shakespeare in kleine Städte"]]
+  },
+  {
+    "lemma": "trouser",
+    "meanings_de": ["einzelnes Hosenbein"],
+    "definitions_de": ["ein Bein einer Hose oder etwas, das sich auf Hosen bezieht"],
+    "examples_de": [["Er krempelte sein **Hosenbein** hoch, um die Verletzung zu zeigen", "Der Schneider passte den **Hosensaum** auf die perfekte Länge an"]]
+  },
+  {
+    "lemma": "trousers",
+    "meanings_de": ["Hose"],
+    "definitions_de": ["äußeres Kleidungsstück, das den Körper von der Taille bis zu den Knöcheln bedeckt, mit separaten Teilen für jedes Bein"],
+    "examples_de": [["Er trug eine formelle **Hose** zum Geschäftstreffen", "Die Schuluniform verlangte dunkle **Hosen** für alle Schüler"]]
+  },
+  {
+    "lemma": "trout",
+    "meanings_de": ["Forelle"],
+    "definitions_de": ["Süßwasserfisch mit gefleckten Markierungen, geschätzt als Nahrung und für den Angelsport"],
+    "examples_de": [["Der Angler fing eine wunderschöne Regenbogen**forelle** im Bach", "Frische **Forelle** ergibt ein ausgezeichnetes Abendessen, wenn sie richtig gegrillt wird"]]
+  },
+  {
+    "lemma": "trove",
+    "meanings_de": ["wertvolle Sammlung"],
+    "definitions_de": ["Sammlung wertvoller oder entzückender Dinge, die entdeckt oder gefunden wurden"],
+    "examples_de": [["Der Dachboden enthielt einen **Schatz** an Vintage-Fotografien", "Archäologen entdeckten einen **Schatz** antiker Münzen"]]
+  },
+  {
+    "lemma": "troy",
+    "meanings_de": ["Gewichtssystem"],
+    "definitions_de": ["Gewichtssystem für Edelmetalle und Edelsteine, basierend auf einem Pfund mit zwölf Unzen"],
+    "examples_de": [["Goldpreise werden international pro **Troy**-Unze notiert", "Der Juwelier wog das Silber mit **Troy**-Maßen"]]
+  },
+  {
+    "lemma": "truancy",
+    "meanings_de": ["Schulschwänzen"],
+    "definitions_de": ["Praxis, ohne Erlaubnis oder gültigen Grund der Schule fernzubleiben"],
+    "examples_de": [["Die Schule führte neue Richtlinien ein, um das **Schulschwänzen** zu reduzieren", "Chronisches **Fernbleiben** führt oft zu schulischen Problemen"]]
+  },
+  {
+    "lemma": "truant",
+    "meanings_de": ["Schulschwänzer"],
+    "definitions_de": ["Schüler, der ohne Erlaubnis oder gültigen Grund der Schule fernbleibt"],
+    "examples_de": [["Der **Schulschwänzer** wurde während der Schulzeit im Einkaufszentrum gefunden", "Schulberater arbeiten mit notorischen **Schwänzern** und ihren Familien"]]
+  },
+  {
+    "lemma": "truce",
+    "meanings_de": ["Waffenstillstand"],
+    "definitions_de": ["Vereinbarung zwischen Feinden oder Gegnern, für eine bestimmte Zeit mit dem Kämpfen oder Streiten aufzuhören"],
+    "examples_de": [["Die kriegführenden Nationen erklärten einen **Waffenstillstand** für Friedensverhandlungen", "Die Geschwister schlossen nach tagelangem Streit einen **Waffenstillstand**"]]
+  },
+  {
+    "lemma": "trucker",
+    "meanings_de": ["Lastwagenfahrer"],
+    "definitions_de": ["Person, die beruflich Lastwagen fährt, besonders über lange Strecken"],
+    "examples_de": [["Der **Trucker** hielt nach nächtlicher Fahrt an der Raststätte", "Viele **Fernfahrer** besitzen und betreiben ihre eigenen Fahrzeuge"]]
+  },
+  {
+    "lemma": "trucking",
+    "meanings_de": ["Transportgewerbe"],
+    "definitions_de": ["Geschäft des Gütertransports per Lastwagen oder die Speditionsbranche als Ganzes"],
+    "examples_de": [["Die **Spedition** erweiterte ihre Flotte, um die Nachfrage zu befriedigen", "Neue Vorschriften betrafen die gesamte **Transportbranche**"]]
+  },
+  {
+    "lemma": "true",
+    "meanings_de": ["wahrer Zustand"],
+    "definitions_de": ["Zustand oder Eigenschaft, mit Tatsachen oder der Realität übereinzustimmen"],
+    "examples_de": [["Der Detektiv suchte nach der **wahren** Identität des Verdächtigen", "Wissenschaftler suchen die **wahre** Natur der dunklen Materie"]]
+  },
+  {
+    "lemma": "truffle",
+    "meanings_de": ["Gourmet-Pilz", "Schokoladenpraline"],
+    "definitions_de": ["seltener essbarer Pilz, der unterirdisch wächst und in der Küche hoch geschätzt wird", "weiche Schokoladensüßigkeit, oft mit Ganache oder Likör gefüllt"],
+    "examples_de": [["Der Koch hobelte schwarze **Trüffel** über das Pastagericht", "Speziell trainierte Hunde helfen Jägern, **Trüffel** unterirdisch zu finden"], ["Sie genoss jeden Bissen der dunklen Schokoladen**trüffel**", "Das Süßwarengeschäft spezialisierte sich auf handgemachte **Pralinen**"]]
+  },
+  {
+    "lemma": "trump",
+    "meanings_de": ["Trumpfkarte"],
+    "definitions_de": ["Spielkarte einer Farbe, die gewählt wurde, um über anderen zu rangieren und einen Stich gewinnen kann"],
+    "examples_de": [["Sie spielte ihre **Trumpfkarte**, um den letzten Stich zu gewinnen", "Herz wurde für diese Kartenrunde als **Trumpf** erklärt"]]
+  },
+  {
+    "lemma": "trumpet",
+    "meanings_de": ["Trompete"],
+    "definitions_de": ["Blechblasinstrument mit Ventilen, das helle, durchdringende Töne erzeugt"],
+    "examples_de": [["Die **Trompeten**sektion führte die Aufführung der Marschkapelle an", "Er übte jeden Morgen vor der Schule **Trompeten**tonleitern"]]
+  },
+  {
+    "lemma": "trumpeter",
+    "meanings_de": ["Trompeter"],
+    "definitions_de": ["Person, die professionell oder als versierter Musiker Trompete spielt"],
+    "examples_de": [["Der Jazz-**Trompeter** erhielt stehende Ovationen", "Berühmte **Trompeter** leiten oft ihre eigenen Bands"]]
+  },
+  {
+    "lemma": "truncation",
+    "meanings_de": ["Kürzung"],
+    "definitions_de": ["Vorgang des Kürzens von etwas durch Abschneiden der Spitze, des Endes oder eines Teils davon"],
+    "examples_de": [["Die **Kürzung** des Berichts machte ihn leichter lesbar", "Daten**kürzung** trat auf, als die Datei die Größenbegrenzung überschritt"]]
+  },
+  {
+    "lemma": "trustee",
+    "meanings_de": ["Treuhänder"],
+    "definitions_de": ["Person, der die rechtliche Verantwortung übertragen wurde, Eigentum oder Angelegenheiten zum Nutzen eines anderen zu verwalten"],
+    "examples_de": [["Der **Treuhänder** verwaltete das Erbe, bis die Kinder achtzehn wurden", "Die Universitäts**kuratoren** stimmten über den neuen Campus-Erweiterungsplan ab"]]
+  },
+  {
+    "lemma": "trusteeship",
+    "meanings_de": ["Treuhänderschaft"],
+    "definitions_de": ["Position oder Zeitraum als Treuhänder oder Gebiet unter Treuhandverwaltung"],
+    "examples_de": [["Seine **Treuhänderschaft** über das Anwesen dauerte zehn Jahre", "Die Inselnation ging von der UN-**Treuhandschaft** in die Unabhängigkeit über"]]
+  },
+  {
+    "lemma": "trusty",
+    "meanings_de": ["vertrauenswürdige Person"],
+    "definitions_de": ["Person, auf die man sich verlassen kann, besonders ein Gefangener mit besonderen Privilegien"],
+    "examples_de": [["Der Gefängnisdirektor wählte **Vertrauenshäftlinge** für die Arbeit in der Gefängnisbibliothek", "Sein **verlässlicher** Assistent kümmerte sich um alle wichtigen Details"]]
+  },
+  {
+    "lemma": "tryout",
+    "meanings_de": ["Eignungsprüfung"],
+    "definitions_de": ["Test der Fähigkeit oder Eignung, besonders für ein Sportteam oder eine Theaterrolle"],
+    "examples_de": [["Die Basketball-**Auswahlverfahren** beginnen nächsten Montag nach der Schule", "Sie bereitete einen Monolog für das **Vorsprechen** vor"]]
+  },
+  {
+    "lemma": "tryst",
+    "meanings_de": ["heimliches Treffen"],
+    "definitions_de": ["privates romantisches Treffen zwischen Liebenden, typischerweise im Voraus arrangiert"],
+    "examples_de": [["Das Paar arrangierte ein mitternächtliches **Stelldichein** im Garten", "Ihre heimlichen **Rendezvous** gingen trotz familiärer Missbilligung weiter"]]
+  }
+]

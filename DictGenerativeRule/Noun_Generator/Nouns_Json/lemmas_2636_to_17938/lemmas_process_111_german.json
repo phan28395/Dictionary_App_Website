@@ -1,0 +1,296 @@
+[
+  {
+    "lemma": "infrared",
+    "meanings_de": ["Infrarotstrahlung"],
+    "definitions_de": ["Elektromagnetische Strahlung mit Wellenlängen, die länger als sichtbares Licht, aber kürzer als Radiowellen sind"],
+    "examples_de": [["Die **Infrarotkamera** konnte Wärmesignaturen auch in völliger Dunkelheit erfassen", "**Infrarotsensoren** öffnen die Schiebetüren automatisch beim Herantreten"]]
+  },
+  {
+    "lemma": "infringement",
+    "meanings_de": ["Rechtsverletzung"],
+    "definitions_de": ["Handlung des Verletzens oder Übertretens eines Gesetzes, einer Vereinbarung oder der Rechte einer Person"],
+    "examples_de": [["Das Unternehmen verklagte wegen **Urheberrechtsverletzung** ihrer Marke", "Eine **Patentverletzung** kann zu erheblichen finanziellen Strafen führen"]]
+  },
+  {
+    "lemma": "infusion",
+    "meanings_de": ["Flüssigkeitsverabreichung", "Geschmacksextraktion"],
+    "definitions_de": ["Langsame Einführung von Flüssigkeit in Venen oder Körpergewebe zur medizinischen Behandlung", "Verfahren zur Geschmacksextraktion durch Einlegen von Zutaten in Flüssigkeit"],
+    "examples_de": [["Die Patientin erhielt eine **Infusion** mit Antibiotika über den Tropf", "Die Krankenschwester überwachte die **Infusionsgeschwindigkeit** während der gesamten Behandlung"], ["Tee entsteht durch **Infusion** von Blättern in heißem Wasser", "Der Koch bereitete eine Kräuter**infusion** für die Sauce vor"]]
+  },
+  {
+    "lemma": "ingenuity",
+    "meanings_de": ["Erfindungsgabe"],
+    "definitions_de": ["Eigenschaft, klug, originell und erfinderisch bei der Lösung von Problemen zu sein"],
+    "examples_de": [["Ihr **Erfindungsreichtum** beim Systementwurf sparte Tausende von Euro", "Der **Einfallsreichtum** des Ingenieurs half, scheinbar unlösbare technische Herausforderungen zu meistern"]]
+  },
+  {
+    "lemma": "ingestion",
+    "meanings_de": ["Nahrungsaufnahme"],
+    "definitions_de": ["Vorgang der Aufnahme von Nahrung, Getränken oder anderen Substanzen in den Körper durch den Mund"],
+    "examples_de": [["Der Arzt fragte nach dem Zeitpunkt der **Einnahme** des Medikaments", "Die versehentliche **Aufnahme** von Reinigungsmitteln erfordert sofortige ärztliche Hilfe"]]
+  },
+  {
+    "lemma": "ingot",
+    "meanings_de": ["Metallbarren"],
+    "definitions_de": ["Rechteckiger Block aus Metall, insbesondere Gold oder Silber, der zur Lagerung oder zum Transport gegossen wird"],
+    "examples_de": [["Der **Goldbarren** wog genau ein Kilogramm", "Die **Stahlbarren** kühlten langsam in den Gießereiformen ab"]]
+  },
+  {
+    "lemma": "ingroup",
+    "meanings_de": ["Eigengruppe"],
+    "definitions_de": ["Soziale Gruppe, mit der sich eine Person psychologisch als Mitglied identifiziert"],
+    "examples_de": [["Jugendliche kleiden sich oft gleich, um ihre **Gruppenzugehörigkeit** zu signalisieren", "Die **Eigengruppe** zeigte während des Konflikts starke Loyalität"]]
+  },
+  {
+    "lemma": "inhabitant",
+    "meanings_de": ["Bewohner"],
+    "definitions_de": ["Person oder Tier, das an einem bestimmten Ort lebt oder diesen bewohnt"],
+    "examples_de": [["Die **Bewohner** der Insel leben dort seit Generationen", "Die meisten **Einwohner** des Dorfes arbeiten in nahegelegenen Fabriken"]]
+  },
+  {
+    "lemma": "inhalation",
+    "meanings_de": ["Einatmung"],
+    "definitions_de": ["Vorgang des Einatmens von Luft oder anderen Substanzen in die Lungen"],
+    "examples_de": [["Tiefes **Einatmen** hilft dem Sauerstoff, alle Teile der Lunge zu erreichen", "Die **Raucheinatmung** verursachte schwere Schäden am Atmungssystem des Feuerwehrmanns"]]
+  },
+  {
+    "lemma": "inhaler",
+    "meanings_de": ["Inhalationsgerät"],
+    "definitions_de": ["Tragbares Gerät zur direkten Verabreichung von Medikamenten in die Lungen durch Einatmen"],
+    "examples_de": [["Sie trägt ihr Asthma-**Inhalationsgerät** immer in der Handtasche", "Der Arzt demonstrierte dem Patienten die richtige **Inhalatortechnik**"]]
+  },
+  {
+    "lemma": "inheritance",
+    "meanings_de": ["Vermögensnachfolge", "Vererbung von Eigenschaften"],
+    "definitions_de": ["Geld, Eigentum oder Besitztümer, die von einer verstorbenen Person erhalten werden", "Genetische Merkmale, die durch Gene von Eltern an Nachkommen weitergegeben werden"],
+    "examples_de": [["Seine **Erbschaft** umfasste das Familienhaus und mehrere Investitionen", "Die Geschwister teilten ihr **Erbe** gemäß dem Testament auf"], ["Blaue Augen sind oft eine Sache der genetischen **Vererbung**", "Die **Vererbung** bestimmter Krankheiten kann Generationen überspringen"]]
+  },
+  {
+    "lemma": "inheritor",
+    "meanings_de": ["Erbe"],
+    "definitions_de": ["Person, die Geld, Eigentum oder einen Titel von einer verstorbenen Person erhält"],
+    "examples_de": [["Der **Alleinerbe** erhielt den gesamten Nachlass", "Als älteste **Erbin** verwaltete sie das Familienunternehmen"]]
+  },
+  {
+    "lemma": "inhibition",
+    "meanings_de": ["Hemmung"],
+    "definitions_de": ["Gefühl, das einen gehemmt macht und daran hindert, natürlich zu handeln, oder Prozess der Zurückhaltung"],
+    "examples_de": [["Soziale **Hemmungen** hinderten ihn daran, in der Öffentlichkeit zu sprechen", "Das Medikament wirkt durch **Hemmung** bestimmter Gehirnchemikalien"]]
+  },
+  {
+    "lemma": "inhibitor",
+    "meanings_de": ["Hemmstoff"],
+    "definitions_de": ["Substanz, die eine chemische Reaktion oder einen biologischen Prozess verlangsamt oder verhindert"],
+    "examples_de": [["Der **Rostschutzmittel** schützt Metalloberflächen vor Korrosion", "**Enzymhemmer** werden in vielen modernen Medikamenten eingesetzt"]]
+  },
+  {
+    "lemma": "inhumanity",
+    "meanings_de": ["Unmenschlichkeit"],
+    "definitions_de": ["Extrem grausames und brutales Verhalten, das kein Mitgefühl für Leid zeigt"],
+    "examples_de": [["Die **Unmenschlichkeit** des Krieges trifft Zivilisten am härtesten", "Geschichtsbücher dokumentieren die **Grausamkeit** bestimmter Unterdrückungsregime"]]
+  },
+  {
+    "lemma": "iniquity",
+    "meanings_de": ["Ungerechtigkeit"],
+    "definitions_de": ["Grob unfaires und moralisch falsches Verhalten oder Handeln, insbesondere Bosheit oder Sünde"],
+    "examples_de": [["Der Richter verurteilte die **Ungerechtigkeit** der korrupten Beamten", "Sozialreformer kämpften gegen die **Schändlichkeit** der Kinderarbeit"]]
+  },
+  {
+    "lemma": "initialism",
+    "meanings_de": ["Initialkurzwort"],
+    "definitions_de": ["Abkürzung aus Anfangsbuchstaben, die einzeln ausgesprochen werden, wie FBI oder CEO"],
+    "examples_de": [["NATO ist ein **Akronym**, das für North Atlantic Treaty Organization steht", "Das **Initialkurzwort** USA wird häufig anstelle von United States of America verwendet"]]
+  },
+  {
+    "lemma": "initialization",
+    "meanings_de": ["Initialisierung"],
+    "definitions_de": ["Prozess der Vorbereitung von Computerhardware oder -software für den Betrieb durch Festlegung von Anfangswerten"],
+    "examples_de": [["Die **Initialisierung** der neuen Datenbank dauerte mehrere Minuten", "Ein Fehler während der **Initialisierung** verhinderte den ordnungsgemäßen Start des Programms"]]
+  },
+  {
+    "lemma": "initiation",
+    "meanings_de": ["Beginn eines Prozesses", "Aufnahmezeremonie"],
+    "definitions_de": ["Handlung, etwas zu beginnen oder zu veranlassen", "Formelle Aufnahme einer Person in eine Gruppe durch besondere Zeremonien"],
+    "examples_de": [["Die **Initiierung** des Projekts erforderte die Genehmigung des Vorstands", "Ihre **Einleitung** von Friedensgesprächen überraschte beide Seiten"], ["Die **Aufnahmezeremonie** der Burschenschaft dauerte das ganze Wochenende", "Die **Stammesinitiation** markiert den Übergang ins Erwachsenenalter"]]
+  },
+  {
+    "lemma": "initiator",
+    "meanings_de": ["Initiator"],
+    "definitions_de": ["Person oder Sache, die etwas beginnen lässt oder eine Handlung einleitet"],
+    "examples_de": [["Sie war die **Initiatorin** des Gemeinschaftsgartenprojekts", "Die Chemikalie fungiert als **Initiator** in der Reaktion"]]
+  },
+  {
+    "lemma": "injection",
+    "meanings_de": ["Medizinische Verabreichung", "Einführung ins System"],
+    "definitions_de": ["Vorgang, Flüssigkeit mit einer Nadel und Spritze in den Körper einzuführen", "Handlung, etwas Neues in eine Situation oder ein System einzuführen"],
+    "examples_de": [["Die Krankenschwester bereitete die **Spritze** mit großer Sorgfalt vor", "Tägliche **Insulininjektionen** helfen bei der Behandlung ihres Diabetes"], ["Die **Kapitalspritze** rettete das angeschlagene Unternehmen", "Sein Humor sorgte für eine willkommene **Auflockerung** der Stimmung"]]
+  },
+  {
+    "lemma": "injector",
+    "meanings_de": ["Einspritzdüse"],
+    "definitions_de": ["Gerät, das flüssigen Kraftstoff oder andere Flüssigkeiten in einen Motor oder ein System einspritzt"],
+    "examples_de": [["Die **Kraftstoffeinspritzdüse** sorgt für eine präzise Benzinzufuhr zum Motor", "Eine defekte **Einspritzdüse** führte zu unrundem Motorlauf"]]
+  },
+  {
+    "lemma": "injunction",
+    "meanings_de": ["Gerichtliche Verfügung"],
+    "definitions_de": ["Offizielle Gerichtsanordnung, die jemandem befiehlt, etwas zu tun oder zu unterlassen"],
+    "examples_de": [["Der Richter erließ eine **einstweilige Verfügung** zur Einstellung der Bauarbeiten", "Das Unternehmen beantragte eine **Unterlassungsverfügung** gegen die streikenden Arbeiter"]]
+  },
+  {
+    "lemma": "injustice",
+    "meanings_de": ["Ungerechtigkeit"],
+    "definitions_de": ["Mangel an Fairness oder Gerechtigkeit in der Behandlung, Situation oder in Gerichtsverfahren"],
+    "examples_de": [["Die Gemeinde protestierte gegen die **Ungerechtigkeit** der Rassendiskriminierung", "Sie widmete ihr Leben dem Kampf gegen **Unrecht** im Rechtssystem"]]
+  },
+  {
+    "lemma": "ink",
+    "meanings_de": ["Schreibflüssigkeit"],
+    "definitions_de": ["Gefärbte Flüssigkeit zum Schreiben, Zeichnen oder Drucken auf Papier"],
+    "examples_de": [["Der Füllfederhalter hatte während der Prüfung keine **Tinte** mehr", "Für alle amtlichen Dokumente ist schwarze **Tinte** vorgeschrieben"]]
+  },
+  {
+    "lemma": "inlay",
+    "meanings_de": ["Einlegearbeit"],
+    "definitions_de": ["Materialstück, das in eine Oberfläche eingesetzt wird, um ein dekoratives Muster zu bilden"],
+    "examples_de": [["Der Tisch zeigte wunderschöne **Intarsienarbeiten** aus Perlmutt", "Das zahnärztliche **Inlay** repariert beschädigte Zähne mit passgenauen Materialien"]]
+  },
+  {
+    "lemma": "inlet",
+    "meanings_de": ["Meeresbucht"],
+    "definitions_de": ["Schmaler Wasserstreifen, der sich von einem größeren Gewässer ins Land erstreckt"],
+    "examples_de": [["Kleine Boote ankerten während der Stürme in der geschützten **Bucht**", "Die **Meeresbucht** bot einen natürlichen Hafen für Fischerboote"]]
+  },
+  {
+    "lemma": "inn",
+    "meanings_de": ["Gasthaus"],
+    "definitions_de": ["Kleines Hotel oder Wirtshaus, das Reisenden Essen, Getränke und Unterkunft bietet"],
+    "examples_de": [["Die Reisenden übernachteten in einem gemütlichen **Gasthof**", "Das historische **Gasthaus** empfängt seit über 200 Jahren Gäste"]]
+  },
+  {
+    "lemma": "inning",
+    "meanings_de": ["Baseball-Spielabschnitt"],
+    "definitions_de": ["Abschnitt eines Baseballspiels, in dem jedes Team einmal am Schlag ist"],
+    "examples_de": [["Das Heimteam erzielte im siebten **Inning** drei Runs", "Regen verzögerte das Spiel nach dem fünften **Spielabschnitt**"]]
+  },
+  {
+    "lemma": "innings",
+    "meanings_de": ["Cricket-Schlagrunde"],
+    "definitions_de": ["Zeitraum im Cricket, in dem ein Team oder Spieler am Schlag ist"],
+    "examples_de": [["Das Team erklärte sein **Innings** bei 350 Runs für beendet", "Sein **Schlagdurchgang** dauerte über vier Stunden im Testspiel"]]
+  },
+  {
+    "lemma": "innkeeper",
+    "meanings_de": ["Gastwirt"],
+    "definitions_de": ["Person, die ein Gasthaus besitzt oder führt und Essen sowie Unterkunft anbietet"],
+    "examples_de": [["Der freundliche **Gastwirt** empfahl den Gästen lokale Sehenswürdigkeiten", "Mittelalterliche **Gastwirte** stellten Ställe für die Pferde der Reisenden bereit"]]
+  },
+  {
+    "lemma": "innocence",
+    "meanings_de": ["Unschuld"],
+    "definitions_de": ["Zustand des Freiseins von Schuld oder Sünde, insbesondere durch fehlendes Fehlverhalten"],
+    "examples_de": [["Die Anwältin arbeitete unermüdlich daran, die **Unschuld** ihres Mandanten zu beweisen", "Die **Unschuld** der Kinder sollte vor harten Realitäten geschützt werden"]]
+  },
+  {
+    "lemma": "innovator",
+    "meanings_de": ["Erneuerer"],
+    "definitions_de": ["Person, die neue Methoden, Ideen oder Produkte in den allgemeinen Gebrauch einführt"],
+    "examples_de": [["Steve Jobs galt als großer **Innovator** in der Technologie", "Der junge **Erfinder** entwickelte ein revolutionäres Wasserreinigungssystem"]]
+  },
+  {
+    "lemma": "innuendo",
+    "meanings_de": ["Anspielung"],
+    "definitions_de": ["Indirekte oder subtile Bezugnahme, die typischerweise etwas Negatives oder Unangemessenes andeutet"],
+    "examples_de": [["Seine Rede war voller **Anspielungen** auf die Vergangenheit seines Gegners", "Das Programm des Komikers stützte sich stark auf sexuelle **Andeutungen**"]]
+  },
+  {
+    "lemma": "inoculation",
+    "meanings_de": ["Schutzimpfung"],
+    "definitions_de": ["Einführung von Impfstoff oder Serum in den Körper zur Erzeugung von Immunität gegen Krankheiten"],
+    "examples_de": [["Die **Schutzimpfung** im Kindesalter verhindert viele schwere Krankheiten", "Das **Impfprogramm** reduzierte die Infektionsraten dramatisch"]]
+  },
+  {
+    "lemma": "inpatient",
+    "meanings_de": ["Stationärer Patient"],
+    "definitions_de": ["Patient, der während einer medizinischen Behandlung im Krankenhaus bleibt"],
+    "examples_de": [["Die Operation erfordert einen dreitägigen Aufenthalt als **stationärer Patient**", "Die **stationäre Behandlung** kostet mehr als die ambulante Versorgung"]]
+  },
+  {
+    "lemma": "inquest",
+    "meanings_de": ["Gerichtliche Untersuchung"],
+    "definitions_de": ["Offizielle Untersuchung zur Feststellung der Umstände und Ursache des Todes einer Person"],
+    "examples_de": [["Die **gerichtsmedizinische Untersuchung** ergab, dass der Tod ein Unfall war", "Nach dem Arbeitsunfall wurde eine **Untersuchung** eingeleitet"]]
+  },
+  {
+    "lemma": "inquirer",
+    "meanings_de": ["Fragesteller"],
+    "definitions_de": ["Person, die Fragen stellt oder Informationen über etwas sucht"],
+    "examples_de": [["Der hartnäckige **Fragesteller** erhielt schließlich Antworten vom Beamten", "Mehrere **Interessenten** riefen wegen der ausgeschriebenen Stelle an"]]
+  },
+  {
+    "lemma": "inquiring",
+    "meanings_de": ["Nachforschung"],
+    "definitions_de": ["Handlung oder Prozess des Fragestellens zur Informations- oder Verständnisgewinnung"],
+    "examples_de": [["Ihr **forschender** Geist führte sie zur Wissenschaft", "Die **Nachforschungen** des Detektivs enthüllten wichtige Beweise"]]
+  },
+  {
+    "lemma": "inquisition",
+    "meanings_de": ["Verhör"],
+    "definitions_de": ["Zeitraum längerer und intensiver Befragung oder Untersuchung, oft hart"],
+    "examples_de": [["Das **Verhör** des Ausschusses dauerte stundenlang", "Historische Aufzeichnungen dokumentieren die brutalen Methoden der spanischen **Inquisition**"]]
+  },
+  {
+    "lemma": "inquisitor",
+    "meanings_de": ["Verhörer"],
+    "definitions_de": ["Person, die Fragen auf harte, gründliche oder aggressive Weise stellt"],
+    "examples_de": [["Der **Ermittler** drängte auf Details über den Vorfall", "Mittelalterliche **Inquisitoren** verwendeten Folter, um Geständnisse zu erzwingen"]]
+  },
+  {
+    "lemma": "insanity",
+    "meanings_de": ["Wahnsinn"],
+    "definitions_de": ["Zustand schwerer psychischer Erkrankung oder extrem törichtes Verhalten"],
+    "examples_de": [["Der Angeklagte plädierte auf nicht schuldig wegen **Unzurechnungsfähigkeit**", "Denselben Fehler zu wiederholen und andere Ergebnisse zu erwarten, ist **Wahnsinn**"]]
+  },
+  {
+    "lemma": "inscription",
+    "meanings_de": ["Inschrift"],
+    "definitions_de": ["Worte, die auf etwas geschrieben oder eingraviert sind, besonders als formelle oder dauerhafte Aufzeichnung"],
+    "examples_de": [["Die antike **Inschrift** enthüllte den ursprünglichen Besitzer des Grabes", "Eine ergreifende **Widmung** auf dem Denkmal ehrte gefallene Soldaten"]]
+  },
+  {
+    "lemma": "insecticide",
+    "meanings_de": ["Insektizid"],
+    "definitions_de": ["Chemische Substanz zur Abtötung von Insekten, die Pflanzen schädigen oder Krankheiten übertragen"],
+    "examples_de": [["Landwirte sprühen **Insektizide**, um Ernten vor Schädlingen zu schützen", "Natürliches **Insektenschutzmittel** aus Pflanzen bietet umweltfreundliche Schädlingsbekämpfung"]]
+  },
+  {
+    "lemma": "insecurity",
+    "meanings_de": ["Unsicherheit"],
+    "definitions_de": ["Zustand der Ungewissheit, Angst oder mangelndes Selbstvertrauen bezüglich sich selbst oder der Situation"],
+    "examples_de": [["Die **Arbeitsplatzunsicherheit** beeinträchtigte die psychische Gesundheit und Produktivität der Arbeiter", "Ihre **Unsicherheit** bezüglich ihres Aussehens war völlig unbegründet"]]
+  },
+  {
+    "lemma": "insemination",
+    "meanings_de": ["Befruchtung"],
+    "definitions_de": ["Einführung von Samen in das weibliche Fortpflanzungssystem zur Herbeiführung einer Schwangerschaft"],
+    "examples_de": [["Künstliche **Befruchtung** hilft Paaren mit Fruchtbarkeitsproblemen", "Der Tierarzt führte die **Besamung** bei der preisgekrönten Stute durch"]]
+  },
+  {
+    "lemma": "insensitivity",
+    "meanings_de": ["Gefühllosigkeit"],
+    "definitions_de": ["Mangel an Bewusstsein oder Fähigkeit, auf die Gefühle oder Bedürfnisse anderer zu reagieren"],
+    "examples_de": [["Seine **Gefühllosigkeit** gegenüber ihrer Trauer schockierte alle Anwesenden", "Kulturelle **Unsensibilität** kann internationale Geschäftsbeziehungen schädigen"]]
+  },
+  {
+    "lemma": "insertion",
+    "meanings_de": ["Einführung"],
+    "definitions_de": ["Handlung, etwas in etwas anderes oder zwischen andere Dinge zu stecken"],
+    "examples_de": [["Das **Einführen** der Schlüsselkarte aktivierte das Türschloss", "Das vorsichtige **Einsetzen** der Nadel minimierte das Unbehagen des Patienten"]]
+  },
+  {
+    "lemma": "inset",
+    "meanings_de": ["Einschub"],
+    "definitions_de": ["Sache, die in etwas Größeres eingefügt oder eingesetzt wird"],
+    "examples_de": [["Die Karte enthielt einen **Einschub** mit Details zur Innenstadt", "Ein Foto als **Einblendung** illustrierte den Hauptartikel"]]
+  }
+]

@@ -1,0 +1,284 @@
+[
+  {
+    "lemma": "valedictorian",
+    "meanings_de": ["Jahrgangsbeste/r"],
+    "definitions_de": ["Schüler oder Schülerin mit den besten akademischen Leistungen, der oder die bei der Abschlussfeier die Abschiedsrede hält"],
+    "examples_de": [["Sarah wurde aufgrund ihrer herausragenden Noten zur **Jahrgangsbesten** ernannt", "Der **Jahrgangsbeste** hielt eine inspirierende Rede über Durchhaltevermögen"]]
+  },
+  {
+    "lemma": "valentine",
+    "meanings_de": ["Valentinstagskarte", "Liebespartner/in"],
+    "definitions_de": ["Karte, die am Valentinstag ausgetauscht wird, um Liebe auszudrücken", "Person, die romantische Zuneigung erhält, besonders am vierzehnten Februar"],
+    "examples_de": [["Sie bastelte handgemachte **Valentinstagskarten** für ihre Klassenkameraden", "Er kaufte Pralinen und eine **Valentinstagskarte** für seine Freundin"], ["Willst du dieses Jahr mein **Valentin** sein?", "Sie wartete hoffnungsvoll auf die Ankunft ihres **Valentins**"]]
+  },
+  {
+    "lemma": "valet",
+    "meanings_de": ["Parkservice-Mitarbeiter", "persönlicher Diener"],
+    "definitions_de": ["Person, die Autos für Gäste in Hotels oder Restaurants parkt", "männlicher Diener, der sich um persönliche Bedürfnisse und Kleidung kümmert"],
+    "examples_de": [["Der **Parkservice-Mitarbeiter** nahm ihre Autoschlüssel am Eingang entgegen", "**Parkservice-Angestellte** in Restaurants verdienen den Großteil ihres Einkommens durch Trinkgelder"], ["Der wohlhabende Geschäftsmann beschäftigte jahrzehntelang einen **Kammerdiener**", "Sein **Kammerdiener** legte jeden Morgen frische Kleidung bereit"]]
+  },
+  {
+    "lemma": "validation",
+    "meanings_de": ["Bestätigung der Richtigkeit", "emotionale Unterstützung"],
+    "definitions_de": ["Prozess der Überprüfung, ob etwas Anforderungen oder Standards erfüllt", "Anerkennung und Akzeptanz der Gedanken, Gefühle oder Verhaltensweisen einer Person als berechtigt"],
+    "examples_de": [["Die Software erfordert eine **Validierung** vor der endgültigen Veröffentlichung", "Die **Parkvalidierung** erspart Kunden die Parkgebühren"], ["Kinder brauchen **Bestätigung** von ihren Eltern, um Selbstvertrauen aufzubauen", "Sie suchte **Bestätigung** für ihre schwierige Entscheidung"]]
+  },
+  {
+    "lemma": "valor",
+    "meanings_de": ["Tapferkeit im Kampf"],
+    "definitions_de": ["Großer Mut, der angesichts von Gefahr gezeigt wird, besonders im Kampf"],
+    "examples_de": [["Der Soldat erhielt eine Medaille für außergewöhnliche **Tapferkeit**", "Geschichten von **Heldenmut** inspirierten die jungen Rekruten"]]
+  },
+  {
+    "lemma": "valuation",
+    "meanings_de": ["Wertermittlung"],
+    "definitions_de": ["Professionelle Einschätzung des Wertes von etwas, insbesondere von Immobilien oder Unternehmen"],
+    "examples_de": [["Die **Hausbewertung** fiel höher aus als erwartet", "Die **Unternehmensbewertung** bestimmt den Aktienkurs beim Börsengang"]]
+  },
+  {
+    "lemma": "valve",
+    "meanings_de": ["Durchflussregelvorrichtung", "Herzkammerklappe"],
+    "definitions_de": ["Mechanische Vorrichtung, die den Durchfluss von Flüssigkeiten oder Gasen durch Rohre steuert", "Struktur im Herzen oder in den Venen, die verhindert, dass Blut rückwärts fließt"],
+    "examples_de": [["Drehen Sie das **Ventil** im Uhrzeigersinn, um den Wasserfluss zu stoppen", "Der Klempner ersetzte das defekte **Ventil** unter der Spüle"], ["Die **Herzklappenoperation** rettete letztes Jahr sein Leben", "Die **Mitralklappe** trennt die linken Herzkammern"]]
+  },
+  {
+    "lemma": "vamp",
+    "meanings_de": ["Schuhoberteil", "verführerische Frau"],
+    "definitions_de": ["Vorderes Oberteil eines Schuhs oder Stiefels, das den Fuß bedeckt", "Frau, die sexuelle Anziehungskraft nutzt, um andere auszunutzen oder zu manipulieren"],
+    "examples_de": [["Das **Lederoberteil** zeigte Abnutzungsspuren", "Designerschuhe haben oft dekorative **Oberteile**"], ["Der Film noir zeigte eine klassische **Vamp**-Figur", "Sie spielte die **Vamp**-Rolle in der Theaterproduktion"]]
+  },
+  {
+    "lemma": "vandal",
+    "meanings_de": ["Sachbeschädiger"],
+    "definitions_de": ["Person, die vorsätzlich öffentliches oder privates Eigentum zerstört oder beschädigt"],
+    "examples_de": [["**Vandalen** besprühten die Schulwände mit Graffiti", "Sicherheitskameras helfen, **Randalierer** in der Gegend zu identifizieren"]]
+  },
+  {
+    "lemma": "vandalism",
+    "meanings_de": ["Sachbeschädigung"],
+    "definitions_de": ["Vorsätzliche Zerstörung oder Beschädigung von öffentlichem oder privatem Eigentum als kriminelles Verhalten"],
+    "examples_de": [["Der Park wurde wegen jüngster **Vandalismus**-Vorfälle vorübergehend geschlossen", "**Vandalismus** kostet die Stadt jährlich Tausende für Reparaturen"]]
+  },
+  {
+    "lemma": "vane",
+    "meanings_de": ["Windrichtungsanzeiger", "Rotorblatt"],
+    "definitions_de": ["Flaches Teil, das die Windrichtung anzeigt, indem es sich mit Luftströmungen dreht", "Blatt einer Turbine, eines Propellers oder einer ähnlichen rotierenden Maschine"],
+    "examples_de": [["Die **Wetterfahne** auf der Scheune zeigte nach Norden", "Alte Bauernhäuser haben oft dekorative **Windfahnen**"], ["**Turbinenblätter** müssen für Effizienz präzise ausbalanciert sein", "Die **Windmühlenflügel** drehten sich langsam in der Brise"]]
+  },
+  {
+    "lemma": "vanguard",
+    "meanings_de": ["Führungsgruppe"],
+    "definitions_de": ["Gruppe von Menschen, die bei neuen Entwicklungen oder Ideen vorangehen"],
+    "examples_de": [["Künstler bilden oft die **Avantgarde** des sozialen Wandels", "Das Unternehmen positionierte sich an der **Spitze** der Technologie"]]
+  },
+  {
+    "lemma": "vanilla",
+    "meanings_de": ["Orchideenaroma", "einfache Grundversion"],
+    "definitions_de": ["Süßes Aroma, das aus tropischen Orchideen-Samenschoten gewonnen wird", "Grundlegendste oder gewöhnlichste Version von etwas ohne besondere Funktionen"],
+    "examples_de": [["Sie fügte dem Keksteig **Vanilleextrakt** hinzu", "Madagaskar produziert die feinsten **Vanilleschoten** der Welt"], ["Sie bestellten die **Standard**version ohne Upgrades", "Sein Musikgeschmack ist ziemlich **gewöhnlich**"]]
+  },
+  {
+    "lemma": "vanishing",
+    "meanings_de": ["Verschwinden"],
+    "definitions_de": ["Vorgang des allmählichen Verschwindens aus dem Blickfeld oder der Existenz"],
+    "examples_de": [["Das **Verschwinden** des arktischen Eises beunruhigt Klimawissenschaftler", "Sein plötzliches **Verschwinden** von der Party verwirrte alle"]]
+  },
+  {
+    "lemma": "vanity",
+    "meanings_de": ["übermäßiger Stolz", "Badezimmerschrank"],
+    "definitions_de": ["Übermäßiger Stolz auf das eigene Aussehen, die eigenen Leistungen oder Eigenschaften", "Badezimmerschrank mit Waschbecken und Stauraum für Toilettenartikel"],
+    "examples_de": [["Seine **Eitelkeit** hinderte ihn daran, Fehler zuzugeben", "Soziale Medien nähren oft die **Eitelkeit** der Menschen"], ["Der **Waschtisch** aus Marmor ergänzte das Badezimmerdesign perfekt", "Sie bewahrte Make-up in den **Waschtisch**schubladen auf"]]
+  },
+  {
+    "lemma": "vantage",
+    "meanings_de": ["überlegene Aussichtsposition"],
+    "definitions_de": ["Ort oder Position, die einen guten Ausblick oder strategischen Vorteil bietet"],
+    "examples_de": [["Von diesem **Aussichtspunkt** können wir das gesamte Tal sehen", "Der Hügel bot einen ausgezeichneten **Aussichtspunkt** für Fotografie"]]
+  },
+  {
+    "lemma": "vape",
+    "meanings_de": ["E-Zigarettengerät"],
+    "definitions_de": ["Elektronisches Gerät, das Flüssigkeit erhitzt, um Dampf zum Inhalieren zu erzeugen"],
+    "examples_de": [["Er wechselte von Zigaretten zu einem **E-Zigaretten**gerät", "Viele Geschäfte verkaufen jetzt **E-Zigaretten** und Dampfzubehör"]]
+  },
+  {
+    "lemma": "vaping",
+    "meanings_de": ["E-Zigarettenkonsum"],
+    "definitions_de": ["Vorgang des Inhalierens von Dampf, der von elektronischen Zigaretten oder ähnlichen Geräten erzeugt wird"],
+    "examples_de": [["**Dampfen** ist bei ehemaligen Rauchern beliebt geworden", "Schulen kämpfen mit Schülern, die in Toiletten **dampfen**"]]
+  },
+  {
+    "lemma": "vapor",
+    "meanings_de": ["gasförmige Substanz"],
+    "definitions_de": ["Sichtbares Gas oder Nebel, der entsteht, wenn Flüssigkeit verdampft oder Feststoff sublimiert"],
+    "examples_de": [["**Wasserdampf** stieg natürlich aus den heißen Quellen auf", "Die kalte Luft machte ihren Atem als **Dampf** sichtbar"]]
+  },
+  {
+    "lemma": "vaporization",
+    "meanings_de": ["Verdampfung"],
+    "definitions_de": ["Prozess der Umwandlung von Flüssigkeit oder Feststoff in Dampf durch Erhitzen oder Druckreduzierung"],
+    "examples_de": [["**Verdampfung** tritt auf, wenn Wasser seinen Siedepunkt erreicht", "Die **Verdampfung** von Kraftstoff treibt Verbrennungsmotoren an"]]
+  },
+  {
+    "lemma": "variability",
+    "meanings_de": ["Veränderlichkeit"],
+    "definitions_de": ["Eigenschaft, Veränderungen in Charakter, Menge oder Grad unterworfen zu sein"],
+    "examples_de": [["Die **Variabilität** des Wetters erschwert langfristige Vorhersagen", "Genetische **Variabilität** hilft Arten, sich an Umweltveränderungen anzupassen"]]
+  },
+  {
+    "lemma": "variance",
+    "meanings_de": ["statistische Streuung", "behördliche Ausnahmegenehmigung"],
+    "definitions_de": ["Maß dafür, wie weit Zahlen von ihrem Durchschnittswert abweichen", "Offizielle Erlaubnis, etwas anders als nach normalen Regeln oder Vorschriften zu tun"],
+    "examples_de": [["Die **Varianz** der Testergebnisse war überraschend hoch", "Statistiker berechnen die **Varianz**, um Datenverteilungen zu verstehen"], ["Sie beantragten eine **Ausnahmegenehmigung** für höheres Bauen", "Der Vorstand gewährte eine **Sondergenehmigung** für das historische Gebäude"]]
+  },
+  {
+    "lemma": "variant",
+    "meanings_de": ["abweichende Form"],
+    "definitions_de": ["Form oder Version, die sich in gewisser Hinsicht von anderen desselben Typs unterscheidet"],
+    "examples_de": [["Wissenschaftler entdeckten eine neue **Variante** des Virus", "Diese **Schreibvariante** erscheint im britischen Englisch"]]
+  },
+  {
+    "lemma": "varietal",
+    "meanings_de": ["Rebsortenwein"],
+    "definitions_de": ["Wein, der hauptsächlich aus einer einzigen Rebsorte hergestellt und entsprechend gekennzeichnet wird"],
+    "examples_de": [["Das Weingut spezialisiert sich auf **sortenreine** Weine", "Chardonnay bleibt ein beliebter weißer **Rebsortenwein**"]]
+  },
+  {
+    "lemma": "varnish",
+    "meanings_de": ["Holzschutzlack"],
+    "definitions_de": ["Klare flüssige Beschichtung, die zu einem harten Schutzfinish auf Holz trocknet"],
+    "examples_de": [["Tragen Sie **Lack** auf, nachdem die Beize vollständig getrocknet ist", "Der antike Tisch braucht eine frische Schicht **Lack**"]]
+  },
+  {
+    "lemma": "varsity",
+    "meanings_de": ["Schulhauptmannschaft"],
+    "definitions_de": ["Hauptmannschaft, die eine Schule oder Hochschule im Sportwettbewerb vertritt"],
+    "examples_de": [["Sie schaffte es als Studentin im zweiten Jahr in die **Schulmannschaft** Basketball", "**Schulmannschafts**spieler erhalten spezielle Buchstabenjacken"]]
+  },
+  {
+    "lemma": "vase",
+    "meanings_de": ["dekorativer Blumenbehälter"],
+    "definitions_de": ["Dekorativer Behälter, der typischerweise zum Halten von Schnittblumen oder als Ornament verwendet wird"],
+    "examples_de": [["Sie arrangierte Rosen in der Kristall**vase**", "Antike griechische **Vasen** zeigten oft mythologische Szenen"]]
+  },
+  {
+    "lemma": "vasectomy",
+    "meanings_de": ["Sterilisation beim Mann"],
+    "definitions_de": ["Kleiner chirurgischer Eingriff, bei dem die Samenleiter durchtrennt werden zur dauerhaften Geburtenkontrolle"],
+    "examples_de": [["Er plante eine **Vasektomie** nach ihrem dritten Kind", "Eine **Vasektomie**-Umkehrung ist möglich, aber nicht immer erfolgreich"]]
+  },
+  {
+    "lemma": "vassal",
+    "meanings_de": ["Lehnsmann"],
+    "definitions_de": ["Person, die Land von einem Feudalherrn im Austausch für Huldigung und Dienst hält"],
+    "examples_de": [["Mittelalterliche **Vasallen** schuldeten ihren Herren Kriegsdienst", "Der **Lehnsmann** schwor Treue in der Zeremonie"]]
+  },
+  {
+    "lemma": "vat",
+    "meanings_de": ["großer Lagerbehälter"],
+    "definitions_de": ["Großer Tank oder Behälter zum Aufbewahren von Flüssigkeiten, besonders in industriellen Prozessen"],
+    "examples_de": [["Brauerei**bottiche** fassen Tausende von Litern Bier", "Arbeiter rührten die Farbe in riesigen **Bottichen**"]]
+  },
+  {
+    "lemma": "vaudeville",
+    "meanings_de": ["Varietéunterhaltung"],
+    "definitions_de": ["Theaterunterhaltung, die im frühen zwanzigsten Jahrhundert beliebt war und verschiedene Darbietungen wie Komödie, Musik und Tanz beinhaltete"],
+    "examples_de": [["Sein Großvater führte Komödienroutinen im **Varieté** auf", "**Varietétheater** dominierten einst die amerikanische Unterhaltung"]]
+  },
+  {
+    "lemma": "vault",
+    "meanings_de": ["sicherer Lagerraum", "gewölbte Deckenstruktur", "Gymnastiksprung"],
+    "definitions_de": ["Verstärkter Raum zur sicheren Aufbewahrung von Wertsachen oder wichtigen Dokumenten", "Gewölbte Struktur, die Decke oder Dach bildet, besonders in Kirchen", "Athletischer Sprung mit Händen zur Unterstützung oder Stab für Höhe"],
+    "examples_de": [["Der Bank**tresor** benötigt zwei Schlüssel zum Öffnen", "Sie lagerten Goldbarren im unterirdischen **Tresor**"], ["Das **Gewölbe** der Kathedrale zeigte wunderschöne gemalte Fresken", "Stein**gewölbe** charakterisieren die gotische Architektur"], ["Ihr **Sprung** erzielte perfekte Punkte im Gymnastikwettbewerb", "**Stabhochsprung** erfordert sowohl Geschwindigkeit als auch Technik"]]
+  },
+  {
+    "lemma": "vaulting",
+    "meanings_de": ["Gewölbebau", "Sprungdisziplin"],
+    "definitions_de": ["Architektonische Technik zum Bau gewölbter Decken und Dächer", "Sportart des Springens mit Geräten wie Stäben oder Pferden"],
+    "examples_de": [["Die **Gewölbekonstruktion** in mittelalterlichen Kirchen erforderte geschickte Steinmetze", "Rippen**gewölbe** ermöglichten höhere Kathedralendecken"], ["Sie glänzt beim **Springen** in der Leichtathletik", "**Sprungdisziplinen** erfordern jahrelanges Training und Übung"]]
+  },
+  {
+    "lemma": "veal",
+    "meanings_de": ["Kalbfleisch"],
+    "definitions_de": ["Fleisch von jungen Kälbern, typischerweise hell und zart"],
+    "examples_de": [["Das Restaurant serviert **Kalbfleisch** Parmesan als Spezialität", "Viele Menschen meiden **Kalbfleisch** aus ethischen Gründen"]]
+  },
+  {
+    "lemma": "vector",
+    "meanings_de": ["Krankheitsüberträger", "gerichtete Größe"],
+    "definitions_de": ["Organismus, der Krankheit oder Parasiten von einem Wirt zum anderen überträgt", "Größe mit sowohl Betrag als auch Richtung, dargestellt durch einen Pfeil"],
+    "examples_de": [["Mücken dienen als **Überträger** für Malariaübertragung", "Wissenschaftler untersuchen **Vektoren**, um Krankheitsausbreitung zu verhindern"], ["Der Physikstudent berechnete Kraft**vektoren** für die Hausaufgaben", "Windgeschwindigkeit wird als **Vektor** dargestellt"]]
+  },
+  {
+    "lemma": "vegan",
+    "meanings_de": ["Pflanzenernährungsanhänger"],
+    "definitions_de": ["Person, die alle tierischen Produkte einschließlich Fleisch, Milchprodukte, Eier und Leder meidet"],
+    "examples_de": [["Der **Veganer** bestellte die pflanzliche Burger-Option", "Mehr Restaurants bieten jetzt **vegane** Menüoptionen"]]
+  },
+  {
+    "lemma": "vegetarian",
+    "meanings_de": ["fleischlose Ernährungsanhänger"],
+    "definitions_de": ["Person, die kein Fleisch isst, aber möglicherweise Milchprodukte und Eier konsumiert"],
+    "examples_de": [["Der **Vegetarier** wählte Pasta Primavera zum Abendessen", "Viele **Vegetarier** essen regelmäßig Käse und Eier"]]
+  },
+  {
+    "lemma": "vegetarianism",
+    "meanings_de": ["fleischlose Ernährungsweise"],
+    "definitions_de": ["Praxis des Verzichts auf Fleisch aus gesundheitlichen, ethischen oder Umweltgründen"],
+    "examples_de": [["**Vegetarismus** ist bei jungen Menschen beliebter geworden", "Ihr **Vegetarismus** begann aus gesundheitlichen Gründen"]]
+  },
+  {
+    "lemma": "vegetation",
+    "meanings_de": ["Pflanzenwelt"],
+    "definitions_de": ["Pflanzen insgesamt betrachtet, besonders jene in einem bestimmten Gebiet oder Lebensraum"],
+    "examples_de": [["Dichte **Vegetation** bedeckte das verlassene Gebäude vollständig", "Wüsten**vegetation** passt sich an, um mit minimalem Wasser zu überleben"]]
+  },
+  {
+    "lemma": "veil",
+    "meanings_de": ["Gesichtsbedeckungsstoff", "verschleiernde Barriere"],
+    "definitions_de": ["Stoffstück, das getragen wird, um Kopf oder Gesicht aus Bescheidenheit oder bei Zeremonien zu bedecken", "Etwas, das die Wahrheit verbirgt, verschleiert oder tarnt"],
+    "examples_de": [["Die Braut trug einen zarten Spitzen**schleier**", "Einige Frauen tragen **Schleier** aus religiösen Gründen"], ["Geheimhaltung warf einen **Schleier** über die Verhandlungen", "Sie lüfteten den **Schleier** der Unternehmenskorruption"]]
+  },
+  {
+    "lemma": "vein",
+    "meanings_de": ["Blutgefäß", "Mineralablagerungsstreifen", "charakteristischer Stil"],
+    "definitions_de": ["Blutgefäß, das Blut zum Herzen transportiert", "Schicht von Erz oder Mineral innerhalb einer Gesteinsformation", "Besonderer Stil, Art oder Ausdrucksweise"],
+    "examples_de": [["Die Krankenschwester fand schnell eine **Vene** für die Infusion", "**Venen** erscheinen durch blasse Haut blau"], ["Gold**adern** im Gestein begeisterten die Bergleute", "Der Marmor hat schöne **Adern**, die hindurchlaufen"], ["Er sprach weiter in humorvollem **Ton**", "Ihr Schreiben folgt dem **Stil** klassischer Krimis"]]
+  },
+  {
+    "lemma": "velociraptor",
+    "meanings_de": ["schneller Raubdinosaurier"],
+    "definitions_de": ["Kleiner gefiederter Dinosaurier, bekannt für Geschwindigkeit und scharfe Krallen, der während der Kreidezeit lebte"],
+    "examples_de": [["Das **Velociraptor**-Skelett beeindruckte die Museumsbesucher sehr", "Filme übertreiben oft die tatsächliche Größe des **Velociraptors**"]]
+  },
+  {
+    "lemma": "velocity",
+    "meanings_de": ["Geschwindigkeit mit Richtung"],
+    "definitions_de": ["Bewegungsrate in bestimmter Richtung, gemessen als Entfernung über Zeit"],
+    "examples_de": [["Die Rakete erreichte innerhalb von Minuten die **Fluchtgeschwindigkeit**", "Die **Windgeschwindigkeit** bestimmt, wie Stürme sich bewegen"]]
+  },
+  {
+    "lemma": "velvet",
+    "meanings_de": ["weicher Luxusstoff"],
+    "definitions_de": ["Stoff mit dichtem, weichem Flor aus Seide, Baumwolle oder synthetischen Fasern"],
+    "examples_de": [["Die **Samt**vorhänge verliehen dem Theater Eleganz", "Sie trug ein tiefviolettes **Samt**kleid"]]
+  },
+  {
+    "lemma": "vendetta",
+    "meanings_de": ["Rache-Blutfehde"],
+    "definitions_de": ["Langwierige bittere Fehde, gekennzeichnet durch vergeltende Racheakte zwischen Familien oder Gruppen"],
+    "examples_de": [["Die **Vendetta** zwischen den Familien dauerte über Generationen", "Seine persönliche **Fehde** trübte sein professionelles Urteilsvermögen"]]
+  },
+  {
+    "lemma": "vending",
+    "meanings_de": ["Automatenverkaufsgeschäft"],
+    "definitions_de": ["Geschäft des Verkaufs von Waren über münzbetriebene Automaten"],
+    "examples_de": [["Das **Automaten**unternehmen wartet Maschinen in der ganzen Stadt", "Der **Automatenverkauf** hat sich über Snacks hinaus auf Elektronik ausgeweitet"]]
+  },
+  {
+    "lemma": "veneer",
+    "meanings_de": ["dünne Dekorschicht", "oberflächlicher Anschein"],
+    "definitions_de": ["Dünne dekorative Schicht aus edlem Holz, die auf billigeres Material aufgebracht wird", "Attraktives Erscheinungsbild, das weniger angenehme Realität verbirgt"],
+    "examples_de": [["Eichen**furnier** bedeckte die Spanplattenmöbel", "Der Zahnarzt brachte Porzellan**verblendungen** an ihren Zähnen an"], ["Seine höfliche **Fassade** verbarg tiefsitzende Wut", "Die **Fassade** der Zivilisation verschwand während der Krise"]]
+  }
+]

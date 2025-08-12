@@ -1,0 +1,284 @@
+[
+  {
+    "lemma": "badminton",
+    "meanings_de": ["Schläger-Sportspiel"],
+    "definitions_de": ["Sportart, die mit Schlägern und Federball über ein hohes Netz gespielt wird"],
+    "examples_de": [["Wir spielten gestern Nachmittag **Badminton** im Garten", "Sie trat dem **Badminton**-Verein in ihrem örtlichen Fitnessstudio bei"]]
+  },
+  {
+    "lemma": "baffle",
+    "meanings_de": ["Strömungsleitblech"],
+    "definitions_de": ["Platte oder Barriere, die den Fluss von Flüssigkeit oder Schall kontrolliert"],
+    "examples_de": [["Der Ingenieur installierte ein **Leitblech** im Abgassystem", "Schall**dämpfer** reduzierten den Geräuschpegel erheblich"]]
+  },
+  {
+    "lemma": "bagel",
+    "meanings_de": ["ringförmiges Brot"],
+    "definitions_de": ["dichtes Brötchen mit Loch in der Mitte, oft mit Samen bestreut"],
+    "examples_de": [["Sie bestellte einen getoasteten **Bagel** mit Frischkäse", "Die Bäckerei verkauft jeden Morgen frische **Bagels**"]]
+  },
+  {
+    "lemma": "baggage",
+    "meanings_de": ["Reisegepäck", "emotionale Belastung"],
+    "definitions_de": ["Koffer und Taschen, die bei Reisen mitgenommen werden", "vergangene Erfahrungen oder Probleme, die das Verhalten oder Beziehungen beeinflussen"],
+    "examples_de": [["Bitte holen Sie Ihr **Gepäck** von Band drei ab", "Die Fluggesellschaft verlor unser **Gepäck** während des Fluges"], ["Sie brachte emotionalen **Ballast** in die neue Beziehung", "Jahre der Therapie halfen ihm, seinen **Ballast** aufzuarbeiten"]]
+  },
+  {
+    "lemma": "bagger",
+    "meanings_de": ["Einpackhilfe"],
+    "definitions_de": ["Person, die an der Kasse Lebensmittel in Tüten packt"],
+    "examples_de": [["Der **Einpacker** verpackte die Eier vorsichtig obenauf", "Sie arbeitete während der Schulzeit als **Einpackhilfe**"]]
+  },
+  {
+    "lemma": "bagging",
+    "meanings_de": ["Sackmaterial", "Verpackungstätigkeit"],
+    "definitions_de": ["grobes Gewebe oder Material zur Herstellung von Säcken", "Tätigkeit oder Prozess des Verpackens von Gegenständen in Säcke oder Behälter"],
+    "examples_de": [["Der Bauer bestellte Jute**säcke** für die Getreideernte", "Strapazierfähige **Verpackung** schützte die Ausrüstung beim Versand"], ["Das **Einpacken** von Lebensmitteln erfordert Schnelligkeit und Sorgfalt", "Automatisierte **Verpackungs**systeme steigerten die Produktionseffizienz"]]
+  },
+  {
+    "lemma": "bagpipe",
+    "meanings_de": ["Blasinstrument"],
+    "definitions_de": ["Musikinstrument mit Luftsack und Pfeifen, das durch Blasen gespielt wird"],
+    "examples_de": [["Der **Dudelsack**spieler führte die schottische Parade an", "Traditionelle **Dudelsack**musik erfüllte das Hochlandfestival"]]
+  },
+  {
+    "lemma": "baguette",
+    "meanings_de": ["langes französisches Brot"],
+    "definitions_de": ["langer dünner Laib französisches Brot mit knuspriger Kruste"],
+    "examples_de": [["Sie kaufte ein frisches **Baguette** beim Bäcker", "Das Sandwich wurde mit einem knusprigen **Baguette** gemacht"]]
+  },
+  {
+    "lemma": "baht",
+    "meanings_de": ["thailändische Währungseinheit"],
+    "definitions_de": ["Grundwährungseinheit Thailands, die einhundert Satang entspricht"],
+    "examples_de": [["Das Essen kostete zweihundert **Baht** im Restaurant", "Sie tauschte am Flughafen Dollar in **Baht** um"]]
+  },
+  {
+    "lemma": "bail",
+    "meanings_de": ["Kaution", "Eimerhenkel"],
+    "definitions_de": ["an das Gericht gezahltes Geld, das die vorübergehende Freilassung aus dem Gefängnis vor der Verhandlung ermöglicht", "gebogener Griff eines Eimers oder ähnlichen Behälters zum Tragen"],
+    "examples_de": [["Seine Familie stellte eine **Kaution**, um seine Freilassung zu erwirken", "Der Richter setzte die **Kaution** auf zehntausend Dollar fest"], ["Der **Henkel** am Wassereimer muss repariert werden", "Sie hob den Eimer an seinem Metall**bügel** hoch"]]
+  },
+  {
+    "lemma": "bailey",
+    "meanings_de": ["äußere Burgmauer"],
+    "definitions_de": ["äußere Mauer oder Vorhof einer mittelalterlichen Burg oder Festung"],
+    "examples_de": [["Ritter verteidigten den **Burghof** gegen eindringende Truppen", "Der **Zwinger** der Burg beherbergte Werkstätten und Ställe"]]
+  },
+  {
+    "lemma": "bailiff",
+    "meanings_de": ["Gerichtsvollzieher"],
+    "definitions_de": ["Beamter, der für Ordnung im Gerichtssaal sorgt und rechtliche Aufgaben wahrnimmt"],
+    "examples_de": [["Der **Gerichtsvollzieher** begleitete den Angeklagten in den Gerichtssaal", "Sie arbeitet als **Justizwachtmeisterin** im Bezirksgericht"]]
+  },
+  {
+    "lemma": "bailiwick",
+    "meanings_de": ["Fachgebiet"],
+    "definitions_de": ["Bereich der Fähigkeiten, des Wissens, der Verantwortung oder des besonderen Interesses einer Person"],
+    "examples_de": [["Marketingstrategie liegt definitiv in ihrem **Fachgebiet**", "Dieses technische Problem liegt außerhalb meines **Zuständigkeitsbereichs**"]]
+  },
+  {
+    "lemma": "bait",
+    "meanings_de": ["Angelköder", "Lockmittel"],
+    "definitions_de": ["Nahrung zum Anlocken von Fischen oder Tieren zum Fangen", "etwas, das verwendet wird, um jemanden in eine Falle zu locken"],
+    "examples_de": [["Er befestigte frischen **Köder** am Angelhaken", "Würmer sind ausgezeichnete **Köder** zum Forellenfang"], ["Das kostenlose Angebot war nur ein **Lockmittel** für Kunden", "Gehen Sie nicht auf die **Provokation** ein, wenn jemand streiten will"]]
+  },
+  {
+    "lemma": "baiting",
+    "meanings_de": ["Provokation"],
+    "definitions_de": ["Handlung des absichtlichen Ärgerns oder Provozierens einer Person oder eines Tieres"],
+    "examples_de": [["Online-**Mobbing** ist zu einem ernsten Cybermobbing-Problem geworden", "Das **Hetzen** von Bären wurde vor Jahrhunderten verboten"]]
+  },
+  {
+    "lemma": "baker",
+    "meanings_de": ["Bäcker"],
+    "definitions_de": ["Person, die beruflich Brot, Kuchen und Gebäck herstellt und verkauft"],
+    "examples_de": [["Der **Bäcker** kommt täglich vor Morgengrauen zur Arbeit", "Unser örtlicher **Bäcker** macht das beste Sauerteigbrot"]]
+  },
+  {
+    "lemma": "bakery",
+    "meanings_de": ["Bäckerei"],
+    "definitions_de": ["Ort, an dem Brot und Kuchen hergestellt und an Kunden verkauft werden"],
+    "examples_de": [["Die **Bäckerei** in der Hauptstraße öffnet um sechs", "Frische Croissants füllten die **Bäckerei**-Auslage"]]
+  },
+  {
+    "lemma": "baking",
+    "meanings_de": ["Backen", "sengende Hitze"],
+    "definitions_de": ["Prozess des Kochens von Speisen im Ofen mit trockener Hitze", "extrem heiße Temperatur oder Wetterbedingungen, die als bedrückend empfunden werden"],
+    "examples_de": [["**Backen** erfordert präzise Maßangaben und Timing", "Sie lernte das **Backen** aus den Rezepten ihrer Großmutter"], ["Die **sengende** Hitze machte Arbeiten im Freien fast unmöglich", "Nach Stunden **brennender** Sonne suchten sie Schatten"]]
+  },
+  {
+    "lemma": "balaclava",
+    "meanings_de": ["Sturmhaube"],
+    "definitions_de": ["eng anliegendes Kleidungsstück, das Kopf und Hals bedeckt, mit Löchern für die Augen"],
+    "examples_de": [["Der Skifahrer trug eine **Sturmhaube** zum Schutz vor Wind", "Bankräuber tragen oft **Sturmhauben**, um ihre Identität zu verbergen"]]
+  },
+  {
+    "lemma": "balancing",
+    "meanings_de": ["Gleichgewichthalten"],
+    "definitions_de": ["Handlung des Aufrechterhaltens einer stabilen Position oder des Ausgleichs verschiedener Dinge in ihrer Wichtigkeit"],
+    "examples_de": [["Das **Balancieren** auf einem Fuß erfordert Rumpfstärke", "Das **Ausbalancieren** von Arbeit und Familie erfordert Anstrengung"]]
+  },
+  {
+    "lemma": "balcony",
+    "meanings_de": ["Außenplattform", "Theaterrang"],
+    "definitions_de": ["von der Gebäudewand vorspringende Plattform mit Geländer", "oberes Stockwerk mit Sitzplätzen in einem Theater oder Konzertsaal"],
+    "examples_de": [["Sie züchtete Tomaten in Töpfen auf ihrem Wohnungs**balkon**", "Das Hotelzimmer hatte einen **Balkon** mit Meerblick"], ["Wir kauften **Rang**karten für die Opernaufführung", "Die Aussicht von den **Balkon**plätzen war ausgezeichnet"]]
+  },
+  {
+    "lemma": "bale",
+    "meanings_de": ["gepresstes Materialbündel"],
+    "definitions_de": ["großes Bündel Material, das fest gebunden ist für Lagerung oder Transport"],
+    "examples_de": [["Der Bauer stapelte Heu**ballen** in der Scheune", "Baumwoll**ballen** wurden auf das Frachtschiff geladen"]]
+  },
+  {
+    "lemma": "balk",
+    "meanings_de": ["Holzbalken", "unregelgemäßiger Wurf"],
+    "definitions_de": ["schwerer Balken oder Holz, das als Barriere oder Stütze verwendet wird", "illegale Bewegung des Werfers, die Läufer im Baseball vorrücken lässt"],
+    "examples_de": [["Die alte Scheune hatte freiliegende **Balken**, die das Dach stützten", "Schwere **Balken** verstärkten den Minenschachteingang"], ["Der Schiedsrichter rief einen **Regelverstoß** beim Werfer", "Sein **Täuschungsversuch** erlaubte dem Läufer vorzurücken"]]
+  },
+  {
+    "lemma": "ballad",
+    "meanings_de": ["erzählendes Lied"],
+    "definitions_de": ["langsames romantisches Lied oder Gedicht, das eine Geschichte erzählt, oft über Liebe"],
+    "examples_de": [["Die Sängerin trug eine wunderschöne **Ballade** über verlorene Liebe vor", "Mittelalterliche **Balladen** wurden über Generationen weitergegeben"]]
+  },
+  {
+    "lemma": "ballast",
+    "meanings_de": ["Schiffsstabilisierungsgewicht", "Gleisbettschotter"],
+    "definitions_de": ["schweres Material im Schiffsrumpf zur Verbesserung der Stabilität und Kontrolle", "Kies oder Schotter als Fundament für Eisenbahnschienen"],
+    "examples_de": [["Das Schiff nahm Wasser**ballast** vor der Reise auf", "Betonblöcke dienten als **Ballast** im Segelboot"], ["Arbeiter verteilten frischen **Schotter** entlang der Bahngleise", "Starker Regen spülte etwas Gleis**schotter** weg"]]
+  },
+  {
+    "lemma": "ballerina",
+    "meanings_de": ["Balletttänzerin"],
+    "definitions_de": ["weibliche Tänzerin, die professionell Ballett in klassischen Tanzproduktionen aufführt"],
+    "examples_de": [["Die **Ballerina** übte täglich stundenlang ihre Pirouetten", "Sie träumte davon, eine Prima**ballerina** zu werden"]]
+  },
+  {
+    "lemma": "ballet",
+    "meanings_de": ["klassische Tanzform", "Tanzaufführung"],
+    "definitions_de": ["künstlerische Tanzform mit präzisen Bewegungen und formellen Techniken", "theatralisches Werk oder Aufführung, die Balletttanz nutzt, um eine Geschichte zu erzählen"],
+    "examples_de": [["Sie studierte **Ballett** ab dem fünften Lebensjahr an der Akademie", "**Ballett** erfordert jahrelanges diszipliniertes Training"], ["Die **Ballett**kompanie führte gestern Abend Schwanensee auf", "Wir haben Karten für die neue **Ballett**premiere"]]
+  },
+  {
+    "lemma": "ballgame",
+    "meanings_de": ["Sportspiel", "völlig neue Situation"],
+    "definitions_de": ["Spiel mit einem Ball, besonders Baseball oder ähnlicher Sport", "völlig andere Situation oder Umstände als zuvor"],
+    "examples_de": [["Lass uns am Samstagnachmittag zum **Baseballspiel** gehen", "Das **Ballspiel** wurde wegen Regen verschoben"], ["Mit neuer Finanzierung ist es eine ganz **andere Situation**", "Das ändert alles - jetzt haben wir eine völlig **neue Ausgangslage**"]]
+  },
+  {
+    "lemma": "ballooning",
+    "meanings_de": ["Heißluftballonfahren", "rapide Vergrößerung"],
+    "definitions_de": ["Sport oder Aktivität des Fliegens in einem Heißluftballon", "schnelle Ausdehnung oder Anschwellung zu einer viel größeren Größe"],
+    "examples_de": [["Sie gingen bei Sonnenaufgang zum **Ballonfahren** über das Tal", "**Ballonfahren** erfordert günstige Wetterbedingungen"], ["Die **anschwellenden** Kosten beunruhigten den Projektleiter", "**Explodierende** Schulden wurden zu einem ernsten finanziellen Problem"]]
+  },
+  {
+    "lemma": "balloting",
+    "meanings_de": ["Abstimmungsverfahren"],
+    "definitions_de": ["Prozess der Stimmabgabe per Wahlzettel zur Entscheidungsfindung oder Kandidatenwahl"],
+    "examples_de": [["Die **Abstimmung** für Gewerkschaftsvertreter beginnt nächsten Montag", "Das **Wahlverfahren** gewährleistet anonyme Stimmabgabe"]]
+  },
+  {
+    "lemma": "ballpark",
+    "meanings_de": ["Baseballstadion", "grobe Schätzung"],
+    "definitions_de": ["Stadion oder Feld, wo professionelle Baseballspiele gespielt werden", "ungefährer Bereich oder grobe Schätzung einer Zahl oder Menge"],
+    "examples_de": [["Das neue **Baseballstadion** fasst vierzigtausend Fans", "Wir kamen früh zum **Stadion** für das Schlagtraining"], ["Geben Sie mir eine **grobe Schätzung** für die Projektkosten", "Diese Schätzung liegt im richtigen **Bereich**"]]
+  },
+  {
+    "lemma": "ballpoint",
+    "meanings_de": ["Kugelschreiber"],
+    "definitions_de": ["Stift mit winziger Kugel in der Spitze, die Tinte auf Papier rollt"],
+    "examples_de": [["Sie unterschrieb den Vertrag mit einem blauen **Kugelschreiber**", "**Kugelschreiber** laufen im Vergleich zu Füllfederhaltern selten aus"]]
+  },
+  {
+    "lemma": "ballroom",
+    "meanings_de": ["großer Tanzsaal"],
+    "definitions_de": ["großer Raum für formelles Tanzen und gesellschaftliche Veranstaltungen"],
+    "examples_de": [["Die Hochzeitsfeier fand im Hotel**ballsaal** statt", "Sie nahmen jeden Donnerstag **Gesellschaftstanz**unterricht"]]
+  },
+  {
+    "lemma": "balm",
+    "meanings_de": ["heilende Salbe", "tröstender Einfluss"],
+    "definitions_de": ["duftende Salbe oder Öl zur Heilung oder Beruhigung der Haut", "etwas, das Trost oder Erleichterung für Geist oder Seele bringt"],
+    "examples_de": [["Sie trug heilenden **Balsam** auf die Verbrennung auf", "Der Lippen**balsam** schützte vor winterlicher Trockenheit"], ["Musik war **Balsam** für ihre gequälte Seele", "Freundliche Worte dienten als **Trost** für seine Enttäuschung"]]
+  },
+  {
+    "lemma": "balsa",
+    "meanings_de": ["leichtes Holzmaterial"],
+    "definitions_de": ["sehr leichtes Holz von tropischen Bäumen, verwendet für Modelle und Flöße"],
+    "examples_de": [["Er baute Modellflugzeuge aus **Balsaholz**platten", "Das Floß wurde aus **Balsa**stämmen gebaut"]]
+  },
+  {
+    "lemma": "balsam",
+    "meanings_de": ["aromatisches Baumharz", "blühende Gartenpflanze"],
+    "definitions_de": ["duftendes Harz von bestimmten Bäumen, verwendet in Medikamenten und Parfüms", "Pflanze mit bunten Blüten, die in Gärten und Behältern gezüchtet wird"],
+    "examples_de": [["Das Medikament enthielt **Balsam** wegen seiner heilenden Eigenschaften", "**Balsam**tannen produzieren aromatisches Harz"], ["Sie pflanzte **Springkraut** entlang der Gartengrenze", "Das **Balsaminengewächs** blühte in Rosa- und Weißtönen"]]
+  },
+  {
+    "lemma": "balustrade",
+    "meanings_de": ["verziertes Geländer"],
+    "definitions_de": ["Reihe von Balustern mit Handlauf entlang der Kante von Balkon, Brücke oder Treppe für Sicherheit und Dekoration"],
+    "examples_de": [["Die Marmor**balustrade** umgab die große Treppe", "Sie lehnte sich an die **Balustrade** mit Blick auf den Garten"]]
+  },
+  {
+    "lemma": "bam",
+    "meanings_de": ["lauter Aufprallklang"],
+    "definitions_de": ["plötzliches lautes Geräusch von einem harten Schlag oder einer Explosion"],
+    "examples_de": [["Die Tür schlug mit einem lauten **Knall** zu", "Wir hörten einen **Krach**, als das Auto eine Fehlzündung hatte"]]
+  },
+  {
+    "lemma": "bamboo",
+    "meanings_de": ["hohes Graspflanze"],
+    "definitions_de": ["riesiges holziges Gras, das in tropischen Regionen wächst und zum Bauen verwendet wird"],
+    "examples_de": [["Die Pandabären fressen ausschließlich **Bambus**sprossen", "Sie bauten Möbel aus nachhaltigem **Bambus**holz"]]
+  },
+  {
+    "lemma": "banality",
+    "meanings_de": ["langweilige Gewöhnlichkeit"],
+    "definitions_de": ["Eigenschaft, langweilig, vorhersehbar und ohne Originalität oder Interesse zu sein"],
+    "examples_de": [["Die **Banalität** des Films machte es schwer, ihn anzuschauen", "Er war müde von der **Belanglosigkeit** des Büro-Smalltalks"]]
+  },
+  {
+    "lemma": "bandage",
+    "meanings_de": ["Wundverband"],
+    "definitions_de": ["Materialstreifen zum Verbinden von Wunden oder Verletzungen"],
+    "examples_de": [["Die Krankenschwester legte einen sauberen **Verband** auf den Schnitt", "Er wickelte seinen verstauchten Knöchel mit einer elastischen **Bandage** ein"]]
+  },
+  {
+    "lemma": "bandana",
+    "meanings_de": ["gemustertes Tuch"],
+    "definitions_de": ["großes farbiges Taschentuch oder quadratisches Tuch, das auf Kopf oder Hals getragen wird"],
+    "examples_de": [["Er trug ein rotes **Halstuch**, um den Schweiß fernzuhalten", "Der Cowboy band ein **Bandana** um seinen Hals"]]
+  },
+  {
+    "lemma": "banding",
+    "meanings_de": ["Streifenmuster", "Gruppierungssystem"],
+    "definitions_de": ["Muster aus Streifen oder Bändern bei Tieren, Gesteinen oder Objekten", "System der Organisation von Dingen in Gruppen basierend auf ähnlichen Eigenschaften"],
+    "examples_de": [["Die **Streifung** des Zebras bietet natürliche Tarnung", "Gesteins**bänderung** zeigt verschiedene geologische Perioden"], ["Gehalts**einstufung** hilft, die Mitarbeitervergütung fair zu strukturieren", "Die Schule verwendet Leistungs**gruppierung** für Mathematikklassen"]]
+  },
+  {
+    "lemma": "bandit",
+    "meanings_de": ["bewaffneter Räuber"],
+    "definitions_de": ["Person, die Reisende ausraubt oder stiehlt, besonders als Mitglied einer Bande"],
+    "examples_de": [["Der **Bandit** überfiel die Postkutsche mit vorgehaltener Waffe", "Die Polizei fasste die **Räuber** nach dem Banküberfall"]]
+  },
+  {
+    "lemma": "banditry",
+    "meanings_de": ["Räuberei"],
+    "definitions_de": ["Praxis oder Handlungen von Banditen einschließlich Raub und gesetzloser Gewalt"],
+    "examples_de": [["**Wegelagerei** plagte die Bergstraßen in früheren Zeiten", "Die Regierung ging hart gegen Autobahn**räuberei** vor"]]
+  },
+  {
+    "lemma": "bandleader",
+    "meanings_de": ["Kapellmeister"],
+    "definitions_de": ["Person, die eine Musikband während Aufführungen leitet und dirigiert"],
+    "examples_de": [["Der **Bandleader** zählte vor jedem Song ein", "Duke Ellington war ein berühmter Jazz-**Bandleader**"]]
+  },
+  {
+    "lemma": "bandstand",
+    "meanings_de": ["Musikpavillon"],
+    "definitions_de": ["überdachte Plattform für eine Band, um im Freien Musik aufzuführen, oft in Parks"],
+    "examples_de": [["Die Blaskapelle spielte vom viktorianischen **Musikpavillon**", "Sommerkonzerte finden wöchentlich am Park**pavillon** statt"]]
+  }
+]

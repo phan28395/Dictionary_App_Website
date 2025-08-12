@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "awkward",
+    "meanings_de": ["körperlich ungeschickt", "sozial unangenehm", "schwer zu handhaben"],
+    "definitions_de": ["sich unbeholfen oder linkisch bewegend, ohne Anmut oder Geschicklichkeit in der körperlichen Koordination", "ein Gefühl von Peinlichkeit oder Unbehagen in sozialen Situationen hervorrufend oder empfindend, oft durch unpassendes Verhalten", "unpraktisch oder umständlich in der Benutzung, Handhabung oder Verwaltung, sodass zusätzlicher Aufwand erforderlich ist"],
+    "examples_de": [["Seine **unbeholfenen** Bewegungen machten das Tanzen zur Herausforderung", "Der **schwerfällige** Gang des Verletzten erregte Mitleid"], ["Nach ihrer Bemerkung entstand eine **peinliche** Stille im Raum", "Die **unangenehme** Begegnung mit dem Ex-Partner verdirbt mir jede Party"], ["Das **sperrige** Möbelstück passte kaum durch die Tür", "Diese **unhandliche** Verpackung lässt sich nur schwer öffnen"]]
+  },
+  {
+    "lemma": "suburban",
+    "meanings_de": ["vorstädtisch", "typisch für Vororte"],
+    "definitions_de": ["die Wohngebiete am Stadtrand betreffend oder dort gelegen, die sich durch Einfamilienhäuser und Grünflächen auszeichnen", "die charakteristischen Eigenschaften des Lebens in Vororten aufweisend, oft verbunden mit bürgerlichen Werten und Lebensstilen"],
+    "examples_de": [["Sie zogen in eine **vorstädtische** Siedlung mit guten Schulen", "Die **suburbane** S-Bahn verbindet das Zentrum mit den Wohngebieten"], ["Ihr **vorstädtisches** Leben bestand aus Rasenmähen und Grillfesten", "Der Film zeigt das typisch **kleinstädtische** Milieu der Vorstädte"]]
+  },
+  {
+    "lemma": "casual",
+    "meanings_de": ["ungezwungen und locker", "gelegentlich oder unregelmäßig", "gleichgültig wirkend"],
+    "definitions_de": ["entspannt und ungezwungen in Verhalten, Stil oder Kleidung, ohne förmliche Zwänge oder steife Etikette", "zufällig oder ohne feste Regelmäßigkeit geschehend, nicht dauerhaft oder verbindlich in der Natur", "wenig Interesse, Sorge oder Verbindlichkeit für etwas zeigend, oft oberflächlich oder beiläufig wirkend"],
+    "examples_de": [["Sie trug **legere** Kleidung zum Wochenendtreffen", "Das Restaurant hat eine **ungezwungene** Atmosphäre für Familien"], ["Sie pflegen eine **lockere** Freundschaft mit gelegentlichen Treffen", "Er macht **gelegentliche** Arbeiten, wenn er Geld braucht"], ["Seine **lässige** Einstellung zu Terminen frustrierte die Kollegen", "Sie machte eine **beiläufige** Bemerkung über ihren Jobwechsel"]]
+  },
+  {
+    "lemma": "clever",
+    "meanings_de": ["geistig geschickt", "raffiniert konstruiert"],
+    "definitions_de": ["schnell im Verstehen und Lernen, mit der Fähigkeit, Ideen intelligent zu entwickeln und anzuwenden, dabei oft originelle Lösungen findend", "Einfallsreichtum, Originalität oder besonderes Geschick in Design, Konstruktion oder Ausführung zeigend"],
+    "examples_de": [["Die **kluge** Schülerin löste das Rätsel als Erste", "Sie hat immer **gescheite** Antworten auf schwierige Fragen"], ["Der Architekt fand eine **raffinierte** Lösung für den begrenzten Raum", "Das ist ein **ausgeklügeltes** Werkzeug zum Öffnen störrischer Gläser"]]
+  },
+  {
+    "lemma": "revolutionary",
+    "meanings_de": ["radikal neu", "die Revolution betreffend"],
+    "definitions_de": ["eine vollständige oder dramatische Veränderung bestehender Methoden, Ideen oder Systeme bewirkend oder beinhaltend, oft bahnbrechend", "sich auf politische Revolutionen beziehend oder diese unterstützend, die etablierte Regierungssysteme stürzen wollen"],
+    "examples_de": [["Das Smartphone war ein **revolutionäres** Gerät für die Kommunikation", "Ihr **bahnbrechender** Lehransatz veränderte den Unterricht grundlegend"], ["Die **revolutionären** Kräfte kämpften gegen das Regime", "Er studierte **revolutionäre** Bewegungen in Lateinamerika"]]
+  },
+  {
+    "lemma": "full-time",
+    "meanings_de": ["vollzeitlich", "gänzlich verpflichtend"],
+    "definitions_de": ["die komplette Anzahl von Arbeitsstunden umfassend, die als normal für eine Beschäftigung angesehen werden", "die vollständige Hingabe von Zeit und Energie für eine Tätigkeit erfordernd oder beinhaltend"],
+    "examples_de": [["Sie nahm eine **Vollzeitstelle** in der Marketingfirma an", "Das Unternehmen bietet allen **vollzeitbeschäftigten** Mitarbeitern Zusatzleistungen"], ["Elternsein ist eine **Vollzeitaufgabe** ohne Pause", "Die Projektleitung wurde zu einem **Vollzeitjob** für sie"]]
+  },
+  {
+    "lemma": "diplomatic",
+    "meanings_de": ["die Diplomatie betreffend", "taktvoll im Umgang"],
+    "definitions_de": ["den Beruf, die Tätigkeit oder die Fähigkeit betreffend, internationale Beziehungen zwischen Ländern zu gestalten und zu pflegen", "Geschick im Umgang mit anderen zeigend, ohne Anstoß zu erregen, dabei oft schwierige Situationen geschickt meisternd"],
+    "examples_de": [["Die **diplomatische** Mission verhandelte eine friedliche Lösung", "Sie verfolgte eine **diplomatische** Laufbahn im Auswärtigen Dienst"], ["Seine **diplomatische** Antwort vermied eine Eskalation des Konflikts", "Ein **taktvoller** Ansatz funktioniert besser als direkte Konfrontation"]]
+  },
+  {
+    "lemma": "continuing",
+    "meanings_de": ["fortlaufend ohne Unterbrechung", "sich weiter erstreckend"],
+    "definitions_de": ["ohne Unterbrechung oder Beendigung über einen Zeitraum hinweg geschehend oder existierend", "sich in Zeit, Raum oder Entwicklung weiter ausdehnend oder fortsetzend"],
+    "examples_de": [["Die **anhaltende** Dürre hat die Ernteerträge stark beeinträchtigt", "Es besteht ein **fortdauernder** Bedarf an bezahlbarem Wohnraum"], ["Ihre **fortlaufende** Weiterbildung umfasst Abendkurse in BWL", "Die **fortgesetzte** Geschichte wird in der nächsten Staffel enthüllt"]]
+  },
+  {
+    "lemma": "electoral",
+    "meanings_de": ["wahlbezogen"],
+    "definitions_de": ["Wahlen oder den Prozess der Wahl von Vertretern durch Abstimmung betreffend"],
+    "examples_de": [["Das **Wahlsystem** bestimmt, wie Stimmen in Sitze umgewandelt werden", "Die Reform der Wahlkampffinanzierung betrifft die **Wahlintegrität**"], ["**Wahlkreise** werden alle zehn Jahre nach der Volkszählung neu eingeteilt", "Die **Wahlstrategie** der Partei konzentrierte sich auf umkämpfte Bezirke"]]
+  },
+  {
+    "lemma": "hurt",
+    "meanings_de": ["körperlich verletzt", "emotional verwundet"],
+    "definitions_de": ["an einer körperlichen Verletzung, Beschädigung oder Schmerzen im Körper leidend", "emotionalen Schmerz, Kummer oder psychische Verletzungen durch Worte oder Handlungen erfahrend"],
+    "examples_de": [["Der **verletzte** Sportler konnte das Spiel nicht fortsetzen", "Mein **schmerzender** Knöchel braucht Eis und Ruhe zum Heilen"], ["Sie fühlte sich durch seine gedankenlosen Kommentare **verletzt**", "Der **gekränkte** Ausdruck in seinem Gesicht zeigte tiefe Enttäuschung"]]
+  },
+  {
+    "lemma": "olive",
+    "meanings_de": ["graugrüne Farbe", "Oliven betreffend"],
+    "definitions_de": ["eine mattgrüne Farbe mit gelblichem oder gräulichem Einschlag habend, wie die unreifer Oliven", "sich auf die ovale Frucht des Olivenbaums beziehend oder daraus hergestellt"],
+    "examples_de": [["Sie trug eine **olivfarbene** Jacke, die zu ihren Augen passte", "Die Wände waren in einem dezenten **olivgrünen** Ton gestrichen"], ["Das **Olivenöl** stammt aus erster Kaltpressung", "Sie servierten **Oliventapenade** mit frischem Brot"]]
+  },
+  {
+    "lemma": "abstract",
+    "meanings_de": ["theoretisch nicht konkret", "Kunst ohne Gegenständlichkeit"],
+    "definitions_de": ["im Denken oder als Idee existierend, aber keine physische Existenz habend, oft schwer greifbar", "sich auf Kunst beziehend, die Formen und Farben statt realistischer Darstellung verwendet"],
+    "examples_de": [["Liebe ist ein **abstraktes** Konzept, das schwer zu definieren ist", "Der Philosoph beschäftigte sich mit **abstrakten** Fragen der Existenz"], ["Die Galerie zeigte **abstrakte** Gemälde mit kühnen geometrischen Formen", "Ihre **abstrakten** Skulpturen forderten traditionelle Kunstgrenzen heraus"]]
+  },
+  {
+    "lemma": "coming",
+    "meanings_de": ["zeitlich nahend", "bald ankommend"],
+    "definitions_de": ["in naher Zukunft oder in der nächsten Periode geschehend oder eintretend", "dabei seiend, an einem Ort oder einer Position anzukommen oder zu erscheinen"],
+    "examples_de": [["Der **kommende** Winter wird voraussichtlich hart werden", "Sie bereitet sich auf die **anstehende** Prüfung nächste Woche vor"], ["Der **einfahrende** Zug kommt auf Gleis drei an", "Achten Sie auf **herannahenden** Verkehr vor dem Überqueren"]]
+  },
+  {
+    "lemma": "improved",
+    "meanings_de": ["verbessert", "qualitativ gesteigert"],
+    "definitions_de": ["in Qualität, Zustand oder Leistung besser gemacht als zuvor", "weiterentwickelt oder aufgewertet, um einen höheren Standard oder größere Wirksamkeit zu erreichen"],
+    "examples_de": [["Das **verbesserte** Rezept verwendet weniger Zucker, schmeckt aber besser", "Seine **gesteigerten** Noten brachten ihm ein Stipendium ein"], ["Die **ausgebaute** Autobahn reduziert die Fahrzeit um dreißig Minuten", "Sie zeigte **gestärktes** Selbstvertrauen nach monatelangem Training"]]
+  },
+  {
+    "lemma": "innovative",
+    "meanings_de": ["neue Ideen einführend", "kreativ und originell"],
+    "definitions_de": ["neue Methoden, Ideen oder Produkte aufweisend, die von traditionellen Ansätzen abweichen und oft Durchbrüche darstellen", "Kreativität und originelles Denken bei der Entwicklung von Lösungen oder Konzepten zeigend"],
+    "examples_de": [["Die **innovative** Technologie des Unternehmens revolutionierte Smartphone-Batterien", "Ihre **innovativen** Lehrmethoden binden Schüler effektiver ein"], ["Sie ist für **einfallsreiche** Designs bekannt, die Modenormen herausfordern", "Das **kreative** Menü des Kochs kombiniert unerwartete Geschmacksprofile"]]
+  },
+  {
+    "lemma": "demographic",
+    "meanings_de": ["bevölkerungsstatistisch"],
+    "definitions_de": ["die Struktur und Merkmale menschlicher Bevölkerungen und ihrer Segmente betreffend"],
+    "examples_de": [["**Demografische** Daten zeigen eine alternde Bevölkerung in ländlichen Gebieten", "Das Marketingteam analysierte **demografische** Trends für die Produktentwicklung"], ["Verschiedene **demografische** Gruppen haben unterschiedliche Gesundheitsbedürfnisse", "Die Umfrage erfasste **demografische** Informationen wie Alter und Einkommen"]]
+  },
+  {
+    "lemma": "unfair",
+    "meanings_de": ["nicht gerecht", "regelwidrig"],
+    "definitions_de": ["nicht auf Prinzipien der Gerechtigkeit oder Gleichheit basierend oder danach handelnd", "etablierte Regeln, Standards oder vernünftige Erwartungen nicht befolgend oder respektierend"],
+    "examples_de": [["Die **ungerechte** Verteilung von Ressourcen schuf soziale Spannungen", "Es ist **unfair**, ihn für Umstände zu beschuldigen, die er nicht kontrolliert"], ["Der Schiedsrichter ahndete einen **unfairen** Vorteil während des Spiels", "Insiderinformationen geben Händlern einen **unlauteren** Vorteil"]]
+  },
+  {
+    "lemma": "tragic",
+    "meanings_de": ["äußerst traurig", "die Tragödie betreffend"],
+    "definitions_de": ["extremen Kummer, Leid oder unglückliche Folgen verursachend oder davon gekennzeichnet", "sich auf Dramen beziehend, die tragische Ereignisse und unglückliche Ausgänge behandeln"],
+    "examples_de": [["Der **tragische** Unfall forderte gestern drei junge Leben", "Es ist **tragisch**, wenn Naturkatastrophen ganze Gemeinden zerstören"], ["Shakespeare schrieb viele **tragische** Stücke über zum Scheitern verurteilte Helden", "Das **tragische** Ende ließ das Publikum in Tränen zurück"]]
+  },
+  {
+    "lemma": "faster",
+    "meanings_de": ["höhere Geschwindigkeit", "schneller erledigt"],
+    "definitions_de": ["sich mit höherer Geschwindigkeit als etwas anderes bewegend oder dazu fähig", "in weniger Zeit als etwas anderes geschehend, getan oder vollbracht"],
+    "examples_de": [["Der neue Prozessor ist **schneller** als frühere Generationen", "Geparden sind **schnellere** Läufer als alle anderen Landtiere"], ["Diese Route ist während der Hauptverkehrszeit **schneller**", "Digitale Zahlungen sind **schneller** als Schecks ausstellen"]]
+  },
+  {
+    "lemma": "gorgeous",
+    "meanings_de": ["außerordentlich schön", "sehr angenehm"],
+    "definitions_de": ["außerordentlich schön, attraktiv oder prächtig im Aussehen für die Augen", "sehr angenehm, erfreulich oder ausgezeichnet in Qualität oder Charakter"],
+    "examples_de": [["Die Braut sah in ihrem Hochzeitskleid **umwerfend** aus", "Der Sonnenuntergang schuf **herrliche** Farben am Himmel"], ["Wir hatten **prächtiges** Wetter für das Freiluftkonzert", "Das Hotelzimmer hatte eine **traumhafte** Aussicht auf die Berge"]]
+  },
+  {
+    "lemma": "residential",
+    "meanings_de": ["zum Wohnen bestimmt", "Bewohner betreffend"],
+    "definitions_de": ["für das Wohnen von Menschen konzipiert statt für Geschäfte oder Industrie", "sich auf Unterkünfte beziehend oder solche bereitstellend, wo Menschen für längere Zeit wohnen"],
+    "examples_de": [["Das **Wohngebiet** hat Parks und ruhige, von Bäumen gesäumte Straßen", "Neue **Wohngebäude** müssen aktuelle Sicherheitsvorschriften erfüllen"], ["Die **stationäre** Behandlungseinrichtung hilft Jugendlichen mit Suchtproblemen", "Studenten wohnen im ersten Jahr in **Studentenwohnheimen**"]]
+  },
+  {
+    "lemma": "passing",
+    "meanings_de": ["vorbeigehend", "vorübergehend", "ausreichend zum Bestehen"],
+    "definitions_de": ["an etwas oder jemandem im Raum vorbeigehend oder sich vorbeibewegend", "nur für kurze Zeit dauernd oder nicht von dauerhafter Natur", "den minimal akzeptablen Standard oder die Note in einem Test erreichend"],
+    "examples_de": [["Die **vorbeifahrenden** Autos verursachten die ganze Nacht Lärm", "Sie winkte **vorübergehenden** Fremden während ihres Morgenspaziergangs zu"], ["Er empfand nur **flüchtiges** Interesse an dem Thema", "Die **verstreichenden** Jahre hatten seine harten Meinungen gemildert"], ["Sie erhielt eine **ausreichende** Note in der schwierigen Prüfung", "Die Arbeit erfüllt die **Mindeststandards**, muss aber verbessert werden"]]
+  },
+  {
+    "lemma": "instructional",
+    "meanings_de": ["für den Unterricht konzipiert"],
+    "definitions_de": ["für den Einsatz im Unterricht, in der Bildung oder zur Vermittlung von Anweisungen konzipiert oder bestimmt"],
+    "examples_de": [["Das **Lehrvideo** demonstrierte die Sicherheitsverfahren deutlich", "Lehrer brauchen Zugang zu hochwertigen **Unterrichtsmaterialien**"], ["Das Museum bietet **Bildungsprogramme** für Schulgruppen an", "Sie schreibt **Anleitungen** für komplexe Softwareanwendungen"]]
+  },
+  {
+    "lemma": "neutral",
+    "meanings_de": ["keine Partei ergreifend", "ohne Ladung", "charakterlos"],
+    "definitions_de": ["keine Seite in einem Konflikt oder einer Meinungsverschiedenheit unterstützend oder helfend", "keine elektrische Ladung habend oder chemisch weder sauer noch alkalisch", "keine stark ausgeprägten Merkmale, Eigenschaften oder emotionalen Qualitäten habend"],
+    "examples_de": [["Die Schweiz blieb in beiden Weltkriegen **neutral**", "Der Vermittler muss zwischen den Streitparteien **neutral** bleiben"], ["Die Lösung hat einen **neutralen** pH-Wert von sieben", "**Neutrale** Atome haben gleich viele Protonen und Elektronen"], ["Sie wählte **neutrale** Farben für die Büroeinrichtung", "Sein **neutraler** Gesichtsausdruck verriet nichts über seine Gedanken"]]
+  },
+  {
+    "lemma": "combined",
+    "meanings_de": ["zusammengefügt", "vereint in Aktion"],
+    "definitions_de": ["zusammengebracht oder verschmolzen, um eine einzige Einheit oder Substanz zu bilden", "die gemeinsame Handlung oder Anstrengung von zwei oder mehr Einheiten beinhaltend"],
+    "examples_de": [["Die **kombinierten** Zutaten ergaben einen köstlichen neuen Geschmack", "Ihre **zusammengelegten** Ersparnisse reichten endlich für die Hausanzahlung"], ["Die **vereinten** Kräfte beider Armeen überwältigten den Feind", "Eine **gemeinsame** Anstrengung aller Abteilungen löste das Problem"]]
+  },
+  {
+    "lemma": "beloved",
+    "meanings_de": ["innig geliebt", "geliebte Person"],
+    "definitions_de": ["innig geliebt, geschätzt oder in tiefer Zuneigung von jemandem gehalten", "eine Person beschreibend, die von jemandem sehr geliebt oder teuer ist"],
+    "examples_de": [["Ihre **geliebte** Großmutter verstarb letzten Frühling friedlich", "Das **geliebte** Haustier der Familie brachte jahrelang Freude"], ["Er schrieb während ihrer Verlobung Gedichte an seine **Geliebte**", "Die Nation trauerte um den plötzlichen Tod ihres **verehrten** Führers"]]
+  },
+  {
+    "lemma": "alien",
+    "meanings_de": ["fremd oder unvertraut", "außerirdisches Wesen"],
+    "definitions_de": ["zu einem fremden Land oder einer fremden Nation gehörend und seltsam erscheinend", "sich auf Wesen aus anderen Welten oder dem Weltraum beziehend oder diese bezeichnend"],
+    "examples_de": [["Die **fremden** Bräuche verwirrten die neu angekommenen Einwanderer", "Dieses Konzept wirkt **fremd** auf unsere Denkweise"], ["Science-Fiction-Filme zeigen oft **außerirdische** Invasionen aus dem All", "Die mysteriösen Signale könnten auf **außerirdische** Intelligenz hinweisen"]]
+  },
+  {
+    "lemma": "required",
+    "meanings_de": ["benötigt oder verlangt", "offiziell vorgeschrieben"],
+    "definitions_de": ["für einen bestimmten Zweck oder eine Situation benötigt oder notwendig, um zu funktionieren", "offiziell verpflichtend oder durch Regeln, Gesetze oder Vorschriften gefordert"],
+    "examples_de": [["Das Rezept listet alle **benötigten** Zutaten für den Kuchen auf", "Erfahrung ist für diese Führungsposition **erforderlich**"], ["Studenten müssen alle **vorgeschriebenen** Kurse vor dem Abschluss absolvieren", "Die **erforderlichen** Unterlagen umfassen Geburtsurkunde und Reisepass"]]
+  },
+  {
+    "lemma": "racist",
+    "meanings_de": ["rassistische Vorurteile zeigend", "Rassendiskriminierung fördernd"],
+    "definitions_de": ["Vorurteile, Diskriminierung oder Feindseligkeit gegen Rassengruppen zeigend oder davon gekennzeichnet", "den Glauben unterstützend oder darauf basierend, dass Rassen unterschiedliche Merkmale haben, die Überlegenheit bestimmen"],
+    "examples_de": [["Seine **rassistischen** Kommentare beleidigten alle bei der Versammlung", "Das Unternehmen entließ Mitarbeiter wegen **rassistischen** Verhaltens"], ["Die **rassistischen** Richtlinien schlossen Minderheiten vom Wahlrecht aus", "Historische **rassistische** Gesetze schufen anhaltende soziale Ungleichheiten"]]
+  },
+  {
+    "lemma": "anxious",
+    "meanings_de": ["besorgt fühlend", "begierig darauf"],
+    "definitions_de": ["Sorge, Unruhe oder Nervosität über etwas mit ungewissem Ausgang empfindend", "etwas sehr wollend und begierig oder ungeduldig darauf"],
+    "examples_de": [["Sie fühlte sich **ängstlich** wegen des bevorstehenden Vorstellungsgesprächs", "Die **besorgten** Eltern warteten auf Nachrichten aus dem Krankenhaus"], ["Die Kinder waren **begierig** darauf, ihre Geburtstagsgeschenke zu öffnen", "Er ist **gespannt** darauf, seine neue Position nächsten Monat anzutreten"]]
+  },
+  {
+    "lemma": "awake",
+    "meanings_de": ["nicht schlafend", "aufmerksam und bewusst"],
+    "definitions_de": ["nicht schlafend und sich seiner Umgebung im Moment bewusst", "vollständig bewusst, aufmerksam und sich etwas Wichtigem oder Bedeutsamem bewusst"],
+    "examples_de": [["Das Baby hielt uns die ganze Nacht mit Weinen **wach**", "Sie lag **wach** und dachte über die morgige Präsentation nach"], ["Die Bürger müssen **wachsam** gegenüber Bedrohungen der Demokratie bleiben", "Die Dokumentation hielt die Zuschauer für Umweltprobleme **sensibilisiert**"]]
+  },
+  {
+    "lemma": "level",
+    "meanings_de": ["flach und eben", "gleich in Position"],
+    "definitions_de": ["eine flache, glatte Oberfläche ohne Neigungen, Unebenheiten oder Vertiefungen habend", "die gleiche Höhe, Position oder den gleichen Wert wie etwas anderes habend"],
+    "examples_de": [["Der Zimmermann stellte sicher, dass der Boden perfekt **eben** war", "Man braucht **ebenen** Boden, um ein Zelt richtig aufzustellen"], ["Ihre Punkte blieben während des Wettbewerbs **gleichauf**", "Halten Sie den Bilderrahmen **auf gleicher Höhe** mit dem Fenstersims"]]
+  },
+  {
+    "lemma": "tribal",
+    "meanings_de": ["Stämme betreffend", "Gruppenloyalität zeigend"],
+    "definitions_de": ["sich auf einen Stamm oder Stämme und deren Organisation beziehend oder charakteristisch dafür", "starke Loyalität zur eigenen sozialen Gruppe über die breitere Gesellschaft hinaus zeigend"],
+    "examples_de": [["**Stammesgebräuche** wurden über viele Generationen bewahrt", "Das Museum zeigt wunderschöne **Stammeskunst** aus Afrika"], ["Der politische Diskurs ist zunehmend **stammesartig** und polarisiert geworden", "Ihre **Stammesmentalität** verhindert die Zusammenarbeit mit anderen Abteilungen"]]
+  },
+  {
+    "lemma": "protective",
+    "meanings_de": ["Schutz bietend", "Fürsorge zeigend"],
+    "definitions_de": ["entworfen oder dienend, um jemanden oder etwas vor Schaden oder Beschädigung zu schützen", "einen starken Wunsch habend oder zeigend, jemanden vor Schaden zu bewahren"],
+    "examples_de": [["Arbeiter müssen **Schutzausrüstung** in der Fabrik tragen", "Die **schützende** Beschichtung verhindert Rost auf Metalloberflächen"], ["Sie ist sehr **fürsorglich** gegenüber ihren jüngeren Geschwistern", "Seine **beschützenden** Instinkte erwachten, als Gefahr nahte"]]
+  },
+  {
+    "lemma": "minimal",
+    "meanings_de": ["kleinstmögliche Menge", "kaum ausreichend"],
+    "definitions_de": ["von der geringst möglichen Menge, dem Ausmaß oder Grad in Größe oder Bedeutung", "kaum angemessen oder das Geringste, was für einen Zweck benötigt wird"],
+    "examples_de": [["Der Sturm verursachte **minimale** Schäden am Gebäude", "Sie bevorzugt **minimales** Make-up für einen natürlichen Look"], ["Er leistete **minimale** Arbeit, um den Kurs zu bestehen", "Die Anweisungen erfordern **minimale** technische Kenntnisse"]]
+  },
+  {
+    "lemma": "supportive",
+    "meanings_de": ["Unterstützung bietend", "Ermutigung zeigend"],
+    "definitions_de": ["Hilfe, Unterstützung oder strukturelle Stütze bereitstellend, um etwas zu erhalten oder zu stärken", "Ermutigung, emotionale Hilfe und Verständnis für jemanden zeigend"],
+    "examples_de": [["Die **tragenden** Balken halten die gesamte Dachkonstruktion", "Bequeme Schuhe bieten **stützende** Polsterung für Ihre Füße"], ["Ihre **unterstützenden** Freunde halfen während der schwierigen Scheidung", "Ein **förderliches** Arbeitsumfeld verbessert die Mitarbeiterzufriedenheit"]]
+  },
+  {
+    "lemma": "sole",
+    "meanings_de": ["einzig", "exklusiv für einen"],
+    "definitions_de": ["das einzige seiner Art seiend oder das einzige Vorhandene", "ausschließlich einer Person oder Gruppe gehörend oder darauf beschränkt"],
+    "examples_de": [["Sie war die **einzige** Überlebende des Flugzeugabsturzes", "Sein **einziger** Fokus liegt auf dem Abschluss des Marathons"], ["Das Unternehmen hat **alleinige** Vertriebsrechte in dieser Region", "Als **Alleinerbin** erbte sie das gesamte Vermögen"]]
+  },
+  {
+    "lemma": "monetary",
+    "meanings_de": ["das Geld betreffend"],
+    "definitions_de": ["sich auf Geld, Währung oder die Systeme beziehend, die Länder zur Verwaltung von Geld verwenden"],
+    "examples_de": [["Die Zentralbank passt die **Geldpolitik** an, um die Inflation zu kontrollieren", "Sie erzielten eine **finanzielle** Einigung außergerichtlich"], ["**Monetäre** Belohnungen motivieren manche Mitarbeiter mehr als Anerkennung", "Das Land stand während der Rezession vor einer **Währungskrise**"]]
+  },
+  {
+    "lemma": "shy",
+    "meanings_de": ["schüchtern mit anderen", "fehlend oder knapp"],
+    "definitions_de": ["nervös oder scheu in Gesellschaft anderer, besonders in sozialen Situationen", "weniger als die volle oder erwartete Menge von etwas habend"],
+    "examples_de": [["Das **schüchterne** Kind versteckte sich hinter den Beinen seiner Mutter", "Er ist zu **scheu**, um während Besprechungen zu sprechen"], ["Uns fehlen noch drei Freiwillige für die Veranstaltung", "Die Summe war fünfzig Dollar zu **wenig**"]]
+  },
+  {
+    "lemma": "influential",
+    "meanings_de": ["großen Einfluss habend"],
+    "definitions_de": ["großen Einfluss auf jemanden oder etwas durch Macht, Autorität oder Überzeugung habend"],
+    "examples_de": [["Sie wurde eine **einflussreiche** Stimme in der Umweltpolitik", "Die **einflussreiche** Zeitung prägte die öffentliche Meinung erheblich"], ["Seine **einflussreichen** Verbindungen halfen, ihre Karriere zu starten", "Die Studie war **wegweisend** für die Änderung medizinischer Praktiken"]]
+  },
+  {
+    "lemma": "verbal",
+    "meanings_de": ["Wörter betreffend", "mündlich nicht schriftlich"],
+    "definitions_de": ["sich auf Wörter im allgemeinen Sprachgebrauch beziehend oder daraus bestehend", "in gesprochenen Worten statt schriftlich oder durch Handlungen kommuniziert"],
+    "examples_de": [["Ihre **sprachlichen** Fähigkeiten beeindruckten das Interviewgremium sehr", "Kinder entwickeln **verbale** Fähigkeiten in unterschiedlichem Tempo"], ["Sie trafen eine **mündliche** Vereinbarung zur Gewinnaufteilung", "Der Arzt gab **mündliche** Anweisungen zur Wundversorgung"]]
+  },
+  {
+    "lemma": "unfortunate",
+    "meanings_de": ["vom Pech verfolgt", "bedauerlicherweise unpassend"],
+    "definitions_de": ["von Unglück, unglücklichen Umständen oder nachteiligen Ergebnissen geprägt oder gekennzeichnet", "ungeeignet, unangemessen oder bedauerlich unter den gegebenen Umständen"],
+    "examples_de": [["Die **unglückliche** Familie verlor ihr Haus bei dem Brand", "Ein **unglücklicher** Unfall verzögerte die Hochzeitszeremonie"], ["Seine **unglückliche** Wortwahl beleidigte viele Zuhörer", "Es ist **bedauerlich**, dass wir nicht an Ihrer Feier teilnehmen können"]]
+  },
+  {
+    "lemma": "emerging",
+    "meanings_de": ["sichtbar werdend", "neu entstehend"],
+    "definitions_de": ["nach einer Zeit des Verborgen- oder Unbekanntseins sichtbar, bekannt oder prominent werdend", "im Prozess des Entstehens oder der Etablierung befindlich"],
+    "examples_de": [["Neue Beweise über die alte Zivilisation **kommen ans Licht**", "Das **entstehende** Muster deutet auf eine andere Schlussfolgerung hin"], ["Indien ist eine **aufstrebende** Wirtschaft mit schnellem Wachstum", "**Aufkommende** Technologien werden unsere Arbeitsweise transformieren"]]
+  },
+  {
+    "lemma": "worthy",
+    "meanings_de": ["Respekt verdienend", "ausreichend wertvoll"],
+    "definitions_de": ["Anstrengung, Aufmerksamkeit oder Respekt aufgrund guter Eigenschaften oder Bedeutung verdienend", "ausreichenden Wert, Verdienst oder Wert für eine bestimmte Sache habend"],
+    "examples_de": [["Sie erwies sich als **würdige** Nachfolgerin des Gründers", "Die Wohltätigkeitsorganisation unterstützt viele **förderungswürdige** Anliegen in der Bildung"], ["Dieser Vorschlag ist keiner ernsthaften Überlegung **würdig**", "Seine Leistung war der Goldmedaille **würdig**"]]
+  },
+  {
+    "lemma": "added",
+    "meanings_de": ["zusätzlich", "kürzlich hinzugefügt"],
+    "definitions_de": ["extra oder zusätzlich zu dem, was bereits existiert oder gezählt wurde", "kürzlich eingeschlossen, verbunden oder mit etwas kombiniert, das vorher existierte"],
+    "examples_de": [["Der **zugesetzte** Zucker macht dieses Müsli weniger gesund", "Es gibt einen **zusätzlichen** Aufpreis für Expresslieferung"], ["Die **hinzugefügten** Funktionen machen dieses Modell teurer", "Mit **zusätzlicher** Erfahrung wurde sie selbstbewusster"]]
+  },
+  {
+    "lemma": "delicate",
+    "meanings_de": ["leicht zerbrechlich", "behutsame Behandlung erfordernd", "fein und raffiniert"],
+    "definitions_de": ["aufgrund fragiler Konstruktion leicht zu brechen, zu beschädigen oder zu zerstören", "sorgfältige, sensible oder taktvolle Behandlung erfordernd, um Probleme zu vermeiden", "durch subtile und raffinierte Schönheit, Komplexität oder Präzision gekennzeichnet"],
+    "examples_de": [["Das **zerbrechliche** Glasornament zerbrach beim Herunterfallen", "Behandeln Sie diese **empfindliche** Elektronik mit äußerster Vorsicht"], ["Es ist eine **heikle** Situation, die diplomatisches Geschick erfordert", "Die Operation beinhaltet **filigrane** Arbeit in der Nähe lebenswichtiger Organe"], ["Sie hat **zarte** Gesichtszüge und Porzellanhaut", "Der Wein hat einen **feinen** Geschmack mit blumigen Noten"]]
+  },
+  {
+    "lemma": "hostile",
+    "meanings_de": ["Opposition zeigend", "hart und unwirtlich"],
+    "definitions_de": ["Opposition, Widerstand oder Unfreundlichkeit gegenüber jemandem zeigend oder fühlend", "harte, schwierige oder unwirtliche Bedingungen für Leben oder Aktivität schaffend"],
+    "examples_de": [["Die **feindselige** Menge schrie den unbeliebten Redner an", "Sie erhielt einen **feindlichen** Empfang bei der Versammlung"], ["Die **lebensfeindliche** Umgebung der Wüste fordert das Überleben heraus", "**Feindliche** Wetterbedingungen zwangen die Expedition zum Rückzug"]]
+  },
+  {
+    "lemma": "useless",
+    "meanings_de": ["keinen Zweck habend", "keine Ergebnisse erzielend"],
+    "definitions_de": ["keine Fähigkeit oder Fertigkeit habend, einem Zweck oder einer Funktion zu dienen", "den beabsichtigten Zweck oder das gewünschte Ergebnis nicht erreichend oder wahrscheinlich nicht erreichend"],
+    "examples_de": [["Dieses kaputte Werkzeug ist jetzt völlig **nutzlos**", "Die Karte war ohne Straßennamen **unbrauchbar**"], ["Sein Rat erwies sich als **nutzlos** bei der Lösung des Problems", "Es ist **sinnlos**, mit jemandem zu streiten, der so stur ist"]]
+  },
+  {
+    "lemma": "suspicious",
+    "meanings_de": ["Misstrauen fühlend", "Verdacht erregend"],
+    "definitions_de": ["vorsichtiges Misstrauen gegenüber jemandem oder etwas habend oder zeigend", "die Vorstellung hervorrufend, dass etwas nicht stimmt oder fragwürdig ist"],
+    "examples_de": [["Sie war **misstrauisch** gegenüber seiner plötzlichen Großzügigkeit", "Der Detektiv blieb trotz des Alibis **argwöhnisch**"], ["Das **verdächtige** Paket veranlasste eine Evakuierung", "Sein **verdächtiges** Verhalten zog die Aufmerksamkeit der Polizei auf sich"]]
+  },
+  {
+    "lemma": "rolling",
+    "meanings_de": ["durch Drehen bewegend", "sanfte Hügel habend"],
+    "definitions_de": ["sich vorwärts bewegend durch Drehen um eine Achse", "sanfte Erhebungen und Senkungen in der Landschaft wie Wellen habend"],
+    "examples_de": [["Der **rollende** Ball gewann bergab an Geschwindigkeit", "Rollen Sie den Teig weiter, bis er dünn genug ist"], ["Die **sanften Hügel** erstreckten sich meilenweit über die Landschaft", "Sie liebte die **wellige** Landschaft des ländlichen Englands"]]
+  }
+]

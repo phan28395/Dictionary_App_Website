@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "construction",
+    "meanings_de": ["Bauprozess", "Aufbaustruktur"],
+    "definitions_de": ["Prozess der Errichtung von Gebäuden, Straßen oder Brücken unter Verwendung von Materialien und Arbeitskräften", "Art und Weise, wie etwas angeordnet oder zusammengefügt wird, um ein vollständiges Ganzes zu bilden"],
+    "examples_de": [["Der **Bau** des neuen Krankenhauses wird zwei Jahre dauern", "Die **Bauarbeiter** begannen früh mit den Fundamentarbeiten"], ["Der sorgfältige **Aufbau** ihrer Argumentation überzeugte alle Anwesenden", "Die **Satzkonstruktion** in diesem Aufsatz bedarf erheblicher Verbesserungen"]]
+  },
+  {
+    "lemma": "wednesday",
+    "meanings_de": ["vierter Wochentag"],
+    "definitions_de": ["der Wochentag zwischen Dienstag und Donnerstag"],
+    "examples_de": [["Unsere Teambesprechungen finden immer **mittwochs** nachmittags statt", "Das Paket sollte spätestens am **Mittwoch** ankommen"]]
+  },
+  {
+    "lemma": "intervention",
+    "meanings_de": ["gezielte Einmischung", "medizinischer Eingriff"],
+    "definitions_de": ["Handlung, bei der man sich absichtlich in eine schwierige Situation einmischt, um sie zu verbessern oder eine Verschlechterung zu verhindern", "medizinische Behandlung, insbesondere eine Operation, die durchgeführt wird, um den Gesundheitszustand eines Patienten zu verbessern"],
+    "examples_de": [["Die frühzeitige **Intervention** der Lehrerin half dem schwachen Schüler enorm", "Die militärische **Intervention** in den Konflikt erwies sich als höchst umstritten"], ["Der chirurgische **Eingriff** rettete dem Patienten nach dem Unfall das Leben", "Eine frühe medizinische **Intervention** kann das Fortschreiten der Krankheit verhindern"]]
+  },
+  {
+    "lemma": "visit",
+    "meanings_de": ["vorübergehender Aufenthalt", "formelles Treffen"],
+    "definitions_de": ["Handlung, bei der man eine Person oder einen Ort für eine bestimmte Zeit aufsucht", "offizielles oder formelles Treffen mit jemandem zu geschäftlichen oder beruflichen Zwecken"],
+    "examples_de": [["Meine Großmutter freut sich über unsere wöchentlichen **Besuche** jeden Sonntag", "Ihr **Besuch** in Paris dauerte zwei wundervolle Wochen"], ["Der Arzt vereinbarte einen Nachfolge**termin** zur Kontrolle des Behandlungsfortschritts", "Der **Besuch** des Botschafters stärkte die diplomatischen Beziehungen"]]
+  },
+  {
+    "lemma": "coast",
+    "meanings_de": ["Küstengebiet"],
+    "definitions_de": ["Land entlang des Randes eines Ozeans, Meeres oder anderen großen Gewässers"],
+    "examples_de": [["Sie bauten ihr Ferienhaus in **Küstennähe** mit Meerblick", "Der Sturm zog schnell die **Ostküste** entlang und verursachte erhebliche Schäden"]]
+  },
+  {
+    "lemma": "cover",
+    "meanings_de": ["schützende Schicht", "Berichterstattung", "Deckung"],
+    "definitions_de": ["etwas, das zum Schutz über oder auf eine andere Sache gelegt wird", "Berichterstattung über Nachrichtenereignisse durch Journalisten oder Medienorganisationen", "Handlung des Versteckens oder Schützens von etwas oder jemandem vor Entdeckung oder Gefahr"],
+    "examples_de": [["Die Plastik**abdeckung** schützte die Möbel während der Renovierung", "Sie zog die **Bettdecke** in der kalten Nacht bis zum Kinn hoch"], ["Die **Berichterstattung** der Zeitung über die Wahl war gründlich und unvoreingenommen", "Die mediale **Berichterstattung** über den Skandal dauerte mehrere Wochen"], ["Die Soldaten suchten **Deckung** hinter der Mauer während des Feuergefechts", "Sein Alibi war nur eine **Tarnung** für seine illegalen Aktivitäten"]]
+  },
+  {
+    "lemma": "cop",
+    "meanings_de": ["Polizist"],
+    "definitions_de": ["umgangssprachlicher Begriff für einen Polizeibeamten, der Gesetze durchsetzt und die öffentliche Ordnung aufrechterhält"],
+    "examples_de": [["Der **Polizist** regelte routiniert den Verkehr um die Unfallstelle", "Ein freundlicher **Bulle** half dem verlorenen Kind, seine Eltern zu finden"]]
+  },
+  {
+    "lemma": "baseball",
+    "meanings_de": ["Mannschaftssport"],
+    "definitions_de": ["Sport, der zwischen zwei Mannschaften mit je neun Spielern gespielt wird, wobei ein Schläger und Ball auf einem rautenförmigen Feld verwendet werden"],
+    "examples_de": [["Die Kinder spielten jeden Samstagmorgen **Baseball** im Park", "**Baseball** wird seit Generationen als Amerikas Lieblingszeitvertreib bezeichnet"]]
+  },
+  {
+    "lemma": "email",
+    "meanings_de": ["elektronische Nachricht"],
+    "definitions_de": ["Nachricht, die elektronisch von einem Computerbenutzer über das Internet an einen anderen gesendet wird"],
+    "examples_de": [["Bitte schicken Sie mir bis Freitag eine **E-Mail** mit den Besprechungsdetails", "Sie überprüft ihre **E-Mails** jeden Morgen als Erstes bei der Arbeit"]]
+  },
+  {
+    "lemma": "accident",
+    "meanings_de": ["ungeplanter Vorfall"],
+    "definitions_de": ["unerwartetes und unerwünschtes Ereignis, insbesondere eines, das Schaden oder Verletzungen verursacht"],
+    "examples_de": [["Der Auto**unfall** auf der Autobahn verursachte erhebliche Verkehrsstörungen", "Sie zerbrach die Vase aus **Versehen** beim Abstauben des Regals"]]
+  },
+  {
+    "lemma": "front",
+    "meanings_de": ["vorderer Teil", "Wettergrenze", "Fassade"],
+    "definitions_de": ["Teil oder Seite von etwas, das nach vorne zeigt oder am auffälligsten ist", "Grenze zwischen zwei verschiedenen Luftmassen mit unterschiedlichen Temperaturen und Luftfeuchtigkeit", "falsches Erscheinungsbild oder Verhalten, das angenommen wird, um andere zu täuschen oder wahre Gefühle zu verbergen"],
+    "examples_de": [["Die **Vorderseite** des Gebäudes zeigt schöne architektonische Details", "Bitte stellen Sie sich nach Aufruf an den **Anfang** der Schlange"], ["Eine Kalt**front** bringt morgen Regen und kühlere Temperaturen", "Die Wetter**front** zog durch die Region und verursachte schwere Stürme"], ["Seine fröhliche Art war nur eine **Fassade**, um seine Enttäuschung zu verbergen", "Das legitime Geschäft diente als **Tarnung** für illegale Aktivitäten"]]
+  },
+  {
+    "lemma": "duty",
+    "meanings_de": ["moralische Verpflichtung", "zugewiesene Aufgabe"],
+    "definitions_de": ["moralische oder rechtliche Verpflichtung, etwas zu tun, weil es richtig oder erforderlich ist", "Aufgabe oder Handlung, die jemand als Teil seiner Arbeit ausführen muss"],
+    "examples_de": [["Eltern haben die **Pflicht**, für das Wohlergehen ihrer Kinder zu sorgen", "Bürger betrachten das Wählen als ihre Bürger**pflicht** in einer Demokratie"], ["Zu den **Aufgaben** des Sicherheitsdienstes gehören die Überwachung der Kameras und die Ausweiskontrolle", "Der Nacht**dienst** im Krankenhaus kann besonders herausfordernd sein"]]
+  },
+  {
+    "lemma": "revenue",
+    "meanings_de": ["erwirtschaftete Einnahmen"],
+    "definitions_de": ["Geld, das ein Unternehmen oder eine Organisation aus seinen normalen Aktivitäten oder Investitionen erhält"],
+    "examples_de": [["Der **Umsatz** des Unternehmens stieg in diesem Quartal um zwanzig Prozent", "Steuer**einnahmen** finanzieren wichtige staatliche Dienstleistungen und Infrastrukturprojekte"]]
+  },
+  {
+    "lemma": "trend",
+    "meanings_de": ["allgemeine Richtung", "beliebte Mode"],
+    "definitions_de": ["allgemeine Richtung, in die sich etwas im Laufe der Zeit entwickelt oder verändert", "aktueller Stil oder Vorliebe, die vorübergehend bei vielen Menschen beliebt ist"],
+    "examples_de": [["Der **Trend** zum Homeoffice beschleunigte sich während der Pandemie erheblich", "Wirtschaftliche **Trends** deuten auf weiteres Wachstum im Technologiesektor hin"], ["Mode**trends** ändern sich von einer Saison zur nächsten rapide", "Social-Media-Influencer setzen oft neue **Trends** bei jungen Menschen"]]
+  },
+  {
+    "lemma": "ring",
+    "meanings_de": ["kreisförmiges Band", "Klangsignal", "Kampfarena"],
+    "definitions_de": ["kreisförmiges Band, das am Finger getragen wird, oft aus Metall", "klarer, resonanter Ton, der von einer Glocke oder einem ähnlichen Objekt erzeugt wird", "umschlossener Bereich für Box- oder Ringkämpfe"],
+    "examples_de": [["Sie trug den Ehe**ring** ihrer Großmutter mit großem Stolz", "Der Diamant**ring** funkelte brillant im Sonnenlicht"], ["Das **Läuten** der Türklingel kündigte die Ankunft der Gäste an", "Der **Klingelton** ihres Telefons störte die ruhige Bibliotheksatmosphäre"], ["Der Boxer betrat den **Ring** unter tosendem Applaus der Fans", "Beide Ringer umkreisten sich vorsichtig im **Ring**"]]
+  },
+  {
+    "lemma": "breath",
+    "meanings_de": ["ein-/ausgeatmete Luft"],
+    "definitions_de": ["Luft, die während des Atmens in die Lunge aufgenommen oder aus ihr ausgestoßen wird"],
+    "examples_de": [["Sie holte tief **Luft**, bevor sie ins Schwimmbecken tauchte", "Sein **Atem** bildete kleine Wolken in der kalten Winterluft"]]
+  },
+  {
+    "lemma": "inch",
+    "meanings_de": ["Längeneinheit"],
+    "definitions_de": ["Längeneinheit, die einem Zwölftel eines Fußes oder 2,54 Zentimetern entspricht"],
+    "examples_de": [["Das Regal muss drei **Zoll** nach rechts verschoben werden", "Die starken Regenfälle summierten sich am Wochenende auf über sechs **Zoll**"]]
+  },
+  {
+    "lemma": "neck",
+    "meanings_de": ["Körperteil"],
+    "definitions_de": ["Körperteil, der den Kopf mit den Schultern und dem Rumpf verbindet"],
+    "examples_de": [["Sie trug einen schönen Schal um den **Hals** zum Wärmen", "Der lange **Hals** der Giraffe hilft ihr, Blätter in hohen Bäumen zu erreichen"]]
+  },
+  {
+    "lemma": "core",
+    "meanings_de": ["zentraler Teil", "wesentliches Element"],
+    "definitions_de": ["zentraler oder wichtigster Teil von etwas", "grundlegender und wichtigster Teil von etwas Abstraktem"],
+    "examples_de": [["Das **Kerngehäuse** des Apfels sollte in den Kompost geworfen werden", "Wissenschaftler untersuchen den Erd**kern**, um die Planetenbildung zu verstehen"], ["Ehrlichkeit und Integrität bilden den **Kern** ihrer persönlichen Werte", "Der **Kernlehrplan** umfasst Mathematik, Naturwissenschaften und Sprachen"]]
+  },
+  {
+    "lemma": "billion",
+    "meanings_de": ["große Zahl"],
+    "definitions_de": ["die Zahl eintausend Millionen, geschrieben als 1.000.000.000"],
+    "examples_de": [["Die Regierung stellte mehrere **Milliarden** Euro für Infrastrukturverbesserungen bereit", "Die Weltbevölkerung überschritt kürzlich acht **Milliarden** Menschen"]]
+  },
+  {
+    "lemma": "miss",
+    "meanings_de": ["Fehlschlag", "Verlustgefühl", "unverheiratete Frau"],
+    "definitions_de": ["Versäumnis, etwas zu treffen, zu erreichen, zu fangen oder Kontakt damit herzustellen", "Gefühl der Traurigkeit durch die Abwesenheit von jemandem oder etwas", "Titel, der vor dem Namen einer unverheirateten Frau oder eines Mädchens verwendet wird"],
+    "examples_de": [["Sein erster Schuss war ein **Fehlschuss**, aber der zweite traf das Ziel", "Der **Fehlschlag** des Schlagmanns beendete das Inning"], ["Ich **vermisse** meine Familie wirklich, wenn ich beruflich reise", "Die Kinder **vermissen** ihren Hund, der letzten Monat gestorben ist"], ["**Fräulein** Schmidt unterrichtet die dritte Klasse an der Grundschule", "Der Brief war an **Frau** Sarah Williams adressiert"]]
+  },
+  {
+    "lemma": "drink",
+    "meanings_de": ["flüssiges Getränk", "Alkoholkonsum"],
+    "definitions_de": ["Flüssigkeit, die als Erfrischung oder Nahrung geschluckt werden kann", "alkoholisches Getränk oder der Akt des Alkoholkonsums"],
+    "examples_de": [["Wasser ist das gesündeste **Getränk** für eine ausreichende Flüssigkeitszufuhr", "Das Restaurant bietet eine große Auswahl an heißen und kalten **Getränken**"], ["Sie gingen nach der Arbeit am Freitag auf ein paar **Drinks**", "Er beschloss, mit dem **Trinken** aufzuhören, nachdem er die negativen Auswirkungen erkannte"]]
+  },
+  {
+    "lemma": "literature",
+    "meanings_de": ["schriftliche Werke", "Informationsmaterial"],
+    "definitions_de": ["schriftliche Werke, insbesondere solche, die als künstlerisch oder intellektuell wertvoll angesehen werden", "gedrucktes Material, das Informationen über ein bestimmtes Thema oder Produkt liefert"],
+    "examples_de": [["Sie studierte vier Jahre lang englische **Literatur** an der Universität", "Klassische **Literatur** beeinflusst weiterhin moderne Schriftsteller und Leser"], ["Der Arzt stellte Informations**material** zur effektiven Diabetesbehandlung zu Hause bereit", "Werbe**broschüren** wurden am Messestand verteilt"]]
+  },
+  {
+    "lemma": "mayor",
+    "meanings_de": ["Stadtoberhaupt"],
+    "definitions_de": ["gewählter Leiter einer Stadt, Gemeinde oder kommunalen Regierung"],
+    "examples_de": [["Der **Bürgermeister** kündigte neue Initiativen zur Verringerung der Verkehrsstaus in der Innenstadt an", "Die Bürger füllten das Rathaus, um den **Bürgermeister** sprechen zu hören"]]
+  },
+  {
+    "lemma": "importance",
+    "meanings_de": ["bedeutsame Eigenschaft"],
+    "definitions_de": ["Eigenschaft, bedeutsam, wertvoll oder der Aufmerksamkeit und Beachtung würdig zu sein"],
+    "examples_de": [["Die **Wichtigkeit** regelmäßiger Bewegung für die Gesundheit kann nicht überbetont werden", "Sie betonte die **Bedeutung** des pünktlichen Erscheinens zum Vorstellungsgespräch"]]
+  },
+  {
+    "lemma": "danger",
+    "meanings_de": ["Schadensrisiko"],
+    "definitions_de": ["Möglichkeit, Schaden, Verletzung, Schaden oder Verlust zu erleiden"],
+    "examples_de": [["Warnschilder machten Wanderer auf die **Gefahr** herabfallender Steine aufmerksam", "Die bedrohte Art steht ohne Schutzmaßnahmen in **Gefahr** auszusterben"]]
+  },
+  {
+    "lemma": "knee",
+    "meanings_de": ["Beingelenk"],
+    "definitions_de": ["Gelenk zwischen Oberschenkel und Unterschenkel, das eine Beugebewegung ermöglicht"],
+    "examples_de": [["Sie verletzte sich letztes Wochenende beim Fußballspielen am **Knie**", "Das Kind schürfte sich das **Knie** auf, als es vom Fahrrad fiel"]]
+  },
+  {
+    "lemma": "ass",
+    "meanings_de": ["Eseltier", "Gesäß"],
+    "definitions_de": ["domestiziertes Huftier, das einem Pferd ähnelt, aber kleiner ist", "umgangssprachlicher Begriff für das Gesäß einer Person"],
+    "examples_de": [["Der Bauer benutzte einen **Esel**, um Vorräte den Berg hinaufzutragen", "Der störrische **Esel** weigerte sich trotz wiederholter Ermutigung zu bewegen"], ["Er fiel hin und landete hart auf seinem **Hintern**", "Beweg deinen **Arsch**, sonst kommen wir zu spät"]]
+  },
+  {
+    "lemma": "traffic",
+    "meanings_de": ["Fahrzeugbewegung", "Datenfluss"],
+    "definitions_de": ["Bewegung von Fahrzeugen, Schiffen oder Flugzeugen auf Routen", "Bewegung von Daten oder Signalen durch ein Kommunikationssystem"],
+    "examples_de": [["Starker **Verkehr** während der Stoßzeit ließ das Pendeln doppelt so lange dauern", "**Ampeln** helfen, den Fahrzeugfluss an Kreuzungen zu regeln"], ["Der Website-**Traffic** stieg nach der viralen Marketingkampagne dramatisch an", "Der Netzwerk**verkehr** verlangsamte sich aufgrund der großen Dateidownloads"]]
+  },
+  {
+    "lemma": "train",
+    "meanings_de": ["Schienenfahrzeug", "verbundene Reihe"],
+    "definitions_de": ["verbundene Reihe von Eisenbahnwagen, die von einer Lokomotive gezogen werden", "Reihe von verbundenen Dingen oder Ereignissen, die aufeinander folgen"],
+    "examples_de": [["Der **Zug** kam pünktlich am Bahnhof an", "Hochgeschwindigkeits**züge** verbinden Großstädte landesweit effizient"], ["Ihr **Gedankengang** wurde durch das laute Geräusch unterbrochen", "Das Brautkleid hatte eine lange **Schleppe**, die über den Boden fegte"]]
+  },
+  {
+    "lemma": "plate",
+    "meanings_de": ["flaches Geschirr", "flache Platte"],
+    "definitions_de": ["flaches Geschirr, von dem Essen gegessen oder serviert wird", "dünne, flache Platte aus Metall, Glas oder anderem Material"],
+    "examples_de": [["Bitte stellen Sie Ihren schmutzigen **Teller** nach dem Abendessen in die Spülmaschine", "Der Kellner brachte unser Essen auf wunderschön dekorierten **Tellern**"], ["Die Metall**platte** schützte die Maschinen vor Beschädigung", "**Nummernschilder** müssen an allen Fahrzeugen deutlich sichtbar sein"]]
+  },
+  {
+    "lemma": "equipment",
+    "meanings_de": ["Werkzeuge und Maschinen"],
+    "definitions_de": ["Werkzeuge, Maschinen und andere Gegenstände, die für einen bestimmten Zweck oder eine Aktivität benötigt werden"],
+    "examples_de": [["Das Fitnessstudio kaufte neue Trainings**geräte**, um die alten Maschinen zu ersetzen", "Sicherheits**ausrüstung** muss auf der Baustelle jederzeit getragen werden"]]
+  },
+  {
+    "lemma": "studio",
+    "meanings_de": ["kreativer Arbeitsraum", "kleine Wohnung"],
+    "definitions_de": ["Raum oder Gebäude, das für die Erstellung von Kunst, Musik oder Medienproduktionen genutzt wird", "kleine Wohnung, die aus einem Hauptraum besteht"],
+    "examples_de": [["Die Künstlerin verbrachte lange Stunden mit Malen in ihrem **Atelier**", "Die Band nahm ihr neues Album in einem professionellen **Studio** auf"], ["Sie mietete ein **Einzimmerapartment** in der Nähe des Universitätscampus", "Das **Studio** war klein, hatte aber alles, was sie brauchte"]]
+  },
+  {
+    "lemma": "secret",
+    "meanings_de": ["verborgene Information"],
+    "definitions_de": ["Information, die vor anderen verborgen oder nur wenigen Menschen bekannt ist"],
+    "examples_de": [["Sie versprach, sein **Geheimnis** zu bewahren und es niemandem zu erzählen", "Die Betriebs**geheimnisse** des Unternehmens verschaffen ihnen einen Wettbewerbsvorteil"]]
+  },
+  {
+    "lemma": "engine",
+    "meanings_de": ["Kraftmaschine"],
+    "definitions_de": ["Maschine, die Energie in mechanische Kraft umwandelt, um Fahrzeuge oder Geräte anzutreiben"],
+    "examples_de": [["Der **Motor** des Autos begann gestern Morgen seltsame Geräusche zu machen", "Dampf**maschinen** revolutionierten den Transport während der industriellen Revolution"]]
+  },
+  {
+    "lemma": "luck",
+    "meanings_de": ["Zufallsglück"],
+    "definitions_de": ["Erfolg oder gute Dinge, die eher durch Zufall als durch Anstrengung geschehen"],
+    "examples_de": [["Mit etwas **Glück** werden wir das Projekt rechtzeitig fertigstellen", "Sie hatte das **Glück**, sofort einen Parkplatz zu finden"]]
+  },
+  {
+    "lemma": "panel",
+    "meanings_de": ["flacher Abschnitt", "Expertengruppe"],
+    "definitions_de": ["flacher rechteckiger Abschnitt, der Teil einer Tür, Wand oder Decke bildet", "Gruppe von Personen, die ausgewählt wurden, um eine Angelegenheit zu diskutieren, zu untersuchen oder zu entscheiden"],
+    "examples_de": [["Die Holz**täfelung** in der Tür hatte wunderschöne geschnitzte Details", "Solar**panels** auf dem Dach liefern Strom für das Haus"], ["Die **Jury** wählte nach langer Beratung den Gewinner aus", "Ein Experten**gremium** diskutierte auf der Konferenz Lösungen für den Klimawandel"]]
+  },
+  {
+    "lemma": "hero",
+    "meanings_de": ["mutige Person", "Hauptfigur"],
+    "definitions_de": ["Person, die für Mut, herausragende Leistungen oder edle Eigenschaften bewundert wird", "Hauptfigur in einer Geschichte, einem Film oder einem dramatischen Werk"],
+    "examples_de": [["Der Feuerwehrmann wurde zum **Helden**, nachdem er Kinder aus dem brennenden Gebäude gerettet hatte", "Lokale **Helden** wurden bei der Gemeindeveranstaltung geehrt"], ["Der **Held** des Romans steht im Laufe der Geschichte vor vielen Herausforderungen", "In den meisten Actionfilmen besiegt der **Held** den Bösewicht"]]
+  },
+  {
+    "lemma": "circle",
+    "meanings_de": ["runde Form", "soziale Gruppe"],
+    "definitions_de": ["perfekt runde flache Form, bei der alle Punkte gleich weit vom Mittelpunkt entfernt sind", "Gruppe von Menschen mit gemeinsamen Interessen, Berufen oder sozialen Verbindungen"],
+    "examples_de": [["Zeichne einen **Kreis** mit einem Zirkel für perfekte Rundheit", "Die Kinder saßen im **Kreis** für die Geschichtenstunde"], ["Sie bewegte sich in elitären gesellschaftlichen **Kreisen** der Stadt", "Sein Freundes**kreis** unterstützte ihn in schwierigen Zeiten"]]
+  },
+  {
+    "lemma": "critic",
+    "meanings_de": ["professioneller Rezensent", "scharfer Beurteiler"],
+    "definitions_de": ["Person, die künstlerische Werke professionell rezensiert und bewertet", "Person, die Missbilligung ausdrückt oder Fehler an etwas findet"],
+    "examples_de": [["Der Film**kritiker** gab dem Film eine glänzende Rezension", "Essens**kritiker** großer Zeitungen besuchten das neue Restaurant"], ["Er war sein eigener härtester **Kritiker**, nie zufrieden mit seiner Arbeit", "**Kritiker** der Politik argumentierten, sie würde die Kosten erhöhen"]]
+  },
+  {
+    "lemma": "episode",
+    "meanings_de": ["Serienfolge", "einzelnes Ereignis"],
+    "definitions_de": ["ein Teil einer Fernseh- oder Radioserie", "bestimmter Zeitraum oder Ereignis in einer Folge zusammenhängender Vorkommnisse"],
+    "examples_de": [["Die letzte **Folge** der Staffel endete mit einem Cliffhanger", "Sie verpasste die **Episode** ihrer Lieblingsserie von letzter Woche"], ["Dies war nur eine weitere **Episode** in ihrem anhaltenden Familiendrama", "Der Patient erlebte **Episoden** schwerer Angstzustände"]]
+  },
+  {
+    "lemma": "check",
+    "meanings_de": ["Prüfung Verifikation", "Zahlungsdokument", "Karomuster"],
+    "definitions_de": ["sorgfältige Untersuchung oder Überprüfung von etwas", "schriftliche Anweisung an eine Bank, Geld von einem Konto zu zahlen", "Muster aus Quadraten in wechselnden Farben"],
+    "examples_de": [["Der Mechaniker führte eine gründliche **Überprüfung** der Bremsen des Autos durch", "Sicherheits**kontrollen** am Flughafen gewährleisten die Sicherheit der Passagiere"], ["Sie stellte einen **Scheck** aus, um die Lebensmittel zu bezahlen", "Der **Scheck** platzte wegen unzureichender Deckung"], ["Sein Hemd hatte ein blau-weißes **Karomuster**", "Die Tischdecke zeigte ein klassisches rotes **Karomuster**"]]
+  },
+  {
+    "lemma": "requirement",
+    "meanings_de": ["notwendige Bedingung"],
+    "definitions_de": ["etwas, das notwendig ist oder getan, gehabt oder bereitgestellt werden muss, um einen Zweck zu erreichen"],
+    "examples_de": [["Ein Hochschulabschluss ist eine **Voraussetzung** für diese Stelle", "Die Software erfüllt nicht die Mindestsystem**anforderungen**"]]
+  },
+  {
+    "lemma": "politician",
+    "meanings_de": ["Berufspolitiker"],
+    "definitions_de": ["Person, die beruflich in der Politik tätig ist, insbesondere als gewählter Amtsträger"],
+    "examples_de": [["Der **Politiker** warb mit Versprechen zur Verbesserung der Bildungsfinanzierung", "Viele **Politiker** nahmen am internationalen Klimagipfel teil"]]
+  },
+  {
+    "lemma": "rain",
+    "meanings_de": ["Wasserniederschlag"],
+    "definitions_de": ["Wasser, das in Tropfen aus Wolken am Himmel fällt"],
+    "examples_de": [["Der **Regen** bewässerte den Garten, sodass wir nicht gießen mussten", "Starker **Regen** verursachte Überschwemmungen in tiefliegenden Stadtgebieten"]]
+  },
+  {
+    "lemma": "colleague",
+    "meanings_de": ["Arbeitskollege"],
+    "definitions_de": ["Person, die mit Ihnen in derselben Organisation oder demselben Beruf arbeitet"],
+    "examples_de": [["Sie besprach den Projektvorschlag beim Mittagessen mit ihren **Kollegen**", "Seine **Kollegen** überraschten ihn mit einer Abschiedsfeier"]]
+  },
+  {
+    "lemma": "beer",
+    "meanings_de": ["alkoholisches Getränk"],
+    "definitions_de": ["alkoholisches Getränk aus fermentierten Körnern, typischerweise Gerste und mit Hopfen aromatisiert"],
+    "examples_de": [["Er bestellte ein kaltes **Bier**, um es zu seiner Pizza zu genießen", "Die Brauerei produziert verschiedene Arten von Craft-**Bier**"]]
+  },
+  {
+    "lemma": "exercise",
+    "meanings_de": ["körperliche Aktivität", "Übungsaufgabe"],
+    "definitions_de": ["körperliche Aktivität zur Verbesserung der Gesundheit, Fitness oder Kraft", "Aufgabe oder Aktivität zum Üben oder Testen einer Fähigkeit"],
+    "examples_de": [["Regelmäßige **Bewegung** hilft, ein gesundes Gewicht zu halten und Stress abzubauen", "Sie macht jeden Morgen vor der Arbeit Yoga-**Übungen**"], ["Der Mathematiklehrer gab **Übungsaufgaben** aus Kapitel fünf auf", "Militärische **Übungen** testeten die Einsatzbereitschaft der Truppen"]]
+  },
+  {
+    "lemma": "democracy",
+    "meanings_de": ["Regierungssystem"],
+    "definitions_de": ["Regierungssystem, bei dem die Macht durch freie Wahlen und gleichberechtigte Teilnahme vom Volk ausgeht"],
+    "examples_de": [["Die **Demokratie** ermöglicht es den Bürgern, ihre Vertreter zu wählen", "Das Land ging nach der Revolution von der Diktatur zur **Demokratie** über"]]
+  },
+  {
+    "lemma": "setting",
+    "meanings_de": ["physischer Ort", "Handlungshintergrund", "Einstellungsposition"],
+    "definitions_de": ["Ort und Zeit, wo etwas geschieht oder positioniert ist", "Zeit, Ort und Umstände, in denen eine Geschichte spielt", "Position oder Stufe, auf die ein Gerät oder eine Steuerung eingestellt ist"],
+    "examples_de": [["Die Außenterrasse des Restaurants bot einen Blick auf den wunderschönen See", "Die ländliche **Umgebung** bot eine friedliche Atmosphäre zum Schreiben"], ["Der **Schauplatz** des Romans im viktorianischen England prägte das Verhalten der Charaktere", "Science-Fiction nutzt oft futuristische **Schauplätze**, um Ideen zu erforschen"], ["Passen Sie die Temperatur**einstellung** am Thermostat an, um Energie zu sparen", "Die manuellen **Einstellungen** der Kamera ermöglichen kreative Kontrolle"]]
+  }
+]

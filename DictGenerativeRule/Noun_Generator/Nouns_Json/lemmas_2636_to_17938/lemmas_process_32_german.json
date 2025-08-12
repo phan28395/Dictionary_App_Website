@@ -1,0 +1,260 @@
+[
+  {
+    "lemma": "commonplace",
+    "meanings_de": ["alltägliches Ereignis", "Notizbuch"],
+    "definitions_de": ["etwas, das häufig vorkommt und nichts Besonderes oder Ungewöhnliches darstellt", "historisches Notizbuch, in dem wichtige Textpassagen oder Ideen gesammelt wurden"],
+    "examples_de": [["**Alltäglicher** Regen im April überrascht niemanden mehr", "Im Berufsverkehr sind Staus längst zur **Alltäglichkeit** geworden"], ["Mittelalterliche Gelehrte führten ihre Lieblingszitate in einem **Notizbuch**", "Das **Zitatenbuch** des Schriftstellers enthielt jahrelang gesammelte Weisheiten"]]
+  },
+  {
+    "lemma": "commonwealth",
+    "meanings_de": ["Staatenbund", "Gemeinwohl"],
+    "definitions_de": ["unabhängiger Staat oder Gemeinschaft, insbesondere eine demokratische", "allgemeines Wohl oder Wohlergehen der Öffentlichkeit"],
+    "examples_de": [["Australien gehört zum **Commonwealth** der Nationen", "Der **Staatenbund** wählte im November neue Vertreter"], ["Gemeinsames Arbeiten für das **Gemeinwohl** nutzt allen Beteiligten", "Der Bürgermeister konzentrierte sich auf Politik für das **Allgemeinwohl**"]]
+  },
+  {
+    "lemma": "commotion",
+    "meanings_de": ["laute Unruhe"],
+    "definitions_de": ["Zustand verwirrter und lärmender Aktivität oder Bewegung"],
+    "examples_de": [["Der plötzliche **Tumult** draußen weckte alle im Haus", "Bei der Ankunft des Prominenten entstand ein ziemlicher **Aufruhr**"]]
+  },
+  {
+    "lemma": "commune",
+    "meanings_de": ["Wohngemeinschaft", "Gemeinde"],
+    "definitions_de": ["Gruppe von Menschen, die zusammenleben und Besitz sowie Verantwortung teilen", "kleinste Verwaltungseinheit in Frankreich und einigen anderen Ländern"],
+    "examples_de": [["Die Künstler lebten in den 1960ern in einer **Kommune**", "Mehrere Familien gründeten eine **Wohngemeinschaft** für gemeinsame Landwirtschaft"], ["Jede französische **Gemeinde** hat ihren eigenen gewählten Bürgermeister", "Die **Kommune** stimmte für die Renovierung der örtlichen Schule"]]
+  },
+  {
+    "lemma": "communicating",
+    "meanings_de": ["Kommunizieren"],
+    "definitions_de": ["Prozess des Teilens oder Austauschs von Informationen, Ideen oder Gefühlen"],
+    "examples_de": [["Effektives **Kommunizieren** erfordert sowohl Sprech- als auch Zuhörfähigkeiten", "Das Team verbesserte sein Projekt durch besseres **Kommunizieren**"]]
+  },
+  {
+    "lemma": "communicator",
+    "meanings_de": ["Kommunikator"],
+    "definitions_de": ["jemand, der geschickt darin ist, Informationen zu vermitteln oder Gedanken klar auszudrücken"],
+    "examples_de": [["Ein guter Lehrer muss ein effektiver **Kommunikator** sein", "Die Firma stellte einen professionellen **Kommunikationsexperten** für die Öffentlichkeitsarbeit ein"]]
+  },
+  {
+    "lemma": "communion",
+    "meanings_de": ["Gemeinschaft", "Abendmahl"],
+    "definitions_de": ["innige Verbundenheit oder Beziehung zwischen Menschen mit ähnlichen Gedanken", "christliches Sakrament zum Gedenken an das letzte Abendmahl mit Brot und Wein"],
+    "examples_de": [["Die Freunde genossen die tiefe **Gemeinschaft** geteilter Interessen", "Ihre **Verbundenheit** mit der Natur brachte ihnen inneren Frieden"], ["Die Gemeinde nahm jeden Sonntagmorgen am **Abendmahl** teil", "Die erste **Kommunion** ist ein wichtiger Meilenstein für katholische Kinder"]]
+  },
+  {
+    "lemma": "communique",
+    "meanings_de": ["Kommuniqué"],
+    "definitions_de": ["offizielle Ankündigung oder Stellungnahme, besonders an die Medien gerichtet"],
+    "examples_de": [["Die Botschaft gab ein **Kommuniqué** über das diplomatische Treffen heraus", "Die Presse wartete gespannt auf das **Kommuniqué** der Regierung"]]
+  },
+  {
+    "lemma": "communism",
+    "meanings_de": ["Kommunismus"],
+    "definitions_de": ["politische Theorie, die kollektives Eigentum an Besitz und Produktionsmitteln befürwortet"],
+    "examples_de": [["Mehrere Länder führten im zwanzigsten Jahrhundert den **Kommunismus** ein", "Die Philosophie des **Kommunismus** wendet sich gegen Privateigentum"]]
+  },
+  {
+    "lemma": "commutation",
+    "meanings_de": ["Strafumwandlung", "Pendeln"],
+    "definitions_de": ["Ersetzung einer Strafe durch eine mildere Form", "regelmäßige Fahrt zwischen Wohnung und Arbeitsplatz"],
+    "examples_de": [["Der Gouverneur gewährte die **Umwandlung** der Todesstrafe des Gefangenen", "Die **Strafumwandlung** zu lebenslanger Haft galt als Gnadenakt"], ["Das tägliche **Pendeln** in die Stadt dauert etwa zwei Stunden", "Die Kosten fürs **Pendeln** sind dieses Jahr erheblich gestiegen"]]
+  },
+  {
+    "lemma": "commute",
+    "meanings_de": ["Arbeitsweg"],
+    "definitions_de": ["regelmäßige Fahrt zwischen Wohnung und Arbeitsplatz"],
+    "examples_de": [["Ihr täglicher **Arbeitsweg** dauert in jede Richtung fünfundvierzig Minuten", "Der **Pendelweg** morgens ist immer voller als abends"]]
+  },
+  {
+    "lemma": "commuter",
+    "meanings_de": ["Pendler"],
+    "definitions_de": ["Person, die regelmäßig zwischen Wohnung und Arbeits- oder Schulort pendelt"],
+    "examples_de": [["Der Zug war voller **Pendler** auf dem Weg in die Innenstadt", "Viele **Berufspendler** bevorzugen öffentliche Verkehrsmittel, um Staus zu vermeiden"]]
+  },
+  {
+    "lemma": "commuting",
+    "meanings_de": ["Pendeln"],
+    "definitions_de": ["regelmäßiges Reisen zwischen Wohnung und Arbeitsplatz"],
+    "examples_de": [["Das **Pendeln** mit dem Fahrrad wird immer beliebter", "Homeoffice hat den Bedarf am täglichen **Pendeln** reduziert"]]
+  },
+  {
+    "lemma": "comp",
+    "meanings_de": ["Freikarte", "Gesamtprüfung"],
+    "definitions_de": ["kostenloses Ticket oder Service, der ohne Bezahlung bereitgestellt wird", "umfassende Prüfung in einem akademischen Programm"],
+    "examples_de": [["Das Theater gab uns **Freikarten** für die Vorstellung", "Restaurantmitarbeiter erhalten während der Schicht oft **kostenlose** Mahlzeiten"], ["Doktoranden müssen ihre **Gesamtprüfung** bestehen, bevor sie ihre Dissertation verteidigen", "Sie lernte intensiv für ihre **Doktorprüfungen**"]]
+  },
+  {
+    "lemma": "compact",
+    "meanings_de": ["Puderdose", "Vertrag"],
+    "definitions_de": ["kleine flache Dose mit Puder oder Make-up", "formelle Vereinbarung oder Vertrag zwischen Parteien"],
+    "examples_de": [["Sie überprüfte ihr Aussehen in ihrer **Puderdose**", "Die antike **Schminkdose** hatte ein wunderschönes graviertes Design"], ["Die Bundesstaaten schlossen einen **Vertrag** über Wasserrechte", "Der **Pakt** zwischen den Nationen hielt viele Jahrzehnte"]]
+  },
+  {
+    "lemma": "compaction",
+    "meanings_de": ["Verdichtung"],
+    "definitions_de": ["Vorgang des Zusammenpressens von etwas in eine dichtere Form"],
+    "examples_de": [["Die **Bodenverdichtung** kann das Wurzelwachstum im Garten behindern", "Die **Verdichtung** von Abfall reduziert den Platzbedarf auf Deponien"]]
+  },
+  {
+    "lemma": "companionship",
+    "meanings_de": ["Gesellschaft"],
+    "definitions_de": ["Gefühl der Verbundenheit oder Freundschaft zwischen Menschen, die Zeit miteinander verbringen"],
+    "examples_de": [["Die ältere Dame genoss die **Gesellschaft** ihrer Nachbarn", "Haustiere bieten wunderbare **Gesellschaft** für allein lebende Menschen"]]
+  },
+  {
+    "lemma": "comparability",
+    "meanings_de": ["Vergleichbarkeit"],
+    "definitions_de": ["Eigenschaft, ähnlich genug zu sein, um einen sinnvollen Vergleich zu ermöglichen"],
+    "examples_de": [["Die **Vergleichbarkeit** von Testergebnissen erfordert standardisierte Bedingungen", "Die **Preisvergleichbarkeit** hilft Verbrauchern bei informierten Kaufentscheidungen"]]
+  },
+  {
+    "lemma": "comparative",
+    "meanings_de": ["vergleichende Bewertung"],
+    "definitions_de": ["durch Vergleich geschätzt statt durch absolute Messung oder Betrachtung"],
+    "examples_de": [["Die **vergleichende** Analyse zeigte erhebliche Unterschiede zwischen den Gruppen", "Sie unterrichtet **vergleichende** Literaturwissenschaft an der örtlichen Universität"]]
+  },
+  {
+    "lemma": "comparing",
+    "meanings_de": ["Vergleichen"],
+    "definitions_de": ["Prozess der Untersuchung von Ähnlichkeiten und Unterschieden zwischen Dingen"],
+    "examples_de": [["Das **Vergleichen** von Preisen hilft Käufern, die besten Angebote zu finden", "Wissenschaftler verbringen Zeit mit dem **Vergleichen** von Ergebnissen verschiedener Experimente"]]
+  },
+  {
+    "lemma": "compartment",
+    "meanings_de": ["Abteil"],
+    "definitions_de": ["separater Bereich oder Teil einer Struktur oder eines Behälters"],
+    "examples_de": [["Jedes **Fach** in der Schmuckschatulle enthält verschiedene Gegenstände", "Das Gepäck**abteil** des Zuges war gestern komplett voll"]]
+  },
+  {
+    "lemma": "compatibility",
+    "meanings_de": ["Kompatibilität"],
+    "definitions_de": ["Zustand des Zusammenpassens oder Zusammenarbeitens ohne Konflikte"],
+    "examples_de": [["Software-**Kompatibilität** stellt sicher, dass Programme reibungslos zusammenarbeiten", "Ihre **Vereinbarkeit** machte sie zu perfekten Geschäftspartnern"]]
+  },
+  {
+    "lemma": "compatriot",
+    "meanings_de": ["Landsmann"],
+    "definitions_de": ["Person aus demselben Land wie jemand anders"],
+    "examples_de": [["Sie traf letzten Sommer mehrere **Landsleute** auf ihrer Auslandsreise", "Die Athleten unterstützten ihre **Landsmänner** während der Olympischen Spiele"]]
+  },
+  {
+    "lemma": "compendium",
+    "meanings_de": ["Kompendium"],
+    "definitions_de": ["Sammlung prägnanter, aber detaillierter Informationen über ein bestimmtes Thema"],
+    "examples_de": [["Das medizinische **Kompendium** enthält Informationen über Tausende von Krankheiten", "Studenten verlassen sich auf dieses **Nachschlagewerk** mathematischer Formeln"]]
+  },
+  {
+    "lemma": "competence",
+    "meanings_de": ["Kompetenz"],
+    "definitions_de": ["Fähigkeit, etwas erfolgreich oder effizient zu tun"],
+    "examples_de": [["Die **Kompetenz** des Chirurgen zeigte sich in jedem durchgeführten Eingriff", "Sprach**kompetenz** erfordert sowohl Sprech- als auch Verständnisfähigkeiten"]]
+  },
+  {
+    "lemma": "competency",
+    "meanings_de": ["Fähigkeit"],
+    "definitions_de": ["spezifische Fertigkeit oder Fähigkeit, die zur effektiven Ausführung einer Aufgabe erforderlich ist"],
+    "examples_de": [["Die Stelle erfordert **Kenntnisse** in mehreren Programmiersprachen", "Lehrer müssen ihre **Befähigung** nachweisen, bevor sie ihr Zertifikat erhalten"]]
+  },
+  {
+    "lemma": "compilation",
+    "meanings_de": ["Zusammenstellung"],
+    "definitions_de": ["Sammlung von Dingen, besonders schriftlichen Werken oder zusammengetragenen Daten"],
+    "examples_de": [["Die **Zusammenstellung** der größten Hits verkaufte sich millionenfach", "Diese **Rezeptsammlung** zu erstellen dauerte mehrere Jahre"]]
+  },
+  {
+    "lemma": "compiler",
+    "meanings_de": ["Zusammensteller", "Compiler"],
+    "definitions_de": ["Person, die schriftliches Material oder Informationen sammelt und zusammenstellt", "Programm, das Code in Maschinensprache übersetzt"],
+    "examples_de": [["Der **Herausgeber** der Anthologie wählte Gedichte verschiedener Autoren aus", "**Wörterbuchverfasser** verbringen Jahre mit der Erforschung des Wortgebrauchs"], ["Der **Compiler** wandelt Quellcode in ausführbare Programme um", "Mit guten **Compiler**-Fehlermeldungen ist das Debuggen einfacher"]]
+  },
+  {
+    "lemma": "compiling",
+    "meanings_de": ["Zusammenstellen"],
+    "definitions_de": ["Prozess des Sammelns und Zusammenstellens von Informationen oder Materialien"],
+    "examples_de": [["Das **Zusammenstellen** des Jahresberichts erfordert Daten aus allen Abteilungen", "Sie verbrachte Monate mit dem **Zusammentragen** von Forschungsmaterial für ihre Dissertation"]]
+  },
+  {
+    "lemma": "complacency",
+    "meanings_de": ["Selbstzufriedenheit"],
+    "definitions_de": ["Gefühl selbstgefälliger oder unkritischer Zufriedenheit mit sich selbst oder den eigenen Leistungen"],
+    "examples_de": [["Erfolg kann zu gefährlicher **Selbstzufriedenheit** im Geschäftsleben führen", "Die **Selbstgefälligkeit** des Teams führte zu ihrer unerwarteten Niederlage"]]
+  },
+  {
+    "lemma": "complainant",
+    "meanings_de": ["Beschwerdeführer"],
+    "definitions_de": ["Person, die eine formelle Beschwerde einreicht, besonders in Gerichtsverfahren"],
+    "examples_de": [["Der **Kläger** sagte gestern vor Gericht über den Vorfall aus", "Die Polizei befragte sowohl den **Beschwerdeführer** als auch den Beschuldigten"]]
+  },
+  {
+    "lemma": "complement",
+    "meanings_de": ["Ergänzung"],
+    "definitions_de": ["Sache, die etwas vervollständigt oder verbessert, wenn sie damit kombiniert wird"],
+    "examples_de": [["Rotwein ist die perfekte **Ergänzung** zu diesem Käse", "Die neuen Mitarbeiter sind eine großartige **Bereicherung** für unser Team"]]
+  },
+  {
+    "lemma": "complementarity",
+    "meanings_de": ["Komplementarität"],
+    "definitions_de": ["Beziehung zwischen zwei Dingen, die sich gegenseitig vervollständigen oder ergänzen"],
+    "examples_de": [["Die **Komplementarität** ihrer Fähigkeiten machte sie zu hervorragenden Partnern", "Zwischen Lehren und Lernen besteht eine natürliche **Ergänzung**"]]
+  },
+  {
+    "lemma": "completion",
+    "meanings_de": ["Fertigstellung"],
+    "definitions_de": ["Handlung oder Prozess des Beendens oder Vervollständigens von etwas"],
+    "examples_de": [["Die **Fertigstellung** des Projekts ist für nächsten Dezember geplant", "Der erfolgreiche **Abschluss** des Kurses erfordert das Bestehen aller Prüfungen"]]
+  },
+  {
+    "lemma": "complexion",
+    "meanings_de": ["Teint", "Charakter"],
+    "definitions_de": ["natürliche Farbe, Textur und Erscheinung der Gesichtshaut", "allgemeiner Aspekt oder Charakter von etwas"],
+    "examples_de": [["Sie hat einen klaren **Teint** ohne Makel", "Die Sonne kann Ihre **Gesichtsfarbe** ohne angemessenen Schutz schädigen"], ["Die neuen Beweise veränderten den **Charakter** der Untersuchung", "Jüngste Ereignisse haben die politische **Lage** erheblich verändert"]]
+  },
+  {
+    "lemma": "complication",
+    "meanings_de": ["komplexe Situation", "medizinisches Problem"],
+    "definitions_de": ["Umstand, der eine Situation schwieriger oder komplexer macht", "sekundäre Krankheit oder Zustand, der eine bereits bestehende verschlimmert"],
+    "examples_de": [["Unerwartete **Komplikationen** verzögerten das Bauprojekt um Monate", "Die rechtlichen **Verwicklungen** machten das Scheidungsverfahren langwierig"], ["Postoperative **Komplikationen** erforderten zusätzliche medizinische Behandlung", "Diabetes kann zu ernsthaften **Folgeerkrankungen** führen, wenn er unbehandelt bleibt"]]
+  },
+  {
+    "lemma": "complicity",
+    "meanings_de": ["Mittäterschaft"],
+    "definitions_de": ["Zustand der Beteiligung mit anderen an illegalen oder moralisch falschen Aktivitäten"],
+    "examples_de": [["Beweise deuteten auf seine **Mittäterschaft** beim Finanzbetrug hin", "Ihre **Mitschuld** an der Vertuschung wurde schließlich aufgedeckt"]]
+  },
+  {
+    "lemma": "compliment",
+    "meanings_de": ["Kompliment"],
+    "definitions_de": ["höflicher Ausdruck von Lob oder Bewunderung für jemanden"],
+    "examples_de": [["Sie erhielt viele **Komplimente** für ihre Präsentationsfähigkeiten", "Ein aufrichtiges **Lob** kann den ganzen Tag eines Menschen erhellen"]]
+  },
+  {
+    "lemma": "composer",
+    "meanings_de": ["Komponist"],
+    "definitions_de": ["Person, die Musik schreibt, besonders als Beruf"],
+    "examples_de": [["Der **Komponist** arbeitete monatelang an der Symphonie", "Viele berühmte **Komponisten** begannen schon in der Kindheit mit dem Musiklernen"]]
+  },
+  {
+    "lemma": "composing",
+    "meanings_de": ["Komponieren"],
+    "definitions_de": ["Prozess des Schaffens schriftlicher Werke, besonders Musik oder Literatur"],
+    "examples_de": [["Das **Komponieren** von Musik erfordert sowohl Kreativität als auch technisches Können", "Sie findet, dass das **Verfassen** von Gedichten ihre tiefsten Gefühle ausdrückt"]]
+  },
+  {
+    "lemma": "composite",
+    "meanings_de": ["Verbundstoff"],
+    "definitions_de": ["Sache, die aus verschiedenen zusammengefügten Teilen oder Elementen besteht"],
+    "examples_de": [["Das endgültige Design war ein **Verbund** aus mehreren verschiedenen Ideen", "Dieses **Verbundmaterial** ist stärker als seine einzelnen Bestandteile"]]
+  },
+  {
+    "lemma": "compost",
+    "meanings_de": ["Kompost"],
+    "definitions_de": ["verrottetes organisches Material, das als Dünger für Pflanzenwachstum verwendet wird"],
+    "examples_de": [["Die Zugabe von **Kompost** reichert den Boden mit wichtigen Nährstoffen an", "Sie stellen **Kompost** aus Küchenabfällen und Gartenabfällen her"]]
+  },
+  {
+    "lemma": "composure",
+    "meanings_de": ["Fassung"],
+    "definitions_de": ["Zustand der Ruhe und Kontrolle über die eigenen Emotionen"],
+    "examples_de": [["Sie bewahrte trotz der stressigen Situation ihre **Fassung**", "Die **Beherrschung** während Verhandlungen zu verlieren schwächt Ihre Position"]]
+  }
+]

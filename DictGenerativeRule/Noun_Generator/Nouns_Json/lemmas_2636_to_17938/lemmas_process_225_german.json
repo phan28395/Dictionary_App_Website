@@ -1,0 +1,278 @@
+[
+  {
+    "lemma": "sternum",
+    "meanings_de": ["Brustbeinknochen"],
+    "definitions_de": ["Flacher Knochen in der Mitte des Brustkorbs, der die Rippen miteinander verbindet und den vorderen Teil des Brustkorbs bildet"],
+    "examples_de": [["Der Arzt untersuchte das **Brustbein** des Patienten während der Röntgenaufnahme", "Nach dem Autounfall verspürte er Schmerzen im **Sternum**"]]
+  },
+  {
+    "lemma": "steroid",
+    "meanings_de": ["organische Verbindung Medikament"],
+    "definitions_de": ["Chemische Substanz, die Hormone und entzündungshemmende Medikamente umfasst und in der Medizin zur Behandlung verschiedener Erkrankungen eingesetzt wird"],
+    "examples_de": [["Der Sportler wurde wegen der Einnahme illegaler **Steroide** gesperrt", "Die Ärztin verschrieb **Kortikosteroide** zur Reduzierung der Entzündung"]]
+  },
+  {
+    "lemma": "stethoscope",
+    "meanings_de": ["medizinisches Hörgerät"],
+    "definitions_de": ["Medizinisches Instrument zum Abhören von Geräuschen im Körperinneren, insbesondere von Herzschlag und Atmung"],
+    "examples_de": [["Die Krankenschwester legte das **Stethoskop** auf die Brust des Patienten", "Jeder Arzt trägt ein **Stethoskop** in seiner Arzttasche"]]
+  },
+  {
+    "lemma": "stew",
+    "meanings_de": ["langsam gekochtes Gericht"],
+    "definitions_de": ["Dicke Suppe oder Eintopf aus Fleisch und Gemüse, die langsam in Flüssigkeit gegart werden"],
+    "examples_de": [["Sie bereitete einen herzhaften **Rindereintopf** für den kalten Abend zu", "Der **Eintopf** köchelte mehrere Stunden lang auf dem Herd"]]
+  },
+  {
+    "lemma": "steward",
+    "meanings_de": ["Verwalter oder Manager", "Flugbegleiter"],
+    "definitions_de": ["Person, die Eigentum oder Angelegenheiten für jemand anderen verwaltet", "Person, die Passagiere in einem Flugzeug oder auf einem Schiff bedient"],
+    "examples_de": [["Der **Gutsverwalter** kümmerte sich um das Anwesen, während der Besitzer verreist war", "Er arbeitete als **Verwalter** und beaufsichtigte das Naturschutzprojekt"], ["Der **Flugbegleiter** führte vor dem Start die Sicherheitsanweisungen vor", "Sie bat den **Steward** während des Fluges um eine Decke"]]
+  },
+  {
+    "lemma": "stewardship",
+    "meanings_de": ["verantwortungsvolle Verwaltungspraxis"],
+    "definitions_de": ["Sorgfältige und verantwortungsvolle Verwaltung von etwas, das einem anvertraut wurde, insbesondere von Ressourcen oder Eigentum"],
+    "examples_de": [["Die **Umweltverantwortung** ist entscheidend für den Schutz der Zukunft unseres Planeten", "Seine **Verwaltung** des Unternehmens führte zu steigenden Gewinnen"]]
+  },
+  {
+    "lemma": "sticker",
+    "meanings_de": ["Klebeetikett Dekoration"],
+    "definitions_de": ["Kleines Stück Papier oder Kunststoff mit Klebeschicht auf der Rückseite zur Dekoration oder Information"],
+    "examples_de": [["Das Kind beklebte sein Notizbuch mit bunten **Aufklebern**", "Der **Preisaufkleber** zeigte, dass der Artikel im Angebot war"]]
+  },
+  {
+    "lemma": "stiffening",
+    "meanings_de": ["Verhärtung Verstärkungsprozess"],
+    "definitions_de": ["Prozess, etwas steif zu machen, oder das Material, das verwendet wird, um Stoff fest zu machen"],
+    "examples_de": [["Die **Versteifung** im Kragen hielt das Hemd knitterfrei", "Die allmähliche **Versteifung** der Gelenke ist bei Arthritis häufig"]]
+  },
+  {
+    "lemma": "stifling",
+    "meanings_de": ["erstickende Unterdrückungshandlung"],
+    "definitions_de": ["Handlung, die jemandem das Atmen erschwert oder etwas daran hindert, sich zu entwickeln"],
+    "examples_de": [["Die **Unterdrückung** der Meinungsfreiheit beunruhigte viele Bürger weltweit", "Die **Erstickung** der Kreativität in Schulen besorgte viele Pädagogen"]]
+  },
+  {
+    "lemma": "stigma",
+    "meanings_de": ["soziales Schandmal"],
+    "definitions_de": ["Zeichen der Schande oder negative Einstellung, die mit einem bestimmten Umstand oder einer Eigenschaft verbunden ist"],
+    "examples_de": [["Mit psychischen Erkrankungen ist immer noch ein **Stigma** verbunden", "Das **Stigma** des Bankrotts verfolgte ihn viele Jahre lang"]]
+  },
+  {
+    "lemma": "stigmatization",
+    "meanings_de": ["beschämender Etikettierungsprozess"],
+    "definitions_de": ["Handlung, jemanden unfair zu behandeln, indem man seine Eigenschaften oder Umstände öffentlich missbilligt"],
+    "examples_de": [["Die **Stigmatisierung** bestimmter Krankheiten hindert Menschen daran, Hilfe zu suchen", "Soziale **Stigmatisierung** kann zu Isolation und Depression führen"]]
+  },
+  {
+    "lemma": "stiletto",
+    "meanings_de": ["dünner hoher Absatz", "schmales Klingenmesser"],
+    "definitions_de": ["Schuh mit einem sehr hohen, dünnen Absatz", "Dünner Dolch mit schmaler Klinge"],
+    "examples_de": [["Sie trug rote **Stilettos** zum formellen Abendessen", "Die neuen **Pfennigabsätze** des Designers wurden im Magazin vorgestellt"], ["Das Museum stellte ein antikes italienisches **Stilett** aus der Renaissance aus", "Das **Stilett** war eine beliebte Waffe des Renaissanceadels"]]
+  },
+  {
+    "lemma": "stillbirth",
+    "meanings_de": ["Totgeburt"],
+    "definitions_de": ["Geburt eines Babys, das nach der zwanzigsten Schwangerschaftswoche im Mutterleib gestorben ist"],
+    "examples_de": [["Das Krankenhaus bietet Beratungsdienste für Eltern nach einer **Totgeburt** an", "Die medizinische Forschung zielt darauf ab, die **Totgeburtenrate** weltweit zu senken"]]
+  },
+  {
+    "lemma": "stilt",
+    "meanings_de": ["Gehstange Stütze"],
+    "definitions_de": ["Eine von zwei langen Stangen mit Fußstützen, die zum Gehen hoch über dem Boden verwendet werden"],
+    "examples_de": [["Der Zirkuskünstler ging anmutig auf **Stelzen** über die Bühne", "Die Kinder übten im Sommerlager das Laufen auf **Stelzen**"]]
+  },
+  {
+    "lemma": "stimulant",
+    "meanings_de": ["aktivierende Substanz Droge"],
+    "definitions_de": ["Substanz, die die Aktivität im Körper erhöht, insbesondere im Nervensystem und Stoffwechsel"],
+    "examples_de": [["Koffein ist ein mildes **Stimulans**, das in Kaffee und Tee vorkommt", "Der Arzt verschrieb ein **Aufputschmittel** zur Behandlung der Aufmerksamkeitsdefizit-Störung"]]
+  },
+  {
+    "lemma": "stimulation",
+    "meanings_de": ["Aktivierung Anregungsprozess"],
+    "definitions_de": ["Handlung, etwas aktiver zu machen, oder der Zustand, aktiver gemacht zu werden"],
+    "examples_de": [["Geistige **Stimulation** hilft, das Gehirn im Alter gesund zu halten", "Das wirtschaftliche **Konjunkturpaket** zielte darauf ab, die Verbraucherausgaben anzukurbeln"]]
+  },
+  {
+    "lemma": "sting",
+    "meanings_de": ["scharfer Schmerz", "polizeiliche Fangaktion"],
+    "definitions_de": ["Scharfer brennender Schmerz durch einen Insektenstich oder Kontakt mit etwas", "Geheime Operation der Polizei, um Kriminelle zu fassen"],
+    "examples_de": [["Der **Bienenstich** schwoll an und wurde sehr schmerzhaft", "Sie spürte das **Brennen** des kalten Windes auf ihrem Gesicht"], ["Die polizeiliche **Razzia** fasste letzte Nacht mehrere Drogendealer", "Das FBI organisierte eine **verdeckte Operation**, um das Korruptionssystem aufzudecken"]]
+  },
+  {
+    "lemma": "stinger",
+    "meanings_de": ["Insektenwaffenorgan"],
+    "definitions_de": ["Scharfes Organ, das einige Insekten und Tiere verwenden, um Gift zu injizieren"],
+    "examples_de": [["Der **Stachel** der Wespe blieb nach dem Angriff in meinem Arm stecken", "Bienen sterben nach dem Gebrauch ihres **Stachels**, weil er abreißt"]]
+  },
+  {
+    "lemma": "stinging",
+    "meanings_de": ["brennendes Schmerzgefühl"],
+    "definitions_de": ["Scharfes brennendes Gefühl oder Schmerz, verursacht durch etwas wie ein Insekt oder eine Pflanze"],
+    "examples_de": [["Das **Brennen** von der Qualle hielt mehrere Stunden an", "Er spürte ein **stechendes** Gefühl, als das Antiseptikum die Wunde berührte"]]
+  },
+  {
+    "lemma": "stingray",
+    "meanings_de": ["flacher Meeresfisch"],
+    "definitions_de": ["Flacher, rautenförmiger Fisch mit einem langen Schwanz, der einen giftigen Stachel enthält"],
+    "examples_de": [["Der **Stachelrochen** glitt anmutig über den Meeresboden", "Schwimmer wurden vor **Stachelrochen** gewarnt, die sich im flachen Wasser versteckten"]]
+  },
+  {
+    "lemma": "stink",
+    "meanings_de": ["unangenehmer Geruch"],
+    "definitions_de": ["Starker unangenehmer Geruch, der Menschen dazu bringt, die Quelle zu meiden"],
+    "examples_de": [["Der **Gestank** vom Müllwagen erfüllte die ganze Straße", "Aus dem verstopften Abfluss kam ein fürchterlicher **Gestank**"]]
+  },
+  {
+    "lemma": "stint",
+    "meanings_de": ["begrenzte Zeitperiode"],
+    "definitions_de": ["Feste oder begrenzte Zeitspanne, die mit einer bestimmten Tätigkeit oder Arbeit verbracht wird"],
+    "examples_de": [["Sie absolvierte eine zweijährige **Dienstzeit** als Lehrerin in Japan", "Seine **Zeit** beim Militär lehrte ihn wertvolle Führungsqualitäten"]]
+  },
+  {
+    "lemma": "stipend",
+    "meanings_de": ["feste Zahlung Zuschuss"],
+    "definitions_de": ["Regelmäßige feste Zahlung zur Unterstützung während der Ausbildung oder des Trainings"],
+    "examples_de": [["Die wissenschaftliche Hilfskraft erhielt ein monatliches **Stipendium** von der Universität", "Ihr **Stipendium** deckte kaum die Lebenshaltungskosten in der teuren Stadt"]]
+  },
+  {
+    "lemma": "stipulation",
+    "meanings_de": ["spezifische Anforderung Bedingung"],
+    "definitions_de": ["Bedingung oder Anforderung, die als Teil einer Vereinbarung erfüllt werden muss"],
+    "examples_de": [["Der Vertrag enthielt eine **Klausel** über Arbeitszeiten und Überstunden", "Eine **Bedingung** des Stipendiums war die Aufrechterhaltung guter Noten"]]
+  },
+  {
+    "lemma": "stirring",
+    "meanings_de": ["Mischbewegung Aktion", "emotionale Erregung"],
+    "definitions_de": ["Handlung des Mischens durch Bewegen eines Löffels oder ähnlichen Werkzeugs", "Beginn eines Gefühls oder einer Emotion, die sich zu entwickeln beginnt"],
+    "examples_de": [["Das **Umrühren** der Suppe verhinderte, dass sie anbrannte", "Ständiges **Rühren** stellt sicher, dass die Soße nicht am Topf kleben bleibt"], ["Sie spürte die erste **Regung** der Hoffnung nach den Nachrichten", "Es gab **Anzeichen** einer Rebellion unter den unterdrückten Arbeitern"]]
+  },
+  {
+    "lemma": "stirrup",
+    "meanings_de": ["Reitfußstütze"],
+    "definitions_de": ["Metall- oder Lederschlaufe, die am Sattel hängt, um den Fuß des Reiters zu stützen"],
+    "examples_de": [["Sie stellte die **Steigbügel** ein, bevor sie das Pferd für ihren Ausritt bestieg", "Der Fuß des Reiters rutschte während des Sprungs aus dem **Steigbügel**"]]
+  },
+  {
+    "lemma": "stitch",
+    "meanings_de": ["Fadenschlaufe Nähen", "scharfer Seitenschmerz"],
+    "definitions_de": ["Einzelne Fadenschlaufe beim Nähen oder bei medizinischen Nähten", "Plötzlicher scharfer Schmerz in der Seite durch anstrengende Übung verursacht"],
+    "examples_de": [["Der Arzt nähte den tiefen Schnitt mit zehn **Stichen**", "Sie entfernte vorsichtig jeden **Stich** aus dem gestickten Muster"], ["Er bekam beim Marathonlauf **Seitenstechen**", "Das **Seitenstechen** war so schmerzhaft, dass sie mit dem Joggen aufhören musste"]]
+  },
+  {
+    "lemma": "stitching",
+    "meanings_de": ["Nähfadenarbeit"],
+    "definitions_de": ["Prozess oder Ergebnis des Zusammenfügens von Stoff mit Faden und Nadel"],
+    "examples_de": [["Die **Nähte** an der Lederjacke wurden von Hand gefertigt", "Hochwertige **Nähte** sorgen dafür, dass das Kleidungsstück viele Jahre hält"]]
+  },
+  {
+    "lemma": "stockade",
+    "meanings_de": ["Verteidigungszaun Barriere"],
+    "definitions_de": ["Verteidigungsbarriere oder Einfriedung aus in den Boden getriebenen Holzpfählen"],
+    "examples_de": [["Das Fort war von einer hohen hölzernen **Palisade** umgeben", "Die Gefangenen wurden bis zu ihrem Prozess in der **Umzäunung** festgehalten"]]
+  },
+  {
+    "lemma": "stockbroker",
+    "meanings_de": ["Wertpapierhändler"],
+    "definitions_de": ["Person, die im Auftrag von Kunden Aktien und andere Wertpapiere kauft und verkauft"],
+    "examples_de": [["Der **Börsenmakler** riet seinen Kunden, ihre Anlageportfolios zu diversifizieren", "Er arbeitete zwanzig Jahre lang als **Aktienhändler** an der Wall Street"]]
+  },
+  {
+    "lemma": "stocker",
+    "meanings_de": ["Regalauffüller"],
+    "definitions_de": ["Mitarbeiter, der Regale in einem Geschäft oder Lager mit Waren befüllt"],
+    "examples_de": [["Der **Nachtauffüller** arbeitete, während das Geschäft geschlossen war", "Sie begann als **Regalauffüllerin** und arbeitete sich bis zur Managerin hoch"]]
+  },
+  {
+    "lemma": "stockholder",
+    "meanings_de": ["Unternehmensanteilseigner"],
+    "definitions_de": ["Person, die Aktienanteile an einer Gesellschaft oder einem Unternehmen besitzt"],
+    "examples_de": [["Die **Aktionäre** stimmten bei der Jahresversammlung über die geplante Fusion ab", "Als **Anteilseignerin** erhielt sie vierteljährliche Dividendenzahlungen"]]
+  },
+  {
+    "lemma": "stocking",
+    "meanings_de": ["Beinbekleidung"],
+    "definitions_de": ["Enganliegende Bedeckung für Fuß und Bein aus Nylon oder Seide"],
+    "examples_de": [["Sie trug seidene **Strümpfe** zu ihrem Abendkleid", "Die Krankenschwester zog **Kompressionsstrümpfe** an, um die Durchblutung zu verbessern"]]
+  },
+  {
+    "lemma": "stockman",
+    "meanings_de": ["Viehzuchtarbeiter"],
+    "definitions_de": ["Person, die sich auf einer Farm oder Ranch um das Vieh kümmert"],
+    "examples_de": [["Der **Viehzüchter** kontrollierte jeden Morgen bei Tagesanbruch das Vieh", "Ein erfahrener **Viehhüter** kann kranke Tiere schnell erkennen"]]
+  },
+  {
+    "lemma": "stockpile",
+    "meanings_de": ["gelagerter Vorrat Reserve"],
+    "definitions_de": ["Großer angesammelter Vorrat an Waren oder Materialien für zukünftige Verwendung"],
+    "examples_de": [["Das Land unterhält eine strategische **Ölreserve**", "Sie legten einen **Vorrat** an Konserven für Notfälle an"]]
+  },
+  {
+    "lemma": "stockpiling",
+    "meanings_de": ["Vorräte ansammelnde Tätigkeit"],
+    "definitions_de": ["Handlung des Sammelns und Lagerns großer Mengen von Waren für zukünftige Verwendung"],
+    "examples_de": [["Das **Horten** von Waffen verstieß gegen den internationalen Vertrag", "Die Menschen begannen vor dem vorhergesagten Sturm mit dem **Anlegen von Vorräten**"]]
+  },
+  {
+    "lemma": "stoic",
+    "meanings_de": ["emotional beherrschte Person"],
+    "definitions_de": ["Person, die Schmerz oder Härte ertragen kann, ohne Gefühle zu zeigen oder zu klagen"],
+    "examples_de": [["Er blieb während seiner Krebsbehandlung ein **Stoiker**", "Der **Stoiker** zeigte selbst in schwierigen Zeiten selten Emotionen"]]
+  },
+  {
+    "lemma": "stoicism",
+    "meanings_de": ["emotionale Ausdauer Philosophie"],
+    "definitions_de": ["Ertragen von Schmerz oder Härte ohne Klage oder Philosophie, die Selbstbeherrschung lehrt"],
+    "examples_de": [["Ihre **Gelassenheit** während der Krise inspirierte alle um sie herum", "Der antike **Stoizismus** beeinflusste viele moderne philosophische Bewegungen"]]
+  },
+  {
+    "lemma": "stoker",
+    "meanings_de": ["Ofenheizer"],
+    "definitions_de": ["Person, die einen Ofen oder ein Feuer bedient und mit Brennstoff versorgt"],
+    "examples_de": [["Der **Heizer** des Schiffes arbeitete bei extremer Hitze unter Deck", "Die **Heizer** der Dampfmaschine schaufelten während ihrer langen Schichten Kohle"]]
+  },
+  {
+    "lemma": "stole",
+    "meanings_de": ["Schulterumhang"],
+    "definitions_de": ["Langer Schal oder Umhang für Frauen, der locker über den Schultern getragen wird"],
+    "examples_de": [["Sie legte eine **Pelzstola** über ihr Abendkleid", "Die Braut trug die vintage **Spitzenstola** ihrer Großmutter"]]
+  },
+  {
+    "lemma": "stomp",
+    "meanings_de": ["schwerer Fußschritt"],
+    "definitions_de": ["Schwerer stampfender Schritt, der kraftvoll mit dem Fuß gemacht wird"],
+    "examples_de": [["Sein wütender **Stampfer** war im ganzen Haus zu hören", "Das **Stampfen** des Tänzers hielt den Rhythmus mit dem Trommelschlag"]]
+  },
+  {
+    "lemma": "stonemason",
+    "meanings_de": ["Steinmetz"],
+    "definitions_de": ["Facharbeiter, der Stein schneidet, vorbereitet und damit baut"],
+    "examples_de": [["Der **Steinmetz** meißelte sorgfältig die Marmorstatue", "Sie engagierten einen **Steinmetz**, um die alte Steinmauer zu reparieren"]]
+  },
+  {
+    "lemma": "stoner",
+    "meanings_de": ["Marihuanakonsument"],
+    "definitions_de": ["Person, die regelmäßig Marihuana oder andere Freizeitdrogen konsumiert"],
+    "examples_de": [["Der **Kiffer** vom College verbrachte die meisten Wochenenden damit, mit Freunden high zu werden", "Er war in der Highschool als **Kiffer** bekannt"]]
+  },
+  {
+    "lemma": "stoneware",
+    "meanings_de": ["Steinzeug Keramikart"],
+    "definitions_de": ["Keramikart, die bei hoher Temperatur gebrannt wird und dadurch nicht porös und haltbar ist"],
+    "examples_de": [["Die Küche war mit handgefertigtem **Steinzeuggeschirr** gefüllt", "**Steinzeugtöpfe** wurden traditionell zur Lebensmittellagerung verwendet"]]
+  },
+  {
+    "lemma": "stonework",
+    "meanings_de": ["Steinbauhandwerk"],
+    "definitions_de": ["Teile eines Gebäudes oder einer Struktur aus Stein oder das Handwerk selbst"],
+    "examples_de": [["Das aufwendige **Mauerwerk** der Kathedrale dauerte Jahrzehnte", "Sie bewunderten das alte **Steinwerk** der Burgmauern"]]
+  },
+  {
+    "lemma": "stoning",
+    "meanings_de": ["Hinrichtung durch Steinigen"],
+    "definitions_de": ["Form der Hinrichtung, bei der eine Gruppe Steine auf eine Person wirft, bis der Tod eintritt"],
+    "examples_de": [["Die **Steinigung** wurde in der Antike als Todesstrafe verwendet", "Die Praxis der **Steinigung** existiert noch in einigen Teilen der Welt"]]
+  }
+]

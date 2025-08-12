@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "pinched",
+    "meanings_de": ["zusammengedrückt oder eng", "von Entbehrung gezeichnet"],
+    "definitions_de": ["zusammengezogen oder zusammengedrückt, wodurch etwas schmaler oder enger erscheint als normal", "Anzeichen von Armut, Entbehrung oder körperlichem Unbehagen im Aussehen zeigend"],
+    "examples_de": [["Ihre **eingezogene** Taille ließ das Kleid elegant wirken", "Der **eingeklemmte** Nerv verursachte stechende Schmerzen im Arm"], ["Sein **verhärmtes** Gesicht verriet jahrelange finanzielle Schwierigkeiten", "Sie hatte einen **gequälten** Gesichtsausdruck von der bitteren Kälte"]]
+  },
+  {
+    "lemma": "pinkish",
+    "meanings_de": ["leicht rosa gefärbt"],
+    "definitions_de": ["eine Farbe habend, die etwas rosa ist oder einen rosa Schimmer aufweist, aber nicht vollständig rosa"],
+    "examples_de": [["Der Sonnenuntergang tauchte die Berge in ein **rötliches** Licht", "Ihre Wangen hatten nach dem Sport einen gesunden **rosigen** Ton"]]
+  },
+  {
+    "lemma": "pious",
+    "meanings_de": ["tief religiös", "scheinheilig tugendhaft"],
+    "definitions_de": ["tiefe Ehrfurcht vor Gott oder religiösen Praktiken mit aufrichtiger Hingabe zeigend", "eine Zurschaustellung von Tugend oder Rechtschaffenheit, die unaufrichtig oder selbstgerecht sein kann"],
+    "examples_de": [["Die **frommen** Mönche verbrachten täglich Stunden im Gebet", "Ihre **fromme** Hingabe an die Wohltätigkeitsarbeit inspirierte andere"], ["Seine **scheinheiligen** Vorträge über Moral klangen angesichts seines Verhaltens hohl", "Sie hielt eine **selbstgerechte** Rede, während sie ihre eigenen Fehler ignorierte"]]
+  },
+  {
+    "lemma": "pissed",
+    "meanings_de": ["sehr wütend", "betrunken"],
+    "definitions_de": ["extreme Wut, Verärgerung oder Frustration über etwas fühlend oder zeigend", "in einem Zustand der Trunkenheit durch übermäßigen Alkoholkonsum"],
+    "examples_de": [["Er war **stinksauer** wegen des ausgefallenen Fluges", "Sie wurde **wütend**, als ihr Computer wieder abstürzte"], ["Nach sechs Bieren war er völlig **besoffen**", "Sie kamen **betrunken** von der Party nach Hause"]]
+  },
+  {
+    "lemma": "pitched",
+    "meanings_de": ["in einem Winkel gesetzt", "geworfen", "mit bestimmtem Ton"],
+    "definitions_de": ["in einem bestimmten Winkel oder Gefälle positioniert statt eben zu sein", "mit Kraft in eine bestimmte Richtung geworfen oder geschleudert worden", "einen bestimmten musikalischen Ton, eine Frequenz oder Lautstärke habend"],
+    "examples_de": [["Das **geneigte** Dach ließ den Schnee leicht abrutschen", "Sie schlugen ihr Lager auf **abschüssigem** Gelände mit Talblick auf"], ["Er warf den Ball direkt in den **geworfenen** Handschuh des Fängers", "Der **geschleuderte** Stein hüpfte über das Wasser"], ["Ihre **hohe** Stimme trug durch den ganzen Raum", "Das **tiefe** Brummen kam vom Kühlschrank"]]
+  },
+  {
+    "lemma": "pithy",
+    "meanings_de": ["prägnant und bedeutungsvoll"],
+    "definitions_de": ["viel Bedeutung in wenigen Worten mit kraftvoller und einprägsamer Sprache ausdrückend"],
+    "examples_de": [["Ihre **prägnanten** Kommentare erfassten immer das Wesentliche des Problems", "Die **markigen** Beobachtungen des Redners hielten das Publikum bei der Stange"]]
+  },
+  {
+    "lemma": "pitiful",
+    "meanings_de": ["Mitleid erregend", "verachtenswert unzureichend"],
+    "definitions_de": ["Mitleid, Sympathie oder Mitgefühl aufgrund von Leiden oder Unglück verdienend oder erregend", "so unzureichend, inkompetent oder von schlechter Qualität, dass es Verachtung verdient"],
+    "examples_de": [["Die **kläglichen** Schreie des verletzten Tieres rührten alle", "Sie machte einen **jämmerlichen** Versuch, ihre Tränen zu verbergen"], ["Seine **erbärmliche** Ausrede täuschte niemanden im Raum", "Die **klägliche** Leistung des Teams enttäuschte ihre Fans"]]
+  },
+  {
+    "lemma": "pitted",
+    "meanings_de": ["mit Vertiefungen versehen", "entkernt"],
+    "definitions_de": ["mit kleinen Löchern, Einbuchtungen oder Hohlräumen auf der Oberfläche markiert oder vernarbt", "bei dem der Kern oder Stein entfernt wurde, besonders bei Obst"],
+    "examples_de": [["Die **narbige** Metalloberfläche zeigte jahrelange Korrosion", "Sein **narbiger** Teint war das Ergebnis von Teenagerakne"], ["Sie kaufte **entkernte** Oliven für den Salat", "Das Rezept verlangt **entsteinte** Kirschen"]]
+  },
+  {
+    "lemma": "pituitary",
+    "meanings_de": ["die Hypophyse betreffend"],
+    "definitions_de": ["die Hypophyse betreffend oder beeinflussend, eine kleine endokrine Drüse an der Hirnbasis, die Wachstum und Entwicklung steuert"],
+    "examples_de": [["Das **Hypophysen**-Hormon reguliert verschiedene Körperfunktionen", "Bei ihr wurde eine **hypophysäre** Störung diagnostiziert, die ihr Wachstum beeinträchtigte"]]
+  },
+  {
+    "lemma": "pivotal",
+    "meanings_de": ["entscheidend wichtig"],
+    "definitions_de": ["von entscheidender Bedeutung für die Entwicklung oder den Erfolg von etwas; einen Wendepunkt darstellend"],
+    "examples_de": [["Ihre **entscheidende** Entscheidung veränderte den Kurs des Unternehmens", "Die Entdeckung war **ausschlaggebend** für das Verständnis der Krankheit"]]
+  },
+  {
+    "lemma": "placed",
+    "meanings_de": ["irgendwo positioniert", "in Wettbewerb platziert"],
+    "definitions_de": ["an eine bestimmte Position, einen Ort oder eine Anordnung gesetzt oder gebracht worden", "einen bestimmten Rang oder eine Position in einem Wettbewerb oder Wettkampf erreicht habend"],
+    "examples_de": [["Die sorgfältig **platzierten** Dekorationen schufen eine festliche Atmosphäre", "Die **aufgegebene** Bestellung wird innerhalb von drei Tagen eintreffen"], ["Sie wurde Dritte bei der nationalen Meisterschaft **platziert**", "Die **platzierten** Pferde überquerten gemeinsam die Ziellinie"]]
+  },
+  {
+    "lemma": "placental",
+    "meanings_de": ["die Plazenta betreffend"],
+    "definitions_de": ["die Plazenta betreffend oder damit verbunden, das Organ, das einen Fötus während der Schwangerschaft bei Säugetieren ernährt"],
+    "examples_de": [["Die **plazentare** Schranke schützt den sich entwickelnden Fötus", "**Plazentale** Säugetiere gebären relativ entwickelte Junge"]]
+  },
+  {
+    "lemma": "placid",
+    "meanings_de": ["ruhig und friedlich"],
+    "definitions_de": ["angenehm ruhig oder friedlich, mit wenig Bewegung oder Aktivität; keine Angst oder Aufregung zeigend"],
+    "examples_de": [["Der **ruhige** See spiegelte die Berge perfekt wider", "Ihr **gelassenes** Auftreten half, die aufgeregten Kinder zu beruhigen"]]
+  },
+  {
+    "lemma": "plagiarized",
+    "meanings_de": ["ohne Quellenangabe kopiert"],
+    "definitions_de": ["als eigene Arbeit übernommen und verwendet, ohne die ursprüngliche Quelle oder den Autor anzuerkennen"],
+    "examples_de": [["Der **plagiierte** Aufsatz führte zur akademischen Suspendierung", "Mehrere **abgeschriebene** Passagen wurden im Manuskript gefunden"]]
+  },
+  {
+    "lemma": "plaintive",
+    "meanings_de": ["Trauer ausdrückend"],
+    "definitions_de": ["traurig und klagend klingend, Kummer oder Melancholie ausdrückend, besonders auf sanfte Weise"],
+    "examples_de": [["Der **klagende** Ton der Violine erfüllte den Konzertsaal", "Ihre **wehmütige** Stimme verriet ihre tiefe Einsamkeit"]]
+  },
+  {
+    "lemma": "planar",
+    "meanings_de": ["flach und zweidimensional"],
+    "definitions_de": ["zu einer Ebene gehörend oder in einer Ebene liegend; eine flache, zweidimensionale Oberfläche oder Form habend"],
+    "examples_de": [["Die **planare** Geometrie machte die Berechnungen einfacher", "**Planare** Moleküle haben alle Atome in derselben Ebene"]]
+  },
+  {
+    "lemma": "planetary",
+    "meanings_de": ["Planeten betreffend"],
+    "definitions_de": ["zu einem oder mehreren Planeten gehörend oder damit verbunden, besonders denen in unserem Sonnensystem"],
+    "examples_de": [["**Planetare** Bewegung folgt vorhersagbaren Umlaufbahnmustern", "Der **Planetenforscher** untersuchte die Atmosphäre des Mars"]]
+  },
+  {
+    "lemma": "planktonic",
+    "meanings_de": ["Plankton betreffend"],
+    "definitions_de": ["zu Plankton gehörend oder charakteristisch dafür, winzige Organismen, die in Gewässern treiben"],
+    "examples_de": [["**Planktonische** Organismen bilden die Basis ozeanischer Nahrungsketten", "Die **planktonischen** Larven trieben mit den Meeresströmungen"]]
+  },
+  {
+    "lemma": "planned",
+    "meanings_de": ["im Voraus geplant"],
+    "definitions_de": ["im Voraus nach einer bestimmten Absicht oder einem Schema entschieden, arrangiert oder entworfen"],
+    "examples_de": [["Die **geplanten** Renovierungen beginnen nächsten Monat", "Ihr **geplanter** Urlaub musste abgesagt werden"]]
+  },
+  {
+    "lemma": "plantar",
+    "meanings_de": ["die Fußsohle betreffend"],
+    "definitions_de": ["die Fußsohle oder den entsprechenden Teil betreffend oder beeinflussend"],
+    "examples_de": [["**Plantare** Fasziitis verursacht Fersenschmerzen bei Läufern", "Die **plantare** Oberfläche des Fußes hat dicke Haut"]]
+  },
+  {
+    "lemma": "planted",
+    "meanings_de": ["in Erde gepflanzt", "absichtlich positioniert"],
+    "definitions_de": ["in den Boden gesetzt zum Wachsen, besonders Samen, Zwiebeln oder junge Pflanzen", "absichtlich in Position gebracht, oft heimlich oder mit der Absicht zu täuschen"],
+    "examples_de": [["Die **gepflanzten** Samen keimten nach dem Frühlingsregen", "Neu **gepflanzte** Bäume säumten die renovierte Straße"], ["Die **platzierten** Beweise führten zu einer unrechtmäßigen Verurteilung", "Die Polizei entdeckte das **platzierte** Gerät während ihrer Durchsuchung"]]
+  },
+  {
+    "lemma": "plastered",
+    "meanings_de": ["mit Putz bedeckt", "stark betrunken"],
+    "definitions_de": ["mit Putzmaterial bedeckt oder Putz auf Wände oder Oberflächen aufgetragen habend", "stark berauscht durch übermäßigen Alkoholkonsum"],
+    "examples_de": [["Die **verputzten** Wände brauchten einen frischen Anstrich", "Die neu **verputzte** Decke sah glatt und sauber aus"], ["Er war auf seiner Junggesellenparty völlig **besoffen**", "Sie war zu **betrunken**, um sich zu erinnern, wie sie nach Hause kam"]]
+  },
+  {
+    "lemma": "platonic",
+    "meanings_de": ["nicht-romantische Zuneigung"],
+    "definitions_de": ["innige Zuneigung zwischen Menschen beschreibend, die rein geistig oder intellektuell ohne romantische oder sexuelle Elemente ist"],
+    "examples_de": [["Ihre **platonische** Freundschaft hielt während des gesamten Studiums", "Er bestand darauf, dass ihre Beziehung rein **platonisch** sei"]]
+  },
+  {
+    "lemma": "plausible",
+    "meanings_de": ["scheinbar vernünftig"],
+    "definitions_de": ["vernünftig, wahrscheinlich oder wahrhaftig genug erscheinend, um geglaubt oder als möglich akzeptiert zu werden"],
+    "examples_de": [["Ihre **plausible** Erklärung befriedigte die Ermittler", "Die Theorie klingt **glaubhaft**, braucht aber mehr Beweise"]]
+  },
+  {
+    "lemma": "playable",
+    "meanings_de": ["zum Spielen geeignet"],
+    "definitions_de": ["fähig, gespielt, aufgeführt oder in einem Spiel-, Sport- oder musikalischen Kontext verwendet zu werden"],
+    "examples_de": [["Die beschädigte Geige war immer noch **spielbar**", "Die Platzbedingungen machten ihn kaum **bespielbar**"]]
+  },
+  {
+    "lemma": "played",
+    "meanings_de": ["bereits aufgeführt", "künstlich übertrieben"],
+    "definitions_de": ["als Spiel, Sport oder Aufführung durchgeführt, ausgeführt oder daran teilgenommen habend", "auf künstliche, theatralische Weise für einen Effekt übertrieben oder aufgeführt"],
+    "examples_de": [["Das **gespielte** Match endete mit einer überraschenden Niederlage", "Sein meistgespielter Song führte die Charts an"], ["Ihre **gespielte** Unschuld täuschte die Geschworenen nicht", "Die **gespielte** Überraschung wirkte auf alle unglaubwürdig"]]
+  },
+  {
+    "lemma": "playful",
+    "meanings_de": ["voller Spaß"],
+    "definitions_de": ["Spiele und Vergnügungen liebend; unbeschwert und voller Spaß statt ernst"],
+    "examples_de": [["Der **verspielte** Welpe jagte seinem Schwanz im Kreis hinterher", "Ihr **scherzhaftes** Necken brachte alle zum Lachen"]]
+  },
+  {
+    "lemma": "pleading",
+    "meanings_de": ["inständig bittend"],
+    "definitions_de": ["einen emotionalen oder ernsthaften Appell machend, besonders wenn man verzweifelt um etwas bittet"],
+    "examples_de": [["Ihre **flehenden** Augen überzeugten ihn zu bleiben", "Der **bittende** Ton in seiner Stimme zeigte Verzweiflung"]]
+  },
+  {
+    "lemma": "pleasing",
+    "meanings_de": ["Befriedigung gebend"],
+    "definitions_de": ["ein Gefühl von Befriedigung, Genuss oder Glück gebend; angenehm für die Sinne oder den Geist"],
+    "examples_de": [["Das **angenehme** Aroma von frischem Brot erfüllte die Küche", "Ihre **gefällige** Persönlichkeit machte sie bei Kunden beliebt"]]
+  },
+  {
+    "lemma": "pleasurable",
+    "meanings_de": ["Vergnügen bereitend"],
+    "definitions_de": ["Vergnügen, Genuss oder Befriedigung für die Sinne oder den Geist gebend oder dazu fähig"],
+    "examples_de": [["Lesen wurde für sie zu einer **angenehmen** Abendroutine", "Das Spa bot verschiedene **genussvolle** Behandlungen an"]]
+  },
+  {
+    "lemma": "plebeian",
+    "meanings_de": ["gewöhnlich und unverfeinert"],
+    "definitions_de": ["zu gewöhnlichen Menschen gehörend oder für sie charakteristisch, ohne die Verfeinerung oder Bildung der Eliteklassen"],
+    "examples_de": [["Seine **plebejischen** Vorlieben galten Bier und Fußball", "Die **volkstümliche** Atmosphäre des Restaurants zog normale Leute an"]]
+  },
+  {
+    "lemma": "pledged",
+    "meanings_de": ["förmlich versprochen"],
+    "definitions_de": ["ein feierliches Versprechen oder eine Verpflichtung gemacht habend, etwas zu tun oder eine Sache zu unterstützen"],
+    "examples_de": [["Die **zugesagten** Spenden überstiegen das Spendenziel", "Alle **verpflichteten** Mitglieder müssen die Einführung abschließen"]]
+  },
+  {
+    "lemma": "plenary",
+    "meanings_de": ["vollständig und absolut"],
+    "definitions_de": ["in jeder Hinsicht vollständig; absolut und uneingeschränkt, besonders in Bezug auf Macht oder Autorität"],
+    "examples_de": [["Der Ausschuss erhielt **uneingeschränkte** Befugnisse zur Untersuchung", "Alle Mitglieder müssen an der **Vollversammlung** teilnehmen"]]
+  },
+  {
+    "lemma": "plentiful",
+    "meanings_de": ["reichlich vorhanden"],
+    "definitions_de": ["in großen Mengen oder Zahlen vorhanden; mehr als ausreichend in Angebot oder Menge"],
+    "examples_de": [["Die Ernte brachte dieses Jahr **reichliche** Erträge", "Arbeitsplätze waren während des Wirtschaftsbooms **reichlich** vorhanden"]]
+  },
+  {
+    "lemma": "pleural",
+    "meanings_de": ["das Rippenfell betreffend"],
+    "definitions_de": ["das Rippenfell betreffend, die Membran, die die Lungen umgibt und die Brusthöhle auskleidet"],
+    "examples_de": [["Der **Pleura**-Hohlraum enthält Flüssigkeit zur Schmierung", "Sie entwickelte nach der Operation eine **pleurale** Infektion"]]
+  },
+  {
+    "lemma": "pliable",
+    "meanings_de": ["leicht biegbar", "leicht beeinflussbar"],
+    "definitions_de": ["leicht zu biegen, zu formen oder zu biegen, ohne zu brechen; geschmeidig und flexibel", "leicht zu beeinflussen, zu kontrollieren oder zu lenken; bereitwillig anderen nachgebend"],
+    "examples_de": [["Das **biegsame** Leder konnte in Form gebracht werden", "Junge Zweige sind **biegsamer** als alte"], ["Seine **nachgiebige** Natur machte ihn anfällig für Gruppendruck", "Der **fügsame** Schüler akzeptierte jeden Vorschlag"]]
+  },
+  {
+    "lemma": "plodding",
+    "meanings_de": ["langsam und mühsam"],
+    "definitions_de": ["langsam, stetig und mühsam voranschreitend ohne Aufregung oder Inspiration"],
+    "examples_de": [["Sein **schwerfälliges** Tempo ärgerte schnellere Wanderer", "Die **schleppende** Erzählung machte das Buch schwer zu beenden"]]
+  },
+  {
+    "lemma": "plotted",
+    "meanings_de": ["auf Grafik markiert", "heimlich geplant"],
+    "definitions_de": ["als Punkte oder Linien auf einem Diagramm, einer Karte oder Landkarte markiert oder gezeichnet", "heimlich geplant oder ausgeheckt, besonders etwas Illegales oder Schädliches"],
+    "examples_de": [["Die **eingetragenen** Datenpunkte zeigten einen klaren Trend", "Sie **zeichnete** die Route auf ihrem GPS-Gerät ein"], ["Sie **planten** ihre Flucht monatelang", "Die **geplante** Rebellion wurde von den Behörden entdeckt"]]
+  },
+  {
+    "lemma": "ploughed",
+    "meanings_de": ["umgepflügter Boden"],
+    "definitions_de": ["Boden, der von einem Pflug zum Anbau umgebrochen und aufgelockert wurde"],
+    "examples_de": [["Die **gepflügten** Felder waren bereit für die Frühjahrsaussaat", "Frisch **gepflügte** Erde hat einen unverwechselbaren Geruch"]]
+  },
+  {
+    "lemma": "plowed",
+    "meanings_de": ["umgepflügter Boden"],
+    "definitions_de": ["Boden, der von einem Pflug zum Anbau umgebrochen und aufgelockert wurde"],
+    "examples_de": [["Das **gepflügte** Feld wartete auf die neuen Samen", "**Geräumte** Straßen machten das Fahren sicherer"]]
+  },
+  {
+    "lemma": "plucked",
+    "meanings_de": ["gezupft oder gepflückt"],
+    "definitions_de": ["durch Greifen und scharfes Ziehen schnell herausgezogen, gepflückt oder entfernt"],
+    "examples_de": [["Das **gerupfte** Huhn war kochfertig", "Sie **pflückte** eine Blume aus dem Garten"]]
+  },
+  {
+    "lemma": "plucky",
+    "meanings_de": ["mutig und entschlossen"],
+    "definitions_de": ["Mut und Entschlossenheit in schwierigen Umständen zeigend, obwohl man klein oder schwach ist"],
+    "examples_de": [["Das **mutige** Außenseiterteam gewann gegen alle Widerstände", "Ihre **tapfere** Einstellung inspirierte andere, die mit Schwierigkeiten konfrontiert waren"]]
+  },
+  {
+    "lemma": "plugged",
+    "meanings_de": ["blockiert oder gefüllt", "elektrisch angeschlossen"],
+    "definitions_de": ["eine Öffnung habend, die mit etwas blockiert, gefüllt oder verstopft ist", "an eine Steckdose oder Stromquelle angeschlossen"],
+    "examples_de": [["Der **verstopfte** Abfluss ließ das Wasser zurückstauen", "Seine **verstopfte** Nase machte das Atmen schwer"], ["Lassen Sie das Gerät während des Updates **angeschlossen**", "Die **eingesteckten** Geräte verbrauchten Standby-Strom"]]
+  },
+  {
+    "lemma": "plumaged",
+    "meanings_de": ["mit Federn versehen"],
+    "definitions_de": ["mit Federn bedeckt oder durch Federn gekennzeichnet, besonders dekorative oder bunte Vogelfedern"],
+    "examples_de": [["Der bunt **befiederte** Papagei zog viele Besucher an", "**Befiederte** Dinosaurier veränderten unser Verständnis der Evolution"]]
+  },
+  {
+    "lemma": "plumb",
+    "meanings_de": ["vollkommen senkrecht", "vollständig oder absolut"],
+    "definitions_de": ["genau senkrecht oder lotrecht, wie mit einem Lot getestet", "vollständig, gründlich oder absolut in Grad oder Ausmaß"],
+    "examples_de": [["Der Zimmermann stellte sicher, dass die Wand **lotrecht** war", "Der Pfosten muss justiert werden, um **senkrecht** zu sein"], ["Er war **völlig** erschöpft nach dem Marathon", "Diese Idee ist **total** verrückt, wenn du mich fragst"]]
+  },
+  {
+    "lemma": "plumed",
+    "meanings_de": ["mit Federn geschmückt"],
+    "definitions_de": ["mit Federn dekoriert oder geschmückt, besonders als Zierelement"],
+    "examples_de": [["Der **federngeschmückte** Helm gehörte einem römischen Zenturio", "Tänzer trugen **federgeschmückte** Kopfbedeckungen in der Parade"]]
+  },
+  {
+    "lemma": "plump",
+    "meanings_de": ["angenehm dick"],
+    "definitions_de": ["eine volle, runde Form habend; leicht dick auf eine attraktive oder angenehme Weise"],
+    "examples_de": [["Die **prallen** Kissen machten das Sofa bequem", "Sie wählte **pralle** Tomaten vom Markt aus"]]
+  },
+  {
+    "lemma": "plundered",
+    "meanings_de": ["geraubt und geplündert"],
+    "definitions_de": ["mit Gewalt der Güter oder Wertsachen beraubt, besonders in Kriegs- oder Unruhezeiten"],
+    "examples_de": [["Das **geplünderte** Dorf brauchte Jahre zur Erholung", "Piraten **plünderten** Schiffe entlang der Küste"]]
+  },
+  {
+    "lemma": "plundering",
+    "meanings_de": ["aktiv stehlend"],
+    "definitions_de": ["in der Handlung des Stehlens von Gütern mit Gewalt engagiert, besonders während Krieg oder Unruhen"],
+    "examples_de": [["Die **plündernde** Armee hinterließ Zerstörung", "**Plündernde** Überfälle verwüsteten Küstengemeinden"]]
+  },
+  {
+    "lemma": "plural",
+    "meanings_de": ["mehr als eins"],
+    "definitions_de": ["mehr als eine Person oder Sache in Grammatik oder Menge bezeichnend oder darauf bezogen"],
+    "examples_de": [["Die **Plural**form von 'Kind' ist 'Kinder'", "Wir müssen **mehrere** Perspektiven zu diesem Thema berücksichtigen"]]
+  }
+]

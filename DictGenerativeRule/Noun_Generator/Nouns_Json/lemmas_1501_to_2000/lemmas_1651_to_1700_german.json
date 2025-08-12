@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "pie",
+    "meanings_de": ["gebackene Pastete", "Kreisdiagramm"],
+    "definitions_de": ["Ein gebackenes Gericht mit Teigkruste, das eine süße oder herzhafte Füllung enthält", "Ein kreisförmiges Diagramm, das in Segmente unterteilt ist und die Anteile von Daten zeigt"],
+    "examples_de": [["Omas **Apfelkuchen** gewann gestern den ersten Preis auf dem Volksfest", "Die **Hühnerpastete** war ein herzhaftes Abendessen an dem kalten Abend"], ["Das **Kreisdiagramm** zeigte, dass Marketing vierzig Prozent des Budgets verbrauchte", "Verwenden Sie ein **Tortendiagramm**, um zu visualisieren, wie die Zeit täglich verbracht wird"]]
+  },
+  {
+    "lemma": "resort",
+    "meanings_de": ["Urlaubsort", "letzte Möglichkeit"],
+    "definitions_de": ["Ein Ort, an den Menschen in den Urlaub fahren, mit Hotels und Freizeiteinrichtungen", "Die Handlung, sich als letzte Option an etwas zu wenden"],
+    "examples_de": [["Das **Strandresort** bot luxuriös Schwimmbäder, Restaurants und Spa-Dienste an", "**Skigebiete** werden während der Winterferienzeit jedes Jahr überfüllt"], ["Gewalt sollte nur als **letztes Mittel** zur Selbstverteidigung eingesetzt werden", "Sie mussten als **letzten Ausweg** Geld leihen, um die Rechnungen zu bezahlen"]]
+  },
+  {
+    "lemma": "legacy",
+    "meanings_de": ["geerbtes Vermögen", "bleibende Wirkung"],
+    "definitions_de": ["Geld oder Eigentum, das jemandem nach dem Tod in einem Testament hinterlassen wird", "Etwas, das von einem Vorfahren oder Vorgänger übertragen oder empfangen wird"],
+    "examples_de": [["Das **Erbe** ihrer Großmutter umfasste Schmuck und ein kleines Sparkonto", "Der wohlhabende Philanthrop hinterließ der Wohltätigkeitsorganisation ein **Vermächtnis** von einer Million Dollar"], ["Martin Luther Kings **Vermächtnis** inspiriert heute weiterhin Bürgerrechtsaktivisten", "Das **Erbe** der Innovation des Unternehmens erstreckt sich über fünfzig Jahre"]]
+  },
+  {
+    "lemma": "scope",
+    "meanings_de": ["Umfang, Reichweite", "Betrachtungsinstrument"],
+    "definitions_de": ["Der Umfang des Bereichs oder Themas, mit dem sich etwas befasst", "Ein Instrument zum Betrachten oder Untersuchen von etwas, das mit bloßem Auge nicht sichtbar ist"],
+    "examples_de": [["Der **Umfang** des Projekts erweiterte sich erheblich über unsere ursprünglichen Pläne hinaus", "Das Verständnis des vollen **Ausmaßes** des Klimawandels erfordert globale Zusammenarbeit"], ["Das **Zielfernrohr** half Jägern, Ziele auf große Entfernungen zu sehen", "Ärzte verwendeten ein **Endoskop**, um den Magen des Patienten intern zu untersuchen"]]
+  },
+  {
+    "lemma": "formation",
+    "meanings_de": ["Entstehungsprozess", "organisierte Anordnung"],
+    "definitions_de": ["Die Handlung des Formens oder der Prozess der Entstehung", "Eine bestimmte Anordnung oder ein Muster von Menschen, Dingen oder Teilen"],
+    "examples_de": [["Die **Gesteinsbildung** dauert natürlich Millionen von Jahren geologischer Prozesse", "Die **Bildung** neuer Gewohnheiten erfordert konsequente Übung über Zeit"], ["Die Gänse flogen zur Effizienz in perfekter **V-Formation** nach Süden", "Militärische **Formationen** marschierten während der Paradezeremonie in präzisen Mustern"]]
+  },
+  {
+    "lemma": "grandfather",
+    "meanings_de": ["Vater des Vaters", "Bestandsschutzklausel"],
+    "definitions_de": ["Der Vater des eigenen Vaters oder der eigenen Mutter in familiären Beziehungen", "Eine Bestimmung, die bestimmte Personen aufgrund ihres früheren Status von neuen Vorschriften befreit"],
+    "examples_de": [["Mein **Großvater** brachte mir bei, wie man angelt, als ich jung war", "Beide **Großväter** nahmen letzten Sommer an der Hochzeit ihrer Enkelin teil"], ["Die **Bestandsschutzklausel** erlaubte es bestehenden Unternehmen, neue Anforderungen zu vermeiden", "Wahlbeschränkungen enthielten historisch oft **Bestandsschutzklauseln** zur Diskriminierung"]]
+  },
+  {
+    "lemma": "wish",
+    "meanings_de": ["Wunsch, Hoffnung", "magische Bitte"],
+    "definitions_de": ["Ein Gefühl oder Ausdruck des Verlangens, dass etwas geschieht", "Eine Bitte um übernatürliche Erfüllung, oft mit Magie verbunden"],
+    "examples_de": [["Ihr größter **Wunsch** war es, ihre Kinder glücklich erfolgreich zu sehen", "Ich **wünschte**, Sie würden konsequent pünktlich zu Besprechungen kommen"], ["Der Dschinn gewährte demjenigen drei **Wünsche**, der die Lampe rieb", "Äußere einen **Wunsch**, bevor du heute Abend deine Geburtstagskerzen ausbläst"]]
+  },
+  {
+    "lemma": "margin",
+    "meanings_de": ["Rand, Grenze", "Gewinnunterschied"],
+    "definitions_de": ["Der Rand oder die Grenze von etwas, besonders auf einer Seite", "Der Betrag, um den etwas gewonnen wird oder zu kurz kommt"],
+    "examples_de": [["Schreiben Sie Ihre Notizen an den **Rand** der Lehrbuchseiten", "Der **Abstand** zwischen dem Text und dem Seitenrand war zu schmal"], ["Das Unternehmen arbeitet derzeit mit sehr geringen **Gewinnmargen**", "Sie gewann die Wahl mit einem **Vorsprung** von zweitausend Stimmen"]]
+  },
+  {
+    "lemma": "wound",
+    "meanings_de": ["körperliche Verletzung", "emotionale Verletzung"],
+    "definitions_de": ["Eine Verletzung des lebenden Gewebes, die durch einen Schnitt, Schlag oder anderen Aufprall verursacht wird", "Eine psychische Verletzung, die durch emotionales Trauma oder Leid verursacht wird"],
+    "examples_de": [["Die Krankenschwester reinigte und verband die **Wunde** an seinem Arm sorgfältig", "Tiefe **Wunden** erfordern Nähte, um richtig ohne Narbenbildung zu heilen"], ["Der Verrat hinterließ emotionale **Wunden**, die Jahre brauchten, um zu heilen", "Alte **Wunden** öffneten sich wieder, als sie sich nach der bitteren Scheidung trafen"]]
+  },
+  {
+    "lemma": "exhibition",
+    "meanings_de": ["öffentliche Ausstellung", "Zurschaustellung"],
+    "definitions_de": ["Eine öffentliche Ausstellung von Kunstwerken oder interessanten Gegenständen", "Die Darstellung oder Demonstration einer bestimmten Fähigkeit oder Eigenschaft"],
+    "examples_de": [["Die **Kunstausstellung** zeigte ausschließlich Gemälde von aufstrebenden lokalen Künstlern", "**Museumsausstellungen** wechseln alle paar Monate, um Wiederholungsbesucher anzuziehen"], ["Sein Wutanfall war eine peinliche **Zurschaustellung** schlechter Selbstkontrolle", "Die **Vorführung** der Flexibilität der Turnerin erstaunte das Publikum vollständig"]]
+  },
+  {
+    "lemma": "legislature",
+    "meanings_de": ["gesetzgebendes Organ", "Legislative"],
+    "definitions_de": ["Ein Regierungsorgan mit der Befugnis, Gesetze für eine politische Einheit zu erlassen", "Der Regierungszweig, der für die Schaffung und Verabschiedung von Gesetzen verantwortlich ist"],
+    "examples_de": [["Die **Landesgesetzgebung** tagt jährlich, um neue Gesetze zu debattieren und zu verabschieden", "Mitglieder der **Legislative** vertreten verschiedene Bezirke im ganzen Staat"], ["Das **Parlament** verabschiedete den Haushalt nach wochenlangen hitzigen Verhandlungen", "Zweikammer-**Parlamente** haben zwei Kammern wie Senat und Abgeordnetenhaus"]]
+  },
+  {
+    "lemma": "portrait",
+    "meanings_de": ["Personenbild", "detaillierte Beschreibung"],
+    "definitions_de": ["Ein Gemälde, eine Zeichnung oder ein Foto einer Person, besonders das Gesicht zeigend", "Eine detaillierte Beschreibung von jemandem oder etwas in Worten"],
+    "examples_de": [["Das **Porträt** des Firmengründers hängt in der Hauptlobby", "Sie beauftragte einen **Porträtmaler**, ihre Kinder zusammen zu malen"], ["Das Buch bietet ein intimes **Porträt** des Lebens während der Kriegszeit", "Die Dokumentation zeichnete ein **Bild** von städtischer Armut und Widerstandsfähigkeit"]]
+  },
+  {
+    "lemma": "catholic",
+    "meanings_de": ["universell, umfassend", "römisch-katholisch"],
+    "definitions_de": ["Eine große Vielfalt von Dingen einschließend oder allumfassend", "In Bezug auf die römisch-katholische Kirche oder ihre Mitglieder"],
+    "examples_de": [["Sie hat einen **universellen** Musikgeschmack von Klassik bis Hip-Hop", "Seine **vielseitigen** Interessen reichten von Wissenschaft über Poesie bis zum Kochen"], ["Die **katholische** Kirche in der Hauptstraße hält jeden Sonntag eine Messe ab", "**Katholische** Schulen bieten neben akademischen Fächern religiöse Bildung"]]
+  },
+  {
+    "lemma": "uniform",
+    "meanings_de": ["Standardkleidung", "einheitliches Muster"],
+    "definitions_de": ["Charakteristische Kleidung, die von Mitgliedern derselben Organisation getragen wird", "In allen Fällen und zu allen Zeiten gleich bleibend"],
+    "examples_de": [["Schüler müssen jeden Tag ohne Ausnahme **Uniformen** zur Schule tragen", "Die **Polizeiuniform** umfasst ein Abzeichen, eine Waffe und Funkgeräte"], ["Das Unternehmen hält **einheitliche** Standards in allen Filialen weltweit aufrecht", "Die Temperatur blieb während des kontrollierten Experiments durchgehend **gleichmäßig**"]]
+  },
+  {
+    "lemma": "miracle",
+    "meanings_de": ["göttliches Ereignis", "erstaunliches Vorkommnis"],
+    "definitions_de": ["Ein außergewöhnliches Ereignis, das göttlichem Eingreifen zugeschrieben wird und Naturgesetze missachtet", "Ein höchst unwahrscheinliches oder außergewöhnliches Ereignis, das willkommene Folgen bringt"],
+    "examples_de": [["Viele Pilger besuchen in der Hoffnung, ein **Wunder** zu bezeugen oder zu erleben", "Die Bibel beschreibt **Wunder**, die von Propheten und Jesus Christus vollbracht wurden"], ["Es ist ein **Wunder**, dass jemand den verheerenden Flugzeugabsturz überlebt hat", "Das medizinische Team nannte ihre Genesung nichts weniger als ein **Wunder**"]]
+  },
+  {
+    "lemma": "harm",
+    "meanings_de": ["körperlicher Schaden", "moralisches Unrecht"],
+    "definitions_de": ["Körperliche Verletzung oder Schädigung des Körpers oder der Gesundheit einer Person", "Materieller oder psychischer Schaden oder Verletzung"],
+    "examples_de": [["Das Medikament verursachte mit schweren Nebenwirkungen mehr **Schaden** als Nutzen", "Schützen Sie Kinder vor **Schaden**, indem Sie Ihr Zuhause kindersicher machen"], ["Das Verbreiten falscher Gerüchte kann den Ruf einer Person dauerhaft **schädigen**", "Mit dem unschuldigen Streich war kein **Schaden** beabsichtigt"]]
+  },
+  {
+    "lemma": "tactic",
+    "meanings_de": ["geplante Handlung", "strategische Methode"],
+    "definitions_de": ["Eine Handlung oder Strategie, die sorgfältig geplant ist, um ein bestimmtes Ziel zu erreichen", "Eine Methode, Kräfte im Kampf oder Wettbewerb einzusetzen"],
+    "examples_de": [["**Verzögerungstaktiken** frustrierten die Verhandlungen zwischen Gewerkschaft und Management erheblich", "Das Marketingteam entwickelte neue **Taktiken**, um jüngere Verbraucher zu erreichen"], ["Militärische **Taktiken** entwickelten sich historisch mit Fortschritten in der Waffentechnologie", "Schachspieler studieren **Taktiken**, um ihr Spiel strategisch zu verbessern"]]
+  },
+  {
+    "lemma": "mask",
+    "meanings_de": ["Gesichtsbedeckung", "Verkleidung, Vortäuschung"],
+    "definitions_de": ["Eine Bedeckung für das ganze Gesicht oder Teile davon zum Schutz oder zur Verkleidung", "Eine Art oder ein Ausdruck, der den wahren Charakter oder die Gefühle verbirgt"],
+    "examples_de": [["Während der Pandemie trugen alle **Masken**, um die Virusausbreitung zu verhindern", "Die Halloween-**Maske** verwandelte ihn sofort in ein gruseliges Monster"], ["Ihr fröhliches Auftreten war eine **Maske**, die tiefen Kummer verbarg", "Er konnte seine Enttäuschung nicht **verbergen**, als er den Wettbewerb verlor"]]
+  },
+  {
+    "lemma": "inflation",
+    "meanings_de": ["Preisanstieg", "Ausdehnungsprozess"],
+    "definitions_de": ["Ein allgemeiner Anstieg der Preise und ein Rückgang des Kaufwerts des Geldes", "Die Handlung, etwas aufzublasen, oder der Zustand des Aufgeblasenwerdens"],
+    "examples_de": [["Die **Inflation** erreichte acht Prozent, wodurch Lebensmittel jährlich erheblich teurer wurden", "Zentralbanken erhöhen die Zinssätze, um hohe **Inflation** wirksam zu bekämpfen"], ["Der **Reifendruck** sollte monatlich aus Sicherheits- und Effizienzgründen überprüft werden", "Das **Aufblasen** des Ballons dauerte nur wenige Sekunden"]]
+  },
+  {
+    "lemma": "hunting",
+    "meanings_de": ["Tierjagd", "Suchaktivität"],
+    "definitions_de": ["Die Aktivität, wilde Tiere für Nahrung oder Sport zu jagen", "Der Akt, entschlossen nach jemandem oder etwas zu suchen"],
+    "examples_de": [["Die **Hirschjagd**saison beginnt im November und erfordert ordnungsgemäße Lizenzen", "Alte Menschen verließen sich auf die **Jagd** zum Überleben, bevor sie die Landwirtschaft entwickelten"], ["Die **Jobsuche** kann für Hochschulabsolventen stressig und zeitaufwendig sein", "Die Polizei **sucht** nach Hinweisen in dem mysteriösen Verschwinden"]]
+  },
+  {
+    "lemma": "final",
+    "meanings_de": ["Abschlussprüfung", "Meisterschaftsspiel"],
+    "definitions_de": ["Die letzte Prüfung in einem Studiengang an der Schule oder Hochschule", "Das letzte Spiel in einem Sportturnier, das den Gewinner bestimmt"],
+    "examples_de": [["Sie lernte die ganze Nacht für ihre **Abschlussprüfung** in Chemie", "**Abschlussprüfungen** zählen vierzig Prozent der Kursnote"], ["Das **WM-Finale** zog über eine Milliarde Fernsehzuschauer an", "Unser Team schaffte es ins **Finale**, verlor aber in der Verlängerung"]]
+  },
+  {
+    "lemma": "flesh",
+    "meanings_de": ["Körpergewebe", "Fruchtfleisch"],
+    "definitions_de": ["Die weiche Substanz des menschlichen oder tierischen Körpers, bestehend aus Muskeln und Fett", "Der weiche essbare Teil einer Frucht oder eines Gemüses"],
+    "examples_de": [["Die Wunde schnitt tief ins **Fleisch** und erforderte sofortige medizinische Hilfe", "**Fleischfressende** Bakterien können schwere Infektionen verursachen, wenn sie nicht schnell behandelt werden"], ["Das **Fruchtfleisch** des Pfirsichs war süß und saftig, perfekt reif", "Avocado-**Fleisch** wird braun, wenn es zu lange der Luft ausgesetzt ist"]]
+  },
+  {
+    "lemma": "fellow",
+    "meanings_de": ["Mann, Person", "akademisches Mitglied"],
+    "definitions_de": ["Ein Mann oder Junge in informeller Verwendung, oft Vertrautheit zeigend", "Ein Mitglied einer gelehrten Gesellschaft oder Berufsorganisation"],
+    "examples_de": [["Der **Kerl** dort drüben fragte nach dem Weg zum Bahnhof", "Er ist ein guter **Bursche**, der seinen Nachbarn immer bereitwillig hilft"], ["Sie wurde letztes Jahr zum **Mitglied** der Royal Society gewählt", "Forschungs**stipendiaten** an der Universität erhalten Mittel für ihre Projekte"]]
+  },
+  {
+    "lemma": "nerve",
+    "meanings_de": ["Körperfaser", "Mut, Dreistigkeit"],
+    "definitions_de": ["Eine Faser, die Impulse zwischen Gehirn oder Rückenmark und Körperteilen überträgt", "Selbstvertrauen, Mut oder Kühnheit, besonders in herausfordernden Situationen"],
+    "examples_de": [["Der beschädigte **Nerv** verursachte dauerhaft Taubheit in ihrer linken Hand", "**Nervenzellen** übertragen ständig elektrische Signale durch den ganzen Körper"], ["Es braucht **Mut**, selbstbewusst vor großem Publikum zu sprechen", "Er hatte die **Dreistigkeit**, nach einer Gehaltserhöhung zu fragen, nachdem er zu spät gekommen war"]]
+  },
+  {
+    "lemma": "lung",
+    "meanings_de": ["Atmungsorgan", "Atmungssystem"],
+    "definitions_de": ["Ein Paar von Organen in der Brust, die den Körper mit Sauerstoff versorgen", "Ein wesentliches Atmungsorgan, das Sauerstoff und Kohlendioxid austauscht"],
+    "examples_de": [["Rauchen schädigt das **Lungengewebe** und erhöht das Krebsrisiko erheblich", "Der Arzt hörte ihre **Lungen** sorgfältig mit einem Stethoskop ab"], ["Tiefe Atemübungen helfen, die **Lungenkapazität** im Laufe der Zeit natürlich zu erweitern", "**Lungentransplantationen** können das Leben von Patienten mit schweren Erkrankungen retten"]]
+  },
+  {
+    "lemma": "headline",
+    "meanings_de": ["Nachrichtentitel", "Hauptattraktion"],
+    "definitions_de": ["Eine Überschrift oben auf einem Artikel oder einer Seite in einer Zeitung", "Eine Person oder Sache, die die Hauptattraktion ist"],
+    "examples_de": [["Der Skandal machte sofort **Schlagzeilen** in Zeitungen auf der ganzen Welt", "Redakteure schreiben fesselnde **Überschriften**, um die Aufmerksamkeit der Leser schnell zu erregen"], ["Der berühmte Sänger wird diesen Sommer als **Hauptact** beim Musikfestival auftreten", "Comedy-Acts sind jeden Freitagabend die **Hauptattraktion** im Club"]]
+  },
+  {
+    "lemma": "defendant",
+    "meanings_de": ["angeklagte Person", "Rechtspartei"],
+    "definitions_de": ["Eine Person, die vor Gericht angeklagt oder verklagt wird", "Die Partei, gegen die in einem Gerichtsverfahren eine Klage erhoben wird"],
+    "examples_de": [["Der **Angeklagte** plädierte auf nicht schuldig in allen Anklagepunkten gegen ihn", "**Angeklagte** haben in Strafverfahren das Recht auf rechtliche Vertretung"], ["Mehrere **Beklagte** wurden gemeinsam in der Sammelklage genannt", "Der Anwalt des **Beklagten** argumentierte für eine Abweisung des Falls"]]
+  },
+  {
+    "lemma": "pole",
+    "meanings_de": ["langer Stab", "Erdextremität"],
+    "definitions_de": ["Ein langes, schlankes Stück Holz oder Metall, das als Stütze verwendet wird", "Jede Extremität der Erdachse, Nordpol oder Südpol"],
+    "examples_de": [["Die Flagge wehte von einem hohen **Mast** vor dem Gebäude", "**Strommasten** tragen Stromleitungen sicher über den Straßen"], ["Pinguine leben das ganze Jahr über in der Nähe des **Südpols** in der Antarktis", "Magnetische **Pole** beeinflussen die Kompassnavigation für Schiffe und Flugzeuge"]]
+  },
+  {
+    "lemma": "entrance",
+    "meanings_de": ["Eingangspunkt", "Auftritt, Erscheinen"],
+    "definitions_de": ["Eine Öffnung wie eine Tür oder ein Tor, die den Zugang zu einem Ort ermöglicht", "Der Akt des Eintretens oder auf eine Bühne oder in Sichtweite zu kommen"],
+    "examples_de": [["Der **Haupteingang** zum Gebäude zeigt direkt zum Parkplatz", "Sicherheitskräfte überprüfen sorgfältig die Ausweise an jedem **Eingangspunkt**"], ["Der **Einzug** der Braut brachte vielen Gästen Tränen in die Augen", "Der Schauspieler machte einen dramatischen **Auftritt** mit einem fließenden Umhang"]]
+  },
+  {
+    "lemma": "aircraft",
+    "meanings_de": ["Flugfahrzeug", "Luftfahrtmaschinen"],
+    "definitions_de": ["Ein Fahrzeug, das fliegen kann, wie ein Flugzeug oder Hubschrauber", "Jede Maschine, die unter Kontrolle durch die Luft fliegen kann"],
+    "examples_de": [["Kommerzielle **Flugzeuge** befördern jährlich Millionen von Passagieren auf der ganzen Welt", "Militärische **Luftfahrzeuge** umfassen speziell Jäger, Bomber und Transportflugzeuge"], ["Kleine **Flugzeuge** sind bei Privatpiloten und für die Flugausbildung beliebt", "Der **Flugzeughersteller** kündigte gestern ein neues kraftstoffsparendes Modell an"]]
+  },
+  {
+    "lemma": "cabinet",
+    "meanings_de": ["Aufbewahrungsmöbel", "Regierungsminister"],
+    "definitions_de": ["Ein Schrank mit Regalen oder Schubladen zum Aufbewahren oder Ausstellen von Gegenständen", "Eine Gruppe hochrangiger Regierungsminister, die die Exekutive vertreten"],
+    "examples_de": [["Sie bewahrte Geschirr im **Küchenschrank** über der Spüle auf", "Der **Medizinschrank** im Badezimmer braucht kindersichere Schlösser"], ["Der Präsident ernannte gestern neue Mitglieder für sein **Kabinett**", "**Kabinettssitzungen** diskutieren jede Woche wichtige politische Entscheidungen"]]
+  },
+  {
+    "lemma": "happiness",
+    "meanings_de": ["freudiger Zustand", "Lebenszufriedenheit"],
+    "definitions_de": ["Ein Zustand des Glücklichseins, der Freude oder Zufriedenheit zeigt", "Ein Gefühl der Zufriedenheit mit dem Leben und positives emotionales Wohlbefinden"],
+    "examples_de": [["Ihr Gesicht strahlte vor **Glück**, als sie ihre Enkelkinder ankommen sah", "Geld kann laut vielen Philosophen kein wahres **Glück** kaufen"], ["Das Streben nach **Glück** wird in der Unabhängigkeitserklärung erwähnt", "Das **Glücksniveau** variiert zwischen verschiedenen Kulturen und wirtschaftlichen Bedingungen"]]
+  },
+  {
+    "lemma": "admission",
+    "meanings_de": ["Eintrittsgenehmigung", "Eingeständnis, Bekenntnis"],
+    "definitions_de": ["Der Prozess oder die Tatsache des Eintretens oder der Erlaubnis einzutreten", "Eine Aussage, die die Wahrheit von etwas anerkennt, oft widerwillig"],
+    "examples_de": [["Die **Zulassungsentscheidungen** für das College kommen im März für die meisten Studenten mit Spannung", "Das Museum verlangt zwanzig Dollar **Eintritt** an Wochenenden"], ["Sein **Geständnis** der Schuld kam nach stundenlangen polizeilichen Verhören", "Das **Eingeständnis**, dass sie falsch lagen, erforderte Mut"]]
+  },
+  {
+    "lemma": "correlation",
+    "meanings_de": ["statistische Beziehung", "gegenseitige Verbindung"],
+    "definitions_de": ["Ein statistisches Maß, das zeigt, wie zwei Variablen systematisch zusammen verändern", "Eine gegenseitige Beziehung oder Verbindung zwischen zwei oder mehr Dingen"],
+    "examples_de": [["Forscher fanden eine starke **Korrelation** zwischen Bewegung und psychischer Gesundheit", "Der **Korrelationskoeffizient** misst mathematisch die Stärke der Beziehung"], ["Es gibt allgemein eine klare **Korrelation** zwischen Bildungsniveau und Einkommen", "Wissenschaftler untersuchen **Zusammenhänge**, um Ursache-Wirkungs-Beziehungen zu verstehen"]]
+  },
+  {
+    "lemma": "proportion",
+    "meanings_de": ["relative Größe", "ausgewogenes Verhältnis"],
+    "definitions_de": ["Ein Teil, Anteil oder eine Zahl, die im Verhältnis zum Ganzen betrachtet wird", "Das korrekte, attraktive oder ideale Größenverhältnis zwischen Dingen"],
+    "examples_de": [["Ein großer **Anteil** der Studenten ist auf finanzielle Hilfe für das College angewiesen", "Der **Anteil** von Frauen in Führungspositionen ist kürzlich gestiegen"], ["Der Künstler berücksichtigte sorgfältig die **Proportionen** beim Entwurf der Skulptur", "Die **Proportionen** des Gebäudes schaffen ein Gefühl von Harmonie und Gleichgewicht"]]
+  },
+  {
+    "lemma": "dispute",
+    "meanings_de": ["Meinungsverschiedenheit, Streit", "formeller Konflikt"],
+    "definitions_de": ["Eine Meinungsverschiedenheit oder ein Streit über etwas Wichtiges zwischen Parteien", "Eine formelle Diskussion gegensätzlicher Ansichten, besonders in rechtlichen Kontexten"],
+    "examples_de": [["Die Nachbarn hatten einen **Streit** über die Lage der Grundstücksgrenze", "Arbeits**streitigkeiten** können zu Streiks führen, wenn sie nicht schnell gelöst werden"], ["Der territoriale **Disput** zwischen den Ländern dauerte jahrzehntelang", "Sie beilegten den **Streit** durch Mediation statt vor Gericht"]]
+  },
+  {
+    "lemma": "candy",
+    "meanings_de": ["süße Süßigkeit", "Zuckerwaren"],
+    "definitions_de": ["Süße Nahrung aus Zucker oder Schokolade, die als Snack gegessen wird", "Süßwaren insgesamt, besonders solche mit hohem Zuckergehalt"],
+    "examples_de": [["Halloween-Süßigkeitensammler sammelten begeistert Tüten voller **Süßigkeiten**", "Der **Süßwarenladen** stellte bunte Süßigkeiten in Glasgefäßen aus"], ["Zu viele **Süßigkeiten** können Karies und Gesundheitsprobleme verursachen", "Sie bewahrt **Süßigkeiten** in ihrer Schreibtischschublade für nachmittägliche Gelüste auf"]]
+  },
+  {
+    "lemma": "reward",
+    "meanings_de": ["verdiente Belohnung", "angebotene Zahlung"],
+    "definitions_de": ["Eine Sache, die in Anerkennung von Dienst, Anstrengung oder Leistung gegeben wird", "Geld, das für Informationen über ein Verbrechen oder einen Verbrecher angeboten wird"],
+    "examples_de": [["Harte Arbeit bringt ihre eigenen **Belohnungen** über die bloße finanzielle Entschädigung hinaus", "Das Unternehmen bietet **Prämien** für Mitarbeiter, die Verkaufsziele übertreffen"], ["Die Polizei setzte eine **Belohnung** für Informationen aus, die zur Verhaftung des Verdächtigen führen", "Die **Belohnung** für das Finden des verlorenen Hundes betrug fünfhundert Dollar"]]
+  },
+  {
+    "lemma": "counselor",
+    "meanings_de": ["Ratgeber", "Campbetreuer"],
+    "definitions_de": ["Eine Person, die darin ausgebildet ist, Beratung bei persönlichen oder psychischen Problemen zu geben", "Eine Person, die Kinder in einem Sommerlager beaufsichtigt"],
+    "examples_de": [["Der **Schulberater** half Schülern bei Hochschulbewerbungen und -planung", "**Eheberater** arbeiten mit Paaren, um Beziehungskonflikte zu lösen"], ["**Sommercampbetreuer** organisieren Aktivitäten und sorgen für die Sicherheit der Kinder", "Sie arbeitete während der Ferien als **Betreuerin** im Tageslager"]]
+  },
+  {
+    "lemma": "recording",
+    "meanings_de": ["aufgenommenes Audio", "Dokumentationsprozess"],
+    "definitions_de": ["Ton oder bewegte Bilder, die elektronisch aufbewahrt wurden", "Die Handlung oder der Prozess der Aufnahme von Ton, Bildern oder Daten"],
+    "examples_de": [["Die neueste **Aufnahme** der Band führte landesweit die Musikcharts an", "Alte **Aufnahmen** bewahren Stimmen von längst verstorbenen Menschen"], ["Die **Aufzeichnung** des Treffens hilft, später genaue Protokolle zu gewährleisten", "Die **Aufnahmeausrüstung** funktionierte während des wichtigen Interviews leider nicht"]]
+  },
+  {
+    "lemma": "pile",
+    "meanings_de": ["Haufen, Stapel", "Gebäudestütze"],
+    "definitions_de": ["Ein Haufen von Dingen, die übereinander gelegt oder liegen", "Ein schwerer Pfahl, der in den Boden getrieben wird, um eine Struktur zu stützen"],
+    "examples_de": [["Ein **Haufen** schmutziger Wäsche lag wartend in der Ecke", "Sie sortierte **Stapel** von Papierkram auf ihrem unordentlichen Schreibtisch"], ["Baumannschaften trieben zuerst **Pfähle** tief in den weichen Boden", "Die Brücke ruht auf Beton**pfählen**, die in das Flussbett versenkt sind"]]
+  },
+  {
+    "lemma": "explosion",
+    "meanings_de": ["gewaltsamer Knall", "rapider Anstieg"],
+    "definitions_de": ["Das gewaltsame Zerbersten oder Sprengen von etwas mit Lärm", "Ein plötzlicher dramatischer Anstieg in Menge oder Ausmaß von etwas"],
+    "examples_de": [["Die Gas**explosion** zerstörte drei Häuser und verletzte fünf Menschen", "Zeugen hörten die **Explosion** letzte Nacht aus Meilen Entfernung"], ["Die Bevölkerungs**explosion** belastete die Ressourcen in Entwicklungsländern erheblich", "Eine **Explosion** des Interesses an Yoga trat in den letzten Jahren auf"]]
+  },
+  {
+    "lemma": "couch",
+    "meanings_de": ["Wohnzimmermöbel", "Therapiemöbel"],
+    "definitions_de": ["Gepolsterte Möbel zum Sitzen mehrerer Personen in Wohnräumen", "Möbel, die in der Psychotherapie verwendet werden, wo Patienten sich hinlegen"],
+    "examples_de": [["Die Familie versammelte sich auf der **Couch**, um gemeinsam Filme zu schauen", "Wir brauchen ein neues **Sofa**, weil dieses auseinanderfällt"], ["Der Patient lag auf der **Couch** des Therapeuten und diskutierte Kindheitserinnerungen", "Freuds **Couch** wurde im Laufe der Zeit zu einem Symbol der Psychoanalyse"]]
+  },
+  {
+    "lemma": "furniture",
+    "meanings_de": ["Haushaltsgegenstände", "Raumausstattung"],
+    "definitions_de": ["Bewegliche Gegenstände, die verwendet werden, um einen Raum zum Leben oder Arbeiten geeignet zu machen", "Große bewegliche Ausrüstung, die in Häusern, Büros oder anderen Räumen verwendet wird"],
+    "examples_de": [["Sie kauften neue **Möbel**, als sie in ihr Haus zogen", "Antike **Möbel** können wertvoll sein, wenn sie ordnungsgemäß gepflegt und authentifiziert werden"], ["Büro**möbel** umfassen typischerweise Schreibtische, Stühle und Aktenschränke", "Das **Möbelgeschäft** bietet kostenlose Lieferung bei großen Einkäufen"]]
+  },
+  {
+    "lemma": "significance",
+    "meanings_de": ["Bedeutung, Wichtigkeit", "statistische Gültigkeit"],
+    "definitions_de": ["Die Eigenschaft, der Aufmerksamkeit würdig oder wichtig zu sein", "Das Ausmaß, in dem ein Ergebnis von dem durch Zufall erwarteten abweicht"],
+    "examples_de": [["Die historische **Bedeutung** der Entdeckung kann nicht überschätzt werden", "Sie verstand die **Bedeutung** seiner Worte erst später"], ["Die Ergebnisse zeigten statistische **Signifikanz** auf dem 0,05-Niveau", "Forscher müssen **Signifikanz** nachweisen, bevor sie ihre Ergebnisse veröffentlichen"]]
+  },
+  {
+    "lemma": "magic",
+    "meanings_de": ["übernatürliche Kraft", "Unterhaltungsillusion"],
+    "definitions_de": ["Die Kraft, scheinbar Ereignisse durch geheimnisvolle Kräfte zu beeinflussen", "Die Kunst, Illusionen als Unterhaltung durch Fingerfertigkeit zu erzeugen"],
+    "examples_de": [["Kinder glauben von Natur aus an **Magie** und Märchen, wenn sie jung sind", "Alte Kulturen verwendeten **magische** Rituale, um natürliche Ereignisse zu beeinflussen"], ["Die **Zaubershow** erstaunte das Publikum mit scheinbar unmöglichen Tricks jede Nacht", "Das Erlernen von **Zaubertricks** erfordert Übung und manuelle Geschicklichkeit"]]
+  },
+  {
+    "lemma": "commissioner",
+    "meanings_de": ["ernannter Beamter", "Sportverwalter"],
+    "definitions_de": ["Eine Person, die in eine Rolle mit besonderer Verwaltungsbefugnis ernannt wurde", "Der Leiter einer professionellen Sportliga oder -organisation"],
+    "examples_de": [["Der **Polizeipräsident** kündigte gestern neue Initiativen für die Gemeindepolizei an", "Die **Bezirkskommissare** stimmten letzte Nacht über die neuen Haushaltsvorschläge ab"], ["Der Baseball-**Commissioner** sperrte Spieler wegen Verstoßes gegen die Liga-Regeln", "Sie diente erfolgreich als **Präsidentin** der Basketballliga"]]
+  },
+  {
+    "lemma": "shelf",
+    "meanings_de": ["Lagerregal", "Felsformation"],
+    "definitions_de": ["Eine flache horizontale Oberfläche, die an einer Wand oder einem Rahmen zur Aufbewahrung befestigt ist", "Eine unterseeische Bank oder Teil des Kontinentalrands"],
+    "examples_de": [["Bücher säumten beeindruckend jedes **Regal** vom Boden bis zur Decke", "Das oberste **Regal** bewahrte sicher Großmutters besondere Porzellansammlung auf"], ["Der **Kontinentalschelf** erstreckt sich meilenweit unter Wasser vom Ufer", "Ölbohrungen finden an vielen Orten auf dem **Meeresschelf** statt"]]
+  },
+  {
+    "lemma": "warrior",
+    "meanings_de": ["tapferer Kämpfer", "Sportwettkämpfer"],
+    "definitions_de": ["Ein tapferer oder erfahrener Soldat oder Kämpfer, besonders in früheren Zeiten", "Eine Person, die großen Eifer, Mut oder Aggressivität zeigt"],
+    "examples_de": [["Alte **Krieger** trainierten von Kindheit an rigoros in Kampfkünsten", "Der Stammes**krieger** verteidigte sein Volk gegen eindringende Kräfte"], ["Sie ist eine **Kämpferin** auf dem Basketballplatz und gibt niemals auf", "Krebsüberlebende nennen sich oft **Krieger** gegen die Krankheit"]]
+  },
+  {
+    "lemma": "physics",
+    "meanings_de": ["Naturwissenschaft", "natürliche Eigenschaften"],
+    "definitions_de": ["Die Wissenschaft, die sich mit Materie, Energie, Bewegung und Kraft befasst", "Die physikalischen Eigenschaften und Phänomene von etwas"],
+    "examples_de": [["Der **Physikunterricht** behandelte umfassend Themen von Mechanik bis Quantentheorie", "Einstein revolutionierte die **Physik** mit seiner Relativitätstheorie"], ["Die **Physik** des Fliegens erklärt, wie Flugzeuge in der Luft bleiben", "Das Verständnis der **Physik** des Problems hilft, Lösungen zu finden"]]
+  }
+]

@@ -1,0 +1,284 @@
+[
+  {
+    "lemma": "cuff",
+    "meanings_de": ["Ärmelabschluss", "leichter Schlag"],
+    "definitions_de": ["umgeschlagener oder gefalteter Stoffrand am Ende eines Hemd- oder Jackenärmels, der das Handgelenk umschließt", "sanfter Schlag oder Klaps, meist mit der offenen Hand gegeben"],
+    "examples_de": [["Sie krempelte die **Manschetten** ihres Hemdes hoch, bevor sie mit dem Abwasch begann", "Die **Ärmelaufschläge** der Jacke zeigten deutliche Abnutzungsspuren"], ["Die Bärin gab ihrem Jungen einen sanften **Klaps** auf den Kopf", "Er bekam einen spielerischen **Schlag** von seinem Freund während der Diskussion"]]
+  },
+  {
+    "lemma": "cuisine",
+    "meanings_de": ["Kochstil"],
+    "definitions_de": ["charakteristische Art der Speisenzubereitung, die mit einer bestimmten Region, einem Land oder einer kulturellen Tradition verbunden ist"],
+    "examples_de": [["Die französische **Küche** ist berühmt für ihre reichhaltigen Saucen und feinen Gebäcke", "Das Restaurant serviert jeden Abend authentische vietnamesische **Küche**"], ["Sie studierte die italienische **Kochkunst** an einer Kochschule in Rom", "Die Fusion-**Küche** kombinierte asiatische und mexikanische Aromen auf wunderbare Weise"]]
+  },
+  {
+    "lemma": "cull",
+    "meanings_de": ["Selektionsprozess"],
+    "definitions_de": ["Vorgang des Entfernens oder Auswählens von Elementen aus einer größeren Gruppe basierend auf bestimmten Kriterien oder Standards"],
+    "examples_de": [["Die jährliche **Bestandsregulierung** der Rehe trägt zur Erhaltung einer gesunden Population bei", "Die **Aussonderung** alter Bücher in der Bibliothek schaffte Platz für Neuanschaffungen"], ["Der Bauer organisierte eine **Selektion** der schwächsten Nutztiere", "Die **Auslese** der Fotos reduzierte tausende Bilder auf nur fünfzig"]]
+  },
+  {
+    "lemma": "culmination",
+    "meanings_de": ["Höhepunkt oder Gipfel"],
+    "definitions_de": ["letzte Phase oder höchster Punkt einer Entwicklung, der nach einem allmählichen Prozess oder einer Reihe von Ereignissen erreicht wird"],
+    "examples_de": [["Das Konzert war der **Höhepunkt** monatelanger Proben", "Ihre Beförderung stellte die **Krönung** jahrelanger harter Arbeit dar"], ["Den **Höhepunkt** des Festivals bildete ein spektakuläres Feuerwerk", "Das Meisterschaftsspiel war der **Gipfel** einer ungeschlagenen Saison"]]
+  },
+  {
+    "lemma": "culpability",
+    "meanings_de": ["Schuldgrad"],
+    "definitions_de": ["Ausmaß, in dem jemand für ein Fehlverhalten oder ein negatives Ergebnis verantwortlich gemacht oder beschuldigt werden kann"],
+    "examples_de": [["Die Untersuchung wird die **Schuld** jeder Partei an dem Unfall feststellen", "Seine **Mitschuld** an dem Betrugssystem wurde zweifelsfrei bewiesen"], ["Der Bericht bewertete die **Verantwortlichkeit** des Unternehmens für Umweltschäden", "Fragen zur moralischen **Schuldhaftigkeit** kamen während der Ethikdebatte auf"]]
+  },
+  {
+    "lemma": "culprit",
+    "meanings_de": ["Schuldiger oder Ursache"],
+    "definitions_de": ["Person, die für ein Verbrechen oder Fehlverhalten verantwortlich ist, oder Sache, die ein Problem verursacht"],
+    "examples_de": [["Die Polizei fasste endlich den **Täter**, der die Schule verwüstet hatte", "Der wahre **Übeltäter** hinter dem Stromausfall war eine fehlerhafte Verkabelung"], ["Zucker ist oft der **Schuldige** bei Zahnproblemen", "Sie identifizierten den **Übeltäter**, der Büromaterial gestohlen hatte"]]
+  },
+  {
+    "lemma": "cult",
+    "meanings_de": ["religiöse Gruppe", "hingebungsvolle Anhängerschaft"],
+    "definitions_de": ["religiöse oder soziale Gruppe mit extremen Überzeugungen und Praktiken unter Führung eines charismatischen Anführers", "intensive Hingabe oder Begeisterung für etwas mit einer engagierten Anhängerschaft"],
+    "examples_de": [["Die **Sekte** verlangte von Mitgliedern, allen persönlichen Besitz aufzugeben", "Die Behörden untersuchten das Gelände der **Sekte** auf illegale Aktivitäten"], ["Der Film entwickelte Jahre nach seiner Veröffentlichung eine **Kult**-Anhängerschaft", "Die Band hat bei Fans alternativer Musik **Kultstatus** erreicht"]]
+  },
+  {
+    "lemma": "cultivation",
+    "meanings_de": ["Anbau- und Entwicklungsprozess"],
+    "definitions_de": ["Prozess der Landvorbereitung und des Pflanzenanbaus oder die bewusste Entwicklung von Eigenschaften, Fähigkeiten oder Beziehungen"],
+    "examples_de": [["Der **Reisanbau** erfordert spezielle Wasser- und Bodenbedingungen", "Die **Kultivierung** von Rosen verlangt Geduld und sachgemäße Pflege"], ["Ihre **Pflege** einflussreicher Kontakte half ihrer Karriere voranzukommen", "Die **Förderung** kritischen Denkens beginnt bereits in der Grundschule"]]
+  },
+  {
+    "lemma": "cultivator",
+    "meanings_de": ["Bodenbearbeitungsgerät", "Person die kultiviert"],
+    "definitions_de": ["mechanisches Gerät mit rotierenden Klingen zur Bodenauflockerung für die Aussaat", "Person, die Pflanzen anbaut oder etwas durch sorgfältige Aufmerksamkeit entwickelt"],
+    "examples_de": [["Der Bauer nutzte einen **Grubber**, um das Feld für die Aussaat vorzubereiten", "Dieser Hand**kultivator** eignet sich gut für kleine Gartenbeete"], ["Sie war als **Förderin** junger künstlerischer Talente bekannt", "Lokale **Anbauer** brachten ihre besten Erzeugnisse zum Bauernmarkt"]]
+  },
+  {
+    "lemma": "culvert",
+    "meanings_de": ["Durchlassrohr"],
+    "definitions_de": ["Tunnel oder großes Rohr, das Wasser unter einer Straße, Eisenbahn oder ähnlichem Hindernis hindurchfließen lässt"],
+    "examples_de": [["Der **Durchlass** unter der Autobahn verhindert Überschwemmungen bei Stürmen", "Arbeiter räumten Schutt aus dem verstopften **Durchlassrohr** nach starkem Regen"], ["Der Beton**durchlass** leitet den Bach unter dem Parkplatz hindurch", "Ingenieure entwarfen einen neuen **Durchlass** für den erhöhten Wasserfluss"]]
+  },
+  {
+    "lemma": "cumin",
+    "meanings_de": ["aromatischer Gewürzsamen"],
+    "definitions_de": ["getrockneter Samen einer Pflanze, der als Gewürz mit warmem, erdigem Geschmack in der nahöstlichen und indischen Küche verwendet wird"],
+    "examples_de": [["Das Rezept verlangt gemahlenen **Kreuzkümmel** und frischen Koriander", "Sie röstete ganze **Kreuzkümmel**samen, bevor sie sie mahlte"], ["**Kreuzkümmel** verleiht dem Curry seinen charakteristischen warmen Geschmack", "Die Gewürzmischung enthält **Kreuzkümmel**, Paprika und schwarzen Pfeffer"]]
+  },
+  {
+    "lemma": "cunning",
+    "meanings_de": ["gerissene Schlauheit"],
+    "definitions_de": ["Fähigkeit, Ziele durch List oder Verschlagenheit kombiniert mit Intelligenz zu erreichen"],
+    "examples_de": [["Der Fuchs zeigte bemerkenswerte **List**, um den Jägern zu entkommen", "Seine **Gerissenheit** bei Geschäftsverhandlungen brachte ihm Millionen ein"], ["Sie bewunderte die **Raffinesse** der Krimihandlung", "Die **List** des Diebes ermöglichte es ihm, jahrelang der Verhaftung zu entgehen"]]
+  },
+  {
+    "lemma": "cupboard",
+    "meanings_de": ["Vorratsschrank"],
+    "definitions_de": ["Möbelstück mit Regalen und Türen zur Aufbewahrung von Geschirr, Lebensmitteln oder anderen Haushaltsgegenständen"],
+    "examples_de": [["Sie ordnete den Küchen**schrank** nach Kategorie und Größe", "Die **Schrank**türen brauchten nach jahrelangem Gebrauch neue Scharniere"], ["Alle Reinigungsmittel werden im Flur**schrank** aufbewahrt", "Er durchsuchte jeden **Schrank** nach den vermissten Schlüsseln"]]
+  },
+  {
+    "lemma": "cupcake",
+    "meanings_de": ["kleiner verzierter Kuchen"],
+    "definitions_de": ["einzelportionierter Kuchen, der in einer Papierform gebacken und typischerweise mit Zuckerguss verziert wird"],
+    "examples_de": [["Auf der Geburtstagsfeier gab es Schokoladen-**Törtchen** mit Vanilleglasur", "Sie verzierte jedes **Törtchen** mit bunten Streuseln und Bonbons"], ["Die Bäckerei verkauft Gourmet-**Cupcakes** in zwölf verschiedenen Geschmacksrichtungen", "**Cupcakes** zu backen ist einfacher als einen großen Kuchen herzustellen"]]
+  },
+  {
+    "lemma": "cupid",
+    "meanings_de": ["römischer Liebesgott", "Verkupplerfigur"],
+    "definitions_de": ["römischer Gott der Liebe, oft als geflügeltes Kind mit Pfeil und Bogen dargestellt", "Person, die versucht, zwei Menschen romantisch zusammenzubringen"],
+    "examples_de": [["Die Valentinskarte zeigte **Amor**, wie er seinen goldenen Pfeil abschoss", "Antike Kunstwerke stellen **Cupido** oft als schelmischen Sohn der Venus dar"], ["Sie spielte **Kupplerin**, indem sie ihre beiden alleinstehenden Freunde vorstellte", "Bürokollegen nannten ihn scherzhaft **Amor** wegen seiner Verkupplungsversuche"]]
+  },
+  {
+    "lemma": "curate",
+    "meanings_de": ["Hilfspfarrer"],
+    "definitions_de": ["Mitglied des Klerus, das einem Pfarrer oder Rektor bei Gemeindeaufgaben assistiert"],
+    "examples_de": [["Der **Vikar** leitete die Sonntagsschule für die örtlichen Kinder", "Als junger **Kaplan** lernte er wertvolle Lektionen über Gemeindedienst"], ["Der Dorf**kaplan** organisierte das ganze Jahr über Wohltätigkeitsaktionen", "Sie diente als **Vikarin**, bevor sie Gemeindepfarrerin wurde"]]
+  },
+  {
+    "lemma": "curative",
+    "meanings_de": ["Heilmittel oder -behandlung"],
+    "definitions_de": ["Substanz oder Behandlung mit der Kraft, Krankheiten zu heilen oder die Gesundheit wiederherzustellen"],
+    "examples_de": [["Wissenschaftler suchten nach einem **Heilmittel** für die seltene Erbkrankheit", "Das Heilbad behauptete, sein Mineralwasser habe **heilende** Eigenschaften"], ["Traditionelle **Heilmittel** basieren oft auf natürlichen Kräutern und Pflanzen", "Das neue Medikament zeigte in Studien vielversprechende **Heilwirkungen**"]]
+  },
+  {
+    "lemma": "curator",
+    "meanings_de": ["Museums- oder Galerieverwalter"],
+    "definitions_de": ["Person, die für die Auswahl, Organisation und Pflege von Objekten in einem Museum, einer Galerie oder Sammlung verantwortlich ist"],
+    "examples_de": [["Die Museums**kuratorin** plante eine Ausstellung über altägyptische Artefakte", "Sie arbeitete zwanzig Jahre als **Kuratorin** für zeitgenössische Kunst"], ["Der **Kurator** restaurierte sorgfältig die beschädigten Renaissance-Gemälde", "Digitale **Kuratoren** verwalten Online-Archive und virtuelle Ausstellungen"]]
+  },
+  {
+    "lemma": "curb",
+    "meanings_de": ["Straßenrandbarriere"],
+    "definitions_de": ["erhöhte Kante aus Stein oder Beton entlang einer Straße, die eine Grenze zwischen Fahrbahn und Gehweg bildet"],
+    "examples_de": [["Sie parkte zu nah am **Bordstein** und scheuerte ihren Reifen", "Kinder saßen auf dem **Bordstein** und warteten auf den Beginn der Parade"], ["Die Stadt installierte neue Granit**bordsteine** entlang der Hauptstraße", "Regenwasser floss am **Bordstein** entlang zum Gully"]]
+  },
+  {
+    "lemma": "curbing",
+    "meanings_de": ["Eindämmungsmaßnahme"],
+    "definitions_de": ["Handlung des Kontrollierens, Begrenzens oder Zügelns von etwas zur Verhinderung von Exzessen oder Schäden"],
+    "examples_de": [["Die neuen Vorschriften konzentrieren sich auf die **Eindämmung** industrieller Verschmutzung", "Die **Drosselung** der Staatsausgaben wurde zur obersten Priorität der Regierung"], ["Eltern diskutierten Strategien zur **Begrenzung** der Bildschirmzeit ihrer Teenager", "Die **Einschränkung** der Meinungsfreiheit warf ernsthafte verfassungsrechtliche Bedenken auf"]]
+  },
+  {
+    "lemma": "curbside",
+    "meanings_de": ["Straßenrandbereich"],
+    "definitions_de": ["Bereich unmittelbar neben dem Bordstein, wo Fahrzeuge vorübergehend zum Be- oder Entladen halten können"],
+    "examples_de": [["Das Restaurant bietet jetzt einen praktischen **Abholservice am Straßenrand** an", "Recyclingtonnen sollten bis sieben Uhr **am Straßenrand** bereitgestellt werden"], ["Das Taxi hielt am Flughafen **am Bordstein**", "Das Parken **am Straßenrand** ist auf fünfzehn Minuten begrenzt"]]
+  },
+  {
+    "lemma": "curd",
+    "meanings_de": ["geronnenes Milchprodukt"],
+    "definitions_de": ["weiche, weiße Substanz, die entsteht, wenn Milch gerinnt, verwendet zur Herstellung von Käse und anderen Milchprodukten"],
+    "examples_de": [["Frischer **Quark** ist die Hauptzutat in Hüttenkäse", "Das Rezept erfordert Zitronensaft, um Milch in **Bruch** zu trennen"], ["Sie kaufte frischen **Quark** vom örtlichen Milchhof", "Bohnen**quark**, auch als Tofu bekannt, wird aus Sojabohnen hergestellt"]]
+  },
+  {
+    "lemma": "curfew",
+    "meanings_de": ["Ausgangsbeschränkung"],
+    "definitions_de": ["Vorschrift, die Menschen dazu verpflichtet, während bestimmter Stunden, typischerweise nachts, in Gebäuden zu bleiben"],
+    "examples_de": [["Die Stadt verhängte eine **Ausgangssperre** nach dem Hurrikan", "Teenager müssen die **Sperrstunde** um elf Uhr an Wochentagen einhalten"], ["Ein Verstoß gegen die **Ausgangssperre** führte im Internat zu sofortiger Bestrafung", "Die militärische **Ausgangssperre** dauerte täglich von Sonnenuntergang bis Morgengrauen"]]
+  },
+  {
+    "lemma": "curing",
+    "meanings_de": ["Konservierungsprozess"],
+    "definitions_de": ["Verfahren zur Haltbarmachung von Lebensmitteln durch Methoden wie Salzen, Räuchern oder Trocknen zur Verhinderung von Verderb"],
+    "examples_de": [["Die **Reifung** von Schinken erfordert präzise Temperatur- und Feuchtigkeitskontrolle", "Traditionelle **Pökelmethoden** werden seit Jahrtausenden verwendet"], ["Die **Aushärtung** von Beton dauert etwa achtundzwanzig Tage bis zur vollen Festigkeit", "Der **Räucherprozess** verleiht Speck seinen charakteristischen Geschmack und seine Textur"]]
+  },
+  {
+    "lemma": "curio",
+    "meanings_de": ["ungewöhnliches Sammlerobjekt"],
+    "definitions_de": ["seltenes, ungewöhnliches oder faszinierendes Objekt, das als Sammlerstück oder Gesprächsanlass geschätzt wird"],
+    "examples_de": [["Der Antiquitätenladen stellte **Kuriositäten** aus aller Welt aus", "Der **Kuriositäten**schrank ihrer Großmutter enthielt faszinierende Schmuckstücke und Artefakte"], ["Jede **Kuriosität** in seiner Sammlung hatte eine interessante Geschichte", "Die viktorianische **Rarität** wies kunstvolle geschnitzte Elfenbeindetails auf"]]
+  },
+  {
+    "lemma": "curl",
+    "meanings_de": ["Spiralform oder Locke"],
+    "definitions_de": ["spiralförmige oder gewickelte Form, besonders eine Haarsträhne, die einen Ring oder eine Spirale bildet"],
+    "examples_de": [["Ihre natürlichen **Locken** umrahmten ihr Gesicht wunderschön", "Der Holzspan bildete eine perfekte **Locke**, als er den Hobel verließ"], ["Dampf stieg in zarten **Kringeln** vom heißen Kaffee auf", "Jede **Windung** im kunstvollen Design war von Hand geschnitzt"]]
+  },
+  {
+    "lemma": "curler",
+    "meanings_de": ["Lockenwickler", "Curling-Spieler"],
+    "definitions_de": ["zylindrisches Gerät zur Erzeugung von Locken im Haar bei Erwärmung oder längerem Verbleib", "Sportler, der am Eisstocksport Curling teilnimmt"],
+    "examples_de": [["Sie ließ die **Lockenwickler** über Nacht drin für lang anhaltende Wellen", "Heiße **Lockenwickler** erzeugen straffere Locken als Schaumstoffwickler"], ["Die olympische **Curlerin** übte täglich ihre Gleittechnik", "Kanadische **Curling-Spieler** dominierten die internationale Meisterschaft"]]
+  },
+  {
+    "lemma": "curling",
+    "meanings_de": ["Eissport", "Haarstyling-Prozess"],
+    "definitions_de": ["Mannschaftssport auf Eis, bei dem Spieler Steine zu einem Ziel gleiten lassen", "Vorgang der Erzeugung von Locken oder Wellen im Haar mit Hitze oder Styling-Werkzeugen"],
+    "examples_de": [["**Curling** erfordert Präzision, Strategie und ausgezeichnete Teamarbeit", "Die **Curling**-Meisterschaft zog Teams aus zwölf Ländern an"], ["Sie verbrachte eine Stunde damit, ihr Haar für die Hochzeit zu **locken**", "Der **Lockenstab** erreichte schnell die perfekte Temperatur"]]
+  },
+  {
+    "lemma": "currant",
+    "meanings_de": ["kleine Beerenfrucht"],
+    "definitions_de": ["kleine runde essbare Beere, die in Trauben wächst, erhältlich in roten, schwarzen oder weißen Sorten"],
+    "examples_de": [["Schwarze **Johannisbeeren** ergeben ausgezeichnete Marmelade mit säuerlichem Geschmack", "Sie fügte getrocknete **Korinthen** zum traditionellen Früchtekuchen hinzu"], ["Der Garten produzierte diesen Sommer reichlich rote **Johannisbeeren**", "Frische **Johannisbeeren** sind reich an Vitamin C und Antioxidantien"]]
+  },
+  {
+    "lemma": "curry",
+    "meanings_de": ["gewürztes Gericht oder Sauce"],
+    "definitions_de": ["Gericht aus Fleisch oder Gemüse, gekocht in einer gewürzten Sauce mit Ursprung in der südasiatischen Küche"],
+    "examples_de": [["Das Restaurant serviert authentisches Thai-**Curry** mit Kokosmilch", "Sie bereitete ein Gemüse**curry** nach dem Rezept ihrer Großmutter zu"], ["**Currypulver** enthält Kurkuma, Koriander und andere aromatische Gewürze", "Das Lamm**curry** köchelte langsam, um reiche Aromen zu entwickeln"]]
+  },
+  {
+    "lemma": "curse",
+    "meanings_de": ["gesprochene Verwünschung", "Quelle des Unglücks"],
+    "definitions_de": ["feierliche Äußerung, die übernatürliche Kraft anrufen soll, um Schaden oder Strafe zuzufügen", "Ursache großen Schadens oder Unglücks, die fortzubestehen scheint"],
+    "examples_de": [["Die Hexe belegte das Königreich im Märchen mit einem **Fluch**", "Alte Gräber warnten oft vor einem **Fluch** für Störer"], ["Der Verletzungs**fluch** des Teams setzte sich die ganze Saison fort", "Armut blieb ein **Fluch**, der die Region über Generationen plagte"]]
+  },
+  {
+    "lemma": "cursive",
+    "meanings_de": ["fließender Schreibstil"],
+    "definitions_de": ["Schreibstil, bei dem Buchstaben auf fließende Weise miteinander verbunden sind"],
+    "examples_de": [["Schüler übten **Schreibschrift** in ihrem Schönschreibunterricht", "Ihre elegante **Schreibschrift** ließ die Einladung professionell aussehen"], ["Viele Schulen lehren **Schreibschrift** nicht mehr als Pflichtfach", "Das historische Dokument war in kunstvoller **Kurrentschrift** verfasst"]]
+  },
+  {
+    "lemma": "cursor",
+    "meanings_de": ["Bildschirmpositionsanzeiger"],
+    "definitions_de": ["beweglicher Indikator auf einem Computerbildschirm, der zeigt, wo die nächste Aktion stattfinden wird"],
+    "examples_de": [["Bewegen Sie den **Cursor** zum Suchfeld, bevor Sie tippen", "Der blinkende **Cursor** zeigte an, wo als Nächstes Text erscheinen würde"], ["Sie änderte ihren **Mauszeiger** von einem Pfeil zu einem Handsymbol", "Der **Cursor** verschwand, als der Computerbildschirm in den Ruhezustand ging"]]
+  },
+  {
+    "lemma": "curtailment",
+    "meanings_de": ["Kürzung oder Einschränkung"],
+    "definitions_de": ["Handlung des Reduzierens, Begrenzens oder Einschränkens von etwas in Umfang, Menge oder Dauer"],
+    "examples_de": [["Die **Budgetkürzung** zwang das Unternehmen, mehrere Programme zu streichen", "Die **Einschränkung** der Bürgerrechte löste weitverbreitete Proteste aus"], ["Energie**einschränkungs**maßnahmen halfen, rollende Stromausfälle zu verhindern", "Seine Verletzung führte zur **Einschränkung** seiner sportlichen Aktivitäten"]]
+  },
+  {
+    "lemma": "curvature",
+    "meanings_de": ["Krümmungsgrad"],
+    "definitions_de": ["Maß, um das eine Kurve von der Geradlinigkeit abweicht, oder der Zustand des Gekrümmtseins"],
+    "examples_de": [["Die scharfe **Krümmung** der Straße erforderte erhebliche Geschwindigkeitsreduzierung", "Wissenschaftler maßen die **Raumkrümmung** um massive Objekte"], ["Die **Krümmung** ihrer Wirbelsäule bedurfte medizinischer Behandlung", "Die Linsen**krümmung** bestimmt, wie Lichtstrahlen fokussiert werden"]]
+  },
+  {
+    "lemma": "cushion",
+    "meanings_de": ["weiche gepolsterte Stütze"],
+    "definitions_de": ["weicher Beutel gefüllt mit Luft oder Polstermaterial zum bequemen Sitzen oder Anlehnen"],
+    "examples_de": [["Sie fügte dekorative **Kissen** hinzu, um das Sofa aufzuhellen", "Das Meditations**kissen** half, während der Übung die richtige Haltung beizubehalten"], ["Zusätzliche **Polster** machten die Holzbank bequemer", "Er benutzte ein **Kissen** zur Unterstützung seines verletzten Rückens"]]
+  },
+  {
+    "lemma": "cusp",
+    "meanings_de": ["spitze Kante oder Spitze"],
+    "definitions_de": ["spitzes Ende, wo zwei Kurven aufeinandertreffen, oder der Übergangspunkt zwischen zwei verschiedenen Zuständen"],
+    "examples_de": [["Der Mond erschien als dünne Sichel mit scharfen **Spitzen**", "Jede Zahn**spitze** erfüllt eine spezifische Funktion beim Kauen"], ["Das Unternehmen steht an der **Schwelle** zu einem großen technologischen Durchbruch", "Sie stand mit siebzehn an der **Schwelle** zum Erwachsenenalter"]]
+  },
+  {
+    "lemma": "custard",
+    "meanings_de": ["cremige Dessertsauce"],
+    "definitions_de": ["süße Sauce aus Milch oder Sahne, verdickt mit Eigelb, serviert als Dessert oder Füllung"],
+    "examples_de": [["Die Vanille**creme** ergänzte den Apfelkuchen perfekt", "Sie bereitete hausgemachte **Vanillecreme** nach dem Rezept ihrer Mutter zu"], ["Der Konditor füllte Eclairs mit reichhaltiger Schokoladen**creme**", "Gefrorene **Eiscreme** enthält weniger Luft als normales Speiseeis"]]
+  },
+  {
+    "lemma": "custodian",
+    "meanings_de": ["Hausmeister oder Verwalter"],
+    "definitions_de": ["Person, die für die Pflege oder den Schutz von etwas verantwortlich ist, insbesondere eines Gebäudes"],
+    "examples_de": [["Der Schul**hausmeister** sorgte dafür, dass alle Klassenzimmer sauber und sicher waren", "Als **Verwalterin** der Familienunterlagen bewahrte sie wichtige Dokumente"], ["Der Museums**wärter** schloss alle Türen zur Schließzeit ab", "Gesetzliche **Vormunde** müssen Entscheidungen im besten Interesse des Kindes treffen"]]
+  },
+  {
+    "lemma": "cutaway",
+    "meanings_de": ["aufschlussreiche Querschnittsansicht"],
+    "definitions_de": ["Zeichnung oder Modell, das das Innere von etwas zeigt, indem ein Teil des Äußeren entfernt oder durchsichtig dargestellt wird"],
+    "examples_de": [["Das **Schnittdiagramm** zeigte die internen Motorkomponenten deutlich", "Architekturstudenten erstellten ein **Schnittmodell** des Gebäudes"], ["Das Lehrbuch enthielt eine **Schnittdarstellung** des menschlichen Herzens", "Fernsehübertragungen verwendeten **Zwischenschnitte**, um Publikumsreaktionen zu zeigen"]]
+  },
+  {
+    "lemma": "cuticle",
+    "meanings_de": ["Nagelhaut"],
+    "definitions_de": ["dünne Schicht abgestorbener Haut an der Basis und den Seiten von Finger- und Zehennägeln"],
+    "examples_de": [["Die Maniküristin schob sanft ihre **Nagelhaut** zurück vor dem Lackieren", "Trockene **Nagelhaut** kann zu schmerzhaften Nietnägeln führen, wenn nicht befeuchtet"], ["Regelmäßige **Nagelhaut**pflege hilft, gesund aussehende Nägel zu erhalten", "Sie trug **Nagelhaut**öl auf, um Risse und Abschälen zu verhindern"]]
+  },
+  {
+    "lemma": "cutlery",
+    "meanings_de": ["Essbesteck"],
+    "definitions_de": ["Messer, Gabeln und Löffel, die zum Essen und Servieren von Speisen verwendet werden"],
+    "examples_de": [["Das Restaurant stellte Plastik**besteck** für Bestellungen zum Mitnehmen bereit", "Silber**besteck** erfordert regelmäßiges Polieren, um seinen Glanz zu erhalten"], ["Sie erbte das antike **Besteck**set ihrer Großmutter", "Der Schubladenorganisator hielt das **Besteck** nach Art getrennt"]]
+  },
+  {
+    "lemma": "cutoff",
+    "meanings_de": ["Haltepunkt oder Grenze"],
+    "definitions_de": ["Punkt oder Ebene, an dem etwas aufhört oder nicht mehr erlaubt ist fortzufahren"],
+    "examples_de": [["Die Bewerbungs**frist** ist Freitag um Mitternacht", "Schüler müssen über dem **Grenzwert** punkten, um sich zu qualifizieren"], ["Die Alters**grenze** für Jugendsport liegt bei zwölf Jahren", "Wasserservice-**Abschaltungs**benachrichtigungen wurden an säumige Konten gesendet"]]
+  },
+  {
+    "lemma": "cutout",
+    "meanings_de": ["ausgeschnittene Form oder Figur"],
+    "definitions_de": ["Form aus Papier, Pappe oder anderem Material ausgeschnitten, oder durch Ausschneiden entstandenes Loch"],
+    "examples_de": [["Kinder machten Papier**ausschnitte**, um die Klassenzimmerfenster zu dekorieren", "Der Papp**aufsteller** der Berühmtheit stand in der Theaterlobby"], ["Sie verwendete Plätzchen**ausstecher**, um festliche Weihnachtsformen zu erstellen", "Fenster**ausschnitte** im Zaun boten Einblicke in den Garten"]]
+  },
+  {
+    "lemma": "cutter",
+    "meanings_de": ["Schneidwerkzeug oder Schiff"],
+    "definitions_de": ["Werkzeug oder Maschine zum Schneiden von Materialien, oder kleines schnelles Segelschiff"],
+    "examples_de": [["Der Glas**schneider** ritzte eine saubere Linie über die Fensterscheibe", "Sie benutzte einen Pizza**schneider**, um die Pizza in gleiche Stücke zu schneiden"], ["Der Küstenwachen**kutter** patrouillierte die Seegrenze", "Plätzchen**ausstecher** gibt es in Hunderten verschiedener Formen und Größen"]]
+  },
+  {
+    "lemma": "cutthroat",
+    "meanings_de": ["rücksichtsloser Konkurrent"],
+    "definitions_de": ["Person, die im Wettbewerb oder Geschäft rücksichtslose Methoden ohne Rücksicht auf andere anwendet"],
+    "examples_de": [["Die **mörderischen** Geschäftstaktiken zerstörten mehrere kleinere Unternehmen", "Die Wall Street zog **skrupellose** Händler an, die massive Gewinne suchten"], ["Sein **rücksichtsloser** Verhandlungsansatz ließ keinen Raum für Kompromisse", "Der **gnadenlose** Wettbewerb eliminierte alle außer den stärksten Firmen"]]
+  },
+  {
+    "lemma": "cutting",
+    "meanings_de": ["Pflanzenteil zur Vermehrung", "verletzende Bemerkung"],
+    "definitions_de": ["von einer Pflanze abgeschnittenes Stück zur Anzucht einer neuen Pflanze durch Bewurzelung", "Bemerkung oder Kommentar verletzender oder sarkastischer Natur"],
+    "examples_de": [["Sie nahm mehrere Rosen**stecklinge**, um neue Büsche zu ziehen", "Die Gärtnerei spezialisiert sich auf den Verkauf bewurzelter **Stecklinge** an Gärtner"], ["Seine **schneidenden** Bemerkungen über ihre Arbeit verletzten tief", "Die **vernichtende** Kritik des Kritikers erschütterte den jungen Dramatiker"]]
+  }
+]

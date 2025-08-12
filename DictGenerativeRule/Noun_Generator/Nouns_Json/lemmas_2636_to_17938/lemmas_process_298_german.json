@@ -1,0 +1,296 @@
+[
+  {
+    "lemma": "anjou",
+    "meanings_de": ["Birnensorte"],
+    "definitions_de": ["Süße, saftige Birnensorte mit grüner Schale, die ursprünglich aus der französischen Region Anjou stammt und heute weltweit angebaut wird"],
+    "examples_de": [["Die **Anjou-Birnen** eignen sich hervorragend für Obstkuchen", "Auf dem Wochenmarkt kaufte sie frische **Anjou-Birnen** für die Marmelade"]]
+  },
+  {
+    "lemma": "annealing",
+    "meanings_de": ["Wärmebehandlungsverfahren"],
+    "definitions_de": ["Kontrolliertes Erhitzen und Abkühlen von Metallen oder Glas zur Verbesserung der Materialeigenschaften, insbesondere zur Reduzierung innerer Spannungen"],
+    "examples_de": [["Das **Glühen** des Stahls reduzierte die Materialspannungen erheblich", "Beim **Tempern** von Glas wird die Bruchgefahr deutlich verringert"]]
+  },
+  {
+    "lemma": "annex",
+    "meanings_de": ["Gebäudeanbau", "Gebietsanschluss"],
+    "definitions_de": ["Zusätzliches Gebäude, das an ein Hauptgebäude angebaut oder in dessen Nähe errichtet wird, um zusätzlichen Raum zu schaffen", "Gebiet, das durch formelle Übernahme in ein bestehendes Land oder einen Staat eingegliedert wird"],
+    "examples_de": [["Die Schule errichtete einen **Anbau** für die neuen Klassenräume", "Im **Nebengebäude** der Firma befinden sich die Buchhaltung und das Archiv"], ["Die **Annexion** der Nachbarprovinzen erweiterte das Staatsgebiet beträchtlich", "Historische Dokumente belegen den **Anschluss** der umliegenden Gebiete"]]
+  },
+  {
+    "lemma": "annexation",
+    "meanings_de": ["Gebietseinverleibung"],
+    "definitions_de": ["Formeller Akt der Eingliederung eines Territoriums in ein bestehendes Land oder eine politische Einheit durch rechtliche Mittel"],
+    "examples_de": [["Die **Annexion** der Krim führte zu internationalen Spannungen", "Das Völkerrecht regelt die Bedingungen für eine legitime **Einverleibung** von Territorien"]]
+  },
+  {
+    "lemma": "annexe",
+    "meanings_de": ["Nebengebäude"],
+    "definitions_de": ["Zusätzliches Gebäude in der Nähe eines Hauptgebäudes, das ergänzende Räumlichkeiten oder Unterkünfte bietet"],
+    "examples_de": [["Die Gäste übernachteten im **Nebengebäude** des Hotels", "Das **Gästehaus** im Garten bot Platz für die Familienfeier"]]
+  },
+  {
+    "lemma": "annihilation",
+    "meanings_de": ["vollständige Vernichtung"],
+    "definitions_de": ["Totale und komplette Zerstörung von etwas, bei der nichts Erkennbares oder Verwertbares zurückbleibt"],
+    "examples_de": [["Der Meteoriteneinschlag führte zur **Vernichtung** allen Lebens in der Region", "Atomwaffen bergen die Gefahr der **Auslöschung** ganzer Städte"]]
+  },
+  {
+    "lemma": "annihilator",
+    "meanings_de": ["vernichtende Kraft"],
+    "definitions_de": ["Person oder Sache, die etwas vollständig zerstört oder aus der Existenz tilgt"],
+    "examples_de": [["Das Virus wirkte als **Vernichter** der Bakterienkolonien", "Die Geschichte erinnert sich an ihn als **Zerstörer** ganzer Reiche"]]
+  },
+  {
+    "lemma": "annotation",
+    "meanings_de": ["erläuternde Anmerkung"],
+    "definitions_de": ["Schriftliche Notiz oder Kommentar, der einem Text hinzugefügt wird, um Erklärungen oder zusätzliche Informationen zu liefern"],
+    "examples_de": [["Die **Anmerkungen** des Professors erleichterten das Verständnis schwieriger Textstellen", "In digitalen Büchern können Leser persönliche **Notizen** hinzufügen"]]
+  },
+  {
+    "lemma": "announcer",
+    "meanings_de": ["Rundfunksprecher"],
+    "definitions_de": ["Person, die Informationen präsentiert oder Programme im Radio oder Fernsehen ankündigt und moderiert"],
+    "examples_de": [["Der **Sportkommentator** beschrieb jede Spielszene mit großer Begeisterung", "**Radiosprecher** müssen eine klare und deutliche Stimme haben"]]
+  },
+  {
+    "lemma": "annoyance",
+    "meanings_de": ["Verärgerung"],
+    "definitions_de": ["Gefühl von leichtem Ärger oder Irritation, das durch etwas Störendes oder Unangenehmes verursacht wird"],
+    "examples_de": [["Die Verkehrsverzögerungen sorgten für erhebliche **Verärgerung** bei den Pendlern", "Sie äußerte ihren **Unmut** über die ständigen Unterbrechungen"]]
+  },
+  {
+    "lemma": "annoying",
+    "meanings_de": ["störende Eigenschaft"],
+    "definitions_de": ["Eigenschaft, die durch lästiges Verhalten oder störende Merkmale leichten Ärger oder Frustration verursacht"],
+    "examples_de": [["Das **nervige** Tropfen des Wasserhahns hielt alle wach", "Seine **lästige** Angewohnheit, Gespräche zu unterbrechen, frustrierte die Kollegen"]]
+  },
+  {
+    "lemma": "annuity",
+    "meanings_de": ["regelmäßige Zahlung"],
+    "definitions_de": ["Festgelegter Geldbetrag, der jährlich oder in regelmäßigen Abständen gezahlt wird, typischerweise aus einer Anlage oder Versicherung"],
+    "examples_de": [["Ihre **Altersrente** bietet ein stetiges monatliches Einkommen", "Der Lottogewinner entschied sich für eine **Leibrente** statt einer Einmalzahlung"]]
+  },
+  {
+    "lemma": "annulment",
+    "meanings_de": ["rechtliche Aufhebung"],
+    "definitions_de": ["Offizielle Erklärung, die eine Ehe oder Vereinbarung rechtlich aufhebt und sie von Anfang an für nichtig erklärt"],
+    "examples_de": [["Das Gericht gewährte die **Annullierung** der Ehe wegen Betrugs", "Die kirchliche **Eheaufhebung** unterscheidet sich vom zivilrechtlichen Scheidungsverfahren"]]
+  },
+  {
+    "lemma": "annum",
+    "meanings_de": ["Jahresperiode"],
+    "definitions_de": ["Lateinischer Begriff für Jahr, der in formellen Kontexten verwendet wird, besonders bei Finanzberechnungen"],
+    "examples_de": [["Der Zinssatz beträgt fünf Prozent **pro Jahr**", "Gehälter werden üblicherweise als Beträge **per annum** angegeben"]]
+  },
+  {
+    "lemma": "annunciation",
+    "meanings_de": ["feierliche Ankündigung"],
+    "definitions_de": ["Formelle öffentliche Ankündigung oder Verkündung wichtiger Nachrichten oder religiöser Botschaften"],
+    "examples_de": [["Die **Verkündung** der neuen Richtlinie überraschte viele Mitarbeiter", "Kirchen feiern Mariä **Verkündigung** als wichtigen Feiertag"]]
+  },
+  {
+    "lemma": "anode",
+    "meanings_de": ["positive Elektrode"],
+    "definitions_de": ["Positiv geladene Elektrode, durch die elektrischer Strom in ein Gerät oder System fließt"],
+    "examples_de": [["Die **Anode** der Batterie korrodiert bei normalem Gebrauch allmählich", "Elektronen fließen in Stromkreisen von der Kathode zur **Anode**"]]
+  },
+  {
+    "lemma": "anointing",
+    "meanings_de": ["zeremonielle Salbung"],
+    "definitions_de": ["Ritueller Akt des Auftragens von Öl oder einer heiligen Substanz auf eine Person oder ein Objekt zu religiösen Zwecken"],
+    "examples_de": [["Der Priester vollzog die **Krankensalbung** am Sterbebett", "Die königliche **Salbung** symbolisiert die göttliche Legitimation des Herrschers"]]
+  },
+  {
+    "lemma": "anomaly",
+    "meanings_de": ["ungewöhnliche Abweichung"],
+    "definitions_de": ["Etwas, das vom normalen Muster oder erwarteten Verhalten in einem System oder Datensatz abweicht"],
+    "examples_de": [["Wissenschaftler untersuchten die Temperatur**anomalie** in den Meeresströmungen", "Die statistische **Abweichung** deutete auf Fehler bei der Datenerfassung hin"]]
+  },
+  {
+    "lemma": "anonymity",
+    "meanings_de": ["Identitätsverschleierung"],
+    "definitions_de": ["Zustand der unbekannten oder nicht offengelegten Identität, der persönliche Informationen vor öffentlichem Wissen schützt"],
+    "examples_de": [["Internetforen bieten Nutzern oft vollständige **Anonymität**", "Der Spender bestand auf **Namenlosigkeit** zum Schutz seiner Privatsphäre"]]
+  },
+  {
+    "lemma": "anorexia",
+    "meanings_de": ["Essstörung"],
+    "definitions_de": ["Schwere psychische Störung, die durch extreme Nahrungseinschränkung und verzerrtes Körperbild gekennzeichnet ist"],
+    "examples_de": [["Die Behandlung von **Magersucht** erfordert medizinische und psychologische Unterstützung", "**Anorexie** betrifft Menschen jeden Alters und jeder Herkunft"]]
+  },
+  {
+    "lemma": "ant",
+    "meanings_de": ["soziales Insekt"],
+    "definitions_de": ["Kleines soziales Insekt, das in organisierten Kolonien mit spezialisierten Rollen lebt"],
+    "examples_de": [["Die Arbeiter**ameisen** trugen Nahrung zurück zu ihrer Kolonie", "Der **Ameisen**staat baute komplexe unterirdische Tunnelsysteme"]]
+  },
+  {
+    "lemma": "antagonism",
+    "meanings_de": ["aktive Gegnerschaft"],
+    "definitions_de": ["Aktive Feindseligkeit oder Opposition zwischen Menschen, Gruppen oder widerstreitenden Kräften oder Prinzipien"],
+    "examples_de": [["Der politische **Antagonismus** zwischen den Parteien verschärfte sich vor den Wahlen", "Die **Feindschaft** zwischen den Nachbarn dauerte viele Jahre an"]]
+  },
+  {
+    "lemma": "antagonist",
+    "meanings_de": ["Gegenspieler", "blockierende Substanz"],
+    "definitions_de": ["Hauptfigur oder Kraft, die dem Protagonisten in einer Geschichte oder einem Konflikt entgegensteht", "Substanz, die biologische Reaktionen blockiert oder reduziert, indem sie an Rezeptoren bindet"],
+    "examples_de": [["Der Bösewicht diente als perfekter **Antagonist** des Helden", "Jede gute Geschichte braucht einen überzeugenden **Gegenspieler**"], ["Das Medikament wirkt als Rezeptor-**Antagonist** in der Behandlung", "**Gegenwirkstoffe** können die Effekte bestimmter Gifte aufheben"]]
+  },
+  {
+    "lemma": "ante",
+    "meanings_de": ["Pokereinsatz"],
+    "definitions_de": ["Anfangseinsatz oder Wette, die von Spielern vor dem Austeilen der Karten beim Poker platziert wird"],
+    "examples_de": [["Jeder Spieler muss den **Grundeinsatz** zahlen, bevor er Karten erhält", "Der Turnier-**Ante** erhöhte sich alle zwanzig Minuten"]]
+  },
+  {
+    "lemma": "anteater",
+    "meanings_de": ["insektenfressendes Säugetier"],
+    "definitions_de": ["Säugetier mit langer Schnauze und klebriger Zunge, das auf das Fressen von Ameisen und Termiten spezialisiert ist"],
+    "examples_de": [["Der große **Ameisenbär** nutzt seine Krallen, um Termitenhügel zu öffnen", "**Ameisenfresser** können täglich Tausende von Insekten verzehren"]]
+  },
+  {
+    "lemma": "antecedent",
+    "meanings_de": ["vorausgehendes Element"],
+    "definitions_de": ["Sache oder Ereignis, das vor einem anderen existierte oder diesem zeitlich oder logisch vorausgeht"],
+    "examples_de": [["Historische **Vorläufer** beeinflussten das moderne politische System", "Das Pronomen muss mit seinem **Bezugswort** in der Zahl übereinstimmen"]]
+  },
+  {
+    "lemma": "antechamber",
+    "meanings_de": ["Vorzimmer"],
+    "definitions_de": ["Kleiner Raum, der zu einem größeren, wichtigeren Raum führt und zum Warten oder zur Vorbereitung genutzt wird"],
+    "examples_de": [["Besucher warteten im **Vorzimmer**, bevor sie den Botschafter trafen", "Das **Wartezimmer** war mit bequemen Sitzgelegenheiten und Lesematerial ausgestattet"]]
+  },
+  {
+    "lemma": "antelope",
+    "meanings_de": ["schnelles Säugetier"],
+    "definitions_de": ["Schnelllaufendes Huftier, das hauptsächlich in Afrika vorkommt, mit schlankem Körperbau und Hörnern"],
+    "examples_de": [["Die **Antilope** sprang anmutig über die afrikanische Savanne", "Gazellen und Springböcke sind verschiedene **Antilopen**arten"]]
+  },
+  {
+    "lemma": "antenna",
+    "meanings_de": ["Insektenfühler", "Signalempfänger"],
+    "definitions_de": ["Paariger Sinnesanhang am Insektenkopf zur Wahrnehmung chemischer und physikalischer Reize", "Vorrichtung zum Senden oder Empfangen elektromagnetischer Wellen in Kommunikationssystemen"],
+    "examples_de": [["Die **Fühler** des Schmetterlings nahmen Blütendüfte aus weiter Entfernung wahr", "Insekten nutzen ihre **Antennen** zur Navigation und Nahrungssuche"], ["Die Radio**antenne** musste für besseren Empfang justiert werden", "Satelliten**schüsseln** dominierten die Dächer des Wohnblocks"]]
+  },
+  {
+    "lemma": "anthem",
+    "meanings_de": ["Zeremonienlied"],
+    "definitions_de": ["Feierliches Lied des Lobes oder Patriotismus, das offiziell von einer Nation oder Organisation angenommen wurde"],
+    "examples_de": [["Die Menge stand respektvoll während der **Nationalhymne**", "Die Schul**hymne** erklang während der Abschlussfeier"]]
+  },
+  {
+    "lemma": "anthology",
+    "meanings_de": ["Schriftensammlung"],
+    "definitions_de": ["Veröffentlichte Sammlung von Gedichten, Geschichten oder anderen Schriften, die nach einem gemeinsamen Thema oder Herausgeber ausgewählt wurden"],
+    "examples_de": [["Die Gedicht**anthologie** präsentierte Werke zeitgenössischer Dichter", "Studenten studierten Kurzgeschichten aus der klassischen **Sammlung**"]]
+  },
+  {
+    "lemma": "anthracite",
+    "meanings_de": ["Steinkohle"],
+    "definitions_de": ["Härteste Kohleart mit dem höchsten Kohlenstoffgehalt, die mit wenig Rauch verbrennt"],
+    "examples_de": [["**Anthrazit**kohle brennt sauberer als andere Kohlearten", "Die **Anthrazit**minen der Region waren über ein Jahrhundert in Betrieb"]]
+  },
+  {
+    "lemma": "anthrax",
+    "meanings_de": ["Bakterienkrankheit"],
+    "definitions_de": ["Schwere Infektionskrankheit, die durch Bakterien verursacht wird und Haut, Lungen oder Verdauungssystem befällt"],
+    "examples_de": [["Die Viehimpfung verhindert **Milzbrand**ausbrüche auf Bauernhöfen effektiv", "**Anthrax**sporen können jahrzehntelang im Boden überleben"]]
+  },
+  {
+    "lemma": "anthropologist",
+    "meanings_de": ["Menschheitsforscher"],
+    "definitions_de": ["Wissenschaftler, der menschliche Gesellschaften, Kulturen und deren Entwicklung im Laufe der Geschichte studiert"],
+    "examples_de": [["Der **Anthropologe** lebte zwei Jahre bei dem Stamm", "**Völkerkundler** dokumentieren weltweit bedrohte Sprachen und kulturelle Praktiken"]]
+  },
+  {
+    "lemma": "anthropology",
+    "meanings_de": ["Menschheitskunde"],
+    "definitions_de": ["Wissenschaftliche Studie des Menschen, seiner Kulturen, Gesellschaften und biologischen Entwicklung"],
+    "examples_de": [["Sie studierte **Anthropologie**, um alte Zivilisationen zu erforschen", "Die Kultur**anthropologie** untersucht, wie sich Gesellschaften unterschiedlich organisieren"]]
+  },
+  {
+    "lemma": "anti",
+    "meanings_de": ["Gegnerposition"],
+    "definitions_de": ["Person, die sich gegen eine bestimmte Politik, Praxis oder politische Position stellt"],
+    "examples_de": [["Die **Gegner** organisierten Proteste gegen die vorgeschlagene Gesetzgebung", "Sie blieb während der Debatten fest im **Anti**-Lager"]]
+  },
+  {
+    "lemma": "antiaircraft",
+    "meanings_de": ["Luftabwehr"],
+    "definitions_de": ["Waffen oder Verteidigungsanlagen, die zur Zerstörung oder Abwehr feindlicher Flugzeuge entwickelt wurden"],
+    "examples_de": [["**Flugabwehr**batterien schützten die Stadt während der Kriegsluftangriffe", "Moderne **Luftabwehr**systeme nutzen ausgeklügelte Radarverfolgungstechnologie"]]
+  },
+  {
+    "lemma": "antibacterial",
+    "meanings_de": ["bakterienbekämpfende Substanz"],
+    "definitions_de": ["Substanz oder Wirkstoff, der Bakterien abtötet oder deren Wachstum und Vermehrung verhindert"],
+    "examples_de": [["Die **antibakterielle** Seife hilft, die Ausbreitung von Infektionen zu verhindern", "Krankenhäuser verwenden starke **keimtötende** Reiniger auf allen Oberflächen"]]
+  },
+  {
+    "lemma": "antibiotic",
+    "meanings_de": ["infektionsbekämpfendes Medikament"],
+    "definitions_de": ["Medikament, das Bakterien zerstört oder deren Wachstum verhindert, um bakterielle Infektionen zu behandeln"],
+    "examples_de": [["Der Arzt verschrieb **Antibiotika** gegen die Halsentzündung", "**Antibiotika**resistenz stellt eine ernste globale Gesundheitsbedrohung dar"]]
+  },
+  {
+    "lemma": "antibody",
+    "meanings_de": ["Immunprotein"],
+    "definitions_de": ["Protein, das vom Immunsystem produziert wird, um fremde Substanzen wie Bakterien zu identifizieren und zu neutralisieren"],
+    "examples_de": [["Bluttests zeigten hohe **Antikörper**spiegel gegen das Virus", "Der Impfstoff stimuliert die **Antikörper**produktion zum Krankheitsschutz"]]
+  },
+  {
+    "lemma": "antic",
+    "meanings_de": ["spielerisches Verhalten"],
+    "definitions_de": ["Spielerisches, lustiges oder lächerliches Verhalten, das zur Unterhaltung oder Aufmerksamkeitserregung dient"],
+    "examples_de": [["Die **Possen** der Kinder sorgten während des Abendessens für Gelächter", "Seine albernen **Späße** bei der Arbeit nervten manchmal ernsthafte Kollegen"]]
+  },
+  {
+    "lemma": "anticipation",
+    "meanings_de": ["erwartungsvolles Gefühl"],
+    "definitions_de": ["Aufgeregtes Gefühl der Erwartung, dass etwas Angenehmes oder Wichtiges in der Zukunft geschehen wird"],
+    "examples_de": [["Die **Vorfreude** auf den Urlaub ließ die Arbeitswoche schnell vergehen", "Kinder warteten voller **Erwartung** auf die Weihnachtsgeschenke"]]
+  },
+  {
+    "lemma": "anticyclone",
+    "meanings_de": ["Hochdruckgebiet"],
+    "definitions_de": ["Großräumiges Wettersystem mit hohem Luftdruck, das stabile, klare Wetterbedingungen bringt"],
+    "examples_de": [["Das **Hochdruckgebiet** brachte wochenlang sonniges Wetter in die Region", "Wetterkarten zeigten, wie sich das **Hoch** langsam ostwärts bewegte"]]
+  },
+  {
+    "lemma": "antidepressant",
+    "meanings_de": ["Stimmungsmedikament"],
+    "definitions_de": ["Medikament zur Behandlung von Depressionen und anderen Stimmungsstörungen durch Beeinflussung der Gehirnchemie"],
+    "examples_de": [["Das **Antidepressivum** half, ihre Stimmung und Energie zu verbessern", "Verschiedene **Antidepressiva** wirken über unterschiedliche Gehirnchemie-Wege"]]
+  },
+  {
+    "lemma": "antidote",
+    "meanings_de": ["Gegengift"],
+    "definitions_de": ["Substanz, die Gift oder schädliche Wirkungen von Toxinen, Drogen oder Krankheiten neutralisiert"],
+    "examples_de": [["Das Krankenhaus lagerte **Gegengifte** für häufige Vergiftungsfälle", "Die schnelle Verabreichung des **Antidots** rettete das Leben des Patienten"]]
+  },
+  {
+    "lemma": "antifreeze",
+    "meanings_de": ["Kühlflüssigkeit"],
+    "definitions_de": ["Flüssige Substanz, die dem Wasser zugesetzt wird, um den Gefrierpunkt in Fahrzeugkühlsystemen zu senken"],
+    "examples_de": [["Prüfen Sie den **Frostschutz**mittelstand vor winterlichen Fahrbedingungen", "Der Mechaniker ersetzte das alte **Kühlmittel** durch frische Kühlflüssigkeit"]]
+  },
+  {
+    "lemma": "antifungal",
+    "meanings_de": ["pilzbekämpfende Substanz"],
+    "definitions_de": ["Medikament oder Substanz, die Pilze abtötet oder deren Wachstum auf Körperoberflächen verhindert"],
+    "examples_de": [["Der Arzt verschrieb **antimykotische** Creme gegen die Hautinfektion", "**Antipilz**behandlungen heilten den hartnäckigen Fußpilz"]]
+  },
+  {
+    "lemma": "antihero",
+    "meanings_de": ["fehlerhafter Protagonist"],
+    "definitions_de": ["Hauptfigur in einer Geschichte, der traditionelle heroische Eigenschaften wie Mut oder Moral fehlen"],
+    "examples_de": [["Der **Antiheld** kämpfte im Roman mit moralischen Entscheidungen", "Moderne Geschichten zeigen oft komplexe **Antihelden** statt perfekter Protagonisten"]]
+  },
+  {
+    "lemma": "antihistamine",
+    "meanings_de": ["Allergiemedikament"],
+    "definitions_de": ["Medikament, das allergische Reaktionen reduziert, indem es die Wirkung von Histamin im Körper blockiert"],
+    "examples_de": [["Sie nahm während der Pollensaison täglich **Antihistaminika**", "Das **Antiallergikum** linderte schnell seine juckenden Augen und das Niesen"]]
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "reduction",
+    "meanings_de": ["Mengenverringerung"],
+    "definitions_de": ["Vorgang, bei dem etwas in Menge, Grad oder Größe kleiner oder weniger gemacht wird"],
+    "examples_de": [["Das Geschäft kündigte eine Preis**reduktion** für alle Artikel an", "Eine deutliche **Verringerung** der Umweltverschmutzung wurde erreicht"]]
+  },
+  {
+    "lemma": "bitch",
+    "meanings_de": ["Hündin", "Beleidigung"],
+    "definitions_de": ["weiblicher Hund oder anderes Hundetier", "beleidigender Ausdruck für eine schwierige oder unangenehme Person"],
+    "examples_de": [["Die **Hündin** warf sechs Welpen", "Die **Hündin** unserer Nachbarn erwartet bald Nachwuchs"], ["Er beschwerte sich über seine nervige Chefin", "Das Leben kann manchmal wirklich hart sein"]]
+  },
+  {
+    "lemma": "entertainment",
+    "meanings_de": ["Unterhaltungsaktivität"],
+    "definitions_de": ["Aktivitäten, Aufführungen oder Shows, die Menschen amüsieren oder interessieren sollen"],
+    "examples_de": [["Das Hotel bietet jeden Freitagabend Live-**Unterhaltung**", "Fernsehen bleibt eine beliebte Form der häuslichen **Unterhaltung**"]]
+  },
+  {
+    "lemma": "academy",
+    "meanings_de": ["Bildungseinrichtung", "Fachorganisation"],
+    "definitions_de": ["Schule oder Hochschule für spezielle Ausbildung oder Bildung", "Gesellschaft oder Organisation angesehener Gelehrter oder Künstler"],
+    "examples_de": [["Sie schrieb sich letztes Jahr an der Polizei**akademie** ein", "Die Militär**akademie** bildet zukünftige Offiziere aus"], ["Die **Akademie** der Wissenschaften wählte neue Mitglieder", "Er erhielt eine Auszeichnung von der Film**akademie**"]]
+  },
+  {
+    "lemma": "teaspoon",
+    "meanings_de": ["kleiner Löffel", "Maßeinheit"],
+    "definitions_de": ["kleiner Löffel zum Umrühren von Tee oder Kaffee", "Maßeinheit, die einem Drittel eines Esslöffels entspricht"],
+    "examples_de": [["Rühren Sie Ihren Tee mit einem sauberen **Teelöffel** um", "In der Schublade befinden sich mehrere silberne **Teelöffel**"], ["Geben Sie zwei **Teelöffel** Zucker zur Mischung", "Das Rezept verlangt einen **Teelöffel** Vanille"]]
+  },
+  {
+    "lemma": "ally",
+    "meanings_de": ["unterstützender Partner"],
+    "definitions_de": ["Land, Gruppe oder Person, die mit einer anderen kooperiert oder ihr hilft"],
+    "examples_de": [["Frankreich ist seit langem ein **Verbündeter** der Vereinigten Staaten", "Sie fand in ihrem Vorgesetzten einen unerwarteten **Verbündeten**"]]
+  },
+  {
+    "lemma": "count",
+    "meanings_de": ["Gesamtzahl", "Adelstitel"],
+    "definitions_de": ["durch Zählen erreichte Gesamtzahl", "europäischer Adeliger mit einem dem britischen Earl gleichwertigen Rang"],
+    "examples_de": [["Die End**zählung** ergab zweihundert Teilnehmer", "Behalten Sie die **Anzahl** der ankommenden Kisten im Auge"], ["Der **Graf** besaß ausgedehnte Ländereien auf dem Land", "Sie heiratete letzten Sommer einen französischen **Grafen**"]]
+  },
+  {
+    "lemma": "avenue",
+    "meanings_de": ["breite Straße", "Herangehensweise"],
+    "definitions_de": ["breite Straße in einer Stadt", "Art und Weise, ein Problem anzugehen oder Fortschritte zu erzielen"],
+    "examples_de": [["Ihr Büro befindet sich in der Fifth **Avenue** in Manhattan", "Bäume säumen beide Seiten der **Allee**"], ["Wir müssen jeden **Weg** zur Finanzierung erkunden", "Dieser Forschungs**weg** zeigt großes Potenzial"]]
+  },
+  {
+    "lemma": "priest",
+    "meanings_de": ["religiöser Führer"],
+    "definitions_de": ["Person, die berechtigt ist, religiöse Zeremonien und Pflichten in christlichen Kirchen durchzuführen"],
+    "examples_de": [["Der **Priester** hielt am Sonntag eine inspirierende Predigt", "Sie beriet sich mit ihrem **Pfarrer** über die Hochzeit"]]
+  },
+  {
+    "lemma": "employment",
+    "meanings_de": ["Arbeitssituation"],
+    "definitions_de": ["Zustand bezahlter Arbeit oder der Prozess, Menschen für Arbeit zu finden"],
+    "examples_de": [["Voll**beschäftigung** bleibt ein wichtiges wirtschaftliches Ziel", "Sie fand eine **Anstellung** im örtlichen Krankenhaus"]]
+  },
+  {
+    "lemma": "grass",
+    "meanings_de": ["grüne Pflanze"],
+    "definitions_de": ["niedrige grüne Pflanzen mit schmalen Blättern, die den Boden bedecken"],
+    "examples_de": [["Das **Gras** muss im Sommer zweimal wöchentlich gemäht werden", "Kinder spielten auf dem weichen **Rasen**"]]
+  },
+  {
+    "lemma": "scholar",
+    "meanings_de": ["akademischer Experte"],
+    "definitions_de": ["Person, die ein Fachgebiet sehr detailliert studiert, insbesondere an einer Universität"],
+    "examples_de": [["Der Gast**wissenschaftler** hielt einen Vortrag über alte Geschichte", "Sie ist eine angesehene Shakespeare-**Forscherin**"]]
+  },
+  {
+    "lemma": "edition",
+    "meanings_de": ["veröffentlichte Version"],
+    "definitions_de": ["bestimmte Version eines Buches, einer Zeitung oder Zeitschrift, die zu einem Zeitpunkt veröffentlicht wird"],
+    "examples_de": [["Die Erst**ausgabe** des Buches ist sehr wertvoll", "Die heutige **Ausgabe** enthält aktuelle Nachrichten"]]
+  },
+  {
+    "lemma": "infection",
+    "meanings_de": ["Krankheitsinvasion"],
+    "definitions_de": ["Krankheit oder Zustand, der durch Bakterien, Viren oder andere Mikroorganismen verursacht wird, die in den Körper eindringen"],
+    "examples_de": [["Der Arzt verschrieb Antibiotika gegen die **Infektion**", "Richtige Hygiene hilft, **Infektionen** vorzubeugen"]]
+  },
+  {
+    "lemma": "suggestion",
+    "meanings_de": ["vorgeschlagene Idee"],
+    "definitions_de": ["Idee oder Plan, der zur Überlegung vorgebracht wird"],
+    "examples_de": [["Danke für Ihren hilfreichen **Vorschlag** zum Projekt", "Das Komitee begrüßte **Anregungen** aller Mitglieder"]]
+  },
+  {
+    "lemma": "resistance",
+    "meanings_de": ["Gegenkraft", "Verweigerung"],
+    "definitions_de": ["Kraft, die sich einer Bewegung widersetzt oder sie verlangsamt", "Weigerung, etwas zu akzeptieren oder zu befolgen"],
+    "examples_de": [["Der Luft**widerstand** beeinflusst die Geschwindigkeit fallender Objekte", "Der Draht hat einen niedrigen elektrischen **Widerstand**"], ["Die Richtlinie stieß auf starken **Widerstand** der Mitarbeiter", "**Widerstand** gegen Veränderungen ist in Organisationen üblich"]]
+  },
+  {
+    "lemma": "prince",
+    "meanings_de": ["Königssohn", "Herrscher"],
+    "definitions_de": ["Sohn eines Königs oder einer Königin", "männlicher Herrscher eines kleinen Staates oder Territoriums"],
+    "examples_de": [["Der **Prinz** wird eines Tages den Thron erben", "Der junge **Prinz** nahm an der Zeremonie teil"], ["Monaco wird von einem **Fürsten** regiert", "Der **Fürst** regiert das kleine Fürstentum"]]
+  },
+  {
+    "lemma": "illness",
+    "meanings_de": ["Gesundheitszustand"],
+    "definitions_de": ["Krankheit oder Zeitraum des Krankseins, der Körper oder Geist betrifft"],
+    "examples_de": [["Sie erholte sich nach zwei Wochen von ihrer **Krankheit**", "Psychische **Erkrankungen** erfordern professionelle Behandlung"]]
+  },
+  {
+    "lemma": "republic",
+    "meanings_de": ["Regierungssystem"],
+    "definitions_de": ["Land mit gewählten Vertretern und Führer anstelle eines Königs oder einer Königin"],
+    "examples_de": [["Frankreich wurde nach der Revolution zur **Republik**", "Die Vereinigten Staaten sind eine föderale **Republik**"]]
+  },
+  {
+    "lemma": "volunteer",
+    "meanings_de": ["unbezahlter Helfer"],
+    "definitions_de": ["Person, die ohne Bezahlung arbeitet, insbesondere für wohltätige Zwecke"],
+    "examples_de": [["Das Krankenhaus braucht mehr **Freiwillige** für die Wochenendschicht", "Sie arbeitet als **Ehrenamtliche** im Tierheim"]]
+  },
+  {
+    "lemma": "evaluation",
+    "meanings_de": ["Bewertungsprozess"],
+    "definitions_de": ["Prozess der Beurteilung oder Berechnung der Qualität, Wichtigkeit oder des Wertes von etwas"],
+    "examples_de": [["Die jährliche **Beurteilung** hilft Mitarbeitern, ihre Leistung zu verbessern", "Die Immobilien**bewertung** bestimmte den Marktwert"]]
+  },
+  {
+    "lemma": "mine",
+    "meanings_de": ["Abbaugelände", "Sprengvorrichtung"],
+    "definitions_de": ["tiefes Loch oder Tunnel, der gegraben wird, um Mineralien oder Kohle zu fördern", "unter der Erde oder im Wasser platzierte Bombe, die bei Störung explodiert"],
+    "examples_de": [["Arbeiter stiegen bei Morgengrauen in die Kohlen**grube** hinab", "Das Gold**bergwerk** produzierte jährlich Tonnen von Erz"], ["Das Schiff traf eine **Mine** und sank schnell", "Soldaten entfernten vorsichtig **Minen** vom Feld"]]
+  },
+  {
+    "lemma": "black",
+    "meanings_de": ["dunkelste Farbe", "ethnische Gruppe"],
+    "definitions_de": ["Farbe des dunkelsten Farbtons, wie Nacht oder Kohle", "Person, die einer Rasse mit dunkler Haut angehört"],
+    "examples_de": [["Sie trug ein **schwarzes** Kleid zur formellen Veranstaltung", "Der **schwarze** Lack des Autos glänzte im Sonnenlicht"], ["Das Museum würdigt **schwarze** Künstler und ihre Beiträge", "**Schwarze** Gemeinschaften haben reiche kulturelle Traditionen"]]
+  },
+  {
+    "lemma": "iron",
+    "meanings_de": ["Metallelement", "Bügelgerät"],
+    "definitions_de": ["starkes, hartes, magnetisches silbergraues Metall zur Stahlherstellung", "erhitztes Werkzeug zum Bügeln von Kleidung, um Falten zu entfernen"],
+    "examples_de": [["Das Tor war aus Schmied**eisen** gefertigt", "**Eisenerz** wird aus der Erde abgebaut"], ["Sie benutzte das **Bügeleisen**, um ihr Hemd zu bügeln", "Das **Bügeleisen** muss vor der Lagerung abkühlen"]]
+  },
+  {
+    "lemma": "phrase",
+    "meanings_de": ["Wortgruppe"],
+    "definitions_de": ["kleine Gruppe von Wörtern, die innerhalb eines Satzes eine sinnvolle Einheit bildet"],
+    "examples_de": [["Die **Redewendung** 'Es war einmal' beginnt viele Märchen", "Lernen Sie gängige **Phrasen**, bevor Sie ins Ausland reisen"]]
+  },
+  {
+    "lemma": "assumption",
+    "meanings_de": ["akzeptierte Überzeugung"],
+    "definitions_de": ["Sache, die ohne Beweis als wahr akzeptiert wird"],
+    "examples_de": [["Ihre **Annahme** über die Kosten war falsch", "Wir sollten keine **Vermutungen** anstellen, ohne Fakten zu prüfen"]]
+  },
+  {
+    "lemma": "sand",
+    "meanings_de": ["winzige Partikel"],
+    "definitions_de": ["sehr kleine Gesteinskörner, die an Stränden und in Wüsten vorkommen"],
+    "examples_de": [["Kinder bauten Burgen im **Sand**", "Wüsten**sand** erstreckte sich meilenweit"]]
+  },
+  {
+    "lemma": "designer",
+    "meanings_de": ["kreativer Fachmann"],
+    "definitions_de": ["Person, die plant, wie Dinge aussehen oder funktionieren werden, insbesondere Kleidung, Gebäude oder Produkte"],
+    "examples_de": [["Die Mode**designerin** zeigte ihre neue Kollektion", "Sie engagierten einen **Designer** für die Küchenrenovierung"]]
+  },
+  {
+    "lemma": "planning",
+    "meanings_de": ["Vorbereitungsprozess"],
+    "definitions_de": ["Prozess der Erstellung von Plänen oder Vorkehrungen für etwas, das geschehen soll"],
+    "examples_de": [["Stadt**planung** erfordert die Berücksichtigung zukünftigen Wachstums", "Die **Planung** einer Hochzeit kann Monate der Vorbereitung erfordern"]]
+  },
+  {
+    "lemma": "mode",
+    "meanings_de": ["Art und Weise", "Betriebseinstellung"],
+    "definitions_de": ["bestimmte Art oder Methode, etwas zu tun", "Einstellung oder Funktion an einem Gerät"],
+    "examples_de": [["Zu Fuß gehen ist ihre bevorzugte Fortbewegungs**art**", "Diese Denk**weise** führt zu kreativen Lösungen"], ["Schalten Sie die Kamera in den Porträt**modus**", "Der Computer befindet sich im Ruhe**modus**"]]
+  },
+  {
+    "lemma": "occasion",
+    "meanings_de": ["besonderes Ereignis", "bestimmter Zeitpunkt"],
+    "definitions_de": ["wichtiges oder besonderes Ereignis oder Zeremonie", "bestimmter Zeitpunkt, zu dem etwas geschieht"],
+    "examples_de": [["Ihre Hochzeit war ein freudiger **Anlass**", "Wir versammelten uns zu diesem besonderen **Anlass**"], ["Ich habe ihn bei mehreren **Gelegenheiten** getroffen", "Diese **Gelegenheit** erfordert eine Feier"]]
+  },
+  {
+    "lemma": "festival",
+    "meanings_de": ["Festveranstaltung"],
+    "definitions_de": ["organisierte Reihe von Veranstaltungen wie Musikaufführungen oder Filme"],
+    "examples_de": [["Das Musik**festival** zieht jährlich Tausende von Besuchern an", "Sie feiern jedes Jahr im Herbst das Ernte**fest**"]]
+  },
+  {
+    "lemma": "cap",
+    "meanings_de": ["Kopfbedeckung", "Obergrenze"],
+    "definitions_de": ["weiche, flache Mütze mit Schirm", "Obergrenze für etwas"],
+    "examples_de": [["Er trug eine Baseball**kappe** zum Spiel", "Die Krankenschwester richtete ihre **Haube** zurecht"], ["Die Regierung setzte eine **Obergrenze** für Ausgaben fest", "Es gibt eine **Grenze** für die Klassengröße"]]
+  },
+  {
+    "lemma": "mechanism",
+    "meanings_de": ["Funktionsteile", "Verfahrensweise"],
+    "definitions_de": ["Satz beweglicher Teile in einer Maschine, die eine Aufgabe ausführen", "Methode oder Prozess zur Erzielung eines Ergebnisses"],
+    "examples_de": [["Der **Mechanismus** der Uhr muss sorgfältig repariert werden", "Studieren Sie den **Mechanismus** in diesem Gerät"], ["Wir brauchen einen **Mechanismus** zur Streitbeilegung", "Der Preis**mechanismus** reagiert auf die Nachfrage"]]
+  },
+  {
+    "lemma": "intention",
+    "meanings_de": ["geplantes Ziel"],
+    "definitions_de": ["Ziel oder Plan dessen, was jemand zu tun beabsichtigt"],
+    "examples_de": [["Ihre **Absicht** ist es, die Schule dieses Jahr abzuschließen", "Er erklärte seine **Absicht**, für ein Amt zu kandidieren"]]
+  },
+  {
+    "lemma": "scenario",
+    "meanings_de": ["mögliche Situation"],
+    "definitions_de": ["Beschreibung möglicher Ereignisse oder Situationen, die eintreten könnten"],
+    "examples_de": [["Das schlimmste **Szenario** wäre ein totaler Systemausfall", "Lassen Sie uns verschiedene **Szenarien** durchdenken, bevor wir entscheiden"]]
+  },
+  {
+    "lemma": "transportation",
+    "meanings_de": ["Bewegungssystem"],
+    "definitions_de": ["System oder Mittel zur Beförderung von Menschen oder Gütern von Ort zu Ort"],
+    "examples_de": [["Öffentliche **Verkehrsmittel** reduzieren Verkehrsstaus", "Das Unternehmen organisiert den **Transport** für Mitarbeiter"]]
+  },
+  {
+    "lemma": "pot",
+    "meanings_de": ["Kochbehälter", "Pflanzenbehälter"],
+    "definitions_de": ["tiefer runder Behälter zum Kochen", "Behälter zum Züchten von Pflanzen"],
+    "examples_de": [["Die Suppe köchelte im großen **Topf**", "Sie rührte den **Topf** mit kochenden Nudeln um"], ["Pflanzen Sie die Samen zuerst in kleine **Töpfe**", "Der Blumen**topf** steht auf der Fensterbank"]]
+  },
+  {
+    "lemma": "boyfriend",
+    "meanings_de": ["romantischer Partner"],
+    "definitions_de": ["Mann oder Junge, mit dem jemand eine romantische Beziehung hat"],
+    "examples_de": [["Sie stellte ihren **Freund** ihren Eltern vor", "Ihr **Freund** überraschte sie mit Blumen"]]
+  },
+  {
+    "lemma": "consideration",
+    "meanings_de": ["sorgfältige Überlegung", "berücksichtigter Faktor"],
+    "definitions_de": ["sorgfältiges Nachdenken über etwas", "Tatsache oder Detail, das bei einer Entscheidung berücksichtigt werden muss"],
+    "examples_de": [["Nach reiflicher **Überlegung** nahm sie das Stellenangebot an", "Der Vorschlag verdient ernsthafte **Erwägung**"], ["Die Kosten sind ein wichtiger **Gesichtspunkt** bei diesem Projekt", "Sicherheits**erwägungen** beeinflussten das Design"]]
+  },
+  {
+    "lemma": "retirement",
+    "meanings_de": ["Arbeitsbeendigung"],
+    "definitions_de": ["Lebensabschnitt nach Beendigung der Arbeit, meist altersbedingt"],
+    "examples_de": [["Er plant, während seines **Ruhestands** zu reisen", "Sie sparte sorgfältig für einen komfortablen **Ruhestand**"]]
+  },
+  {
+    "lemma": "cigarette",
+    "meanings_de": ["Tabakprodukt"],
+    "definitions_de": ["dünner Zylinder aus Tabak, der zum Rauchen in Papier gerollt ist"],
+    "examples_de": [["Er hörte letztes Jahr auf, **Zigaretten** zu rauchen", "Die **Zigaretten**preise stiegen wegen neuer Steuern"]]
+  },
+  {
+    "lemma": "factory",
+    "meanings_de": ["Produktionsgebäude"],
+    "definitions_de": ["Gebäude, in dem Waren maschinell hergestellt oder montiert werden"],
+    "examples_de": [["Die **Fabrik** produziert monatlich Tausende von Autos", "Arbeiter protestierten vor den **Fabrik**toren"]]
+  },
+  {
+    "lemma": "clip",
+    "meanings_de": ["Befestigungsvorrichtung", "Videosegment"],
+    "definitions_de": ["kleine Vorrichtung zum Zusammenhalten oder Befestigen von Dingen", "kurzes Stück Film oder Video"],
+    "examples_de": [["Verwenden Sie eine Büro**klammer**, um Dokumente zusammenzuhalten", "Ihre Haar**spange** passte zu ihrem Kleid"], ["Sie schauten einen **Ausschnitt** aus dem neuen Film", "Der Nachrichten**clip** wurde online viral"]]
+  },
+  {
+    "lemma": "giant",
+    "meanings_de": ["riesiges Wesen", "sehr groß"],
+    "definitions_de": ["imaginäres oder mythisches Wesen von großer Größe", "etwas oder jemand, der sehr groß ist"],
+    "examples_de": [["Das Märchen handelte von einem freundlichen **Riesen**", "Jack kletterte die Bohnenranke zum Schloss des **Riesen** hinauf"], ["Das Unternehmen ist ein **Gigant** in der Technologiebranche", "Sie bauten eine **riesige** Statue im Park"]]
+  },
+  {
+    "lemma": "slave",
+    "meanings_de": ["Zwangsarbeiter"],
+    "definitions_de": ["Person, die rechtlich einer anderen gehört und ohne Bezahlung arbeiten muss"],
+    "examples_de": [["**Sklaven** arbeiteten unter harten Bedingungen auf Plantagen", "Die Museumsausstellungen zeigen das Leben der **Sklaven** im Detail"]]
+  },
+  {
+    "lemma": "christian",
+    "meanings_de": ["religiöser Anhänger"],
+    "definitions_de": ["Person, die an die Lehren Jesu Christi glaubt und ihnen folgt"],
+    "examples_de": [["**Christen** feiern Ostern als heiligen Tag", "Die **christliche** Gemeinde versammelte sich zum Gottesdienst"]]
+  },
+  {
+    "lemma": "wonder",
+    "meanings_de": ["Erstaunen", "bemerkenswerte Sache"],
+    "definitions_de": ["Gefühl der Überraschung gemischt mit Bewunderung", "etwas, das Erstaunen oder Bewunderung hervorruft"],
+    "examples_de": [["Kinder verfolgten die Zaubershow mit **Staunen**", "Sie blickte voller **Verwunderung** in den Nachthimmel"], ["Der alte Tempel ist ein **Wunder**, das man gesehen haben muss", "Die moderne Medizin vollbringt wahre **Wunder**"]]
+  },
+  {
+    "lemma": "participation",
+    "meanings_de": ["Teilnahme"],
+    "definitions_de": ["Akt der Teilnahme an einer Aktivität oder Veranstaltung"],
+    "examples_de": [["Die **Beteiligung** der Studenten an Klassendiskussionen wird gefördert", "Ihre **Teilnahme** an der Studie ist freiwillig"]]
+  },
+  {
+    "lemma": "stream",
+    "meanings_de": ["kleiner Fluss", "kontinuierlicher Fluss"],
+    "definitions_de": ["kleiner schmaler Fluss", "kontinuierlicher Fluss von etwas"],
+    "examples_de": [["Fische schwimmen im klaren Gebirgs**bach**", "Wir machten ein Picknick am plätschernden **Bach**"], ["Ein stetiger **Strom** von Besuchern kam den ganzen Tag", "Der Daten**strom** hört niemals auf"]]
+  }
+]

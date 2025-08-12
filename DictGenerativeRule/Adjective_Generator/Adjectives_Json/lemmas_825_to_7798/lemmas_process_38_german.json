@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "frugal",
+    "meanings_de": ["sparsam im Umgang mit Ressourcen"],
+    "definitions_de": ["von einem besonders sparsamen und wirtschaftlichen Umgang mit Geld oder anderen Ressourcen geprägt, wobei unnötige Ausgaben vermieden werden"],
+    "examples_de": [["Ihre **sparsame** Lebensweise ermöglichte es ihr, früh in Rente zu gehen", "Der **genügsame** Haushalt kam mit wenig Einkommen gut aus"]]
+  },
+  {
+    "lemma": "fruitful",
+    "meanings_de": ["ertragreich und produktiv"],
+    "definitions_de": ["reichlich gute oder nützliche Ergebnisse hervorbringend, dabei besonders produktiv und vorteilhaft für alle Beteiligten"],
+    "examples_de": [["Die **fruchtbare** Zusammenarbeit führte zu mehreren Patentanmeldungen", "Das Gespräch erwies sich als äußerst **ergiebig** für beide Seiten"]]
+  },
+  {
+    "lemma": "fruiting",
+    "meanings_de": ["Früchte tragend"],
+    "definitions_de": ["Früchte produzierend oder in der Lage, Früchte an einer Pflanze oder einem Baum hervorzubringen"],
+    "examples_de": [["Die **fruchttragenden** Äste bogen sich unter der Last der Äpfel", "Botaniker untersuchten die **fruchtenden** Pflanzen im Regenwald"]]
+  },
+  {
+    "lemma": "fruitless",
+    "meanings_de": ["ergebnislos und erfolglos"],
+    "definitions_de": ["keine gewünschten Resultate erzielend, dabei völlig unproduktiv und ohne sinnvolles Ergebnis bleibend"],
+    "examples_de": [["Die **ergebnislose** Suche dauerte mehrere Stunden", "Alle Verhandlungsversuche blieben **fruchtlos**"]]
+  },
+  {
+    "lemma": "fruity",
+    "meanings_de": ["nach Frucht schmeckend", "exzentrisch im Verhalten"],
+    "definitions_de": ["den Geschmack oder Geruch von Früchten aufweisend, besonders wenn süß und aromatisch", "umgangssprachlich für exzentrisches, verrücktes oder unkonventionelles Verhalten verwendet"],
+    "examples_de": [["Der Wein hatte eine **fruchtige** Note mit Beerenaroma", "Das **fruchtbetonte** Dessert kombinierte Mango und Maracuja"], ["Seine **schrullige** Art machte ihn zum Partymittelpunkt", "Der Komiker erzählte **verrückte** Geschichten aus seinem Leben"]]
+  },
+  {
+    "lemma": "frustrated",
+    "meanings_de": ["frustriert und entmutigt"],
+    "definitions_de": ["Gefühle von Verärgerung und Entmutigung empfindend oder ausdrückend, weil etwas nicht erreicht werden kann"],
+    "examples_de": [["Sie fühlte sich **frustriert** wegen der ständigen technischen Probleme", "Die **enttäuschten** Kunden warteten stundenlang in der Schlange"]]
+  },
+  {
+    "lemma": "frustrating",
+    "meanings_de": ["Frustration verursachend"],
+    "definitions_de": ["Gefühle von Ärger und Verdruss hervorrufend, indem Fortschritt oder Erfolg verhindert wird"],
+    "examples_de": [["Eine neue Sprache zu lernen kann anfangs sehr **frustrierend** sein", "Die **nervigen** Verzögerungen machten alle zu spät"]]
+  },
+  {
+    "lemma": "fucked",
+    "meanings_de": ["in schlechter Lage", "stark betrunken"],
+    "definitions_de": ["vulgärer Slang für eine sehr schlechte oder hoffnungslose Situation, in der man sich befindet", "vulgärer Slang für einen Zustand extremer Trunkenheit oder Drogenberauschung"],
+    "examples_de": [["Das Projekt ist ohne weitere Finanzierung völlig **im Arsch**", "Wir sind **geliefert**, wenn wir die Deadline verpassen"], ["Er war gestern Abend auf der Party total **dicht**", "Sie war zu **besoffen**, um nach Hause zu fahren"]]
+  },
+  {
+    "lemma": "fueled",
+    "meanings_de": ["mit Treibstoff versorgt", "angetrieben oder verstärkt"],
+    "definitions_de": ["mit Brennstoff oder Energie versorgt, um zu funktionieren oder zu operieren", "stimuliert, intensiviert oder angetrieben durch etwas, das Motivation liefert"],
+    "examples_de": [["Die Rakete war **betankt** und startbereit", "Alle Fahrzeuge müssen ordnungsgemäß **aufgetankt** werden"], ["Ihr Ehrgeiz wurde durch frühe Kindheitserfahrungen **genährt**", "Die Debatte wurde durch gegensätzliche Ansichten **angeheizt**"]]
+  },
+  {
+    "lemma": "fuelled",
+    "meanings_de": ["mit Treibstoff versorgt", "angetrieben oder verstärkt"],
+    "definitions_de": ["britische Schreibweise: mit Brennstoff oder Energie zum Betrieb versorgt", "britische Schreibweise: stimuliert oder angetrieben durch motivierende Faktoren"],
+    "examples_de": [["Das Flugzeug war für die Reise vollständig **betankt**", "Der Generator muss täglich **aufgetankt** werden"], ["Seine Wut wurde durch jahrelange Ungerechtigkeit **geschürt**", "Die Bewegung wurde durch Basisinitiativen **vorangetrieben**"]]
+  },
+  {
+    "lemma": "fugitive",
+    "meanings_de": ["auf der Flucht befindlich"],
+    "definitions_de": ["jemanden beschreibend, der entkommen ist und die Festnahme durch Behörden vermeidet"],
+    "examples_de": [["Der **flüchtige** Verdächtige wurde nahe der Grenze gesichtet", "Die Polizei suchte die ganze Nacht nach dem **entflohenen** Häftling"]]
+  },
+  {
+    "lemma": "fulfilled",
+    "meanings_de": ["erfüllt und zufrieden", "wie versprochen ausgeführt"],
+    "definitions_de": ["glücklich und zufrieden mit dem Leben und den eigenen Errungenschaften fühlend", "vollständig ausgeführt oder erfüllt wie versprochen, bestellt oder erwartet"],
+    "examples_de": [["Sie fühlte sich in ihrer neuen Karriere **erfüllt**", "Der Künstler führte ein **ausgefülltes** und sinnvolles Leben"], ["Alle Bestellungen wurden innerhalb von zwei Werktagen **ausgeführt**", "Das Unternehmen hat seine vertraglichen Verpflichtungen **erfüllt**"]]
+  },
+  {
+    "lemma": "fumbling",
+    "meanings_de": ["unbeholfen in der Bewegung"],
+    "definitions_de": ["etwas ungeschickt oder inkompetent ausführend, besonders mit den Händen"],
+    "examples_de": [["Seine **unbeholfenen** Versuche, das Schloss zu öffnen, scheiterten", "Sie durchsuchte **umständlich** ihre Handtasche"]]
+  },
+  {
+    "lemma": "functioning",
+    "meanings_de": ["ordnungsgemäß funktionierend"],
+    "definitions_de": ["in angemessener und normaler Weise arbeitend oder operierend, wie beabsichtigt"],
+    "examples_de": [["Das Krankenhaus hat nur einen **funktionierenden** Aufzug", "Alle Systeme sind **funktionstüchtig** und arbeiten normal"]]
+  },
+  {
+    "lemma": "fundamentalist",
+    "meanings_de": ["streng an Überzeugungen festhaltend"],
+    "definitions_de": ["sich auf strikte Einhaltung grundlegender Prinzipien einer Religion oder Ideologie beziehend"],
+    "examples_de": [["Der **fundamentalistische** Prediger lehnte moderne Interpretationen ab", "**Fundamentalistische** Gruppen widersetzten sich der neuen Gesetzgebung"]]
+  },
+  {
+    "lemma": "funded",
+    "meanings_de": ["mit Geldmitteln versehen"],
+    "definitions_de": ["mit Geld für einen bestimmten Zweck aus einer Quelle versorgt oder finanziert"],
+    "examples_de": [["Das Forschungsprojekt wurde durch staatliche Zuschüsse **finanziert**", "Mehrere **geförderte** Stellen sind dieses Jahr verfügbar"]]
+  },
+  {
+    "lemma": "funerary",
+    "meanings_de": ["Bestattungen betreffend"],
+    "definitions_de": ["sich auf Beerdigungen oder die Bestattung von Verstorbenen beziehend oder dafür verwendet"],
+    "examples_de": [["Alte **Bestattungsrituale** wurden im Grab entdeckt", "Das Museum stellte verschiedene **Grabbeigaben** aus"]]
+  },
+  {
+    "lemma": "fungal",
+    "meanings_de": ["Pilze betreffend"],
+    "definitions_de": ["von Pilzen oder Pilzorganismen stammend, sich darauf beziehend oder dadurch verursacht"],
+    "examples_de": [["Der Arzt diagnostizierte eine **Pilzinfektion**", "An den feuchten Wänden zeigte sich **pilzartiger** Bewuchs"]]
+  },
+  {
+    "lemma": "funky",
+    "meanings_de": ["unkonventionell stilvoll", "stark riechend"],
+    "definitions_de": ["einen unkonventionellen Stil habend, der modisch und interessant wirkt", "einen starken, unangenehmen Geruch aufweisend, besonders muffig oder modrig"],
+    "examples_de": [["Sie trug **ausgefallene** Vintage-Kleidung zur Party", "Die Band spielte **groovige** Jazz-Fusion-Musik"], ["Aus dem Keller kommt ein **muffiger** Geruch", "Der Käse hatte einen **strengen** Geruch, schmeckte aber großartig"]]
+  },
+  {
+    "lemma": "furious",
+    "meanings_de": ["extrem wütend"],
+    "definitions_de": ["bis zum Punkt der Raserei oder des Kontrollverlusts extrem wütend oder zornig"],
+    "examples_de": [["Sie war **wütend**, als sie den Verrat entdeckte", "Der **rasende** Sturm verursachte weitreichende Schäden"]]
+  },
+  {
+    "lemma": "furnished",
+    "meanings_de": ["mit Möbeln ausgestattet"],
+    "definitions_de": ["mit Möbeln und anderen notwendigen Gegenständen zum Wohnen oder Gebrauch ausgestattet"],
+    "examples_de": [["Die **möblierte** Wohnung verfügte über alle grundlegenden Annehmlichkeiten", "Sie mieteten ein komplett **eingerichtetes** Ferienhaus"]]
+  },
+  {
+    "lemma": "furred",
+    "meanings_de": ["mit Fell bedeckt"],
+    "definitions_de": ["mit Fell oder einer fellartigen Schicht auf der Oberfläche bedeckt"],
+    "examples_de": [["Die **pelzigen** Tiere passten sich gut an kalte Klimazonen an", "Seine Zunge fühlte sich nach der Krankheit **belegt** an"]]
+  },
+  {
+    "lemma": "furrowed",
+    "meanings_de": ["mit Furchen versehen"],
+    "definitions_de": ["mit langen schmalen Rillen oder Falten gekennzeichnet, besonders auf der Haut"],
+    "examples_de": [["Seine **gefurchte** Stirn zeigte tiefe Konzentration", "Der Bauer ging über das **gepflügte** Feld"]]
+  },
+  {
+    "lemma": "furry",
+    "meanings_de": ["mit Fell bedeckt"],
+    "definitions_de": ["mit Fell bedeckt oder in Textur oder Aussehen fellähnlich erscheinend"],
+    "examples_de": [["Das **flauschige** Kätzchen rollte sich auf dem Kissen zusammen", "Sie trug im Winter einen **pelzigen** Mantel"]]
+  },
+  {
+    "lemma": "further",
+    "meanings_de": ["weiter entfernt", "zusätzlich im Grad"],
+    "definitions_de": ["in oder zu einer größeren Entfernung in Raum oder Zeit befindlich", "zusätzlich oder fortgeschrittener in Grad, Ausmaß oder Fortschritt"],
+    "examples_de": [["Das **weitere** Ufer war im Nebel kaum sichtbar", "Wir müssen **weiter** zurück in die Geschichte schauen"], ["**Weitere** Beweise unterstützen die ursprüngliche Theorie", "Sie hatte keine **weiteren** Fragen zum Thema"]]
+  },
+  {
+    "lemma": "furthest",
+    "meanings_de": ["am weitesten entfernt"],
+    "definitions_de": ["in oder zu der größten Entfernung in Raum, Zeit oder Grad befindlich"],
+    "examples_de": [["Neptun ist der **entfernteste** Planet von der Sonne", "Dies stellt die **äußerste** Grenze unseres Wissens dar"]]
+  },
+  {
+    "lemma": "fused",
+    "meanings_de": ["miteinander verschmolzen"],
+    "definitions_de": ["durch Hitze oder chemischen Prozess zu einer einzigen Einheit verbunden oder verschmolzen"],
+    "examples_de": [["Die Metallteile wurden durch Schweißen **verschmolzen**", "Das **verschmolzene** Glas schuf wunderschöne künstlerische Muster"]]
+  },
+  {
+    "lemma": "futile",
+    "meanings_de": ["sinnlos und wirkungslos"],
+    "definitions_de": ["unfähig, ein nützliches Ergebnis zu produzieren; sinnlos und zum Scheitern verurteilt"],
+    "examples_de": [["Ihre **vergeblichen** Versuche, die Firma zu retten, scheiterten", "Mit ihm darüber zu streiten ist völlig **sinnlos**"]]
+  },
+  {
+    "lemma": "futurist",
+    "meanings_de": ["den Futurismus betreffend"],
+    "definitions_de": ["sich auf den Futurismus oder die Vorhersage und Darstellung der Zukunft beziehend"],
+    "examples_de": [["Der **futuristische** Architekt entwarf revolutionäre Gebäude", "**Futuristische** Vorhersagen erweisen sich oft als überraschend genau"]]
+  },
+  {
+    "lemma": "futuristic",
+    "meanings_de": ["zukunftsweisend charakteristisch"],
+    "definitions_de": ["sehr moderne Technologie oder Design aufweisend oder einbeziehend, das aus der Zukunft zu stammen scheint"],
+    "examples_de": [["Das Auto hatte ein schlankes **futuristisches** Design", "Der Film zeigte eine **futuristische** Gesellschaft"]]
+  },
+  {
+    "lemma": "fuzzy",
+    "meanings_de": ["weiche Textur habend", "unklar oder vage"],
+    "definitions_de": ["eine weiche, flauschige Textur aufweisend oder mit feinen weichen Haaren oder Fasern bedeckt", "schwer klar wahrzunehmen; undeutlich oder vage im Charakter"],
+    "examples_de": [["Die **flaumige** Pfirsichhaut fühlte sich weich an", "Sie trug **kuschelige** Hausschuhe im Haus"], ["Meine Erinnerungen an diesen Tag sind ziemlich **verschwommen**", "Das Foto war zu **unscharf**, um Gesichter zu erkennen"]]
+  },
+  {
+    "lemma": "gabby",
+    "meanings_de": ["übermäßig gesprächig"],
+    "definitions_de": ["informeller Ausdruck für zu viel reden, besonders über belanglose Angelegenheiten"],
+    "examples_de": [["Ihre **geschwätzige** Nachbarin redete stundenlang über nichts", "Der **redselige** Verkäufer hörte nicht auf, Produkte anzupreisen"]]
+  },
+  {
+    "lemma": "gabled",
+    "meanings_de": ["mit Giebeldächern versehen"],
+    "definitions_de": ["einen oder mehrere Giebel im architektonischen Design von Dächern aufweisend"],
+    "examples_de": [["Die **giebelständigen** Häuser säumten die historische Straße", "Ihr **Giebeldach** sorgte für hervorragende Regenentwässerung"]]
+  },
+  {
+    "lemma": "gaga",
+    "meanings_de": ["extrem begeistert", "geistig verwirrt"],
+    "definitions_de": ["informeller Ausdruck für extreme Begeisterung oder Verliebtheit in etwas", "informeller Ausdruck für geistige Verwirrung, besonders durch hohes Alter"],
+    "examples_de": [["Sie war ganz **verrückt** nach der neuen Modekollektion", "Die Fans waren **hingerissen** von ihrem Lieblingssänger"], ["Mein Großvater wird langsam etwas **tüddelig**", "Die Medikamente machten sie vorübergehend **verwirrt**"]]
+  },
+  {
+    "lemma": "galactic",
+    "meanings_de": ["Galaxien betreffend"],
+    "definitions_de": ["sich auf eine Galaxie beziehend oder damit zusammenhängend, besonders unsere Milchstraßengalaxie"],
+    "examples_de": [["Wissenschaftler untersuchen **galaktische** Formationen durch leistungsstarke Teleskope", "Der Film zeigte **galaktische** Schlachten zwischen außerirdischen Rassen"]]
+  },
+  {
+    "lemma": "gallant",
+    "meanings_de": ["tapfer und edel", "höflich gegenüber Frauen"],
+    "definitions_de": ["mutig, heldenhaft und edle Eigenschaften im Verhalten oder Handeln zeigend", "Frauen besondere Aufmerksamkeit und Respekt in ritterlicher Weise erweisend"],
+    "examples_de": [["Der **tapfere** Soldat erhielt Orden für seine Tapferkeit", "Es war ein **mutiger** Versuch trotz des Scheiterns"], ["Er machte eine **galante** Geste, indem er seinen Platz anbot", "Der **höfliche** Herr half ihr mit der Tür"]]
+  },
+  {
+    "lemma": "galore",
+    "meanings_de": ["in Hülle und Fülle"],
+    "definitions_de": ["in reichlicher Menge oder Fülle vorhanden, wird immer nach dem Substantiv verwendet"],
+    "examples_de": [["Das Festival bot Essen und Unterhaltung **in Hülle und Fülle**", "Es gab Schnäppchen **en masse** beim jährlichen Ausverkauf"]]
+  },
+  {
+    "lemma": "galvanic",
+    "meanings_de": ["Elektrizität betreffend", "plötzlich stimulierend"],
+    "definitions_de": ["sich auf elektrische Ströme beziehend oder diese beinhaltend, die durch chemische Wirkung erzeugt werden", "einen plötzlichen und dramatischen stimulierenden Effekt auf jemanden erzeugend"],
+    "examples_de": [["Der Wissenschaftler untersuchte **galvanische** Reaktionen in Metallen", "**Galvanische** Korrosion beschädigte den Schiffsrumpf"], ["Seine Rede hatte eine **elektrisierende** Wirkung auf die Menge", "Die Nachricht erzeugte eine **aufwühlende** Reaktion bei Investoren"]]
+  },
+  {
+    "lemma": "gambling",
+    "meanings_de": ["Glücksspiel betreffend"],
+    "definitions_de": ["die Praxis beinhaltend, Geld oder Wertgegenstände bei Glücksspielen zu riskieren"],
+    "examples_de": [["Die Stadt verbot **Glücksspiel**-Einrichtungen in der Innenstadt", "Seine **Spielschulden** wuchsen jeden Monat weiter"]]
+  },
+  {
+    "lemma": "gaping",
+    "meanings_de": ["weit offen klaffend"],
+    "definitions_de": ["weit offen stehend, besonders in Bezug auf Löcher, Wunden oder Münder"],
+    "examples_de": [["Ein **klaffendes** Loch erschien im Schiffsrumpf", "Sie starrte mit **offenem** Mund auf die Überraschung"]]
+  },
+  {
+    "lemma": "garbled",
+    "meanings_de": ["verwirrt und verzerrt"],
+    "definitions_de": ["verwirrt, verzerrt oder bedeutungslos in Nachricht oder Kommunikation"],
+    "examples_de": [["Die **verstümmelte** Nachricht war unmöglich zu verstehen", "Funkstörungen erzeugten **verzerrte** Übertragungen"]]
+  },
+  {
+    "lemma": "gargantuan",
+    "meanings_de": ["riesenhaft groß"],
+    "definitions_de": ["von enormer Größe, Volumen oder Grad; gigantisch über normale Proportionen hinaus"],
+    "examples_de": [["Das Unternehmen sah sich nach der Expansion **gigantischen** Schulden gegenüber", "Eine **gewaltige** Welle krachte gegen den Leuchtturm"]]
+  },
+  {
+    "lemma": "garish",
+    "meanings_de": ["aufdringlich grell"],
+    "definitions_de": ["aufdringlich hell und auffällig auf geschmacklose oder vulgäre Weise"],
+    "examples_de": [["Die **grellen** Neonschilder erleuchteten die Straße", "Sie trug **schrilles** Make-up, das nicht zu ihr passte"]]
+  },
+  {
+    "lemma": "gaseous",
+    "meanings_de": ["in Gasform befindlich"],
+    "definitions_de": ["in Form von Gas existierend statt in festem oder flüssigem Zustand"],
+    "examples_de": [["Wasser wird **gasförmig**, wenn es verdampft", "Der Planet hat eine dicke **gasförmige** Atmosphäre"]]
+  },
+  {
+    "lemma": "gastric",
+    "meanings_de": ["den Magen betreffend"],
+    "definitions_de": ["sich auf den Magen und seine Funktionen oder Krankheiten beziehend"],
+    "examples_de": [["Sie litt unter schweren **Magenbeschwerden**", "**Magensäfte** helfen bei der Verdauung im Magen"]]
+  },
+  {
+    "lemma": "gastrointestinal",
+    "meanings_de": ["Magen und Darm betreffend"],
+    "definitions_de": ["sowohl den Magen als auch die Därme im Verdauungssystem betreffend oder beeinflussend"],
+    "examples_de": [["Der Patient erlebte **gastrointestinale** Beschwerden nach dem Essen", "**Magen-Darm**-Erkrankungen erfordern spezialisierte medizinische Behandlung"]]
+  },
+  {
+    "lemma": "gastronomic",
+    "meanings_de": ["die Feinschmeckerei betreffend"],
+    "definitions_de": ["sich auf die Kunst und Wissenschaft des guten Essens und der feinen Küche beziehend"],
+    "examples_de": [["Paris bietet zahlreiche **gastronomische** Genüsse für Feinschmecker", "Das **kulinarische** Festival präsentierte Starköche"]]
+  },
+  {
+    "lemma": "gathered",
+    "meanings_de": ["zusammengebracht"],
+    "definitions_de": ["an einem Ort aus verschiedenen Quellen zusammengebracht oder versammelt"],
+    "examples_de": [["Die **versammelte** Menge wartete auf die Ankündigung", "Sie trug ein Kleid mit **gerafften** Ärmeln"]]
+  },
+  {
+    "lemma": "gauche",
+    "meanings_de": ["sozial unbeholfen"],
+    "definitions_de": ["es an sozialer Anmut, Sensibilität oder Takt mangeln lassend; unbeholfen in sozialen Situationen"],
+    "examples_de": [["Sein **taktloses** Verhalten brachte alle beim Abendessen in Verlegenheit", "Es wäre **ungeschickt**, jetzt Geld zu erwähnen"]]
+  },
+  {
+    "lemma": "gaudy",
+    "meanings_de": ["geschmacklos auffällig"],
+    "definitions_de": ["übertrieben hell oder auffällig auf geschmacklose oder vulgäre Weise"],
+    "examples_de": [["Die **protzigen** Dekorationen überwältigten den kleinen Raum", "Sie vermied es, **auffälligen** Schmuck zur Arbeit zu tragen"]]
+  }
+]

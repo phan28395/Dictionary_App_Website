@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "psychology",
+    "meanings_de": ["Psychologie", "psychische Merkmale"],
+    "definitions_de": ["Wissenschaftliche Untersuchung des menschlichen Verhaltens und mentaler Prozesse, einschließlich Gedanken und Emotionen, wobei verschiedene Methoden zur Erforschung des Bewusstseins und Unterbewusstseins angewendet werden", "Mentale Eigenschaften oder Einstellungen, die das Verhalten in bestimmten Situationen beeinflussen und dabei individuelle oder gruppendynamische Prozesse prägen"],
+    "examples_de": [["Sie entschied sich für ein **Psychologie**studium, um menschliches Verhalten besser zu verstehen", "**Psychologie**forscher entdeckten kürzlich neue Erkenntnisse über die Gedächtnisbildung"], ["Das Verständnis der Konsumenten**psychologie** hilft Unternehmen bei der Entwicklung effektiver Marketingstrategien", "Die Sieger**mentalität** des Teams machte sie während der Playoffs unaufhaltsam"]]
+  },
+  {
+    "lemma": "logic",
+    "meanings_de": ["Prinzipien des Denkens", "vernünftiges Denken"],
+    "definitions_de": ["Systematische Prinzipien und Methoden des Schlussfolgerns, die zur Analyse von Argumenten und zum Ziehen von Schlussfolgerungen verwendet werden, dabei formale Strukturen des Denkens nutzend", "Vernünftige oder nachvollziehbare Qualität des Denkens oder Handelns in praktischen Situationen des täglichen Lebens"],
+    "examples_de": [["Studierende lernen formale **Logik**, um in Philosophiekursen gültige Argumente zu konstruieren", "Das Computerprogramm nutzt Boolesche **Logik** zur effizienten Datenverarbeitung"], ["Es gibt keine **Logik** darin, während der Hauptverkehrszeit zu fahren, wenn man laufen kann", "Ihre Entscheidung folgte einer einfachen **Logik**, die jeder verstehen konnte"]]
+  },
+  {
+    "lemma": "economics",
+    "meanings_de": ["Wirtschaftswissenschaft", "wirtschaftliche Aspekte"],
+    "definitions_de": ["Sozialwissenschaft, die sich mit Produktion, Verteilung und Konsum von Gütern und Dienstleistungen befasst und dabei makro- sowie mikroökonomische Zusammenhänge untersucht", "Praktische Überlegungen zu Kosten und Ressourcenmanagement in verschiedenen Kontexten des wirtschaftlichen Handelns"],
+    "examples_de": [["Er studierte **Volkswirtschaftslehre**, um globale Finanzmärkte und Handelspolitik zu verstehen", "**Wirtschafts**professoren diskutieren oft über die Auswirkungen von Staatsausgaben auf die Inflation"], ["Die **Wirtschaftlichkeit** eines kleinen Unternehmens erfordert sorgfältige Budgetplanung", "Wir müssen die **wirtschaftlichen Aspekte** berücksichtigen, bevor wir dieses teure Projekt starten"]]
+  },
+  {
+    "lemma": "update",
+    "meanings_de": ["neue Information", "aktualisierte Version"],
+    "definitions_de": ["Aktuelle Informationen oder Neuigkeiten über eine bestimmte Situation oder Entwicklung, die den neuesten Stand der Dinge vermitteln", "Modifizierte oder verbesserte Version von Software, Hardware oder anderen Systemen zur Leistungsoptimierung"],
+    "examples_de": [["Der Manager gab uns heute Morgen ein **Update** zum Projektfortschritt", "Wir warten auf eine **Aktualisierung** aus dem Krankenhaus über ihren Zustand"], ["Das Software-**Update** behob mehrere Fehler und verbesserte die Systemleistung erheblich", "Installieren Sie heute Abend unbedingt das Sicherheits-**Update** auf Ihrem Computer"]]
+  },
+  {
+    "lemma": "devil",
+    "meanings_de": ["böser Geist", "schwierige Person"],
+    "definitions_de": ["Übernatürliches böses Wesen, das oft als Feind Gottes und der Menschheit dargestellt wird, in vielen Religionen als Verkörperung des Bösen", "Person, die sehr schwierig ist, Unfug treibt oder anderen Probleme bereitet"],
+    "examples_de": [["Viele Religionen lehren über den **Teufel** als Versucher der Menschheit", "Das Gemälde stellte den **Teufel** mit Hörnern und einer Mistgabel dar"], ["Dieser kleine **Teufel** hat schon wieder alle Kekse vor dem Abendessen gegessen", "Er kann ein richtiger **Teufel** sein, wenn er nicht bekommt, was er will"]]
+  },
+  {
+    "lemma": "beat",
+    "meanings_de": ["rhythmisches Muster", "regelmäßige Route"],
+    "definitions_de": ["Regelmäßiger Rhythmus oder Puls in der Musik, gemessen durch betonte und unbetonte Klänge, der das zeitliche Grundgerüst bildet", "Regelmäßiger Weg oder Bereich, der von jemandem im Dienst abgedeckt wird, besonders von Polizeibeamten"],
+    "examples_de": [["Der Schlagzeuger hielt während der gesamten Jazz-Performance einen gleichmäßigen **Beat**", "Das Tanzen zum **Rhythmus** der Musik erfüllte den Club mit Energie"], ["Polizist Johnson ging zwanzig Jahre lang seinen **Streifengang** durch die Innenstadt", "Der Reporter berichtete für die Lokalzeitung gewissenhaft über das Politik**ressort**"]]
+  },
+  {
+    "lemma": "charity",
+    "meanings_de": ["Hilfsorganisation", "großzügiges Geben"],
+    "definitions_de": ["Organisation, die Hilfe leistet und Geld für Bedürftige sammelt, dabei gemeinnützige Ziele verfolgt", "Freiwilliges Geben von Hilfe oder Geld an Bedürftige ohne Erwartung einer Gegenleistung"],
+    "examples_de": [["Die **Wohltätigkeitsorganisation** sammelte weltweit Millionen Dollar für Katastrophenhilfe", "Sie arbeitet ehrenamtlich bei einer lokalen **Hilfsorganisation**, die wöchentlich obdachlose Familien versorgt"], ["Ihre **Wohltätigkeit** gegenüber notleidenden Nachbarn zeigte wahres Mitgefühl und Güte", "Der Milliardär war für seine **Großzügigkeit** gegenüber Bildungseinrichtungen weltweit bekannt"]]
+  },
+  {
+    "lemma": "fiber",
+    "meanings_de": ["Fadenmaterial", "Ballaststoff"],
+    "definitions_de": ["Dünner Faden aus natürlichem oder synthetischem Material, der zur Herstellung von Stoff oder Seilen verwendet wird", "Unverdauliches Pflanzenmaterial, das die Verdauung unterstützt und gesunde Darmbewegungen fördert"],
+    "examples_de": [["Baumwoll**fasern** werden aus Pflanzen geerntet, um bequeme Kleidungsstoffe herzustellen", "Das Seil wurde aus starken synthetischen **Fasern** gefertigt, die nicht leicht reißen"], ["Der Verzehr von ausreichend **Ballaststoffen** hilft, Verstopfung zu verhindern und die Verdauungsgesundheit zu erhalten", "Vollkornprodukte und Gemüse sind hervorragende Quellen für **Ballaststoffe** in der täglichen Ernährung"]]
+  },
+  {
+    "lemma": "friendship",
+    "meanings_de": ["enge Beziehung", "freundschaftlicher Zustand"],
+    "definitions_de": ["Enge persönliche Beziehung zwischen Menschen, die auf gegenseitiger Zuneigung, Vertrauen und Unterstützung basiert", "Zustand des Freundseins oder das freundschaftliche Gefühl zwischen Nationen oder Gruppen"],
+    "examples_de": [["Ihre **Freundschaft** überdauerte Jahrzehnte voller Lebensveränderungen und gemeinsamer Herausforderungen", "Wahre **Freundschaft** bedeutet, in schwierigen Zeiten bedingungslos füreinander da zu sein"], ["Der Vertrag förderte die **Freundschaft** zwischen den beiden Ländern nach Jahren des Konflikts", "Der Aufbau von **Kameradschaft** unter Teammitgliedern verbesserte die Arbeitsplatzproduktivität und Moral erheblich"]]
+  },
+  {
+    "lemma": "net",
+    "meanings_de": ["Netzmaterial", "Nettobetrag"],
+    "definitions_de": ["Material aus Schnur, Draht oder Faden, das mit Zwischenräumen zusammengewebt ist", "Betrag, der nach Abzug aller Abzüge wie Steuern oder Ausgaben verbleibt"],
+    "examples_de": [["Das Fischer**netz** fing während der morgendlichen Expedition Dutzende von Lachsen", "Sie hängte ein Moskito**netz** über ihr Bett zum Schutz in der Nacht"], ["Sein **Nettoeinkommen** nach Steuern war niedriger als er anfangs erwartet hatte", "Der **Nettogewinn** des Unternehmens stieg in diesem Quartal beeindruckend um zwanzig Prozent"]]
+  },
+  {
+    "lemma": "motivation",
+    "meanings_de": ["Antriebskraft", "Motivierungsprozess"],
+    "definitions_de": ["Interne oder externe Faktoren, die Wunsch und Energie stimulieren, um Ziele zu erreichen, dabei psychologische Mechanismen nutzend", "Prozess der Ermutigung oder Inspiration von jemandem, Maßnahmen zu ergreifen oder die Leistung zu verbessern"],
+    "examples_de": [["Ihre **Motivation** zum Erfolg kam aus dem Wunsch, ihrer Familie finanziell zu helfen", "Mangelnde **Motivation** kann selbst einfache Aufgaben manchmal unmöglich schwer erscheinen lassen"], ["Die **Motivationstechniken** des Trainers halfen Athleten, über ihre üblichen Grenzen hinauszuwachsen", "Mitarbeiter**motivationsprogramme** steigerten die Produktivität und Arbeitszufriedenheit im gesamten Unternehmen"]]
+  },
+  {
+    "lemma": "reserve",
+    "meanings_de": ["Lagervorrat", "Schutzgebiet"],
+    "definitions_de": ["Vorrat von etwas, der für die Verwendung aufbewahrt wird, wenn er in der Zukunft benötigt wird", "Landgebiet, das zum Schutz von Wildtieren oder natürlichen Ressourcen reserviert ist"],
+    "examples_de": [["Das Land unterhält Öl**reserven** für Notfallsituationen und Versorgungsunterbrechungen", "Sie bewahrt immer eine **Reserve** an Bargeld für unerwartete Ausgaben zu Hause auf"], ["Das Natur**reservat** schützt gefährdete Arten vor Jagd und Lebensraumzerstörung", "Besucher können Wildtiere in ihrem natürlichen Lebensraum im **Schutzgebiet** beobachten"]]
+  },
+  {
+    "lemma": "observer",
+    "meanings_de": ["beobachtende Person", "offizieller Beobachter"],
+    "definitions_de": ["Person, die etwas beobachtet oder bemerkt, ohne aktiv daran teilzunehmen", "Offizieller Vertreter, der entsandt wird, um Ereignisse oder Verfahren zu überwachen und darüber zu berichten"],
+    "examples_de": [["Ein aufmerksamer **Beobachter** würde die subtilen Veränderungen in ihrem Verhalten in letzter Zeit bemerken", "Der Unfall hatte mehrere **Augenzeugen**, die der Polizei Zeugenaussagen lieferten"], ["Die UN entsandte **Wahlbeobachter**, um den Wahlprozess international auf Fairness zu überwachen", "Militärische **Beobachter** berichteten täglich über Waffenstillstandsverletzungen entlang der umstrittenen Grenzregion"]]
+  },
+  {
+    "lemma": "humanity",
+    "meanings_de": ["Menschheit", "Menschlichkeit"],
+    "definitions_de": ["Alle Menschen kollektiv als Ganzes oder als Spezies betrachtet", "Eigenschaft des Menschseins, die Mitgefühl, Güte und Wohlwollen gegenüber anderen zeigt"],
+    "examples_de": [["Der Klimawandel stellt weltweit eine ernsthafte Bedrohung für die Zukunft der **Menschheit** dar", "Im Laufe der Geschichte hat die **Menschheit** bemerkenswerte Anpassungs- und Überlebensfähigkeit gezeigt"], ["Die **Menschlichkeit** der Ärztin zeigte sich in ihrer sanften Behandlung der Patienten täglich", "Wir dürfen unsere **Menschlichkeit** nicht verlieren, auch nicht in den schwierigsten Zeiten"]]
+  },
+  {
+    "lemma": "survivor",
+    "meanings_de": ["Überlebender", "widerstandsfähige Person"],
+    "definitions_de": ["Person, die nach einem gefährlichen Ereignis, Unfall oder einer Krankheit weiterlebt", "Person, die gut mit Schwierigkeiten zurechtkommt und trotz herausfordernder Umstände zurechtkommt"],
+    "examples_de": [["Der Erdbeben**überlebende** wurde nach drei Tagen unter Trümmern gefangen gerettet", "Krebs**überlebende** werden oft zu Befürwortern von Forschung und Früherkennungsprogrammen"], ["Sie ist eine **Kämpferin**, die nach Armut in der Kindheit ein erfolgreiches Leben aufbaute", "Trotz mehrerer Geschäftsfehlschläge blieb er ein **Überlebenskünstler** in der Branche"]]
+  },
+  {
+    "lemma": "fence",
+    "meanings_de": ["Grenzbarriere", "Hehler"],
+    "definitions_de": ["Struktur aus Holz, Metall oder Draht, die ein Gebiet umgibt oder teilt", "Person, die gestohlene Waren als illegale Geschäftstätigkeit kauft und verkauft"],
+    "examples_de": [["Wir bauten einen Holz**zaun** um den Garten, um Rehe fernzuhalten", "Der weiße Lattenz**zaun** verlieh dem Haus ein charmantes traditionelles Aussehen"], ["Die Polizei verhaftete den **Hehler**, der regelmäßig gestohlene Elektronik in der Innenstadt verkaufte", "Diebe arbeiten oft mit einem **Hehler** zusammen, um gestohlene Gegenstände in Bargeld umzuwandeln"]]
+  },
+  {
+    "lemma": "humor",
+    "meanings_de": ["lustige Eigenschaft", "Körperflüssigkeit"],
+    "definitions_de": ["Eigenschaft, lustig zu sein oder die Fähigkeit, Belustigung zu schätzen und auszudrücken", "Flüssigkeit im Körper, besonders jene, von denen man einst glaubte, sie bestimmten Temperament und Gesundheit"],
+    "examples_de": [["Sein **Humor** half allen, sich während stressiger Besprechungen bei der Arbeit zu entspannen", "Der **Humor** des Komikers sprach gleichermaßen Publikum jeden Alters und Hintergrunds an"], ["Mittelalterliche Ärzte glaubten, dass das Ausbalancieren der Körper**säfte** die meisten Krankheiten heilen würde", "Der Glas**körper** füllt den Raum zwischen Linse und Netzhaut aus"]]
+  },
+  {
+    "lemma": "major",
+    "meanings_de": ["Militärrang", "Studienfach"],
+    "definitions_de": ["Militärischer Offiziersrang über Hauptmann und unter Oberstleutnant in den meisten Armeen", "Hauptstudienfach, das von einem College- oder Universitätsstudenten gewählt wird"],
+    "examples_de": [["**Major** Thompson führte das Bataillon gestern während der Trainingsübungen durch schwieriges Gelände", "Sie wurde nach fünfzehn Jahren ausgezeichneten Militärdienstes zum **Major** befördert"], ["Sein **Hauptfach** Informatik bereitete ihn gut auf die Technologiebranche vor", "Viele Studenten wechseln ihr **Studienfach** während der Studienzeit mindestens einmal"]]
+  },
+  {
+    "lemma": "funeral",
+    "meanings_de": ["Bestattungszeremonie", "Totenfeier"],
+    "definitions_de": ["Zeremonie, die nach dem Tod einer Person abgehalten wird, normalerweise vor der Beerdigung oder Einäscherung", "Bräuche und Rituale, die mit der Ehrung und dem Gedenken an einen Verstorbenen verbunden sind"],
+    "examples_de": [["Die **Trauerfeier** fand in der Kirche statt, in der sie gebetet hatte", "Hunderte von Menschen besuchten die **Beerdigung**, um ihre letzte Ehre zu erweisen"], ["Traditionelle **Bestattungsbräuche** variieren stark zwischen verschiedenen Kulturen und religiösen Überzeugungen weltweit", "Der **Trauerzug** bewegte sich langsam durch die Straßen zum Friedhof"]]
+  },
+  {
+    "lemma": "spokesman",
+    "meanings_de": ["offizieller Vertreter", "öffentlicher Sprecher"],
+    "definitions_de": ["Person, die offiziell für eine Gruppe, Organisation oder Regierungsstelle spricht", "Person, die ausgewählt wurde, um in verschiedenen Situationen öffentlich im Namen anderer zu sprechen"],
+    "examples_de": [["Der Unternehmens**sprecher** kündigte die Fusion bei der heutigen Pressekonferenz in der Innenstadt an", "Ein Regierungs**sprecher** lehnte es gestern Abend ab, die laufende Untersuchung zu kommentieren"], ["Der Gewerkschafts**sprecher** präsentierte heute Morgen die Forderungen der Arbeiter während der Vertragsverhandlungen", "Jedes Team wählte einen **Sprecher**, um ihr Projekt dem Vorstand vorzustellen"]]
+  },
+  {
+    "lemma": "extension",
+    "meanings_de": ["Verlängerungsanbau", "Fristverlängerung"],
+    "definitions_de": ["Teil, der zu etwas hinzugefügt wird, um es länger, größer oder umfassender zu machen", "Zusätzliche Zeit, die für die Erledigung einer Aufgabe oder die Erfüllung einer Anforderung gewährt wird"],
+    "examples_de": [["Der Haus**anbau** fügte zwei Schlafzimmer und eine größere Küche wunderschön hinzu", "Haar**verlängerungen** gaben ihr den langen, fließenden Look, den sie sich immer gewünscht hatte"], ["Der Professor gewährte eine dreitägige **Fristverlängerung** für die Abgabe der Forschungsarbeit", "Steuer**aufschübe** geben Menschen zusätzliche Zeit, ihre Erklärungen ordnungsgemäß vorzubereiten"]]
+  },
+  {
+    "lemma": "historian",
+    "meanings_de": ["Geschichtsexperte", "Vergangenheitschronist"],
+    "definitions_de": ["Person, die beruflich vergangene Ereignisse und historische Epochen studiert und darüber schreibt", "Person, die systematisch Dokumente erforscht und Aufzeichnungen über vergangene Ereignisse bewahrt"],
+    "examples_de": [["Der **Historiker** entdeckte neue Dokumente, die das Verständnis des Bürgerkriegs veränderten", "Mittelalter**historiker** verlassen sich stark auf Kirchenaufzeichnungen und archäologische Funde für ihre Forschung"], ["Lokal**historiker** arbeiten landesweit daran, die Geschichten kleiner Gemeinden zu bewahren", "Der Unternehmens**historiker** führt Archive wichtiger Unternehmensmeilensteine und -entscheidungen"]]
+  },
+  {
+    "lemma": "chemical",
+    "meanings_de": ["chemische Substanz", "Industrieprodukt"],
+    "definitions_de": ["Substanz, die durch oder in der Chemie mit bestimmter molekularer Zusammensetzung erzeugt oder verwendet wird", "Hergestellte Substanz, die in industriellen Prozessen oder kommerziellen Produkten verwendet wird"],
+    "examples_de": [["Wasser ist eine **chemische** Verbindung aus gebundenen Wasserstoff- und Sauerstoffatomen", "Das Labor lagerte gefährliche **Chemikalien** in speziell belüfteten Schränken zur Sicherheit"], ["Die Fabrik produziert **Chemikalien**, die bei der Herstellung von Kunststoffen und synthetischen Materialien verwendet werden", "Agrar**chemikalien** helfen Landwirten, die Ernteerträge zu steigern, erfordern aber sorgfältige Handhabung"]]
+  },
+  {
+    "lemma": "singer",
+    "meanings_de": ["Gesangsdarsteller", "singende Person"],
+    "definitions_de": ["Person, die professionell Lieder mit ihrer Stimme als Instrument vorträgt", "Jeder, der singt, ob professionell oder als Amateuraktivität"],
+    "examples_de": [["Die Opern**sängerin** übte täglich stundenlang Tonleitern, um die stimmliche Flexibilität zu erhalten", "Berühmte **Sänger** haben oft Schwierigkeiten, ihre Privatsphäre in ihrem persönlichen Leben zu wahren"], ["Jeder **Sänger** im Chor trug gestern Abend zu den wunderschönen Harmonien bei", "Sie ist eine Dusch**sängerin**, die davon träumt, eines Tages auf der Bühne aufzutreten"]]
+  },
+  {
+    "lemma": "onion",
+    "meanings_de": ["essbare Zwiebel", "geschichtetes Gemüse"],
+    "definitions_de": ["Rundes Gemüse mit vielen Schichten und starkem Geruch, das weltweit beim Kochen verwendet wird", "Pflanze aus der Lilienfamilie, die wegen ihrer essbaren Zwiebel mit scharfem Geschmack angebaut wird"],
+    "examples_de": [["Das Schneiden von **Zwiebeln** bringt mich immer zum Weinen, egal welchen Trick ich versuche", "Das Rezept verlangt zwei mittelgroße **Zwiebeln**, gewürfelt und goldbraun angebraten"], ["Frühlings**zwiebeln** verleihen Salaten und Pfannengerichten einen milden Geschmack", "Der Bauer erntete **Zwiebeln**, nachdem ihre Spitzen getrocknet und umgefallen waren"]]
+  },
+  {
+    "lemma": "specialist",
+    "meanings_de": ["Fachexperte", "medizinischer Experte"],
+    "definitions_de": ["Person, die sich beruflich auf einen bestimmten Tätigkeits- oder Wissensbereich konzentriert", "Arzt mit fortgeschrittener Ausbildung in einem bestimmten Bereich der Medizin"],
+    "examples_de": [["Das Unternehmen stellte einen Cybersicherheits**spezialisten** ein, um ihre digitalen Assets effektiv zu schützen", "Als **Spezialistin** für mittelalterliche Literatur veröffentlichte sie mehrere einflussreiche wissenschaftliche Artikel"], ["Mein Arzt überwies mich sofort an einen Herz**spezialisten** für weitere Untersuchungen", "Der **Facharzt** empfahl nach sorgfältiger Prüfung aller Testergebnisse eine Operation"]]
+  },
+  {
+    "lemma": "white",
+    "meanings_de": ["helle Farbe", "Rassenkategorie"],
+    "definitions_de": ["Hellste Farbe, die alle sichtbaren Wellenlängen des Lichts gleichmäßig reflektiert", "Rassenklassifikation, die historisch für Menschen europäischer Abstammung verwendet wurde"],
+    "examples_de": [["Die Braut trug ein traditionelles **weißes** Hochzeitskleid mit Perlknöpfen überall", "Frischer **weißer** Schnee bedeckte die Berggipfel und schuf eine atemberaubende Winterlandschaft"], ["Volkszählungsformulare enthalten oft **weiß** als Rassenkategorieoption für Befragte", "Die Demografie des Viertels veränderte sich kürzlich von überwiegend **weißer** zu vielfältigerer Bevölkerung"]]
+  },
+  {
+    "lemma": "pan",
+    "meanings_de": ["Kochgefäß", "Kamerabewegung"],
+    "definitions_de": ["Flacher Metallbehälter mit Griff, der zum Kochen von Speisen auf Kochfeldern verwendet wird", "Horizontale Bewegung einer Kamera, um Handlung zu verfolgen oder eine Szene zu überblicken"],
+    "examples_de": [["Sie erhitzte Olivenöl in der **Pfanne**, bevor sie vorsichtig gehacktes Gemüse hinzufügte", "Die Antihaft**pfanne** macht das Kochen von Eiern viel einfacher ohne Butterzugabe"], ["Der Regisseur verwendete einen langsamen **Schwenk**, um die weite Wüstenlandschaft zu enthüllen", "Kameraleute müssen sanft **schwenken**, um das Publikum nicht unangenehm zu stören"]]
+  },
+  {
+    "lemma": "deck",
+    "meanings_de": ["Schiffsboden", "Kartenspiel"],
+    "definitions_de": ["Flache Oberfläche, die den Boden eines Schiffes oder einer Außenplattform bildet", "Vollständiger Satz Spielkarten, der normalerweise zweiundfünfzig Karten plus Joker enthält"],
+    "examples_de": [["Passagiere genossen den Sonnenuntergang vom Ober**deck** während der Kreuzfahrt", "Wir bauten eine Holz**terrasse** hinter unserem Haus für Sommergrillabende"], ["Sie mischte das **Kartenspiel** gründlich, bevor sie jedem Spieler Karten austeilte", "Der Zauberer bat jemanden, zufällig eine Karte aus dem **Stapel** zu ziehen"]]
+  },
+  {
+    "lemma": "reflection",
+    "meanings_de": ["Spiegelbild", "tiefes Nachdenken"],
+    "definitions_de": ["Bild, das in einem Spiegel, Wasser oder einer anderen reflektierenden Oberfläche mit umgekehrtem Aussehen zu sehen ist", "Ernsthaftes Nachdenken oder Überlegung über etwas Wichtiges oder Bedeutungsvolles"],
+    "examples_de": [["Ihre **Spiegelung** im See zeigte sich deutlich im stillen Morgenwasser", "Das **Spiegelbild** enthüllte einen kleinen Fleck auf seinem Hemdkragen"], ["Nach viel **Nachdenken** entschied sie sich, ihre Karriere zu wechseln und Lehrerin zu werden", "Der Aufsatz erforderte tiefe **Reflexion** über persönliche Werte und Lebensziele"]]
+  },
+  {
+    "lemma": "database",
+    "meanings_de": ["Datensammlung", "Informationssystem"],
+    "definitions_de": ["Strukturierte Sammlung von Daten, die elektronisch von Computersystemen gespeichert und abgerufen werden", "Organisiertes System zur effizienten Speicherung, Abfrage und Verwaltung von Informationen"],
+    "examples_de": [["Die **Datenbank** des Unternehmens enthält Millionen von Kundendatensätzen und Transaktionsverläufen", "**Datenbankadministratoren** gewährleisten rund um die Uhr Datensicherheit und Systemleistung"], ["Bibliotheken verwenden **Datenbanken**, um Bücher zu katalogisieren und Besuchern bei der schnellen Ressourcensuche zu helfen", "Die Forschungs**datenbank** umfasst Tausende von begutachteten wissenschaftlichen Artikeln und Studien"]]
+  },
+  {
+    "lemma": "permission",
+    "meanings_de": ["formelle Zustimmung", "erlaubter Zugang"],
+    "definitions_de": ["Offizielle Genehmigung oder Zustimmung, etwas zu tun, was andernfalls verboten wäre", "Handlung, jemandem zu erlauben, etwas zu tun oder irgendwohin zu gehen"],
+    "examples_de": [["Schüler benötigen eine schriftliche **Erlaubnis** der Eltern für Klassenausflüge", "Die Stadt erteilte die **Genehmigung** zum Bau eines neuen Einkaufszentrums in der Innenstadt"], ["Sie bat um **Erlaubnis**, die Arbeit früher für einen Arzttermin zu verlassen", "Website-Cookies erfordern heutzutage die **Zustimmung** des Benutzers, bevor Browserdaten verfolgt werden"]]
+  },
+  {
+    "lemma": "lifestyle",
+    "meanings_de": ["Lebensweise", "Konsummuster"],
+    "definitions_de": ["Besondere Lebensweise, die die Werte und Einstellungen einer Person widerspiegelt", "Konsum- und Verhaltensmuster, das mit bestimmten sozialen Gruppen verbunden ist"],
+    "examples_de": [["Ihr gesunder **Lebensstil** umfasst tägliche Bewegung und ausschließlich biologische Ernährung", "Der Umzug aufs Land veränderte ihren **Lebensstil** vollständig zum Besseren"], ["Marketing zielt auf bestimmte **Lifestyle**-Gruppen mit maßgeschneiderten Werbebotschaften und Produkten", "Das Magazin konzentriert sich auf Luxus-**Lifestyle**-Trends unter wohlhabenden Stadtprofis"]]
+  },
+  {
+    "lemma": "lion",
+    "meanings_de": ["Wildkatze", "mutiger Mensch"],
+    "definitions_de": ["Große fleischfressende Katze, die in Afrika und Asien heimisch ist, mit gelbbraunem Fell und Mähne", "Person, die großen Mut zeigt oder viel Aufmerksamkeit und Bewunderung erhält"],
+    "examples_de": [["Der **Löwe** pirschte durch hohes Gras und jagte Zebras in der afrikanischen Savanne", "Männliche **Löwen** entwickeln beeindruckende Mähnen, die Reife und genetische Fitness signalisieren"], ["Sie war eine **Löwin** im Kampf und verteidigte ihr Land mit wilder Entschlossenheit", "Der literarische **Löwe** erhielt während seiner herausragenden Schriftstellerkarriere zahlreiche Auszeichnungen"]]
+  },
+  {
+    "lemma": "consumption",
+    "meanings_de": ["Verbrauch", "Verzehr"],
+    "definitions_de": ["Prozess des Verbrauchs von Ressourcen, Waren oder Dienstleistungen für verschiedene Zwecke", "Handlung des Essens oder Trinkens von etwas, insbesondere in Bezug auf die Gesundheit"],
+    "examples_de": [["Der Energie**verbrauch** steigt in heißen Sommermonaten durch Klimaanlagennutzung dramatisch an", "Der Bericht analysierte **Konsummuster** verschiedener demografischer Gruppen über Regionen hinweg"], ["Übermäßiger **Konsum** von zuckerhaltigen Getränken trägt zu Fettleibigkeit und Diabetesraten bei", "Alkohol**konsum**richtlinien empfehlen aus gesundheitlichen Gründen, die Aufnahme auf moderate Mengen zu begrenzen"]]
+  },
+  {
+    "lemma": "capability",
+    "meanings_de": ["Fähigkeit Kapazität", "Systemfunktion"],
+    "definitions_de": ["Kraft oder Fähigkeit, etwas effektiv zu tun, basierend auf Fertigkeiten oder Ressourcen", "Funktionen oder Aufgaben, die ein System, eine Maschine oder Organisation ausführen kann"],
+    "examples_de": [["Die neue Managerin zeigte vom ersten Tag an starke Führungs**fähigkeiten**", "Wir müssen unsere Fertigungs**kapazität** bewerten, bevor wir große Aufträge annehmen"], ["Die **Funktionen** der Software umfassen effizient fortgeschrittene Datenanalyse- und Visualisierungstools", "Militärische **Fähigkeiten** hängen davon ab, dass Training, Ausrüstung und strategische Planung effektiv zusammenwirken"]]
+  },
+  {
+    "lemma": "emission",
+    "meanings_de": ["Stoffausstoß", "Energiefreisetzung"],
+    "definitions_de": ["Produktion und Ausstoß von Gas, Strahlung oder anderen Substanzen in die Umwelt", "Freisetzung von Energie in Form von Wellen oder Partikeln aus einer Quelle"],
+    "examples_de": [["Kohlenstoff**emissionen** von Fahrzeugen tragen erheblich zur Luftverschmutzung und zum Klimawandel bei", "Die Fabrik installierte Filter, um schädliche **Emissionen** in die Atmosphäre zu reduzieren"], ["Radio**emissionen** aus fernen Galaxien helfen Astronomen, die Evolution des Universums zu studieren", "Die **Emission** von Licht von Glühwürmchen beinhaltet einen komplexen chemischen Reaktionsprozess"]]
+  },
+  {
+    "lemma": "sidebar",
+    "meanings_de": ["Seitenelement", "private Besprechung"],
+    "definitions_de": ["Schmale Spalte neben dem Hauptinhalt auf einer Webseite oder gedruckten Seite", "Private Besprechung zwischen Richter und Anwälten abseits der Jury"],
+    "examples_de": [["Die **Seitenleiste** der Website enthält Links zu verwandten Artikeln und Werbeanzeigen", "Wichtige Informationen erschienen in einem **Kasten** neben dem Hauptartikeltext"], ["Der Richter rief eine **Seitenbesprechung**, um die Zulässigkeit von Beweisen privat zu diskutieren", "Während der **Seitenbesprechung** argumentierten Anwälte über die Zulassung bestimmter Zeugenaussagen vor Gericht"]]
+  },
+  {
+    "lemma": "crap",
+    "meanings_de": ["wertlose Gegenstände", "Unsinn"],
+    "definitions_de": ["Dinge, die von extrem schlechter Qualität oder völlig wertlos sind", "Dummes oder unwahres Gerede, das Zeit verschwendet oder Menschen irreführt"],
+    "examples_de": [["Räum all den **Müll** aus der Garage, bevor wir umziehen", "Der Laden verkaufte billigen **Schrott**, der nach einmaliger Benutzung kaputtging"], ["Glaub nicht diesen **Quatsch** über schnellen Reichtum durch dieses System", "Er redet so viel **Mist**, dass ihn niemand mehr ernst nimmt"]]
+  },
+  {
+    "lemma": "dealer",
+    "meanings_de": ["Händler Verkäufer", "Kartenverteiler"],
+    "definitions_de": ["Person oder Unternehmen, das bestimmte Waren kommerziell kauft und verkauft", "Person, die Spielkarten in einem Kartenspiel verteilt"],
+    "examples_de": [["Der Auto**händler** bot wettbewerbsfähige Preise für alle verfügbaren Neuwagenmodelle", "Kunst**händler** reisen weltweit auf der Suche nach wertvollen Stücken zum späteren Verkauf"], ["Der **Geber** mischte die Karten fachmännisch, bevor er das Pokerspiel heute Abend begann", "Beim Blackjack muss der **Dealer** strenge Regeln zum Kartenziehen befolgen"]]
+  },
+  {
+    "lemma": "measurement",
+    "meanings_de": ["Größenbestimmung", "Messprozess"],
+    "definitions_de": ["Genaue Größe, Gewicht oder Menge von etwas, bestimmt unter Verwendung von Standardeinheiten", "Handlung oder Prozess des Messens von etwas zur Bestimmung seiner Abmessungen oder Menge"],
+    "examples_de": [["Der Schneider nahm präzise **Maße**, bevor er den teuren Stoff vorsichtig zuschnitt", "Temperatur**messungen** zeigten einen allmählichen Erwärmungstrend über mehrere Jahrzehnte weltweit"], ["Genaue **Messung** erfordert immer geeignete Werkzeuge und sorgfältige Aufmerksamkeit für Details", "Die **Messung** von Erfolg variiert stark je nach persönlichen Werten und Zielen"]]
+  },
+  {
+    "lemma": "adviser",
+    "meanings_de": ["Ratgeber", "Fachberater"],
+    "definitions_de": ["Person, die Empfehlungen und Anleitung in einem bestimmten Bereich gibt", "Fachmann, der Einzelpersonen oder Organisationen Expertenrat anbietet"],
+    "examples_de": [["Die akademische **Beraterin** half ihr, Kurse für ihre Hauptfachanforderungen klug zu wählen", "Finanz**berater** empfehlen, Investitionen zu diversifizieren, um das Risiko erheblich zu reduzieren"], ["Der Präsident verlässt sich täglich auf Militär**berater** für nationale Sicherheitsentscheidungen", "Berufs**berater** an der Universität unterstützen Studenten bei Strategien zur Arbeitssuche"]]
+  },
+  {
+    "lemma": "imagination",
+    "meanings_de": ["kreative Fähigkeit", "mentale Vorstellung"],
+    "definitions_de": ["Fähigkeit, neue Ideen oder Bilder zu formen, die den Sinnen nicht gegenwärtig sind", "Fähigkeit, kreativ neue Ideen zu denken oder mentale Bilder zu erschaffen"],
+    "examples_de": [["Die **Fantasie** von Kindern verwandelt Pappkartons mühelos in Raumschiffe und Schlösser", "Schriftsteller brauchen starke **Vorstellungskraft**, um glaubwürdige fiktive Welten und Charaktere zu erschaffen"], ["Nutzen Sie Ihre **Fantasie**, um dieses Problem auf unkonventionelle Weise zu lösen", "Die **Imagination** des Künstlers produzierte atemberaubende surreale Gemälde, die die Realität vollständig herausforderten"]]
+  },
+  {
+    "lemma": "tragedy",
+    "meanings_de": ["schreckliches Ereignis", "dramatisches Werk"],
+    "definitions_de": ["Extrem trauriges Ereignis, das oft Tod, Verlust oder großes Leid beinhaltet", "Ernstes Theaterstück oder Geschichte mit unglücklichem Ende, besonders über den Untergang eines Helden"],
+    "examples_de": [["Das Erdbeben war eine **Tragödie**, die traurigerweise Tausende unschuldiger Leben forderte", "Persönliche **Tragödie** traf sie, als beide Eltern bei dem Autounfall starben"], ["Shakespeares **Tragödie** Hamlet erforscht tiefgreifend Themen von Rache und moralischer Korruption", "Griechische **Tragödien** stellten oft Helden dar, die durch ihre eigenen fatalen Fehler zerstört wurden"]]
+  },
+  {
+    "lemma": "consultant",
+    "meanings_de": ["Fachberater", "spezialisierter Experte"],
+    "definitions_de": ["Fachmann, der Organisationen gegen Gebühr Expertenrat bietet", "Spezialist, der hinzugezogen wird, um Probleme zu analysieren und Lösungen zu empfehlen"],
+    "examples_de": [["Der Unternehmens**berater** identifizierte schnell Ineffizienzen in den Betriebsabläufen des Unternehmens", "Gesundheits**berater** helfen Krankenhäusern, die Patientenversorgung zu verbessern und Kosten effektiv zu senken"], ["Sie arbeitet als freiberufliche **Beraterin** gleichzeitig für mehrere Technologie-Startups", "Der Bericht des **Beraters** empfahl sofortige größere Änderungen der Marketingstrategie"]]
+  },
+  {
+    "lemma": "lieutenant",
+    "meanings_de": ["Militäroffizier", "stellvertretender Leiter"],
+    "definitions_de": ["Beauftragter Offizier in Streitkräften, der in den meisten Diensten unter dem Hauptmann rangiert", "Stellvertreter oder Assistent von jemandem in einer Autoritätsposition"],
+    "examples_de": [["**Leutnant** Martinez führte heute Morgen ihren Zug durch Kampftrainingsübungen", "Er wurde letzten Monat vom Unterleutnant zum **Oberleutnant** befördert"], ["Der **Stellvertreter** des Bandenführers kümmerte sich um die Drogenverteilung im östlichen Gebiet", "Sie diente als **Stellvertreterin** des CEOs und verwaltete effizient die täglichen Abläufe"]]
+  },
+  {
+    "lemma": "acre",
+    "meanings_de": ["Flächenmaß", "Grundstückseinheit"],
+    "definitions_de": ["Flächeneinheit gleich 43.560 Quadratfuß, die üblicherweise bei der Grundstücksmessung verwendet wird", "Maß für Land, das typischerweise für Farmen, Immobilien und große Grundstücke verwendet wird"],
+    "examples_de": [["Die Farm umfasst zweihundert **Morgen** fruchtbaren Bodens, perfekt für den Anbau", "Jeder **Morgen** Regenwald enthält unglaubliche Artenvielfalt, die es für immer zu bewahren gilt"], ["Sie kauften fünf **Morgen**, um ihr Traumhaus mit Gärten zu bauen", "Das Lauffeuer brannte durch Tausende von **Morgen**, bevor Feuerwehrleute es eindämmten"]]
+  },
+  {
+    "lemma": "drawing",
+    "meanings_de": ["Bilderstellung", "Auswahlverfahren"],
+    "definitions_de": ["Bild oder Diagramm, das mit Bleistift, Stift oder anderen Werkzeugen auf Papier erstellt wurde", "Prozess der zufälligen Auswahl von Gewinnern in einer Lotterie oder einem Wettbewerb"],
+    "examples_de": [["Ihre Bleistift**zeichnung** erfasste jedes Detail des alten Gebäudes perfekt", "Kinder drücken Kreativität durch **Zeichnen** aus, bevor sie fließend schreiben können"], ["Die Lotterie**ziehung** findet jeden Mittwoch und Samstag um acht Uhr statt", "Namen wurden durch Zufalls**ziehung** aus allen berechtigten Teilnehmern gleichmäßig ausgewählt"]]
+  },
+  {
+    "lemma": "scandal",
+    "meanings_de": ["öffentliche Empörung", "schändliches Ereignis"],
+    "definitions_de": ["Handlung oder Ereignis, das öffentliche Empörung verursacht oder jemandes Ruf erheblich schädigt", "Situation mit Vorwürfen von Fehlverhalten, die weitverbreitete negative Aufmerksamkeit erregt"],
+    "examples_de": [["Der Korruptions**skandal** zwang gestern mehrere Regierungsbeamte zum sofortigen Rücktritt", "Promi**skandale** dominieren oft wochenlang die Schlagzeilen der Boulevardpresse und ziehen massive Leserschaft an"], ["Der Buchhaltungs**skandal** enthüllte jahrelange betrügerische Finanzberichterstattung durch Führungskräfte", "Politische **Skandale** können Karrieren zerstören und Wahlergebnisse über Nacht dramatisch verändern"]]
+  },
+  {
+    "lemma": "ambassador",
+    "meanings_de": ["diplomatischer Vertreter", "offizieller Förderer"],
+    "definitions_de": ["Höchstrangiger Diplomat, der sein Land offiziell in einer anderen Nation vertritt", "Person, die als Vertreter oder Förderer einer bestimmten Aktivität fungiert"],
+    "examples_de": [["Die **Botschafterin** überreichte gestern Morgen dem Außenminister ihre Beglaubigungsschreiben", "**Botschafter** arbeiten daran, friedliche Beziehungen zwischen ihrem Heimat- und Gastland aufrechtzuerhalten"], ["Sie wurde letztes Jahr **Markenbotschafterin** für das Luxusmodeunternehmen", "UNICEF-**Botschafter** reisen weltweit und fördern überall Kinderrechte und Wohlfahrtsprogramme"]]
+  }
+]

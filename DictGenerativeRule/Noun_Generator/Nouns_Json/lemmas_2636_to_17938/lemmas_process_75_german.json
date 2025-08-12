@@ -1,0 +1,290 @@
+[
+  {
+    "lemma": "firebase",
+    "meanings_de": ["sichere Cloud-Plattform"],
+    "definitions_de": ["cloudbasierte Entwicklungsplattform von Google, die Werkzeuge und Infrastruktur für die Erstellung und Verwaltung von mobilen Apps und Webanwendungen bereitstellt"],
+    "examples_de": [["Das Startup nutzte **Firebase** für die Echtzeit-Synchronisation ihrer Datenbank", "Die **Firebase**-Authentifizierung vereinfachte ihr Benutzermanagement erheblich"]]
+  },
+  {
+    "lemma": "firebird",
+    "meanings_de": ["mythischer Feuervogel", "Automodell"],
+    "definitions_de": ["legendärer Vogel aus verschiedenen Mythologien, der mit Feuer und Wiedergeburt in Verbindung gebracht wird", "sportliches Automodell von Pontiac, das von 1967 bis 2002 produziert wurde"],
+    "examples_de": [["Der **Feuervogel** erscheint in vielen alten Volkssagen weltweit", "Die Geschichten vom **Feuervogel** inspirierten Komponisten und Künstler gleichermaßen"], ["Sein restaurierter **Firebird** von 1977 gewann den ersten Platz bei der Autoshow", "Der **Firebird** Trans Am wurde zu einem ikonischen Muscle Car"]]
+  },
+  {
+    "lemma": "fireboat",
+    "meanings_de": ["Feuerlöschboot"],
+    "definitions_de": ["spezialisiertes Boot, das mit Pumpen und Düsen zur Brandbekämpfung auf dem Wasser ausgestattet ist"],
+    "examples_de": [["Das **Feuerlöschboot** sprühte kraftvolle Wasserstrahlen auf das brennende Lagerhaus", "Drei **Feuerlöschboote** reagierten innerhalb weniger Minuten auf den Hafennotfall"]]
+  },
+  {
+    "lemma": "firebox",
+    "meanings_de": ["Brennkammer"],
+    "definitions_de": ["geschlossene Kammer, in der Brennstoff in Öfen, Kesseln oder Lokomotiven verbrannt wird"],
+    "examples_de": [["Der Lokführer überprüfte die Temperatur der **Feuerbüchse** vor der Abfahrt", "Ascheablagerungen in der **Brennkammer** reduzierten die Heizleistung"]]
+  },
+  {
+    "lemma": "firebrand",
+    "meanings_de": ["brennendes Holzstück", "leidenschaftlicher Aktivist"],
+    "definitions_de": ["brennendes Stück Holz oder anderes Material, das zum Entzünden von Feuer verwendet wird", "Person, die sich leidenschaftlich für radikale politische oder soziale Veränderungen einsetzt"],
+    "examples_de": [["Die Camper benutzten einen **Feuerbrand**, um das Signalfeuer zu entzünden", "Funken flogen, als der **Feuerbrand** aus dem Kamin rollte"], ["Der junge **Hitzkopf** organisierte Proteste gegen die Umweltverschmutzung durch Konzerne", "Ihr Ruf als **Feuerkopf** eilte ihrer Ankunft voraus"]]
+  },
+  {
+    "lemma": "firecracker",
+    "meanings_de": ["kleiner Feuerwerkskörper"],
+    "definitions_de": ["kleiner Papierzylinder mit Schwarzpulver, der beim Anzünden Lärm erzeugt"],
+    "examples_de": [["Die Kinder zündeten **Knallkörper** während der Silvesterfeier an", "Die **Knallkörper**-Kette erzeugte ein durchgehendes Knallgeräusch"]]
+  },
+  {
+    "lemma": "firefighter",
+    "meanings_de": ["Feuerwehrmann/-frau"],
+    "definitions_de": ["ausgebildeter Fachmann oder Fachfrau, der/die Brände löscht und Rettungseinsätze durchführt"],
+    "examples_de": [["Der **Feuerwehrmann** trug das Kind durch dichten Rauch in Sicherheit", "Zwanzig **Feuerwehrleute** kämpften drei Stunden lang gegen den Lagerhausbrand"]]
+  },
+  {
+    "lemma": "firefly",
+    "meanings_de": ["Glühwürmchen"],
+    "definitions_de": ["kleiner fliegender Käfer, der durch chemische Reaktionen blitzendes Licht erzeugt"],
+    "examples_de": [["Die Kinder jagten **Glühwürmchen** über den sommerabendlichen Rasen", "Das Leuchten der **Glühwürmchen** lockt potenzielle Partner in der Dunkelheit an"]]
+  },
+  {
+    "lemma": "firehouse",
+    "meanings_de": ["Feuerwache"],
+    "definitions_de": ["Gebäude, in dem Feuerwehrausrüstung gelagert wird und Feuerwehrleute stationiert sind"],
+    "examples_de": [["Die alte **Feuerwache** wurde in ein Gemeindezentrum umgewandelt", "Freiwillige versammelten sich in der **Feuerwache** zum wöchentlichen Training"]]
+  },
+  {
+    "lemma": "fireman",
+    "meanings_de": ["männlicher Feuerwehrmann", "Heizer"],
+    "definitions_de": ["männliche Person, die Brände bekämpft und Rettungseinsätze durchführt", "Person, die Öfen oder Dampfmaschinen wartet und bedient"],
+    "examples_de": [["Der **Feuerwehrmann** stieg die Leiter hinauf, um den dritten Stock zu erreichen", "Mehrere **Feuerwehrmänner** arbeiteten zusammen, um den Schlauch zu kontrollieren"], ["Der **Heizer** des Schiffes überwachte ständig den Kesseldruck", "Die **Heizer** der Eisenbahn schaufelten während der langen Fahrt ununterbrochen Kohle"]]
+  },
+  {
+    "lemma": "fireplace",
+    "meanings_de": ["Kamin"],
+    "definitions_de": ["in eine Wand eingebaute Struktur zum Verbrennen von Feuer und Ableiten von Rauch"],
+    "examples_de": [["Sie rösteten Marshmallows über dem knisternden **Kamin**", "Der steinerne **Kamin** wurde zum Mittelpunkt des Raumes"]]
+  },
+  {
+    "lemma": "firepower",
+    "meanings_de": ["Feuerkraft"],
+    "definitions_de": ["zerstörerische Kapazität von Waffen oder Militäreinheiten, gemessen an der Munitionsleistung"],
+    "examples_de": [["Die **Feuerkraft** des Zerstörers übertraf die kleinerer Schiffe", "Moderne Panzer vereinen Mobilität mit verheerender **Feuerkraft**"]]
+  },
+  {
+    "lemma": "fireside",
+    "meanings_de": ["Kaminecke"],
+    "definitions_de": ["Bereich unmittelbar um einen Kamin herum, wo sich Wärme und Licht sammeln"],
+    "examples_de": [["Die Familie versammelte sich am **Kamin** für die abendlichen Geschichten", "Sein Lieblingssessel stand nahe der gemütlichen **Kaminecke**"]]
+  },
+  {
+    "lemma": "firestorm",
+    "meanings_de": ["Feuersturm", "hitzige Kontroverse"],
+    "definitions_de": ["extrem intensives Feuer, das durch Konvektion sein eigenes Windsystem erzeugt", "plötzlicher Ausbruch intensiver Kritik, Kontroverse oder feindseliger Reaktionen"],
+    "examples_de": [["Die Dürrebedingungen lösten einen verheerenden **Feuersturm** aus", "Die Feuerwehrleute zogen sich zurück, als der **Feuersturm** sich der Stadt näherte"], ["Seine Kommentare verursachten einen **Sturm der Entrüstung** in den sozialen Medien", "Die Politikänderung entfachte einen politischen **Feuersturm**"]]
+  },
+  {
+    "lemma": "firewall",
+    "meanings_de": ["Netzwerk-Sicherheitssystem", "Brandschutzmauer"],
+    "definitions_de": ["Sicherheitssystem, das den Netzwerkverkehr anhand von Regeln überwacht und kontrolliert", "feuerfeste Wand zur Verhinderung der Brandausbreitung zwischen Gebäudeteilen"],
+    "examples_de": [["Das Unternehmen aktualisierte seine **Firewall**, um schädlichen Datenverkehr zu blockieren", "Ihre **Firewall** erkannte und stoppte den Cyberangriff"], ["Die Bauvorschriften verlangen **Brandschutzmauern** zwischen angebauten Garageneinheiten", "Die **Brandmauer** verhinderte, dass die Flammen auf benachbarte Wohnungen übergriffen"]]
+  },
+  {
+    "lemma": "firewood",
+    "meanings_de": ["Brennholz"],
+    "definitions_de": ["geschnittene und gespaltene Holzstücke, die zum Verbrennen in Feuern vorbereitet sind"],
+    "examples_de": [["Sie stapelten **Brennholz** für den Winter an der Hüttenwand", "Der **Brennholz**stapel musste vor dem Sturm aufgefüllt werden"]]
+  },
+  {
+    "lemma": "firework",
+    "meanings_de": ["Feuerwerk"],
+    "definitions_de": ["explosives Gerät, das zur Unterhaltung farbige Lichter, Rauch und Geräusche erzeugt"],
+    "examples_de": [["Das **Feuerwerk** explodierte in kaskadierenden goldenen Funken über uns", "Sicherheitsbeamte inspizierten jedes **Feuerwerk** vor der Show"]]
+  },
+  {
+    "lemma": "firing",
+    "meanings_de": ["Entlassung", "Waffenabschuss"],
+    "definitions_de": ["Handlung, jemanden aus einer Anstellung oder Position zu entlassen", "Handlung des Abfeuerns von Schusswaffen oder anderen Waffen"],
+    "examples_de": [["Das Unternehmen kündigte die **Entlassung** mehrerer Führungskräfte an", "Seine **Kündigung** erfolgte nach wiederholten Verstößen gegen die Richtlinien"], ["Das **Feuer** hörte auf, als die Munition knapp wurde", "Anhaltendes **Feuer** von beiden Seiten dauerte bis zum Morgengrauen"]]
+  },
+  {
+    "lemma": "firmament",
+    "meanings_de": ["Himmelszelt"],
+    "definitions_de": ["Himmel, betrachtet als greifbare Kuppel oder Gewölbe über der Erde"],
+    "examples_de": [["Sterne funkelten über dem klaren **Himmelszelt** der Wüste", "Alte Astronomen kartierten Sternbilder am **Firmament**"]]
+  },
+  {
+    "lemma": "firmware",
+    "meanings_de": ["Firmware"],
+    "definitions_de": ["permanente Software, die in Hardwaregeräte programmiert ist und grundlegende Funktionen steuert"],
+    "examples_de": [["Der Router benötigte ein **Firmware**-Update für Sicherheitspatches", "Beschädigte **Firmware** verhinderte, dass das Gerät ordnungsgemäß startete"]]
+  },
+  {
+    "lemma": "firstborn",
+    "meanings_de": ["Erstgeborener"],
+    "definitions_de": ["erstes Kind, das Eltern in der Reihenfolge der Geburt geboren wird"],
+    "examples_de": [["Ihr **Erstgeborener** übernahm traditionsgemäß das Familienunternehmen", "Der **Erstgeborene** spürt oft mehr Erfolgsdruck"]]
+  },
+  {
+    "lemma": "firth",
+    "meanings_de": ["Meeresarm"],
+    "definitions_de": ["schmaler Meereseinschnitt oder Flussmündung"],
+    "examples_de": [["Fischerboote tupften die ruhigen Gewässer des **Meeresarms**", "Die Brücke überspannt den **Firth** und verbindet zwei Grafschaften"]]
+  },
+  {
+    "lemma": "fishbone",
+    "meanings_de": ["Fischgräte"],
+    "definitions_de": ["kleiner scharfer Knochen aus dem Skelett eines Fisches"],
+    "examples_de": [["Sie entfernte sorgfältig jede **Gräte**, bevor sie das Abendessen servierte", "Eine **Fischgräte** in seinem Hals erforderte ärztliche Behandlung"]]
+  },
+  {
+    "lemma": "fisher",
+    "meanings_de": ["Fischer", "Baummarder"],
+    "definitions_de": ["Person, die Fische zum Sport oder Lebensunterhalt fängt", "dunkelpelziger, marderartiger Säuger, der in nordamerikanischen Wäldern heimisch ist"],
+    "examples_de": [["Der **Fischer** warf seine Angel in den rauschenden Bach", "Lokale **Fischer** belieferten den Markt mit frischem Fang"], ["Der **Baummarder** jagte Stachelschweine trotz ihrer scharfen Stacheln", "Kamerafallen erfassten Bilder des scheuen **Fischers**"]]
+  },
+  {
+    "lemma": "fisherman",
+    "meanings_de": ["Fischer"],
+    "definitions_de": ["Mann, der beruflich oder in der Freizeit Fische fängt"],
+    "examples_de": [["Der **Fischer** reparierte seine Netze nach dem Morgenfang", "Mehrere **Fischer** teilten Geschichten in der Hafentaverne"]]
+  },
+  {
+    "lemma": "fishery",
+    "meanings_de": ["Fischerei"],
+    "definitions_de": ["Ort, an dem Fische kommerziell gefangen, verarbeitet oder gezüchtet werden"],
+    "examples_de": [["Die Lachs**fischerei** beschäftigte Hunderte von Saisonarbeitern", "Nachhaltige Praktiken hielten die **Fischerei** über Generationen produktiv"]]
+  },
+  {
+    "lemma": "fission",
+    "meanings_de": ["Kernspaltung"],
+    "definitions_de": ["Prozess der Spaltung von Atomkernen unter Freisetzung von Energie und Neutronen"],
+    "examples_de": [["Die **Kernspaltung** treibt sowohl Reaktoren als auch Atomwaffen an", "Wissenschaftler erreichten erstmals 1942 eine kontrollierte **Spaltung**"]]
+  },
+  {
+    "lemma": "fissure",
+    "meanings_de": ["Spalte"],
+    "definitions_de": ["lange schmale Öffnung oder Riss in Gestein, Erde oder anderem Material"],
+    "examples_de": [["Wasser sickerte durch die **Spalte** in der Staumauer", "Das Erdbeben verursachte tiefe **Risse** über die Autobahn"]]
+  },
+  {
+    "lemma": "fistfight",
+    "meanings_de": ["Faustkampf"],
+    "definitions_de": ["Kampf zwischen Menschen, die nur ihre Fäuste als Waffen benutzen"],
+    "examples_de": [["Der Streit eskalierte zu einem **Faustkampf** vor der Bar", "Sicherheitskräfte lösten den **Faustkampf** schnell auf"]]
+  },
+  {
+    "lemma": "fistful",
+    "meanings_de": ["Handvoll"],
+    "definitions_de": ["Menge, die in einer geschlossenen Faust gehalten werden kann"],
+    "examples_de": [["Sie griff eine **Handvoll** Süßigkeiten aus der Schüssel", "Er warf eine **Handvoll** Sand in den Wind"]]
+  },
+  {
+    "lemma": "fistula",
+    "meanings_de": ["Fistel"],
+    "definitions_de": ["abnorme röhrenförmige Verbindung zwischen Organen oder Gefäßen, die normalerweise nicht verbunden sind"],
+    "examples_de": [["Der Chirurg reparierte die **Fistel** zwischen den Darmsegmenten", "Unbehandelte Infektionen entwickeln sich manchmal zu schmerzhaften **Fisteln**"]]
+  },
+  {
+    "lemma": "fitter",
+    "meanings_de": ["Monteur", "Schneider für Anpassungen"],
+    "definitions_de": ["Person, die Maschinen, Rohre oder Ausrüstung montiert oder installiert", "Person, die Kleidung an individuelle Körpermaße anpasst"],
+    "examples_de": [["Der Rohr**installateur** schloss die Badrenovierung vorzeitig ab", "Erfahrene **Monteure** bauten die Fabrikproduktionslinie zusammen"], ["Die **Schneiderin** markierte Änderungen am Hochzeitskleid", "Sie arbeitete als **Anpassungsschneiderin** in einer gehobenen Boutique"]]
+  },
+  {
+    "lemma": "fitting",
+    "meanings_de": ["Rohrverbindung", "Anprobe"],
+    "definitions_de": ["Verbindungsstück zum Zusammenfügen von Rohren oder Schläuchen", "Termin, bei dem Kleidung angepasst wird"],
+    "examples_de": [["Der Klempner ersetzte die korrodierte Rohr**verbindung**", "Verschiedene **Fittings** verbanden das komplexe Bewässerungssystem"], ["Sie vereinbarte drei **Anproben**, bis das Kleid perfekt saß", "Der Schneider nahm bei der ersten **Anprobe** Maße"]]
+  },
+  {
+    "lemma": "five",
+    "meanings_de": ["Zahl nach vier"],
+    "definitions_de": ["Kardinalzahl zwischen vier und sechs, dargestellt als 5"],
+    "examples_de": [["Das Rezept verlangt **fünf** Tassen Mehl", "Alle **fünf** Ausschussmitglieder stimmten dafür"]]
+  },
+  {
+    "lemma": "fixation",
+    "meanings_de": ["zwanghafte Besessenheit", "Stabilisierungsprozess"],
+    "definitions_de": ["anhaltender Fokus oder Besessenheit von einer bestimmten Person, Idee oder einem Objekt", "Prozess, etwas stabil, dauerhaft oder konserviert zu machen"],
+    "examples_de": [["Seine **Fixierung** auf Perfektion verlangsamte den Projektfortschritt", "Die Therapeutin behandelte ihre ungesunde **Fixierung** auf das Gewicht"], ["Die Stickstoff**fixierung** reichert den Boden für das Pflanzenwachstum an", "Das Präparat durchlief eine chemische **Fixierung** vor der Mikroskopie"]]
+  },
+  {
+    "lemma": "fixer",
+    "meanings_de": ["Problemlöser", "Fixierlösung"],
+    "definitions_de": ["Person, die Dinge arrangiert oder repariert, oft auf inoffiziellem Weg", "chemische Lösung, die fotografische Bilder auf Film oder Papier konserviert"],
+    "examples_de": [["Der politische **Strippenzieher** verhandelte hinter verschlossenen Türen", "Sie engagierten einen **Problemlöser**, um den Skandal diskret zu handhaben"], ["Frische **Fixierlösung** verbesserte die Klarheit der Fotografie", "Der Dunkelkammertechniker bereitete ein neues **Fixierbad** vor"]]
+  },
+  {
+    "lemma": "fixing",
+    "meanings_de": ["Reparaturarbeit", "Beilagen"],
+    "definitions_de": ["Handlung des Reparierens oder Funktionsfähigmachens von etwas", "Beilagen oder Garnituren, die zum Hauptgang serviert werden"],
+    "examples_de": [["Die **Reparatur** dauerte wegen Rost länger als erwartet", "Er spezialisierte sich auf die **Instandsetzung** von Oldtimer-Motorrädern"], ["Truthahn mit allen **Beilagen** ergab ein festliches Mahl", "Der Burger kam mit traditionellen **Beilagen** serviert"]]
+  },
+  {
+    "lemma": "fixture",
+    "meanings_de": ["feste Installation", "ständige Präsenz"],
+    "definitions_de": ["fest an Gebäude oder Grundstück angebrachtes Objekt als permanentes Merkmal", "Person oder Sache, die so regelmäßig anwesend ist, dass sie dauerhaft erscheint"],
+    "examples_de": [["Die antike Leuchten**armatur** verlieh dem Raum Charakter", "Sanitär**installationen** wurden während der Renovierung modernisiert"], ["Der ältere Mann wurde zu einem **Stammgast** im Café", "Jährliche Paraden waren **feste Bestandteile** im Stadtkalender"]]
+  },
+  {
+    "lemma": "fizz",
+    "meanings_de": ["Kohlensäuresprudeln"],
+    "definitions_de": ["sprudelndes oder zischendes Geräusch und Aussehen von kohlensäurehaltiger Flüssigkeit"],
+    "examples_de": [["Die Limonade verlor ihr **Sprudeln**, nachdem sie über Nacht offen stand", "Das **Prickeln** des Champagners kitzelte ihre Nase beim Anstoßen"]]
+  },
+  {
+    "lemma": "fjord",
+    "meanings_de": ["Fjord"],
+    "definitions_de": ["schmaler Meeresarm zwischen hohen Klippen, der durch Gletschererosion entstanden ist"],
+    "examples_de": [["Kreuzfahrtschiffe navigierten durch den spektakulären norwegischen **Fjord**", "Die steilen Wände des **Fjords** erhoben sich dramatisch aus dem Wasser"]]
+  },
+  {
+    "lemma": "flack",
+    "meanings_de": ["Pressesprecher", "Flakfeuer"],
+    "definitions_de": ["Person, die Öffentlichkeitsarbeit betreibt oder Public Relations handhabt", "Flugabwehrfeuer oder harsche Kritik"],
+    "examples_de": [["Der **Pressesprecher** des Prominenten veröffentlichte eine sorgfältig formulierte Erklärung", "Politische **PR-Berater** drehten die Geschichte in verschiedene Richtungen"], ["Schweres **Flakfeuer** zwang die Bomber, ihren Kurs zu ändern", "Der Vorschlag erhielt erhebliche **Kritik** von den Gegnern"]]
+  },
+  {
+    "lemma": "flagellation",
+    "meanings_de": ["Geißelung"],
+    "definitions_de": ["Handlung des Schlagens oder Peitschens als religiöse Disziplin oder Strafe"],
+    "examples_de": [["Mittelalterliche Mönche praktizierten **Geißelung** als spirituelle Buße", "Historische Berichte beschreiben öffentliche **Auspeitschung** für Verbrechen"]]
+  },
+  {
+    "lemma": "flagging",
+    "meanings_de": ["nachlassende Energie", "Markierungsarbeit"],
+    "definitions_de": ["allmähliche Abnahme von Kraft, Vitalität oder Enthusiasmus", "Handlung des Markierens mit Flaggen oder ähnlichen Indikatoren"],
+    "examples_de": [["Ihre **nachlassende** Stimmung hob sich, als Freunde ankamen", "Der Umsatz zeigte **nachlassende** Dynamik im vierten Quartal"], ["Der Vermesser beendete die **Markierung** der Grundstücksgrenzen", "Das **Abstecken** gefährlicher Bereiche verhinderte Unfälle während der Bauarbeiten"]]
+  },
+  {
+    "lemma": "flagpole",
+    "meanings_de": ["Fahnenmast"],
+    "definitions_de": ["hoher Mast zum Aufhängen von Flaggen oder Bannern"],
+    "examples_de": [["Der **Fahnenmast** der Schule stand prominent am Eingang", "Arbeiter installierten einen neuen **Flaggenmast** auf dem Stadtplatz"]]
+  },
+  {
+    "lemma": "flagship",
+    "meanings_de": ["Führungsschiff", "Aushängeschild"],
+    "definitions_de": ["Schiff, das den kommandierenden Admiral trägt und eine unterscheidende Flagge führt", "wichtigstes oder erfolgreichstes Produkt, Standort oder Einheit einer Organisation"],
+    "examples_de": [["Der Admiral verlegte sein Kommando auf das **Flaggschiff**", "Feindliches Feuer zielte zuerst auf das **Flaggschiff** der Flotte"], ["Ihr **Flagship-Store** präsentierte die komplette Produktlinie", "Der **Hauptcampus** der Universität zog Spitzenstudenten an"]]
+  },
+  {
+    "lemma": "flagstaff",
+    "meanings_de": ["Fahnenstange"],
+    "definitions_de": ["Stange oder Stab, an dem eine Flagge gehisst und angezeigt wird"],
+    "examples_de": [["Marines hissten die Flagge an der behelfsmäßigen **Fahnenstange**", "Die **Fahnenstange** bog sich gefährlich in den Hurrikanwinden"]]
+  },
+  {
+    "lemma": "flagstone",
+    "meanings_de": ["Steinplatte"],
+    "definitions_de": ["flache Steinplatte zum Pflastern von Gehwegen, Terrassen oder Böden"],
+    "examples_de": [["Moos wuchs zwischen den Fugen des alten **Steinplatten**wegs", "Sie wählten natürliche **Steinplatten** für die Gartenterrasse"]]
+  },
+  {
+    "lemma": "flail",
+    "meanings_de": ["Dreschflegel", "wilde Bewegung"],
+    "definitions_de": ["landwirtschaftliches Werkzeug mit gelenkigem Stock zum Trennen von Getreide von Halmen", "unkontrollierte schwingende oder schlagende Bewegung der Gliedmaßen"],
+    "examples_de": [["Bauern benutzten den **Dreschflegel**, um Weizen von der Spreu zu trennen", "Der hölzerne **Flegel** hing im Scheunenmuseum"], ["Seine Arme begannen wild zu **fuchteln**, als er das Gleichgewicht verlor", "Das **Herumschlagen** des ertrinkenden Schwimmers erregte die Aufmerksamkeit des Rettungsschwimmers"]]
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "lemma": "recourse",
+    "meanings_de": ["Zufluchtsmöglichkeit", "Rechtsbehelfe"],
+    "definitions_de": ["Möglichkeit oder Option, sich in schwierigen Situationen an jemanden oder etwas zu wenden, um Unterstützung zu erhalten", "gesetzliches Recht, von einer anderen Partei Zahlung oder Entschädigung zu verlangen"],
+    "examples_de": [["Unsere einzige **Zuflucht** war der Kundenservice", "Ihnen blieb kein anderer **Ausweg**, als die Entscheidung zu akzeptieren"], ["Der Vertrag gewährt uns **Regressansprüche** gegen den Lieferanten", "Investoren haben nur begrenzten **Rückgriff**, wenn das Geschäft scheitert"]]
+  },
+  {
+    "lemma": "recreation",
+    "meanings_de": ["Freizeitaktivität"],
+    "definitions_de": ["Tätigkeit, die zum Vergnügen ausgeübt wird, wenn man nicht arbeitet oder lernt"],
+    "examples_de": [["Schwimmen ist ihre liebste **Freizeitbeschäftigung**", "Der Park bietet viele **Erholungsmöglichkeiten** für Familien"]]
+  },
+  {
+    "lemma": "recruiter",
+    "meanings_de": ["Personalvermittler"],
+    "definitions_de": ["Person, deren Aufgabe es ist, geeignete Kandidaten für offene Stellen zu finden"],
+    "examples_de": [["Der **Personalvermittler** rief wegen einer neuen Stelle an", "Sie arbeitet als **Recruiterin** für Technologieunternehmen"]]
+  },
+  {
+    "lemma": "recruitment",
+    "meanings_de": ["Personalbeschaffung"],
+    "definitions_de": ["Prozess der Suche und Einstellung neuer Mitarbeiter für Unternehmen oder Organisationen"],
+    "examples_de": [["Das Unternehmen verstärkte dieses Jahr seine **Rekrutierungsbemühungen**", "Die **Personalgewinnung** beim Militär ist in den letzten Monaten zurückgegangen"]]
+  },
+  {
+    "lemma": "rectangle",
+    "meanings_de": ["vierseitige Form"],
+    "definitions_de": ["ebene geometrische Form mit vier geraden Seiten und vier rechten Winkeln"],
+    "examples_de": [["Zeichne zuerst ein **Rechteck** auf das Papier", "Der Raum hatte die Form eines perfekten **Rechtecks**"]]
+  },
+  {
+    "lemma": "rectification",
+    "meanings_de": ["Berichtigungsprozess"],
+    "definitions_de": ["Vorgang der Korrektur von etwas Falschem oder Ungenauem durch systematische Anpassung"],
+    "examples_de": [["Der Fehler erfordert eine sofortige **Berichtigung** durch die Geschäftsleitung", "Die **Behebung** der Baumängel dauerte mehrere Monate"]]
+  },
+  {
+    "lemma": "rectifier",
+    "meanings_de": ["elektrischer Gleichrichter"],
+    "definitions_de": ["elektrisches Gerät, das Wechselstrom in Gleichstrom umwandelt, indem es den Stromfluss nur in eine Richtung zulässt"],
+    "examples_de": [["Das Netzteil benötigt einen neuen **Gleichrichterschaltkreis**", "Dieser **Gleichrichter** wandelt Wechselspannung in Gleichspannung um"]]
+  },
+  {
+    "lemma": "rector",
+    "meanings_de": ["Kirchenvorsteher", "akademischer Leiter"],
+    "definitions_de": ["Priester, der für eine Gemeinde in bestimmten christlichen Kirchen verantwortlich ist", "Leiter bestimmter Universitäten oder Hochschulen, besonders in Europa"],
+    "examples_de": [["Der **Pfarrer** hielt die Sonntagspredigt in der Kirche", "Sie wurde letztes Jahr zur **Rektorin** der Gemeinde ernannt"], ["Der **Rektor** der Universität begrüßte alle neuen Studierenden", "Er diente zwei aufeinanderfolgende Amtszeiten als **Rektor**"]]
+  },
+  {
+    "lemma": "rectum",
+    "meanings_de": ["Verdauungsorgan"],
+    "definitions_de": ["letzter Abschnitt des Dickdarms, der am After endet"],
+    "examples_de": [["Der Arzt untersuchte das **Rektum** des Patienten sorgfältig", "Krebs kann sich im Bereich des **Enddarms** entwickeln"]]
+  },
+  {
+    "lemma": "recuperation",
+    "meanings_de": ["Erholungsphase"],
+    "definitions_de": ["Prozess der Rückkehr zur normalen Gesundheit nach Krankheit oder Erschöpfung durch Ruhe"],
+    "examples_de": [["Ihre **Genesung** nach der Operation dauerte mehrere Wochen", "Der Sportler braucht angemessene **Erholung** zwischen den Trainingseinheiten"]]
+  },
+  {
+    "lemma": "recurrence",
+    "meanings_de": ["wiederholtes Auftreten"],
+    "definitions_de": ["Tatsache, dass etwas wieder geschieht, besonders in regelmäßigen Abständen oder nach einer Unterbrechung"],
+    "examples_de": [["Ärzte überwachen Patienten sorgfältig auf ein **Wiederauftreten** von Krebs", "Das **Wiederkehren** der Überschwemmungen beunruhigt die Anwohner sehr"]]
+  },
+  {
+    "lemma": "recycling",
+    "meanings_de": ["Abfallverarbeitung"],
+    "definitions_de": ["Prozess der Umwandlung von Abfallmaterialien in neue Materialien und Gegenstände"],
+    "examples_de": [["Die Stadt erweiterte dieses Jahr ihr **Recyclingprogramm**", "**Wiederverwertung** hilft dabei, Deponieabfälle und Umweltverschmutzung erheblich zu reduzieren"]]
+  },
+  {
+    "lemma": "redaction",
+    "meanings_de": ["Schwärzungsprozess", "bearbeitete Version"],
+    "definitions_de": ["Prozess der Entfernung sensibler Informationen aus Dokumenten vor der Veröffentlichung", "Dokument, aus dem vertrauliche oder sensible Informationen entfernt wurden"],
+    "examples_de": [["Die **Schwärzung** der geheimen Informationen dauerte mehrere Tage", "Anwälte überwachten den **Zensurprozess** vor Prozessbeginn"], ["Die **geschwärzte Fassung** enthüllte dennoch wichtige Fakten über die Ereignisse", "Wir erhielten gestern eine stark **zensierte Version**"]]
+  },
+  {
+    "lemma": "redeemer",
+    "meanings_de": ["Erlöserfigur", "Person die erlöst"],
+    "definitions_de": ["Person, die andere in religiösen Kontexten von Sünde oder Bösem rettet", "jemand, der Fehler ausgleicht oder schlechte Aspekte wiedergutmacht"],
+    "examples_de": [["Christen glauben, dass Jesus Christus ihr **Erlöser** ist", "Viele Religionen haben Konzepte eines göttlichen **Heilands**"], ["Er wurde zum **Retter** des Familienrufs", "Der neue Geschäftsführer wurde als **Erlöser** des Unternehmens angesehen"]]
+  },
+  {
+    "lemma": "redefinition",
+    "meanings_de": ["Bedeutungsänderung"],
+    "definitions_de": ["Handlung, etwas erneut oder anders zu definieren, um ihm eine neue Bedeutung oder einen neuen Zweck zu geben"],
+    "examples_de": [["Das Unternehmen durchlief eine vollständige **Neudefinition** seiner Ziele", "Die gesellschaftliche **Umdeutung** von Geschlechterrollen entwickelt sich weiter"]]
+  },
+  {
+    "lemma": "redemption",
+    "meanings_de": ["Erlösungsprozess", "finanzielle Rückzahlung"],
+    "definitions_de": ["Handlung des Rettens oder Gerettetwerdens von Sünde oder Bösem durch Sühne", "Handlung der Rückzahlung eines Darlehens oder der Wiedererlangung von verpfändeten oder beliehenen Gegenständen"],
+    "examples_de": [["Seine Geschichte handelt von **Erlösung** und Vergebung", "Die Figur sucht durchgehend **Wiedergutmachung** für vergangene Fehler"], ["Die vorzeitige **Tilgung** der Hypothek sparte ihnen Geld", "Die **Einlösung** der Anleihe erfolgt zum angegebenen Fälligkeitsdatum"]]
+  },
+  {
+    "lemma": "redeployment",
+    "meanings_de": ["Ressourcenumverteilung"],
+    "definitions_de": ["Verlagerung von Mitarbeitern oder Ausrüstung an einen neuen Ort oder in eine neue Rolle zur besseren Nutzung"],
+    "examples_de": [["Die **Umverteilung** von Personal half, Entlassungen während der Umstrukturierung zu vermeiden", "Das Militär kündigte die **Verlegung** von Truppen für nächsten Monat an"]]
+  },
+  {
+    "lemma": "redevelopment",
+    "meanings_de": ["Gebietssanierung"],
+    "definitions_de": ["Maßnahme zur erneuten Entwicklung von etwas, insbesondere durch Renovierung von Gebäuden oder Land für neue Zwecke"],
+    "examples_de": [["Die **Stadtsanierung** verwandelte das alte Industrieviertel vollständig", "Das **Sanierungsprojekt** am Hafen wird fünf Jahre dauern"]]
+  },
+  {
+    "lemma": "redeye",
+    "meanings_de": ["Nachtflug", "Fotofehler"],
+    "definitions_de": ["Flug, der durch die Nacht reist und früh morgens ankommt, was Müdigkeit verursacht", "rötliche Reflexion von der Netzhaut, die bei Blitzlichtfotografie auftritt"],
+    "examples_de": [["Sie nahm den **Nachtflug** von Los Angeles nach New York", "Geschäftsreisende buchen oft **Übernachtflüge**, um Zeit zu sparen"], ["Der Kamerablitz verursachte **rote Augen** auf mehreren Fotos", "Moderne Kameras haben eingebaute **Rote-Augen-Reduktion**"]]
+  },
+  {
+    "lemma": "redhead",
+    "meanings_de": ["Person mit roten Haaren"],
+    "definitions_de": ["Person, die von Natur aus rötliches oder kastanienbraunes Haar hat"],
+    "examples_de": [["Die Schauspielerin ist eine natürliche **Rothaarige** mit Sommersprossen", "**Rotschöpfe** haben oft helle Haut, die leicht verbrennt"]]
+  },
+  {
+    "lemma": "rediscovery",
+    "meanings_de": ["Wiederentdeckung"],
+    "definitions_de": ["Handlung, etwas wieder zu entdecken, das zuvor vergessen oder ignoriert wurde"],
+    "examples_de": [["Die **Wiederentdeckung** alter Texte begeisterte Wissenschaftler weltweit", "Ihre **Neuentdeckung** der Malerei brachte Freude zurück ins Leben"]]
+  },
+  {
+    "lemma": "redistribution",
+    "meanings_de": ["Umverteilungsprozess"],
+    "definitions_de": ["erneute Verteilung von etwas auf andere Weise, typischerweise um größere Gleichheit zu erreichen"],
+    "examples_de": [["Die **Umverteilung** von Vermögen bleibt heute ein kontroverses politisches Thema", "Die **Neuverteilung** von Ressourcen half, die regionale Entwicklung auszugleichen"]]
+  },
+  {
+    "lemma": "redneck",
+    "meanings_de": ["ländlicher Südstaatler"],
+    "definitions_de": ["weißer Arbeiter aus dem ländlichen Süden der Vereinigten Staaten, der oft als konservativ angesehen wird"],
+    "examples_de": [["Der Begriff **Redneck** bezeichnete ursprünglich sonnenverbrannte Farmer", "Einige identifizieren sich stolz als **Hinterwäldler** und pflegen die ländliche Kultur"]]
+  },
+  {
+    "lemma": "reducing",
+    "meanings_de": ["Verringerungsprozess"],
+    "definitions_de": ["Handlung oder Prozess, etwas kleiner oder in der Menge weniger zu machen"],
+    "examples_de": [["Die **Reduzierung** von Kohlenstoffemissionen erfordert globale Zusammenarbeit und Engagement", "Das Unternehmen konzentriert sich auf die **Senkung** von Kosten ohne Qualitätseinbußen"]]
+  },
+  {
+    "lemma": "reductionism",
+    "meanings_de": ["analytischer Ansatz"],
+    "definitions_de": ["Praxis der Analyse komplexer Phänomene durch Reduzierung auf Wechselwirkungen einfacherer oder grundlegender Teile"],
+    "examples_de": [["Der wissenschaftliche **Reduktionismus** versucht, Biologie durch Chemie zu erklären", "Kritiker argumentieren, dass der **Reduktionismus** komplexe menschliche Verhaltensmuster zu sehr vereinfacht"]]
+  },
+  {
+    "lemma": "redundancy",
+    "meanings_de": ["Arbeitsplatzverlust", "überschüssige Verdopplung"],
+    "definitions_de": ["Entlassung aus dem Arbeitsverhältnis, weil eine Stelle nicht mehr benötigt wird", "Einbeziehung zusätzlicher Komponenten, die für die Funktion nicht unbedingt erforderlich sind"],
+    "examples_de": [["Viele Arbeiter waren von **Entlassungen** betroffen, als die Fabrik schloss", "Das Unternehmen kündigte **Stellenstreichungen** an, die landesweit hundert Mitarbeiter betreffen"], ["Die **Systemredundanz** stellt sicher, dass der Betrieb bei Komponentenausfall fortgesetzt wird", "Der Aufsatz enthielt zu viel **Redundanz** und Wiederholung"]]
+  },
+  {
+    "lemma": "redwood",
+    "meanings_de": ["Riesenbaum"],
+    "definitions_de": ["sehr hoher immergrüner Nadelbaum, der an den Küsten Kaliforniens und Oregons heimisch ist"],
+    "examples_de": [["Kaliforniens **Mammutbaumwälder** ziehen jährlich Millionen von Besuchern an", "Der uralte **Küstenmammutbaum** war über dreihundert Fuß hoch"]]
+  },
+  {
+    "lemma": "reed",
+    "meanings_de": ["Wasserpflanze", "Musikkomponente"],
+    "definitions_de": ["hohe grasähnliche Pflanze, die in Feuchtgebieten und Sümpfen wächst", "dünner Streifen, der in bestimmten Musikinstrumenten vibriert, um Klang zu erzeugen"],
+    "examples_de": [["**Schilf** wächst dicht am Flussufer und bietet Lebensraum für Wildtiere", "Sie ernteten **Schilfrohr**, um traditionelle Körbe und Matten zu flechten"], ["Das **Klarinettenblatt** muss für besseren Klang ersetzt werden", "Saxophonspieler tragen oft Ersatz**blätter** für Aufführungen bei sich"]]
+  },
+  {
+    "lemma": "reef",
+    "meanings_de": ["Unterwasserstruktur"],
+    "definitions_de": ["Fels- oder Korallenrücken an oder nahe der Wasseroberfläche"],
+    "examples_de": [["Das **Korallenriff** unterstützt vielfältige marine Ökosysteme", "Taucher erkundeten das **Riff** und entdeckten viele bunte Fische"]]
+  },
+  {
+    "lemma": "reefer",
+    "meanings_de": ["Kühlcontainer", "Marihuana-Zigarette"],
+    "definitions_de": ["gekühlter Versandcontainer oder Lastwagen für den Transport verderblicher Waren", "Slangausdruck für eine selbstgedrehte Zigarette mit Cannabis"],
+    "examples_de": [["Der **Kühlcontainer** hielt während des Seetransports die optimale Temperatur", "Frische Produkte reisen im **Kühltransporter** durchs Land"], ["Die Polizei fand mehrere **Joints** bei der Verkehrskontrolle", "Der Begriff **Reefer** wurde in der Jazzkultur populär"]]
+  },
+  {
+    "lemma": "reel",
+    "meanings_de": ["Wickelgerät", "Filmspule", "Tanzart"],
+    "definitions_de": ["Zylinder oder Rahmen zum Aufwickeln von Faden, Draht, Film oder Angelschnur", "Spule mit einer Länge Film oder Magnetband", "lebhafter schottischer oder irischer Volkstanz mit Drehbewegungen"],
+    "examples_de": [["Er wickelte die Angelschnur zurück auf die **Rolle**", "Die **Schlauchtrommel** im Garten hält alles ordentlich und aufgeräumt"], ["Der alte Film kam auf zwei separaten **Filmrollen**", "**Filmspulen** waren Standard vor digitalen Projektionssystemen"], ["Sie tanzten einen traditionellen **Reel** bei der Hochzeitsfeier", "Die Band spielte mehrere **Reels** während des keltischen Festivals"]]
+  },
+  {
+    "lemma": "reelection",
+    "meanings_de": ["Wiederwahl"],
+    "definitions_de": ["Prozess der erneuten Wahl in dieselbe politische Position"],
+    "examples_de": [["Die Bürgermeisterin kündigte heute ihre Kampagne zur **Wiederwahl** an", "Präsidentschafts**wiederwahlkampagnen** beginnen typischerweise zwei Jahre im Voraus"]]
+  },
+  {
+    "lemma": "reenactment",
+    "meanings_de": ["historische Nachstellung"],
+    "definitions_de": ["Nachspielen eines vergangenen Ereignisses, insbesondere einer Schlacht oder historischen Szene"],
+    "examples_de": [["Die **Nachstellung** des Bürgerkriegs zieht Tausende von Geschichtsbegeisterten an", "Die **Rekonstruktion** des Verbrechens half den Ermittlern zu verstehen, was passiert war"]]
+  },
+  {
+    "lemma": "reentry",
+    "meanings_de": ["Wiedereintritt", "atmosphärischer Wiedereintritt"],
+    "definitions_de": ["Handlung des erneuten Eintretens, besonders nach dem Verlassen oder Wegbleiben", "Rückkehr eines Raumfahrzeugs oder einer Rakete in die Erdatmosphäre"],
+    "examples_de": [["Ihr **Wiedereinstieg** ins Berufsleben erforderte eine Aktualisierung der Fähigkeiten", "Das Programm unterstützt den **Wiedereintritt** von Gefangenen in die Gesellschaft nach der Entlassung"], ["Der **Wiedereintritt** des Raumfahrzeugs erzeugt extreme Hitze durch atmosphärische Reibung", "Der **Wiedereintrittswinkel** der Kapsel muss genau berechnet werden"]]
+  },
+  {
+    "lemma": "reevaluation",
+    "meanings_de": ["Neubewertungsprozess"],
+    "definitions_de": ["Prozess der erneuten Betrachtung oder Prüfung von etwas, um ein neues Urteil zu bilden"],
+    "examples_de": [["Das Projekt erfordert nach den Budgetkürzungen eine vollständige **Neubewertung**", "Persönliche **Neueinschätzung** folgt oft auf wichtige Lebensereignisse oder Veränderungen"]]
+  },
+  {
+    "lemma": "ref",
+    "meanings_de": ["Sportschiedsrichter"],
+    "definitions_de": ["informeller Begriff für Schiedsrichter im Sport, der während der Spiele die Regeln durchsetzt"],
+    "examples_de": [["Der **Schiri** traf eine umstrittene Entscheidung in der Verlängerung", "Die Spieler stritten mit dem **Ref** über die Strafentscheidung"]]
+  },
+  {
+    "lemma": "referee",
+    "meanings_de": ["Sportschiedsrichter", "akademischer Gutachter"],
+    "definitions_de": ["Offizieller, der ein Spiel beobachtet, um sicherzustellen, dass die Regeln befolgt werden", "Person, die akademische Arbeiten begutachtet oder Referenzen bereitstellt"],
+    "examples_de": [["Der **Schiedsrichter** zeigte eine rote Karte für gefährliches Spiel", "Professionelle **Schiedsrichter** durchlaufen eine umfangreiche Ausbildung, bevor sie Spiele leiten"], ["Die **Gutachter** der Zeitschrift geben anonymes Feedback zu eingereichten Manuskripten", "Sie bat ihren Professor, als **Referenz** für die Stelle zu fungieren"]]
+  },
+  {
+    "lemma": "refereeing",
+    "meanings_de": ["Schiedsrichtertätigkeit"],
+    "definitions_de": ["Tätigkeit als Schiedsrichter im Sport oder in akademischen Kontexten"],
+    "examples_de": [["Seine **Schiedsrichterkarriere** erstreckte sich über zwanzig Jahre Profifußball", "Faires **Schiedsrichterwesen** gewährleistet die Integrität von Wettkampfsportarten"]]
+  },
+  {
+    "lemma": "referendum",
+    "meanings_de": ["Volksabstimmung"],
+    "definitions_de": ["allgemeine Abstimmung der Wählerschaft über eine einzelne politische Frage"],
+    "examples_de": [["Das **Referendum** über die Unabhängigkeit spaltete die Nation stark", "Die Wähler werden die Frage nächsten Monat durch eine **Volksabstimmung** entscheiden"]]
+  },
+  {
+    "lemma": "referral",
+    "meanings_de": ["Empfehlungsüberweisung"],
+    "definitions_de": ["Handlung, jemanden für Hilfe oder Informationen an eine andere Person oder Stelle zu verweisen"],
+    "examples_de": [["Der Arzt gab ihr eine **Überweisung** zu einem Spezialisten", "Mitarbeiter**empfehlungsprogramme** bieten Boni für erfolgreiche Einstellungen"]]
+  },
+  {
+    "lemma": "refill",
+    "meanings_de": ["Ersatzlieferung"],
+    "definitions_de": ["neue Lieferung von etwas, um zu ersetzen, was aufgebraucht wurde"],
+    "examples_de": [["Sie bestellte online eine **Nachfüllung** ihrer verschreibungspflichtigen Medikamente", "Der Kellner brachte ungefragt **Nachschub** an Kaffee"]]
+  },
+  {
+    "lemma": "refinement",
+    "meanings_de": ["Verbesserungsprozess", "kultivierte Eleganz"],
+    "definitions_de": ["Prozess der Entfernung von Unreinheiten oder unerwünschten Elementen aus einer Substanz oder Verbesserung kleiner Details", "Eigenschaft, elegant und höflich zu sein und guten Geschmack im Verhalten zu zeigen"],
+    "examples_de": [["Die **Raffinierung** von Zucker entfernt Melasse und Verunreinigungen vollständig", "Die **Verfeinerung** des Produkts wurde durch mehrere Testphasen vor der Markteinführung fortgesetzt"], ["Ihre **Kultiviertheit** zeigte sich in jeder Geste und Wortwahl", "Die **Raffinesse** des Restaurants zog regelmäßig eine gehobene Kundschaft an"]]
+  },
+  {
+    "lemma": "refinery",
+    "meanings_de": ["Verarbeitungsanlage"],
+    "definitions_de": ["Industrieanlage, in der Rohstoffe gereinigt und zu nutzbaren Produkten verarbeitet werden"],
+    "examples_de": [["Die **Ölraffinerie** verarbeitet täglich Millionen von Barrel", "Die Arbeiter der **Zuckerraffinerie** überwachen die Qualität während des gesamten Produktionsprozesses"]]
+  },
+  {
+    "lemma": "refining",
+    "meanings_de": ["Reinigungsprozess"],
+    "definitions_de": ["industrieller Prozess der Entfernung von Verunreinigungen aus Rohstoffen zur Herstellung reiner Produkte"],
+    "examples_de": [["Die **Metallraffination** erfordert während des gesamten Prozesses extrem hohe Temperaturen", "Die **Raffinierung** von Erdöl produziert Benzin und andere Produkte"]]
+  },
+  {
+    "lemma": "refit",
+    "meanings_de": ["Renovierungsprozess"],
+    "definitions_de": ["Austausch oder Reparatur von Ausrüstung oder Ausstattung, insbesondere bei Schiffen oder Gebäuden"],
+    "examples_de": [["Das Marineschiff durchlief eine vollständige **Überholung** vor dem Auslandseinsatz", "Die **Ladensanierung** umfasste neue Einrichtungen und aktualisierte Beleuchtung im gesamten Geschäft"]]
+  },
+  {
+    "lemma": "reflector",
+    "meanings_de": ["reflektierendes Gerät"],
+    "definitions_de": ["Objekt oder Oberfläche, die Licht-, Wärme- oder Schallwellen zu ihrer Quelle zurückwirft"],
+    "examples_de": [["Fahrrad**reflektoren** erhöhen die Sichtbarkeit für sicheres Nachtfahren", "Der Haupt**reflektor** des Teleskops sammelt Licht von fernen Sternen"]]
+  },
+  {
+    "lemma": "reflex",
+    "meanings_de": ["automatische Reaktion"],
+    "definitions_de": ["automatische instinktive Reaktion auf einen Reiz ohne bewusstes Denken"],
+    "examples_de": [["Der Arzt testete ihren Knie**reflex** mit einem Hammer", "Sein schneller **Reflex** rettete ihn vor dem fallenden Gegenstand"]]
+  },
+  {
+    "lemma": "reflexive",
+    "meanings_de": ["Grammatikform", "automatisches Verhalten"],
+    "definitions_de": ["grammatikalische Form, bei der sich Subjekt und Objekt auf dieselbe Einheit beziehen", "Verhalten, das automatisch ohne bewusstes Denken oder Überlegung ausgeführt wird"],
+    "examples_de": [["Das **Reflexivpronomen** 'mich selbst' bezieht sich auf das Subjekt zurück", "Die Schüler lernten heute **reflexive Verben** im Spanischunterricht"], ["Ihre **reflexartige** Reaktion auf Kritik war immer sofort defensiv", "**Reflexive** Denkmuster können dauerhaft schwer zu ändern sein"]]
+  }
+]

@@ -1,0 +1,296 @@
+[
+  {
+    "lemma": "flirt",
+    "meanings_de": ["Person die flirtet", "spielerisches Liebesverhalten"],
+    "definitions_de": ["Person, die ohne ernste Absichten kokett und spielerisch romantisches Interesse zeigt", "leichtherziges Verhalten, das darauf abzielt, romantisches oder sexuelles Interesse zu wecken"],
+    "examples_de": [["Sie ist auf jeder Betriebsfeier ein richtiger **Flirt**", "Der berüchtigte **Flirt** bezauberte alle Gäste auf der Veranstaltung"], ["Ihr harmloser **Flirt** beim Kaffee erhellte ihren Morgen", "Ein kleiner **Flirt** auf der Tanzfläche schadet niemandem"]]
+  },
+  {
+    "lemma": "flirtation",
+    "meanings_de": ["romantisches Spiel"],
+    "definitions_de": ["spielerisches Verhalten, das romantisches oder sexuelles Interesse wecken soll, ohne ernsthafte Verpflichtung"],
+    "examples_de": [["Ihre **Flirterei** dauerte den ganzen Sommer über an", "Die **Flirterei** im Büro kann manchmal zu unangenehmen Situationen führen"]]
+  },
+  {
+    "lemma": "flirting",
+    "meanings_de": ["romantisch-spielerische Interaktion"],
+    "definitions_de": ["die Handlung des koketten oder spielerischen Verhaltens, um romantisches Interesse zu wecken"],
+    "examples_de": [["Das **Flirten** zwischen den beiden war für alle offensichtlich", "Unschuldiges **Flirten** im Café brachte sie zum Lächeln"]]
+  },
+  {
+    "lemma": "floating",
+    "meanings_de": ["Treiben", "Finanztechnik"],
+    "definitions_de": ["Zustand oder Vorgang des Schwebens auf einer Wasser- oder Luftoberfläche", "Geschäftspraxis, bei der Wechselkurse frei schwanken können"],
+    "examples_de": [["Das **Flößen** der Baumstämme flussabwärts dauerte mehrere Stunden", "Die Kinder freuten sich über das **Schwimmen** der Papierboote in den Pfützen"], ["Die **Freigabe** der Währung führte zu Marktinstabilität", "Experten diskutierten die **Ausgabe** von Staatsanleihen in diesem Quartal"]]
+  },
+  {
+    "lemma": "floatplane",
+    "meanings_de": ["Wasserflugzeug"],
+    "definitions_de": ["Flugzeug, das mit Schwimmern anstelle von Rädern für Wasserlandungen und -starts ausgestattet ist"],
+    "examples_de": [["Das **Wasserflugzeug** landete sanft auf dem Bergsee", "Abgelegene Dörfer sind auf **Wasserflugzeug**-Lieferungen angewiesen"]]
+  },
+  {
+    "lemma": "flock",
+    "meanings_de": ["Tiergruppe", "Kirchengemeinde"],
+    "definitions_de": ["Gruppe von Vögeln, Schafen oder Ziegen, die zusammen leben, fressen oder sich bewegen", "Gemeinde unter der geistlichen Obhut eines Pfarrers oder Priesters"],
+    "examples_de": [["Eine **Schar** Gänse flog in perfekter Formation über uns hinweg", "Der Schäfer zählte seine **Herde** jeden Abend vor Sonnenuntergang"], ["Der Pfarrer kümmerte sich hingebungsvoll um seine **Gemeinde**", "Die Mitglieder der **Gemeinde** versammelten sich zum Sonntagsgottesdienst"]]
+  },
+  {
+    "lemma": "flogging",
+    "meanings_de": ["Auspeitschung"],
+    "definitions_de": ["das Schlagen einer Person mit einer Peitsche oder einem Stock als Strafe"],
+    "examples_de": [["Die öffentliche **Auspeitschung** wurde in den meisten Ländern vor Jahrhunderten verboten", "Der historische Roman beschrieb die brutale **Geißelung** der Gefangenen"]]
+  },
+  {
+    "lemma": "flooding",
+    "meanings_de": ["Überschwemmung"],
+    "definitions_de": ["Überflutung von normalerweise trockenem Land durch übertretendes Wasser"],
+    "examples_de": [["Die schwere **Überschwemmung** zerstörte letzten Frühling Hunderte von Häusern", "Die jährliche **Überflutung** bringt fruchtbaren Boden auf die Felder"]]
+  },
+  {
+    "lemma": "floodplain",
+    "meanings_de": ["Überschwemmungsgebiet"],
+    "definitions_de": ["tiefliegendes Gebiet neben einem Fluss, das Überschwemmungen ausgesetzt ist"],
+    "examples_de": [["Das Bauen im **Überschwemmungsgebiet** erfordert spezielle Genehmigungen und Versicherungen", "Das fruchtbare **Auenland** unterstützt eine vielfältige Tier- und Pflanzenwelt"]]
+  },
+  {
+    "lemma": "flooring",
+    "meanings_de": ["Fußbodenbelag"],
+    "definitions_de": ["Material, das zur Herstellung oder Abdeckung von Böden in Gebäuden verwendet wird"],
+    "examples_de": [["Sie wählten **Parkettboden** für die Wohnzimmerrenovierung", "Der Handwerker spezialisierte sich auf die Verlegung von **Laminatboden** in Wohnhäusern"]]
+  },
+  {
+    "lemma": "flop",
+    "meanings_de": ["Misserfolg", "schwere Fallbewegung"],
+    "definitions_de": ["vollständiger Misserfolg, insbesondere in der Unterhaltung oder im Geschäftsleben", "schwere, lockere oder unbeholfene Bewegung oder Fall"],
+    "examples_de": [["Der teure Film entpuppte sich als kompletter **Flop**", "Ihre neue Produkteinführung war trotz intensiver Werbung ein **Reinfall**"], ["Er machte einen **Bauchklatscher** ins Schwimmbecken", "Der Fisch gab einen letzten **Schlag** bevor er still wurde"]]
+  },
+  {
+    "lemma": "floppy",
+    "meanings_de": ["flexibler Datenspeicher"],
+    "definitions_de": ["flexible Magnetscheibe zur Speicherung von Computerdaten, besonders in älteren Systemen"],
+    "examples_de": [["Sie fand eine Kiste mit alten **Disketten** auf dem Dachboden", "Der uralte Computer benötigte noch eine **Floppy** zum Hochfahren"]]
+  },
+  {
+    "lemma": "flora",
+    "meanings_de": ["Pflanzenwelt"],
+    "definitions_de": ["Gesamtheit der Pflanzen einer bestimmten Region, eines Lebensraums oder einer geologischen Periode"],
+    "examples_de": [["Die Wüsten**flora** hat sich an extreme Temperaturschwankungen angepasst", "Wissenschaftler katalogisieren die **Flora** und Fauna des Regenwaldes"]]
+  },
+  {
+    "lemma": "florin",
+    "meanings_de": ["historische Münze"],
+    "definitions_de": ["ehemalige britische Münze im Wert von zwei Schilling oder verschiedene europäische Gold- oder Silbermünzen"],
+    "examples_de": [["Der antike **Florin** war für Sammler erheblich mehr wert", "Mittelalterliche Händler tauschten Waren gegen **Gulden** auf europäischen Märkten"]]
+  },
+  {
+    "lemma": "florist",
+    "meanings_de": ["Blumenhändler"],
+    "definitions_de": ["Person, die gewerblich Blumen und Pflanzen verkauft und arrangiert"],
+    "examples_de": [["Die **Floristin** kreierte wunderschöne Sträuße für die Hochzeitszeremonie", "Sie beriet sich mit dem **Blumenhändler** über Trauerblumenarrangements"]]
+  },
+  {
+    "lemma": "flotation",
+    "meanings_de": ["Auftriebsvorgang", "Börsengang"],
+    "definitions_de": ["Vorgang des Schwimmens in Flüssigkeit oder Gas", "Prozess der erstmaligen öffentlichen Ausgabe von Unternehmensanteilen"],
+    "examples_de": [["Die Schwimmweste gewährleistet den richtigen **Auftrieb** in Notfällen", "Wissenschaftler untersuchten die **Schwimmfähigkeit** verschiedener Materialien"], ["Der **Börsengang** des Technologieunternehmens brachte Millionen an Kapital", "Die Marktbedingungen verzögerten die geplante **Börsennotierung** bis zum nächsten Quartal"]]
+  },
+  {
+    "lemma": "flotilla",
+    "meanings_de": ["kleine Flotte"],
+    "definitions_de": ["Flotte von Schiffen oder Booten, insbesondere kleine Marineschiffe"],
+    "examples_de": [["Eine **Flottille** von Fischerbooten fuhr bei Morgengrauen hinaus", "Die Marine**flottille** patrouillierte wachsam in den Küstengewässern"]]
+  },
+  {
+    "lemma": "flotsam",
+    "meanings_de": ["treibendes Wrackgut"],
+    "definitions_de": ["Wrackteile oder Ladung, die nach einem Schiffbruch auf dem Meer treibend gefunden werden"],
+    "examples_de": [["Strandgutsammler durchsuchten das **Treibgut** nach wertvollen Gegenständen nach Stürmen", "Das Rettungsteam entdeckte **Wrackteile** des vermissten Schiffes"]]
+  },
+  {
+    "lemma": "flounder",
+    "meanings_de": ["Plattfischart", "unbeholfene Bewegung"],
+    "definitions_de": ["Meeres-Plattfisch mit beiden Augen auf einer Seite des Kopfes", "unbeholfenes oder hilfloses Kämpfen oder Sich-Abmühen"],
+    "examples_de": [["Das Restaurant servierte frische **Flunder** mit Zitronenbutter", "Kommerzielle Fischerboote fingen **Schollen** in flachen Küstengewässern"], ["Sein **Gestolper** durch den tiefen Schnee erschöpfte ihn schnell", "Das **Straucheln** des Unternehmens am Markt hielt monatelang an"]]
+  },
+  {
+    "lemma": "flourish",
+    "meanings_de": ["dekorative Geste", "Blütezeit"],
+    "definitions_de": ["kühne oder extravagante Geste oder Handlung zur Schau", "Periode des Gedeihens, Wohlstands oder kräftigen Wachstums"],
+    "examples_de": [["Der Zauberer beendete seine Vorstellung mit einer dramatischen **Schwungbewegung**", "Sie unterschrieb ihren Namen mit einem eleganten **Schnörkel**"], ["Die Künste erlebten während der Renaissance eine **Blütezeit**", "Kleine Unternehmen erfreuten sich nach der Wirtschaftserholung einer **Hochphase**"]]
+  },
+  {
+    "lemma": "flowering",
+    "meanings_de": ["Blütezeit", "Höhepunkt"],
+    "definitions_de": ["Prozess oder Zeitraum, in dem Pflanzen Blüten hervorbringen", "Zeit, in der etwas seinen Höhepunkt oder seine erfolgreichste Entwicklung erreicht"],
+    "examples_de": [["Die **Blüte** der Kirschbäume zieht Tausende von Touristen an", "Die Frühlings**blüte** erfüllt den Garten mit Farbe und Duft"], ["Die **Blütezeit** der Demokratie brauchte Jahrzehnte zur vollständigen Etablierung", "Diese Periode markierte die **Hochzeit** des künstlerischen Ausdrucks"]]
+  },
+  {
+    "lemma": "flowing",
+    "meanings_de": ["fließende Bewegung"],
+    "definitions_de": ["glatte, kontinuierliche Bewegung von Flüssigkeit, Gas oder anderen Substanzen"],
+    "examples_de": [["Das **Fließen** des Flusses grub über Jahrtausende tiefe Schluchten", "Ihr Kleid hatte ein wunderschönes **Wallen**, das alle Blicke auf sich zog"]]
+  },
+  {
+    "lemma": "flu",
+    "meanings_de": ["Viruserkrankung"],
+    "definitions_de": ["hochansteckende Virusinfektion, die das Atmungssystem befällt, Kurzform von Influenza"],
+    "examples_de": [["Sie fehlte wegen schwerer **Grippe** eine Woche bei der Arbeit", "Die **Grippeimpfung** hilft, saisonale Ausbrüche jedes Jahr zu verhindern"]]
+  },
+  {
+    "lemma": "fluctuation",
+    "meanings_de": ["unregelmäßige Schwankung"],
+    "definitions_de": ["unregelmäßiges Steigen und Fallen von Anzahl, Menge, Qualität oder Wert"],
+    "examples_de": [["Die Markt**schwankung** macht die Investitionsplanung für Anfänger herausfordernd", "Temperatur**schwankungen** können empfindliche elektronische Geräte erheblich beschädigen"]]
+  },
+  {
+    "lemma": "flue",
+    "meanings_de": ["Schornsteinzug"],
+    "definitions_de": ["Kanal für Rauch und Abgase von einem Feuer, Ofen oder Heizkessel"],
+    "examples_de": [["Der **Schornsteinzug** muss aus Sicherheitsgründen jährlich gereinigt werden", "Ein verstopfter **Rauchabzug** verursachte gefährliche Kohlenmonoxidansammlungen im Inneren"]]
+  },
+  {
+    "lemma": "fluency",
+    "meanings_de": ["Sprachgewandtheit"],
+    "definitions_de": ["Fähigkeit, eine Sprache leicht, flüssig und ausdrucksvoll zu sprechen oder zu schreiben"],
+    "examples_de": [["Ihre **Sprachgewandtheit** in drei Sprachen beeindruckte das Einstellungskomitee", "Tägliches Lesen verbessert die **Flüssigkeit** in jeder Fremdsprache erheblich"]]
+  },
+  {
+    "lemma": "fluff",
+    "meanings_de": ["weiche Fasern", "oberflächlicher Inhalt"],
+    "definitions_de": ["weiche faserige Substanz von Stoff, Pflanzen oder Federn", "Unterhaltung oder Text ohne ernsthaften Inhalt oder Substanz"],
+    "examples_de": [["Sie entfernte **Fussel** von ihrem Pullover vor dem Vorstellungsgespräch", "Der Trocknerfilter war mit Flusen und **Flaum** verstopft"], ["Der Artikel war nur **Füllmaterial** ohne echte Informationen", "Kritiker taten den Film als unterhaltsame **Belanglosigkeit** ohne Tiefe ab"]]
+  },
+  {
+    "lemma": "flugelhorn",
+    "meanings_de": ["Blechblasinstrument"],
+    "definitions_de": ["Blechblasinstrument ähnlich einer Trompete, aber mit einer breiteren, konischen Bohrung"],
+    "examples_de": [["Der Jazzmusiker spielte ein gefühlvolles Solo auf dem **Flügelhorn**", "Sein **Flügelhorn** erzeugte wärmere Töne als eine normale Trompete"]]
+  },
+  {
+    "lemma": "fluidity",
+    "meanings_de": ["Flüssigkeitseigenschaft", "anpassungsfähige Natur"],
+    "definitions_de": ["physikalische Eigenschaft einer Substanz, die ihr das Fließen ermöglicht", "Eigenschaft der Anpassungsfähigkeit, Veränderlichkeit oder des Fehlens fester Form"],
+    "examples_de": [["Die **Flüssigkeit** von Quecksilber macht es in Thermometern nützlich", "Ingenieure testeten die **Fließfähigkeit** verschiedener Ölmischungen"], ["Die **Flexibilität** moderner Arbeitsvereinbarungen kommt vielen Arbeitnehmern zugute", "Geschlechts**fluidität** stellt traditionelle binäre Klassifikationssysteme vollständig in Frage"]]
+  },
+  {
+    "lemma": "fluke",
+    "meanings_de": ["Glückstreffer", "Walflosse", "Leberegel"],
+    "definitions_de": ["unwahrscheinliches Zufallsereignis, besonders ein glückliches", "eine der beiden Hälften der Schwanzflosse eines Wals", "parasitärer Plattwurm, der Säugetiere und Vögel befällt"],
+    "examples_de": [["Der Lottogewinn war für ihn ein kompletter **Glückstreffer**", "Ihre Entdeckung war kein **Zufall**, sondern das Ergebnis jahrelanger Forschung"], ["Die gewaltige **Fluke** des Wals schlug kraftvoll auf die Meeresoberfläche", "Fotografen hielten fest, wie die **Schwanzflosse** unter den Wellen verschwand"], ["Der Tierarzt behandelte mit **Leberegel** infizierte Schafe", "Labortests bestätigten das Vorhandensein von **Saugwurm**-Parasiten"]]
+  },
+  {
+    "lemma": "flume",
+    "meanings_de": ["Wasserrinne"],
+    "definitions_de": ["künstlicher Kanal, der Wasser für industrielle Nutzung oder Unterhaltung transportiert"],
+    "examples_de": [["Die alte Bergbau**rinne** transportiert noch immer Wasser den Berg hinunter", "Kinder kreischten vor Vergnügen auf der Wasserpark**rutsche**"]]
+  },
+  {
+    "lemma": "fluorescence",
+    "meanings_de": ["Lichtemissionseigenschaft"],
+    "definitions_de": ["Emission von Licht durch eine Substanz, die Licht oder andere elektromagnetische Strahlung absorbiert hat"],
+    "examples_de": [["Die **Fluoreszenz** bestimmter Mineralien hilft bei ihrer Identifizierung unter UV-Licht", "Wissenschaftler nutzen **Fluoreszenz** zur Verfolgung biologischer Prozesse in lebenden Zellen"]]
+  },
+  {
+    "lemma": "fluorescent",
+    "meanings_de": ["Leuchtmitteltyp"],
+    "definitions_de": ["elektrisches Licht, das Licht durch Fluoreszenz statt durch Wärme erzeugt"],
+    "examples_de": [["Das Büro ersetzte alle **Leuchtstoffröhren** durch LED-Alternativen", "**Neonbeleuchtung** kann bei empfindlichen Personen Kopfschmerzen verursachen"]]
+  },
+  {
+    "lemma": "fluoridation",
+    "meanings_de": ["Wasserbehandlungsverfahren"],
+    "definitions_de": ["Zugabe von Fluorid zu öffentlichen Wasserversorgungen zur Verhinderung von Karies"],
+    "examples_de": [["Die kommunale **Fluoridierung** hat seit Jahrzehnten Karies bei Kindern reduziert", "Einige Bürger lehnten die **Trinkwasserfluoridierung** aus Gesundheits- und Wahlfreiheitsgründen ab"]]
+  },
+  {
+    "lemma": "fluoride",
+    "meanings_de": ["chemische Verbindung"],
+    "definitions_de": ["Verbindung, die Fluor enthält, wird besonders zur Vorbeugung von Karies verwendet"],
+    "examples_de": [["Zahnärzte empfehlen **Fluorid**-Zahnpasta zur Kariesvorbeugung bei Kindern", "Die Wasserversorgung enthält natürliches **Fluorid** in sicheren Mengen"]]
+  },
+  {
+    "lemma": "fluorine",
+    "meanings_de": ["chemisches Element"],
+    "definitions_de": ["hochreaktives, blassgelbes gasförmiges Element, das leichteste Mitglied der Halogengruppe"],
+    "examples_de": [["**Fluor** bildet Verbindungen mit fast allen anderen chemischen Elementen", "Industrielle Prozesse verwenden **Fluor** zur Herstellung von Antihaftbeschichtungen"]]
+  },
+  {
+    "lemma": "fluoxetine",
+    "meanings_de": ["Antidepressivum"],
+    "definitions_de": ["selektiver Serotonin-Wiederaufnahmehemmer zur Behandlung von Depressionen und Angststörungen"],
+    "examples_de": [["Der Arzt verschrieb **Fluoxetin** zur Behandlung ihrer Depression", "Patienten, die **Fluoxetin** einnehmen, sollten ungewöhnliche Nebenwirkungen melden"]]
+  },
+  {
+    "lemma": "flurry",
+    "meanings_de": ["kurzer Schneefall", "plötzlicher Aktivitätsschub"],
+    "definitions_de": ["leichter, kurzer Schneeschauer", "plötzliche kurze Periode von Aufregung, Begeisterung oder geschäftiger Aktivität"],
+    "examples_de": [["Ein **Schneegestöber** puderte die Autos mit weißem Pulver", "Die Wettervorhersage sagte gelegentliche **Schneeschauer** für den ganzen Tag voraus"], ["Eine **Flut** von E-Mails traf nach der gestrigen Ankündigung ein", "Das Geschäft erlebte einen **Ansturm** von Kunden vor Ladenschluss"]]
+  },
+  {
+    "lemma": "flush",
+    "meanings_de": ["Hautrötung", "Spülvorgang", "Pokerblatt"],
+    "definitions_de": ["vorübergehende Rötung von Gesicht und Hals durch Emotion oder Fieber", "Wasserschwall zur Reinigung, besonders bei Toiletten", "Pokerblatt mit allen Karten derselben Farbe"],
+    "examples_de": [["Eine **Röte** der Verlegenheit färbte ihre Wangen knallrot", "Das Fieber verursachte eine **Hitzewallung** über sein Gesicht und seinen Hals"], ["Der Toiletten**spülmechanismus** muss von einem Klempner repariert werden", "Eine **Spülung** sollte den Abfluss von allen Ablagerungen befreien"], ["Ihr Royal **Flush** gewann den gesamten Pokerturnierpreispool", "Einen **Flush** zu bekommen erfordert, dass alle fünf Karten dieselbe Farbe haben"]]
+  },
+  {
+    "lemma": "flute",
+    "meanings_de": ["Holzblasinstrument", "dekorative Rille"],
+    "definitions_de": ["Musikinstrument bestehend aus einem Rohr mit Löchern entlang seiner Länge", "vertikale Rille oder Kanal in architektonischen Säulen oder anderen Oberflächen"],
+    "examples_de": [["Sie übte stundenlang **Flöte** vor der Konzertaufführung", "Die silberne **Querflöte** erzeugte klare, schöne Töne über den gesamten Tonumfang"], ["Die **Kannelierung** der antiken Säule verlieh dem Tempel Eleganz", "Handwerker schnitzten jede **Rille** mit Präzision und künstlerischem Geschick"]]
+  },
+  {
+    "lemma": "flutist",
+    "meanings_de": ["Flötenspieler"],
+    "definitions_de": ["Person, die beruflich oder als Hobby Flöte spielt"],
+    "examples_de": [["Der erste **Flötist** leitete die Holzbläsersektion mit Expertise", "Die junge **Flötistin** gewann den ersten Platz im Musikwettbewerb"]]
+  },
+  {
+    "lemma": "flutter",
+    "meanings_de": ["schnelle Bewegung", "Herzunregelmäßigkeit"],
+    "definitions_de": ["schnelle, leichte Flatterbewegung von Flügeln oder ähnliche Bewegung", "abnormal schnelles Schlagen oder Pulsieren des Herzens"],
+    "examples_de": [["Das **Flattern** des Schmetterlings von Blüte zu Blüte verzauberte die Kinder", "Ein **Aufflackern** der Aufregung ging durch die wartende Menge"], ["Der Patient erlebte Herz**flattern** während des Belastungstests", "Vorhof**flattern** erfordert sofortige medizinische Aufmerksamkeit und Behandlung"]]
+  },
+  {
+    "lemma": "fluttering",
+    "meanings_de": ["kontinuierliche leichte Bewegung"],
+    "definitions_de": ["kontinuierliche schnelle, leichte Bewegungen wie die von Flügeln oder Blättern"],
+    "examples_de": [["Das **Flattern** der Vorhänge deutete auf ein offenes Fenster irgendwo hin", "Herbstblätter begannen ihren **flatternden** Abstieg zum Boden"]]
+  },
+  {
+    "lemma": "flux",
+    "meanings_de": ["ständiger Wandel", "Durchflussrate"],
+    "definitions_de": ["kontinuierliche Veränderung, Bewegung oder Fluss in einer Situation oder Substanz", "Fluss einer Flüssigkeit, von Partikeln oder Energie durch eine gegebene Oberfläche"],
+    "examples_de": [["Die Gesellschaft befindet sich im **Wandel**, da die Technologie weltweit rasant voranschreitet", "Die Unternehmensführung befand sich während der Fusion im **Umbruch**"], ["Wissenschaftler maßen den **Fluss** der Sonnenstrahlung, die die Erde erreicht", "Der magnetische **Fluss** durch die Spule bestimmt die induzierte Spannung"]]
+  },
+  {
+    "lemma": "flycatcher",
+    "meanings_de": ["insektenfressender Vogel"],
+    "definitions_de": ["kleiner Vogel, der Insekten im Flug fängt, in verschiedenen Arten weltweit zu finden"],
+    "examples_de": [["Der **Fliegenschnäpper** saß geduldig, bevor er seiner Beute nachjagte", "Vogelbeobachter identifizierten mehrere **Fliegenschnäpper**-Arten während ihres Waldspaziergangs"]]
+  },
+  {
+    "lemma": "flyer",
+    "meanings_de": ["Flugreisender", "Werbeflugblatt"],
+    "definitions_de": ["Person, die in einem Flugzeug reist oder es steuert", "kleines Handzettel oder Flugblatt für Werbung oder Ankündigungen"],
+    "examples_de": [["**Vielflieger**meilen sammelten sich schnell mit ihren Geschäftsreisen an", "Der nervöse **Fluggast** umklammerte die Armlehne während der Turbulenzen"], ["Studenten verteilten **Flyer** über die bevorstehende Wohltätigkeitsveranstaltung", "Der bunte **Handzettel** warb für die große Eröffnungsverkaufsaktion"]]
+  },
+  {
+    "lemma": "flying",
+    "meanings_de": ["Flugvorgang"],
+    "definitions_de": ["Handlung oder Prozess der Bewegung durch die Luft mit Flügeln oder in einem Flugzeug"],
+    "examples_de": [["Ihre Angst vor dem **Fliegen** verhinderte internationale Urlaubspläne", "Das **Fliegen** von Militärjets erfordert umfangreiche Ausbildungsprogramme"]]
+  },
+  {
+    "lemma": "flyover",
+    "meanings_de": ["Überführung", "Flugschau"],
+    "definitions_de": ["Brücke, die eine Straße oder Eisenbahn über eine andere führt", "Flug von Flugzeugen über einen bestimmten Ort zur Schau oder Zeremonie"],
+    "examples_de": [["Die neue **Überführung** reduzierte die Verkehrsstaus in der Innenstadt erheblich", "Fußgänger nutzten die **Brückenüberquerung**, um die vielbefahrene Autobahn zu überqueren"], ["Die militärische **Flugschau** beeindruckte die Zuschauer beim Fußballspiel", "Flugzeuge führten einen zeremoniellen **Überflug** zu Ehren gefallener Veteranen durch"]]
+  },
+  {
+    "lemma": "flyway",
+    "meanings_de": ["Vogelzugroute"],
+    "definitions_de": ["Flugroute, die regelmäßig von Zugvögeln zwischen Brut- und Überwinterungsgebieten genutzt wird"],
+    "examples_de": [["Naturschutzmaßnahmen schützen Feuchtgebiete entlang der pazifischen **Zugstraße**", "Millionen von Vögeln folgen dieser uralten **Flugroute** jeden Frühling"]]
+  }
+]

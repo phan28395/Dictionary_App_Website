@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "renewal",
+    "meanings_de": ["Erneuerungsprozess", "Vertragsverlängerung"],
+    "definitions_de": ["Prozess, bei dem etwas nach einer Phase der Verschlechterung wieder neu, frisch oder stark gemacht wird", "Handlung, mit der die Gültigkeitsdauer eines Vertrags, einer Lizenz oder eines Abonnements verlängert wird"],
+    "examples_de": [["Das städtische **Erneuerungsprojekt** verwandelte das verlassene Viertel komplett", "Der Frühling bringt ein Gefühl der **Erneuerung** für Natur und Menschen gleichermaßen"], ["Ihre Mitgliedschafts**verlängerung** ist Ende des Monats fällig", "Die Verhandlungen zur **Verlängerung** des Mietvertrags dauerten mehrere Wochen"]]
+  },
+  {
+    "lemma": "renovation",
+    "meanings_de": ["Gebäudesanierung"],
+    "definitions_de": ["Prozess der Reparatur und Verbesserung eines Gebäudes oder einer Struktur, um diese wieder in einen guten Zustand zu versetzen"],
+    "examples_de": [["Das historische Hotel wurde über zwei Jahre lang umfassend **renoviert**", "Eine Küchen**renovierung** kann den Wert Ihres Hauses erheblich steigern"]]
+  },
+  {
+    "lemma": "renown",
+    "meanings_de": ["weitreichender Ruhm"],
+    "definitions_de": ["Zustand, in dem jemand für Errungenschaften, Fähigkeiten oder Eigenschaften berühmt und respektiert ist"],
+    "examples_de": [["Die Künstlerin erlangte internationalen **Ruhm** für ihre innovativen Skulpturen", "Universitäten von großem **Renommee** ziehen Studierende aus aller Welt an"]]
+  },
+  {
+    "lemma": "rental",
+    "meanings_de": ["Mietgebühr", "Mietobjekt"],
+    "definitions_de": ["regelmäßig gezahltes Geld für die Nutzung von Eigentum oder Ausrüstung", "Eigentum oder Gegenstand, der anderen zur vorübergehenden Nutzung vermietet wird"],
+    "examples_de": [["Die monatliche **Miete** für die Wohnung beinhaltet die Nebenkosten", "Die **Anmietung** von Geräten kann wirtschaftlicher sein als der Kauf"], ["Wir fanden eine schöne **Ferienwohnung** in Strandnähe", "Der **Mietwagen** hatte unbegrenzte Kilometer inklusive"]]
+  },
+  {
+    "lemma": "renter",
+    "meanings_de": ["Mieter"],
+    "definitions_de": ["Person, die für die Nutzung von Eigentum oder Ausrüstung bezahlt, das jemand anderem gehört"],
+    "examples_de": [["Der **Mieter** muss vor dem Einzug eine Kaution hinterlegen", "Als **Mieterin** hatte sie bestimmte gesetzlich geschützte Rechte"]]
+  },
+  {
+    "lemma": "renting",
+    "meanings_de": ["Anmietung"],
+    "definitions_de": ["Praxis oder Geschäft des Bezahlens für die Nutzung von etwas, das einer anderen Person gehört"],
+    "examples_de": [["Das **Mieten** einer Wohnung gibt Ihnen die Flexibilität, leicht umzuziehen", "Die Kosten für das **Anmieten** sind dieses Jahr erheblich gestiegen"]]
+  },
+  {
+    "lemma": "renunciation",
+    "meanings_de": ["formeller Verzicht"],
+    "definitions_de": ["formelle Erklärung, mit der ein Anspruch, Recht oder Besitz aufgegeben wird, oft aus moralischen oder spirituellen Gründen"],
+    "examples_de": [["Sein **Verzicht** auf weltliche Besitztümer überraschte seine wohlhabende Familie", "Der Vertrag verlangte den **Verzicht** auf alle territorialen Ansprüche"]]
+  },
+  {
+    "lemma": "reordering",
+    "meanings_de": ["Neuordnungsprozess"],
+    "definitions_de": ["Handlung, Dinge in einer anderen Reihenfolge anzuordnen oder Ersatzbestände zu kaufen"],
+    "examples_de": [["Die **Neuordnung** der Prioritäten half dem Unternehmen, sich besser zu fokussieren", "Die automatische **Nachbestellung** stellt sicher, dass uns nie die Vorräte ausgehen"]]
+  },
+  {
+    "lemma": "reorganisation",
+    "meanings_de": ["Umstrukturierung"],
+    "definitions_de": ["Prozess der Änderung der Struktur oder Anordnung einer Organisation oder eines Systems"],
+    "examples_de": [["Die Unternehmens**umstrukturierung** führte zu drei neuen Abteilungen", "Die finanzielle **Reorganisation** half der Firma, eine Insolvenz zu vermeiden"]]
+  },
+  {
+    "lemma": "reorganization",
+    "meanings_de": ["Umstrukturierung"],
+    "definitions_de": ["Prozess der Änderung der Struktur oder Anordnung einer Organisation oder eines Systems"],
+    "examples_de": [["Die Unternehmens**reorganisation** optimierte die Abläufe in allen Bereichen", "Die Insolvenz**sanierung** ermöglichte es dem Unternehmen, weiter zu arbeiten"]]
+  },
+  {
+    "lemma": "reorientation",
+    "meanings_de": ["Neuausrichtung"],
+    "definitions_de": ["Prozess der Änderung des Fokus, der Richtung oder des grundlegenden Ansatzes für etwas"],
+    "examples_de": [["Die strategische **Neuausrichtung** verlagerte den Fokus von Hardware auf Software", "Kulturelle **Orientierungsprogramme** helfen Expatriates, sich an neue Länder anzupassen"]]
+  },
+  {
+    "lemma": "repairman",
+    "meanings_de": ["Reparateur"],
+    "definitions_de": ["Person, deren Beruf es ist, defekte Geräte, Maschinen oder Systeme zu reparieren"],
+    "examples_de": [["Der **Handwerker** reparierte unsere Waschmaschine in weniger als einer Stunde", "Wir riefen einen **Reparaturdienst**, als die Klimaanlage nicht mehr funktionierte"]]
+  },
+  {
+    "lemma": "reparation",
+    "meanings_de": ["Wiedergutmachung"],
+    "definitions_de": ["Zahlung oder Handlung zur Entschädigung für Schäden, Verletzungen oder Unrecht, insbesondere zwischen Nationen"],
+    "examples_de": [["Der Vertrag forderte Kriegs**reparationen** von der besiegten Nation", "Das Unternehmen bot finanzielle **Wiedergutmachung** für die Umweltschäden an"]]
+  },
+  {
+    "lemma": "repatriate",
+    "meanings_de": ["Rückkehrer"],
+    "definitions_de": ["Person, die nach einem Auslandsaufenthalt in ihr Herkunftsland zurückkehrt"],
+    "examples_de": [["Die **Rückkehrerin** hatte Schwierigkeiten, sich wieder an das Leben in ihrer Heimat zu gewöhnen", "Viele **Rückkehrer** bringen wertvolle internationale Erfahrung mit nach Hause"]]
+  },
+  {
+    "lemma": "repatriation",
+    "meanings_de": ["Rückführung"],
+    "definitions_de": ["Prozess, jemanden in sein Herkunftsland oder seine Staatsbürgerschaft zurückzubringen"],
+    "examples_de": [["Das Flüchtlings**rückführungsprogramm** half Tausenden, sicher nach Hause zurückzukehren", "Die Regeln zur Kapital**rückführung** beeinflussen internationale Geschäfte"]]
+  },
+  {
+    "lemma": "repayment",
+    "meanings_de": ["Rückzahlung"],
+    "definitions_de": ["Handlung, geliehenes Geld zurückzuzahlen oder etwas Gleichwertiges zurückzugeben"],
+    "examples_de": [["Die monatliche Kredit**rückzahlung** sollte dreißig Prozent des Einkommens nicht überschreiten", "Der **Tilgungsplan** erstreckt sich über fünfzehn Jahre"]]
+  },
+  {
+    "lemma": "repeal",
+    "meanings_de": ["Gesetzesaufhebung"],
+    "definitions_de": ["offizielle Aufhebung oder Rücknahme eines Gesetzes, einer Verordnung oder Richtlinie"],
+    "examples_de": [["Der Kongress stimmte für die **Aufhebung** des umstrittenen Steuergesetzes", "Die **Abschaffung** der Prohibition beendete dreizehn Jahre Alkoholverbot"]]
+  },
+  {
+    "lemma": "repeater",
+    "meanings_de": ["Signalverstärker", "Wiederholer"],
+    "definitions_de": ["elektronisches Gerät, das Signale empfängt und weiterleitet, um die Reichweite zu erweitern", "Person, die einen Kurs, eine Klasse oder eine Handlung wiederholt"],
+    "examples_de": [["Der WLAN-**Verstärker** erweiterte die Internetabdeckung im gesamten Gebäude", "Installieren Sie einen **Repeater**, um das Mobilfunksignal zu verstärken"], ["Mehrere **Wiederholer** in der Klasse benötigten zusätzliche Nachhilfe", "Er war ein **Sitzenbleiber**, der die Prüfung schließlich bestand"]]
+  },
+  {
+    "lemma": "repeating",
+    "meanings_de": ["Wiederholung"],
+    "definitions_de": ["Handlung, etwas erneut oder mehrmals zu tun, zu sagen oder zu produzieren"],
+    "examples_de": [["Das **Wiederholen** der Anweisungen stellte sicher, dass alle es klar verstanden", "Das ständige **Wiederholen** des Musters erzeugte einen hypnotischen Effekt"]]
+  },
+  {
+    "lemma": "repellent",
+    "meanings_de": ["Abwehrmittel"],
+    "definitions_de": ["chemische Substanz, die dazu dient, Insekten, Tiere oder Wasser fernzuhalten"],
+    "examples_de": [["Tragen Sie Insekten**schutz** auf, bevor Sie im Wald wandern", "Der Stoff hat eine wasser**abweisende** Beschichtung zum Schutz"]]
+  },
+  {
+    "lemma": "repentance",
+    "meanings_de": ["aufrichtige Reue"],
+    "definitions_de": ["tiefes Bedauern oder Reue für Fehlverhalten, begleitet von der Verpflichtung zur Veränderung"],
+    "examples_de": [["Seine aufrichtige **Reue** bewegte den Richter dazu, die Strafe zu reduzieren", "Religiöse Traditionen betonen oft **Buße** und Vergebung"]]
+  },
+  {
+    "lemma": "repertoire",
+    "meanings_de": ["Aufführungssammlung"],
+    "definitions_de": ["vollständige Bandbreite an Fähigkeiten, Werken oder Gegenständen, die jemand oder etwas produzieren kann"],
+    "examples_de": [["Das **Repertoire** des Pianisten umfasst sowohl klassische als auch zeitgenössische Stücke", "Die Erweiterung Ihres Koch**repertoires** macht die Essensplanung interessanter"]]
+  },
+  {
+    "lemma": "repertory",
+    "meanings_de": ["Theatersystem"],
+    "definitions_de": ["System, bei dem eine Theatergruppe mehrere Stücke im Wechsel mit denselben Darstellern aufführt"],
+    "examples_de": [["Das **Repertoiretheater** präsentiert jede Saison sechs verschiedene Stücke", "Das Schauspiel im **Repertoire** bietet vielfältige Erfahrungen für Darsteller"]]
+  },
+  {
+    "lemma": "repetition",
+    "meanings_de": ["wiederholtes Auftreten"],
+    "definitions_de": ["Handlung, etwas erneut zu tun oder zu sagen, oft zur Betonung oder Übung"],
+    "examples_de": [["Lernen durch **Wiederholung** hilft, Informationen im Gedächtnis zu verankern", "Die künstlerische **Wiederholung** von Formen schuf ein auffälliges Muster"]]
+  },
+  {
+    "lemma": "replacing",
+    "meanings_de": ["Ersetzungsvorgang"],
+    "definitions_de": ["Handlung, etwas zu entfernen und etwas anderes an seine Stelle zu setzen"],
+    "examples_de": [["Das **Ersetzen** alter Fenster kann die Energiekosten erheblich senken", "Der **Austausch** von Führungskräften schuf Unsicherheit in der Abteilung"]]
+  },
+  {
+    "lemma": "replay",
+    "meanings_de": ["Wiederholungssendung"],
+    "definitions_de": ["erneute Ausstrahlung oder Vorführung von etwas, insbesondere einer aufgezeichneten Sportszene"],
+    "examples_de": [["Die **Zeitlupe** zeigte, dass der Schiedsrichter die richtige Entscheidung getroffen hatte", "Fernsehsender zeigen oft **Wiederholungen** beliebter Programme"]]
+  },
+  {
+    "lemma": "replenishment",
+    "meanings_de": ["Auffüllungsprozess"],
+    "definitions_de": ["Handlung, etwas wieder aufzufüllen oder Vorräte auf ein früheres Niveau zurückzubringen"],
+    "examples_de": [["Die automatische Bestands**auffüllung** verhindert Lieferengpässe in stark frequentierten Geschäften", "Die **Auffüllung** des Grundwassers dauert viele Jahre"]]
+  },
+  {
+    "lemma": "replica",
+    "meanings_de": ["exakte Kopie"],
+    "definitions_de": ["exakte Kopie oder Modell von etwas, insbesondere eine in kleinerem Maßstab hergestellte"],
+    "examples_de": [["Das Museum stellte eine **Nachbildung** des antiken Schiffes aus", "Diese **Replik** des berühmten Gemäldes täuschte viele Experten"]]
+  },
+  {
+    "lemma": "replication",
+    "meanings_de": ["Kopierprozess"],
+    "definitions_de": ["Prozess des exakten Kopierens oder Reproduzierens von etwas, insbesondere in wissenschaftlichen Experimenten"],
+    "examples_de": [["Die DNA-**Replikation** ist für die Zellteilung und das Wachstum unerlässlich", "Die **Wiederholung** von Forschungsergebnissen validiert wissenschaftliche Erkenntnisse"]]
+  },
+  {
+    "lemma": "reportage",
+    "meanings_de": ["Nachrichtenberichterstattung"],
+    "definitions_de": ["sachliche Darstellung von Ereignissen in Zeitungen oder Rundfunkmedien mit Schwerpunkt auf direkter Beobachtung"],
+    "examples_de": [["Ihre lebendige **Reportage** aus dem Kriegsgebiet gewann Journalismuspreise", "Moderne **Berichterstattung** kombiniert traditionelle Berichte mit multimedialen Elementen"]]
+  },
+  {
+    "lemma": "repose",
+    "meanings_de": ["Ruhezustand"],
+    "definitions_de": ["Zustand der Ruhe, des Schlafs oder der Gelassenheit, oft mit friedlicher Würde verbunden"],
+    "examples_de": [["Die Statue fing einen Moment perfekter **Ruhe** ein", "Sie fand **Erholung** im stillen Garten nach einem stressigen Tag"]]
+  },
+  {
+    "lemma": "reposition",
+    "meanings_de": ["strategische Neupositionierung"],
+    "definitions_de": ["Handlung, etwas an eine andere Position zu bewegen oder die Marktstrategie zu ändern"],
+    "examples_de": [["Die Marken**neupositionierung** sprach erfolgreich jüngere Verbraucher an", "Die schnelle **Umgruppierung** der Truppen verschaffte ihnen einen taktischen Vorteil"]]
+  },
+  {
+    "lemma": "repositioning",
+    "meanings_de": ["strategische Anpassung"],
+    "definitions_de": ["Prozess der Änderung von Position, Image oder Marktfokus eines Produkts oder einer Organisation"],
+    "examples_de": [["Die Markt**neupositionierung** half dem Unternehmen, neue Kunden zu gewinnen", "Die **Neuausrichtung** von Satelliten erfordert präzise Berechnungen"]]
+  },
+  {
+    "lemma": "repository",
+    "meanings_de": ["Speicherort"],
+    "definitions_de": ["Ort, an dem Dinge aufbewahrt werden oder gefunden werden können, insbesondere Daten oder Wissen"],
+    "examples_de": [["Die Universitätsbibliothek dient als **Archiv** für seltene Manuskripte", "Online-**Repositorien** erleichtern Entwicklern das Teilen von Code"]]
+  },
+  {
+    "lemma": "repression",
+    "meanings_de": ["gewaltsame Unterdrückung"],
+    "definitions_de": ["Handlung, jemanden oder etwas mit Gewalt zu unterdrücken oder unbewusst unangenehme Gedanken zu blockieren"],
+    "examples_de": [["Die politische **Unterdrückung** nahm nach dem gescheiterten Aufstand zu", "Die psychologische **Verdrängung** von Traumata kann die psychische Gesundheit beeinträchtigen"]]
+  },
+  {
+    "lemma": "reprieve",
+    "meanings_de": ["vorübergehende Erleichterung"],
+    "definitions_de": ["vorübergehende Verzögerung oder Aufhebung einer Strafe oder Erleichterung von schwierigen Umständen"],
+    "examples_de": [["Der Gouverneur gewährte dem Gefangenen in letzter Minute einen **Aufschub**", "Regen brachte eine willkommene **Erleichterung** von der Sommerhitze"]]
+  },
+  {
+    "lemma": "reprimand",
+    "meanings_de": ["formelle Kritik"],
+    "definitions_de": ["strenge oder formelle Kritik, insbesondere von jemandem in einer Autoritätsposition"],
+    "examples_de": [["Der Mitarbeiter erhielt eine schriftliche **Rüge** wegen wiederholter Verspätung", "Eine mündliche **Ermahnung** reichte aus, um das Verhalten zu korrigieren"]]
+  },
+  {
+    "lemma": "reprint",
+    "meanings_de": ["Neuauflage"],
+    "definitions_de": ["neuer Druck eines Buches oder Artikels, oft unverändert gegenüber dem Original"],
+    "examples_de": [["Das beliebte Lehrbuch ist jetzt in seiner fünften **Neuauflage**", "Verlage bestellten einen **Nachdruck**, nachdem die erste Auflage ausverkauft war"]]
+  },
+  {
+    "lemma": "reprinting",
+    "meanings_de": ["Neudruckprozess"],
+    "definitions_de": ["Handlung oder Geschäft des erneuten Druckens von etwas, insbesondere Büchern oder Dokumenten"],
+    "examples_de": [["Der **Nachdruck** klassischer Romane hält sie für Leser verfügbar", "Der digitale **Neudruck** hat das Verlagswesen wirtschaftlich rentabler gemacht"]]
+  },
+  {
+    "lemma": "reprisal",
+    "meanings_de": ["Vergeltungsmaßnahme"],
+    "definitions_de": ["Handlung der Vergeltung oder Rache, insbesondere zwischen Ländern"],
+    "examples_de": [["Wirtschaftliche **Vergeltungsmaßnahmen** folgten auf den Bruch des Handelsabkommens", "Die Angst vor **Repressalien** hielt Zeugen davon ab, auszusagen"]]
+  },
+  {
+    "lemma": "reproach",
+    "meanings_de": ["Ausdruck der Missbilligung"],
+    "definitions_de": ["Ausdruck von Enttäuschung oder Kritik oder Quelle von Scham oder Schande"],
+    "examples_de": [["Ihre Stimme trug eine Note sanften **Tadels**", "Ein Leben ohne **Vorwürfe** zu führen erfordert konsequentes ethisches Verhalten"]]
+  },
+  {
+    "lemma": "reproducibility",
+    "meanings_de": ["Reproduzierbarkeit"],
+    "definitions_de": ["Eigenschaft, reproduziert oder repliziert werden zu können, besonders wichtig in der wissenschaftlichen Forschung"],
+    "examples_de": [["Wissenschaftliche **Reproduzierbarkeit** stellt sicher, dass Experimente konsistente Ergebnisse liefern", "Die **Wiederholbarkeit** der Studie wurde von Gutachtern in Frage gestellt"]]
+  },
+  {
+    "lemma": "reproduction",
+    "meanings_de": ["biologische Fortpflanzung", "kopierte Version"],
+    "definitions_de": ["biologischer Prozess, durch den Organismen Nachkommen erzeugen", "Kopie oder Nachahmung eines Originalwerks oder -gegenstands"],
+    "examples_de": [["Die geschlechtliche **Fortpflanzung** erhöht die genetische Vielfalt in Populationen", "Assistierte **Reproduktionstechnologien** helfen vielen Paaren, Kinder zu bekommen"], ["Diese Möbel**nachbildung** fängt den eleganten Stil des Originals ein", "Hochwertige Kunst**reproduktionen** machen Meisterwerke zugänglich"]]
+  },
+  {
+    "lemma": "reptile",
+    "meanings_de": ["wechselwarmes Wirbeltier"],
+    "definitions_de": ["wechselwarmes Wirbeltier mit schuppiger Haut, das typischerweise Eier legt"],
+    "examples_de": [["Schlangen und Eidechsen sind häufige **Reptilien** in Wüstenumgebungen", "Die **Reptilienausstellung** zeigt Arten aus der ganzen Welt"]]
+  },
+  {
+    "lemma": "reptilian",
+    "meanings_de": ["Reptilieneigenschaft"],
+    "definitions_de": ["sich auf Reptilien beziehend oder Eigenschaften habend, die mit Reptilien assoziiert werden"],
+    "examples_de": [["Sein kalter, **reptilienhafter** Blick machte alle unbehaglich", "Das **Reptiliengehirn** steuert grundlegende Überlebensinstinkte"]]
+  },
+  {
+    "lemma": "republicanism",
+    "meanings_de": ["politische Philosophie"],
+    "definitions_de": ["politische Ideologie, die eine republikanische Regierungsform mit gewählten Vertretern unterstützt"],
+    "examples_de": [["Der amerikanische **Republikanismus** betont individuelle Rechte und begrenzte Regierung", "Die Ausbreitung des **Republikanismus** forderte europäische Monarchien heraus"]]
+  },
+  {
+    "lemma": "republication",
+    "meanings_de": ["Wiederveröffentlichung"],
+    "definitions_de": ["Handlung, etwas erneut zu veröffentlichen, oft mit Aktualisierungen oder in einem neuen Format"],
+    "examples_de": [["Die **Neuveröffentlichung** des Buches enthielt ein neues Vorwort des Autors", "Die digitale **Wiederveröffentlichung** macht vergriffene Bücher wieder verfügbar"]]
+  },
+  {
+    "lemma": "repudiation",
+    "meanings_de": ["formelle Ablehnung"],
+    "definitions_de": ["Ablehnung oder Leugnung der Gültigkeit oder Autorität von etwas oder jemandem"],
+    "examples_de": [["Seine öffentliche **Zurückweisung** extremistischer Ansichten stellte seinen Ruf wieder her", "Die **Ablehnung** eines Vertrags kann rechtliche Konsequenzen haben"]]
+  },
+  {
+    "lemma": "repulse",
+    "meanings_de": ["gewaltsame Zurückweisung"],
+    "definitions_de": ["Handlung, einen Angriff zurückzuschlagen oder jemanden oder etwas entschieden abzulehnen"],
+    "examples_de": [["Die **Abwehr** der Invasion durch die Verteidiger wurde legendär", "Ihre kalte **Zurückweisung** seiner Annäherungsversuche ließ ihn niedergeschlagen zurück"]]
+  },
+  {
+    "lemma": "repulsion",
+    "meanings_de": ["starke Abneigung"],
+    "definitions_de": ["Gefühl intensiver Abneigung oder Ekel oder Kraft, die Objekte auseinandertreibt"],
+    "examples_de": [["Sie empfand sofortige **Abscheu** beim Anblick von Grausamkeit", "Die magnetische **Abstoßung** hält den Zug über der Schiene schwebend"]]
+  }
+]

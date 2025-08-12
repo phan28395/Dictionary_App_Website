@@ -1,0 +1,290 @@
+[
+  {
+    "lemma": "swagger",
+    "meanings_de": ["selbstbewusster Gang", "prahlerisches Verhalten"],
+    "definitions_de": ["selbstbewusste, arrogante Art zu gehen oder sich zu verhalten", "Zurschaustellung von Kühnheit oder Arroganz in Art und Verhalten"],
+    "examples_de": [["Er **stolzierte** nach seinem Meisterschaftssieg durch die Halle", "Der Cowboy betrat mit seinem typischen **Großspurigen Gang** den Saloon"], ["Seine **Prahlerei** nervte alle Teilnehmer der Besprechung", "Sie versuchte ihre Nervosität mit gespielter **Selbstsicherheit** zu überspielen"]]
+  },
+  {
+    "lemma": "swain",
+    "meanings_de": ["junger Liebhaber", "Landjugend"],
+    "definitions_de": ["junger Mann, der ein Liebhaber oder Verehrer ist, besonders in der Dichtung", "junger Mann vom Land oder aus ländlichen Gebieten"],
+    "examples_de": [["Das Mädchen wartete geduldig auf die Rückkehr ihres **Liebsten**", "Im Gedicht umwarb der **Jüngling** sie mit Blumen"], ["Der junge **Bursche** half jeden Herbst bei der Ernte", "Mehrere **Landbuben** versammelten sich samstags zum Dorftanz"]]
+  },
+  {
+    "lemma": "swallowtail",
+    "meanings_de": ["Schmetterling mit Schwanzfortsätzen", "formeller Frackstil"],
+    "definitions_de": ["Schmetterling mit verlängerten Hinterflügelfortsätzen, die einem Schwalbenschwanz ähneln", "formeller Mantel mit zwei langen, spitz zulaufenden Teilen hinten"],
+    "examples_de": [["Der gelbe **Schwalbenschwanz** landete auf dem Blumenbeet", "Wir entdeckten gestern mehrere **Schwalbenschwänze** bei unserem Naturspaziergang"], ["Er trug einen **Frack** zum formellen Abendessen", "Der **Frack** des Dirigenten bewegte sich elegant beim Dirigieren"]]
+  },
+  {
+    "lemma": "swami",
+    "meanings_de": ["hinduistischer Religionslehrer", "Mystiker oder Guru"],
+    "definitions_de": ["hinduistischer Religionslehrer oder Mystiker, oft als respektvolle Anrede verwendet", "spiritueller Lehrer oder Führer, der Anleitung in religiösen Angelegenheiten gibt"],
+    "examples_de": [["Der **Swami** lehrte täglich Meditationstechniken im Ashram", "Viele Schüler reisten weit, um beim **Swami** zu studieren"], ["Sie befragte den **Guru** zu ihrer spirituellen Reise", "Der berühmte **Swami** schrieb mehrere Bücher über hinduistische Philosophie"]]
+  },
+  {
+    "lemma": "swamp",
+    "meanings_de": ["Feuchtgebiet", "überwältigende Situation"],
+    "definitions_de": ["tiefliegendes, mit Wasser und Vegetation gesättigtes Landgebiet", "Situation oder Zustand, in dem man mit zu viel überwältigt wird"],
+    "examples_de": [["Alligatoren leben im **Sumpf** nahe dem Flussdelta", "Der **Sumpf** war voller Zypressen und spanischem Moos"], ["Das Büro versank heute in einem **Wust** von Papierkram", "Lassen Sie sich nicht in einen **Schuldensumpf** ziehen"]]
+  },
+  {
+    "lemma": "swampland",
+    "meanings_de": ["sumpfiges Gelände"],
+    "definitions_de": ["tiefliegendes Landgebiet, das dauerhaft mit Wasser gesättigt ist"],
+    "examples_de": [["Sie trockneten das **Sumpfland**, um dort neue Häuser zu bauen", "Das **Sumpfgebiet** bietet Lebensraum für viele gefährdete Vogelarten"]]
+  },
+  {
+    "lemma": "swan",
+    "meanings_de": ["großer Wasservogel", "anmutige Person"],
+    "definitions_de": ["großer weißer Wasservogel mit langem, gebogenem Hals", "Person, die sich mit außergewöhnlicher Anmut und Eleganz bewegt oder verhält"],
+    "examples_de": [["Der **Schwan** glitt mit perfekter Anmut über den See", "Ein **Schwanenpaar** nistete jeden Frühling am Teich"], ["Sie bewegte sich wie ein **Schwan** über die Tanzfläche", "Die Balletttänzerin war ein wahrer **Schwan** in Bewegung"]]
+  },
+  {
+    "lemma": "swank",
+    "meanings_de": ["protzige Zurschaustellung", "luxuriöser Stil"],
+    "definitions_de": ["auffällige Zurschaustellung von Reichtum oder teurem Geschmack, um zu beeindrucken", "teurer und modischer Stil oder Erscheinungsbild von etwas Luxuriösem"],
+    "examples_de": [["Seine **Protzerei** ärgerte alle im Country Club", "Sie konnte auf Partys einem bisschen **Angeberei** nicht widerstehen"], ["Der **Luxus** des Hotels beeindruckte selbst die reichsten Gäste", "Sie lebten in **Prunk**, hatten aber kaum Ersparnisse"]]
+  },
+  {
+    "lemma": "swap",
+    "meanings_de": ["Tausch oder Handel"],
+    "definitions_de": ["Vorgang des Austauschens einer Sache gegen eine andere zwischen Parteien"],
+    "examples_de": [["Lass uns heute unsere Baseballkarten **tauschen**", "Der **Tauschmarkt** findet jeden Sonntagmorgen bei Tagesanbruch statt"]]
+  },
+  {
+    "lemma": "swarm",
+    "meanings_de": ["Insektengruppe", "sich bewegende Menge"],
+    "definitions_de": ["große Gruppe von Insekten, die zusammen fliegen oder sich bewegen, besonders Bienen", "große Anzahl von Menschen oder Dingen, die sich gemeinsam in einer Gruppe bewegen"],
+    "examples_de": [["Ein **Bienenschwarm** ließ sich auf dem Apfelbaum nieder", "Der **Schwarm** bewegte sich wie eine dunkle Wolke über den Himmel"], ["Ein **Schwarm** von Touristen überfiel das kleine Dorf", "Die **Reportermeute** umringte sofort das Auto des Prominenten"]]
+  },
+  {
+    "lemma": "swash",
+    "meanings_de": ["Wasserbewegungsgeräusch", "verwegene Art"],
+    "definitions_de": ["Geräusch oder Bewegung von plätscherndem oder umherspülendem Wasser", "großspurige oder verwegene Art, sich mit kühnem Selbstvertrauen zu verhalten"],
+    "examples_de": [["Das **Plätschern** der Wellen am Boot war beruhigend", "Wir hörten das **Schwappen** des Wassers in der Höhle"], ["Er bewegte sich mit dem **Gehabe** eines alten Piraten", "Ihr **verwegenes Auftreten** beeindruckte gestern alle auf der Kostümparty"]]
+  },
+  {
+    "lemma": "swashbuckler",
+    "meanings_de": ["wagemutiger Abenteurer", "Abenteuerfilmcharakter"],
+    "definitions_de": ["wagemutiger Soldat, Abenteurer oder Kämpfer, der mit extravaganter Kühnheit handelt", "Figur in Abenteuergeschichten, bekannt für Schwertkampf und mutige Taten"],
+    "examples_de": [["Der **Draufgänger** rettete die Prinzessin aus dem Turmgefängnis", "Er hielt sich für einen modernen **Abenteurer** in Geschäftsangelegenheiten"], ["Der Film zeigte einen **Degenhelden** im Kampf gegen böse Piraten", "Kinder liebten Geschichten über den tapferen **Musketier** und seine Abenteuer"]]
+  },
+  {
+    "lemma": "swashbuckling",
+    "meanings_de": ["wagemutiger Abenteuerstil"],
+    "definitions_de": ["charakteristisch für wagemutiges Abenteuer mit extravagantem Handeln und Schwertkampf"],
+    "examples_de": [["Seine **draufgängerische** Herangehensweise im Geschäft machte ihn weltweit berühmt", "Der **verwegene** Held sprang mutig von der Burgmauer"]]
+  },
+  {
+    "lemma": "swastika",
+    "meanings_de": ["altes religiöses Symbol", "Nazi-Emblem"],
+    "definitions_de": ["altes Symbol aus gekreuzten Linien, das seit Jahrtausenden in vielen Kulturen verwendet wird", "von Nazi-Deutschland als Emblem des Hasses und Faschismus vereinnahmtes Symbol"],
+    "examples_de": [["Das **Swastika** erscheint überall in alter hinduistischer und buddhistischer Kunst", "Archäologen fanden ein **Swastika** auf Töpferwaren aus 3000 v. Chr."], ["Das Nazi-**Hakenkreuz** wurde zum Symbol für Hass und Völkermord", "Viele Länder verboten nach dem Zweiten Weltkrieg das Zeigen des **Hakenkreuzes**"]]
+  },
+  {
+    "lemma": "swat",
+    "meanings_de": ["schlagender Hieb", "Polizeieinheit"],
+    "definitions_de": ["scharfer, klatschender Schlag mit Hand oder Gegenstand", "Spezialeinheit ausgebildeter Polizeibeamter für Waffen und Taktik"],
+    "examples_de": [["Sie gab der Fliege einen **Klaps** mit der Zeitung", "Ein **Schlag** reichte aus, um die Mücke sofort zu töten"], ["Das **SEK** traf ein, um die Geiselnahme zu bewältigen", "Er trat nach jahrelanger Ausbildung der **Spezialeinheit** bei"]]
+  },
+  {
+    "lemma": "swatch",
+    "meanings_de": ["Stoffmuster"],
+    "definitions_de": ["kleines Musterstück aus Stoff oder Material zum Testen"],
+    "examples_de": [["Sie sammelte **Stoffproben**, bevor sie den Gardinenstoff sorgfältig auswählte", "Der Designer zeigte uns **Muster** verschiedener Teppichfarben"]]
+  },
+  {
+    "lemma": "swath",
+    "meanings_de": ["gemähter Streifen", "breites Gebiet"],
+    "definitions_de": ["Streifen von Gras oder Getreide, der mit Sense oder Mäher geschnitten wurde", "breiter Streifen oder Bereich von etwas, der sich über eine Fläche erstreckt"],
+    "examples_de": [["Der Mäher hinterließ eine breite **Schneise** durch das hohe Gras", "Jede **Mahd** trocknete schnell in der Sonne"], ["Der Tornado schnitt eine **Schneise** der Verwüstung durch die Stadt", "Ein **Streifen** Sonnenlicht erhellte den staubigen Bibliotheksboden"]]
+  },
+  {
+    "lemma": "swathe",
+    "meanings_de": ["umwickelnde Bandage", "einhüllende Bedeckung"],
+    "definitions_de": ["Bandage oder Tuch, das zum Schutz oder zur Unterstützung um etwas gewickelt wird", "etwas, das wie eine Decke vollständig umhüllt, bedeckt oder einhüllt"],
+    "examples_de": [["Die Krankenschwester legte eine **Binde** um den verletzten Knöchel", "Alte Mumien wurden in **Leinenbinden** gewickelt"], ["Ein **Nebelschleier** bedeckte jeden Morgen das Tal", "Sie war in warme **Decken** eingehüllt"]]
+  },
+  {
+    "lemma": "sway",
+    "meanings_de": ["schwingende Bewegung", "kontrollierender Einfluss"],
+    "definitions_de": ["sanfte, rhythmische Schwingbewegung von Seite zu Seite", "Macht, die Handlungen oder Meinungen von Menschen zu beeinflussen oder zu kontrollieren"],
+    "examples_de": [["Das **Schwanken** der Palmen war hypnotisch anzusehen", "Das sanfte **Schaukeln** des Bootes machte alle schnell schläfrig"], ["Sein **Einfluss** auf das Komitee war absolut und unbestritten", "Die Politikerin verlor kürzlich ihre **Macht** über jüngere Wähler"]]
+  },
+  {
+    "lemma": "swearing",
+    "meanings_de": ["Eidesleistung", "Schimpfsprache"],
+    "definitions_de": ["Handlung, ein feierliches Versprechen abzugeben oder einen Eid zu leisten", "Verwendung beleidigender oder vulgärer Sprache, um starke Gefühle auszudrücken"],
+    "examples_de": [["Die **Vereidigung** fand heute Mittag statt", "Das **Schwören** auf die Bibel ist in vielen Gerichtssälen üblich"], ["Sein ständiges **Fluchen** beleidigte alle im Bürogebäude", "Der Trainer verbot das **Schimpfen** während der Trainingseinheiten in dieser Saison"]]
+  },
+  {
+    "lemma": "sweater",
+    "meanings_de": ["gestricktes Kleidungsstück"],
+    "definitions_de": ["gestricktes Kleidungsstück, das zum Wärmen am Oberkörper getragen und über den Kopf gezogen wird"],
+    "examples_de": [["Sie trug einen **Wollpullover**, um draußen warm zu bleiben", "Seine Großmutter strickte ihm jeden Weihnachten einen **Pullover**"]]
+  },
+  {
+    "lemma": "sweating",
+    "meanings_de": ["Schwitzvorgang"],
+    "definitions_de": ["Prozess der Feuchtigkeitsabsonderung durch Hautporen zur Körperkühlung"],
+    "examples_de": [["**Schwitzen** hilft bei heißem Wetter, die Körpertemperatur zu regulieren", "Das **Schwitzen** nahm zu, als er den Hügel hinauflief"]]
+  },
+  {
+    "lemma": "sweatshirt",
+    "meanings_de": ["lässiges Pulloverkleidungsstück"],
+    "definitions_de": ["lockeres, warmes Kleidungsstück aus weichem Stoff für lässigen Komfort"],
+    "examples_de": [["Er trug sein College-**Sweatshirt** zum Fußballspiel", "Das **Sweatshirt** hielt sie beim morgendlichen Joggen warm"]]
+  },
+  {
+    "lemma": "sweatshop",
+    "meanings_de": ["Ausbeuterbetrieb"],
+    "definitions_de": ["Fabrik oder Werkstatt mit sehr schlechten Bedingungen und niedrigen Löhnen für Arbeiter"],
+    "examples_de": [["Die **Ausbeuterfabrik** beschäftigte Kinder zwölf Stunden täglich", "Ermittler entdeckten einen **Sweatshop** versteckt im Lagerkeller"]]
+  },
+  {
+    "lemma": "swede",
+    "meanings_de": ["Steckrübengemüse", "schwedische Person"],
+    "definitions_de": ["rundes Wurzelgemüse mit gelbem Fleisch, auch Steckrübe genannt", "Person aus Schweden oder schwedischer Abstammung und Nationalität"],
+    "examples_de": [["Sie fügte **Steckrübe** zum Wintergemüsesuppenrezept hinzu", "Der Bauer erntete im Oktober **Steckrüben** vom Feld"], ["Der **Schwede** lehrte uns, traditionelle Fleischbällchen zu machen", "Mein Nachbar ist ein **Schwede**, der kürzlich hierhergezogen ist"]]
+  },
+  {
+    "lemma": "sweeper",
+    "meanings_de": ["Reinigungsperson", "Reinigungsgerät"],
+    "definitions_de": ["Person, deren Arbeit das Fegen von Böden und Sauberhalten von Bereichen umfasst", "Maschine oder Gerät zum Fegen und Säubern von Böden oder Oberflächen"],
+    "examples_de": [["Der **Straßenkehrer** begann jeden Tag vor Morgengrauen mit der Arbeit", "Sie arbeitete jahrelang als **Reinigungskraft** in der Fabrik"], ["Der **Teppichkehrer** nahm Tierhaare sehr effektiv auf", "Er kaufte eine neue **Kehrmaschine** für den Lagerboden"]]
+  },
+  {
+    "lemma": "sweeping",
+    "meanings_de": ["Reinigungsaktion", "umfassender Bereich"],
+    "definitions_de": ["Handlung des Reinigens durch Wegbürsten von Schmutz mit einem Besen", "mit breiter, umfassender oder weitreichender Wirkung oder Reichweite"],
+    "examples_de": [["Das **Fegen** dauerte eine Stunde, bis es vollständig erledigt war", "Tägliches **Kehren** hält den Ladenboden sauber und sicher"], ["Die **umfassenden** Änderungen betrafen jede Abteilung im Unternehmen", "Seine **pauschale** Aussage verärgerte viele Menschen bei der Besprechung"]]
+  },
+  {
+    "lemma": "sweetener",
+    "meanings_de": ["Zuckerersatz", "Anreizzugabe"],
+    "definitions_de": ["Substanz, die verwendet wird, um Speisen oder Getränke süß schmecken zu lassen", "etwas, das hinzugefügt wird, um ein Angebot oder Geschäft attraktiver zu machen"],
+    "examples_de": [["Sie verwendete jeden Morgen künstlichen **Süßstoff** in ihrem Kaffee", "Das Rezept verlangt Honig als natürliches **Süßungsmittel**"], ["Sie fügten einen **Bonus** hinzu, um das Geschäft abzuschließen", "Die Unterschriftsprämie war ein **Anreiz** für neue Mitarbeiter"]]
+  },
+  {
+    "lemma": "swell",
+    "meanings_de": ["Vergrößerungsanstieg", "Meereswelle"],
+    "definitions_de": ["allmähliche Zunahme von Größe, Volumen oder Intensität von etwas", "lange rollende Welle oder Wellen im offenen Meer ohne zu brechen"],
+    "examples_de": [["Die **Schwellung** an ihrem Knöchel deutete auf eine ernsthafte Verstauchung hin", "Wir bemerkten letzten Monat einen **Anstieg** der Kundenbeschwerden"], ["Die **Dünung** ließ das Boot hin und her schaukeln", "Surfer warteten geduldig auf die perfekte **Welle**"]]
+  },
+  {
+    "lemma": "swelling",
+    "meanings_de": ["vergrößertes Körperteil"],
+    "definitions_de": ["abnorme Vergrößerung eines Körperteils durch Verletzung oder Krankheit"],
+    "examples_de": [["Die **Schwellung** an seinem Knie erforderte sofortige medizinische Behandlung", "Eis hilft, die **Schwellung** nach einer Verletzung schnell zu reduzieren"]]
+  },
+  {
+    "lemma": "swerve",
+    "meanings_de": ["plötzliche Richtungsänderung"],
+    "definitions_de": ["plötzliche Änderung der Richtung oder des Kurses während der Vorwärtsbewegung"],
+    "examples_de": [["Das **Ausweichmanöver** des Autos verhinderte, das Reh zu treffen", "Sein **Schlenker** in letzter Minute verhinderte einen schweren Unfall"]]
+  },
+  {
+    "lemma": "swift",
+    "meanings_de": ["schnell fliegender Vogel"],
+    "definitions_de": ["kleiner Vogel mit langen Flügeln, der sehr schnell fliegt"],
+    "examples_de": [["Der **Mauersegler** fing Insekten während des Fluges", "**Segler** ziehen jährlich Tausende von Kilometern in wärmere Gefilde"]]
+  },
+  {
+    "lemma": "swimmer",
+    "meanings_de": ["Person, die schwimmt"],
+    "definitions_de": ["Person, die schwimmt, besonders als Sport oder zur Bewegung"],
+    "examples_de": [["Der **Schwimmer** absolvierte heute fünfzig Bahnen im Pool", "Sie ist seit ihrem sechsten Lebensjahr Wettkampf**schwimmerin**"]]
+  },
+  {
+    "lemma": "swimming",
+    "meanings_de": ["Wasserbewegungsaktivität"],
+    "definitions_de": ["Aktivität der Fortbewegung im Wasser mit Armen und Beinen"],
+    "examples_de": [["**Schwimmen** ist eine hervorragende Übung für den ganzen Körper", "Der **Schwimmunterricht** half Kindern, ihre Angst vor Wasser zu überwinden"]]
+  },
+  {
+    "lemma": "swimsuit",
+    "meanings_de": ["Schwimmbekleidung"],
+    "definitions_de": ["Kleidungsstück zum Schwimmen oder Sonnenbaden am Strand oder Pool"],
+    "examples_de": [["Sie kaufte einen neuen **Badeanzug** für die Urlaubsreise", "Sein **Badehose** trocknete schnell in der heißen Sommersonne"]]
+  },
+  {
+    "lemma": "swimwear",
+    "meanings_de": ["Schwimmkleidung"],
+    "definitions_de": ["Kleidung, die zum Schwimmen oder am Strand getragen wird"],
+    "examples_de": [["Die **Bademodenabteilung** des Geschäfts bot viele verschiedene verfügbare Stile", "Designer-**Badebekleidung** kann in Luxusgeschäften ziemlich teuer sein"]]
+  },
+  {
+    "lemma": "swindle",
+    "meanings_de": ["betrügerisches Schema"],
+    "definitions_de": ["betrügerisches Schema oder Handlung, um jemanden um Geld zu betrügen"],
+    "examples_de": [["Der **Betrug** kostete Investoren Millionen Dollar an Verlusten", "Die Polizei deckte einen **Schwindel** auf, der sich gegen ältere Hausbesitzer richtete"]]
+  },
+  {
+    "lemma": "swindler",
+    "meanings_de": ["betrügerische Person"],
+    "definitions_de": ["Person, die Täuschung anwendet, um jemanden um Geld oder Besitz zu bringen"],
+    "examples_de": [["Der **Betrüger** überzeugte sie, in eine falsche Firma zu investieren", "Ein geschickter **Schwindler** kann anfangs sehr vertrauenswürdig und legitim erscheinen"]]
+  },
+  {
+    "lemma": "swine",
+    "meanings_de": ["Schweinetiere", "verachtenswerte Person"],
+    "definitions_de": ["Schweine insgesamt, besonders wenn sie als Nutztiere gehalten werden", "verachtenswerte oder ekelhafte Person, die sich anderen gegenüber schlecht verhält"],
+    "examples_de": [["Der Bauer züchtete **Schweine** für den lokalen Fleischmarkt", "**Schweine** benötigen während der kalten Wintermonate besondere Pflege"], ["Er nannte seinen ehemaligen Partner nach dem Verrat ein **Schwein**", "Nur ein **Schwein** würde von einer Wohltätigkeitsorganisation stehlen"]]
+  },
+  {
+    "lemma": "swinger",
+    "meanings_de": ["pendelnde Person", "Lifestyle-Teilnehmer"],
+    "definitions_de": ["Person oder Sache, die regelmäßig hin und her schwingt", "Person, die am Austausch romantischer Partner mit anderen teilnimmt"],
+    "examples_de": [["Der Trapez**künstler** führte jeden Abend erstaunliche Luftkunststücke auf", "Als Schaukel**liebhaberin** liebte sie Spielplatzgeräte sehr"], ["Die **Swinger** trafen sich an Wochenendabenden in privaten Clubs", "Sie entdeckten auf der Party, dass ihre Nachbarn **Swinger** waren"]]
+  },
+  {
+    "lemma": "swinging",
+    "meanings_de": ["Hin-und-Her-Bewegung", "lebhafter Lebensstil"],
+    "definitions_de": ["Bewegung hin und her oder von Seite zu Seite", "aufregender und modischer Lebensstil, der mit Freiheit und Spaß verbunden ist"],
+    "examples_de": [["Das **Schwingen** des Pendels war immer perfekt regelmäßig", "Kinder lieben die **Schaukelbewegung** von Spielplatzschaukeln im Freien"], ["Die **wilden** Sechziger brachten große soziale Veränderungen in die Gesellschaft", "London hatte in den 1960er Jahren eine **aufregende** Szene"]]
+  },
+  {
+    "lemma": "swipe",
+    "meanings_de": ["wischender Schlag", "Kreditkartenbewegung"],
+    "definitions_de": ["wischender Schlag oder Hieb mit Hand oder Gegenstand", "Gleitbewegung einer Karte durch elektronisches Lesegerät zur Zahlung"],
+    "examples_de": [["Die Katze machte einen **Hieb** nach der baumelnden Schnur", "Ein **Wisch** mit dem Tuch reinigte die gesamte Oberfläche"], ["Ein schnelles **Durchziehen** ihrer Karte vollendete den Kauf", "Das **Durchziehen** funktionierte nicht, also steckte sie den Chip ein"]]
+  },
+  {
+    "lemma": "swirl",
+    "meanings_de": ["spiralförmige Bewegung", "spiralförmiges Muster"],
+    "definitions_de": ["wirbelnde oder drehende Bewegung von Flüssigkeit, Gas oder Objekten", "Muster aus spiralförmigen Kurven oder kreisförmiger Bewegung im Design"],
+    "examples_de": [["Der **Wirbel** der Sahne im Kaffee sah heute wunderschön aus", "In einem **Strudel** aus Wind gefangene Blätter tanzten umher"], ["Der Marmorkuchen hatte durchgehend einen Schokoladen**wirbel**", "Ihr Kleid zeigte überall einen **Wirbel** aus leuchtenden Farben"]]
+  },
+  {
+    "lemma": "swish",
+    "meanings_de": ["sanftes Geräusch", "elegante Bewegung"],
+    "definitions_de": ["sanftes Rascheln oder Zischen, das durch Bewegung entsteht", "geschmeidige, elegante Bewegung oder Art, sich anmutig zu bewegen"],
+    "examples_de": [["Das **Rascheln** ihres Seidenkleides erfüllte den stillen Raum", "Wir hörten das **Zischen** der Skier auf frischem Schnee"], ["Sie bewegte sich mit einem **Schwung**, der überall Aufmerksamkeit erregte", "Der Schweif des Pferdes bewegte sich in einem eleganten **Schwenkmuster**"]]
+  },
+  {
+    "lemma": "switchblade",
+    "meanings_de": ["Springmesser"],
+    "definitions_de": ["Messer mit Klinge, die bei Knopfdruck aus dem Griff herausspringt"],
+    "examples_de": [["Das **Springmesser** öffnete sich mit einem schnellen Klick", "Viele Orte verbieten das Tragen von **Springmessern** aus Sicherheitsgründen"]]
+  },
+  {
+    "lemma": "switchboard",
+    "meanings_de": ["Telefonvermittlungstafel"],
+    "definitions_de": ["Tafel mit Schaltern zum Verbinden mehrerer Telefonleitungen im System"],
+    "examples_de": [["Die Hotel**zentrale** bearbeitete täglich Hunderte von Anrufen", "Sie arbeitete zwanzig Jahre lang als **Telefonistin**"]]
+  },
+  {
+    "lemma": "switcher",
+    "meanings_de": ["Person die wechselt", "Umschaltgerät"],
+    "definitions_de": ["Person, die regelmäßig zwischen verschiedenen Dingen wechselt oder umschaltet", "Gerät, das elektronisch zwischen mehreren Eingängen oder Kanälen umschaltet"],
+    "examples_de": [["Als Job**wechsler** blieb er nie lange irgendwo", "Der Kanal**wechsler** schaltete zwischen Sendern auf der Suche nach Nachrichten"], ["Der Video**mischer** ermöglichte sofortige nahtlose Übergänge zwischen Kameras", "Wir brauchen einen neuen **Umschalter** für die Studioausrüstung"]]
+  },
+  {
+    "lemma": "switching",
+    "meanings_de": ["Wechselaktion", "Gleisweichenwechsel"],
+    "definitions_de": ["Vorgang des Wechsels von einer Sache, einem System oder einer Methode zu einer anderen", "Prozess der Bewegung von Zügen von einem Gleis auf ein anderes"],
+    "examples_de": [["Das **Wechseln** zwischen Aufgaben reduzierte seine Gesamtproduktivität erheblich", "Der **Umstieg** auf erneuerbare Energien wird mehrere Jahre dauern"], ["Das **Rangieren** von Zügen erfordert sorgfältige Koordination und Zeitplanung", "Das **Weichenstellen** verhindert täglich Kollisionen auf vielbefahrenen Gleissystemen"]]
+  }
+]

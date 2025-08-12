@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "tense",
+    "meanings_de": ["angespannt und nervös", "grammatische Zeitform"],
+    "definitions_de": ["in einem Zustand geistiger oder nervlicher Anspannung befindlich, wobei die Muskeln durch Stress verkrampft sind", "sich auf Verbformen beziehend, die anzeigen, wann eine Handlung zeitlich stattfindet"],
+    "examples_de": [["Die Atmosphäre war **angespannt**, bevor die Entscheidung verkündet wurde", "Ihre Schultern waren vom langen Sitzen am Computer **verspannt**"], ["Das Präteritum zeigt Handlungen, die bereits geschehen sind", "Viele Schüler haben Schwierigkeiten mit dem Present Perfect **Tempus**"]]
+  },
+  {
+    "lemma": "tensile",
+    "meanings_de": ["die Zugfestigkeit betreffend"],
+    "definitions_de": ["sich auf die Kraft beziehend, die erforderlich ist, um etwas zu dehnen, bis es reißt oder bricht"],
+    "examples_de": [["Die Brückenseile besitzen eine unglaubliche **Zugfestigkeit**", "Die Ingenieure testeten die **Zugeigenschaften** des neuen Materials"]]
+  },
+  {
+    "lemma": "tentative",
+    "meanings_de": ["unsicher und vorsichtig", "vorläufig nicht endgültig"],
+    "definitions_de": ["ohne Selbstvertrauen ausgeführt, Zögern oder Unsicherheit in der Art und Herangehensweise zeigend", "nicht sicher oder festgelegt, kann später geändert oder bestätigt werden"],
+    "examples_de": [["Sie machte einen **vorsichtigen** Schritt auf das Eis", "Sein **zaghaftes** Lächeln zeigte, dass er sich der Reaktion nicht sicher war"], ["Wir haben eine **vorläufige** Vereinbarung, die noch der endgültigen Genehmigung bedarf", "Der Zeitplan ist **vorläufig** und kann sich noch ändern"]]
+  },
+  {
+    "lemma": "tenth",
+    "meanings_de": ["Ordnungszahl zehn"],
+    "definitions_de": ["nach neun anderen in der Zählreihenfolge oder Position in einer Abfolge kommend"],
+    "examples_de": [["Sie wurde **Zehnte** im Marathonlauf", "Dies ist das **zehnte** Mal, dass ich das erkläre"]]
+  },
+  {
+    "lemma": "tenuous",
+    "meanings_de": ["schwach und substanzlos"],
+    "definitions_de": ["sehr schwach oder geringfügig, ohne Substanz oder Stärke, kaum zusammenhaltend"],
+    "examples_de": [["Ihre Verbindung war nach Jahren der Trennung bestenfalls **schwach**", "Die Beweise für seine Theorie waren äußerst **dünn**"]]
+  },
+  {
+    "lemma": "tenured",
+    "meanings_de": ["auf Lebenszeit angestellt"],
+    "definitions_de": ["eine dauerhafte Stelle innehabend, besonders als Lehrer oder Professor an einer Universität"],
+    "examples_de": [["Der **verbeamtete** Professor konnte frei sprechen ohne Angst", "Nach sechs Jahren wurde sie **fest angestelltes** Fakultätsmitglied"]]
+  },
+  {
+    "lemma": "tepid",
+    "meanings_de": ["lauwarm temperiert", "ohne Begeisterung"],
+    "definitions_de": ["nur leicht warm, lauwarm, weder heiß noch kalt in der Temperatur", "wenig Enthusiasmus oder Interesse zeigend, halbherzig in Reaktion oder Gefühl"],
+    "examples_de": [["Der Kaffee war **lauwarm** geworden, während sie arbeitete", "Das Badewasser war **lau** und unangenehm"], ["Das Publikum reagierte **verhalten** auf die Aufführung", "Seine **halbherzige** Unterstützung für das Projekt war offensichtlich"]]
+  },
+  {
+    "lemma": "terminal",
+    "meanings_de": ["am Ende befindlich", "zum Tod führend"],
+    "definitions_de": ["am Ende oder Extrempunkt von etwas bildend oder gelegen", "voraussichtlich zum Tod führend, unheilbar und tödlich bei medizinischen Zuständen"],
+    "examples_de": [["Die **Endstation** ist, wo alle Züge halten müssen", "Wir trafen uns am **Terminal** vor dem Boarding"], ["Der Arzt diagnostizierte bei ihm **unheilbaren** Krebs", "Sie pflegte **todkranke** Patienten im Hospiz"]]
+  },
+  {
+    "lemma": "terminated",
+    "meanings_de": ["beendet oder abgeschlossen"],
+    "definitions_de": ["zu einem Ende gebracht, gestoppt oder abgeschlossen, oft bezogen auf Arbeitsverhältnisse oder Verträge"],
+    "examples_de": [["Sein Arbeitsverhältnis wurde wegen Budgetkürzungen **beendet**", "Der **gekündigte** Vertrag ließ beide Parteien frei für neue Verhandlungen"]]
+  },
+  {
+    "lemma": "ternary",
+    "meanings_de": ["aus drei Teilen bestehend"],
+    "definitions_de": ["aus drei Teilen oder Elementen bestehend, auf der Zahl drei basierend"],
+    "examples_de": [["Die **dreiteilige** Form in der Musik hat drei unterschiedliche Abschnitte", "Informatiker verwenden **ternäre** Logik mit drei möglichen Werten"]]
+  },
+  {
+    "lemma": "terrestrial",
+    "meanings_de": ["die Erde betreffend", "an Land lebend"],
+    "definitions_de": ["sich auf die Erde oder ihre Bewohner beziehend im Gegensatz zum Weltraum", "auf oder im Boden lebend statt im Wasser, in Bäumen oder in der Luft"],
+    "examples_de": [["**Terrestrisches** Fernsehen sendet von bodengestützten Sendern", "Wissenschaftler untersuchen sowohl **terrestrische** als auch marine Ökosysteme"], ["Frösche sind Amphibien, aber viele Arten sind hauptsächlich **landlebend**", "**Landbewohnende** Säugetiere entwickelten sich aus Lebewesen, die das Meer verließen"]]
+  },
+  {
+    "lemma": "terrified",
+    "meanings_de": ["extrem verängstigt"],
+    "definitions_de": ["intensive Angst empfindend, so extrem verängstigt, dass man sich nicht bewegen oder klar denken kann"],
+    "examples_de": [["Das **verängstigte** Kind versteckte sich hinter seiner Mutter", "Er war **panisch**, wenn er öffentlich sprechen musste"]]
+  },
+  {
+    "lemma": "terrifying",
+    "meanings_de": ["extreme Angst verursachend"],
+    "definitions_de": ["extreme Angst oder Schrecken verursachend, in sehr hohem Maße erschreckend"],
+    "examples_de": [["Der **furchterregende** Sturm zerstörte alles auf seinem Weg", "Sie hatte ein **erschreckendes** Erlebnis beim Wandern allein"]]
+  },
+  {
+    "lemma": "territorial",
+    "meanings_de": ["das Territorium betreffend", "sein Gebiet verteidigend"],
+    "definitions_de": ["sich auf den Besitz oder die Kontrolle eines Land- oder Seegebiets beziehend", "dazu neigend, ein Gebiet gegen Eindringlinge zu verteidigen, den eigenen Raum oder Bereich schützend"],
+    "examples_de": [["Der **territoriale** Streit zwischen den Ländern dauerte Jahrzehnte", "Sie respektierten gegenseitig ihre **Hoheitsgewässer**"], ["Katzen sind sehr **revierbezogene** Tiere, die ihr Gebiet markieren", "Er wurde **territorial**, als Neulinge in sein Büro kamen"]]
+  },
+  {
+    "lemma": "terse",
+    "meanings_de": ["kurz und schroff"],
+    "definitions_de": ["sehr wenige Worte verwendend, schroff im Umgang, kurz bis zur Unhöflichkeit"],
+    "examples_de": [["Seine **knappe** Antwort zeigte, dass er noch wütend war", "Die **kurz angebundene** E-Mail des Managers verwirrte alle"]]
+  },
+  {
+    "lemma": "tertiary",
+    "meanings_de": ["an dritter Stelle"],
+    "definitions_de": ["dritter in Reihenfolge oder Ebene, nach primär und sekundär in Wichtigkeit oder Entwicklung kommend"],
+    "examples_de": [["Sie verfolgte eine **tertiäre** Ausbildung auf Universitätsniveau", "Dies ist nur eine **drittrangige** Sorge nach Sicherheit und Kosten"]]
+  },
+  {
+    "lemma": "tessellated",
+    "meanings_de": ["in Muster angeordnet"],
+    "definitions_de": ["mit einem Muster aus wiederholten Formen verziert, die ohne Lücken oder Überlappungen zusammenpassen"],
+    "examples_de": [["Der **mosaikartige** Boden zeigte kunstvolle geometrische Designs", "Künstler schufen **tesselierte** Muster inspiriert von islamischer Architektur"]]
+  },
+  {
+    "lemma": "tested",
+    "meanings_de": ["geprüft und bewährt"],
+    "definitions_de": ["durch Erfahrung oder Untersuchung erprobt und als zuverlässig erwiesen, einer Prüfung unterzogen"],
+    "examples_de": [["Dies ist eine **bewährte** Methode, die immer Ergebnisse liefert", "Die **erprobte** Formel wird seit Generationen verwendet"]]
+  },
+  {
+    "lemma": "testicular",
+    "meanings_de": ["die Hoden betreffend"],
+    "definitions_de": ["sich auf die Hoden beziehend oder diese betreffend, die männlichen Fortpflanzungsdrüsen"],
+    "examples_de": [["Regelmäßige **Hodenuntersuchungen** können Krebs früh erkennen", "Der Arzt spezialisierte sich auf **testikuläre** Gesundheitsprobleme"]]
+  },
+  {
+    "lemma": "testimonial",
+    "meanings_de": ["öffentliches Lob ausdrückend"],
+    "definitions_de": ["sich auf ein Zeugnis beziehend oder ein solches darstellend, besonders eine formelle Aussage, die jemandes Charakter oder Qualifikationen lobt"],
+    "examples_de": [["Die Firmenwebsite zeigte **Empfehlungsvideos** zufriedener Kunden", "Sie erhielt ein glänzendes **Empfehlungsschreiben** von ihrem Vorgesetzten"]]
+  },
+  {
+    "lemma": "tethered",
+    "meanings_de": ["angebunden oder verbunden"],
+    "definitions_de": ["mit einem Seil oder einer Kette gebunden, um Bewegung einzuschränken, mit etwas verbunden oder verknüpft"],
+    "examples_de": [["Das Pferd war am Zaunpfahl **angebunden**", "Ihr Handy war für Internet mit ihrem Laptop **verbunden**"]]
+  },
+  {
+    "lemma": "textile",
+    "meanings_de": ["Stoffe betreffend"],
+    "definitions_de": ["sich auf Stoffe oder die Herstellung von Stoffen durch Weben oder Stricken beziehend"],
+    "examples_de": [["Die **Textilindustrie** beschäftigt weltweit Millionen von Arbeitern", "Sie studierte **Textildesign** an der Kunsthochschule"]]
+  },
+  {
+    "lemma": "textual",
+    "meanings_de": ["den Text betreffend"],
+    "definitions_de": ["sich auf einen Text oder Texte beziehend oder darauf basierend, schriftliches Material betreffend"],
+    "examples_de": [["Der Gelehrte führte eine detaillierte **Textanalyse** des Manuskripts durch", "Sie fanden mehrere **textliche** Fehler in der Erstausgabe"]]
+  },
+  {
+    "lemma": "textured",
+    "meanings_de": ["mit fühlbarer Oberfläche"],
+    "definitions_de": ["eine bestimmte Textur oder Haptik aufweisend, nicht glatt, sondern mit einer charakteristischen Oberflächenqualität"],
+    "examples_de": [["Die **strukturierte** Tapete verlieh dem Raum Tiefe", "Sie bevorzugte **texturierte** Stoffe gegenüber glatten"]]
+  },
+  {
+    "lemma": "thankful",
+    "meanings_de": ["Dankbarkeit empfindend"],
+    "definitions_de": ["Dankbarkeit fühlend oder ausdrückend, erfreut und erleichtert über etwas"],
+    "examples_de": [["Ich bin **dankbar** für Ihre Hilfe in dieser schwierigen Zeit", "Sie war **froh**, dass der Unfall nicht schlimmer war"]]
+  },
+  {
+    "lemma": "thawed",
+    "meanings_de": ["nicht mehr gefroren"],
+    "definitions_de": ["flüssig oder weich geworden nach dem Gefrorensein, aus einem gefrorenen Zustand erwärmt"],
+    "examples_de": [["Das **aufgetaute** Hähnchen war bereit zum Kochen", "Nachdem sie **aufgetaut** waren, funktionierten die Rohre wieder"]]
+  },
+  {
+    "lemma": "theatrical",
+    "meanings_de": ["das Theater betreffend", "übertrieben und dramatisch"],
+    "definitions_de": ["sich auf Schauspielerei, Schauspieler oder das Theater als Unterhaltungsform beziehend", "übertrieben und übermäßig dramatisch in der Art, darauf ausgelegt, Aufmerksamkeit zu erregen"],
+    "examples_de": [["Ihre **schauspielerische** Ausbildung zeigte sich in jeder Aufführung", "Die **theatralische** Produktion erforderte monatelange Vorbereitung"], ["Seine **theatralischen** Gesten brachten alle zum Lachen", "Sie machte einen **dramatischen** Abgang und knallte die Tür"]]
+  },
+  {
+    "lemma": "theistic",
+    "meanings_de": ["an Gott glaubend"],
+    "definitions_de": ["sich auf den Glauben an die Existenz eines Gottes oder von Göttern beziehend oder dadurch gekennzeichnet"],
+    "examples_de": [["Die meisten **theistischen** Religionen teilen bestimmte moralische Prinzipien", "Seine **gottgläubige** Weltanschauung beeinflusste alle seine Entscheidungen"]]
+  },
+  {
+    "lemma": "thematic",
+    "meanings_de": ["das Thema betreffend"],
+    "definitions_de": ["sich auf Themen beziehend oder darauf basierend, durch ein gemeinsames Thema oder eine Idee verbunden"],
+    "examples_de": [["Das Museum organisierte eine **thematische** Ausstellung zum Klimawandel", "Lehrer verwendeten **thematische** Einheiten, um verschiedene Fächer zu integrieren"]]
+  },
+  {
+    "lemma": "theocratic",
+    "meanings_de": ["von Religion regiert"],
+    "definitions_de": ["sich auf ein Regierungssystem beziehend oder dieses bezeichnend, in dem Priester oder religiöse Führer im Namen Gottes herrschen"],
+    "examples_de": [["Einige alte Zivilisationen hatten **theokratische** Regierungen", "Der **theokratische** Staat setzte religiöse Gesetze durch"]]
+  },
+  {
+    "lemma": "theological",
+    "meanings_de": ["die Theologie betreffend"],
+    "definitions_de": ["sich auf das Studium der Religion und des religiösen Glaubens beziehend, die Natur Gottes und religiöse Wahrheit betreffend"],
+    "examples_de": [["Sie verfolgte **theologische** Studien am Priesterseminar", "Die **theologische** Debatte dauerte stundenlang"]]
+  },
+  {
+    "lemma": "theoretic",
+    "meanings_de": ["auf Theorie basierend"],
+    "definitions_de": ["sich mit Theorien statt mit deren praktischen Anwendungen beschäftigend, nur in der Theorie existierend"],
+    "examples_de": [["Sein Ansatz war rein **theoretisch** ohne praktische Tests", "Das **theoretische** Gerüst benötigte eine Validierung in der realen Welt"]]
+  },
+  {
+    "lemma": "therapeutic",
+    "meanings_de": ["heilende Wirkung habend"],
+    "definitions_de": ["sich auf die Heilung von Krankheiten beziehend oder eine wohltuende Wirkung auf Körper oder Geist habend"],
+    "examples_de": [["Massage hat **therapeutische** Vorteile für verspannte Muskeln", "Sie fand Gartenarbeit **heilsam** nach stressigen Tagen"]]
+  },
+  {
+    "lemma": "thermal",
+    "meanings_de": ["die Wärme betreffend"],
+    "definitions_de": ["sich auf Wärme oder Temperatur beziehend, durch Wärme verursacht oder Wärme erzeugend"],
+    "examples_de": [["Die **Wärmebildkamera** erkannte Wärmesignaturen", "Sie trug **Thermounterwäsche** bei kaltem Wetter"]]
+  },
+  {
+    "lemma": "thermonuclear",
+    "meanings_de": ["Kernfusion nutzend"],
+    "definitions_de": ["sich auf Kernreaktionen beziehend, die bei sehr hohen Temperaturen auftreten, besonders in Wasserstoffbomben oder Sternkernen"],
+    "examples_de": [["Die Sonne erzeugt Energie durch **thermonukleare** Fusion", "Wissenschaftler untersuchten **thermonukleare** Reaktionen unter Laborbedingungen"]]
+  },
+  {
+    "lemma": "thespian",
+    "meanings_de": ["das Drama betreffend"],
+    "definitions_de": ["sich auf Drama und Theater beziehend, besonders auf formelle oder affektierte Weise"],
+    "examples_de": [["Ihre **schauspielerischen** Talente zeigten sich seit der Kindheit", "Die **Theatergruppe** führte jeden Sommer Shakespeare auf"]]
+  },
+  {
+    "lemma": "thickened",
+    "meanings_de": ["dichter gemacht"],
+    "definitions_de": ["dick oder dicker in der Konsistenz gemacht oder geworden, in Dichte oder Viskosität erhöht"],
+    "examples_de": [["Die Soße wurde nach einstündigem Köcheln **eingedickt**", "Seine **verdickten** Arterien erforderten sofortige medizinische Behandlung"]]
+  },
+  {
+    "lemma": "thickening",
+    "meanings_de": ["dichter werdend"],
+    "definitions_de": ["dick oder dicker werdend, in Dichte, Breite oder Konsistenz zunehmend"],
+    "examples_de": [["Der **dichter werdende** Nebel machte das Fahren gefährlich", "Fügen Sie Mehl als **Verdickungsmittel** zur Suppe hinzu"]]
+  },
+  {
+    "lemma": "thieving",
+    "meanings_de": ["gewohnheitsmäßig stehlend"],
+    "definitions_de": ["zum Stehlen neigend, durch Diebstahl oder die Praxis des Stehlens gekennzeichnet"],
+    "examples_de": [["Die **diebischen** Waschbären plünderten jede Nacht unseren Müll", "Seine **kleptomanischen** Wege brachten ihn schließlich ins Gefängnis"]]
+  },
+  {
+    "lemma": "thinned",
+    "meanings_de": ["weniger dicht gemacht"],
+    "definitions_de": ["weniger dick, dicht oder zahlreich gemacht oder geworden durch Entfernung oder Verringerung"],
+    "examples_de": [["Die **verdünnte** Farbe ließ sich leichter verteilen", "Die Menge hatte sich bis Mitternacht **gelichtet**"]]
+  },
+  {
+    "lemma": "third",
+    "meanings_de": ["Ordnungszahl drei"],
+    "definitions_de": ["nach zwei anderen in Zählreihenfolge, Position oder Zeit kommend"],
+    "examples_de": [["Sie kam auf den **dritten** Platz im Wettbewerb", "Dies ist mein **dritter** Versuch mit dem Rezept"]]
+  },
+  {
+    "lemma": "thirsty",
+    "meanings_de": ["Durst habend", "begierig verlangend"],
+    "definitions_de": ["ein Bedürfnis zu trinken fühlend, einen trockenen Mund und Hals durch Flüssigkeitsmangel habend", "ein starkes Verlangen nach etwas habend, eifrig etwas wollend oder begehrend"],
+    "examples_de": [["Die **durstigen** Läufer griffen an jeder Station nach Wasser", "Die Arbeit in der Hitze machte alle **durstig**"], ["Sie war **wissbegierig** über verschiedene Kulturen", "Der **durstige** Boden saugte den Regen sofort auf"]]
+  },
+  {
+    "lemma": "thirteen",
+    "meanings_de": ["Zahl nach zwölf"],
+    "definitions_de": ["entspricht der Summe von sechs und sieben, eins mehr als zwölf"],
+    "examples_de": [["Es waren **dreizehn** Personen am Esstisch", "Viele Gebäude überspringen die **dreizehnte** Etage"]]
+  },
+  {
+    "lemma": "thirteenth",
+    "meanings_de": ["Ordnungszahl dreizehn"],
+    "definitions_de": ["nach zwölf anderen in Zählreihenfolge oder Position kommend"],
+    "examples_de": [["Freitag der **Dreizehnte** gilt bei manchen als Unglückstag", "Der **dreizehnte** Verfassungszusatz schaffte die Sklaverei ab"]]
+  },
+  {
+    "lemma": "thirtieth",
+    "meanings_de": ["Ordnungszahl dreißig"],
+    "definitions_de": ["nach neunundzwanzig anderen in Zählreihenfolge oder Position kommend"],
+    "examples_de": [["Sie feierten ihren **dreißigsten** Hochzeitstag", "Der **dreißigste** April beendet den Monat"]]
+  },
+  {
+    "lemma": "thirty",
+    "meanings_de": ["Zahl nach neunundzwanzig"],
+    "definitions_de": ["entspricht drei mal zehn, die Zahl zwischen neunundzwanzig und einunddreißig"],
+    "examples_de": [["Das Meeting wird **dreißig** Minuten dauern", "Sie wurde gestern **dreißig** Jahre alt"]]
+  },
+  {
+    "lemma": "thorny",
+    "meanings_de": ["scharfe Spitzen habend", "Schwierigkeiten verursachend"],
+    "definitions_de": ["viele Dornen oder scharfe Vorsprünge habend, stachelig mit spitzen Auswüchsen", "Schwierigkeiten oder Meinungsverschiedenheiten verursachend, Probleme darstellend, die schwer zu lösen sind"],
+    "examples_de": [["Der **dornige** Rosenbusch zerkratzte ihre Arme", "**Stachelige** Wüstenpflanzen schützen sich vor Tieren"], ["Einwanderung bleibt ein **heikles** politisches Thema", "Sie standen vor dem **kniffligen** Problem der Budgetverteilung"]]
+  },
+  {
+    "lemma": "thorough",
+    "meanings_de": ["vollständig und sorgfältig"],
+    "definitions_de": ["vollständig in Bezug auf jedes Detail, nicht oberflächlich oder teilweise, umfassend durchgeführt"],
+    "examples_de": [["Der Detektiv führte eine **gründliche** Untersuchung durch", "Sie erledigte eine **sorgfältige** Arbeit beim Hausputz"]]
+  },
+  {
+    "lemma": "thoroughbred",
+    "meanings_de": ["reinrassiges Rennpferd", "hochwertig verfeinert"],
+    "definitions_de": ["ein Pferd reiner Rasse, besonders eines, das für Rennen mit dokumentierter Abstammung gezüchtet wurde", "von herausragender Qualität, Merkmale guter Zucht oder Verfeinerung zeigend"],
+    "examples_de": [["Das **Vollblutpferd** gewann drei große Rennen", "Sie besuchten eine **Vollblutzucht** in Kentucky"], ["Sie hatte die **edle** Eleganz alter Aristokratie", "Seine **vornehmen** Manieren beeindruckten alle beim Abendessen"]]
+  },
+  {
+    "lemma": "thoughtful",
+    "meanings_de": ["Rücksicht zeigend", "in Gedanken vertieft"],
+    "definitions_de": ["Rücksicht auf die Bedürfnisse anderer Menschen zeigend, freundlich und hilfsbereit", "in tiefe Gedanken verwickelt oder diese beinhaltend, nachdenklich und reflektierend in der Art"],
+    "examples_de": [["Seine **aufmerksame** Geste, Blumen mitzubringen, erhellte ihren Tag", "Sie war immer **rücksichtsvoll** und erinnerte sich an Geburtstage"], ["Er hatte einen **nachdenklichen** Ausdruck beim Lösen des Rätsels", "Ihre **durchdachte** Analyse enthüllte neue Einsichten"]]
+  }
+]

@@ -1,0 +1,296 @@
+[
+  {
+    "lemma": "icing",
+    "meanings_de": ["süße Kuchenglasur", "Flugzeugvereisung"],
+    "definitions_de": ["süße Mischung aus Zucker und Flüssigkeit, die zum Überziehen und Verzieren von Kuchen und Gebäck verwendet wird", "gefährliche Eisschicht, die sich während des Fluges auf Flugzeugoberflächen bildet und die Flugsicherheit beeinträchtigen kann"],
+    "examples_de": [["Sie verteilte die Schokoladen**glasur** gleichmäßig auf dem Geburtstagskuchen", "Die Hochzeitstorte hatte eine kunstvolle weiße **Zuckerglasur** mit filigranen Blüten"], ["Der Pilot meldete starke **Vereisung** an den Tragflächen während des Sturms", "Die **Flugzeugvereisung** kann die Flugleistung erheblich beeinträchtigen"]]
+  },
+  {
+    "lemma": "iconoclasm",
+    "meanings_de": ["Traditionszerstörung", "Bildersturm"],
+    "definitions_de": ["Praxis des Angreifens oder Verwerfens geschätzter Überzeugungen, Traditionen oder etablierter Institutionen, die als falsch oder veraltet angesehen werden", "historische Bewegung der Zerstörung religiöser Bilder oder Ikonen, die als ketzerisch oder götzendienerisch betrachtet wurden"],
+    "examples_de": [["Sein politischer **Bildersturm** stellte jede traditionelle Regierungspolitik in Frage", "Der künstlerische **Ikonoklasmus** der Avantgarde schockierte das konservative Kunstestablishment"], ["Der byzantinische **Bildersturm** führte zur Zerstörung unzähliger religiöser Kunstwerke", "Die Reformation beinhaltete Phasen des religiösen **Ikonoklasmus** in ganz Europa"]]
+  },
+  {
+    "lemma": "iconoclast",
+    "meanings_de": ["Traditionsbrecher", "Bilderstürmer"],
+    "definitions_de": ["Person, die geschätzte Überzeugungen, traditionelle Institutionen oder etablierte Praktiken angreift oder kritisiert", "historische Figur, die während ikonoklastischer Bewegungen religiöse Bilder zerstörte oder deren Verehrung ablehnte"],
+    "examples_de": [["Die junge Unternehmerin war eine **Bilderstürmerin**, die traditionelle Geschäftsmodelle durchbrach", "Sie wurde zur **Ikonokласtin** im medizinischen Bereich durch ihre revolutionären Ideen"], ["Byzantinische **Bilderstürmer** zerstörten unzählige religiöse Kunstwerke in Kirchen", "Die **Ikonoklasten** glaubten, dass religiöse Bilder Götzendienst förderten"]]
+  },
+  {
+    "lemma": "iconography",
+    "meanings_de": ["Symbolkunde", "Bildsammlung"],
+    "definitions_de": ["visuelle Bilder, Symbole oder Darstellungsweisen, die kollektiv mit einer Person, Bewegung oder Kultur verbunden sind", "Studium oder Interpretation visueller Bilder und Symbole, besonders in Kunst und religiösen Kontexten"],
+    "examples_de": [["Die **Ikonographie** des alten Ägyptens umfasst Hieroglyphen und symbolische Bildsprache", "Religiöse **Bildsprache** hilft Betrachtern, die Bedeutung sakraler Kunst zu verstehen"], ["Das Museum zeigte die vollständige **Ikonographie** mittelalterlicher christlicher Kunst", "Die **Symbolik** der Popkultur umfasst sofort erkennbare Zeichen und Bilder"]]
+  },
+  {
+    "lemma": "idealism",
+    "meanings_de": ["philosophische Geisteslehre", "unrealistischer Optimismus"],
+    "definitions_de": ["philosophische Theorie, dass die Realität grundsätzlich geistig, spirituell oder erfahrungsbasiert ist und nicht materiell", "Praxis der Bildung oder Verfolgung von Idealen, besonders unrealistisch hoher Standards oder edler Prinzipien"],
+    "examples_de": [["Der deutsche **Idealismus** beeinflusste das philosophische Denken des neunzehnten Jahrhunderts maßgeblich", "Platons **Ideenlehre** postuliert, dass die wahre Realität in perfekten Formen existiert"], ["Ihr jugendlicher **Idealismus** ließ sie glauben, sie könne die Welt verändern", "Politischer **Idealismus** kollidiert oft mit den harten Realitäten des Regierens"]]
+  },
+  {
+    "lemma": "idealist",
+    "meanings_de": ["Visionär", "philosophischer Ideenvertreter"],
+    "definitions_de": ["Person, die von Idealen geleitet wird, besonders jemand, der hohe oder edle Prinzipien verfolgt", "Philosoph, der glaubt, dass die Realität grundsätzlich auf Geist oder Ideen basiert und nicht auf materiellen Dingen"],
+    "examples_de": [["Der junge **Idealist** trat dem Friedenskorps bei, um Gemeinden zu helfen", "Sie blieb trotz zahlreicher politischer Rückschläge eine überzeugte **Idealistin**"], ["Berkeley war ein **Idealist**, der argumentierte, dass materielle Objekte nicht existieren", "Deutsche **Idealisten** wie Hegel transformierten das europäische philosophische Denken grundlegend"]]
+  },
+  {
+    "lemma": "idealization",
+    "meanings_de": ["perfekte Darstellung"],
+    "definitions_de": ["Prozess, etwas als perfekt oder besser darzustellen oder zu betrachten, als es in der Realität tatsächlich ist"],
+    "examples_de": [["Seine **Idealisierung** des Landlebens ignorierte dessen viele Härten vollständig", "Die **Verklärung** der menschlichen Form durch den Künstler schuf unmöglich perfekte Figuren"], ["Die mediale **Idealisierung** von Beziehungen schafft unrealistische Erwartungen bei vielen Menschen", "Ihre **Verklärung** des verstorbenen Vaters verhinderte ehrliche Familiengespräche"]]
+  },
+  {
+    "lemma": "ideation",
+    "meanings_de": ["Ideenfindungsprozess"],
+    "definitions_de": ["Bildung von Ideen oder Konzepten, besonders in kreativen oder problemlösenden Kontexten innerhalb von Organisationen oder Therapie"],
+    "examples_de": [["Das Designteam verbrachte Stunden in **Ideenfindungs**-Sitzungen, um Lösungen zu entwickeln", "Suizidale **Gedankenbildung** erfordert sofortige professionelle psychologische Intervention"], ["Kreative **Ideenentwicklung**s-Workshops helfen Unternehmen, innovative Produktkonzepte zu entwickeln", "Der Therapeut bewertete die **Gedankenmuster** des Patienten während der Beratungssitzungen"]]
+  },
+  {
+    "lemma": "identifier",
+    "meanings_de": ["Unterscheidungsmerkmal", "Computerdatenbezeichnung"],
+    "definitions_de": ["etwas, das eine Person, Sache oder Kategorie von anderen identifiziert oder unterscheidet", "Zeichenfolge, die verwendet wird, um ein Programm, eine Datei, einen Benutzer oder ein Datenelement in der Informatik zu identifizieren"],
+    "examples_de": [["Ihre Mitarbeiter**kennung** wird für den Gebäudezugang benötigt", "Die eindeutige **Identifikationsnummer** hilft, Pakete während des Versandprozesses zu verfolgen"], ["Jede Variable benötigt einen eindeutigen **Bezeichner** im Programmcode", "Das System weist jedem Benutzerkonto automatisch eine **Kennung** zu"]]
+  },
+  {
+    "lemma": "ideologue",
+    "meanings_de": ["dogmatischer Anhänger"],
+    "definitions_de": ["Person, die starr an einer bestimmten Ideologie festhält, besonders in der Politik, oft mit extremen oder kompromisslosen Ansichten"],
+    "examples_de": [["Der politische **Ideologe** weigerte sich, gegensätzliche Standpunkte überhaupt zu berücksichtigen", "Partei**ideologen** drängten jedes Jahr auf zunehmend extreme politische Positionen"], ["Der Wirtschafts**ideologe** ignorierte praktische Beweise, die seinen Theorien widersprachen", "Religiöse **Ideologen** geraten oft mit gemäßigten Mitgliedern ihres Glaubens aneinander"]]
+  },
+  {
+    "lemma": "idiom",
+    "meanings_de": ["bildlicher Ausdruck"],
+    "definitions_de": ["Gruppe von Wörtern, deren Bedeutung durch den Gebrauch festgelegt ist und nicht aus den einzelnen Wörtern abgeleitet werden kann"],
+    "examples_de": [["Die **Redewendung** 'ins Gras beißen' bedeutet eigentlich sterben", "Englischlernende haben oft Schwierigkeiten mit **Idiomen** wie 'It's raining cats and dogs'"], ["Regionale **Redensarten** können Besucher verwirren, die sie wörtlich nehmen", "Das **Idiom** 'den Nagel auf den Kopf treffen' beschreibt eine treffende Aussage"]]
+  },
+  {
+    "lemma": "idle",
+    "meanings_de": ["Untätigkeitszustand"],
+    "definitions_de": ["Zustand, in dem man für eine bestimmte Zeit nicht aktiv, beschäftigt oder in Gebrauch ist"],
+    "examples_de": [["Die Fabrikmaschinen standen während des wirtschaftlichen Abschwungs im **Leerlauf**", "Arbeiter beklagten sich über lange **Stillstandszeiten** zwischen den Produktionsläufen"], ["Der Automotor sollte nicht für längere Zeit im **Leerlauf** gelassen werden", "Während **untätiger** Momente skizzierte sie still in ihrem Notizbuch"]]
+  },
+  {
+    "lemma": "idler",
+    "meanings_de": ["Faulenzer", "Umlenkrolle"],
+    "definitions_de": ["Person, die Arbeit vermeidet oder ihre Zeit mit nichts Produktivem oder Nützlichem verbringt", "Rad oder Rolle, die sich frei dreht und dazu dient, einen Riemen oder eine Kette zu führen oder zu spannen"],
+    "examples_de": [["Der Dorf**müßiggänger** verbrachte seine Tage sitzend vor dem Café", "Sei kein **Faulenzer**, wenn es wichtige Arbeit zu erledigen gibt"], ["Die **Umlenkrolle** des Förderbandes musste nach jahrelangem Gebrauch ersetzt werden", "Justieren Sie die **Spannrolle**, um die richtige Kettenspannung am Fahrrad aufrechtzuerhalten"]]
+  },
+  {
+    "lemma": "idling",
+    "meanings_de": ["Motorleerlauf"],
+    "definitions_de": ["Zustand eines Motors, der langsam läuft, während er von einer Last getrennt oder ausgekuppelt ist"],
+    "examples_de": [["Das Taxi stand mit laufendem Motor im **Leerlauf** und wartete auf Fahrgäste", "Übermäßiger **Leerlauf** verschwendet Kraftstoff und erhöht die Luftverschmutzung in Städten"], ["Der Bootsmotor lief ruhig im **Leerlauf** am Steg vor der Abfahrt", "Moderne Autos verbrauchen im **Leerlauf** weniger Kraftstoff als ältere Modelle"]]
+  },
+  {
+    "lemma": "idol",
+    "meanings_de": ["verehrtes Götzenbild", "bewunderte Person"],
+    "definitions_de": ["physisches Objekt oder Bild, das als Gottheit oder Darstellung eines Gottes verehrt wird", "Person, die sehr bewundert, geliebt oder verehrt wird, besonders eine Berühmtheit oder ein Künstler"],
+    "examples_de": [["Alte Zivilisationen schufen aufwendige **Götzenbilder** aus Gold und Edelsteinen", "Das goldene **Idol** wurde nach Jahrhunderten in den Tempelruinen entdeckt"], ["Der Popstar wurde zum **Idol** für Millionen von jugendlichen Fans", "Sport**idole** inspirieren junge Athleten, ihre Träume leidenschaftlich zu verfolgen"]]
+  },
+  {
+    "lemma": "idolatry",
+    "meanings_de": ["Götzenverehrung", "übermäßige Bewunderung"],
+    "definitions_de": ["Verehrung von Götzen, Bildern oder physischen Objekten als Darstellungen von Gottheiten", "übermäßige Bewunderung, Liebe oder Verehrung für etwas oder jemanden in extremem Maße"],
+    "examples_de": [["Der Prophet verurteilte die **Götzenverehrung** und forderte die Anbetung eines Gottes", "Antike **Götzendienstrituale** beinhalteten regelmäßige Opfergaben an geschnitzte Steinfiguren"], ["Seine **Vergötterung** des Reichtums führte dazu, dass er Familienbeziehungen opferte", "Die **Idolatrie** von Prominenten hat in der modernen Gesellschaft ungesunde Ausmaße erreicht"]]
+  },
+  {
+    "lemma": "idyll",
+    "meanings_de": ["friedliche Szene", "romantisches Zwischenspiel"],
+    "definitions_de": ["extrem glückliche, friedliche oder malerische Episode oder Szene, typischerweise idealisiert oder nicht nachhaltig", "kurzes Gedicht oder Prosastück, das eine malerische Szene oder Begebenheit beschreibt, besonders aus dem ländlichen Leben"],
+    "examples_de": [["Ihr Sommerhaus bot eine **Idylle** abseits vom Stadtstress", "Die ländliche **Idylle** wurde durch Nachrichten vom nahenden Krieg zerstört"], ["Ihr kurzes romantisches **Idyll** endete, als die Realität sich einmischte", "Der Dichter schrieb eine **Idylle**, die die einfachen Landfreuden wunderschön feierte"]]
+  },
+  {
+    "lemma": "igloo",
+    "meanings_de": ["Schneekuppelunterkunft"],
+    "definitions_de": ["kuppelförmige Behausung aus massiven Schneeblöcken, traditionell von Inuit-Völkern genutzt"],
+    "examples_de": [["Die Jäger bauten ein **Iglu** als Schutz während der Arktisexpedition", "Der traditionelle **Iglu**bau erfordert spezifisches Wissen über Schneeeigenschaften"], ["Die Kinder bauten nach dem Schneefall ein kleines **Iglu** im Hinterhof", "Museumsausstellungen zeigen, wie **Iglus** bei Minustemperaturen Wärme boten"]]
+  },
+  {
+    "lemma": "ignition",
+    "meanings_de": ["Verbrennungsbeginn", "Fahrzeugstartsystem"],
+    "definitions_de": ["Vorgang des Entzündens oder des Beginns der Verbrennung durch Hitze oder Funken", "Mechanismus zum Zünden des explosiven Gemischs in den Zylindern eines Verbrennungsmotors"],
+    "examples_de": [["Die **Entzündung** trockener Blätter führte zur Ausbreitung des Waldbrands", "Spontane **Selbstentzündung** kann bei in Hitze gelassenen öligen Lappen auftreten"], ["Drehen Sie den Schlüssel im **Zündschloss**, um den Motor zu starten", "Der Mechaniker ersetzte gestern Nachmittag die defekten **Zündanlage**nkomponenten"]]
+  },
+  {
+    "lemma": "iguana",
+    "meanings_de": ["tropische Echse"],
+    "definitions_de": ["große tropische amerikanische Echse mit einem stacheligen Kamm entlang des Rückens und grünlicher Färbung"],
+    "examples_de": [["Der grüne **Leguan** sonnte sich am Nachmittag auf einem Felsen", "Wilde **Leguane** sind in mittel- und südamerikanischen Wäldern häufig"], ["Haus**leguane** benötigen spezielle Pflege einschließlich Wärmelampen und richtiger Ernährung", "Der Meeres**leguan** ist einzigartig für das Ökosystem der Galapagosinseln"]]
+  },
+  {
+    "lemma": "ilk",
+    "meanings_de": ["Art oder Sorte"],
+    "definitions_de": ["Art, Sorte oder Klasse von Menschen oder Dingen, die ähnliche Eigenschaften oder Qualitäten teilen"],
+    "examples_de": [["Politiker **seines Schlages** halten ihre Wahlversprechen selten ehrlich ein", "Mit Leuten **dieser Art** verkehre ich heutzutage nicht mehr"], ["Restaurants **dieser Kategorie** bedienen ausschließlich wohlhabende Kundschaft", "Schriftsteller **ihrer Art** konzentrieren sich auf tiefe psychologische Charakterentwicklung"]]
+  },
+  {
+    "lemma": "ill",
+    "meanings_de": ["Schaden oder Unglück"],
+    "definitions_de": ["Schaden, Übel oder Unglück, das jemanden oder etwas in verschiedenen Formen betrifft"],
+    "examples_de": [["Die Politikänderung brachte den Gemeinden mehr **Schaden** als Nutzen", "Sie wünschte ihm trotz ihrer vergangenen Meinungsverschiedenheiten nichts **Böses**"], ["Soziale **Übel** wie Armut erfordern umfassende Lösungen von Regierungsführern", "Der Arzt arbeitete unermüdlich daran, die **Leiden** der Gesellschaft durch Medizin zu heilen"]]
+  },
+  {
+    "lemma": "illegality",
+    "meanings_de": ["Gesetzwidrigkeit"],
+    "definitions_de": ["Zustand oder Eigenschaft, gegen das Gesetz, Regeln oder Vorschriften zu verstoßen oder verboten zu sein"],
+    "examples_de": [["Die **Rechtswidrigkeit** des Vertrags wurde während der Prüfung offensichtlich", "Anwälte stritten über die **Gesetzwidrigkeit** des staatlichen Überwachungsprogramms"], ["Das Unternehmen sah sich wegen **Illegalität** in ihren Einstellungspraktiken Anklagen gegenüber", "Fragen der **Rechtswidrigkeit** tauchten bei der Prüfung der Finanztransaktionen auf"]]
+  },
+  {
+    "lemma": "illegitimacy",
+    "meanings_de": ["unrechtmäßiger Status", "nichteheliche Geburt"],
+    "definitions_de": ["Zustand, nicht gesetzlich autorisiert zu sein oder nicht mit akzeptierten Standards übereinzustimmen", "Zustand, von Eltern geboren zu sein, die nicht miteinander verheiratet sind"],
+    "examples_de": [["Die **Unrechtmäßigkeit** des Regimes führte schnell zu internationalen Sanktionen", "Verfassungsrechtler debattierten die **Illegitimität** der beanspruchten Notstandsbefugnisse"], ["Historische **Unehelichkeit** brachte soziale Stigmatisierung für Kinder und Mütter mit sich", "Der Roman erforscht Themen der **Illegitimität** in der viktorianischen Gesellschaft gründlich"]]
+  },
+  {
+    "lemma": "illegitimate",
+    "meanings_de": ["unrechtmäßige Person oder Sache"],
+    "definitions_de": ["Person oder Sache, die nicht gesetzlich autorisiert ist oder nicht den akzeptierten Regeln oder Standards entspricht"],
+    "examples_de": [["Der **illegitime** Thronanwärter wurde schnell entlarvt und ins Exil geschickt", "Die Sicherheit identifizierte mehrere **ungültige** Tickets am Eingang des Konzertveranstaltungsortes"], ["Das Komitee erklärte die Wahlergebnisse wegen Betrugs für **illegitim**", "Ein **unrechtmäßiges** Geschäft operierte jahrelang ohne ordnungsgemäße Lizenzen"]]
+  },
+  {
+    "lemma": "illiteracy",
+    "meanings_de": ["Unfähigkeit zu lesen"],
+    "definitions_de": ["Unfähigkeit zu lesen oder zu schreiben oder mangelndes Wissen in einem bestimmten Fach oder Bereich"],
+    "examples_de": [["**Analphabetismus** bei Erwachsenen bleibt in vielen Entwicklungsländern ein erhebliches Problem", "Die Wohltätigkeitsorganisation konzentriert sich auf die Bekämpfung des **Analphabetismus** durch kostenlose Bildungsprogramme"], ["Finanzielle **Unkenntnis** führt viele Menschen in Schulden und schlechte Investitionen", "Computer**analphabetismus** begrenzt Jobmöglichkeiten in der modernen digitalen Wirtschaft"]]
+  },
+  {
+    "lemma": "illiterate",
+    "meanings_de": ["Analphabet"],
+    "definitions_de": ["Person, die nicht lesen oder schreiben kann oder der es an Wissen in einem bestimmten Bereich mangelt"],
+    "examples_de": [["Der **analphabetische** Bauer verließ sich darauf, dass seine Kinder wichtige Dokumente vorlasen", "Viele **Analphabeten** schämen sich und verbergen ihre Unfähigkeit effektiv"], ["Er war trotz seines fortgeschrittenen Ingenieurabschlusses finanziell **unkundig**", "Computer**analphabeten** hatten täglich Schwierigkeiten mit den neuen digitalen Systemen"]]
+  },
+  {
+    "lemma": "illumination",
+    "meanings_de": ["Lichtversorgung", "dekorative Beleuchtung", "spirituelle Erleuchtung"],
+    "definitions_de": ["Beleuchtung oder Licht, das bereitgestellt wird, um etwas für praktische Zwecke sichtbar oder hell zu machen", "dekorative farbige Lichter, die verwendet werden, um das Aussehen von Gebäuden oder Räumen zu verbessern", "Klärung oder spirituelle Erleuchtung, die das Verständnis von Wahrheit oder Wissen hilft"],
+    "examples_de": [["Die Straßen**beleuchtung** verbesserte die Sicherheit in der Nachbarschaft erheblich", "Angemessene **Ausleuchtung** ist für detaillierte Kunstrestaurierungsarbeiten unerlässlich"], ["Die **Illumination** des Schlosses während der Festtage zieht jährlich Tausende von Touristen an", "Die weihnachtliche **Festbeleuchtung** verwandelt die Stadt in ein magisches Wunderland"], ["Die Erklärung des Lehrers brachte **Erleuchtung** über das komplexe Thema", "Meditation brachte dem beunruhigten Suchenden allmählich spirituelle **Erleuchtung**"]]
+  },
+  {
+    "lemma": "illusionist",
+    "meanings_de": ["Zauberkünstler"],
+    "definitions_de": ["Unterhaltungskünstler, der Tricks und Illusionen aufführt, um scheinbar unmögliche oder übernatürliche Kunststücke zu schaffen"],
+    "examples_de": [["Der berühmte **Illusionist** ließ heute Abend einen Elefanten auf der Bühne verschwinden", "Professionelle **Zauberkünstler** hüten ihre Geheimnisse und Methoden immer sehr sorgfältig"], ["Der Straßen**zauberer** verblüffte die Menge mit einfachen, aber effektiven Kartentricks", "Meister**illusionisten** kombinieren Showkunst mit technischem Können und Ablenkung effektiv"]]
+  },
+  {
+    "lemma": "illustrator",
+    "meanings_de": ["Bildkünstler"],
+    "definitions_de": ["Künstler, der Bilder, Zeichnungen oder Designs erstellt, um geschriebenen Text zu begleiten oder zu verbessern"],
+    "examples_de": [["Der Kinderbuch**illustrator** erweckte die Geschichte wunderschön zum Leben", "Mode**illustratoren** skizzieren regelmäßig Designs für Zeitschriften und Werbekampagnen"], ["Der medizinische **Illustrator** erstellt präzise detaillierte anatomische Zeichnungen für Lehrbücher", "Freiberufliche **Illustratoren** arbeiten oft gleichzeitig an mehreren Projekten über Monate"]]
+  },
+  {
+    "lemma": "imagery",
+    "meanings_de": ["visuelle Darstellungen", "bildhafte Sprache"],
+    "definitions_de": ["visuelle Bilder insgesamt, besonders in Kunst, Medien oder mentale Bilder, die in der Vorstellung gebildet werden", "bildhafte Sprache, besonders Metaphern und Vergleiche, die in der Literatur verwendet werden, um Ideen darzustellen"],
+    "examples_de": [["Die dunkle **Bildsprache** des Films schuf durchgehend eine Atmosphäre der Spannung", "Satelliten**bilder** helfen Wissenschaftlern, Umweltveränderungen über Zeit zu überwachen"], ["Die lebendige **Bildsprache** des Dichters transportierte Leser sofort in ferne Landschaften", "Religiöse **Bildsymbolik** erscheint häufig in Gemälden und Skulpturen der Renaissance"]]
+  },
+  {
+    "lemma": "imaginary",
+    "meanings_de": ["fiktives Element"],
+    "definitions_de": ["etwas, das nur in der Vorstellung oder Fantasie existiert und nicht in der physischen Realität"],
+    "examples_de": [["Kinder haben oft **imaginäre** Freunde während ihrer frühen Entwicklungsjahre", "Der Romanautor erschuf eine **Fantasiewelt** mit ihren eigenen einzigartigen Regeln"], ["Seine Ängste basierten auf **eingebildeten** Bedrohungen statt auf realer Gefahr", "Die **gedachte** Linie des Äquators teilt die Erde in Hemisphären"]]
+  },
+  {
+    "lemma": "imaging",
+    "meanings_de": ["Bilderzeugungsprozess"],
+    "definitions_de": ["Prozess der Erstellung visueller Darstellungen von Objekten, Bereichen oder Phänomenen unter Verwendung verschiedener Technologien"],
+    "examples_de": [["Medizinische **Bildgebungs**verfahren helfen Ärzten, Krankheiten ohne invasive Eingriffe zu diagnostizieren", "Satelliten**bildgebung** liefert wichtige Daten für Wettervorhersage und Kartierung"], ["Digitale **Bildverarbeitung** hat die Fotografie- und Grafikdesignbranche vollständig revolutioniert", "Die **Hirnbildgebung** zeigt, wie verschiedene Bereiche bei bestimmten Aufgaben aktiviert werden"]]
+  },
+  {
+    "lemma": "imam",
+    "meanings_de": ["islamischer Gebetsleiter"],
+    "definitions_de": ["Person, die Gebete in einer Moschee leitet und muslimischen Gemeinden religiöse Führung bietet"],
+    "examples_de": [["Der **Imam** hielt eine kraftvolle Predigt über Mitgefühl und Gerechtigkeit", "Lokale **Imame** spielen in ihren Gemeinden über das Leiten von Gebeten hinaus wichtige Rollen"], ["Der junge **Imam** studierte viele Jahre islamische Theologie im Ausland", "Gemeindemitglieder suchen bei ihrem **Imam** Rat in religiösen Angelegenheiten"]]
+  },
+  {
+    "lemma": "imbalance",
+    "meanings_de": ["ungleiche Verteilung"],
+    "definitions_de": ["Mangel an Proportion oder Gleichgewicht zwischen entsprechenden Teilen, Kräften oder Aspekten von etwas"],
+    "examples_de": [["Das Handels**ungleichgewicht** zwischen den beiden Ländern verursachte wirtschaftliche Spannungen", "Hormonelles **Ungleichgewicht** kann Stimmung und körperliche Gesundheit erheblich beeinflussen"], ["Macht**ungleichgewicht** in Beziehungen führt oft zur Entwicklung ungesunder Dynamiken", "Das Ökosystem litt unter dem **Ungleichgewicht**, nachdem invasive Arten eingeführt wurden"]]
+  },
+  {
+    "lemma": "imitation",
+    "meanings_de": ["kopierte Version", "Nachahmungsakt"],
+    "definitions_de": ["Sache, die so gemacht ist, dass sie wie etwas anderes aussieht, typischerweise etwas Teureres oder Wertvolleres", "Handlung des Kopierens von jemandem oder etwas, oft als Form des Lernens oder der Schmeichelei"],
+    "examples_de": [["Der Museumsladen verkauft **Nachbildungen** von Artefakten für Besucher", "Billiges **Kunstleder** hält nicht so lange wie echtes Material"], ["Kinder lernen durch **Nachahmung** von Verhaltensweisen und Sprachmustern Erwachsener", "Seine **Imitation** der Prominentenstimme war bemerkenswert genau"]]
+  },
+  {
+    "lemma": "imitator",
+    "meanings_de": ["Nachahmer"],
+    "definitions_de": ["Person, die das Verhalten, Aussehen oder die Handlungen eines anderen kopiert, manchmal professionell"],
+    "examples_de": [["Der Elvis-**Imitator** trat regelmäßig bei Hochzeiten und Firmenveranstaltungen auf", "Mode**nachahmer** kopieren schnell Designertrends für die Massenproduktion"], ["Erfolgreiche Geschäftsmodelle ziehen in wettbewerbsintensiven Märkten schnell viele **Nachahmer** an", "Der Komiker war als brillanter **Imitator** politischer Persönlichkeiten bekannt"]]
+  },
+  {
+    "lemma": "immaturity",
+    "meanings_de": ["unentwickelter Zustand"],
+    "definitions_de": ["Zustand, körperlich, emotional oder intellektuell nicht vollständig für das eigene Alter entwickelt zu sein"],
+    "examples_de": [["Seine emotionale **Unreife** zeigte sich darin, wie er Konflikte am Arbeitsplatz handhabte", "Die **Unreife** der Frucht bedeutete, dass sie mehr Zeit zum Reifen brauchte"], ["Finanzielle **Unreife** führte zu schlechten Ausgabenentscheidungen und steigenden Schulden", "Die frühen Werke des Schriftstellers zeigten **Unreife**, aber dennoch großes Potenzial"]]
+  },
+  {
+    "lemma": "immediacy",
+    "meanings_de": ["sofortige Qualität"],
+    "definitions_de": ["Qualität, die einen in direkte und sofortige Beteiligung mit etwas bringt und Dringlichkeit hervorruft"],
+    "examples_de": [["Die **Unmittelbarkeit** der sozialen Medien veränderte, wie sich Nachrichten weltweit verbreiten", "Live-Fernsehen bietet eine **Direktheit**, die aufgezeichnete Programme nicht effektiv erreichen können"], ["Die Krise erforderte **Sofortigkeit** in der Regierungsreaktion, um Leben zu retten", "Digitale Kommunikation bietet **Unmittelbarkeit**, aber es fehlt manchmal völlig die persönliche Verbindung"]]
+  },
+  {
+    "lemma": "immersion",
+    "meanings_de": ["vollständige Einbeziehung", "Flüssigkeitseintauchen"],
+    "definitions_de": ["tiefe geistige oder körperliche Beteiligung an einer bestimmten Aktivität, Situation oder Umgebung", "Handlung, jemanden oder etwas vollständig in eine Flüssigkeit oder Substanz einzutauchen"],
+    "examples_de": [["Sprach**immersions**programme helfen Schülern, effektiver und schneller zu lernen", "Virtual Reality bietet vollständige **Eintauchung** in digitale Umgebungen für Nutzer"], ["Die Taufzeremonie beinhaltete das vollständige **Untertauchen** im Flusswasser", "Kaltwasser**tauchtherapie** ist in letzter Zeit bei Sportlern beliebt geworden"]]
+  },
+  {
+    "lemma": "immobility",
+    "meanings_de": ["Bewegungsunfähigkeit"],
+    "definitions_de": ["Zustand, sich nicht bewegen zu können oder nicht bewegt werden zu können, oder Unfähigkeit zur Veränderung"],
+    "examples_de": [["Die **Bewegungsunfähigkeit** des Patienten erforderte ständige Pflege vom Pflegepersonal", "Verkehrs**stillstand** während der Hauptverkehrszeit frustriert Pendler in Großstädten"], ["Soziale **Unbeweglichkeit** hindert Menschen daran, ihren wirtschaftlichen Status leicht zu verbessern", "Die **Unbeweglichkeit** der Statue kontrastierte mit dem fließenden Wasser um sie herum"]]
+  },
+  {
+    "lemma": "immobilization",
+    "meanings_de": ["Bewegungsverhinderung"],
+    "definitions_de": ["Handlung, etwas daran zu hindern, sich normal zu bewegen oder zu funktionieren, besonders für medizinische Behandlung"],
+    "examples_de": [["Die **Ruhigstellung** von Frakturen verhindert weitere Schäden und fördert natürliche Heilung", "Der Dieb benutzte eine Lenkradsperre zur **Immobilisierung** des Fahrzeugs"], ["Die **Stilllegung** von Vermögenswerten während rechtlicher Verfahren schützt umstrittenes Eigentum vor Verkauf", "Richtige **Immobilisierungs**techniken sind für medizinische Notfallhelfer unerlässlich"]]
+  },
+  {
+    "lemma": "immolation",
+    "meanings_de": ["Feueropfer"],
+    "definitions_de": ["Akt des Tötens oder Opferns von jemandem oder etwas, besonders durch Verbrennen als Opfergabe"],
+    "examples_de": [["**Selbstverbrennung**sproteste haben sich im Laufe der Geschichte als politische Statements ereignet", "Antike Rituale beinhalteten manchmal Tier**opferung**, um Götter zu besänftigen"], ["Die **Selbstverbrennung** des Mönchs lenkte internationale Aufmerksamkeit auf die politische Krise", "Symbolische **Verbrennung** von Bildnissen findet während einiger kultureller Feste jährlich statt"]]
+  },
+  {
+    "lemma": "immorality",
+    "meanings_de": ["unethisches Verhalten"],
+    "definitions_de": ["Verhalten, das den akzeptierten Prinzipien von richtigem und falschem Verhalten in der Gesellschaft widerspricht"],
+    "examples_de": [["Die **Unmoral** des Unternehmens bei der Müllentsorgung verärgerte die Anwohner sehr", "Religiöse Führer verurteilten die **Sittenlosigkeit**, die sie in moderner Unterhaltung sahen"], ["Finanzielle **Unmoral** unter Führungskräften führte schließlich zum Untergang des Unternehmens", "Der Roman erforscht Themen von **Unmoral** und Erlösung durchgehend"]]
+  },
+  {
+    "lemma": "immortal",
+    "meanings_de": ["unsterbliches Wesen"],
+    "definitions_de": ["Wesen, das für immer lebt oder für immer in Erinnerung bleibt, oft in Mythologie oder Literatur"],
+    "examples_de": [["Die griechische Mythologie zeigt viele **unsterbliche** Götter und Göttinnen mit menschlichen Zügen", "Die Autorin wurde durch ihre zeitlosen literarischen Werke **unsterblich**"], ["Legenden sprechen von **unsterblichen** Kriegern, die im Kampf nicht sterben können", "Wissenschaftler suchen nach Wegen, menschliche Zellen theoretisch **unsterblich** zu machen"]]
+  },
+  {
+    "lemma": "immortality",
+    "meanings_de": ["ewiges Leben", "dauerhafter Ruhm"],
+    "definitions_de": ["Fähigkeit, für immer zu leben oder niemals zu sterben, oft Göttern zugeschrieben oder von Menschen gesucht", "Zustand, für immer durch die eigenen Errungenschaften, Werke oder Einfluss in Erinnerung zu bleiben"],
+    "examples_de": [["Viele Religionen versprechen gläubigen Anhängern **Unsterblichkeit** nach dem Tod", "Alte Kaiser suchten **Unsterblichkeit** durch magische Elixiere und Rituale"], ["Künstler erreichen **Unsterblichkeit** durch Meisterwerke, die über Jahrhunderte Bestand haben", "Die Entdeckungen der Wissenschaftlerin gewährten ihr **Unsterblichkeit** in der akademischen Geschichte"]]
+  },
+  {
+    "lemma": "immovable",
+    "meanings_de": ["unbewegliches Objekt"],
+    "definitions_de": ["Objekt, das nicht bewegt oder in seiner Position verändert werden kann, rechtlich bezieht es sich auf Eigentum wie Land"],
+    "examples_de": [["Das alte Denkmal stand als **unbewegliche** Erinnerung an die Geschichte", "Rechtsdokumente unterscheiden klar zwischen beweglichem und **unbeweglichem** Vermögen"], ["Der **unbewegliche** Felsbrocken blockierte jahrhundertelang den Bergpfad", "**Unbewegliche** Festtage finden jährlich am selben Kalenderdatum statt"]]
+  },
+  {
+    "lemma": "immunisation",
+    "meanings_de": ["Krankheitsschutzverfahren"],
+    "definitions_de": ["Prozess, eine Person oder ein Tier immun gegen Infektionen zu machen, typischerweise durch Impfung"],
+    "examples_de": [["Kinder**impfprogramme** haben viele gefährliche Krankheiten erfolgreich eliminiert", "Die Klinik bietet regelmäßig kostenlose **Immunisierungs**dienste für einkommensschwache Familien an"], ["Reise**impfanforderungen** variieren je nach besuchten Zielländern häufig", "Herden**immunisierung** schützt gefährdete Personen, die keine Impfungen direkt erhalten können"]]
+  },
+  {
+    "lemma": "immunity",
+    "meanings_de": ["Krankheitsresistenz", "rechtlicher Schutz"],
+    "definitions_de": ["Fähigkeit eines Organismus, Infektionen oder Krankheiten durch biologische Abwehrmechanismen zu widerstehen", "Schutz oder Befreiung von etwas, insbesondere rechtlicher Strafverfolgung oder Verpflichtung"],
+    "examples_de": [["Natürliche **Immunität** entwickelt sich nach vollständiger Genesung von bestimmten Infektionskrankheiten", "Impfstoffe bieten **Immunität**, ohne die tatsächlichen Krankheitssymptome zu verursachen"], ["Diplomatische **Immunität** schützt Botschaftspersonal vor Strafverfolgung in Gastländern", "Der Zeuge erhielt **Straffreiheit** im Austausch für Aussagen gegen Kriminelle"]]
+  }
+]

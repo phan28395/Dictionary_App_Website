@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "digestible",
+    "meanings_de": ["leicht verdaulich", "leicht verständlich"],
+    "definitions_de": ["vom Körper ohne Beschwerden oder Krankheit aufgenommen und verarbeitet werden könnend", "einfach genug um mental verstanden, aufgenommen oder verarbeitet zu werden ohne Schwierigkeiten"],
+    "examples_de": [["Der Arzt empfahl nach der Operation nur **leicht verdauliche** Kost", "Haferschleim ist besonders **gut verdaulich** für Menschen mit Magenproblemen"], ["Der Professor machte komplexe Theorien für Studienanfänger **gut verdaulich**", "Der Bericht war in **verdaulichen** Häppchen für vielbeschäftigte Manager geschrieben"]]
+  },
+  {
+    "lemma": "digestive",
+    "meanings_de": ["die Verdauung betreffend"],
+    "definitions_de": ["mit dem Abbau von Nahrung im Körper zur Aufnahme und Verwendung verbunden"],
+    "examples_de": [["Das **Verdauungssystem** umfasst Magen und Darm", "Viele Menschen nehmen **Verdauungsenzyme** zur besseren Nahrungsverarbeitung"], ["Pfefferminztee ist für seine **verdauungsfördernden** Eigenschaften bekannt", "Der Arzt verschrieb **Verdauungsmedikamente** gegen ihre Magenbeschwerden"]]
+  },
+  {
+    "lemma": "dignified",
+    "meanings_de": ["würdevoll und gefasst"],
+    "definitions_de": ["eine gefasste und ernsthafte Art zeigend oder besitzend, die Respekt und Bewunderung hervorruft"],
+    "examples_de": [["Der ältere Herr bewahrte während der Zeremonie ein **würdevolles** Schweigen", "Sie gab trotz harscher Kritik eine **würdevolle** Antwort"], ["Die Trauerfeier war schlicht aber **würdevoll**", "Seine **würdevolle** Haltung beeindruckte alle Anwesenden"]]
+  },
+  {
+    "lemma": "dilapidated",
+    "meanings_de": ["verfallen und baufällig"],
+    "definitions_de": ["in einem Zustand des Verfalls oder der Zerstörung als Folge von Alter oder Vernachlässigung"],
+    "examples_de": [["Die **baufällige** Scheune stand nach Jahren der Vernachlässigung kaum noch", "Sie kauften ein **verfallenes** Haus und renovierten es monatelang"], ["Die **maroden** Spielgeräte des Schulhofs stellten ein Sicherheitsrisiko dar", "Viele **verfallene** Gebäude säumen die vergessenen Straßen der Altstadt"]]
+  },
+  {
+    "lemma": "diligent",
+    "meanings_de": ["fleißig und sorgfältig"],
+    "definitions_de": ["Sorgfalt und Gewissenhaftigkeit in der Arbeit oder bei Pflichten mit beständigem Einsatz zeigend"],
+    "examples_de": [["Die **fleißige** Studentin verbrachte Stunden damit, ihren Aufsatz zu perfektionieren", "Seine **gewissenhafte** Recherche brachte wichtige historische Dokumente ans Licht"], ["Sie war **sorgfältig** beim Überprüfen ihrer Arbeit auf Fehler", "Das Unternehmen belohnt **fleißige** Mitarbeiter mit jährlichen Prämien"]]
+  },
+  {
+    "lemma": "dilute",
+    "meanings_de": ["verdünnt in Konzentration"],
+    "definitions_de": ["in Kraft, Inhalt oder Wert durch Zugabe von Wasser oder einer anderen Substanz geschwächt"],
+    "examples_de": [["Die **verdünnte** Lösung war sicher für die Reinigung empfindlicher Oberflächen", "Fügen Sie Wasser hinzu, um eine **verdünnte** Mischung des Reinigungsmittels herzustellen"], ["Die Unternehmensgewinne zeigten einen **verwässerten** Gewinn je Aktie", "Die **verdünnte** Säurelösung wird in Chemieexperimenten verwendet"]]
+  },
+  {
+    "lemma": "diluted",
+    "meanings_de": ["in der Stärke reduziert"],
+    "definitions_de": ["dünner oder schwächer gemacht durch Zugabe von Wasser oder einer anderen Flüssigkeit"],
+    "examples_de": [["Die **verdünnte** Farbe erzeugte einen helleren Ton an der Wand", "Sie servierte den Kindern auf der Party **verdünnten** Saft"], ["Das Medikament sollte vor der Gabe an Säuglinge **verdünnt** werden", "Sein Einfluss wurde **verwässert**, als mehr Leute dem Ausschuss beitraten"]]
+  },
+  {
+    "lemma": "dim",
+    "meanings_de": ["lichtschwach", "undeutlich wahrnehmbar", "begriffsstutzig"],
+    "definitions_de": ["nicht hell oder klar im Licht, nur eine geringe Menge an Beleuchtung abgebend", "nicht klar sichtbar, wahrnehmbar oder verständlich aufgrund unzureichender Klarheit oder Definition", "wenig Intelligenz oder geistige Schärfe beim Verstehen von Dingen zeigend"],
+    "examples_de": [["Die **gedämpfte** Beleuchtung im Restaurant schuf eine romantische Atmosphäre", "Sie konnte im **schwachen** Licht der Kerze kaum lesen"], ["Seine Kindheitserinnerungen waren **verschwommen** und bruchstückhaft", "Durch den Nebel sahen wir die **schemenhafte** Umrisse des Schiffes"], ["Sei nicht so **begriffsstutzig** - die Antwort liegt auf der Hand", "Sein **mangelhaftes** Verständnis von Physik machte den Kurs schwierig"]]
+  },
+  {
+    "lemma": "dimensional",
+    "meanings_de": ["dimensionsbezogen"],
+    "definitions_de": ["sich auf Dimensionen messbarer Ausdehnung wie Länge, Breite oder Höhe beziehend oder diese besitzend"],
+    "examples_de": [["Der Architekt erstellte ein **dreidimensionales** Modell des Gebäudes", "Wissenschaftler erforschen **mehrdimensionale** Räume in der theoretischen Physik"], ["Dem Gemälde fehlt **dimensionale** Tiefe und wirkt flach", "Sie verwendeten **Dimensionsanalyse** zur Lösung des technischen Problems"]]
+  },
+  {
+    "lemma": "diminished",
+    "meanings_de": ["verringert oder vermindert"],
+    "definitions_de": ["in Größe, Menge, Bedeutung oder Wert durch Reduktion kleiner oder weniger gemacht"],
+    "examples_de": [["Seine **verminderte** Leistungsfähigkeit bedeutete, dass er ständige Pflege brauchte", "Die **abgeschwächte** Kraft des Sturms erlaubte Schiffen wieder zu segeln"], ["Jahre des Konflikts hinterließen sie mit **verminderten** Ressourcen", "Das Medikament verursachte **verringerten** Appetit als Nebenwirkung"]]
+  },
+  {
+    "lemma": "diminishing",
+    "meanings_de": ["fortschreitend abnehmend"],
+    "definitions_de": ["allmählich in Größe, Menge, Bedeutung oder Intensität über die Zeit weniger oder kleiner werdend"],
+    "examples_de": [["Das Gesetz des **abnehmenden** Ertrags betrifft viele Geschäftsinvestitionen", "Ihre **schwindende** Begeisterung für das Projekt war besorgniserregend"], ["Die **abnehmenden** Wasservorräte erzwangen strenge Sparmaßnahmen", "Er bemerkte seine **nachlassende** Fähigkeit, sich an Namen zu erinnern"]]
+  },
+  {
+    "lemma": "diminutive",
+    "meanings_de": ["außergewöhnlich klein", "grammatisch Kleinheit ausdrückend"],
+    "definitions_de": ["bemerkenswert oder ungewöhnlich klein in der Größe im Vergleich zu dem, was typisch oder erwartet wird", "sich auf Wortformen beziehend, die Kleinheit, Jugend, Vertrautheit oder Zuneigung ausdrücken"],
+    "examples_de": [["Die **zierliche** Frau zog mit ihrer kraftvollen Stimme die Aufmerksamkeit auf sich", "Ein **winziges** Häuschen lag eingebettet zwischen den riesigen Bäumen"], ["Im Spanischen erzeugt das Anhängen von 'ito' eine **Verkleinerungsform**", "Das **Diminutivsuffix** 'ling' erscheint in Wörtern wie Entlein"]]
+  },
+  {
+    "lemma": "dimmed",
+    "meanings_de": ["abgedunkelt"],
+    "definitions_de": ["weniger hell, intensiv oder klar gemacht durch Reduzierung von Licht oder Sichtbarkeit"],
+    "examples_de": [["Die **abgeblendeten** Scheinwerfer halfen, Blendung im Nebel zu reduzieren", "Sie **dimmte** die Lichter, um eine gemütliche Atmosphäre zu schaffen"], ["Sein **geschwächtes** Sehvermögen erforderte eine stärkere Brillenverordnung", "Der **gedimmte** Bildschirm sparte Akkuleistung auf ihrem Handy"]]
+  },
+  {
+    "lemma": "dingy",
+    "meanings_de": ["düster und schäbig"],
+    "definitions_de": ["Helligkeit oder Frische fehlend, dunkel, stumpf und schmutzig erscheinend durch Gebrauch oder Alter"],
+    "examples_de": [["Die **schäbige** Wohnung brauchte dringend frische Farbe und Reinigung", "Sein **schmuddeliges** weißes Hemd hatte schon bessere Tage gesehen"], ["Sie übernachteten in einem **heruntergekommenen** Motel an der Autobahn", "Die **vergilbten** Vorhänge ließen das Zimmer deprimierend wirken"]]
+  },
+  {
+    "lemma": "dinky",
+    "meanings_de": ["enttäuschend klein"],
+    "definitions_de": ["enttäuschend klein oder unbedeutend, oft trivial oder von geringer Bedeutung erscheinend"],
+    "examples_de": [["Sie servierten **winzige** Portionen in dem teuren Restaurant", "Seine **mickrige** Wohnung hatte kaum Platz für ein Bett und einen Schreibtisch"], ["Die Firma bot eine **lächerliche** Gehaltserhöhung nach dem Versprechen erheblicher Steigerungen", "Dieses **klitzekleine** Auto wird für unsere Reise nicht geeignet sein"]]
+  },
+  {
+    "lemma": "diocesan",
+    "meanings_de": ["diözesan"],
+    "definitions_de": ["zu einer Diözese oder dem Verwaltungsbezirk ihres Bischofs gehörend oder sich darauf beziehend"],
+    "examples_de": [["Der **Diözesanrat** traf sich monatlich zur Besprechung kirchlicher Angelegenheiten", "Sie arbeitete im **Diözesanbüro** und erledigte Verwaltungsaufgaben"], ["Der Bischof erließ neue **diözesane** Richtlinien für alle Gemeinden", "Sie besuchten die jährliche **Diözesankonferenz** für Geistliche"]]
+  },
+  {
+    "lemma": "dipped",
+    "meanings_de": ["kurz eingetaucht", "gesenkt oder geneigt"],
+    "definitions_de": ["kurz in eine Flüssigkeit getaucht und dann entfernt, wodurch eine Beschichtung oder Nässe entsteht", "nach unten bewegt oder in einem niedrigeren Winkel als zuvor positioniert"],
+    "examples_de": [["Die **schokoladenüberzogenen** Erdbeeren waren ein beliebtes Dessert", "Sie aß in Hummus **getauchte** Cracker zum Mittagessen"], ["Die **abgeblendeten** Scheinwerfer verbesserten die Sicht bei nebligen Bedingungen", "Die Straße **senkte** sich steil, als sie sich dem Tal näherte"]]
+  },
+  {
+    "lemma": "dire",
+    "meanings_de": ["äußerst ernst oder dringend"],
+    "definitions_de": ["äußerst ernst oder dringend, vor schrecklichen oder furchtbaren Konsequenzen warnend oder diese habend"],
+    "examples_de": [["Die Flüchtlinge standen vor **katastrophalen** Umständen ohne Nahrung oder Unterkunft", "Klimawissenschaftler gaben **düstere** Warnungen über steigende Temperaturen"], ["Die **verzweifelte** finanzielle Lage des Unternehmens erforderte sofortiges Handeln", "Sie erhielt **erschreckende** Nachrichten über die Gesundheit ihres Vaters"]]
+  },
+  {
+    "lemma": "directed",
+    "meanings_de": ["gezielt oder gelenkt", "geleitet oder beaufsichtigt"],
+    "definitions_de": ["in eine bestimmte Richtung oder auf ein spezifisches Ziel gezielt, gelenkt oder gerichtet", "kontrolliert, geleitet oder beaufsichtigt von jemandem, der für eine Aktivität verantwortlich ist"],
+    "examples_de": [["Der **gerichtete** Lichtstrahl beleuchtete den alten Text", "Sie **richtete** ihre Aufmerksamkeit auf die Hauptpunkte des Sprechers"], ["Das sorgfältig **inszenierte** Theaterstück gewann mehrere Preise", "Er **leitete** das Projektteam durch herausfordernde Fristen"]]
+  },
+  {
+    "lemma": "directing",
+    "meanings_de": ["Anleitung oder Anweisungen gebend"],
+    "definitions_de": ["autoritative Anweisungen oder Führung gebend, um den Verlauf von etwas zu kontrollieren"],
+    "examples_de": [["Sie zeichnete sich darin aus, große Teams bei komplexen Projekten zu **leiten**", "Der Polizist war dabei, den Verkehr um den Unfall herum zu **regeln**"], ["Sein **Führungsstil** betonte Zusammenarbeit statt Kontrolle", "Das GPS-System **leitete** uns durch unbekannte Straßen"]]
+  },
+  {
+    "lemma": "directional",
+    "meanings_de": ["richtungsbezogen"],
+    "definitions_de": ["sich auf die Richtung von Bewegung, Position oder Orientierung im Raum beziehend oder diese anzeigend"],
+    "examples_de": [["Die **Richtungsschilder** halfen Besuchern, sich im Krankenhaus zurechtzufinden", "Vögel nutzen **Richtungshinweise** der Sonne für die Migration"], ["Installieren Sie **gerichtete** Beleuchtung, um die Kunstwerke hervorzuheben", "Das **Richtmikrofon** nahm Geräusche aus bestimmten Bereichen auf"]]
+  },
+  {
+    "lemma": "directive",
+    "meanings_de": ["autoritative Anweisungen gebend"],
+    "definitions_de": ["die Eigenschaft habend, autoritative Anweisungen oder offizielle Befehle zu geben"],
+    "examples_de": [["Der **bestimmende** Ton des Managers ließ keinen Raum für Diskussionen", "Sie schätzte seinen **direktiven** Ansatz zur Problemlösung"], ["Der **direktive** Führungsstil funktioniert gut in Krisensituationen", "Seine **weisungsgebende** Art half, den Entscheidungsprozess zu straffen"]]
+  },
+  {
+    "lemma": "disabling",
+    "meanings_de": ["funktionsverhindernd"],
+    "definitions_de": ["verursachend, dass jemand oder etwas nicht normal oder effektiv funktionieren kann"],
+    "examples_de": [["Die **behindernde** Verletzung beendete seine Profi-Sportkarriere", "Ein **lähmender** Computervirus legte das gesamte Netzwerk lahm"], ["Sie litt unter **lähmenden** Ängsten, die ihr tägliches Leben beeinträchtigten", "Die **behindernden** Auswirkungen der Krankheit schritten schnell voran"]]
+  },
+  {
+    "lemma": "disadvantaged",
+    "meanings_de": ["benachteiligt"],
+    "definitions_de": ["die grundlegenden Ressourcen oder Bedingungen fehlend, die für eine gleiche Position in der Gesellschaft als notwendig erachtet werden"],
+    "examples_de": [["Die Wohltätigkeitsorganisation vergibt Stipendien für **benachteiligte** Schüler", "**Benachteiligte** Gemeinden haben oft keinen Zugang zu hochwertiger Gesundheitsversorgung"], ["Das Programm hilft **benachteiligten** Jugendlichen, berufliche Fähigkeiten zu entwickeln", "Als **Benachteiligte** aufzuwachsen motivierte sie, anderen zu helfen"]]
+  },
+  {
+    "lemma": "disadvantageous",
+    "meanings_de": ["nachteilig"],
+    "definitions_de": ["Umstände schaffend oder beinhaltend, die die Chancen auf Erfolg oder Wirksamkeit verringern"],
+    "examples_de": [["Das **nachteilige** Handelsabkommen schadete den lokalen Bauern", "Von einer **ungünstigen** Position aus zu starten war eine Herausforderung für ihn"], ["Der Zeitpunkt war **ungünstig** für die Einführung des neuen Produkts", "Ihre **nachteilige** Verhandlungsposition schränkte ihre Optionen ein"]]
+  },
+  {
+    "lemma": "disaffected",
+    "meanings_de": ["entfremdet und rebellisch"],
+    "definitions_de": ["unzufrieden mit Autoritätspersonen und nicht mehr bereit, sie zu unterstützen"],
+    "examples_de": [["**Entfremdete** Wähler suchten nach Alternativen zu traditionellen Parteien", "Die **unzufriedenen** Mitarbeiter gründeten eine Gewerkschaft, um ihre Anliegen zu äußern"], ["Viele **entfremdete** Jugendliche schlossen sich Protestbewegungen an", "Die **abtrünnigen** Mitglieder gingen, um ihre eigene Organisation zu gründen"]]
+  },
+  {
+    "lemma": "disagreeable",
+    "meanings_de": ["unangenehm oder schlecht gelaunt"],
+    "definitions_de": ["unangenehm oder nicht erfreulich in der Natur, oder schlechte Laune und Unwillen zur Zusammenarbeit zeigend"],
+    "examples_de": [["Die Medizin hatte einen **unangenehmen** Geschmack, wirkte aber effektiv", "Seine **unfreundliche** Haltung erschwerte die Zusammenarbeit"], ["Das **widrige** Wetter ruinierte unsere Pläne für draußen", "Sie wurde **unleidlich**, als sie auf ihre Fehler angesprochen wurde"]]
+  },
+  {
+    "lemma": "disappointing",
+    "meanings_de": ["enttäuschend"],
+    "definitions_de": ["Hoffnungen oder Erwartungen nicht erfüllend, Traurigkeit oder Missfallen verursachend"],
+    "examples_de": [["Das **enttäuschende** Ende des Films ließ das Publikum unzufrieden zurück", "Die Verkaufszahlen für das Quartal waren **enttäuschend**"], ["Seine **enttäuschende** Leistung kostete das Team die Meisterschaft", "Der **enttäuschende** Service des Restaurants überschattete das gute Essen"]]
+  },
+  {
+    "lemma": "disapproving",
+    "meanings_de": ["missbilligend"],
+    "definitions_de": ["eine ungünstige Meinung oder Kritik an jemandem oder etwas ausdrückend"],
+    "examples_de": [["Ihre Mutter warf einen **missbilligenden** Blick auf ihre Outfit-Wahl", "Das Komitee gab eine **ablehnende** Stellungnahme zum Vorschlag ab"], ["Sein **missbilligender** Ton machte seine Meinung vollkommen klar", "Sie bemerkte die **missbilligenden** Blicke der anderen Passagiere"]]
+  },
+  {
+    "lemma": "disarming",
+    "meanings_de": ["entwaffnend"],
+    "definitions_de": ["die Wirkung habend, Verdacht oder Feindseligkeit durch Charme oder Aufrichtigkeit zu zerstreuen"],
+    "examples_de": [["Sein **entwaffnendes** Lächeln beruhigte nervöse Patienten", "Sie hatte eine **entwaffnende** Art, ihre Fehler zuzugeben"], ["Die **entwaffnende** Ehrlichkeit des Politikers überraschte skeptische Wähler", "Ihre **entwaffnende** Persönlichkeit half, angespannte Verhandlungen zu lösen"]]
+  },
+  {
+    "lemma": "disastrous",
+    "meanings_de": ["katastrophal"],
+    "definitions_de": ["großen Schaden, Leid oder Versagen mit extrem nachteiligen oder ruinösen Ergebnissen verursachend"],
+    "examples_de": [["Die **katastrophale** Flut zerstörte Tausende von Häusern", "Seine **verheerenden** Investitionsentscheidungen führten zum Bankrott"], ["Die **desaströse** Leistung des Teams enttäuschte treue Fans", "Ein **katastrophales** Missverständnis hätte fast einen Unfall verursacht"]]
+  },
+  {
+    "lemma": "discarded",
+    "meanings_de": ["weggeworfen als nutzlos"],
+    "definitions_de": ["entsorgt als nicht mehr nützlich, wertvoll oder erwünscht"],
+    "examples_de": [["Sie fand Schätze unter **weggeworfenen** Gegenständen auf dem Flohmarkt", "Der **verworfene** Vorschlag enthielt mehrere innovative Ideen"], ["**Ausrangierte** Elektronik sollte ordnungsgemäß recycelt werden", "Er fühlte sich wie ein **weggeworfenes** Spielzeug, nachdem er ersetzt wurde"]]
+  },
+  {
+    "lemma": "discernible",
+    "meanings_de": ["wahrnehmbar"],
+    "definitions_de": ["wahrnehmbar, erkennbar oder unterscheidbar, besonders mit Anstrengung oder sorgfältiger Beobachtung"],
+    "examples_de": [["Es gab keinen **erkennbaren** Unterschied zwischen den beiden Proben", "Ein **wahrnehmbares** Muster ergab sich aus der Datenanalyse"], ["Der Pfad war durch den verwachsenen Wald kaum **erkennbar**", "Sie entdeckte eine **wahrnehmbare** Veränderung in seiner Einstellung"]]
+  },
+  {
+    "lemma": "discerning",
+    "meanings_de": ["urteilsfähig"],
+    "definitions_de": ["gutes Urteilsvermögen, Einsicht und Verständnis beim Wahrnehmen von Unterschieden habend oder zeigend"],
+    "examples_de": [["Der **kenntnisreiche** Sammler erkannte den wahren Wert des Gemäldes", "Sie entwickelte durch jahrelange Weinverkostung einen **anspruchsvollen** Gaumen"], ["**Anspruchsvolle** Leser werden den subtilen Humor des Autors zu schätzen wissen", "Das Restaurant zieht eine **kultivierte** Kundschaft an"]]
+  },
+  {
+    "lemma": "discharged",
+    "meanings_de": ["von Verpflichtung befreit", "aus Einrichtung entlassen"],
+    "definitions_de": ["von einer Pflicht, Verpflichtung oder Verantwortung durch Erfüllung oder Stornierung befreit", "formal aus einem Krankenhaus, Militärdienst oder einer anderen Institution entlassen"],
+    "examples_de": [["Die **getilgte** Schuld gab ihnen finanzielle Freiheit", "Er wurde nach Abschluss des Projekts von seinen Pflichten **entbunden**"], ["Der Patient wurde nach erfolgreicher Operation aus dem Krankenhaus **entlassen**", "Aus dem Dienst **entlassene** Veteranen erhalten bestimmte Leistungen"]]
+  },
+  {
+    "lemma": "disciplinary",
+    "meanings_de": ["disziplinarisch", "fachbezogen"],
+    "definitions_de": ["sich auf die Bestrafung von Personen beziehend, die Regeln oder Vorschriften brechen", "sich auf ein bestimmtes Studiengebiet oder eine akademische Disziplin beziehend"],
+    "examples_de": [["Der Mitarbeiter sah sich wegen wiederholter Verspätung **Disziplinarmaßnahmen** gegenüber", "Der **Disziplinarausschuss** der Schule prüfte den Vorfall"], ["Die Forschung erforderte einen **interdisziplinären** Ansatz", "Sie besuchte eine **Fachkonferenz** über Molekularbiologie"]]
+  },
+  {
+    "lemma": "disciplined",
+    "meanings_de": ["diszipliniert"],
+    "definitions_de": ["eine kontrollierte Form des Verhaltens zeigend, die aus Training und Selbstkontrolle resultiert"],
+    "examples_de": [["Der **disziplinierte** Athlet folgte einem strengen Trainingsplan", "Ihr **disziplinierter** Ansatz beim Lernen brachte Bestnoten"], ["Die **disziplinierten** Soldaten hielten trotz Chaos die Formation", "Ein **disziplinierter** Investor vermeidet emotionale Entscheidungen"]]
+  },
+  {
+    "lemma": "disclosed",
+    "meanings_de": ["offengelegt"],
+    "definitions_de": ["anderen bekannt gemacht, besonders Informationen, die zuvor geheim oder privat waren"],
+    "examples_de": [["Die **offengelegten** Dokumente enthüllten weitverbreitete Korruption", "Unternehmen müssen **offengelegte** Finanzinformationen korrekt berichten"], ["Sie **offenbarte** ihrem Arbeitgeber ihren Gesundheitszustand", "Die Untersuchung **deckte** mehrere Sicherheitsverstöße auf"]]
+  },
+  {
+    "lemma": "disconcerting",
+    "meanings_de": ["beunruhigend"],
+    "definitions_de": ["Unbehagen, Unruhe oder Verlegenheit verursachend durch unerwartet oder schwer zu verstehen sein"],
+    "examples_de": [["Seine **beunruhigende** Angewohnheit zu starren machte Menschen unbehaglich", "Die **verstörenden** Nachrichten störten ihre Feierlichkeiten"], ["Sie fand seine plötzlichen Stimmungsschwankungen **beunruhigend**", "Die **befremdliche** Stille folgte ihrer kontroversen Aussage"]]
+  },
+  {
+    "lemma": "disconnected",
+    "meanings_de": ["nicht verbunden", "zusammenhanglos"],
+    "definitions_de": ["getrennt oder nicht mehr physisch verbunden oder verknüpft", "Kohärenz oder logische Abfolge in Gedanken oder Ausdruck fehlend"],
+    "examples_de": [["Die **getrennten** Kabel verursachten eine Fehlfunktion des Geräts", "In einer **abgeschiedenen** Hütte zu leben bedeutete kein Internet"], ["Seine **zusammenhanglosen** Gedanken machten die Vorlesung schwer verständlich", "Sie fühlte sich von ihren kulturellen Wurzeln **abgeschnitten**"]]
+  },
+  {
+    "lemma": "discontent",
+    "meanings_de": ["unzufrieden mit Umständen"],
+    "definitions_de": ["unzufrieden mit den eigenen Umständen, der Situation oder dem Zustand der Dinge fühlend"],
+    "examples_de": [["Die **unzufriedenen** Arbeiter forderten bessere Arbeitsbedingungen", "Ein **unzufriedenes** Murmeln breitete sich in der wartenden Menge aus"], ["Jahre **unzufriedenen** Lebens brachten sie dazu, große Veränderungen vorzunehmen", "Sein **unzufriedener** Gesichtsausdruck verriet seine wahren Gefühle"]]
+  },
+  {
+    "lemma": "discontented",
+    "meanings_de": ["unzufrieden fühlend"],
+    "definitions_de": ["unzufrieden mit den eigenen Umständen oder der Situation, rastlose Unzufriedenheit zeigend"],
+    "examples_de": [["Die **unzufriedenen** Bürger organisierten Proteste gegen neue Richtlinien", "Er wurde zunehmend **unzufrieden** mit seiner Berufswahl"], ["**Unzufriedene** Aktionäre forderten eine neue Führung", "Ihre **unzufriedenen** Seufzer erfüllten den stillen Raum"]]
+  },
+  {
+    "lemma": "discontinued",
+    "meanings_de": ["nicht mehr hergestellt"],
+    "definitions_de": ["nicht mehr hergestellt, bereitgestellt oder verfügbar, nachdem es gestoppt oder beendet wurde"],
+    "examples_de": [["Das **eingestellte** Produkt wurde zum Sammlerstück", "Sie suchte online nach dem **ausgelaufenen** Make-up-Ton"], ["Die **eingestellte** Buslinie bereitete vielen Pendlern Unannehmlichkeiten", "Kunden beschwerten sich, als ihr Lieblingsartikel **aus dem Sortiment genommen** wurde"]]
+  },
+  {
+    "lemma": "discontinuous",
+    "meanings_de": ["unterbrochen"],
+    "definitions_de": ["nicht kontinuierlich, Intervalle, Lücken oder Unterbrechungen in Sequenz oder Struktur habend"],
+    "examples_de": [["Die **unterbrochenen** Gesteinsschichten verwirrten Geologen", "Ihre **lückenhafte** Beschäftigungsgeschichte warf Fragen auf"], ["Der Pfad war **unterbrochen** und erforderte vorsichtige Navigation", "**Diskontinuierliche** Daten machten die Analyse schwieriger"]]
+  },
+  {
+    "lemma": "discordant",
+    "meanings_de": ["disharmonisch", "widersprüchlich"],
+    "definitions_de": ["hart und unangenehm im Klang aufgrund mangelnder Harmonie", "nicht in Übereinstimmung oder Harmonie, durch Konflikt oder Unstimmigkeit gekennzeichnet"],
+    "examples_de": [["Die **dissonanten** Töne ließen alle zusammenzucken", "Eine **unharmonische** Mischung von Architekturstilen ruinierte das Straßenbild"], ["Ihre **widersprüchlichen** Meinungen verhinderten einen Konsens", "Die **unpassenden** Farben kollidierten im Gemälde"]]
+  },
+  {
+    "lemma": "discouraged",
+    "meanings_de": ["entmutigt"],
+    "definitions_de": ["Vertrauen oder Enthusiasmus verloren habend, sich entmutigt und weniger hoffnungsvoll fühlend"],
+    "examples_de": [["Der **entmutigte** Student überlegte, den schwierigen Kurs abzubrechen", "Sie fühlte sich **entmutigt** nach einem weiteren Ablehnungsschreiben"], ["Lass dich nicht von vorübergehenden Rückschlägen **entmutigen**", "Sein **entmutigter** Gesichtsausdruck beunruhigte seine Teamkollegen"]]
+  },
+  {
+    "lemma": "discouraging",
+    "meanings_de": ["entmutigend"],
+    "definitions_de": ["jemanden dazu bringend, Vertrauen, Enthusiasmus oder Hoffnung über das Erreichen von etwas zu verlieren"],
+    "examples_de": [["Die **entmutigenden** Testergebnisse brachten sie dazu, härter zu lernen", "Er erhielt **entmutigende** Nachrichten über seine Bewerbung"], ["Die Wettervorhersage war **entmutigend** für Outdoor-Pläne", "Ihre **entmutigenden** Worte dämpften den Enthusiasmus des Teams"]]
+  },
+  {
+    "lemma": "discovered",
+    "meanings_de": ["entdeckt oder erfahren"],
+    "definitions_de": ["unerwartet oder während einer Suche gefunden, oder etwas zuvor Unbekanntes gelernt"],
+    "examples_de": [["Wissenschaftler **entdeckten** eine neue Art im Regenwald", "Sie **entdeckte** ihre Leidenschaft fürs Unterrichten spät im Leben"], ["Der Archäologe **entdeckte** alte Artefakte unter der Stadt", "Er **erfuhr** die Wahrheit über seine Familiengeschichte"]]
+  },
+  {
+    "lemma": "discredited",
+    "meanings_de": ["in Verruf gebracht"],
+    "definitions_de": ["den guten Ruf von jemandem oder etwas geschädigt, indem gezeigt wurde, dass es unglaubwürdig ist"],
+    "examples_de": [["Die **diskreditierte** Theorie wurde aus Lehrbüchern entfernt", "Seine Lügen **diskreditierten** ihn vollständig als Zeugen"], ["Der Skandal **brachte** die gesamte Organisation **in Verruf**", "**Diskreditierte** Forschungsmethoden führten zu falschen Schlussfolgerungen"]]
+  },
+  {
+    "lemma": "discreet",
+    "meanings_de": ["diskret"],
+    "definitions_de": ["vorsichtig und besonnen in Rede oder Handlung, um Anstoß zu vermeiden oder Aufmerksamkeit zu erregen"],
+    "examples_de": [["Sie stellte **diskrete** Nachforschungen über die Stellenausschreibung an", "Die Sicherheitskräfte hielten eine **unauffällige** Präsenz aufrecht"], ["Er war **diskret** über seine persönliche finanzielle Situation", "Bitte seien Sie **diskret** bei der Besprechung dieser sensiblen Angelegenheit"]]
+  }
+]

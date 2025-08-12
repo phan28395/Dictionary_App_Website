@@ -1,0 +1,278 @@
+[
+  {
+    "lemma": "stooge",
+    "meanings_de": ["Stichwortgeber eines Komikers", "Handlanger"],
+    "definitions_de": ["Darsteller, der in einer Komödie als Zielscheibe für Witze dient und dem Komiker die Pointen ermöglicht", "Person, die sich von anderen für deren Zwecke ausnutzen lässt, oft ohne die wahren Absichten zu durchschauen"],
+    "examples_de": [["Der **Stichwortgeber** spielte den ahnungslosen Zuschauer perfekt", "Als **Pausenclown** ließ er sich geduldig vom Komiker vorführen"], ["Er war nur ein **Handlanger** der korrupten Geschäftsführung", "Lass dich nicht zum **Strohmann** für ihre illegalen Machenschaften machen"]]
+  },
+  {
+    "lemma": "stool",
+    "meanings_de": ["Sitzhocker", "Stuhlprobe"],
+    "definitions_de": ["einfaches Sitzmöbel ohne Rücken- oder Armlehnen, typischerweise mit drei oder vier Beinen", "Probe des Darminhalts, die zur medizinischen Untersuchung im Labor analysiert wird"],
+    "examples_de": [["Sie saß auf einem **Hocker** an der Küchentheke", "Die **Barhocker** waren mit rotem Leder bezogen"], ["Der Arzt ordnete eine **Stuhlprobe** zur Laboruntersuchung an", "Regelmäßige **Stuhluntersuchungen** helfen bei der Früherkennung von Verdauungsproblemen"]]
+  },
+  {
+    "lemma": "stoop",
+    "meanings_de": ["Eingangstreppe", "gebeugte Haltung"],
+    "definitions_de": ["kleine Veranda oder Plattform mit Stufen am Hauseingang, besonders bei amerikanischen Reihenhäusern", "nach vorn gebeugte Haltung von Kopf und Schultern, oft alters- oder arbeitsbedingt"],
+    "examples_de": [["Die Kinder spielten den ganzen Nachmittag auf der **Eingangstreppe** des Reihenhauses", "Wir saßen auf der **Vortreppe** und beobachteten die Nachbarn"], ["Seine dauerhafte **Beugung** kam von jahrelanger schwerer körperlicher Arbeit", "Sie bemerkte, dass der **Rundrücken** ihrer Großmutter immer ausgeprägter wurde"]]
+  },
+  {
+    "lemma": "stopgap",
+    "meanings_de": ["Notlösung"],
+    "definitions_de": ["vorübergehende Lösung oder Ersatz, der verwendet wird, bis eine dauerhafte Lösung gefunden ist"],
+    "examples_de": [["Die Einstellung von Leiharbeitern war nur eine **Notlösung** bis zur Ankunft der Festangestellten", "Die Nothilfe diente als **Überbrückungsmaßnahme** während der Krise"]]
+  },
+  {
+    "lemma": "stopover",
+    "meanings_de": ["Zwischenstopp"],
+    "definitions_de": ["kurzer Aufenthalt an einem Ort während einer längeren Reise, besonders zwischen Flügen"],
+    "examples_de": [["Wir hatten einen dreistündigen **Zwischenstopp** in Frankfurt, bevor es weiter nach Asien ging", "Der **Zwischenaufenthalt** in Amsterdam ermöglichte uns einen kurzen Stadtbummel"]]
+  },
+  {
+    "lemma": "stoppage",
+    "meanings_de": ["Arbeitsniederlegung", "Verstopfung"],
+    "definitions_de": ["organisierte Einstellung der Arbeit, besonders als Form des Protests oder Streiks", "Blockierung oder Hindernis, das den normalen Fluss oder die Bewegung von etwas verhindert"],
+    "examples_de": [["Die **Arbeitsniederlegung** in der Fabrik dauerte drei Wochen bis zum Abschluss der Verhandlungen", "**Arbeitsausfälle** kosteten das Unternehmen Millionen an Produktivitätsverlust"], ["Eine **Verstopfung** im Abfluss führte zu einem Wasserstau", "Der Schiedsrichter ordnete eine **Spielunterbrechung** an, um den verletzten Spieler zu untersuchen"]]
+  },
+  {
+    "lemma": "stopper",
+    "meanings_de": ["Flaschenverschluss"],
+    "definitions_de": ["Vorrichtung zum Verschließen oder Abdichten der Öffnung einer Flasche oder eines Behälters"],
+    "examples_de": [["Sie entfernte vorsichtig den **Korken** aus der Weinflasche", "Der **Gummistopfen** verhinderte das Verdampfen der Chemikalien über Nacht"]]
+  },
+  {
+    "lemma": "stopping",
+    "meanings_de": ["Anhalten"],
+    "definitions_de": ["Handlung oder Vorgang des Anhaltens oder des Bewirkens, dass etwas aufhört"],
+    "examples_de": [["Das plötzliche **Anhalten** des Zuges warf die Fahrgäste nach vorn", "Das **Stoppen** der Blutung war die erste Priorität des Sanitäters"]]
+  },
+  {
+    "lemma": "storefront",
+    "meanings_de": ["Ladenfassade"],
+    "definitions_de": ["Vorderseite eines Geschäfts, die zur Straße zeigt, einschließlich der Schaufenster"],
+    "examples_de": [["Die **Schaufensterfront** der Bäckerei präsentierte frische Backwaren", "Sie dekorierten ihre **Ladenfassade** jeden Dezember mit Weihnachtsbeleuchtung"]]
+  },
+  {
+    "lemma": "storehouse",
+    "meanings_de": ["Lagerhaus", "Wissensspeicher"],
+    "definitions_de": ["Gebäude zur Lagerung von Waren, Vorräten oder Ausrüstung in großen Mengen", "reiche Quelle oder Sammlung von Informationen, Erinnerungen oder wertvollen Dingen"],
+    "examples_de": [["Das alte **Lagerhaus** enthielt landwirtschaftliche Geräte aus drei Generationen", "Arbeiter luden vor dem Winter Getreide ins **Speichergebäude**"], ["Ihr Geist war ein **Wissensspeicher** voller historischer Fakten und Daten", "Die Bibliothek dient als **Schatzkammer** des Gemeindewissens"]]
+  },
+  {
+    "lemma": "storekeeper",
+    "meanings_de": ["Ladenbesitzer"],
+    "definitions_de": ["Person, die ein Einzelhandelsgeschäft oder einen kleinen Laden besitzt oder führt"],
+    "examples_de": [["Der freundliche **Ladenbesitzer** kannte jeden Kunden beim Namen", "Die **Geschäftsinhaberin** öffnete früh für die Pendler am Morgen"]]
+  },
+  {
+    "lemma": "storeroom",
+    "meanings_de": ["Lagerraum"],
+    "definitions_de": ["Raum in einem Gebäude zur Aufbewahrung von Vorräten, Ausrüstung oder Inventar"],
+    "examples_de": [["Büromaterial wurde im **Lagerraum** am Ende des Flurs aufbewahrt", "Der **Vorratsraum** des Restaurants war mit Trockenwaren und Konserven bestückt"]]
+  },
+  {
+    "lemma": "storey",
+    "meanings_de": ["Stockwerk"],
+    "definitions_de": ["einzelne Etage oder Ebene eines Gebäudes, vom Erdgeschoss aufwärts gezählt"],
+    "examples_de": [["Ihre Wohnung befand sich im dritten **Stockwerk** des Gebäudes", "Die Feuerleiter verband alle sechs **Etagen** des Gebäudes"]]
+  },
+  {
+    "lemma": "stork",
+    "meanings_de": ["Storch"],
+    "definitions_de": ["großer langbeiniger Vogel mit langem Hals und Schnabel, der in Feuchtgebieten nach Nahrung sucht"],
+    "examples_de": [["Ein Weiß**storch** baute sein Nest auf dem Kirchturm", "**Störche** ziehen jährlich Tausende von Kilometern zwischen Europa und Afrika"]]
+  },
+  {
+    "lemma": "storybook",
+    "meanings_de": ["Geschichtenbuch", "märchenhafte Eigenschaft"],
+    "definitions_de": ["Buch mit Geschichten, besonders illustrierte Erzählungen für Kinder", "perfekte oder idealisierte Eigenschaft wie aus einem Märchen"],
+    "examples_de": [["Sie las den Kindern jeden Abend aus ihrem Lieblings**geschichtenbuch** vor", "Das illustrierte **Märchenbuch** gewann mehrere Preise für seine Gestaltung"], ["Ihre **märchenhafte** Romanze begann mit einer zufälligen Begegnung in Venedig", "Das Häuschen hatte **bilderbuchhaften** Charme mit seinem Reetdach"]]
+  },
+  {
+    "lemma": "storyline",
+    "meanings_de": ["Handlungsstrang"],
+    "definitions_de": ["Hauptgeschichte oder Abfolge von Ereignissen in einem Buch, Film oder einer Fernsehserie"],
+    "examples_de": [["Der **Handlungsstrang** des Films hielt das Publikum bis zum Ende in Atem", "Die Autoren entwickelten mehrere **Erzählstränge** für die Fernsehserie"]]
+  },
+  {
+    "lemma": "storyteller",
+    "meanings_de": ["Geschichtenerzähler"],
+    "definitions_de": ["Person, die Geschichten erzählt, entweder beruflich oder zur Unterhaltung"],
+    "examples_de": [["Der **Geschichtenerzähler** fesselte die Kinder mit Abenteuergeschichten", "Mein Großvater war ein begnadeter **Erzähler**, der jedes Publikum in seinen Bann ziehen konnte"]]
+  },
+  {
+    "lemma": "stout",
+    "meanings_de": ["dunkles Starkbier"],
+    "definitions_de": ["dunkles, schweres Bier mit kräftigem Geschmack, typischerweise aus geröstetem Malz hergestellt"],
+    "examples_de": [["Er bestellte im Pub ein Pint irisches **Stout**", "Das Schokoladen-**Starkbier** hatte Noten von Kaffee und Karamell"]]
+  },
+  {
+    "lemma": "stove",
+    "meanings_de": ["Herd"],
+    "definitions_de": ["Küchengerät mit Brennern oder Heizelementen zum Kochen von Speisen"],
+    "examples_de": [["Sie schaltete den **Herd** ein, um Wasser für die Nudeln zu kochen", "Der elektrische **Kochherd** hatte vier Kochplatten und einen Backofen darunter"]]
+  },
+  {
+    "lemma": "stowage",
+    "meanings_de": ["Laderaum"],
+    "definitions_de": ["Raum zur Lagerung von Fracht oder der Vorgang des Verpackens von Gegenständen zur Lagerung"],
+    "examples_de": [["Die **Ladekapazität** des Schiffes betrug zwanzigtausend Container", "Ordnungsgemäße **Verstauung** der Ausrüstung verhindert Schäden beim Transport"]]
+  },
+  {
+    "lemma": "stowaway",
+    "meanings_de": ["blinder Passagier"],
+    "definitions_de": ["Person, die sich an Bord eines Fahrzeugs oder Schiffes versteckt, um ohne Bezahlung zu reisen"],
+    "examples_de": [["Die Sicherheitskräfte fanden einen **blinden Passagier** im Frachtraum des Schiffes", "Der junge **Schwarzfahrer** träumte von Abenteuern in fernen Ländern"]]
+  },
+  {
+    "lemma": "straddle",
+    "meanings_de": ["Grätschstellung", "unentschlossene Position"],
+    "definitions_de": ["Position mit einem Bein auf jeder Seite von etwas", "Position, bei der man sich nicht auf eine von zwei gegensätzlichen Seiten oder Ansichten festlegt"],
+    "examples_de": [["Der Reiter behielt einen sicheren **Grätschsitz** auf dem Pferd bei", "Seine breite **Spreizstellung** half ihm, auf dem Balken das Gleichgewicht zu halten"], ["Die **Schaukelpolitik** des Politikers frustrierte beide Parteien", "Ihre **Zwischenposition** zwischen Tradition und Innovation prägte ihren Ansatz"]]
+  },
+  {
+    "lemma": "straightaway",
+    "meanings_de": ["Gerade"],
+    "definitions_de": ["gerader Abschnitt einer Straße oder Rennstrecke ohne Kurven oder Biegungen"],
+    "examples_de": [["Der Rennwagen erreichte auf der langen **Geraden** Höchstgeschwindigkeit", "Die Fahrer beschleunigten durch die **Zielgerade** vor der nächsten Kurve"]]
+  },
+  {
+    "lemma": "straightedge",
+    "meanings_de": ["Lineal"],
+    "definitions_de": ["Streifen aus Holz, Metall oder Kunststoff mit gerader Kante zum Zeichnen von Linien"],
+    "examples_de": [["Der Architekt verwendete ein **Lineal**, um präzise Baupläne zu zeichnen", "Die Schüler brauchten ein **Zeichenlineal** für ihre Geometrieaufgaben"]]
+  },
+  {
+    "lemma": "straining",
+    "meanings_de": ["Überanstrengung"],
+    "definitions_de": ["Vorgang großer körperlicher oder geistiger Anstrengung, die Stress verursachen kann"],
+    "examples_de": [["Die **Überanstrengung** beim schweren Heben verursachte seine Rückenverletzung", "Ständige **Anspannung** durch Termindruck beeinträchtigte ihre Gesundheit"]]
+  },
+  {
+    "lemma": "strait",
+    "meanings_de": ["Meerenge"],
+    "definitions_de": ["schmale Wasserpassage, die zwei größere Gewässer miteinander verbindet"],
+    "examples_de": [["Schiffe navigieren vorsichtig durch die **Meerenge** zwischen den Inseln", "Die **Straße** von Gibraltar verbindet den Atlantik mit dem Mittelmeer"]]
+  },
+  {
+    "lemma": "straitjacket",
+    "meanings_de": ["Zwangsjacke", "einengende Beschränkung"],
+    "definitions_de": ["starkes Kleidungsstück mit langen Ärmeln, die die Arme binden, um gewalttätige Patienten zu fixieren", "etwas, das die Handlungs-, Denk- oder Entwicklungsfreiheit stark einschränkt"],
+    "examples_de": [["Das Krankenhaus verwendet keine **Zwangsjacken** mehr zur Patientenfixierung", "Houdini entkam bei seinen Vorführungen spektakulär aus verschlossenen **Zwangsjacken**"], ["Veraltete Vorschriften wurden zur **Zwangsjacke** für Geschäftsinnovationen", "Der Lehrplan war ein **Korsett**, das kreativen Unterricht erstickte"]]
+  },
+  {
+    "lemma": "strand",
+    "meanings_de": ["Faden oder Faser", "Strandbereich"],
+    "definitions_de": ["einzelnes dünnes Stück Faden, Draht, Haar oder ähnliches Material", "Strand oder Ufer, besonders der Bereich zwischen Hoch- und Niedrigwassermarken"],
+    "examples_de": [["Sie drehte drei **Fäden** Garn zusammen, um ein Seil zu machen", "Ein einzelner DNA-**Strang** enthält genetische Informationen"], ["Touristen spazierten bei Sonnenuntergang am **Strand** entlang und sammelten Muscheln", "Der **Küstenstreifen** war nach dem Sturm mit Treibholz übersät"]]
+  },
+  {
+    "lemma": "stranglehold",
+    "meanings_de": ["Würgegriff"],
+    "definitions_de": ["extrem fester Griff um jemandes Hals oder vollständige Kontrolle über etwas"],
+    "examples_de": [["Der **Würgegriff** des Unternehmens auf den Markt verhinderte Wettbewerb", "Den **Klammergriff** alter Traditionen zu brechen dauerte Jahre"]]
+  },
+  {
+    "lemma": "strangler",
+    "meanings_de": ["Würger"],
+    "definitions_de": ["Person, die durch Zusammendrücken der Kehle tötet, um die Atmung zu verhindern"],
+    "examples_de": [["Die Polizei suchte nach dem **Würger**, der die Nachbarschaft terrorisierte", "Der Serien**würger** hinterließ bei jedem Opfer charakteristische Spuren"]]
+  },
+  {
+    "lemma": "strangling",
+    "meanings_de": ["Erwürgen"],
+    "definitions_de": ["Handlung des Tötens oder Verletzens durch Zusammendrücken der Kehle, um die Atmung zu stoppen"],
+    "examples_de": [["Der Detektiv fand Spuren von **Erwürgen** am Hals des Opfers", "Das **Abwürgen** von Innovation erfolgt, wenn Bürokratie überhandnimmt"]]
+  },
+  {
+    "lemma": "strangulation",
+    "meanings_de": ["Strangulation"],
+    "definitions_de": ["Tötung durch Zusammendrücken der Kehle oder der Zustand des Erwürgtwerdens"],
+    "examples_de": [["Der Gerichtsmediziner stellte **Strangulation** als Todesursache fest", "Die wirtschaftliche **Erdrosselung** zwang viele kleine Unternehmen zur dauerhaften Schließung"]]
+  },
+  {
+    "lemma": "strap",
+    "meanings_de": ["Riemen"],
+    "definitions_de": ["Streifen aus Leder, Stoff oder anderem Material zum Befestigen oder Tragen"],
+    "examples_de": [["Sie stellte den **Riemen** ihres Rucksacks für mehr Komfort ein", "Das Uhren**armband** war aus echtem italienischem Leder"]]
+  },
+  {
+    "lemma": "stratagem",
+    "meanings_de": ["Kriegslist"],
+    "definitions_de": ["sorgfältig geplantes Schema oder Trick, das darauf abzielt, ein bestimmtes Ziel zu erreichen"],
+    "examples_de": [["Die **Kriegslist** des Generals überraschte die feindlichen Streitkräfte völlig", "Ihre **List** zur Beförderung beinhaltete strategisches Netzwerken"]]
+  },
+  {
+    "lemma": "strategist",
+    "meanings_de": ["Stratege"],
+    "definitions_de": ["Person, die in der Planung und Leitung von Operationen zur Erreichung spezifischer Ziele geschickt ist"],
+    "examples_de": [["Der politische **Stratege** plante jedes Detail der Kampagne", "Schachmeister sind geborene **Strategen**, die viele Züge vorausdenken"]]
+  },
+  {
+    "lemma": "stratification",
+    "meanings_de": ["Schichtung"],
+    "definitions_de": ["Anordnung oder Klassifizierung von etwas in verschiedene Schichten, Ebenen oder soziale Klassen"],
+    "examples_de": [["Die soziale **Schichtung** schuf Barrieren zwischen den Wirtschaftsklassen", "Die Gesteins**schichtung** offenbart Millionen Jahre geologischer Geschichte"]]
+  },
+  {
+    "lemma": "stratosphere",
+    "meanings_de": ["Stratosphäre"],
+    "definitions_de": ["Schicht der Erdatmosphäre über der Troposphäre, die sich von etwa 10 bis 50 Kilometer Höhe erstreckt"],
+    "examples_de": [["Verkehrsflugzeuge fliegen in der unteren **Stratosphäre** für ruhigere Reisen", "Die Ozonschicht in der **Stratosphäre** schützt uns vor Strahlung"]]
+  },
+  {
+    "lemma": "stratum",
+    "meanings_de": ["geologische Schicht", "Gesellschaftsschicht"],
+    "definitions_de": ["Gesteins- oder Bodenschicht mit einheitlichen inneren Eigenschaften", "Ebene oder Klasse in der Gesellschaft basierend auf sozialer oder wirtschaftlicher Position"],
+    "examples_de": [["Jede **Gesteinsschicht** erzählte eine andere geologische Geschichte", "Archäologen gruben vorsichtig jede **Schicht** aus, um Artefakte zu erhalten"], ["Menschen aus jeder **Gesellschaftsschicht** nahmen an der öffentlichen Versammlung teil", "Der Wechsel zwischen sozialen **Schichten** war im viktorianischen England schwierig"]]
+  },
+  {
+    "lemma": "straw",
+    "meanings_de": ["getrocknete Getreidehalme", "Trinkhalm"],
+    "definitions_de": ["getrocknete Stängel von Getreidepflanzen, die als Tiereinstreu oder Futter verwendet werden", "dünnes Röhrchen zum Aufsaugen von Flüssigkeit aus einem Behälter"],
+    "examples_de": [["Bauern verteilten täglich frisches **Stroh** in den Pferdeboxen", "Die Vogelscheuche war mit altem **Stroh** aus der Scheune gefüllt"], ["Sie trank ihren Smoothie durch einen wiederverwendbaren Metall**strohhalm**", "Papier**trinkhalme** ersetzten die Plastikhalme im Restaurant"]]
+  },
+  {
+    "lemma": "strawberry",
+    "meanings_de": ["Erdbeere"],
+    "definitions_de": ["süße, weiche rote Frucht mit Samen auf der Oberfläche, die auf niedrigen Pflanzen wächst"],
+    "examples_de": [["Frische **Erdbeeren** krönten den Biskuitkuchen mit Schlagsahne", "Das **Erdbeerfeld** produzierte den ganzen Sommer über reichlich Früchte"]]
+  },
+  {
+    "lemma": "stray",
+    "meanings_de": ["herrenloses Tier"],
+    "definitions_de": ["Haustier, das von zu Hause weggelaufen ist oder kein Zuhause hat"],
+    "examples_de": [["Die **streunende** Katze erschien jeden Abend an ihrer Tür zum Fressen", "Tierheime arbeiten hart daran, Heime für **Streuner** zu finden"]]
+  },
+  {
+    "lemma": "streamer",
+    "meanings_de": ["Luftschlange", "Online-Streamer"],
+    "definitions_de": ["lange schmale Fahne oder Band, das als Dekoration verwendet wird", "Person, die Videoinhalte live über das Internet überträgt"],
+    "examples_de": [["Bunte **Luftschlangen** hingen von der Decke für die Party", "Papier**girlanden** flatterten während der Parade im Wind"], ["Der beliebte **Streamer** zog jede Nacht Tausende von Zuschauern an", "Gaming-**Streamer** interagieren oft in Echtzeit mit ihrem Publikum"]]
+  },
+  {
+    "lemma": "streaming",
+    "meanings_de": ["kontinuierlicher Datenfluss"],
+    "definitions_de": ["Methode zur kontinuierlichen Übertragung oder zum Empfang von Daten über das Internet"],
+    "examples_de": [["Video-**Streaming**-Dienste veränderten, wie Menschen Fernsehserien schauen", "Musik-**Streaming** ermöglicht sofortigen Zugriff auf Millionen von Songs"]]
+  },
+  {
+    "lemma": "streetcar",
+    "meanings_de": ["Straßenbahn"],
+    "definitions_de": ["Personenfahrzeug, das auf Schienen entlang von Stadtstraßen fährt und elektrisch betrieben wird"],
+    "examples_de": [["Die historische **Straßenbahn** läutete an jeder Kreuzung ihre Glocke", "Touristen fuhren mit der **Tram** durch die Altstadt"]]
+  },
+  {
+    "lemma": "strengthening",
+    "meanings_de": ["Stärkung"],
+    "definitions_de": ["Handlung oder Prozess, etwas körperlich oder strukturell stärker oder kraftvoller zu machen"],
+    "examples_de": [["Regelmäßiges Training führt mit der Zeit zur **Muskelstärkung**", "Die **Stärkung** diplomatischer Beziehungen verbesserte die internationalen Beziehungen"]]
+  },
+  {
+    "lemma": "stressor",
+    "meanings_de": ["Stressfaktor"],
+    "definitions_de": ["etwas, das körperliche, geistige oder emotionale Belastung oder Spannung verursacht"],
+    "examples_de": [["Arbeitsfristen waren ein wichtiger **Stressfaktor** in ihrem täglichen Leben", "Das Identifizieren von **Stressoren** hilft Menschen, Ängste effektiver zu bewältigen"]]
+  }
+]

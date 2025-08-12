@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "legato",
+    "meanings_de": ["glatt und verbunden"],
+    "definitions_de": ["in der Musik mit glatten, verbundenen Tönen ohne Unterbrechungen zwischen den einzelnen Noten gespielt"],
+    "examples_de": [["Der Pianist spielte die Melodie in einem **legato** Stil", "Diese Passage erfordert eine **legato** Spielweise, um schön zu klingen"]]
+  },
+  {
+    "lemma": "legendary",
+    "meanings_de": ["aus Geschichten berühmt", "bemerkenswert großartig"],
+    "definitions_de": ["berühmt oder bekannt durch Geschichten, die über Generationen weitergegeben wurden", "so bemerkenswert oder beeindruckend, dass darüber Geschichten erzählt werden oder große Bewunderung entsteht"],
+    "examples_de": [["Siegfried ist eine **legendäre** Figur aus der germanischen Mythologie", "Die **legendären** Helden der Antike inspirierten viele Erzählungen"], ["Ihre **legendäre** Geduld half ihr beim Unterrichten schwieriger Schüler", "Das **legendäre** Comeback der Mannschaft wird noch jahrelang in Erinnerung bleiben"]]
+  },
+  {
+    "lemma": "legged",
+    "meanings_de": ["mit bestimmten Beinen"],
+    "definitions_de": ["mit einer bestimmten Anzahl oder Art von Beinen ausgestattet, wie näher beschrieben"],
+    "examples_de": [["Der **dreibeinige** Hocker wackelte auf dem unebenen Boden", "**Langbeinige** Vögel waten durch seichtes Wasser auf der Suche nach Fischen"]]
+  },
+  {
+    "lemma": "legible",
+    "meanings_de": ["deutlich lesbar"],
+    "definitions_de": ["klar und ordentlich genug geschrieben oder gedruckt, um mühelos gelesen oder entziffert werden zu können"],
+    "examples_de": [["Bitte schreiben Sie in **leserlicher** Handschrift, damit andere es verstehen können", "Das alte Manuskript war nach Jahrhunderten kaum noch **lesbar**"]]
+  },
+  {
+    "lemma": "legion",
+    "meanings_de": ["sehr zahlreich"],
+    "definitions_de": ["in großer Zahl vorhanden; in erheblichen Mengen oder Quantitäten existierend"],
+    "examples_de": [["Ihre Fans sind **zahlreich** im ganzen Land verteilt", "Die Probleme des Unternehmens sind **zahllos** und komplex"]]
+  },
+  {
+    "lemma": "legless",
+    "meanings_de": ["ohne Beine", "extrem betrunken"],
+    "definitions_de": ["keine Beine besitzend oder die Fähigkeit verloren habend, die Beine zu benutzen", "so betrunken, dass man nicht mehr richtig stehen oder gehen kann"],
+    "examples_de": [["Die **beinlose** Eidechse sieht aus wie eine Schlange, ist aber keine", "Einige **beinlose** Amphibien leben vollständig unter der Erde"], ["Er war nach dem Junggesellenabschied völlig **besoffen**", "Sie fanden ihn um Mitternacht **sternhagelvoll** vor der Kneipe"]]
+  },
+  {
+    "lemma": "leisurely",
+    "meanings_de": ["gemächlich und entspannt"],
+    "definitions_de": ["ohne Eile in einer entspannten und genussvollen Art und Weise durchgeführt"],
+    "examples_de": [["Sie machten einen **gemütlichen** Spaziergang durch den Park", "Wir genossen ein **gemächliches** Frühstück am Sonntagmorgen"]]
+  },
+  {
+    "lemma": "lengthened",
+    "meanings_de": ["verlängert"],
+    "definitions_de": ["ausgedehnt oder gestreckt, um länger zu werden in Bezug auf Distanz, Dauer oder Umfang"],
+    "examples_de": [["Die **verlängerten** Schatten zeigten, dass der Abend nahte", "Ihre **verlängerte** Abwesenheit begann ihre Freunde zu beunruhigen"]]
+  },
+  {
+    "lemma": "lengthwise",
+    "meanings_de": ["der Länge nach"],
+    "definitions_de": ["sich entlang oder in Richtung der größten Ausdehnung erstreckend"],
+    "examples_de": [["Schneiden Sie die Gurke **längs** in dünne Streifen", "Der Stoff hat ein **längsgerichtetes** Streifenmuster"]]
+  },
+  {
+    "lemma": "lengthy",
+    "meanings_de": ["sehr lang"],
+    "definitions_de": ["für eine beträchtliche Zeit oder über eine erhebliche Distanz dauernd oder sich erstreckend"],
+    "examples_de": [["Das Komitee führte eine **langwierige** Diskussion über die Politik", "Sie schrieb eine **ausführliche** E-Mail, um ihre Position zu erklären"]]
+  },
+  {
+    "lemma": "lenient",
+    "meanings_de": ["nachsichtig oder tolerant"],
+    "definitions_de": ["Milde oder Toleranz zeigend; nicht streng beim Bestrafen oder Beurteilen"],
+    "examples_de": [["Der Richter war **nachsichtig** mit Ersttätern", "Die Eltern wurden **milder**, als ihre Kinder reifer wurden"]]
+  },
+  {
+    "lemma": "lenten",
+    "meanings_de": ["die Fastenzeit betreffend"],
+    "definitions_de": ["sich auf die christliche Fastenzeit beziehend oder für diese Zeit angemessen"],
+    "examples_de": [["Die Kirche serviert einfache **Fasten**mahlzeiten während dieser Zeit", "Viele befolgen **Fasten**traditionen vor Ostern"]]
+  },
+  {
+    "lemma": "lesbian",
+    "meanings_de": ["homosexuelle Frauen betreffend"],
+    "definitions_de": ["sich auf Frauen beziehend oder charakteristisch für Frauen, die sich sexuell zu anderen Frauen hingezogen fühlen"],
+    "examples_de": [["Das **lesbische** Paar feierte seinen zehnten Jahrestag zusammen", "Sie schreibt über **lesbische** Themen in der zeitgenössischen Literatur"]]
+  },
+  {
+    "lemma": "lessened",
+    "meanings_de": ["verringert oder geschwächt"],
+    "definitions_de": ["in Größe, Menge, Grad oder Intensität gegenüber dem vorherigen Zustand reduziert"],
+    "examples_de": [["Die **verringerten** Niederschläge bereiteten den Landwirten Sorgen", "Sein **nachlassendes** Engagement war für alle spürbar"]]
+  },
+  {
+    "lemma": "lesser",
+    "meanings_de": ["kleiner oder untergeordnet"],
+    "definitions_de": ["kleiner in Größe, Menge oder Bedeutung als etwas anderes"],
+    "examples_de": [["Sie wählte das **kleinere** von zwei Übeln", "Die **kleineren** Planeten kreisen näher an der Sonne"]]
+  },
+  {
+    "lemma": "lethal",
+    "meanings_de": ["tödlich"],
+    "definitions_de": ["fähig, den Tod zu verursachen; extrem gefährlich oder zerstörerisch"],
+    "examples_de": [["Der Biss der Schlange enthält eine **tödliche** Dosis Gift", "Die Mischung dieser Chemikalien erzeugt eine **letale** Kombination"]]
+  },
+  {
+    "lemma": "lethargic",
+    "meanings_de": ["träge und teilnahmslos"],
+    "definitions_de": ["von Lethargie betroffen; träge, schläfrig und wenig Energie oder Enthusiasmus zeigend"],
+    "examples_de": [["Das heiße Wetter machte alle **träge**", "Nach dem üppigen Mahl wurde er **lethargisch** und schläfrig"]]
+  },
+  {
+    "lemma": "lettered",
+    "meanings_de": ["mit Buchstaben versehen", "literarisch gebildet"],
+    "definitions_de": ["mit Buchstaben des Alphabets markiert oder beschriftet", "gut gebildet, besonders in Literatur und Geisteswissenschaften"],
+    "examples_de": [["Die **beschrifteten** Blöcke halfen Kindern, das Alphabet zu lernen", "Jeder **mit Buchstaben versehene** Abschnitt entspricht einem anderen Thema"], ["Die **gelehrten** Wissenschaftler debattierten bis spät in die Nacht über Philosophie", "Nur die **gebildetsten** Bürger konnten alte Texte lesen"]]
+  },
+  {
+    "lemma": "filipino",
+    "meanings_de": ["die Philippinen betreffend"],
+    "definitions_de": ["sich auf die Philippinen, ihre Menschen, Kultur oder Sprachen beziehend"],
+    "examples_de": [["Die **philippinische** Küche vereint spanische und asiatische Einflüsse", "Sie studierte **philippinische** Geschichte an der Universität"]]
+  },
+  {
+    "lemma": "finnish",
+    "meanings_de": ["Finnland betreffend"],
+    "definitions_de": ["sich auf Finnland, seine Menschen, Sprache oder Kultur beziehend"],
+    "examples_de": [["**Finnische** Saunen sind eine wichtige kulturelle Tradition", "Er lernt **Finnisch**, um mit Verwandten zu kommunizieren"]]
+  },
+  {
+    "lemma": "flemish",
+    "meanings_de": ["Flandern betreffend"],
+    "definitions_de": ["sich auf Flandern, seine Menschen oder die dort gesprochene niederländische Sprache beziehend"],
+    "examples_de": [["**Flämische** Maler waren während der Renaissance berühmt", "Das Museum zeigt wunderschöne **flämische** Wandteppiche"]]
+  },
+  {
+    "lemma": "florentine",
+    "meanings_de": ["Florenz betreffend"],
+    "definitions_de": ["sich auf Florenz in Italien, seine Menschen oder deren Kultur und Kunst beziehend"],
+    "examples_de": [["**Florentinische** Architektur zeigt die Schönheit der Renaissance", "Der Koch bereitete Eier nach traditioneller **florentinischer** Art zu"]]
+  },
+  {
+    "lemma": "franciscan",
+    "meanings_de": ["den heiligen Franziskus betreffend"],
+    "definitions_de": ["sich auf den heiligen Franziskus von Assisi oder den von ihm gegründeten Orden beziehend"],
+    "examples_de": [["Die **franziskanischen** Mönche leben in einfacher Armut", "**Franziskanische** Werte betonen Frieden und Sorge für die Natur"]]
+  },
+  {
+    "lemma": "freudian",
+    "meanings_de": ["Freuds Theorien betreffend"],
+    "definitions_de": ["sich auf Sigmund Freud oder seine Theorien der Psychoanalyse beziehend"],
+    "examples_de": [["Ihr **freudscher** Versprecher verriet ihre wahren Gefühle", "Der Therapeut verwendete **freudsche** Methoden zur Traumanalyse"]]
+  },
+  {
+    "lemma": "gabonese",
+    "meanings_de": ["Gabun betreffend"],
+    "definitions_de": ["sich auf Gabun, seine Menschen oder deren Kultur in Zentralafrika beziehend"],
+    "examples_de": [["**Gabunische** Musik vereint traditionelle Trommeln und moderne Stile", "Der **gabunische** Regenwald beherbergt eine unglaubliche Artenvielfalt"]]
+  },
+  {
+    "lemma": "gaelic",
+    "meanings_de": ["keltische Sprachen betreffend"],
+    "definitions_de": ["sich auf die keltischen Sprachen Schottlands, Irlands und der Isle of Man beziehend"],
+    "examples_de": [["**Gälischer** Fußball ist in ganz Irland beliebt", "Sie lernt **Gälisch**, um sich mit ihrem Erbe zu verbinden"]]
+  },
+  {
+    "lemma": "gambian",
+    "meanings_de": ["Gambia betreffend"],
+    "definitions_de": ["sich auf Gambia, seine Menschen oder Kultur in Westafrika beziehend"],
+    "examples_de": [["Die **gambische** Küche bietet Reis- und Erdnussgerichte", "Der **gambische** Fluss versorgt viele Gemeinden mit Wasser"]]
+  },
+  {
+    "lemma": "gandhian",
+    "meanings_de": ["Gandhis Philosophie betreffend"],
+    "definitions_de": ["sich auf Mahatma Gandhi oder seine Philosophie des gewaltlosen Widerstands beziehend"],
+    "examples_de": [["Die Demonstranten verwendeten **gandhische** Methoden des friedlichen Widerstands", "**Gandhische** Prinzipien beeinflussten weltweite Bürgerrechtsbewegungen"]]
+  },
+  {
+    "lemma": "lewd",
+    "meanings_de": ["anzüglich und anstößig"],
+    "definitions_de": ["auf sexuelle Weise grob und anstößig; lüstern oder unzüchtig"],
+    "examples_de": [["Seine **anzüglichen** Kommentare machten alle bei der Arbeit unbehaglich", "Die **obszönen** Witze des Komikers überschritten die Grenze des Anstands"]]
+  },
+  {
+    "lemma": "liable",
+    "meanings_de": ["rechtlich verantwortlich", "geneigt zu"],
+    "definitions_de": ["rechtlich verantwortlich oder verpflichtet für etwas, insbesondere Schulden oder Schäden", "wahrscheinlich oder geneigt, etwas Unerwünschtes zu tun oder zu erleben"],
+    "examples_de": [["Das Unternehmen ist **haftbar** für alle Verletzungen auf ihrem Grundstück", "Hausbesitzer sind **verantwortlich** für Unfälle auf ihrem Gelände"], ["Sie ist **geneigt** zu vergessen, wenn man sie nicht daran erinnert", "Diese alte Brücke ist **anfällig** für Einstürze bei Stürmen"]]
+  },
+  {
+    "lemma": "liberated",
+    "meanings_de": ["von Beschränkungen befreit"],
+    "definitions_de": ["befreit von traditionellen gesellschaftlichen Konventionen oder physischen Einschränkungen"],
+    "examples_de": [["Die **befreiten** Frauen verfolgten Karrieren, die ihnen zuvor verwehrt waren", "Er fühlte sich **befreit**, nachdem er seinen einschränkenden Job verlassen hatte"]]
+  },
+  {
+    "lemma": "licensed",
+    "meanings_de": ["offiziell erlaubt"],
+    "definitions_de": ["mit offizieller Erlaubnis oder Befugnis ausgestattet, etwas Bestimmtes zu tun"],
+    "examples_de": [["Nur **lizenzierte** Elektriker dürfen diese Art von Arbeiten durchführen", "Das Restaurant ist **berechtigt**, bis Mitternacht Alkohol auszuschenken"]]
+  },
+  {
+    "lemma": "lifeless",
+    "meanings_de": ["ohne Leben", "energielos"],
+    "definitions_de": ["tot oder scheinbar tot; kein Leben enthaltend oder unterstützend", "ohne Energie, Vitalität oder Aufregung; langweilig und uninspirierend"],
+    "examples_de": [["Der **leblose** Körper wurde heute früh morgens entdeckt", "Der Mars erscheint als ein **lebloser** Planet"], ["Ihre **leblose** Darbietung enttäuschte die Theaterkritiker", "Die Party war **leblos**, bis die Band zu spielen begann"]]
+  },
+  {
+    "lemma": "lifelike",
+    "meanings_de": ["lebensecht"],
+    "definitions_de": ["dem echten Leben in Aussehen oder Art und Weise sehr ähnlich oder es darstellend"],
+    "examples_de": [["Die Wachsfiguren sahen unglaublich **lebensecht** aus", "Ihre **lebensechten** Gemälde täuschten Betrachter, die dachten, es seien Fotografien"]]
+  },
+  {
+    "lemma": "lifelong",
+    "meanings_de": ["lebenslang"],
+    "definitions_de": ["während des gesamten Lebens dauernd oder bestehend"],
+    "examples_de": [["Sie blieben **lebenslange** Freunde, nachdem sie sich im College kennengelernt hatten", "Ihr **lebenslanger** Traum war es, jeden Kontinent zu besuchen"]]
+  },
+  {
+    "lemma": "lifted",
+    "meanings_de": ["angehoben", "gestohlen"],
+    "definitions_de": ["angehoben oder zu einer höheren Position oder Ebene bewegt", "ohne Erlaubnis genommen; gestohlen, besonders auf lässige Weise"],
+    "examples_de": [["Die **gehobene** Stimmung des Teams zeigte sich in ihrer Leistung", "Seine **hochgezogene** Augenbraue drückte Skepsis aus"], ["Die **geklaute** Brieftasche enthielt wichtige Ausweise", "Jemand hat mein Handy **geklaut**, während ich nicht aufgepasst habe"]]
+  },
+  {
+    "lemma": "lighted",
+    "meanings_de": ["beleuchtet"],
+    "definitions_de": ["mit Licht oder Beleuchtung versehen; erleuchtet oder angezündet"],
+    "examples_de": [["Der **beleuchtete** Weg führte Besucher durch den Garten", "Eine **angezündete** Kerze flackerte auf jedem Esstisch"]]
+  },
+  {
+    "lemma": "lighthearted",
+    "meanings_de": ["fröhlich und unbeschwert"],
+    "definitions_de": ["heiter, sorglos und frei von Sorgen oder ernsthaften Bedenken"],
+    "examples_de": [["Die **unbeschwerte** Komödie brachte alle zum Lachen und Entspannen", "Sie behielt trotz der Herausforderungen eine **fröhliche** Einstellung"]]
+  },
+  {
+    "lemma": "lightweight",
+    "meanings_de": ["geringes Gewicht", "ohne Substanz"],
+    "definitions_de": ["im Vergleich zu anderen seiner Art relativ wenig wiegend", "ohne Bedeutung, Einfluss oder intellektuelle Substanz"],
+    "examples_de": [["Diese **leichte** Jacke ist perfekt für das Frühlingswetter", "Aluminium ist ein **leichtes** Metall, das in Flugzeugen verwendet wird"], ["Kritiker taten ihn als **Leichtgewicht** in politischen Debatten ab", "Das Buch bietet nur **oberflächliche** Analysen komplexer Themen"]]
+  },
+  {
+    "lemma": "likable",
+    "meanings_de": ["sympathisch und freundlich"],
+    "definitions_de": ["angenehm, freundlich und leicht zu mögen; mit liebenswerten Eigenschaften"],
+    "examples_de": [["Ihre **sympathische** Persönlichkeit machte sie bei Kollegen beliebt", "Die **liebenswerten** Charaktere des Films hielten das Publikum bei Laune"]]
+  },
+  {
+    "lemma": "likeable",
+    "meanings_de": ["sympathisch und freundlich"],
+    "definitions_de": ["angenehm, freundlich und leicht zu mögen; mit liebenswerten Eigenschaften"],
+    "examples_de": [["Seine **sympathische** Art beruhigte nervöse Patienten", "Das **liebenswerte** Auftreten des Kandidaten gewann viele Wähler"]]
+  },
+  {
+    "lemma": "liked",
+    "meanings_de": ["gemocht oder geschätzt"],
+    "definitions_de": ["mit Gunst, Zustimmung oder Zuneigung von jemandem betrachtet"],
+    "examples_de": [["Der **beliebte** Lehrer erhielt Geschenke von dankbaren Schülern", "Seine **gelikten** Beiträge in sozialen Medien gingen viral"]]
+  },
+  {
+    "lemma": "lilac",
+    "meanings_de": ["blassviolette Farbe"],
+    "definitions_de": ["eine blasse rosa-violette Farbe wie Fliederblüten habend"],
+    "examples_de": [["Sie trug ein wunderschönes **fliederfarbenes** Kleid zur Hochzeit", "Der Sonnenuntergang malte **lila** Streifen über den Himmel"]]
+  },
+  {
+    "lemma": "lilting",
+    "meanings_de": ["rhythmisch und melodisch"],
+    "definitions_de": ["einen angenehmen auf- und absteigenden Rhythmus in Sprache oder Musik habend"],
+    "examples_de": [["Ihre **schwingende** Stimme machte das Schlaflied besonders beruhigend", "Die **beschwingte** Melodie erinnerte ihn an irische Volkslieder"]]
+  },
+  {
+    "lemma": "limbed",
+    "meanings_de": ["mit bestimmten Gliedmaßen"],
+    "definitions_de": ["mit Gliedmaßen einer bestimmten Art oder Anzahl ausgestattet, wie erwähnt"],
+    "examples_de": [["Der **starkgliedrige** Athlet war hervorragend im Klettern", "**Vielgliedrige** Kreaturen bewohnen die Meerestiefen"]]
+  },
+  {
+    "lemma": "limber",
+    "meanings_de": ["biegsam und geschmeidig"],
+    "definitions_de": ["fähig, sich leicht zu biegen; flexibel und wendig in der Bewegung"],
+    "examples_de": [["Tänzer müssen ihre Körper durch Dehnung **geschmeidig** halten", "Die **gelenkige** Turnerin führte erstaunliche Verrenkungen vor"]]
+  },
+  {
+    "lemma": "limiting",
+    "meanings_de": ["einschränkend"],
+    "definitions_de": ["Beschränkungen auferlegend oder dazu dienend, Umfang, Ausmaß oder Freiheit einzuschränken"],
+    "examples_de": [["Der **limitierende** Faktor in der Produktion war die Rohstoffversorgung", "Diese **einschränkenden** Überzeugungen hindern Menschen daran, Ziele zu erreichen"]]
+  },
+  {
+    "lemma": "limitless",
+    "meanings_de": ["grenzenlos"],
+    "definitions_de": ["ohne Ende, Grenze oder Begrenzung; unendlich in Ausdehnung oder Möglichkeit"],
+    "examples_de": [["Kinder haben **grenzenlose** Fantasie beim Geschichtenerzählen", "Das Universum scheint in seiner Weite **unendlich** zu sein"]]
+  },
+  {
+    "lemma": "limp",
+    "meanings_de": ["ohne Steifheit", "schwach und wirkungslos"],
+    "definitions_de": ["ohne Steifheit oder Festigkeit; weich und herabhängend", "ohne Kraft, Energie oder Wirksamkeit; schwach"],
+    "examples_de": [["Die Blumen sahen nach Tagen ohne Wasser **schlaff** aus", "Sein **schlaffer** Händedruck konnte kein Vertrauen erwecken"], ["Die **schwache** Reaktion des Teams enttäuschte ihre Anhänger", "Ihre **lahme** Ausrede überzeugte niemanden"]]
+  },
+  {
+    "lemma": "lineal",
+    "meanings_de": ["in direkter Linie"],
+    "definitions_de": ["in direkter Abstammungs- oder Ahnenlinie; erblich"],
+    "examples_de": [["Er ist der **direkte** Nachkomme des Stadtgründers", "Der Thron geht an den **direkten** Erben über"]]
+  }
+]

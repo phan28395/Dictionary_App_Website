@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "gaunt",
+    "meanings_de": ["dünn und ausgezehrt"],
+    "definitions_de": ["extrem dünn und schwach oder krank aussehend als Folge von Hunger, Krankheit oder Leiden, wobei die Knochen oft deutlich hervortreten"],
+    "examples_de": [["Der Gefangene sah nach Monaten der Gefangenschaft **ausgezehrt** aus", "Sein **hageres** Gesicht zeigte die Auswirkungen seiner langen Krankheit"]]
+  },
+  {
+    "lemma": "geared",
+    "meanings_de": ["ausgestattet oder ausgerichtet"],
+    "definitions_de": ["mit Mechanismen ausgestattet oder speziell entworfen und angepasst, um bestimmte Bedürfnisse oder Zwecke zu erfüllen"],
+    "examples_de": [["Die Fabrik ist auf maximale Effizienz **ausgerichtet**", "Ihr Trainingsprogramm ist speziell auf Anfänger **zugeschnitten**"]]
+  },
+  {
+    "lemma": "gelatinous",
+    "meanings_de": ["gallertartig in Konsistenz"],
+    "definitions_de": ["eine dicke, halbdurchsichtige Konsistenz aufweisend, die Gelee oder Gelatine ähnelt"],
+    "examples_de": [["Die Qualle hat einen **gallertartigen** Körper", "Die Suppe hatte eine seltsame **gelatinöse** Konsistenz"]]
+  },
+  {
+    "lemma": "genealogical",
+    "meanings_de": ["abstammungsbezogen"],
+    "definitions_de": ["sich auf das Studium oder die Nachverfolgung von Familienlinien, Abstammung und Geschichte beziehend"],
+    "examples_de": [["Sie erstellte einen detaillierten **genealogischen** Stammbaum ihrer Familie", "Die **genealogischen** Aufzeichnungen offenbarten überraschende Verbindungen"]]
+  },
+  {
+    "lemma": "generalised",
+    "meanings_de": ["allgemein anwendbar gemacht"],
+    "definitions_de": ["allgemein oder breit in der Anwendung gemacht, anstatt auf bestimmte Fälle oder Beispiele beschränkt zu sein"],
+    "examples_de": [["Der Arzt beschrieb **verallgemeinerte** Symptome der Krankheit", "Sie entwickelten eine **generalisierte** Theorie, die auf viele Situationen anwendbar ist"]]
+  },
+  {
+    "lemma": "generalized",
+    "meanings_de": ["allgemein anwendbar gemacht"],
+    "definitions_de": ["allgemein oder breit in der Anwendung gemacht, anstatt auf bestimmte Fälle oder Beispiele beschränkt zu sein"],
+    "examples_de": [["Die Studie lieferte **verallgemeinerte** Erkenntnisse über menschliches Verhalten", "Sie litt unter einer **generalisierten** Angststörung, die ihren Alltag beeinträchtigte"]]
+  },
+  {
+    "lemma": "generational",
+    "meanings_de": ["generationsbezogen"],
+    "definitions_de": ["sich auf Menschen innerhalb einer bestimmten Generation oder zwischen verschiedenen Generationen beziehend oder diese charakterisierend"],
+    "examples_de": [["Das Unternehmen steht vor **generationsbedingten** Unterschieden bei den Arbeitswerten", "Es gibt eine **generationsbedingte** Kluft bei der Technologienutzung"]]
+  },
+  {
+    "lemma": "generative",
+    "meanings_de": ["erzeugend oder schaffend"],
+    "definitions_de": ["die Fähigkeit besitzend, etwas Neues zu produzieren, zu erschaffen oder hervorzubringen"],
+    "examples_de": [["Der Künstler verwendete **generative** Techniken, um einzigartige Muster zu erstellen", "Lesen ist eine **schöpferische** Tätigkeit, die die Fantasie anregt"]]
+  },
+  {
+    "lemma": "generic",
+    "meanings_de": ["allgemein nicht spezifisch", "markenloses Produkttyp"],
+    "definitions_de": ["sich auf eine allgemeine Klasse oder Gruppe beziehend statt auf spezifische Beispiele", "Waren ohne Markenname bezeichnend, die zu niedrigeren Kosten verkauft werden"],
+    "examples_de": [["Der Film folgt einer **allgemeinen** Handlung, die wir schon oft gesehen haben", "Sie verwendeten **allgemeine** Begriffe zur Beschreibung des Problems"], ["Der Arzt verschrieb ein **generisches** Antibiotikum", "Sie kaufte **markenlose** Cornflakes, um Geld zu sparen"]]
+  },
+  {
+    "lemma": "genial",
+    "meanings_de": ["freundlich und heiter"],
+    "definitions_de": ["Wärme, Freundlichkeit und gute Laune in Art und Wesen zeigend"],
+    "examples_de": [["Die **liebenswürdige** Persönlichkeit des Gastgebers ließ alle sich willkommen fühlen", "Er begrüßte uns mit einem **herzlichen** Lächeln"]]
+  },
+  {
+    "lemma": "genital",
+    "meanings_de": ["Genitalien betreffend"],
+    "definitions_de": ["sich auf die äußeren Fortpflanzungsorgane von Menschen oder Tieren beziehend"],
+    "examples_de": [["Der Arzt führte eine routinemäßige **genitale** Untersuchung durch", "**Genitale** Infektionen erfordern eine sofortige medizinische Behandlung"]]
+  },
+  {
+    "lemma": "genitive",
+    "meanings_de": ["Besitz grammatisch zeigend"],
+    "definitions_de": ["sich auf den grammatischen Fall beziehend, der Besitz, Herkunft oder ähnliche Beziehungen ausdrückt"],
+    "examples_de": [["Im Deutschen wird der **Genitiv** mit bestimmten Endungen gebildet", "Der **genitivische** Gebrauch nimmt in der Umgangssprache ab"]]
+  },
+  {
+    "lemma": "genteel",
+    "meanings_de": ["vornehm und höflich"],
+    "definitions_de": ["höflich, kultiviert und respektabel im Benehmen, oft übertrieben oder affektiert anständig"],
+    "examples_de": [["Sie bewahrte trotz ihrer Armut ein **vornehmes** Auftreten", "Die Nachbarschaft hat einen **distinguierten**, altmodischen Charme"]]
+  },
+  {
+    "lemma": "gentile",
+    "meanings_de": ["nichtjüdische Person"],
+    "definitions_de": ["sich auf eine Person beziehend oder diese bezeichnend, die nicht jüdisch ist"],
+    "examples_de": [["Die Synagoge hieß sowohl jüdische als auch **nichtjüdische** Besucher willkommen", "In biblischen Zeiten umgaben **heidnische** Nationen Israel"]]
+  },
+  {
+    "lemma": "gentlemanly",
+    "meanings_de": ["höflich und ehrenhaft"],
+    "definitions_de": ["sich auf eine Weise verhaltend, die für einen Gentleman als angemessen gilt, mit Höflichkeit, Ehre und Rücksichtnahme"],
+    "examples_de": [["Sein **gentlemanhaftes** Verhalten beeindruckte alle beim Abendessen", "Er machte eine **ritterliche** Geste, indem er die Tür aufhielt"]]
+  },
+  {
+    "lemma": "geocentric",
+    "meanings_de": ["Erde als Zentrum"],
+    "definitions_de": ["die Erde als Zentrum habend oder darstellend, besonders des Sonnensystems"],
+    "examples_de": [["Das **geozentrische** Modell wurde durch die heliozentrische Theorie ersetzt", "Antike Astronomen vertraten **geozentrische** Ansichten des Universums"]]
+  },
+  {
+    "lemma": "geodesic",
+    "meanings_de": ["kürzester Weg geometrisch"],
+    "definitions_de": ["sich auf die kürzest mögliche Linie zwischen zwei Punkten auf einer Kugel oder gekrümmten Oberfläche beziehend"],
+    "examples_de": [["Der Architekt entwarf eine **geodätische** Kuppel für das Gebäude", "Fluglinien folgen **geodätischen** Routen, um Treibstoff zu sparen"]]
+  },
+  {
+    "lemma": "geographic",
+    "meanings_de": ["geografiebezogen"],
+    "definitions_de": ["sich auf die physischen Merkmale, das Klima und die Bewohner der Erde oder einer Region beziehend"],
+    "examples_de": [["Die **geografische** Verteilung der Arten variiert je nach Klima", "Sie untersuchten **geografische** Muster der Krankheitsausbreitung"]]
+  },
+  {
+    "lemma": "geographical",
+    "meanings_de": ["geografiebezogen"],
+    "definitions_de": ["sich auf die physischen Merkmale, das Klima und die Bewohner der Erde oder einer Region beziehend"],
+    "examples_de": [["Das Team erstellte detaillierte **geografische** Karten des Gebiets", "Der Klimawandel beeinflusst **geografische** Grenzen von Ökosystemen"]]
+  },
+  {
+    "lemma": "geologic",
+    "meanings_de": ["geologiebezogen"],
+    "definitions_de": ["sich auf die Wissenschaft beziehend, die sich mit der physischen Struktur, Substanz, Geschichte und Prozessen der Erde befasst"],
+    "examples_de": [["Der Canyon offenbart Millionen Jahre **geologischer** Geschichte", "**Geologische** Untersuchungen helfen bei der Identifizierung von Mineralvorkommen"]]
+  },
+  {
+    "lemma": "geological",
+    "meanings_de": ["geologiebezogen"],
+    "definitions_de": ["sich auf die Wissenschaft beziehend, die sich mit der physischen Struktur, Substanz, Geschichte und Prozessen der Erde befasst"],
+    "examples_de": [["Die **geologische** Formation entstand über Millionen von Jahren", "Wissenschaftler führten **geologische** Studien der Verwerfungslinie durch"]]
+  },
+  {
+    "lemma": "geometric",
+    "meanings_de": ["geometriebezogen", "regelmäßig gemustert"],
+    "definitions_de": ["sich auf die Geometrie und ihre Prinzipien von Punkten, Linien, Flächen und Formen beziehend", "durch regelmäßige Linien, Formen und Muster gekennzeichnet, die oft in der Mathematik vorkommen"],
+    "examples_de": [["Der Künstler schuf **geometrische** Designs mit Dreiecken", "Die Schüler lernten **geometrische** Formeln zu berechnen"], ["Das Gebäude zeigt eine kühne **geometrische** Architektur", "Sie trug ein Kleid mit **geometrischen** Mustern"]]
+  },
+  {
+    "lemma": "geometrical",
+    "meanings_de": ["geometriebezogen"],
+    "definitions_de": ["sich auf die Geometrie und ihre Prinzipien von Punkten, Linien, Flächen und Formen beziehend"],
+    "examples_de": [["Das Rätsel erfordert **geometrisches** Denken zur Lösung", "Die alten Griechen machten wichtige **geometrische** Entdeckungen"]]
+  },
+  {
+    "lemma": "geophysical",
+    "meanings_de": ["erdphysikalische Eigenschaften"],
+    "definitions_de": ["sich auf die Physik der Erde einschließlich ihrer Atmosphäre, Ozeane und ihres Inneren beziehend"],
+    "examples_de": [["**Geophysikalische** Untersuchungen entdeckten unterirdische Wasserquellen", "Das Team verwendete **geophysikalische** Methoden zur Erdbebenforschung"]]
+  },
+  {
+    "lemma": "geopolitical",
+    "meanings_de": ["Politik und Geografie"],
+    "definitions_de": ["sich auf Politik beziehend, wie sie durch geografische Faktoren wie Lage, Ressourcen und Territorium beeinflusst wird"],
+    "examples_de": [["Der Konflikt hat ernsthafte **geopolitische** Auswirkungen auf die Region", "Ölreserven schaffen komplexe **geopolitische** Beziehungen"]]
+  },
+  {
+    "lemma": "geostationary",
+    "meanings_de": ["feste Erdposition"],
+    "definitions_de": ["in einer festen Position relativ zu einem Punkt auf der Erdoberfläche verbleibend durch Umlauf mit der Rotationsgeschwindigkeit der Erde"],
+    "examples_de": [["Kommunikationssatelliten nutzen oft **geostationäre** Umlaufbahnen", "Der **geostationäre** Satellit bietet kontinuierliche Abdeckung"]]
+  },
+  {
+    "lemma": "geothermal",
+    "meanings_de": ["Erdinnenwärme"],
+    "definitions_de": ["sich auf die innere Wärme der Erde beziehend oder durch diese erzeugt"],
+    "examples_de": [["Island nutzt **geothermische** Energie zur Beheizung von Gebäuden", "Die **geothermischen** Quellen ziehen viele Touristen an"]]
+  },
+  {
+    "lemma": "geriatric",
+    "meanings_de": ["altersbezogen"],
+    "definitions_de": ["sich auf das hohe Alter oder die medizinische Versorgung und Behandlung älterer Menschen beziehend"],
+    "examples_de": [["Das Krankenhaus eröffnete eine neue **geriatrische** Pflegestation", "Die **Geriatrie** konzentriert sich auf altersbedingte Gesundheitsprobleme"]]
+  },
+  {
+    "lemma": "gestational",
+    "meanings_de": ["schwangerschaftsbezogen"],
+    "definitions_de": ["sich auf die Entwicklungsperiode im Mutterleib von der Empfängnis bis zur Geburt beziehend"],
+    "examples_de": [["Der Arzt überwachte ihren **Schwangerschaftsdiabetes** sorgfältig", "Das **Gestationsalter** bestimmt das Entwicklungsstadium des Babys"]]
+  },
+  {
+    "lemma": "gestural",
+    "meanings_de": ["gestenbezogen"],
+    "definitions_de": ["sich auf Gesten und Körperbewegungen beziehend oder aus diesen bestehend, die zur Kommunikation verwendet werden"],
+    "examples_de": [["Die **gestische** Sprache der Tänzerin vermittelte tiefe Emotionen", "Die Gebärdensprache beruht stark auf **gesturaler** Kommunikation"]]
+  },
+  {
+    "lemma": "ghastly",
+    "meanings_de": ["schrecklich und schockierend", "extrem unwohl"],
+    "definitions_de": ["großen Horror, Angst oder Schock verursachend durch grausames oder schreckliches Aussehen", "extrem krank, blass oder unwohl im Aussehen erscheinend"],
+    "examples_de": [["Die Unfallstelle bot einen **grauenhaften** Anblick", "Sie entdeckten **grässliche** Beweise für das Verbrechen"], ["Sie sah nach der Lebensmittelvergiftung **furchtbar** aus", "Sein **fahler** Teint beunruhigte seine Freunde"]]
+  },
+  {
+    "lemma": "ghostly",
+    "meanings_de": ["geisterhaftes Aussehen"],
+    "definitions_de": ["einem Geist ähnelnd durch blasses, durchscheinendes oder unheimliches Aussehen oder Verhalten"],
+    "examples_de": [["Eine **geisterhafte** Gestalt erschien im nebligen Friedhof", "Das verlassene Haus hatte eine **gespenstische** Atmosphäre"]]
+  },
+  {
+    "lemma": "giddy",
+    "meanings_de": ["schwindliges Gefühl", "aufgeregt glücklich"],
+    "definitions_de": ["ein Gefühl des Wirbelns und die Neigung zu fallen oder zu taumeln habend", "aufgeregt glücklich bis zu dem Punkt, albern oder benommen zu sein"],
+    "examples_de": [["Die Höhe machte sie **schwindlig** und unsicher", "Zu schnelles Aufstehen machte ihn **benommen**"], ["Sie fühlte sich **überschwänglich** vor Aufregung über die Beförderung", "Die Kinder waren im Vergnügungspark **ausgelassen**"]]
+  },
+  {
+    "lemma": "gigantic",
+    "meanings_de": ["extrem große Größe"],
+    "definitions_de": ["von außerordentlich großer Größe, Ausdehnung oder Grad im Vergleich zum Normalen"],
+    "examples_de": [["Die **gigantischen** Mammutbäume ragten über uns auf", "Sie standen vor einer **riesigen** Herausforderung beim Wiederaufbau"]]
+  },
+  {
+    "lemma": "gilded",
+    "meanings_de": ["mit Gold überzogen", "wohlhabend aber oberflächlich"],
+    "definitions_de": ["mit einer dünnen Schicht Gold oder goldfarbenem Material überzogen", "wohlhabend und privilegiert, aber oft Probleme verbergend oder ohne Substanz"],
+    "examples_de": [["Der **vergoldete** Rahmen unterstrich die Eleganz des Gemäldes", "Sie restaurierten die **vergoldeten** Verzierungen an der Decke"], ["Sie lebte in der **goldenen** Welt der High Society", "Das **vergoldete** Zeitalter verbarg ernsthafte soziale Probleme"]]
+  },
+  {
+    "lemma": "gilt",
+    "meanings_de": ["goldüberzogene Oberfläche"],
+    "definitions_de": ["mit Blattgold oder Goldfarbe überzogen, was ein goldenes Aussehen verleiht"],
+    "examples_de": [["Der antike Spiegel hatte einen kunstvollen **vergoldeten** Rahmen", "Sie bewunderte die **goldene** Beschriftung auf dem Buch"]]
+  },
+  {
+    "lemma": "ginger",
+    "meanings_de": ["rötlich-orange Farbe"],
+    "definitions_de": ["eine rötlich-orange oder rötlich-braune Farbe wie Ingwerwurzel habend"],
+    "examples_de": [["Ihr **rotblondes** Haar fing das Sonnenlicht wunderschön ein", "Die Katze hatte weiches **ingwerfarbenes** Fell"]]
+  },
+  {
+    "lemma": "giving",
+    "meanings_de": ["großzügig von Natur"],
+    "definitions_de": ["geneigt, frei und großzügig an andere zu geben, ohne eine Gegenleistung zu erwarten"],
+    "examples_de": [["Sie hat eine **gebende** Natur, die jeder bewundert", "Die Gemeinde war schon immer sehr **freigebig**"]]
+  },
+  {
+    "lemma": "glacial",
+    "meanings_de": ["gletscherbezogen", "extrem kaltes Verhalten"],
+    "definitions_de": ["sich auf Gletscher oder Eisschilde beziehend oder von diesen erzeugt", "extrem kalt, unfreundlich oder feindselig im Verhalten"],
+    "examples_de": [["Die **glazialen** Ablagerungen offenbarten alte Klimamuster", "Wissenschaftler untersuchen **glaziale** Bewegungen in der Antarktis"], ["Ihr **eisiger** Blick machte ihn unbehaglich", "Das Treffen hatte eine **frostige** Atmosphäre"]]
+  },
+  {
+    "lemma": "gladiatorial",
+    "meanings_de": ["gladiatorenbezogen"],
+    "definitions_de": ["sich auf antike römische Gladiatoren beziehend oder ihrem kämpferischen, heftigen Kampfstil ähnelnd"],
+    "examples_de": [["Der Film zeigte spektakuläre **gladiatorische** Kampfszenen", "Die Debatte nahm eine **gladiatorenhafte** Intensität an"]]
+  },
+  {
+    "lemma": "glamorous",
+    "meanings_de": ["attraktiv aufregend"],
+    "definitions_de": ["Glamour besitzend mit einer attraktiven und aufregenden Qualität, die Faszination erzeugt"],
+    "examples_de": [["Die Schauspielerin führte ein **glamouröses** Leben in Hollywood", "Der Job schien **glanzvoll**, erforderte aber harte Arbeit"]]
+  },
+  {
+    "lemma": "glandular",
+    "meanings_de": ["drüsenbezogen"],
+    "definitions_de": ["sich auf Drüsen beziehend oder diese betreffend, die Substanzen im Körper produzieren und absondern"],
+    "examples_de": [["Der Patient litt letzten Monat an **Drüsenfieber**", "**Drüsenbedingte** Probleme können die Hormonproduktion beeinflussen"]]
+  },
+  {
+    "lemma": "glaring",
+    "meanings_de": ["grelles helles Licht", "offensichtlich schlecht"],
+    "definitions_de": ["mit einem unangenehm hellen oder blendenden Licht scheinend", "extrem offensichtlich oder auffällig auf negative Weise"],
+    "examples_de": [["Die **grelle** Sonne erschwerte das Autofahren", "Sie schirmte ihre Augen vor den **blendenden** Scheinwerfern ab"], ["Der Bericht enthielt mehrere **eklatante** Fehler", "Seine **offensichtliche** Auslassung von Fakten wurde bemerkt"]]
+  },
+  {
+    "lemma": "glassy",
+    "meanings_de": ["glatt wie Glas", "ausdrucksloser Blick"],
+    "definitions_de": ["eine glatte, glänzende Oberfläche oder ein Aussehen wie Glas habend", "keinen Ausdruck oder keine Emotion zeigend, besonders in den Augen"],
+    "examples_de": [["Der See hatte am ruhigen Morgen eine **glasklare** Oberfläche", "Der Marmorboden war zu einem **glasartigen** Finish poliert"], ["Seine **glasigen** Augen zeigten, dass er unter Schock stand", "Sie starrte mit **leeren** Augen ins Nichts"]]
+  },
+  {
+    "lemma": "glazed",
+    "meanings_de": ["glasartige Beschichtung", "unkonzentrierter Ausdruck"],
+    "definitions_de": ["mit einer glatten, glänzenden Beschichtung oder einem Finish wie Glas überzogen", "kein Interesse oder Verständnis zeigend mit einem stumpfen, unkonzentrierten Blick"],
+    "examples_de": [["Die **glasierten** Donuts glänzten in der Auslage", "Der Töpfer schuf wunderschöne **glasierte** Keramik"], ["Seine Augen wurden während der langen Vorlesung **glasig**", "Sie hatte einen **glasigen** Gesichtsausdruck vor Erschöpfung"]]
+  },
+  {
+    "lemma": "gleaming",
+    "meanings_de": ["hell mit reflektiertem Licht"],
+    "definitions_de": ["hell mit reflektiertem Licht auf saubere oder polierte Weise scheinend"],
+    "examples_de": [["Das **glänzende** Chrom am Motorrad beeindruckte alle", "Ihre **strahlend** weißen Zähne zeigten sich in ihrem Lächeln"]]
+  },
+  {
+    "lemma": "glib",
+    "meanings_de": ["redegewandt aber unaufrichtig"],
+    "definitions_de": ["fließend und bereitwillig sprechend, aber ohne Aufrichtigkeit, Tiefe oder sorgfältige Überlegung"],
+    "examples_de": [["Seine **oberflächlichen** Antworten gingen nicht auf die echten Probleme ein", "Die **glatte** Art des Verkäufers machte sie misstrauisch"]]
+  },
+  {
+    "lemma": "glistening",
+    "meanings_de": ["mit Feuchtigkeit funkelnd"],
+    "definitions_de": ["mit einem funkelnden Licht scheinend, besonders durch Nässe oder Feuchtigkeit"],
+    "examples_de": [["Die **glitzernden** Tautropfen bedeckten das Morgengras", "Ihre **schimmernden** Augen verrieten, dass sie geweint hatte"]]
+  },
+  {
+    "lemma": "glittering",
+    "meanings_de": ["brillant funkelnd"],
+    "definitions_de": ["mit einem hellen, schimmernden reflektierten Licht scheinend, das zu funkeln scheint"],
+    "examples_de": [["Die **funkelnden** Sterne füllten den klaren Nachthimmel", "Sie trug eine **glitzernde** Diamantkette zur Gala"]]
+  },
+  {
+    "lemma": "globular",
+    "meanings_de": ["kugelförmig"],
+    "definitions_de": ["eine runde, kugelförmige Form wie eine Kugel oder ein Ball habend"],
+    "examples_de": [["Die Pflanze produziert im Herbst kleine **kugelförmige** Beeren", "**Kugelsternhaufen** enthalten Tausende alter Sterne"]]
+  }
+]

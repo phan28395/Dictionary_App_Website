@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "publicised",
+    "meanings_de": ["öffentlich bekannt gemacht"],
+    "definitions_de": ["der breiten Öffentlichkeit durch Medien oder offizielle Bekanntmachungen zugänglich gemacht und damit allgemein bekannt geworden"],
+    "examples_de": [["Die **publik gemachten** Forschungsergebnisse lösten eine heftige Debatte aus", "Der **veröffentlichte** Termin ihrer Hochzeit zog großes Medieninteresse auf sich"]]
+  },
+  {
+    "lemma": "publicized",
+    "meanings_de": ["öffentlich bekannt gemacht"],
+    "definitions_de": ["der breiten Öffentlichkeit durch Medien oder offizielle Bekanntmachungen zugänglich gemacht und damit allgemein bekannt geworden"],
+    "examples_de": [["Die **öffentlich beworbene** Veranstaltung zog Tausende von Besuchern aus dem ganzen Land an", "Ihre **veröffentlichten** Memoiren enthüllten überraschende Details über ihre Karriere"]]
+  },
+  {
+    "lemma": "published",
+    "meanings_de": ["öffentlich verfügbar gemacht", "offiziell herausgegeben"],
+    "definitions_de": ["der Öffentlichkeit durch Druck- oder digitale Medien zugänglich gemacht worden", "offiziell von einem Verlag oder einer Behörde herausgegeben oder veröffentlicht"],
+    "examples_de": [["Der **veröffentlichte** Artikel erschien in der gestrigen Zeitung", "Sie hat mehrere **publizierte** Romane vorzuweisen"], ["Die **veröffentlichten** Verordnungen treten nächsten Monat in Kraft", "Alle **publizierten** Berichte müssen ein Peer-Review-Verfahren durchlaufen"]]
+  },
+  {
+    "lemma": "puff",
+    "meanings_de": ["aufgebläht und weich"],
+    "definitions_de": ["aufgebläht, weich und leicht in Textur oder Erscheinung, oft durch Luft oder Gas"],
+    "examples_de": [["Der **luftige** Blätterteig ging im Ofen wunderbar auf", "Sie verwendete **aufgeblähte** Farbe, um strukturierte Designs zu erstellen"]]
+  },
+  {
+    "lemma": "puffed",
+    "meanings_de": ["mit Luft aufgebläht", "außer Atem"],
+    "definitions_de": ["mit Luft, Gas oder ähnlicher Substanz aufgebläht oder ausgedehnt", "schwer atmend aufgrund körperlicher Anstrengung oder Erschöpfung"],
+    "examples_de": [["Das **gepuffte** Reisgetreide war leicht und knusprig", "Seine **aufgeblasenen** Wangen brachten die Kinder zum Lachen"], ["Er kam **außer Atem** an, nachdem er fünf Stockwerke hinaufgestiegen war", "Die Läufer sahen an der Ziellinie **ausgepumpt** aus"]]
+  },
+  {
+    "lemma": "puffy",
+    "meanings_de": ["geschwollen und weich", "aufgebläht aussehend"],
+    "definitions_de": ["geschwollen, weich und rundlich im Aussehen, oft durch Flüssigkeitsansammlung", "ein aufgeblähtes oder ausgedehntes Aussehen habend, mit Luft gefüllt"],
+    "examples_de": [["Ihre **geschwollenen** Augen zeigten, dass sie geweint hatte", "Die **bauschigen** Wolken trieben träge über den Himmel"], ["Die **aufgebauschte** Jacke hielt sie im Winter warm", "Er trug **puffige** Ärmel, die damals modisch waren"]]
+  },
+  {
+    "lemma": "pulmonary",
+    "meanings_de": ["die Lunge betreffend"],
+    "definitions_de": ["sich auf die Lunge oder das Atmungssystem beziehend, diese betreffend oder dort auftretend"],
+    "examples_de": [["Bei dem Patienten wurde eine **pulmonale** Erkrankung diagnostiziert", "**Lungenfunktions**tests zeigten eine verbesserte Atemkapazität"]]
+  },
+  {
+    "lemma": "pulverized",
+    "meanings_de": ["zu Pulver zerkleinert", "vollständig besiegt"],
+    "definitions_de": ["durch Zerkleinern oder Mahlen zu feinen Partikeln oder Pulver reduziert", "im Wettbewerb oder Konflikt vollständig besiegt oder vernichtet"],
+    "examples_de": [["Das **pulverisierte** Gestein wurde als Baumaterial verwendet", "Fügen Sie **Puderzucker** zur Mischung hinzu für eine glatte Konsistenz"], ["Die Heimmannschaft wurde im Meisterschaftsspiel **vernichtend geschlagen**", "Kritiker **zerrissen** den Film mit negativen Bewertungen"]]
+  },
+  {
+    "lemma": "pumped",
+    "meanings_de": ["durch Pumpen gefüllt", "aufgeregt und energiegeladen"],
+    "definitions_de": ["mit Luft, Flüssigkeit oder Gas mittels einer Pumpe gefüllt", "aufgeregt, energiegeladen und bereit für Aktion oder Herausforderung fühlend"],
+    "examples_de": [["Der **aufgepumpte** Reifen war bereit für die lange Reise", "Frisch **gepumptes** Wasser füllte die Bewässerungskanäle"], ["Das Team war **heiß** auf das Meisterschaftsspiel", "Sie fühlte sich nach der Motivationsrede **voller Energie**"]]
+  },
+  {
+    "lemma": "punctured",
+    "meanings_de": ["mit Loch durchstochen"],
+    "definitions_de": ["mit einem oder mehreren Löchern durchbohrt, besonders wenn dadurch Luft entweicht oder Flüssigkeit austritt"],
+    "examples_de": [["Der **durchstochene** Ballon entleerte sich langsam auf dem Boden", "Seine **perforierte** Lunge erforderte sofortige medizinische Behandlung"]]
+  },
+  {
+    "lemma": "pungent",
+    "meanings_de": ["scharf riechend", "beißend und spitz"],
+    "definitions_de": ["einen scharf starken Geschmack oder Geruch habend, der die Sinne stimuliert", "scharf beißend oder bitter im Ton, in der Art oder im Stil"],
+    "examples_de": [["Das **stechende** Aroma von Knoblauch erfüllte die Küche", "**Würziger** Käse wird nicht von jedem geschätzt"], ["Ihre **beißende** Kritik ließ keinen Raum für Zweifel", "Der **scharfzüngige** Witz des Autors machte den Aufsatz unvergesslich"]]
+  },
+  {
+    "lemma": "punishable",
+    "meanings_de": ["strafbar"],
+    "definitions_de": ["der Bestrafung unterworfen oder Bestrafung verdienend, besonders nach Gesetz oder Regeln"],
+    "examples_de": [["Diebstahl ist in allen Gerichtsbarkeiten eine **strafbare** Handlung", "Die **strafbaren** Taten waren klar in den Vorschriften aufgeführt"]]
+  },
+  {
+    "lemma": "punished",
+    "meanings_de": ["bestraft"],
+    "definitions_de": ["einer Strafe oder einem Leiden für ein Vergehen oder Fehlverhalten unterworfen worden"],
+    "examples_de": [["Der **bestrafte** Schüler lernte aus seinen Fehlern", "**Bestrafte** Verbrecher verbüßten ihre Strafen im Gefängnis"]]
+  },
+  {
+    "lemma": "punishing",
+    "meanings_de": ["extrem anstrengend", "Strafe verhängend"],
+    "definitions_de": ["körperlich oder geistig fordernd bis zu einem erschöpfenden oder schädlichen Grad", "Strafe verhängend oder darauf abzielend, Strafe zu verhängen"],
+    "examples_de": [["Das **mörderische** Training ließ alle erschöpft zurück", "Sie ertrugen **erbarmungslose** Hitze während der Wüstendurchquerung"], ["Der Richter verhängte ein **hartes** Urteil gegen den Verbrecher", "Seine **vernichtenden** Bemerkungen verletzten ihre Gefühle zutiefst"]]
+  },
+  {
+    "lemma": "punitive",
+    "meanings_de": ["strafend", "extrem hart"],
+    "definitions_de": ["als Strafe für Fehlverhalten oder Vergehen verhängend oder beabsichtigt", "extrem hart oder streng, besonders in finanzieller Hinsicht"],
+    "examples_de": [["Das Gericht verhängte **Strafschadenersatz** gegen das Unternehmen", "**Strafmaßnahmen** wurden gegen Regelverletzer ergriffen"], ["Die **prohibitiven** Zinssätze schreckten vom Kreditnehmen ab", "Sie sahen sich **drakonischen** Steuern auf Luxusgüter gegenüber"]]
+  },
+  {
+    "lemma": "punk",
+    "meanings_de": ["rebellische Jugendkultur", "wertlose Qualität"],
+    "definitions_de": ["sich auf Punkrock-Musik oder die damit verbundene rebellische Jugend-Subkultur beziehend", "von schlechter Qualität, wertlos oder in schlechtem Zustand"],
+    "examples_de": [["Die **Punk**-Ästhetik beeinflusste die Mode über Jahrzehnte", "Sie liebte **Punk**musik aus den 1970er Jahren"], ["Diese **minderwertige** Ausrüstung ging am ersten Tag kaputt", "Er verkaufte mir **Schrott**ware zu Premiumpreisen"]]
+  },
+  {
+    "lemma": "purebred",
+    "meanings_de": ["reinrassig"],
+    "definitions_de": ["von Eltern derselben Rasse oder Sorte gezüchtet ohne Kreuzung mit anderen Rassen"],
+    "examples_de": [["Die **reinrassigen** Pferde erzielten hohe Preise bei der Auktion", "Unser **reinrassiger** Hund hat Meisterschafts-Blutlinien"]]
+  },
+  {
+    "lemma": "purging",
+    "meanings_de": ["reinigend oder entfernend"],
+    "definitions_de": ["unerwünschte Elemente oder Personen aus einer Gruppe oder einem System entfernend"],
+    "examples_de": [["Der **reinigende** Prozess entfernte Giftstoffe aus dem System", "Das **Löschen** veralteter Dateien schaffte Speicherplatz auf dem Computer"]]
+  },
+  {
+    "lemma": "purifying",
+    "meanings_de": ["reinigend"],
+    "definitions_de": ["Verunreinigungen oder unerwünschte Elemente entfernend, um etwas rein oder sauber zu machen"],
+    "examples_de": [["Der **reinigende** Wasserfilter entfernte schädliche Bakterien", "**Reinigende** Rituale waren wichtig in ihrer Kultur"]]
+  },
+  {
+    "lemma": "puritanical",
+    "meanings_de": ["streng moralisch"],
+    "definitions_de": ["strenge moralische Einstellungen habend oder zeigend, besonders in Bezug auf Vergnügen oder Selbstgenuss"],
+    "examples_de": [["Seine **puritanischen** Ansichten verboten Tanzen und Kartenspiele", "Die **sittenstrenge** Gesellschaft verbot viele Formen der Unterhaltung"]]
+  },
+  {
+    "lemma": "purplish",
+    "meanings_de": ["leicht violett"],
+    "definitions_de": ["eine Farbe habend, die etwas violett ist oder einen violetten Schimmer aufweist"],
+    "examples_de": [["Der Sonnenuntergang warf einen **violettlichen** Schein über die Berge", "Ihr **bläulich-violetter** Bluterguss begann zu heilen"]]
+  },
+  {
+    "lemma": "purposeful",
+    "meanings_de": ["zielstrebig und entschlossen", "zweckdienlich"],
+    "definitions_de": ["Entschlossenheit oder Entschlusskraft bei der Verfolgung eines Ziels oder Zwecks zeigend", "einen nützlichen Zweck oder eine Absicht habend oder erfüllend"],
+    "examples_de": [["Sie ging mit **zielstrebigen** Schritten zum Podium", "Sein **entschlossener** Blick zeigte, dass er es ernst meinte"], ["Das **zweckmäßige** Design verbesserte die Benutzererfahrung erheblich", "Jede Funktion hatte eine **sinnvolle** Rolle im System"]]
+  },
+  {
+    "lemma": "pursuant",
+    "meanings_de": ["gemäß"],
+    "definitions_de": ["in Übereinstimmung mit oder in Ausführung eines Gesetzes, einer rechtlichen Entscheidung oder Vereinbarung durchgeführt"],
+    "examples_de": [["Maßnahmen wurden **gemäß** dem Gerichtsbeschluss ergriffen", "**Entsprechend** der Unternehmensrichtlinie müssen sich alle Besucher anmelden"]]
+  },
+  {
+    "lemma": "pursued",
+    "meanings_de": ["verfolgt oder gejagt"],
+    "definitions_de": ["verfolgt oder gejagt, um etwas zu fangen oder zu erreichen"],
+    "examples_de": [["Der **verfolgte** Verdächtige floh durch die belebten Straßen", "Ihre **verfolgten** Träume wurden schließlich Wirklichkeit"]]
+  },
+  {
+    "lemma": "pursuing",
+    "meanings_de": ["aktiv verfolgend"],
+    "definitions_de": ["aktiv verfolgend oder jagend, um ein Ziel zu erreichen oder zu fangen"],
+    "examples_de": [["Die **verfolgenden** Beamten schlossen zum Flüchtigen auf", "Studierende, die **höhere** Abschlüsse **anstreben**, stehen vor vielen Herausforderungen"]]
+  },
+  {
+    "lemma": "pussy",
+    "meanings_de": ["eiternd", "katzenartig"],
+    "definitions_de": ["Eiter enthaltend oder produzierend aufgrund von Infektion oder Entzündung", "sich auf eine Katze beziehend oder einer Katze in Aussehen oder Verhalten ähnelnd"],
+    "examples_de": [["Die **eitrige** Wunde erforderte sofortige Antibiotikabehandlung", "Der Arzt drainierte den **eitrigen** Abszess vorsichtig"], ["Die **Kätzchen**weiden blühten dieses Frühjahr früh", "Ihr **katzenhaftes** Verhalten amüsierte die Kinder"]]
+  },
+  {
+    "lemma": "putative",
+    "meanings_de": ["vermeintlich"],
+    "definitions_de": ["allgemein angenommen oder für etwas gehalten, obwohl nicht unbedingt bewiesen"],
+    "examples_de": [["Der **mutmaßliche** Vater verlangte einen Vaterschaftstest", "Ihre **vermeintliche** Expertise wurde von Kollegen in Frage gestellt"]]
+  },
+  {
+    "lemma": "puzzled",
+    "meanings_de": ["verwirrt oder ratlos"],
+    "definitions_de": ["unfähig zu verstehen oder verwirrt durch etwas Schwieriges oder Unklares"],
+    "examples_de": [["Sein **verwirrter** Gesichtsausdruck zeigte, dass er nicht verstand", "Die **ratlosen** Schüler baten um weitere Erklärung"]]
+  },
+  {
+    "lemma": "puzzling",
+    "meanings_de": ["verwirrend"],
+    "definitions_de": ["Verwirrung oder Ratlosigkeit verursachend, indem es schwer zu verstehen oder zu erklären ist"],
+    "examples_de": [["Die **rätselhaften** Ergebnisse widersprachen aller bisherigen Forschung", "Ihr **verwirrendes** Verhalten beunruhigte ihre engen Freunde"]]
+  },
+  {
+    "lemma": "pyramidal",
+    "meanings_de": ["pyramidenförmig"],
+    "definitions_de": ["die Form einer Pyramide habend mit dreieckigen Seiten, die sich an einem Punkt treffen"],
+    "examples_de": [["Die **pyramidenförmige** Struktur erhob sich majestätisch aus der Wüste", "**Pyramidale** Neuronen finden sich in der Hirnrinde"]]
+  },
+  {
+    "lemma": "pyrotechnic",
+    "meanings_de": ["Feuerwerk betreffend", "brillant spektakulär"],
+    "definitions_de": ["sich auf Feuerwerk oder die Kunst der Herstellung und Darstellung von Feuerwerk beziehend", "brillant spektakulär oder blendend in Leistung oder Darbietung"],
+    "examples_de": [["Das **pyrotechnische** Schauspiel erleuchtete den Nachthimmel", "**Pyrotechnische** Geräte erfordern sorgfältige Sicherheitsvorkehrungen"], ["Ihr **brillantes** Gitarrensolo begeisterte das Publikum", "Die **spektakulären** Fähigkeiten des Kochs beeindruckten die Gäste"]]
+  },
+  {
+    "lemma": "pyrrhic",
+    "meanings_de": ["zu teuer erkaufter Sieg"],
+    "definitions_de": ["einen Sieg beschreibend, der zu einem so hohen Preis errungen wurde, dass er einer Niederlage gleichkommt"],
+    "examples_de": [["Ihr **Pyrrhussieg** ließ das Unternehmen fast bankrott zurück", "Der Gewinn der Klage war ein **zu teuer erkaufter** Triumph"]]
+  },
+  {
+    "lemma": "quack",
+    "meanings_de": ["betrügerisch medizinisch"],
+    "definitions_de": ["sich auf betrügerische oder inkompetente medizinische Praxis oder Praktiker beziehend"],
+    "examples_de": [["Der **Quacksalber** verschrieb nutzlose Heilmittel", "**Scharlatanische** Behandlungen können die Gesundheit der Patienten gefährden"]]
+  },
+  {
+    "lemma": "quadrangular",
+    "meanings_de": ["viereckig"],
+    "definitions_de": ["vier Winkel und vier Seiten habend, ein Viereck bildend"],
+    "examples_de": [["Der **viereckige** Innenhof bot einen friedlichen Rückzugsort", "Sie bauten eine **quadratische** Festung zur Verteidigung"]]
+  },
+  {
+    "lemma": "quadratic",
+    "meanings_de": ["quadratisch mathematisch"],
+    "definitions_de": ["mathematische Terme oder Gleichungen zweiten Grades mit quadrierten Variablen beinhaltend"],
+    "examples_de": [["Schüler lernten, **quadratische** Gleichungen in Algebra zu lösen", "Die **quadratische** Formel hilft, Gleichungswurzeln zu finden"]]
+  },
+  {
+    "lemma": "quadrilateral",
+    "meanings_de": ["vierseitige Figur"],
+    "definitions_de": ["vier gerade Seiten habend, die eine geschlossene geometrische Figur bilden"],
+    "examples_de": [["Ein Quadrat ist eine spezielle **vierseitige** Form", "Das **viereckige** Grundstück musste vermessen werden"]]
+  },
+  {
+    "lemma": "quadruple",
+    "meanings_de": ["vierfache Menge", "aus vier bestehend"],
+    "definitions_de": ["viermal so viel oder so viele von etwas", "aus vier Teilen, Elementen oder Mitgliedern bestehend"],
+    "examples_de": [["Das Unternehmen erzielte dieses Jahr **vierfache** Gewinne", "**Vierfache** Portionen waren für die große Gruppe nötig"], ["Die **Vierer**allianz stärkte ihre militärische Position", "Sie führten einen **vierfachen** Sprung im Wettkampf aus"]]
+  },
+  {
+    "lemma": "quaint",
+    "meanings_de": ["reizvoll altmodisch"],
+    "definitions_de": ["auf reizvolle Weise ungewöhnlich oder altmodisch in einer charmanten oder interessanten Art"],
+    "examples_de": [["Das **malerische** Dorf zog jedes Jahr viele Touristen an", "Sie sammelte **reizvolle** Antiquitäten aus lokalen Geschäften"]]
+  },
+  {
+    "lemma": "qualified",
+    "meanings_de": ["mit nötigen Fähigkeiten", "eingeschränkt"],
+    "definitions_de": ["die notwendigen Fähigkeiten, Erfahrungen oder Kenntnisse für eine bestimmte Arbeit habend", "in gewisser Weise begrenzt oder eingeschränkt statt absolut"],
+    "examples_de": [["Nur **qualifizierte** Bewerber werden zum Gespräch eingeladen", "Sie ist hoch **qualifiziert** für die Führungsposition"], ["Seine **bedingte** Zustimmung kam mit mehreren Bedingungen", "Der Bericht gab dem Vorschlag **eingeschränkte** Unterstützung"]]
+  },
+  {
+    "lemma": "qualitative",
+    "meanings_de": ["die Qualität betreffend"],
+    "definitions_de": ["sich auf die Qualität oder Eigenschaften beziehend oder diese messend statt auf die Quantität"],
+    "examples_de": [["**Qualitative** Forschung erforscht die Erfahrungen der Teilnehmer eingehend", "Die **qualitativen** Unterschiede zwischen den Produkten waren erheblich"]]
+  },
+  {
+    "lemma": "quantifiable",
+    "meanings_de": ["in Zahlen messbar"],
+    "definitions_de": ["fähig, als Quantität oder Menge ausgedrückt oder gemessen zu werden"],
+    "examples_de": [["Die Vorteile waren leicht in Dollar **quantifizierbar**", "Nicht alle Verbesserungen sind durch Statistiken **messbar**"]]
+  },
+  {
+    "lemma": "quantitative",
+    "meanings_de": ["die Menge betreffend"],
+    "definitions_de": ["sich auf die Quantität oder Menge beziehend oder dadurch gemessen statt auf die Qualität"],
+    "examples_de": [["**Quantitative** Analysen zeigten signifikante statistische Trends", "Die Studie verwendete **quantitative** Methoden zur Messung der Ergebnisse"]]
+  },
+  {
+    "lemma": "quarantined",
+    "meanings_de": ["isoliert aus Gesundheitsgründen"],
+    "definitions_de": ["von anderen isoliert, um die Ausbreitung von Krankheiten oder Verunreinigungen zu verhindern"],
+    "examples_de": [["**Unter Quarantäne gestellte** Passagiere blieben zur Beobachtung auf dem Schiff", "Der **abgeriegelte** Bereich war vollständig versiegelt"]]
+  },
+  {
+    "lemma": "quarrelsome",
+    "meanings_de": ["streitsüchtig"],
+    "definitions_de": ["zu häufigem Streiten oder Uneinigkeit mit anderen neigend oder dadurch gekennzeichnet"],
+    "examples_de": [["Seine **streitlustige** Natur machte die Zusammenarbeit mit ihm schwierig", "Die **zanksüchtigen** Nachbarn reichten ständig Beschwerden ein"]]
+  },
+  {
+    "lemma": "quarterly",
+    "meanings_de": ["vierteljährlich"],
+    "definitions_de": ["alle drei Monate oder viermal pro Jahr stattfindend oder produziert"],
+    "examples_de": [["Das Unternehmen veröffentlicht **vierteljährliche** Gewinnberichte für Investoren", "**Quartalsmäßige** Meetings halten alle Abteilungen auf dem gleichen Stand"]]
+  },
+  {
+    "lemma": "quasi",
+    "meanings_de": ["scheinbar aber nicht wirklich"],
+    "definitions_de": ["scheinbar oder anscheinend, aber nicht wirklich oder vollständig das, was behauptet wird"],
+    "examples_de": [["Die **quasi** staatliche Organisation arbeitete unabhängig", "Seine **pseudo**wissenschaftlichen Theorien ermangelten angemessener Beweise"]]
+  },
+  {
+    "lemma": "queer",
+    "meanings_de": ["seltsam oder merkwürdig", "LGBTQ-Identität"],
+    "definitions_de": ["seltsam, merkwürdig oder ungewöhnlich auf eine Weise, die verdächtig erscheint", "sich auf sexuelle oder Geschlechtsidentitäten außerhalb heterosexueller Normen beziehend"],
+    "examples_de": [["Es war etwas **Merkwürdiges** an seinem plötzlichen Verschwinden", "Das **seltsame** Geräusch aus dem Motor beunruhigte sie"], ["Die **queere** Community feierte den Pride-Monat mit Paraden", "**Queer**-Studies-Programme untersuchen Geschlecht und Sexualität"]]
+  },
+  {
+    "lemma": "quelled",
+    "meanings_de": ["gewaltsam unterdrückt"],
+    "definitions_de": ["gewaltsam unterdrückt oder etwas wie Rebellion oder Unruhen beendet"],
+    "examples_de": [["Der **niedergeschlagene** Aufstand hinterließ die Stadt unter Kriegsrecht", "Ihre Ängste wurden durch seine beruhigenden Worte **besänftigt**"]]
+  },
+  {
+    "lemma": "quenched",
+    "meanings_de": ["Durst gestillt", "gelöscht"],
+    "definitions_de": ["den Durst durch Trinken von Flüssigkeit gestillt habend", "gelöscht oder schnell abgekühlt, besonders Feuer oder erhitztes Metall"],
+    "examples_de": [["Sein **gestillter** Durst erlaubte ihm, die Wanderung fortzusetzen", "Die Athleten **löschten** ihren Durst mit kaltem Wasser"], ["Die **abgeschreckte** Stahlklinge war unglaublich stark", "Das Feuer wurde **gelöscht**, bevor es sich ausbreiten konnte"]]
+  },
+  {
+    "lemma": "questionable",
+    "meanings_de": ["zweifelhaft oder unsicher"],
+    "definitions_de": ["von zweifelhafter Wahrheit, Wert oder Angemessenheit, die Verdacht oder Zweifel hervorruft"],
+    "examples_de": [["Seine **fragwürdigen** Geschäftspraktiken zogen Untersuchungen nach sich", "Die **zweifelhaften** Ergebnisse erforderten weitere Tests"]]
+  }
+]

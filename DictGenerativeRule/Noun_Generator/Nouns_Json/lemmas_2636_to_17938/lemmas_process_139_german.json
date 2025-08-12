@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "microfilm",
+    "meanings_de": ["fotografischer Filmträger"],
+    "definitions_de": ["fotografischer Film mit stark verkleinerten Abbildungen von Dokumenten zur platzsparenden Archivierung und späteren Betrachtung"],
+    "examples_de": [["Die Bibliothek archiviert alte Zeitungen auf **Mikrofilm** zur langfristigen Erhaltung", "Forscher nutzen **Mikrofilm**-Lesegeräte zur Einsicht historischer Dokumente"]]
+  },
+  {
+    "lemma": "micrometer",
+    "meanings_de": ["Präzisionsmessgerät"],
+    "definitions_de": ["Messinstrument zur äußerst genauen Bestimmung kleiner Abstände oder Materialstärken im Bereich von Tausendstel Millimetern"],
+    "examples_de": [["Der Ingenieur bestimmte die Drahtstärke mit einem **Mikrometer**", "Die Qualitätskontrolle erfordert **Mikrometer**-Genauigkeit für diese Bauteile"]]
+  },
+  {
+    "lemma": "micron",
+    "meanings_de": ["Maßeinheit"],
+    "definitions_de": ["metrische Längeneinheit, die einem Millionstel Meter bzw. einem Tausendstel Millimeter entspricht"],
+    "examples_de": [["Der Filter entfernt Partikel größer als fünf **Mikrometer**", "Menschliches Haar misst typischerweise etwa siebzig **Mikrometer** im Durchmesser"]]
+  },
+  {
+    "lemma": "microorganism",
+    "meanings_de": ["mikroskopisches Lebewesen"],
+    "definitions_de": ["winziger lebender Organismus, der nur unter dem Mikroskop sichtbar ist, darunter Bakterien, Viren und Einzeller"],
+    "examples_de": [["Wissenschaftler erforschen **Mikroorganismen** zur Aufklärung von Krankheitsübertragungswegen", "Nützliche **Mikroorganismen** helfen beim Abbau organischer Substanzen im Boden"]]
+  },
+  {
+    "lemma": "microphone",
+    "meanings_de": ["Tonaufnahmegerät"],
+    "definitions_de": ["Gerät zur Umwandlung von Schallwellen in elektrische Signale für Aufnahmen oder Verstärkung"],
+    "examples_de": [["Die Sängerin richtete das **Mikrofon** aus, bevor sie mit dem Auftritt begann", "Konferenzräume benötigen hochwertige **Mikrofone** für klare Verständigung"]]
+  },
+  {
+    "lemma": "microprocessor",
+    "meanings_de": ["Computer-Prozessorchip"],
+    "definitions_de": ["integrierter Schaltkreis, der die komplette Zentraleinheit eines Computers auf einem einzigen Chip vereint"],
+    "examples_de": [["Moderne Smartphones enthalten leistungsfähige **Mikroprozessoren** für komplexe Berechnungen", "Der **Mikroprozessor** revolutionierte die Computertechnik in den 1970er Jahren"]]
+  },
+  {
+    "lemma": "microscope",
+    "meanings_de": ["Vergrößerungsinstrument"],
+    "definitions_de": ["optisches Instrument mit Linsensystem zur stark vergrößerten Darstellung kleiner Objekte"],
+    "examples_de": [["Die Schüler untersuchten Pflanzenzellen unter dem **Mikroskop** im Biologieunterricht", "Das Labor**mikroskop** machte für das bloße Auge unsichtbare Bakterien erkennbar"]]
+  },
+  {
+    "lemma": "microscopy",
+    "meanings_de": ["Mikroskopietechnik"],
+    "definitions_de": ["wissenschaftliches Fachgebiet, das sich mit der Anwendung von Mikroskopen zur Untersuchung kleinster Strukturen befasst"],
+    "examples_de": [["Die Elektronen**mikroskopie** liefert unglaublich detaillierte Aufnahmen von Zellstrukturen", "Moderne **Mikroskopie**verfahren revolutionierten unser Verständnis der Biologie"]]
+  },
+  {
+    "lemma": "microwave",
+    "meanings_de": ["Küchengerät", "elektromagnetische Strahlung"],
+    "definitions_de": ["Ofen, der Speisen mittels elektromagnetischer Strahlung erhitzt", "Form elektromagnetischer Strahlung mit Wellenlängen zwischen Radio- und Infrarotwellen"],
+    "examples_de": [["Sie erwärmte die übrig gebliebene Pizza in der **Mikrowelle**", "Die **Mikrowelle** piepte, als das Popcorn fertig war"], ["Satellitenkommunikation nutzt **Mikrowellen**frequenzen zur Datenübertragung", "**Mikrowellen**strahlung durchdringt Wolken besser als sichtbares Licht"]]
+  },
+  {
+    "lemma": "midair",
+    "meanings_de": ["Luftraum"],
+    "definitions_de": ["Punkt oder Bereich in der Luft zwischen Boden und Himmel"],
+    "examples_de": [["Die Akrobatin fing ihren Partner in der **Luft** während der Vorstellung auf", "Vögel können ihre Richtung **mitten im Flug** mit bemerkenswerter Geschicklichkeit ändern"]]
+  },
+  {
+    "lemma": "midbrain",
+    "meanings_de": ["Hirnregion"],
+    "definitions_de": ["Abschnitt des Hirnstamms zwischen Vorderhirn und Hinterhirn, der Seh- und Hörfunktionen steuert"],
+    "examples_de": [["Das **Mittelhirn** verarbeitet visuelle und auditive Reflexe automatisch", "Schäden am **Mittelhirn** können die motorischen Kontrollfunktionen beeinträchtigen"]]
+  },
+  {
+    "lemma": "midday",
+    "meanings_de": ["Mittagszeit"],
+    "definitions_de": ["Mitte des Tages, wenn die Sonne ihren höchsten Stand erreicht"],
+    "examples_de": [["Die Arbeiter machten wie üblich **mittags** ihre Pause", "Die **Mittagssonne** warf kurze Schatten auf den Boden"]]
+  },
+  {
+    "lemma": "middleman",
+    "meanings_de": ["Handelsvermittler"],
+    "definitions_de": ["Person, die von Produzenten kauft und an Einzelhändler oder Verbraucher weiterverkauft"],
+    "examples_de": [["Landwirte verkaufen direkt an Verbraucher, um **Zwischenhändler**gebühren zu vermeiden", "Der **Zwischenhändler** verhandelte Preise zwischen Herstellern und Geschäften"]]
+  },
+  {
+    "lemma": "middleweight",
+    "meanings_de": ["Boxgewichtsklasse"],
+    "definitions_de": ["Boxer oder Ringer in der Gewichtsklasse zwischen Halbschwergewicht und Weltergewicht"],
+    "examples_de": [["Der **Mittelgewichts**-Champion verteidigte gestern Abend erfolgreich seinen Titel", "Sie kämpfte ihre gesamte Karriere in der **Mittelgewichts**klasse"]]
+  },
+  {
+    "lemma": "middling",
+    "meanings_de": ["mittelmäßige Qualitätsware"],
+    "definitions_de": ["Produkte oder Materialien mittlerer Güteklasse zwischen bester und schlechtester Qualität"],
+    "examples_de": [["Der Händler sortierte Baumwolle in Premium- und **Mittelqualität**", "Sie verkauften Möbel **mittlerer Qualität** zu vernünftigen Preisen"]]
+  },
+  {
+    "lemma": "midfield",
+    "meanings_de": ["Spielfeldmitte"],
+    "definitions_de": ["zentraler Bereich eines Sportplatzes zwischen den beiden Toren oder Endzonen"],
+    "examples_de": [["Die Mannschaft beherrschte das **Mittelfeld** während des gesamten Spiels", "Die Spieler kämpften in der **Spielfeldmitte** um Ballbesitz während der Verlängerung"]]
+  },
+  {
+    "lemma": "midge",
+    "meanings_de": ["kleines Fluginsekt"],
+    "definitions_de": ["winzige zweiflügelige Fliege, die oft in Schwärmen nahe Gewässern auftritt"],
+    "examples_de": [["Wolken von **Mücken** schwebten bei Sonnenuntergang über dem See", "Der Campingausflug wurde von **Mücken** und Stechmücken geplagt"]]
+  },
+  {
+    "lemma": "midget",
+    "meanings_de": ["sehr kleine Person", "Miniaturversion"],
+    "definitions_de": ["Person von ungewöhnlich kleiner Statur aufgrund medizinischer Umstände", "etwas, das viel kleiner als die übliche Größe seiner Art ist"],
+    "examples_de": [["Der medizinische Fachbegriff ersetzte **Zwerg** durch respektvollere Bezeichnungen", "Einige Zirkusse zeigten historisch **kleinwüchsige** Darsteller in ihren Shows"], ["Sie fuhren **Mini**-Rennwagen auf der örtlichen Speedway-Bahn", "Die Firma stellte **Mini**-U-Boote für Spezialeinsätze her"]]
+  },
+  {
+    "lemma": "midland",
+    "meanings_de": ["Binnenland"],
+    "definitions_de": ["mittlerer Teil eines Landes, der von den Küsten entfernt liegt"],
+    "examples_de": [["Die Industrie blühte während der Industrialisierung in den **Binnenland**regionen", "Der **mittelländische** Dialekt unterscheidet sich von den Sprachmustern der Küstenregionen"]]
+  },
+  {
+    "lemma": "midline",
+    "meanings_de": ["Mittellinie"],
+    "definitions_de": ["gedachte Linie, die etwas in gleiche linke und rechte Hälften teilt"],
+    "examples_de": [["Die Chirurgen setzten vorsichtig einen Schnitt entlang der Bauch**mittellinie**", "Die **Mittellinie** der Straße trennte den Gegenverkehr"]]
+  },
+  {
+    "lemma": "midpoint",
+    "meanings_de": ["Mittelpunkt"],
+    "definitions_de": ["exakter Mittelpunkt zwischen zwei Enden oder Extremen von etwas"],
+    "examples_de": [["Wir trafen uns am **Mittelpunkt** zwischen unseren beiden Städten", "Berechnen Sie den **Mittelpunkt** der Strecke mithilfe der Koordinaten"]]
+  },
+  {
+    "lemma": "midrib",
+    "meanings_de": ["Blattmittelrippe"],
+    "definitions_de": ["Hauptader, die durch die Mitte eines Blattes von der Basis zur Spitze verläuft"],
+    "examples_de": [["Die **Mittelrippe** verleiht dem gesamten Blatt strukturelle Stabilität", "Botaniker untersuchen das **Mittelrippen**muster zur Bestimmung von Pflanzenarten"]]
+  },
+  {
+    "lemma": "midsection",
+    "meanings_de": ["Körpermitte"],
+    "definitions_de": ["mittlerer Abschnitt von etwas, besonders der Rumpf zwischen Brust und Hüften"],
+    "examples_de": [["Sportler stärken ihre **Körpermitte** mit gezielten Rumpfübungen", "Das Schiff zerbrach während des Sturms an der **Mittelsektion**"]]
+  },
+  {
+    "lemma": "midshipman",
+    "meanings_de": ["Seekadett"],
+    "definitions_de": ["Offiziersanwärter in der Ausbildung zum Marineoffizier"],
+    "examples_de": [["Der **Seekadett** studierte Navigation an der Marineakademie", "**Seekadetten** dienen während ihrer Ausbildungsfahrten an Bord von Schiffen"]]
+  },
+  {
+    "lemma": "midstream",
+    "meanings_de": ["Flussmitte"],
+    "definitions_de": ["mittlerer Teil eines Flusses oder die Mitte eines laufenden Prozesses"],
+    "examples_de": [["Das Kanu kenterte **mitten im Strom** bei starker Strömung", "Strategieänderungen **mittendrin** können den Projektfortschritt erheblich stören"]]
+  },
+  {
+    "lemma": "midsummer",
+    "meanings_de": ["Hochsommer"],
+    "definitions_de": ["Mitte des Sommers, besonders um die Sommersonnenwende herum"],
+    "examples_de": [["Das **Mittsommer**fest feiert den längsten Tag des Jahres", "Gärten blühen im **Hochsommer** in gemäßigten Klimazonen prächtig"]]
+  },
+  {
+    "lemma": "midterm",
+    "meanings_de": ["Zwischenprüfung", "Amtszeitenmitte"],
+    "definitions_de": ["Prüfung in der Mitte eines akademischen Semesters", "Mittelpunkt der Amtszeit eines gewählten Beamten"],
+    "examples_de": [["Die Studenten lernten diese Woche intensiv für ihre **Zwischenprüfungen**", "Der Professor legte die **Semesterprüfungen** vor die Frühlingsferien"], ["Die Wähler zeigten bei den **Zwischenwahlen** im November ihre Unzufriedenheit", "Die Zustimmungswerte des Präsidenten sinken oft während der **Halbzeit**wahlen"]]
+  },
+  {
+    "lemma": "midway",
+    "meanings_de": ["Halbwegpunkt", "Rummelplatz"],
+    "definitions_de": ["Punkt oder Ort in gleicher Entfernung zwischen zwei Standorten", "Bereich auf einem Jahrmarkt mit Spielen und Fahrgeschäften"],
+    "examples_de": [["Wir machten **auf halber Strecke** unserer Reise eine Mittagspause", "Der Rastplatz liegt **mittig** zwischen den beiden Städten"], ["Die Kinder vergnügten sich auf dem **Rummelplatz** mit Karussells und Spielen", "Auf dem **Jahrmarkt** gab es Zuckerwatte und Gewinnbuden"]]
+  },
+  {
+    "lemma": "midweek",
+    "meanings_de": ["Wochenmitte"],
+    "definitions_de": ["Mitte der Woche, typischerweise Dienstag bis Donnerstag"],
+    "examples_de": [["Geschäftstreffen finden oft **unter der Woche** für bessere Teilnahme statt", "Flüge **zur Wochenmitte** kosten meist weniger als Wochenendflüge"]]
+  },
+  {
+    "lemma": "midwife",
+    "meanings_de": ["Geburtshelferin"],
+    "definitions_de": ["ausgebildete Fachkraft, die Frauen während der Geburt unterstützt und Schwangerschaftsvorsorge leistet"],
+    "examples_de": [["Die **Hebamme** begleitete die Mutter während der gesamten Geburt", "Viele Frauen wählen **Hebammen** für eine persönlichere Geburtserfahrung"]]
+  },
+  {
+    "lemma": "midwifery",
+    "meanings_de": ["Geburtshilfeberuf"],
+    "definitions_de": ["berufliche Praxis der Betreuung von Frauen während Schwangerschaft, Geburt und Wochenbett"],
+    "examples_de": [["Sie studierte **Hebammenkunde**, um Frauen zu sichereren Geburten zu verhelfen", "Moderne **Geburtshilfe** verbindet traditionelles Wissen mit medizinischer Ausbildung"]]
+  },
+  {
+    "lemma": "midwinter",
+    "meanings_de": ["Mittwinter"],
+    "definitions_de": ["Mitte des Winters, besonders um die Wintersonnenwende herum"],
+    "examples_de": [["Das **Mittwinter**fest brachte Wärme in kalte dunkle Tage", "Tiere sparen während der harten **Hochwinter**monate Energie"]]
+  },
+  {
+    "lemma": "mien",
+    "meanings_de": ["Haltung oder Auftreten"],
+    "definitions_de": ["äußere Erscheinung oder Verhalten einer Person, das ihren Charakter oder ihre Stimmung zeigt"],
+    "examples_de": [["Seine selbstbewusste **Miene** beeindruckte alle beim Vorstellungsgespräch", "Die Königin bewahrte während der Zeremonie eine königliche **Haltung**"]]
+  },
+  {
+    "lemma": "migraine",
+    "meanings_de": ["schwere Kopfschmerzen"],
+    "definitions_de": ["heftige wiederkehrende Kopfschmerzen, oft begleitet von Übelkeit und Lichtempfindlichkeit"],
+    "examples_de": [["Sie zog sich während ihrer **Migräne** in ein dunkles Zimmer zurück", "Bestimmte Lebensmittel können bei empfindlichen Personen **Migräneanfälle** auslösen"]]
+  },
+  {
+    "lemma": "migrant",
+    "meanings_de": ["wandernde Person"],
+    "definitions_de": ["Person, die von einem Ort zum anderen zieht, um Arbeit zu finden oder bessere Lebensbedingungen zu erreichen"],
+    "examples_de": [["**Wanderarbeiter** ernten saisonal Feldfrüchte in verschiedenen Regionen", "Die **Migrantenfamilie** suchte bessere Chancen in der Stadt"]]
+  },
+  {
+    "lemma": "mihrab",
+    "meanings_de": ["Moscheengebetsnische"],
+    "definitions_de": ["halbkreisförmige Nische in der Moscheewand, die die Gebetsrichtung nach Mekka anzeigt"],
+    "examples_de": [["Die Gläubigen richten sich beim täglichen Gebet nach dem **Mihrab** aus", "Der **Mihrab** zeigt wunderschöne Kalligrafie und geometrische Muster"]]
+  },
+  {
+    "lemma": "mikado",
+    "meanings_de": ["japanischer Kaisertitel"],
+    "definitions_de": ["historische westliche Bezeichnung für den Kaiser von Japan"],
+    "examples_de": [["Der **Mikado** regierte Japan während der Meiji-Restauration", "Westliche Autoren verwendeten oft **Mikado** bei Erwähnung japanischer Kaiser"]]
+  },
+  {
+    "lemma": "mike",
+    "meanings_de": ["Mikrofonabkürzung"],
+    "definitions_de": ["umgangssprachliche Kurzform von Mikrofon bei Tonaufnahmen"],
+    "examples_de": [["Der Tontechniker justierte die **Mikro**-Pegel vor der Aufnahme", "Bitte sprechen Sie direkt ins **Mikro** für bessere Verständlichkeit"]]
+  },
+  {
+    "lemma": "mil",
+    "meanings_de": ["Maßeinheit"],
+    "definitions_de": ["Maßeinheit, die einem Tausendstel Zoll entspricht"],
+    "examples_de": [["Die Plastikfolie maß zehn **Mil** in der Dicke", "Ingenieure gaben den Drahtdurchmesser präzise in **Mil** an"]]
+  },
+  {
+    "lemma": "mildew",
+    "meanings_de": ["Schimmelbefall"],
+    "definitions_de": ["dünner Pilzbelag, der auf feuchten Oberflächen wächst und als verfärbte Flecken erscheint"],
+    "examples_de": [["Die Badfliesen entwickelten **Schimmel** durch ständige Feuchtigkeitseinwirkung", "Regelmäßige Reinigung verhindert **Schimmelbildung** an Duschvorhängen"]]
+  },
+  {
+    "lemma": "mileage",
+    "meanings_de": ["Entfernungsmessung", "erhaltener Nutzen"],
+    "definitions_de": ["Anzahl gefahrener Meilen oder Strecke, die ein Fahrzeug pro Gallone zurücklegen kann", "Ausmaß der Nutzung oder des Vorteils, den man aus etwas zieht"],
+    "examples_de": [["Der **Kilometerstand** des Autos verschlechterte sich nach jahrelangem Fahren", "Prüfen Sie den Tachometer für genaue **Laufleistung** vor dem Kauf"], ["Politiker ziehen erheblichen **Nutzen** aus populären Politikvorschlägen", "Sie hatte mit diesem Witz auf Partys großen **Erfolg**"]]
+  },
+  {
+    "lemma": "milepost",
+    "meanings_de": ["Entfernungsmarkierung"],
+    "definitions_de": ["Markierung am Straßenrand, die die Entfernung in Meilen von einem bestimmten Punkt anzeigt"],
+    "examples_de": [["Fahrer nutzen **Meilensteine** zur Verfolgung ihres Fortschritts auf der Autobahn", "Rettungskräfte verwenden **Kilometermarkierungen** zur schnellen Lokalisierung von Unfallstellen"]]
+  },
+  {
+    "lemma": "miler",
+    "meanings_de": ["Mittelstreckenläufer"],
+    "definitions_de": ["Athlet, der sich auf das Laufen von Ein-Meilen-Rennen spezialisiert hat"],
+    "examples_de": [["Der **Meilenläufer** brach den Schulrekord um zwei Sekunden", "Professionelle **Mittelstreckler** trainieren speziell für diese Distanzen"]]
+  },
+  {
+    "lemma": "milestone",
+    "meanings_de": ["Fortschrittsmarker", "Steinentfernungsmarker"],
+    "definitions_de": ["bedeutendes Ereignis, das wichtigen Fortschritt oder Entwicklung markiert", "Steinmarkierung, die Entfernungen in Meilen entlang einer Straße anzeigt"],
+    "examples_de": [["Der Studienabschluss war ein wichtiger **Meilenstein** in ihrem Leben", "Das Projekt erreichte einen bedeutenden **Meilenstein** mit der Fertigstellung des Prototyps"], ["Alte römische Straßen zeigten **Meilensteine** alle tausend Schritte", "Historische **Meilensteine** markieren noch heute Entfernungen auf alten Landstraßen"]]
+  },
+  {
+    "lemma": "milieu",
+    "meanings_de": ["soziales Umfeld"],
+    "definitions_de": ["gesellschaftliches Umfeld oder kultureller Kontext, in dem etwas existiert oder sich entwickelt"],
+    "examples_de": [["Künstler blühten im kreativen **Milieu** des Paris der 1920er Jahre auf", "Das Unternehmens**umfeld** prägte ihren professionellen Kommunikationsstil"]]
+  },
+  {
+    "lemma": "militancy",
+    "meanings_de": ["aggressiver Aktivismus"],
+    "definitions_de": ["kämpferische Unterstützung einer Sache durch konfrontative oder gewaltsame Methoden"],
+    "examples_de": [["Die **Militanz** der Gruppe schreckte potenzielle Unterstützer ihrer Sache ab", "Die **Kampfbereitschaft** der Arbeiter nahm in wirtschaftlichen Krisenzeiten zu"]]
+  },
+  {
+    "lemma": "militant",
+    "meanings_de": ["aggressiver Aktivist"],
+    "definitions_de": ["Person, die konfrontative oder gewaltsame Methoden zur Unterstützung einer Sache einsetzt"],
+    "examples_de": [["**Militante** störten den friedlichen Protest mit aggressiven Taktiken", "Der **Aktivist** forderte sofortiges Handeln beim Klimaschutz"]]
+  },
+  {
+    "lemma": "militarism",
+    "meanings_de": ["Militärdominanzglaube"],
+    "definitions_de": ["Überzeugung, dass ein Land starke militärische Fähigkeiten aufrechterhalten und aggressiv einsetzen sollte"],
+    "examples_de": [["Der **Militarismus** trug zu den Spannungen bei, die zum Ersten Weltkrieg führten", "Kritiker argumentieren, dass **Militarismus** Ressourcen von Sozialprogrammen abzieht"]]
+  },
+  {
+    "lemma": "militarist",
+    "meanings_de": ["Militärmachtbefürworter"],
+    "definitions_de": ["Person, die an den Aufbau militärischer Stärke glaubt und diese zur Erreichung nationaler Ziele einsetzen will"],
+    "examples_de": [["Der **Militarist** plädierte jährlich für erhöhte Verteidigungsausgaben", "**Militaristen** dominierten die Regierung in der Vorkriegszeit"]]
+  },
+  {
+    "lemma": "militarization",
+    "meanings_de": ["Militarisierungsprozess"],
+    "definitions_de": ["Prozess der Organisation der Gesellschaft für militärische Konflikte oder Verleihung militärischen Charakters an zivile Institutionen"],
+    "examples_de": [["Die **Militarisierung** der Polizeikräfte beunruhigt Bürgerrechtsaktivisten", "Die Grenz**militarisierung** erhöhte die Spannungen zwischen den Nachbarländern erheblich"]]
+  }
+]

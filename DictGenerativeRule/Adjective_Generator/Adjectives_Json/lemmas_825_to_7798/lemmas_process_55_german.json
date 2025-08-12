@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "jubilant",
+    "meanings_de": ["überglücklich und triumphierend", "jubelnd vor Freude"],
+    "definitions_de": ["große Freude oder Triumph zeigend, besonders nach einem Erfolg oder Sieg, oft mit lauten Freudenbekundungen verbunden", "überschwängliche Begeisterung ausdrückend, die sich in Jubel, Gesang oder anderen Formen der Freudenäußerung manifestiert"],
+    "examples_de": [["Die **jubelnde** Menge feierte den Wahlsieg ihrer Kandidatin bis in die frühen Morgenstunden", "Nach dem gewonnenen Finale waren die Spieler **jubelnd** und umarmten sich gegenseitig"], ["Die **jubelnden** Fans sangen Siegeslieder auf der Heimfahrt", "Bei der Bekanntgabe der Prüfungsergebnisse brach **jubelnder** Beifall im Hörsaal aus"]]
+  },
+  {
+    "lemma": "judgmental",
+    "meanings_de": ["vorschnell urteilend", "kritisch bewertend"],
+    "definitions_de": ["dazu neigend, andere Menschen oder deren Verhalten vorschnell und oft negativ zu beurteilen, ohne alle Umstände zu kennen", "übermäßig kritisch eingestellt und bereit, moralische Urteile über andere zu fällen, oft ohne ausreichende Grundlage"],
+    "examples_de": [["Seine **verurteilende** Art macht es schwer, offen mit ihm zu sprechen", "Die **vorschnell urteilende** Nachbarin hatte immer etwas an anderen auszusetzen"], ["Ein guter Therapeut sollte niemals **wertend** sein, sondern neutral zuhören", "Ihre **kritische** Haltung gegenüber alternativen Lebensstilen war allgemein bekannt"]]
+  },
+  {
+    "lemma": "judicious",
+    "meanings_de": ["klug und umsichtig", "wohlüberlegt"],
+    "definitions_de": ["gutes Urteilsvermögen zeigend und sorgfältig abwägend, bevor Entscheidungen getroffen werden, besonders in schwierigen Situationen", "von Weisheit und Besonnenheit geprägt, mit der Fähigkeit, vernünftige und durchdachte Entscheidungen zu treffen"],
+    "examples_de": [["Ihre **umsichtige** Verwendung der Ressourcen sicherte den Projekterfolg", "Der **kluge** Investor traf wohlüberlegte Entscheidungen basierend auf gründlicher Analyse"], ["Ein **besonnener** Umgang mit sensiblen Informationen ist in dieser Position unerlässlich", "Die **wohlüberlegte** Auswahl der Teammitglieder zahlte sich später aus"]]
+  },
+  {
+    "lemma": "jugular",
+    "meanings_de": ["zur Halsschlagader gehörend", "lebenswichtig und verwundbar"],
+    "definitions_de": ["anatomisch zur Jugularvene oder Halsschlagader gehörend, die das Blut vom Kopf zum Herzen transportiert", "im übertragenen Sinne einen besonders verwundbaren oder kritischen Punkt betreffend, dessen Angriff verheerend sein kann"],
+    "examples_de": [["Die **juguläre** Vene ist eine der wichtigsten Blutgefäße im Halsbereich", "Bei der Operation musste besonders auf die **juguläre** Region geachtet werden"], ["Der Anwalt zielte mit seiner Argumentation auf die **verwundbarste** Stelle der Gegenpartei", "Diese Entscheidung trifft das Unternehmen an seiner **empfindlichsten** Stelle"]]
+  },
+  {
+    "lemma": "juicy",
+    "meanings_de": ["saftig und feucht", "pikant und interessant", "profitabel"],
+    "definitions_de": ["viel Saft oder Flüssigkeit enthaltend, besonders bei Früchten oder Fleisch, was für einen angenehmen Geschmack und Textur sorgt", "besonders interessant, skandalös oder pikant, oft im Zusammenhang mit Klatsch oder vertraulichen Informationen", "finanziell besonders lohnend oder gewinnbringend, mit hohen Profitmargen oder attraktiven Konditionen"],
+    "examples_de": [["Die **saftigen** Pfirsiche tropften beim Hineinbeißen", "Das **saftige** Steak war perfekt medium gebraten"], ["Sie erzählte mir die **pikanten** Details ihrer Scheidung", "Die Boulevardzeitung war voller **skandalöser** Geschichten über Prominente"], ["Der Verkäufer lockte mit einem **lukrativen** Provisionsmodell", "Das war ein **profitabler** Auftrag mit hoher Gewinnspanne"]]
+  },
+  {
+    "lemma": "jumbled",
+    "meanings_de": ["durcheinander gebracht", "verwirrt und ungeordnet"],
+    "definitions_de": ["in einem Zustand der Unordnung oder Verwirrung, wo Dinge wild durcheinander gemischt sind ohne erkennbare Struktur", "chaotisch vermischt oder verwirrt, sodass die ursprüngliche Ordnung oder Logik nicht mehr erkennbar ist"],
+    "examples_de": [["Die **durcheinandergewürfelten** Papiere auf seinem Schreibtisch machten es unmöglich, etwas zu finden", "Nach dem Umzug waren alle Kisten **durcheinander** geraten"], ["Seine **wirren** Gedanken konnte er kaum in Worte fassen", "Die **ungeordneten** Notizen ergaben keinen Sinn"]]
+  },
+  {
+    "lemma": "jumbo",
+    "meanings_de": ["übergroß", "riesig"],
+    "definitions_de": ["deutlich größer als die normale oder übliche Größe, oft in kommerziellem Kontext für extra große Portionen oder Produkte verwendet", "von außergewöhnlicher Größe, ursprünglich nach einem berühmten Elefanten benannt, heute allgemein für besonders große Dinge"],
+    "examples_de": [["Die **riesige** Packung Popcorn reichte für den ganzen Film", "Wir bestellten die **übergroße** Pizza für die Party"], ["Der **gigantische** Teddybär füllte fast das ganze Kinderzimmer", "Das Flugzeug war ein **riesiger** Airbus A380"]]
+  },
+  {
+    "lemma": "juridical",
+    "meanings_de": ["rechtlich", "juristisch"],
+    "definitions_de": ["das Rechtswesen oder die Rechtsprechung betreffend, im Rahmen des Gesetzes oder der juristischen Praxis", "mit richterlicher Gewalt oder gerichtlichen Verfahren verbunden, auf rechtlichen Prinzipien basierend"],
+    "examples_de": [["Die **juristische** Prüfung des Vertrags dauerte mehrere Wochen", "Das **rechtliche** Gutachten bestätigte unsere Position"], ["Die **gerichtliche** Entscheidung setzte einen wichtigen Präzedenzfall", "Aus **juristischer** Sicht war der Fall eindeutig"]]
+  },
+  {
+    "lemma": "jurisdictional",
+    "meanings_de": ["die Zuständigkeit betreffend", "hoheitlich"],
+    "definitions_de": ["die rechtliche Befugnis oder Zuständigkeit einer Behörde, eines Gerichts oder einer anderen Institution betreffend", "sich auf den Bereich beziehend, in dem eine bestimmte Autorität rechtmäßig Macht ausüben kann"],
+    "examples_de": [["Der **zuständigkeitsrechtliche** Streit zwischen den Bundesländern verzögerte das Verfahren", "Die **hoheitlichen** Befugnisse der Gemeinde waren klar definiert"], ["Das Gericht erklärte sich für **örtlich zuständig** in dieser Angelegenheit", "Die **zuständigkeitsrechtlichen** Fragen mussten zuerst geklärt werden"]]
+  },
+  {
+    "lemma": "justifiable",
+    "meanings_de": ["rechtfertigbar", "vertretbar"],
+    "definitions_de": ["durch vernünftige Gründe oder Argumente zu rechtfertigen oder zu verteidigen, moralisch oder logisch begründbar", "als angemessen oder akzeptabel anzusehen unter den gegebenen Umständen, mit guten Gründen zu vertreten"],
+    "examples_de": [["Seine Wut war unter den Umständen durchaus **gerechtfertigt**", "Die **vertretbaren** Kosten für die Renovierung wurden genehmigt"], ["Es gibt **rechtfertigbare** Gründe für diese drastische Maßnahme", "Ihre Bedenken waren vollkommen **nachvollziehbar**"]]
+  },
+  {
+    "lemma": "justified",
+    "meanings_de": ["gerechtfertigt", "begründet", "im Blocksatz"],
+    "definitions_de": ["durch triftige Gründe oder Beweise als richtig oder angemessen erwiesen, mit gutem Grund durchgeführt", "berechtigt oder vertretbar aufgrund der Umstände, moralisch oder logisch unterstützt", "in der Typografie: Text, der so ausgerichtet ist, dass beide Ränder bündig sind"],
+    "examples_de": [["Ihre Kritik war vollkommen **gerechtfertigt** angesichts der schlechten Leistung", "Die **begründete** Beschwerde führte zu einer Entschuldigung"], ["Seine Ängste erwiesen sich als **berechtigt**, als der Sturm aufzog", "Die **gerechtfertigten** Zweifel führten zu einer gründlicheren Untersuchung"], ["Der Text war **im Blocksatz** formatiert für ein professionelles Erscheinungsbild", "Die **bündig ausgerichtete** Broschüre sah sehr ordentlich aus"]]
+  },
+  {
+    "lemma": "jutting",
+    "meanings_de": ["hervorstehend", "vorspringend"],
+    "definitions_de": ["deutlich über eine Oberfläche oder Linie hinausragend, oft in scharfem oder eckigem Winkel", "sich vorwölbend oder herausstreckend aus der umgebenden Fläche oder Struktur"],
+    "examples_de": [["Die **hervorstehenden** Felsen machten das Klettern gefährlich", "Sein **vorspringendes** Kinn gab ihm ein markantes Profil"], ["Die **herausragenden** Balkone prägten die Fassade des Gebäudes", "Die **vorstehende** Klippe bot einen spektakulären Ausblick"]]
+  },
+  {
+    "lemma": "juvenile",
+    "meanings_de": ["jugendlich", "unreif", "für Jugendliche"],
+    "definitions_de": ["zu jungen Menschen gehörend oder für sie charakteristisch, sich auf die Jugendzeit beziehend", "kindisch oder unreif im Verhalten, nicht dem Alter angemessen handelnd oder denkend", "speziell für junge Menschen bestimmt oder an sie gerichtet, wie Jugendliteratur oder Jugendstrafrecht"],
+    "examples_de": [["Das **jugendliche** Aussehen half ihr beim Casting für Schülerrollen", "Seine **jugendliche** Begeisterung steckte alle an"], ["Sein **kindisches** Verhalten war peinlich für einen Erwachsenen", "Die **unreifen** Witze kamen bei den Kollegen nicht gut an"], ["Das **Jugend**gericht behandelte den Fall des minderjährigen Täters", "Die **Jugend**literatur-Abteilung war gut besucht"]]
+  },
+  {
+    "lemma": "juxtaposed",
+    "meanings_de": ["nebeneinandergestellt", "gegenübergestellt"],
+    "definitions_de": ["direkt nebeneinander platziert oder angeordnet, oft um Kontraste oder Vergleiche zu ermöglichen", "in unmittelbarer Nähe zueinander positioniert, sodass Unterschiede oder Ähnlichkeiten deutlich werden"],
+    "examples_de": [["Die **nebeneinandergestellten** Bilder zeigten die Entwicklung der Stadt über 50 Jahre", "Die **gegenübergestellten** Zitate verdeutlichten die unterschiedlichen Positionen"], ["Modern und traditionell waren in der Ausstellung bewusst **nebeneinandergestellt**", "Die **kontrastierenden** Farben waren geschickt angeordnet"]]
+  },
+  {
+    "lemma": "kaleidoscopic",
+    "meanings_de": ["kaleidoskopartig", "farbenprächtig wechselnd"],
+    "definitions_de": ["sich ständig verändernd in einem komplexen Muster aus Formen und Farben, wie die Bilder in einem Kaleidoskop", "durch eine Vielfalt schnell wechselnder, bunter Eindrücke gekennzeichnet, vielfältig und dynamisch"],
+    "examples_de": [["Die **kaleidoskopartigen** Muster auf dem Bildschirm hypnotisierten die Zuschauer", "Das **farbenprächtige** Feuerwerk bot ein wahrhaft spektakuläres Schauspiel"], ["Ihre **schillernde** Persönlichkeit zeigte immer neue Facetten", "Die **bunte** Vielfalt der Kulturen machte die Stadt so lebendig"]]
+  },
+  {
+    "lemma": "keen",
+    "meanings_de": ["scharf", "eifrig", "durchdringend"],
+    "definitions_de": ["mit einer scharfen Schneide oder Spitze versehen, die gut schneidet oder durchdringt", "sehr interessiert, enthusiastisch oder begierig, etwas zu tun oder zu erfahren", "besonders ausgeprägt in Bezug auf Sinneswahrnehmungen oder geistige Fähigkeiten"],
+    "examples_de": [["Die **scharfe** Klinge schnitt mühelos durch das Seil", "Der **spitze** Wind pfiff um die Ecken"], ["Sie war **begierig** darauf, die neue Technik zu erlernen", "Die **eifrigen** Schüler meldeten sich ständig"], ["Sein **scharfer** Verstand erfasste sofort die Zusammenhänge", "Ihr **feines** Gehör nahm das leiseste Geräusch wahr"]]
+  },
+  {
+    "lemma": "kept",
+    "meanings_de": ["aufbewahrt", "unterhalten", "gepflegt"],
+    "definitions_de": ["für spätere Verwendung oder aus sentimentalen Gründen behalten oder gelagert", "finanziell unterstützt oder versorgt, besonders in einer Beziehung", "in gutem Zustand erhalten durch regelmäßige Pflege und Wartung"],
+    "examples_de": [["Die **aufbewahrten** Briefe erzählten die Geschichte ihrer Liebe", "Die sorgfältig **gehüteten** Familienrezepte wurden weitergegeben"], ["Die **ausgehaltene** Geliebte wohnte in einer Luxuswohnung", "Als **unterhaltene** Frau hatte sie keine finanziellen Sorgen"], ["Der **gepflegte** Garten war der Stolz der Nachbarschaft", "Das gut **erhaltene** Auto lief noch wie neu"]]
+  },
+  {
+    "lemma": "keyed",
+    "meanings_de": ["verschlüsselt", "abgestimmt", "aufgeregt"],
+    "definitions_de": ["mit einem Schlüssel oder Code versehen, der für Zugang oder Identifikation notwendig ist", "auf einen bestimmten Ton, eine Stimmung oder ein System abgestimmt oder eingestellt", "in einem Zustand nervöser Erregung oder Anspannung, emotional aufgeladen"],
+    "examples_de": [["Die **verschlüsselte** Nachricht konnte nur mit dem richtigen Code gelesen werden", "Das **codierte** Schloss öffnete sich nur mit der richtigen Kombination"], ["Die **abgestimmten** Farben harmonierten perfekt miteinander", "Das **angepasste** System funktionierte reibungslos"], ["Die **aufgeregte** Stimmung vor dem Wettkampf war spürbar", "Alle waren **angespannt** vor der wichtigen Präsentation"]]
+  },
+  {
+    "lemma": "keyless",
+    "meanings_de": ["schlüssellos"],
+    "definitions_de": ["ohne physischen Schlüssel funktionierend, meist durch elektronische oder digitale Zugangssysteme ersetzt"],
+    "examples_de": [["Das **schlüssellose** Zugangssystem funktionierte per Fingerabdruck", "Der **schlüssellose** Start des Autos erfolgte per Knopfdruck"]]
+  },
+  {
+    "lemma": "khaki",
+    "meanings_de": ["khakifarben", "erdfarben"],
+    "definitions_de": ["von einer stumpfen gelblich-braunen Farbe, ursprünglich für Militäruniformen verwendet", "aus khakifarbenem Stoff hergestellt, oft für praktische oder militärische Kleidung"],
+    "examples_de": [["Die **khakifarbene** Uniform war perfekt für die Wüstenumgebung", "Seine **erdfarbenen** Hosen passten gut zum Safari-Look"], ["Die **khakifarbenen** Vorhänge verliehen dem Raum eine warme Atmosphäre", "Der **sandfarbene** Jeep war kaum in der Landschaft zu erkennen"]]
+  },
+  {
+    "lemma": "kin",
+    "meanings_de": ["verwandt", "artverwandt"],
+    "definitions_de": ["durch Blutsverwandtschaft oder Heirat verbunden, zur gleichen Familie gehörend", "ähnlich in Art oder Charakter, eine natürliche Verbindung oder Ähnlichkeit aufweisend"],
+    "examples_de": [["Die **verwandten** Seelen erkannten sich sofort", "Alle **blutsverwandten** Mitglieder wurden zur Feier eingeladen"], ["Die **artverwandten** Sprachen hatten viele Gemeinsamkeiten", "Diese **ähnlichen** Probleme erfordern vergleichbare Lösungen"]]
+  },
+  {
+    "lemma": "kindled",
+    "meanings_de": ["entfacht", "entzündet", "erweckt"],
+    "definitions_de": ["zum Brennen gebracht oder angezündet, ein Feuer oder eine Flamme in Gang gesetzt", "hervorgerufen oder ausgelöst, besonders in Bezug auf Emotionen, Interesse oder Leidenschaft", "zum Leben erweckt oder angeregt, eine Reaktion oder Aktivität ausgelöst"],
+    "examples_de": [["Das **entfachte** Lagerfeuer wärmte die Wanderer", "Die **entzündeten** Kerzen tauchten den Raum in warmes Licht"], ["Ihre Worte hatten **geweckte** Hoffnungen in den Herzen der Zuhörer", "Sein **entfachtes** Interesse für Kunst wurde zur Leidenschaft"], ["Die **erweckten** Erinnerungen brachten Tränen in ihre Augen", "Das **angeregte** Gespräch dauerte bis in die Nacht"]]
+  },
+  {
+    "lemma": "kindly",
+    "meanings_de": ["freundlich", "gütig", "wohlwollend"],
+    "definitions_de": ["von warmherziger und fürsorglicher Natur, Freundlichkeit und Mitgefühl zeigend", "in einer sanften und rücksichtsvollen Art und Weise, mit Güte und Verständnis", "bereit zu helfen und anderen Gutes zu tun, von wohlwollender Gesinnung"],
+    "examples_de": [["Die **freundliche** Nachbarin half immer bei Bedarf", "Sein **gütiges** Lächeln beruhigte das verängstigte Kind"], ["Sie sprach in **sanftem** Ton mit dem Kranken", "Der **wohlwollende** Chef unterstützte seine Mitarbeiter"], ["Die **herzliche** Aufnahme machte uns sofort wohl fühlen", "Ihre **fürsorgliche** Art war bei allen beliebt"]]
+  },
+  {
+    "lemma": "kindred",
+    "meanings_de": ["verwandt", "gleichgesinnt", "wesensgleich"],
+    "definitions_de": ["durch familiäre Bande oder gemeinsame Abstammung verbunden, blutsverwandt", "ähnliche Interessen, Gefühle oder Eigenschaften teilend, seelenverwandt", "von ähnlicher Natur oder Charakter, eine natürliche Affinität aufweisend"],
+    "examples_de": [["Die **verwandten** Familien trafen sich jährlich zum Fest", "Alle **blutsverwandten** Erben wurden benachrichtigt"], ["Sie fanden in der Gruppe **gleichgesinnte** Menschen", "Die **seelenverwandten** Künstler verstanden sich auf Anhieb"], ["Die **wesensgleichen** Probleme erforderten ähnliche Lösungsansätze", "**Geistesverwandte** Philosophen kamen zu ähnlichen Schlüssen"]]
+  },
+  {
+    "lemma": "kinetic",
+    "meanings_de": ["kinetisch", "bewegungsbezogen", "dynamisch"],
+    "definitions_de": ["sich auf Bewegung beziehend oder durch Bewegung verursacht, besonders in der Physik", "Bewegungsenergie betreffend oder nutzend, auf mechanischer Bewegung basierend", "durch ständige Bewegung oder Aktivität gekennzeichnet, voller Dynamik"],
+    "examples_de": [["Die **kinetische** Energie des fallenden Objekts wurde berechnet", "Die **bewegungsabhängige** Kunst reagierte auf die Schritte der Besucher"], ["Das **kinetische** Spielzeug faszinierte durch seine Bewegungen", "Die **bewegungsbetriebene** Uhr benötigte keine Batterie"], ["Seine **dynamische** Präsentation hielt alle in Atem", "Die **bewegungsreiche** Performance begeisterte das Publikum"]]
+  },
+  {
+    "lemma": "kingly",
+    "meanings_de": ["königlich", "majestätisch", "herrschaftlich"],
+    "definitions_de": ["einem König angemessen oder würdig, mit königlicher Würde und Autorität", "großzügig und edel in Art und Auftreten, wie es einem Monarchen gebührt", "prächtig und beeindruckend, von königlicher Pracht und Erhabenheit"],
+    "examples_de": [["Sein **königliches** Auftreten beeindruckte alle Anwesenden", "Die **majestätische** Geste zeigte seine natürliche Autorität"], ["Das **herrschaftliche** Anwesen thronte über dem Tal", "Mit **königlicher** Großzügigkeit verteilte er Geschenke"], ["Der **prächtige** Umhang verlieh ihm ein wahrhaft königliches Aussehen", "Die **erhabene** Haltung strahlte Würde aus"]]
+  },
+  {
+    "lemma": "kinky",
+    "meanings_de": ["gekräuselt", "unkonventionell sexuell", "eigenwillig"],
+    "definitions_de": ["in engen Locken oder Kräuselungen gedreht, besonders bei Haaren mit sehr enger Wellung", "ungewöhnliche oder unkonventionelle sexuelle Vorlieben oder Praktiken betreffend", "seltsam, exzentrisch oder ungewöhnlich in Verhalten oder Geschmack"],
+    "examples_de": [["Ihre **gekräuselten** Haare bildeten eine natürliche Afro-Frisur", "Das **krause** Haar war schwer zu kämmen"], ["Der Film behandelte **unkonventionelle** sexuelle Themen", "Ihre **ausgefallenen** Vorlieben waren nicht jedermanns Sache"], ["Sein **eigenwilliger** Kleidungsstil fiel überall auf", "Die **exzentrische** Dekoration spiegelte ihren ungewöhnlichen Geschmack wider"]]
+  },
+  {
+    "lemma": "knightly",
+    "meanings_de": ["ritterlich", "edel und tapfer"],
+    "definitions_de": ["die Eigenschaften eines mittelalterlichen Ritters verkörpernd, wie Mut, Ehre und Höflichkeit", "von edler Gesinnung und tapferem Verhalten geprägt, den Idealen des Rittertums entsprechend"],
+    "examples_de": [["Sein **ritterliches** Verhalten gegenüber Damen war bemerkenswert", "Die **ritterliche** Geste, ihr den Mantel zu halten, rührte sie"], ["Mit **edlem** Mut stellte er sich dem Unrecht entgegen", "Seine **tapfere** Verteidigung der Schwachen war bewundernswert"]]
+  },
+  {
+    "lemma": "knitted",
+    "meanings_de": ["gestrickt", "eng verbunden", "zusammengezogen"],
+    "definitions_de": ["aus Garn oder Wolle durch Verschlingen von Maschen hergestellt, mit Nadeln gefertigt", "eng miteinander verbunden oder verflochten, eine starke Einheit bildend", "zusammengezogen oder gerunzelt, besonders bei Augenbrauen als Ausdruck von Konzentration oder Sorge"],
+    "examples_de": [["Der **gestrickte** Pullover hielt warm im Winter", "Die **gestrickte** Mütze war ein Geschenk der Großmutter"], ["Die **eng verbundene** Gemeinschaft half sich gegenseitig", "Die **verschworene** Gruppe hielt fest zusammen"], ["Mit **zusammengezogenen** Augenbrauen studierte er den Bericht", "Ihre **gerunzelte** Stirn verriet ihre Besorgnis"]]
+  },
+  {
+    "lemma": "knockdown",
+    "meanings_de": ["niederschlagend", "überwältigend", "zerlegbar"],
+    "definitions_de": ["stark genug, um jemanden zu Boden zu werfen oder kampfunfähig zu machen", "so beeindruckend oder überzeugend, dass kein Widerstand möglich ist", "so konstruiert, dass es zur Lagerung oder Transport zerlegt werden kann"],
+    "examples_de": [["Der **niederschlagende** Schlag beendete den Kampf sofort", "Das war ein **vernichtender** Treffer"], ["Ihre **überwältigenden** Argumente ließen keine Zweifel zu", "Der **schlagende** Beweis überzeugte die Jury"], ["Die **zerlegbaren** Möbel waren praktisch für den Umzug", "Das **demontierbare** Regal passte in den Karton"]]
+  },
+  {
+    "lemma": "knockout",
+    "meanings_de": ["umwerfend", "k.o.-schlagend", "ausscheidungs-"],
+    "definitions_de": ["so attraktiv oder beeindruckend, dass es überwältigend wirkt", "fähig, einen Gegner bewusstlos zu schlagen, besonders im Boxsport", "ein Ausscheidungssystem betreffend, bei dem der Verlierer ausscheidet"],
+    "examples_de": [["Sie sah in dem Kleid absolut **umwerfend** aus", "Die **atemberaubende** Schönheit der Landschaft verzauberte alle"], ["Der **k.o.-schlagende** Treffer kam in der dritten Runde", "Sein **vernichtender** Uppercut war gefürchtet"], ["Das **Ausscheidungs**turnier wurde im K.o.-System gespielt", "In der **entscheidenden** Runde ging es um alles"]]
+  },
+  {
+    "lemma": "knotted",
+    "meanings_de": ["verknotet", "verwachsen", "verspannt"],
+    "definitions_de": ["mit einem oder mehreren Knoten versehen, durch Verschlingen befestigt oder verheddert", "knorrig und uneben gewachsen, besonders bei Holz mit vielen Verwachsungen", "durch Anspannung verhärtet und schmerzhaft, besonders bei Muskeln"],
+    "examples_de": [["Das **verknotete** Seil war schwer zu entwirren", "Die **verschlungenen** Fäden bildeten ein kompliziertes Muster"], ["Der **knorrige** alte Baum hatte einen verwachsenen Stamm", "Das **verwachsene** Holz zeigte interessante Maserungen"], ["Seine **verspannten** Schultern schmerzten nach dem langen Tag", "Die **verhärteten** Muskeln brauchten eine Massage"]]
+  },
+  {
+    "lemma": "knowing",
+    "meanings_de": ["wissend", "eingeweiht", "vielsagend"],
+    "definitions_de": ["Kenntnis oder Bewusstsein von etwas habend, oft von geheimen oder vertraulichen Informationen", "ein tieferes Verständnis zeigend, das über oberflächliches Wissen hinausgeht", "durch einen bedeutungsvollen Ausdruck gekennzeichnet, der andeuted, dass man mehr weiß"],
+    "examples_de": [["Ihr **wissender** Blick verriet, dass sie die Wahrheit kannte", "Die **eingeweihten** Mitarbeiter durften nichts verraten"], ["Mit **kenntnisreichem** Lächeln nickte er zustimmend", "Seine **kundige** Art zeigte jahrelange Erfahrung"], ["Das **vielsagende** Schweigen sprach Bände", "Ein **bedeutungsvoller** Blick genügte als Warnung"]]
+  },
+  {
+    "lemma": "knowledgeable",
+    "meanings_de": ["kenntnisreich", "sachkundig", "bewandert"],
+    "definitions_de": ["über umfangreiches Wissen in einem oder mehreren Bereichen verfügend, gut informiert", "durch Studium oder Erfahrung erworbene Expertise in einem Fachgebiet besitzend", "fähig, fundierte Informationen und kompetente Einschätzungen zu geben"],
+    "examples_de": [["Der **sachkundige** Führer erklärte jedes Detail der historischen Stätte", "Die **kenntnisreiche** Beraterin half bei allen technischen Fragen"], ["Er war sehr **bewandert** in mittelalterlicher Geschichte", "Die **fachkundige** Ärztin erkannte sofort die seltene Krankheit"], ["Ihre **fundierte** Analyse überzeugte das Management", "Der **versierte** Weinkenner empfahl den perfekten Tropfen"]]
+  },
+  {
+    "lemma": "kosher",
+    "meanings_de": ["koscher", "einwandfrei", "legitim"],
+    "definitions_de": ["den jüdischen Speisegesetzen entsprechend, rituell rein und zum Verzehr erlaubt", "echt, aufrichtig oder legitim, den geltenden Standards oder Regeln entsprechend", "moralisch einwandfrei oder akzeptabel, ohne versteckte negative Aspekte"],
+    "examples_de": [["Das **koschere** Restaurant befolgte streng die jüdischen Speisevorschriften", "**Koscheres** Fleisch wurde nach rituellen Regeln geschlachtet"], ["Der Deal schien völlig **einwandfrei** und legal zu sein", "Ist diese Geschäftspraktik wirklich **legitim**?"], ["Die **saubere** Transaktion hinterließ keine Fragen", "Alles verlief **rechtmäßig** und transparent"]]
+  },
+  {
+    "lemma": "labeled",
+    "meanings_de": ["beschriftet", "etikettiert", "kategorisiert"],
+    "definitions_de": ["mit einem Etikett oder Schild versehen, das Informationen über den Inhalt oder Zweck gibt", "einer bestimmten Kategorie oder Klassifikation zugeordnet, oft vereinfachend", "mit einem bestimmten Ruf oder einer Charakterisierung versehen, positiv oder negativ"],
+    "examples_de": [["Die **beschrifteten** Gläser standen ordentlich im Regal", "Alle **etikettierten** Produkte zeigten das Verfallsdatum"], ["Die **kategorisierten** Akten erleichterten die Suche", "Die **klassifizierten** Dokumente waren nach Wichtigkeit sortiert"], ["Er wurde als Rebell **abgestempelt** und ausgegrenzt", "Die **stigmatisierte** Gruppe kämpfte gegen Vorurteile"]]
+  },
+  {
+    "lemma": "labelled",
+    "meanings_de": ["beschriftet", "etikettiert", "bezeichnet"],
+    "definitions_de": ["mit einem Kennzeichen oder einer Beschriftung versehen zur Identifikation", "in eine bestimmte Kategorie eingeordnet oder mit einer Bezeichnung versehen", "mit einem bestimmten Image oder Ruf behaftet, oft durch andere zugeschrieben"],
+    "examples_de": [["Die **beschrifteten** Ordner halfen bei der Organisation", "Sorgfältig **etikettierte** Proben wurden ins Labor geschickt"], ["Die **bezeichneten** Waren waren leicht zu finden", "Alle **gekennzeichneten** Artikel waren im Angebot"], ["Sie wurde unfair als schwierig **abgestempelt**", "Die **gebrandmarkte** Opposition hatte es schwer"]]
+  },
+  {
+    "lemma": "labored",
+    "meanings_de": ["mühsam", "schwerfällig", "angestrengt"],
+    "definitions_de": ["mit sichtbarer Anstrengung oder Schwierigkeit ausgeführt, nicht mühelos oder natürlich", "gekünstelt oder forciert wirkend, ohne natürlichen Fluss oder Leichtigkeit", "durch schwere körperliche Anstrengung gekennzeichnet, besonders bei der Atmung"],
+    "examples_de": [["Seine **mühsame** Aussprache verriet, dass Deutsch nicht seine Muttersprache war", "Der **schwerfällige** Gang zeigte seine Erschöpfung"], ["Die **gekünstelte** Unterhaltung war für alle unangenehm", "Ihr **angestrengtes** Lächeln wirkte nicht überzeugend"], ["Mit **schwerem** Atem erreichte er den Gipfel", "Die **keuchende** Atmung des Kranken bereitete Sorgen"]]
+  },
+  {
+    "lemma": "laboring",
+    "meanings_de": ["arbeitend", "sich abmühend", "schwer atmend"],
+    "definitions_de": ["körperliche Arbeit verrichtend, besonders schwere manuelle Tätigkeiten", "sich mit großer Anstrengung bemühend, unter Schwierigkeiten kämpfend", "mit Mühe atmend oder sich bewegend, unter körperlicher Belastung"],
+    "examples_de": [["Die **arbeitenden** Menschen verdienten mehr Respekt", "**Schwer arbeitende** Bauern ernteten die Felder"], ["Die **sich abmühenden** Schüler kämpften mit der schwierigen Aufgabe", "Das **kämpfende** Team gab nicht auf"], ["Der **keuchende** Motor schien jeden Moment auszufallen", "Mit **rasselndem** Atem kämpfte er gegen die Krankheit"]]
+  },
+  {
+    "lemma": "laborious",
+    "meanings_de": ["mühselig", "arbeitsintensiv", "beschwerlich"],
+    "definitions_de": ["viel Zeit, Mühe und Geduld erfordernd, mit großem Arbeitsaufwand verbunden", "durch harte und ausdauernde Arbeit gekennzeichnet, sehr anstrengend", "langwierig und ermüdend in der Ausführung, ohne schnelle Erfolge"],
+    "examples_de": [["Die **mühselige** Restaurierung des Gemäldes dauerte Monate", "Der **arbeitsintensive** Prozess erforderte viele Überstunden"], ["Die **beschwerliche** Wanderung durch den Dschungel testete ihre Grenzen", "Das **aufwendige** Projekt verschlang enorme Ressourcen"], ["Die **langwierige** Recherche führte schließlich zum Erfolg", "Nach **zäher** Arbeit wurde das Ziel erreicht"]]
+  },
+  {
+    "lemma": "laboured",
+    "meanings_de": ["schwerfällig", "gequält", "mühevoll"],
+    "definitions_de": ["mit offensichtlicher Mühe und ohne natürliche Leichtigkeit ausgeführt", "künstlich und gezwungen wirkend, ohne spontane Natürlichkeit", "unter Anstrengung erfolgt, besonders bei Atmung oder Bewegung"],
+    "examples_de": [["Sein **schwerfälliger** Schreibstil machte den Text schwer lesbar", "Die **gequälte** Metapher passte nicht zum Rest"], ["Das **mühevolle** Gespräch stockte immer wieder", "Ihre **gezwungene** Fröhlichkeit täuschte niemanden"], ["Mit **schwerem** Schritt schleppte er sich die Treppe hinauf", "Die **angestrengte** Atmung war besorgniserregend"]]
+  },
+  {
+    "lemma": "labouring",
+    "meanings_de": ["arbeitend", "sich plagend", "ringend"],
+    "definitions_de": ["in harter körperlicher Arbeit engagiert, schwere Arbeit verrichtend", "unter großen Schwierigkeiten oder Anstrengungen leidend", "mit sichtbarer Mühe kämpfend, um etwas zu erreichen oder zu überwinden"],
+    "examples_de": [["Die **hart arbeitende** Bevölkerung verdiente bessere Bedingungen", "**Schuftende** Arbeiter errichteten das Gebäude"], ["Die **sich plagende** Studentin verbrachte Nächte über den Büchern", "Das **kämpfende** Unternehmen suchte nach Lösungen"], ["Der **ringende** Sportler gab sein Bestes", "Mit **sich abmühender** Entschlossenheit erreichte sie ihr Ziel"]]
+  },
+  {
+    "lemma": "labyrinthine",
+    "meanings_de": ["labyrinthisch", "verschlungen", "verworren"],
+    "definitions_de": ["wie ein Labyrinth aufgebaut, mit vielen verwirrenden Wegen und Abzweigungen", "extrem komplex und schwer zu durchschauen oder zu navigieren", "verwirrend verschachtelt in Struktur oder Argumentation"],
+    "examples_de": [["Die **labyrinthischen** Gänge des alten Schlosses verwirrten die Besucher", "Das **verschlungene** Wegenetz machte Orientierung schwierig"], ["Die **verworrene** Bürokratie erschwerte jeden Antrag", "Das **verzweigte** System war kaum zu verstehen"], ["Seine **verschachtelte** Argumentation war schwer nachzuvollziehen", "Die **komplizierte** Handlung des Romans forderte volle Aufmerksamkeit"]]
+  },
+  {
+    "lemma": "laced",
+    "meanings_de": ["geschnürt", "durchzogen", "versetzt"],
+    "definitions_de": ["mit Schnürsenkeln oder Bändern zusammengehalten oder verziert", "durchwoben oder durchsetzt mit einem bestimmten Element oder Geschmack", "heimlich mit einer Substanz, oft Alkohol oder Drogen, versetzt"],
+    "examples_de": [["Die **geschnürten** Stiefel saßen fest am Fuß", "Das **geschnürte** Korsett betonte ihre Taille"], ["Der Kuchen war mit Rum **durchzogen**", "Die Rede war mit Ironie **durchsetzt**"], ["Der **versetzte** Drink enthielt mehr Alkohol als erwartet", "Das **präparierte** Getränk war gefährlich"]]
+  },
+  {
+    "lemma": "lacking",
+    "meanings_de": ["fehlend", "mangelnd", "unzureichend"],
+    "definitions_de": ["nicht vorhanden oder nicht in ausreichender Menge verfügbar", "ohne eine bestimmte Eigenschaft oder Fähigkeit, die erwartet oder benötigt wird", "nicht den erforderlichen Standard oder die erwartete Qualität erreichend"],
+    "examples_de": [["Die **fehlenden** Unterlagen verzögerten den Prozess", "**Mangelnde** Erfahrung war sein größtes Problem"], ["Ihm war jegliches **fehlendes** Mitgefühl anzumerken", "Die **mangelnde** Organisation führte zum Chaos"], ["Die **unzureichende** Vorbereitung rächte sich", "Ihre **dürftige** Erklärung überzeugte niemanden"]]
+  },
+  {
+    "lemma": "lackluster",
+    "meanings_de": ["glanzlos", "fade", "mittelmäßig"],
+    "definitions_de": ["ohne Glanz, Energie oder Begeisterung, matt und uninteressant", "enttäuschend in Qualität oder Leistung, unter den Erwartungen bleibend", "ohne besondere Merkmale oder Aufregung, durchschnittlich und uninspirierend"],
+    "examples_de": [["Die **glanzlose** Vorstellung enttäuschte das Publikum", "Sein **matter** Vortrag langweilte die Zuhörer"], ["Die **mittelmäßigen** Verkaufszahlen beunruhigten die Geschäftsleitung", "Eine **fade** Darbietung ohne Höhepunkte"], ["Das **langweilige** Design sprach niemanden an", "Die **uninspirierte** Kampagne verfehlte ihre Wirkung"]]
+  },
+  {
+    "lemma": "lacklustre",
+    "meanings_de": ["lustlos", "farblos", "schwach"],
+    "definitions_de": ["ohne Enthusiasmus oder Vitalität, träge und energielos", "ohne interessante oder ansprechende Eigenschaften, langweilig", "unterdurchschnittlich in Leistung oder Qualität"],
+    "examples_de": [["Die **lustlose** Mannschaft verlor deutlich", "Sein **träger** Auftritt überzeugte niemanden"], ["Die **farblose** Persönlichkeit machte keinen Eindruck", "Eine **langweilige** Präsentation ohne Esprit"], ["Die **schwache** Leistung enttäuschte alle Erwartungen", "Das **mäßige** Ergebnis war vorhersehbar"]]
+  },
+  {
+    "lemma": "laconic",
+    "meanings_de": ["lakonisch", "wortkarg", "knapp"],
+    "definitions_de": ["sehr wenige Worte verwendend, oft bis zur Unhöflichkeit kurz angebunden", "prägnant und auf das Wesentliche reduziert in der Ausdrucksweise", "von spartanischer Kürze, nach der Art der alten Lakedämonier"],
+    "examples_de": [["Seine **lakonische** Antwort bestand nur aus einem Wort", "Der **wortkarge** Mann sprach selten mehr als nötig"], ["Die **knappe** Mitteilung enthielt nur das Wichtigste", "Ihr **kurzer** Kommentar traf den Kern"], ["Mit **spartanischer** Kürze fasste er die Lage zusammen", "Die **prägnante** Formulierung war treffend"]]
+  },
+  {
+    "lemma": "lacy",
+    "meanings_de": ["spitzenartig", "durchbrochen", "filigran"],
+    "definitions_de": ["aus Spitze gefertigt oder mit Spitze verziert, mit zarten Mustern", "ein feines, durchbrochenes Muster aufweisend, das an Spitze erinnert", "zart und fein gearbeitet mit vielen kleinen Öffnungen oder Details"],
+    "examples_de": [["Das **spitzenbesetzte** Kleid war perfekt für die Hochzeit", "Die **spitzenartigen** Gardinen filterten das Sonnenlicht"], ["Die **durchbrochenen** Blätter der Pflanze sahen aus wie Spitze", "Das **filigrane** Muster des Schmucks war beeindruckend"], ["Die **zarten** Schneeflocken bildeten spitzenartige Muster", "**Feine** Eisblumen zierten das Fenster"]]
+  },
+  {
+    "lemma": "laden",
+    "meanings_de": ["beladen", "schwer von", "voll"],
+    "definitions_de": ["mit einer schweren Last oder großen Menge von etwas versehen", "reichlich versehen oder gesättigt mit einer bestimmten Substanz oder Eigenschaft", "emotional oder symbolisch beschwert mit Bedeutung oder Verantwortung"],
+    "examples_de": [["Der **beladene** Lastwagen konnte kaum den Berg hinauf", "Die **schwer bepackten** Wanderer rasteten häufig"], ["Die **duftgeschwängerte** Luft im Garten war betörend", "**Bedeutungsschwere** Worte hingen im Raum"], ["Die **schuldbeladene** Vergangenheit verfolgte ihn", "Ihre **verantwortungsvolle** Position war herausfordernd"]]
+  }
+]

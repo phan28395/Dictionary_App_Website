@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "complacent",
+    "meanings_de": ["selbstzufrieden ohne Kritik"],
+    "definitions_de": ["sich in selbstgefälliger und unkritischer Weise mit sich selbst oder den eigenen Leistungen zufrieden zeigend, ohne Bereitschaft zur Verbesserung"],
+    "examples_de": [["Das Team wurde nach mehreren Siegen **selbstgefällig**", "Seien Sie nicht **selbstzufrieden** mit Ihren Gesundheitswerten"]]
+  },
+  {
+    "lemma": "complaining",
+    "meanings_de": ["Unzufriedenheit ausdrückend"],
+    "definitions_de": ["Unzufriedenheit, Verärgerung oder Unmut über etwas zeigend oder zum Ausdruck bringend, dabei oft wiederholt Beschwerden äußernd"],
+    "examples_de": [["Der **nörgelnde** Kunde verlangte den Geschäftsführer zu sprechen", "Sie nahm einen **klagenden** Tonfall an, als sie über ihre Arbeitsbelastung sprach"]]
+  },
+  {
+    "lemma": "complementary",
+    "meanings_de": ["sich ergänzend", "kostenlos bereitgestellt"],
+    "definitions_de": ["sich so kombinierend, dass die Eigenschaften des jeweils anderen verstärkt oder hervorgehoben werden", "als Gefälligkeit oder Höflichkeit kostenlos zur Verfügung gestellt"],
+    "examples_de": [["Die beiden Künstler hatten **komplementäre** Fähigkeiten, die sie zu großartigen Partnern machten", "Ihre **sich ergänzenden** Persönlichkeiten schufen eine ausgewogene Beziehung"], ["Das Hotel bot allen Gästen ein **kostenloses** Frühstück", "Wir erhielten **Gratis**-Eintrittskarten für das Konzert"]]
+  },
+  {
+    "lemma": "completed",
+    "meanings_de": ["fertiggestellt oder abgeschlossen"],
+    "definitions_de": ["vollständig beendet oder zum Abschluss gebracht, wobei alle notwendigen Teile erledigt wurden"],
+    "examples_de": [["Das **abgeschlossene** Projekt wurde vorzeitig geliefert", "Sie reichte ihr **fertiggestelltes** Antragsformular gestern ein"]]
+  },
+  {
+    "lemma": "completing",
+    "meanings_de": ["im Fertigstellungsprozess"],
+    "definitions_de": ["gerade dabei, etwas zu beenden oder vollständig zu machen, indem das Fehlende oder Benötigte hinzugefügt wird"],
+    "examples_de": [["Die **abschließende** Bauphase wird zwei Monate dauern", "Die Studenten sind mit der Fertigstellung ihrer **letzten** Aufgaben beschäftigt"]]
+  },
+  {
+    "lemma": "compliant",
+    "meanings_de": ["Regeln oder Anforderungen befolgend"],
+    "definitions_de": ["bestimmte Standards, Regeln oder Gesetze erfüllend oder bereit, diese zu erfüllen, dabei vorschriftsmäßig handelnd"],
+    "examples_de": [["Das Unternehmen stellt sicher, dass alle Produkte **konform** mit den Sicherheitsvorschriften sind", "Sie befolgte stets **gewissenhaft** die Anweisungen ihres Arztes"]]
+  },
+  {
+    "lemma": "complicit",
+    "meanings_de": ["an Fehlverhalten beteiligt"],
+    "definitions_de": ["mit anderen an illegalen Aktivitäten oder Fehlverhalten beteiligt, insbesondere als Mittäter oder durch stillschweigende Duldung"],
+    "examples_de": [["Der Buchhalter war **mitschuldig** am Finanzbetrug", "Sie waren daran **beteiligt**, die Sicherheitsverstöße zu vertuschen"]]
+  },
+  {
+    "lemma": "complimentary",
+    "meanings_de": ["Lob ausdrückend", "kostenlos gegeben"],
+    "definitions_de": ["ein Kompliment ausdrückend, Lob und Anerkennung vermittelnd oder enthaltend", "als Höflichkeit oder Werbemaßnahme kostenlos zur Verfügung gestellt"],
+    "examples_de": [["Sie machte mehrere **lobende** Bemerkungen über seine Präsentation", "Die Rezension war äußerst **wohlwollend** über den Service des Restaurants"], ["Die Fluggesellschaft bietet **kostenlose** Getränke während des Fluges", "Gäste erhalten **kostenlosen** Zugang zum Fitnesscenter"]]
+  },
+  {
+    "lemma": "composed",
+    "meanings_de": ["ruhig und beherrscht", "zusammengesetzt aus Teilen"],
+    "definitions_de": ["seine Gefühle und seinen Ausdruck unter Kontrolle habend, ruhig und selbstsicher wirkend", "erschaffen oder geschrieben worden, aus verschiedenen Elementen oder Teilen bestehend"],
+    "examples_de": [["Sie blieb trotz der stressigen Situation **gefasst**", "Der Diplomat wirkte während der angespannten Verhandlungen **beherrscht**"], ["Das Komitee **setzt sich zusammen** aus Experten verschiedener Fachgebiete", "Dieses Stück wurde von Mozart in seinen frühen Jahren **komponiert**"]]
+  },
+  {
+    "lemma": "composite",
+    "meanings_de": ["aus verschiedenen Teilen zusammengesetzt"],
+    "definitions_de": ["aus verschiedenen Teilen oder Elementen zusammengesetzt, die zu einer einzigen Einheit kombiniert wurden"],
+    "examples_de": [["Das **Verbund**material ist stärker als seine einzelnen Komponenten", "Sie erstellten ein **zusammengesetztes** Bild aus mehreren Fotografien"]]
+  },
+  {
+    "lemma": "compositional",
+    "meanings_de": ["die Komposition betreffend"],
+    "definitions_de": ["sich auf die Art und Weise beziehend, wie etwas zusammengesetzt ist, oder auf den Akt des Erschaffens von Musik oder Kunst"],
+    "examples_de": [["Die **kompositorischen** Techniken des Künstlers schaffen visuelle Harmonie", "Wir studierten die **kompositorische** Struktur klassischer Symphonien"]]
+  },
+  {
+    "lemma": "compounded",
+    "meanings_de": ["verschlimmert oder verstärkt", "aus Elementen kombiniert"],
+    "definitions_de": ["durch zusätzliche Faktoren oder Umstände verschlimmert oder intensiviert", "durch Kombination von zwei oder mehr Elementen, Teilen oder Zutaten gebildet"],
+    "examples_de": [["Das Problem wurde durch schlechte Kommunikation **verschärft**", "Seine Angst wurde durch Schlafmangel **verstärkt**"], ["Das Medikament enthält mehrere **zusammengesetzte** Inhaltsstoffe", "Die Zinsen werden auf diesem Sparkonto monatlich **aufgezinst**"]]
+  },
+  {
+    "lemma": "comprehensible",
+    "meanings_de": ["verständlich"],
+    "definitions_de": ["klar verstehbar, für den Verstand begreiflich und nachvollziehbar, sodass der Sinn erfasst werden kann"],
+    "examples_de": [["Die Anweisungen waren in **verständlicher** Sprache verfasst", "Ihre Erklärung machte die komplexe Theorie **begreiflich**"]]
+  },
+  {
+    "lemma": "compressed",
+    "meanings_de": ["fest zusammengepresst", "in der Größe reduziert"],
+    "definitions_de": ["durch äußeren Druck zusammengepresst oder in einen kleineren Raum gezwungen", "in Größe, Dauer oder Umfang reduziert, während wesentliche Informationen erhalten bleiben"],
+    "examples_de": [["Die **komprimierte** Luft trieb die pneumatischen Werkzeuge an", "Die Verletzung resultierte aus **eingeklemmtem** Nervengewebe"], ["Die **komprimierte** Datei benötigt weniger Speicherplatz", "Sie lieferten eine **gekürzte** Version der Präsentation"]]
+  },
+  {
+    "lemma": "compressible",
+    "meanings_de": ["komprimierbar"],
+    "definitions_de": ["fähig, in einen kleineren Raum oder ein kleineres Volumen gepresst oder gequetscht zu werden"],
+    "examples_de": [["Luft ist im Vergleich zu Wasser hochgradig **komprimierbar**", "Der **komprimierbare** Schaum passt sich der Körperform an"]]
+  },
+  {
+    "lemma": "compromising",
+    "meanings_de": ["rufschädigend", "Kompromisse eingehend"],
+    "definitions_de": ["etwas Peinliches oder Schädliches offenbarend, besonders für jemandes Ruf", "bereit, durch gegenseitige Vereinbarung Zugeständnisse zu machen"],
+    "examples_de": [["Die durchgesickerten Fotos brachten sie in eine **kompromittierende** Lage", "Er vermied jegliche **verfänglichen** Situationen bei der Arbeit"], ["Sie wählten einen **kompromissbereiten** Ansatz zur Konfliktlösung", "Beide Parteien zeigten **versöhnliche** Haltungen während der Verhandlungen"]]
+  },
+  {
+    "lemma": "compulsive",
+    "meanings_de": ["von unwiderstehlichem Drang getrieben"],
+    "definitions_de": ["aus einem unwiderstehlichen Drang resultierend oder danach handelnd, oft gegen den eigenen bewussten Willen"],
+    "examples_de": [["Sein **zwanghaftes** Verhalten erforderte professionelle Behandlung", "Sie ist eine **zwanghafte** Käuferin, die keinem Schlussverkauf widerstehen kann"]]
+  },
+  {
+    "lemma": "compulsory",
+    "meanings_de": ["gesetzlich oder durch Regeln vorgeschrieben"],
+    "definitions_de": ["durch Gesetz oder Vorschrift verpflichtend zu tun, obligatorisch und nicht freiwillig"],
+    "examples_de": [["Bildung ist für Kinder bis zum Alter von sechzehn Jahren **verpflichtend**", "Das Unternehmen führte **obligatorische** Sicherheitsschulungen ein"]]
+  },
+  {
+    "lemma": "computational",
+    "meanings_de": ["Berechnung oder Computer betreffend"],
+    "definitions_de": ["sich auf Berechnungen beziehend oder diese nutzend, insbesondere solche, die von Computern oder mathematischen Methoden durchgeführt werden"],
+    "examples_de": [["Die Forschung erfordert erhebliche **rechnerische** Ressourcen", "Sie ist auf **computergestützte** Linguistik und Sprachverarbeitung spezialisiert"]]
+  },
+  {
+    "lemma": "concave",
+    "meanings_de": ["nach innen gewölbt"],
+    "definitions_de": ["eine Kontur oder Oberfläche habend, die nach innen gewölbt ist wie das Innere einer Schüssel"],
+    "examples_de": [["Der **konkave** Spiegel fokussierte das Licht auf einen einzigen Punkt", "Der Löffel hat eine **hohle** Oberfläche zum Aufnehmen von Flüssigkeit"]]
+  },
+  {
+    "lemma": "concealed",
+    "meanings_de": ["verborgen gehalten"],
+    "definitions_de": ["geheim oder vor der Sicht verborgen gehalten, nicht erlaubt gesehen oder bekannt zu werden"],
+    "examples_de": [["Die **verborgene** Waffe wurde bei der Durchsuchung entdeckt", "Sie hielt ihre Gefühle sorgfältig vor anderen **verborgen**"]]
+  },
+  {
+    "lemma": "concealing",
+    "meanings_de": ["verbergend oder verdeckend"],
+    "definitions_de": ["etwas geheim haltend oder verhindernd, dass es bekannt wird oder gesehen werden kann"],
+    "examples_de": [["Das **abdeckende** Make-up verbarg alle ihre Hautunreinheiten perfekt", "Sein **verheimlíchendes** Verhalten machte alle misstrauisch"]]
+  },
+  {
+    "lemma": "conceited",
+    "meanings_de": ["übermäßig stolz auf sich selbst"],
+    "definitions_de": ["übermäßig stolz auf sich selbst, mit einem übertriebenen Gefühl der eigenen Wichtigkeit"],
+    "examples_de": [["Seine **eingebildete** Art machte ihn bei Kollegen unbeliebt", "Sie wurde **hochnäsig**, nachdem sie den Schönheitswettbewerb gewonnen hatte"]]
+  },
+  {
+    "lemma": "conceivable",
+    "meanings_de": ["vorstellbar"],
+    "definitions_de": ["fähig, sich vorgestellt, verstanden oder als möglich oder wahrscheinlich geglaubt zu werden"],
+    "examples_de": [["Es ist **denkbar**, dass die Preise nächstes Jahr fallen könnten", "Jede **erdenkliche** Option wurde vor der Entscheidung in Betracht gezogen"]]
+  },
+  {
+    "lemma": "concentrated",
+    "meanings_de": ["auf einen Bereich fokussiert", "stärker oder dichter gemacht"],
+    "definitions_de": ["an einem Ort versammelt oder auf eine Sache fokussiert", "dichter oder stärker gemacht durch Entfernung von Wasser oder anderen verdünnenden Mitteln"],
+    "examples_de": [["Die Truppen waren entlang der östlichen Grenze **konzentriert**", "Sie widmete dem Problem ihre **konzentrierte** Aufmerksamkeit"], ["Fügen Sie dem **konzentrierten** Saft vor dem Trinken Wasser hinzu", "Das **konzentrierte** Waschmittel benötigt nur kleine Mengen"]]
+  },
+  {
+    "lemma": "concentric",
+    "meanings_de": ["ein gemeinsames Zentrum teilend"],
+    "definitions_de": ["ein gemeinsames Zentrum habend, wie Kreise oder Kugeln, die ineinander angeordnet sind"],
+    "examples_de": [["Die Zielscheibe besteht aus **konzentrischen** Kreisen um ein Zentrum", "Baumringe bilden **konzentrische** Muster, die das jährliche Wachstum zeigen"]]
+  },
+  {
+    "lemma": "conceptual",
+    "meanings_de": ["auf Ideen oder Konzepte bezogen"],
+    "definitions_de": ["sich auf mentale Konzepte beziehend oder darauf basierend, anstatt auf physische Objekte oder spezifische Beispiele"],
+    "examples_de": [["Der Künstler schuf **konzeptuelle** Werke, die Identität erforschen", "Wir brauchen einen **konzeptionellen** Rahmen, bevor wir mit der Entwicklung beginnen"]]
+  },
+  {
+    "lemma": "concerted",
+    "meanings_de": ["gemeinsam geplant oder arrangiert"],
+    "definitions_de": ["gemeinsam arrangiert, geplant oder in Zusammenarbeit mit anderen durchgeführt"],
+    "examples_de": [["Sie unternahmen eine **gemeinsame** Anstrengung zur Verbesserung des Kundenservice", "Die **konzertierte** Kampagne führte zu Politikänderungen"]]
+  },
+  {
+    "lemma": "conciliatory",
+    "meanings_de": ["versöhnlich gemeint"],
+    "definitions_de": ["darauf abzielend zu beschwichtigen oder zu beruhigen, Bereitschaft zeigend, eine Meinungsverschiedenheit zu beenden"],
+    "examples_de": [["Er nahm nach dem Streit einen **versöhnlichen** Ton an", "Das Unternehmen machte **entgegenkommende** Gesten gegenüber den streikenden Arbeitern"]]
+  },
+  {
+    "lemma": "concise",
+    "meanings_de": ["kurz aber umfassend"],
+    "definitions_de": ["Informationen klar und in wenigen Worten gebend, kurz aber dennoch umfassend"],
+    "examples_de": [["Bitte liefern Sie eine **prägnante** Zusammenfassung des Berichts", "Ihr **knapper** Schreibstil macht komplexe Themen zugänglich"]]
+  },
+  {
+    "lemma": "concluded",
+    "meanings_de": ["zu Ende gebracht"],
+    "definitions_de": ["zu einem Ende gebracht oder mit Endgültigkeit abgeschlossen worden"],
+    "examples_de": [["Die **abgeschlossenen** Verhandlungen führten zu einer fairen Vereinbarung", "Die Polizei betrachtete den Fall nach den Verhaftungen als **beendet**"]]
+  },
+  {
+    "lemma": "concluding",
+    "meanings_de": ["zum Ende bringend"],
+    "definitions_de": ["dazu dienend, etwas zu einem Ende zu bringen oder einen abschließenden Teil zu bilden"],
+    "examples_de": [["Das **abschließende** Kapitel fasst alle wichtigen Erkenntnisse zusammen", "In ihren **Schlussbemerkungen** dankte sie dem Publikum"]]
+  },
+  {
+    "lemma": "conclusive",
+    "meanings_de": ["etwas entscheidend beweisend"],
+    "definitions_de": ["etwas entscheidend beweisend, einer Debatte oder Frage ein Ende setzend"],
+    "examples_de": [["Die DNA-Beweise waren **schlüssig** für die Lösung des Falls", "Sie fanden **eindeutige** Beweise für die Gültigkeit der Theorie"]]
+  },
+  {
+    "lemma": "concomitant",
+    "meanings_de": ["natürlich begleitend oder verbunden"],
+    "definitions_de": ["natürlich begleitend oder mit etwas anderem als Folge oder verwandtes Phänomen verbunden"],
+    "examples_de": [["Erhöhtes Verkehrsaufkommen ist eine **begleitende** Auswirkung des städtischen Wachstums", "Das Medikament hat mehrere **einhergehende** Nebenwirkungen"]]
+  },
+  {
+    "lemma": "concurrent",
+    "meanings_de": ["gleichzeitig existierend oder geschehend"],
+    "definitions_de": ["zur gleichen Zeit parallel existierend, geschehend oder arbeitend"],
+    "examples_de": [["Sie belegt dieses Semester drei **gleichzeitige** Kurse", "Der Richter verhängte **gleichzeitig** zu verbüßende Strafen für beide Verbrechen"]]
+  },
+  {
+    "lemma": "concurring",
+    "meanings_de": ["übereinstimmend oder zusammenfallend"],
+    "definitions_de": ["mit etwas übereinstimmend oder zur gleichen Zeit wie etwas anderes geschehend"],
+    "examples_de": [["Die **übereinstimmenden** Meinungen unterstützten die Mehrheitsentscheidung", "Mehrere **zusammentreffende** Ereignisse führten zur Krise"]]
+  },
+  {
+    "lemma": "condemning",
+    "meanings_de": ["starke Missbilligung ausdrückend"],
+    "definitions_de": ["vollständige Missbilligung von etwas ausdrückend, typischerweise öffentlich und formell"],
+    "examples_de": [["Seine **verurteilenden** Bemerkungen über die Politik lösten eine Debatte aus", "Der Bericht enthielt **belastende** Beweise gegen das Unternehmen"]]
+  },
+  {
+    "lemma": "condescending",
+    "meanings_de": ["Überlegenheitshaltung zeigend"],
+    "definitions_de": ["Gefühle der Überlegenheit zeigend, herablassend oder von oben herab mit anderen sprechend"],
+    "examples_de": [["Sein **herablassender** Ton verärgerte alle in der Besprechung", "Sie schenkte dem jüngeren Mitarbeiter ein **gönnerhaftes** Lächeln"]]
+  },
+  {
+    "lemma": "conditional",
+    "meanings_de": ["an Bedingungen geknüpft"],
+    "definitions_de": ["davon abhängig, dass eine oder mehrere Bedingungen erfüllt werden, bevor es wirksam wird"],
+    "examples_de": [["Das Angebot ist **bedingt** durch das Bestehen der Hintergrundüberprüfung", "Sie erhielten eine **vorläufige** Genehmigung für den Kredit"]]
+  },
+  {
+    "lemma": "conditioned",
+    "meanings_de": ["trainiert zu reagieren", "in gewünschten Zustand gebracht"],
+    "definitions_de": ["trainiert, sich auf bestimmte Weise zu verhalten oder auf bestimmte Reize zu reagieren", "in einen gewünschten Zustand gebracht oder für die Verwendung geeignet gemacht"],
+    "examples_de": [["Der Hund war **konditioniert**, auf Sprachbefehle zu reagieren", "Jahrelanges Training hatte ihre Reflexe **geschult**"], ["Der **durchtrainierte** Körper des Athleten konnte extremen Stress aushalten", "Diese **klimatisierte** Luft hält den Raum angenehm"]]
+  },
+  {
+    "lemma": "conducive",
+    "meanings_de": ["etwas begünstigend"],
+    "definitions_de": ["eine bestimmte Situation oder ein bestimmtes Ergebnis wahrscheinlich oder möglich machend, dazu beitragend"],
+    "examples_de": [["Eine ruhige Umgebung ist **förderlich** für das Lernen", "Das warme Klima ist **günstig** für Aktivitäten im Freien"]]
+  },
+  {
+    "lemma": "conductive",
+    "meanings_de": ["leitfähig"],
+    "definitions_de": ["fähig, Wärme, Elektrizität oder Schall durch ein Material zu übertragen"],
+    "examples_de": [["Kupfer ist hochgradig **leitfähig** und ideal für elektrische Verkabelung", "Das **leitende** Gel verbessert den Elektrodenkontakt mit der Haut"]]
+  },
+  {
+    "lemma": "confederate",
+    "meanings_de": ["in einem Bündnis vereint"],
+    "definitions_de": ["in einer Liga, Allianz oder Verschwörung für einen gemeinsamen Zweck vereint"],
+    "examples_de": [["Die **verbündeten** Staaten bildeten ein einheitliches Verteidigungssystem", "Mehrere **konföderierte** Nationen unterzeichneten das Handelsabkommen"]]
+  },
+  {
+    "lemma": "confidential",
+    "meanings_de": ["vertraulich zu behandeln"],
+    "definitions_de": ["dazu bestimmt, geheim gehalten zu werden, mit privaten oder eingeschränkten Informationen betraut"],
+    "examples_de": [["Die **vertraulichen** Dokumente wurden in einem verschlossenen Safe aufbewahrt", "Sie teilte **vertrauliche** Informationen mit ihrem Anwalt"]]
+  },
+  {
+    "lemma": "configured",
+    "meanings_de": ["auf bestimmte Weise eingerichtet"],
+    "definitions_de": ["auf eine bestimmte Weise für einen spezifischen Zweck oder eine Funktion angeordnet oder eingerichtet"],
+    "examples_de": [["Der Computer war für maximale Leistung **konfiguriert**", "Jeder Arbeitsplatz ist **eingerichtet**, um individuelle Bedürfnisse zu erfüllen"]]
+  },
+  {
+    "lemma": "confined",
+    "meanings_de": ["auf Grenzen beschränkt"],
+    "definitions_de": ["innerhalb von Grenzen eingeschränkt, in einem begrenzten Raum oder Bereich gehalten"],
+    "examples_de": [["Der Patient war mehrere Wochen ans Bett **gebunden**", "Die Diskussion war nur auf Haushaltsangelegenheiten **beschränkt**"]]
+  },
+  {
+    "lemma": "confining",
+    "meanings_de": ["einschränkend oder begrenzend"],
+    "definitions_de": ["jemanden oder etwas innerhalb von Grenzen einschränkend oder Bewegungsfreiheit verhindernd"],
+    "examples_de": [["Der **beengte** Raum ließ alle klaustrophobisch fühlen", "Sie fand die strengen Regeln **einengend** und bedrückend"]]
+  },
+  {
+    "lemma": "confirmatory",
+    "meanings_de": ["zur Bestätigung dienend"],
+    "definitions_de": ["dazu dienend, die Wahrheit oder Genauigkeit von etwas zu bestätigen, festzustellen oder zu unterstützen"],
+    "examples_de": [["Das Labor führte **bestätigende** Tests zu den ersten Ergebnissen durch", "Wir erhielten **bekräftigende** Beweise zur Unterstützung unserer Hypothese"]]
+  },
+  {
+    "lemma": "confirmed",
+    "meanings_de": ["als wahr bestätigt"],
+    "definitions_de": ["als wahr, gültig oder echt über jeden Zweifel hinaus durch Beweise oder Zeugnisse festgestellt"],
+    "examples_de": [["Die **bestätigten** Grippefälle nahmen im Winter zu", "Sie ist eine **überzeugte** Vegetarierin, die niemals Fleisch isst"]]
+  },
+  {
+    "lemma": "confirming",
+    "meanings_de": ["Wahrheit oder Korrektheit feststellend"],
+    "definitions_de": ["die Wahrheit, Genauigkeit oder Gültigkeit von etwas zuvor Ungewissem feststellend"],
+    "examples_de": [["Die **bestätigenden** Daten unterstützten unsere anfängliche Hypothese", "Wir sind noch dabei, Details des Vorfalls zu **bestätigen**"]]
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "feel",
+    "meanings_de": ["taktile Beschaffenheit", "intuitives Gespür"],
+    "definitions_de": ["Beschaffenheit von etwas, wie sie durch Berührung wahrgenommen wird", "intuitives Bewusstsein oder Eindruck von etwas"],
+    "examples_de": [["Der Stoff hat ein weiches, seidiges **Gefühl** auf der Haut", "Ich liebe das **Gefühl** von Sand zwischen meinen Zehen"], ["Er hat ein gutes **Gespür** für die Markttrends", "Das Restaurant hat eine gemütliche **Atmosphäre**, die Stammgäste anzieht"]]
+  },
+  {
+    "lemma": "gesture",
+    "meanings_de": ["Körperbewegung", "symbolische Handlung"],
+    "definitions_de": ["Bewegung des Körpers, insbesondere der Hände, um eine Idee oder Bedeutung auszudrücken", "Handlung, die ausgeführt wird, um ein Gefühl oder eine Absicht zu vermitteln"],
+    "examples_de": [["Ihre **Geste** deutete an, dass wir ihr leise folgen sollten", "**Handgesten** variieren in ihrer Bedeutung erheblich zwischen verschiedenen Kulturen"], ["Blumen zu schicken war eine freundliche **Geste** des Mitgefühls", "Die Spende war eine großzügige **Geste** der Unterstützung"]]
+  },
+  {
+    "lemma": "tent",
+    "meanings_de": ["tragbarer Unterschlupf", "medizinisches Gerät"],
+    "definitions_de": ["tragbarer Unterschlupf aus Stoff, der von Stangen und Seilen gestützt wird", "Gerät zur Aufrechterhaltung einer Öffnung oder zur medizinischen Sauerstoffzufuhr"],
+    "examples_de": [["Wir schlugen unser **Zelt** zum Campen in der Nähe des Sees auf", "Das **Zelt** schützte uns während des Sturms vor Regen"], ["Ein Sauerstoff**zelt** half dem Patienten, leichter zu atmen", "Das chirurgische **Zelt** hält den Bereich während der Eingriffe steril"]]
+  },
+  {
+    "lemma": "receiver",
+    "meanings_de": ["empfangende Person", "elektronisches Gerät"],
+    "definitions_de": ["Person, die etwas Gegebenes, Gesendetes oder Übertragenes empfängt", "Gerät, das Radio-, Fernseh- oder andere Signale empfängt"],
+    "examples_de": [["Der **Empfänger** fing den Football für einen Touchdown", "Sie war die **Empfängerin** vieler Auszeichnungen und Ehrungen"], ["Der Radio**empfänger** empfing Sender aus entfernten Städten", "Legen Sie den Telefon**hörer** nach dem Anruf wieder auf"]]
+  },
+  {
+    "lemma": "horizon",
+    "meanings_de": ["sichtbare Grenze", "Grenze Reichweite"],
+    "definitions_de": ["Linie, an der die Erdoberfläche und der Himmel sich zu treffen scheinen", "Grenze des Wissens, der Erfahrung oder des Interesses einer Person"],
+    "examples_de": [["Die Sonne verschwand bei Sonnenuntergang unter dem **Horizont**", "Schiffe erschienen am **Horizont** und segelten Richtung Hafen"], ["Reisen erweitert Ihren **Horizont** und eröffnet neue Perspektiven", "Neue Technologien stehen am **Horizont** für medizinische Behandlungen"]]
+  },
+  {
+    "lemma": "diagnosis",
+    "meanings_de": ["medizinische Identifikation", "Problemanalyse"],
+    "definitions_de": ["Identifikation einer Krankheit durch Untersuchung der Symptome", "Identifikation der Natur eines Problems"],
+    "examples_de": [["Die **Diagnose** des Arztes wurde durch Testergebnisse bestätigt", "Eine frühe **Diagnose** verbessert die Behandlungsergebnisse bei den meisten Krankheiten"], ["Seine **Diagnose** des Motorproblems ersparte teure Reparaturen", "Die **Diagnose** des Beraters deckte Ineffizienzen im Betrieb auf"]]
+  },
+  {
+    "lemma": "gospel",
+    "meanings_de": ["religiöser Text", "absolute Wahrheit"],
+    "definitions_de": ["Lehre oder Offenbarung Jesu Christi im Christentum", "etwas, das als absolut wahr akzeptiert wird"],
+    "examples_de": [["Der Prediger las aus dem **Evangelium** nach Matthäus", "**Gospel**musik entstand in afroamerikanischen Kirchen"], ["Sie nimmt den Rat ihrer Mutter als **Evangelium**", "Akzeptieren Sie nicht alles, was Sie lesen, als bare **Münze**"]]
+  },
+  {
+    "lemma": "fighting",
+    "meanings_de": ["körperlicher Kampf", "entschlossene Anstrengung"],
+    "definitions_de": ["gewaltsamer Kampf mit körperlicher Gewalt zwischen Menschen", "entschlossene Anstrengung, etwas zu erreichen oder sich dagegen zu wehren"],
+    "examples_de": [["**Kämpfe** brachen letzte Nacht zwischen rivalisierenden Bandenmitgliedern aus", "Die **Kämpfe** dauerten drei Tage bis zum Waffenstillstand"], ["Sie **kämpft** mit Mut und Entschlossenheit gegen den Krebs", "Wir **kämpfen** darum, die örtliche Bibliothek vor der Schließung zu bewahren"]]
+  },
+  {
+    "lemma": "stroke",
+    "meanings_de": ["medizinischer Zustand", "Schwimmbewegung"],
+    "definitions_de": ["plötzliche Unterbrechung des Blutflusses zum Gehirn", "Bewegung von Armen und Beinen beim Schwimmen"],
+    "examples_de": [["Der **Schlaganfall** hinterließ bei ihm eine teilweise Lähmung auf einer Seite", "Das schnelle Erkennen von **Schlaganfall**symptomen rettet Leben und Funktionen"], ["Sie schwamm mit kräftigen **Zügen** durch das Becken", "Der Schmetterlings**stil** ist schwer richtig zu beherrschen"]]
+  },
+  {
+    "lemma": "duck",
+    "meanings_de": ["Wasservogel", "schnelle Bewegung"],
+    "definitions_de": ["Wasservogel mit Schwimmhäuten und breitem, flachem Schnabel", "schnelles Senken von Kopf oder Körper"],
+    "examples_de": [["**Enten** schwammen heute Morgen friedlich auf dem Teich", "Wild**enten** ziehen für die Wintermonate nach Süden"], ["**Ducken** Sie Ihren Kopf beim Betreten der niedrigen Tür", "Er musste sich **ducken**, um dem fliegenden Ball auszuweichen"]]
+  },
+  {
+    "lemma": "grain",
+    "meanings_de": ["Getreidesamen", "winziges Teilchen"],
+    "definitions_de": ["Samen von Getreidepflanzen wie Weizen, Reis oder Mais", "kleinste Einheit oder Teilchen einer Substanz"],
+    "examples_de": [["Die **Getreide**ernten waren dieses Jahr landesweit ausgezeichnet", "Vollkorn**brot** liefert mehr Nährstoffe als Weißbrot"], ["Es ist kein **Körnchen** Wahrheit in dieser Geschichte", "Sand besteht aus winzigen **Körnern** zerkleinertem Gestein"]]
+  },
+  {
+    "lemma": "beast",
+    "meanings_de": ["wildes Tier", "grausame Person"],
+    "definitions_de": ["großes oder gefährliches vierbeiniges Tier", "Person, die sich grausam oder abstoßend verhält"],
+    "examples_de": [["Wilde **Bestien** durchstreiften frei die alten Wälder", "Die **Bestie** in der Geschichte stellte sich als missverstanden heraus"], ["Er benahm sich letzte Nacht wie eine **Bestie** auf der Party", "Sei nicht so ein **Ungeheuer** zu deinem kleinen Bruder"]]
+  },
+  {
+    "lemma": "remark",
+    "meanings_de": ["gesprochener Kommentar", "schriftliche Beobachtung"],
+    "definitions_de": ["Kommentar oder Aussage über etwas Bemerktes oder Beobachtetes", "geschriebener oder gedruckter Kommentar oder Notiz"],
+    "examples_de": [["Seine **Bemerkung** über ihr Kleid war unangemessen und unhöflich", "Sie machte mehrere **Bemerkungen** während der Präsentation"], ["Die **Anmerkungen** des Lehrers zum Aufsatz waren sehr hilfreich", "Bitte beachten Sie meine **Anmerkungen** am Rand"]]
+  },
+  {
+    "lemma": "fabric",
+    "meanings_de": ["gewebtes Material", "zugrunde liegende Struktur"],
+    "definitions_de": ["Stoff, der durch Weben oder Stricken von Textilfasern hergestellt wird", "Grundstruktur, die einem System oder Konzept zugrunde liegt"],
+    "examples_de": [["Der **Stoff** fühlt sich weich an und fällt wunderschön", "Baumwoll**stoff** ist bei heißem Wetter angenehm"], ["Vertrauen bildet das **Gewebe** starker Beziehungen", "Einwanderung ist Teil unseres gesellschaftlichen **Gefüges**"]]
+  },
+  {
+    "lemma": "civilization",
+    "meanings_de": ["fortgeschrittene Gesellschaft", "kulturelle Entwicklung"],
+    "definitions_de": ["komplexe Gesellschaft mit städtischer Entwicklung und kulturellen Institutionen", "Prozess, durch den eine Gesellschaft ein fortgeschrittenes Entwicklungsstadium erreicht"],
+    "examples_de": [["Die altägyptische **Zivilisation** bestand über Jahrtausende", "Die moderne **Zivilisation** hängt stark von Technologie und Energie ab"], ["Die **Zivilisierung** abgelegener Gebiete brachte Schulen und Krankenhäuser", "Die westliche **Zivilisation** hat die globale Kultur erheblich beeinflusst"]]
+  },
+  {
+    "lemma": "corruption",
+    "meanings_de": ["unehrliches Verhalten", "Verfall Verschlechterung"],
+    "definitions_de": ["unehrliches oder illegales Verhalten, insbesondere von mächtigen Personen", "Prozess des Verfalls oder der Verschlechterung"],
+    "examples_de": [["Politische **Korruption** untergräbt Demokratie und öffentliches Vertrauen", "Die Untersuchung deckte weitverbreitete **Korruption** bei Regierungsaufträgen auf"], ["Daten**korruption** kann dazu führen, dass Dateien unlesbar werden", "Moralische **Korruption** breitet sich aus, wenn gute Menschen schweigen"]]
+  },
+  {
+    "lemma": "collapse",
+    "meanings_de": ["strukturelles Versagen", "plötzliches Versagen"],
+    "definitions_de": ["plötzliches Einstürzen oder Nachgeben einer Struktur", "plötzliches Versagen einer Institution, eines Systems oder einer Person"],
+    "examples_de": [["Der **Einsturz** des Gebäudes begrub Dutzende von Menschen", "Ingenieure untersuchten, was den Brücken**einsturz** verursachte"], ["Der **Zusammenbruch** des Unternehmens ließ Tausende über Nacht arbeitslos", "Sie erlitt einen **Zusammenbruch** durch Erschöpfung und Stress"]]
+  },
+  {
+    "lemma": "ma'am",
+    "meanings_de": ["höfliche Anrede", "weiblicher Titel"],
+    "definitions_de": ["höfliche Anredeform für eine Frau", "verkürzte Form von Madam"],
+    "examples_de": [["Ja, **gnädige Frau**, ich hole das sofort für Sie", "Der Soldat sprach die Offizierin respektvoll mit **Ma'am** an"], ["**Ma'am** wird häufig in den Südstaaten der USA verwendet", "Möchten Sie noch etwas anderes, **gnädige Frau**?"]]
+  },
+  {
+    "lemma": "workshop",
+    "meanings_de": ["Arbeitsraum", "Trainingsveranstaltung"],
+    "definitions_de": ["Raum oder Gebäude, in dem handwerkliche Arbeiten durchgeführt werden", "Treffen zur Diskussion und praktischen Arbeit zu einem Thema"],
+    "examples_de": [["Seine **Werkstatt** enthält jedes erdenkliche Werkzeug für die Holzbearbeitung", "Die **Werkstatt** des Künstlers war voller halbfertiger Skulpturen"], ["Der Schreib**workshop** half mir, meine Erzählfähigkeiten zu verbessern", "Lehrer nahmen an einem **Workshop** über neue Lehrmethoden teil"]]
+  },
+  {
+    "lemma": "inquiry",
+    "meanings_de": ["formelle Untersuchung", "Frage Anfrage"],
+    "definitions_de": ["formelle Untersuchung einer Angelegenheit von öffentlichem Interesse", "Handlung des Bittens um Informationen"],
+    "examples_de": [["Die Regierung leitete eine **Untersuchung** des Unfalls ein", "Die **Untersuchung** deckte schwerwiegende Sicherheitsverstöße in der Fabrik auf"], ["Kunden**anfragen** sollten innerhalb von 24 Stunden beantwortet werden", "Vielen Dank für Ihre **Anfrage** zu unseren Produkten"]]
+  },
+  {
+    "lemma": "cd",
+    "meanings_de": ["Compact Disc", "Bankprodukt"],
+    "definitions_de": ["optische Disc zur Speicherung digitaler Daten, insbesondere Musik", "Festgeldanlage im Bankwesen"],
+    "examples_de": [["Sie kaufte die neue **CD** der Band im Laden", "**CDs** werden obsolet, da Streaming-Dienste dominieren"], ["Die Bank-**Festgeldanlage** bietet höhere Zinsen als Sparkonten", "**Festgeldanlagen** erfordern, dass Geld für feste Laufzeiten angelegt bleibt"]]
+  },
+  {
+    "lemma": "rifle",
+    "meanings_de": ["Langgewehr", "Suchaktion"],
+    "definitions_de": ["Feuerwaffe mit langem Lauf, die für präzises Schießen konzipiert ist", "Aktion des hastigen Durchsuchens von etwas"],
+    "examples_de": [["Der Jäger trug ein **Gewehr** zur Hirschjagd", "Militär**gewehre** haben sich über Jahrhunderte erheblich entwickelt"], ["Diebe **durchwühlten** Schubladen auf der Suche nach Wertsachen", "Sie **durchsuchte** hastig Papiere nach dem Vertrag"]]
+  },
+  {
+    "lemma": "closet",
+    "meanings_de": ["Stauraum", "privater Zustand"],
+    "definitions_de": ["kleiner Raum oder Platz zur Aufbewahrung von Kleidung oder Haushaltsgegenständen", "Zustand der Verheimlichung oder Geheimhaltung"],
+    "examples_de": [["Ihr **Schrank** war nach Farbe und Jahreszeit organisiert", "Der begehbare **Kleiderschrank** hatte viel Stauraum"], ["Er hielt seine Sexualität jahrelang **geheim**", "Viele heimliche Fans genießen die Serie im **Verborgenen**"]]
+  },
+  {
+    "lemma": "reporting",
+    "meanings_de": ["Nachrichtenberichterstattung", "Datenpräsentation"],
+    "definitions_de": ["Präsentation von Nachrichten oder Informationen durch Medien", "Bereitstellung von Informationen über Geschäft oder Situation"],
+    "examples_de": [["Kriegs**berichterstattung** erfordert Mut und Hingabe von Journalisten", "Genaue **Berichterstattung** hilft Bürgern, informierte Entscheidungen zu treffen"], ["Die Finanz**berichterstattung** muss den Rechnungslegungsstandards entsprechen", "Das neue **Berichtssystem** rationalisierte die Datenerfassung"]]
+  },
+  {
+    "lemma": "curve",
+    "meanings_de": ["gebogene Linie", "statistisches Diagramm"],
+    "definitions_de": ["Linie oder Oberfläche, die sich allmählich ohne Winkel biegt", "Linie auf einem Diagramm, die die Beziehung zwischen Variablen zeigt"],
+    "examples_de": [["Die Straße folgt der **Kurve** der Küstenlinie", "Ihre Wirbelsäule hat eine abnormale **Krümmung**, die behandelt werden muss"], ["Die Lern**kurve** für diese Software ist steil", "Die Verkäufe folgten das ganze Jahr über einer Aufwärts**kurve**"]]
+  },
+  {
+    "lemma": "patch",
+    "meanings_de": ["Reparaturstück", "kleiner Bereich"],
+    "definitions_de": ["Stück Material zum Reparieren eines Lochs oder zur Verstärkung", "kleiner Bereich, der sich von seiner Umgebung unterscheidet"],
+    "examples_de": [["Sie nähte einen **Flicken** über das Loch in seinen Jeans", "Der Software-**Patch** behob mehrere Sicherheitslücken"], ["Ein **Fleck** blauer Himmel erschien zwischen den Wolken", "Das Gemüse**beet** produzierte den ganzen Sommer über Tomaten"]]
+  },
+  {
+    "lemma": "touchdown",
+    "meanings_de": ["Football-Punktzahl", "Flugzeuglandung"],
+    "definitions_de": ["Punktespiel im American Football im Wert von sechs Punkten", "Moment, in dem die Flugzeugräder die Landebahn berühren"],
+    "examples_de": [["Der Quarterback warf im Spiel drei **Touchdowns**", "Sie erzielten den siegbringenden **Touchdown** mit verbleibenden Sekunden"], ["Der Pilot kündigte an, dass die **Landung** in zehn Minuten erfolgen würde", "Die sanfte **Landung** beeindruckte die nervösen Passagiere"]]
+  },
+  {
+    "lemma": "earnings",
+    "meanings_de": ["Einkommen Geld", "Unternehmensgewinne"],
+    "definitions_de": ["Geld, das im Austausch für Arbeit oder Dienstleistungen erhalten wird", "Gewinne eines Unternehmens über einen Zeitraum"],
+    "examples_de": [["Ihre **Einkünfte** stiegen nach der Beförderung im letzten Jahr", "Die durchschnittlichen **Verdienste** variieren stark je nach Bildungsniveau"], ["Die Quartals**gewinne** übertrafen die Erwartungen der Analysten erheblich", "Das Unternehmen meldet die **Gewinne** nächsten Dienstagmorgen"]]
+  },
+  {
+    "lemma": "hunter",
+    "meanings_de": ["Tierverfolger", "aktiver Suchender"],
+    "definitions_de": ["Person, die wilde Tiere zur Nahrung oder zum Sport jagt", "Person, die entschlossen nach etwas sucht"],
+    "examples_de": [["Der **Jäger** verfolgte vorsichtig Hirsche durch den Wald", "**Jäger** müssen strenge Lizenz- und Sicherheitsvorschriften befolgen"], ["Sie ist eine **Schnäppchenjägerin**, die niemals den vollen Preis zahlt", "Arbeits**suchende** stehen dieses Jahr vor einem wettbewerbsintensiven Markt"]]
+  },
+  {
+    "lemma": "fly",
+    "meanings_de": ["geflügeltes Insekt", "Baseball-Schlag"],
+    "definitions_de": ["kleines fliegendes Insekt mit zwei Flügeln", "Ball, der beim Baseball hoch in die Luft geschlagen wird"],
+    "examples_de": [["Eine **Fliege** summte störend in der Küche herum", "**Fliegen** können Krankheiten verbreiten, wenn sie auf Lebensmitteln landen"], ["Der Schlagmann schlug einen **Fly** ins Mittelfeld", "Der Außenfeldspieler fing den **Fly** für das dritte Aus"]]
+  },
+  {
+    "lemma": "tunnel",
+    "meanings_de": ["unterirdischer Durchgang", "begrenzter Raum"],
+    "definitions_de": ["künstlicher unterirdischer Durchgang durch einen Hügel oder unter einem Gebäude", "jeder Durchgang durch oder unter etwas"],
+    "examples_de": [["Der Zug kam aus dem **Tunnel** ins Tageslicht", "Arbeiter gruben einen **Tunnel** unter dem Ärmelkanal"], ["Das Karpaltunnel**syndrom** betrifft viele Büroangestellte", "Licht erschien am Ende des **Tunnels**"]]
+  },
+  {
+    "lemma": "corps",
+    "meanings_de": ["Militäreinheit", "organisierte Gruppe"],
+    "definitions_de": ["Hauptunterteilung der Streitkräfte im Feld", "Gruppe von Menschen, die in einer bestimmten Aktivität tätig sind"],
+    "examples_de": [["Das Marine**korps** bildet Elite-Kampftruppen aus", "Er diente im Pionier**korps** der Armee"], ["Das Presse**korps** versammelte sich zur Besprechung", "Ein **Korps** von Freiwilligen half bei der Katastrophenhilfe"]]
+  },
+  {
+    "lemma": "german",
+    "meanings_de": ["Nationalität Identität", "Sprachvarietät"],
+    "definitions_de": ["Person aus Deutschland oder deutscher Abstammung", "Sprache, die in Deutschland, Österreich und der Schweiz gesprochen wird"],
+    "examples_de": [["Meine Großmutter war **Deutsche** und sprach die Sprache fließend", "**Deutsche** Ingenieurskunst ist für Präzision und Qualität bekannt"], ["**Deutsch** zu lernen öffnet Türen zu europäischen Geschäftsmöglichkeiten", "Schweizer**deutsch** unterscheidet sich erheblich vom Standard**deutsch**"]]
+  },
+  {
+    "lemma": "weakness",
+    "meanings_de": ["Kraftmangel", "verwundbarer Punkt"],
+    "definitions_de": ["Zustand oder Bedingung des Mangels an Kraft", "Nachteil oder Fehler bei jemandem oder etwas"],
+    "examples_de": [["Muskel**schwäche** kann aus verschiedenen medizinischen Zuständen resultieren", "Die Krankheit hinterließ bei ihr eine anhaltende **Schwäche**"], ["Seine **Schwäche** für Schokolade ruiniert oft seine Diät", "Jedes Sicherheitssystem hat potenzielle **Schwachstellen**"]]
+  },
+  {
+    "lemma": "doc",
+    "meanings_de": ["informeller Arzt", "Dokumentdatei"],
+    "definitions_de": ["informeller Begriff für Arzt oder Mediziner", "Computerdatei, insbesondere ein Dokument"],
+    "examples_de": [["Der **Doktor** sagte, ich muss mich eine Woche ausruhen", "Hey **Doc**, was ist mit meinem Knie los?"], ["Speichern Sie die Datei als **Doc** für einfache Bearbeitung", "Können Sie mir diese **Datei** per E-Mail schicken?"]]
+  },
+  {
+    "lemma": "medium",
+    "meanings_de": ["mittlere Größe", "Kommunikationskanal"],
+    "definitions_de": ["mittlere Größe, Position oder Grad zwischen Extremen", "Mittel, durch das etwas kommuniziert oder ausgedrückt wird"],
+    "examples_de": [["Bestellen Sie eine **mittlere** Pizza für uns beide", "Die **mittlere** Einstellung funktioniert am besten für die meisten Stoffe"], ["Fernsehen ist ein mächtiges **Medium** für Werbung", "Der Künstler arbeitet im **Medium** der Aquarellmalerei"]]
+  },
+  {
+    "lemma": "virtue",
+    "meanings_de": ["moralische Exzellenz", "gute Eigenschaft"],
+    "definitions_de": ["Verhalten, das hohe moralische Standards zeigt", "gute oder nützliche Eigenschaft von etwas"],
+    "examples_de": [["Geduld ist eine **Tugend**, die es wert ist, im Leben kultiviert zu werden", "Sie führte ein Leben voller **Tugend** und Dienst"], ["Der **Vorteil** dieses Plans ist seine Einfachheit", "**Aufgrund** seiner Erfahrung bekam er den Job"]]
+  },
+  {
+    "lemma": "ounce",
+    "meanings_de": ["Gewichtseinheit", "kleine Menge"],
+    "definitions_de": ["Gewichtseinheit gleich einem Sechzehntel eines Pfunds", "sehr kleine Menge von etwas"],
+    "examples_de": [["Das Rezept verlangt acht **Unzen** Schokolade", "Gold wird auf den Rohstoffmärkten pro **Unze** bepreist"], ["Er hat kein **Fünkchen** gesunden Menschenverstand", "Jede **Unze** Anstrengung zählt in diesem Wettbewerb"]]
+  },
+  {
+    "lemma": "confusion",
+    "meanings_de": ["unklarer Zustand", "geistige Störung"],
+    "definitions_de": ["Mangel an Verständnis oder Unsicherheit über etwas", "Zustand der Verwirrung oder Unklarheit im Geist"],
+    "examples_de": [["Es gab **Verwirrung** über Zeit und Ort des Meetings", "Die neue Richtlinie schuf **Verwirrung** unter den Mitarbeitern"], ["Der Patient zeigte nach der Operation Anzeichen von **Verwirrung**", "In der **Verwirrung** bemerkte niemand, dass er ging"]]
+  },
+  {
+    "lemma": "midnight",
+    "meanings_de": ["zwölf Uhr", "tiefe Dunkelheit"],
+    "definitions_de": ["zwölf Uhr nachts", "sehr dunkle Zeit oder Periode"],
+    "examples_de": [["Die Party dauerte bis weit nach **Mitternacht**", "Aschenputtel musste vor **Mitternacht** gehen"], ["Es war die **Mitternacht** seiner Seele", "Die Arbeit in der **Nachtschicht** beeinflusst den Schlafrhythmus"]]
+  },
+  {
+    "lemma": "deer",
+    "meanings_de": ["Huftier", "Wildtier"],
+    "definitions_de": ["grasendes Huftier mit verzweigtem Geweih bei Männchen", "wildes Tier, das zum Sport oder zur Nahrung gejagt wird"],
+    "examples_de": [["Ein **Reh** sprang vor unserem Auto über die Straße", "**Reh**populationen haben in Vorstadtgebieten kürzlich zugenommen"], ["Die Jäger verfolgten **Wild** durch den verschneiten Wald", "Die **Jagd**saison beginnt jedes Jahr im November"]]
+  },
+  {
+    "lemma": "heritage",
+    "meanings_de": ["geerbtes Eigentum", "kulturelles Erbe"],
+    "definitions_de": ["Eigentum, das vererbt wird oder vererbt werden kann", "geschätzte Objekte und Eigenschaften, die von früheren Generationen weitergegeben wurden"],
+    "examples_de": [["Das Schloss ist Teil unseres nationalen **Erbes**", "Sie entdeckte ihr **Erbe** durch Ahnenforschung"], ["Wir müssen unser kulturelles **Erbe** für zukünftige Generationen bewahren", "Das architektonische **Erbe** der Stadt zieht viele Touristen an"]]
+  },
+  {
+    "lemma": "summit",
+    "meanings_de": ["Berggipfel", "hochrangiges Treffen"],
+    "definitions_de": ["höchster Punkt eines Hügels oder Berges", "Treffen zwischen Regierungschefs"],
+    "examples_de": [["Sie erreichten den **Gipfel** nach acht Stunden Klettern", "Schnee bedeckte den **Gipfel** sogar im Sommer"], ["Weltführer versammelten sich zum Klima**gipfel**", "Der Friedens**gipfel** führte zu einer historischen Vereinbarung"]]
+  },
+  {
+    "lemma": "sword",
+    "meanings_de": ["Klingenwaffe", "Machtsymbol"],
+    "definitions_de": ["Waffe mit langer Metallklinge und Griff", "Symbol militärischer Macht oder Gerechtigkeit"],
+    "examples_de": [["Der Ritter zog sein **Schwert**, um die Burg zu verteidigen", "Alte **Schwerter** werden im Museum ausgestellt"], ["Die Feder ist mächtiger als das **Schwert**", "Gerechtigkeit wird oft mit Waage und **Schwert** dargestellt"]]
+  },
+  {
+    "lemma": "telescope",
+    "meanings_de": ["optisches Instrument", "Betrachtungsgerät"],
+    "definitions_de": ["optisches Instrument zur Betrachtung entfernter Objekte im Weltraum", "Gerät, das entfernte Objekte näher erscheinen lässt"],
+    "examples_de": [["Das **Teleskop** enthüllte Krater auf der Mondoberfläche", "Amateurastronomen nutzen **Teleskope**, um den Nachthimmel zu erforschen"], ["Moderne **Teleskope** können Milliarden von Lichtjahren weit sehen", "Das Hubble-**Teleskop** umkreist die Erde und macht spektakuläre Bilder"]]
+  },
+  {
+    "lemma": "blade",
+    "meanings_de": ["Schneide", "flacher Teil"],
+    "definitions_de": ["flache Schneide eines Messers oder anderen Werkzeugs", "flacher oder breiter Teil eines Blattes oder einer Maschine"],
+    "examples_de": [["Die **Klinge** muss vor dem Schneiden von Gemüse geschärft werden", "Rasier**klingen** sollten aus Sicherheitsgründen regelmäßig ausgetauscht werden"], ["Gras**halme** wiegten sich sanft in der Brise", "Die Propeller**blätter** drehten sich beim Start schnell"]]
+  },
+  {
+    "lemma": "toe",
+    "meanings_de": ["Fußzehe", "vorderer Teil"],
+    "definitions_de": ["eine der fünf Zehen am Ende des menschlichen Fußes", "vorderer Teil oder Spitze von etwas"],
+    "examples_de": [["Sie stieß sich den **Zeh** an den Möbeln", "Balletttänzer tanzen anmutig auf ihren **Zehenspitzen**"], ["Die **Spitze** des Stiefels war abgenutzt und verschrammt", "Tauchen Sie Ihren **Zeh** ein, um die Wassertemperatur zu testen"]]
+  },
+  {
+    "lemma": "agriculture",
+    "meanings_de": ["Landwirtschaftspraxis", "Pflanzenanbau"],
+    "definitions_de": ["Wissenschaft oder Praxis der Landwirtschaft einschließlich Bodenbearbeitung", "Produktion von Feldfrüchten und Vieh"],
+    "examples_de": [["Die **Landwirtschaft** versorgt die wachsende Weltbevölkerung mit Nahrung", "Moderne **Landwirtschaft** nutzt Technologie zur Steigerung der Ernteerträge"], ["Nachhaltige **Landwirtschaft** schützt Boden- und Wasserressourcen", "Die Wirtschaft der Region hängt stark von der **Landwirtschaft** ab"]]
+  },
+  {
+    "lemma": "dose",
+    "meanings_de": ["Medikamentenmenge", "gemessene Menge"],
+    "definitions_de": ["Menge an Medizin oder Droge, die auf einmal eingenommen wird", "Menge von etwas, das erlebt oder ertragen wird"],
+    "examples_de": [["Nehmen Sie alle vier Stunden eine **Dosis** wie verschrieben", "Die richtige **Dosis** hängt vom Gewicht des Patienten ab"], ["Eine tägliche **Dosis** Bewegung verbessert die allgemeine Gesundheit", "Er bekam seine übliche **Dosis** Kritik vom Chef"]]
+  },
+  {
+    "lemma": "prescription",
+    "meanings_de": ["ärztliche Anordnung", "empfohlene Lösung"],
+    "definitions_de": ["schriftliche Anweisung vom Arzt für Medikamente", "Empfehlung als Heilmittel oder Lösung"],
+    "examples_de": [["Das **Rezept** muss innerhalb von dreißig Tagen eingelöst werden", "Generische **Verschreibungen** kosten weniger als Markenprodukte"], ["Sein **Rezept** für Erfolg umfasst harte Arbeit und Ausdauer", "Das wirtschaftliche **Rezept** konnte die Arbeitslosigkeit nicht reduzieren"]]
+  }
+]

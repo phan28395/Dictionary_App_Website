@@ -1,0 +1,278 @@
+[
+  {
+    "lemma": "discomfort",
+    "meanings_de": ["körperliches Unbehagen", "seelische Unruhe"],
+    "definitions_de": ["leichte Schmerzen oder körperliche Beschwerden, die das Wohlbefinden beeinträchtigen", "Gefühl von Angst, Verlegenheit oder Unbehagen in sozialen Situationen"],
+    "examples_de": [["Der Patient verspürte nach der Operation leichtes **Unbehagen**", "Lange Flüge verursachen oft **Beschwerden** im unteren Rückenbereich"], ["Sie empfand **Unbehagen**, als man sie nach ihrem Privatleben fragte", "Seine offensichtliche **Verlegenheit** machte das Treffen für alle unangenehm"]]
+  },
+  {
+    "lemma": "disconnect",
+    "meanings_de": ["Verbindungsunterbrechung", "fehlendes Verständnis"],
+    "definitions_de": ["Unterbrechung oder Beendigung einer elektrischen oder kommunikativen Verbindung", "Zustand mangelnder Verbindung oder fehlender Kommunikation zwischen Menschen"],
+    "examples_de": [["Die **Stromunterbrechung** dauerte gestern mehrere Stunden", "Es gab eine plötzliche **Unterbrechung** in der Telefonleitung"], ["Die **Kluft** zwischen Management und Mitarbeitern wurde immer größer", "Es besteht eine **Diskrepanz** zwischen dem, was er sagt und tut"]]
+  },
+  {
+    "lemma": "disconnection",
+    "meanings_de": ["Trennungsvorgang", "Zustand der Trennung"],
+    "definitions_de": ["Prozess des Unterbrechens oder Beendens einer Verbindung oder eines Dienstes", "Zustand der Trennung oder des Fehlens einer kohärenten Beziehung zwischen Dingen"],
+    "examples_de": [["Die **Abschaltung** der Versorgungsleitungen erfordert eine Vorankündigung", "Eine **Internetunterbrechung** kann die Arbeit im Homeoffice erheblich stören"], ["Seine **Realitätsferne** wurde zunehmend deutlich", "Es gibt eine **Diskrepanz** zwischen Politik und tatsächlicher Praxis"]]
+  },
+  {
+    "lemma": "discontent",
+    "meanings_de": ["Unzufriedenheit"],
+    "definitions_de": ["Gefühl der Unzufriedenheit oder des Missmuts über die eigenen Umstände oder Situation"],
+    "examples_de": [["Die Arbeiter brachten ihre **Unzufriedenheit** durch friedliche Proteste zum Ausdruck", "Die wachsende **Unzufriedenheit** mit der Regierungspolitik führte zu Reformen"], ["Die allgemeine **Unzufriedenheit** unter den Studierenden veranlasste Verwaltungsänderungen", "Wirtschaftliche Not schürte weitverbreitete **Unzufriedenheit** in der Region"]]
+  },
+  {
+    "lemma": "discontinuance",
+    "meanings_de": ["rechtliche Beendigung", "Einstellungsakt"],
+    "definitions_de": ["formelle Beendigung oder Einstellung eines Gerichtsverfahrens oder Falls", "Handlung des Aufhörens oder Beendens von etwas, das zuvor andauerte"],
+    "examples_de": [["Der Kläger beantragte die **Einstellung** des Rechtsstreits", "Die **Verfahrenseinstellung** erfolgte nach Erreichen eines Vergleichs"], ["Die **Einstellung** des Dienstes betraf viele Kunden", "Die **Produkteinstellung** wurde aus Sicherheitsgründen angekündigt"]]
+  },
+  {
+    "lemma": "discontinuation",
+    "meanings_de": ["Beendigung einer Aktivität"],
+    "definitions_de": ["Handlung des Stoppens oder Beendens von etwas, das bisher stattfand oder existierte"],
+    "examples_de": [["Das **Absetzen** der Medikamente verursachte Entzugserscheinungen", "Die abrupte **Einstellung** des Programms enttäuschte viele Teilnehmer"], ["**Produktabkündigungen** wurden an alle Händler verschickt", "Die **Einstellung** der Finanzierung bedrohte das Forschungsprojekt"]]
+  },
+  {
+    "lemma": "discontinuity",
+    "meanings_de": ["fehlende Kontinuität", "mathematische Unterbrechung"],
+    "definitions_de": ["Fehlen einer logischen Abfolge oder eines Zusammenhangs in etwas", "Punkt, an dem eine mathematische Funktion nicht stetig ist"],
+    "examples_de": [["Die **Diskontinuität** in der Erzählung verwirrte viele Leser", "Historische **Brüche** erschweren es, Entwicklungen nachzuvollziehen"], ["Die Funktion zeigt eine **Unstetigkeitsstelle** bei x gleich null", "Ingenieure müssen **Diskontinuitäten** in Materialeigenschaften berücksichtigen"]]
+  },
+  {
+    "lemma": "discord",
+    "meanings_de": ["Uneinigkeit oder Konflikt", "Missklang"],
+    "definitions_de": ["Meinungsverschiedenheit oder Konflikt zwischen Menschen, Ideen oder Dingen", "Kombination musikalischer Töne, die hart oder unangenehm klingt"],
+    "examples_de": [["Politische **Zwietracht** drohte die Partei zu spalten", "Familiäre **Unstimmigkeiten** machten Feiertagstreffen unangenehm"], ["Die **Dissonanz** in der Musik erzeugte eine beunruhigende Atmosphäre", "Der Komponist verwendete bewusst **Missklänge**, um Spannung zu vermitteln"]]
+  },
+  {
+    "lemma": "discotheque",
+    "meanings_de": ["Tanznachtclub"],
+    "definitions_de": ["Nachtclub, in dem Menschen zu aufgelegter Popmusik tanzen"],
+    "examples_de": [["Die **Diskothek** war jeden Samstagabend voller Tänzer", "Sie eröffneten eine neue **Diskothek** in der Innenstadt"], ["Die nostalgische **Diskothek** spielte Musik aus den Siebzigern", "Blitzlichter erfüllten die **Diskothek**, während die Menschen tanzten"]]
+  },
+  {
+    "lemma": "discouragement",
+    "meanings_de": ["Vertrauensverlust", "Abschreckungsakt"],
+    "definitions_de": ["Gefühl, Enthusiasmus und Selbstvertrauen verloren zu haben", "Handlung, jemanden davon abzuhalten, etwas zu tun"],
+    "examples_de": [["Trotz anfänglicher **Entmutigung** verfolgte sie weiter ihre Ziele", "Das Team überwand die **Mutlosigkeit** nach mehreren Niederlagen"], ["Seine ständige **Entmutigung** neuer Ideen erstickte die Kreativität", "Elterliche **Ablehnung** hinderte ihn daran, Kunst zu studieren"]]
+  },
+  {
+    "lemma": "discoverer",
+    "meanings_de": ["Entdecker"],
+    "definitions_de": ["Person, die etwas zuvor Unbekanntes findet oder sich dessen bewusst wird"],
+    "examples_de": [["Kolumbus gilt als **Entdecker** Amerikas", "Der **Entdecker** des Penicillins revolutionierte die moderne Medizin"], ["Der **Finder** des Fossils spendete es dem Museum", "Die Patentrechte gehören dem ursprünglichen **Entdecker**"]]
+  },
+  {
+    "lemma": "discredit",
+    "meanings_de": ["Rufverlust", "Zweifel an Wahrheit"],
+    "definitions_de": ["Schädigung des Ansehens oder Verlust von Respekt", "Grund, die Wahrheit oder den Wert von etwas anzuzweifeln"],
+    "examples_de": [["Der Skandal brachte **Schande** über die gesamte Organisation", "Seine Handlungen brachten **Unehre** über seinen Familiennamen"], ["Diese Erkenntnisse werfen **Zweifel** auf die ursprüngliche Theorie", "Die Widersprüche der Zeugin brachten ihre Aussage in **Misskredit**"]]
+  },
+  {
+    "lemma": "discrepancy",
+    "meanings_de": ["Unterschied oder Unstimmigkeit"],
+    "definitions_de": ["Mangel an Übereinstimmung oder Konsistenz zwischen Fakten oder Behauptungen"],
+    "examples_de": [["Die Wirtschaftsprüfer fanden eine **Diskrepanz** in den Finanzunterlagen", "Es gibt eine **Unstimmigkeit** zwischen seiner Geschichte und den Beweisen"], ["Die **Abweichung** in den Testergebnissen erforderte weitere Untersuchungen", "**Preisunterschiede** zwischen Geschäften können erheblich sein"]]
+  },
+  {
+    "lemma": "discretion",
+    "meanings_de": ["Entscheidungsfreiheit", "Diskretion"],
+    "definitions_de": ["Befugnis oder Recht, nach eigenem Ermessen zu entscheiden oder zu handeln", "Eigenschaft, sich so zu verhalten, dass Anstoß vermieden wird"],
+    "examples_de": [["Richter haben **Ermessensspielraum** bei der Festlegung angemessener Strafen", "Die Managerin nutzte ihr **Ermessen**, um die Ausnahme zu genehmigen"], ["Er behandelte die sensible Angelegenheit mit großer **Diskretion**", "Berufliche **Verschwiegenheit** hinderte sie daran, über Kundendetails zu sprechen"]]
+  },
+  {
+    "lemma": "disdain",
+    "meanings_de": ["Verachtung"],
+    "definitions_de": ["Gefühl, dass jemand oder etwas keinen Respekt oder keine Beachtung verdient"],
+    "examples_de": [["Sie betrachtete den Vorschlag mit offensichtlicher **Verachtung**", "Seine **Geringschätzung** gegenüber Autoritäten brachte ihn in Schwierigkeiten"], ["Die **Verachtung** des Kritikers für Popmusik war allgemein bekannt", "Sie behandelten die Neuankömmlinge mit kaum verhüllter **Geringschätzung**"]]
+  },
+  {
+    "lemma": "disembarkation",
+    "meanings_de": ["Verlassen eines Schiffes"],
+    "definitions_de": ["Vorgang des Verlassens eines Schiffes, Flugzeugs oder anderen Fahrzeugs"],
+    "examples_de": [["Die **Ausschiffungsverfahren** begannen, sobald wir anlegten", "Die **Ausschiffung** des Kreuzfahrtschiffs dauerte über drei Stunden"], ["Die **Passagierausschiffung** verzögerte sich wegen schlechten Wetters", "Einreisekontrollen erfolgen während der **Ausschiffung** in internationalen Häfen"]]
+  },
+  {
+    "lemma": "disenchantment",
+    "meanings_de": ["Illusionsverlust"],
+    "definitions_de": ["Gefühl der Enttäuschung durch die Entdeckung, dass etwas nicht so gut ist wie geglaubt"],
+    "examples_de": [["Die **Ernüchterung** der Wähler gegenüber der Politik nimmt weiter zu", "Ihre **Desillusionierung** vom Konzernleben führte zu einem Berufswechsel"], ["Der Roman erforscht Themen von Liebe und **Ernüchterung**", "Die öffentliche **Enttäuschung** über das Projekt wurde zunehmend deutlich"]]
+  },
+  {
+    "lemma": "disengagement",
+    "meanings_de": ["Rückzug aus Beteiligung"],
+    "definitions_de": ["Prozess des Rückzugs aus der Beteiligung an einer Aktivität, Situation oder Beziehung"],
+    "examples_de": [["Der militärische **Rückzug** aus der Region verlief planmäßig", "Die **Demotivation** von Mitarbeitern kostet Unternehmen jährlich Milliarden"], ["Seine emotionale **Distanzierung** beunruhigte Familie und Freunde", "Die Politik förderte einen schrittweisen **Rückzug** aus ausländischen Konflikten"]]
+  },
+  {
+    "lemma": "disequilibrium",
+    "meanings_de": ["Gleichgewichtsmangel"],
+    "definitions_de": ["Zustand des Ungleichgewichts oder fehlender Stabilität"],
+    "examples_de": [["Wirtschaftliches **Ungleichgewicht** kann zu Marktcrashs führen", "Der Patient litt nach der Ohrinfektion unter **Gleichgewichtsstörungen**"], ["**Marktungleichgewicht** entsteht, wenn Angebot und Nachfrage nicht übereinstimmen", "Chemisches **Ungleichgewicht** treibt viele natürliche Prozesse voran"]]
+  },
+  {
+    "lemma": "disfavor",
+    "meanings_de": ["Missbilligung oder Abneigung"],
+    "definitions_de": ["Zustand der Missbilligung oder des Verlusts von Gunst"],
+    "examples_de": [["Der Vorschlag fiel beim Vorstand in **Ungnade**", "Seine Methoden brachten ihm die **Missgunst** der Kollegen ein"], ["Die Politik geriet schnell in öffentliche **Ungnade**", "Königliche **Ungnade** bedeutete gesellschaftliche und politische Isolation"]]
+  },
+  {
+    "lemma": "disfigurement",
+    "meanings_de": ["körperliche Entstellung"],
+    "definitions_de": ["Verunstaltung des Aussehens, besonders des Gesichts oder Körpers"],
+    "examples_de": [["Der Unfall verursachte eine dauerhafte **Gesichtsentstellung**", "Die Operation half, die **Entstellung** durch Verbrennungen zu minimieren"], ["Trotz seiner **Verunstaltung** behielt er eine positive Einstellung", "Die Wohltätigkeitsorganisation hilft Kindern mit **Gesichtsentstellungen**"]]
+  },
+  {
+    "lemma": "disgrace",
+    "meanings_de": ["Ehrverlust", "Schandfleck"],
+    "definitions_de": ["Verlust von Ansehen oder Respekt aufgrund unehrenhafter Handlungen", "Person oder Sache, die als beschämend oder inakzeptabel angesehen wird"],
+    "examples_de": [["Der Politiker trat nach dem Skandal in **Schande** zurück", "Er brachte durch seine Taten **Unehre** über seine Familie"], ["Dieser kaputte Spielplatz ist eine **Schande** für die Gemeinde", "Sein Verhalten beim Abendessen war eine absolute **Blamage**"]]
+  },
+  {
+    "lemma": "disguise",
+    "meanings_de": ["veränderte Erscheinung", "Verschleierungsmethode"],
+    "definitions_de": ["Kleidung oder Aussehen, das verändert wurde, um Erkennung zu verhindern", "Mittel zur Verschleierung der wahren Natur von etwas"],
+    "examples_de": [["Der Spion trug eine aufwendige **Verkleidung**, um nicht entdeckt zu werden", "Ihre **Maskierung** täuschte sogar ihre engsten Freunde"], ["Humor dient oft als **Tarnung** für tieferen Schmerz", "Die Fusion war eine **Verschleierung** für eine feindliche Übernahme"]]
+  },
+  {
+    "lemma": "disgust",
+    "meanings_de": ["starker Widerwillen"],
+    "definitions_de": ["starkes Gefühl der Abneigung oder des Widerwillens gegenüber etwas Anstößigem"],
+    "examples_de": [["Das verdorbene Essen erfüllte sie mit **Ekel**", "Er konnte seinen **Abscheu** über ihr Verhalten nicht verbergen"], ["Öffentlicher **Widerwille** gegen Korruption löste landesweite Proteste aus", "Die Gewalt im Film rief bei vielen Zuschauern **Abscheu** hervor"]]
+  },
+  {
+    "lemma": "dishonesty",
+    "meanings_de": ["mangelnde Wahrhaftigkeit"],
+    "definitions_de": ["Eigenschaft, betrügerisch, hinterlistig oder ohne Integrität zu sein"],
+    "examples_de": [["Die **Unehrlichkeit** des Unternehmens führte zu Strafanzeigen", "Akademische **Unredlichkeit** kann zum Schulverweis führen"], ["Finanzielle **Unehrlichkeit** zerstörte das Vertrauen der Investoren", "Sein Muster der **Unaufrichtigkeit** beendete ihre Freundschaft"]]
+  },
+  {
+    "lemma": "dishonor",
+    "meanings_de": ["Respektverlust", "Zahlungsausfall"],
+    "definitions_de": ["Zustand der Schande oder Schande aufgrund unehrenhaften Verhaltens", "Versäumnis, eine finanzielle Verpflichtung bei Fälligkeit zu erfüllen"],
+    "examples_de": [["Er wählte den Tod vor der **Unehre** im Kampf", "Der Familienname erlitt durch seine Verbrechen **Schande**"], ["Die Bank wird Schecks ohne ausreichende Deckung **nicht einlösen**", "Die **Nichteinlösung** des Vertrags führte zu rechtlichen Schritten"]]
+  },
+  {
+    "lemma": "comrade",
+    "meanings_de": ["Kamerad oder Kollege"],
+    "definitions_de": ["Mitglied derselben Organisation, besonders im militärischen oder politischen Kontext"],
+    "examples_de": [["Seine **Kriegskameraden** versammelten sich zum jährlichen Treffen", "Sie sprach ihre **Genossen** bei der Gewerkschaftsversammlung an"], ["Die alten **Kameraden** teilten Geschichten ihrer Abenteuer", "Die **Parteigenossen** arbeiteten gemeinsam am Wahlkampf"]]
+  },
+  {
+    "lemma": "concord",
+    "meanings_de": ["Übereinstimmung oder Harmonie"],
+    "definitions_de": ["Zustand der Übereinstimmung oder Harmonie zwischen Menschen oder Gruppen"],
+    "examples_de": [["Die Nationen unterzeichneten den Vertrag in vollständiger **Eintracht**", "Die familiäre **Harmonie** wurde nach der Versöhnung wiederhergestellt"], ["Der Chor sang in perfekter **Übereinstimmung** während der Aufführung", "Politische **Einigkeit** erwies sich als schwer erreichbar"]]
+  },
+  {
+    "lemma": "conestoga",
+    "meanings_de": ["Planen­wagen­typ"],
+    "definitions_de": ["großer Planwagen, der von amerikanischen Pionieren für den Transport verwendet wurde"],
+    "examples_de": [["Der **Conestoga-Wagen** transportierte Vorräte über die Prärie", "Pioniere beluden ihren **Planwagen** für die Reise nach Westen"], ["Das Museum zeigt einen restaurierten **Conestoga-Wagen**", "Der **Planwagen** konnte bis zu sechs Tonnen tragen"]]
+  },
+  {
+    "lemma": "confederacy",
+    "meanings_de": ["politisches Bündnis", "Südstaatenbund"],
+    "definitions_de": ["Vereinigung von Staaten oder Nationen für einen gemeinsamen Zweck", "Südstaaten, die sich 1860-1861 von den Vereinigten Staaten abspalteten"],
+    "examples_de": [["Die **Stammeskonföderation** vereinte sich gegen gemeinsame Feinde", "Mehrere Nationen bildeten eine **Konföderation** zur gegenseitigen Verteidigung"], ["Die **Konföderation** kämpfte im Bürgerkrieg gegen die Union", "**Konföderierte** Symbole bleiben in der amerikanischen Gesellschaft umstritten"]]
+  },
+  {
+    "lemma": "confederate",
+    "meanings_de": ["Bündnismitglied", "Südstaatler im Bürgerkrieg"],
+    "definitions_de": ["Person oder Gruppe, die mit anderen für einen gemeinsamen Zweck verbündet ist", "Anhänger oder Soldat der Konföderierten Staaten während des amerikanischen Bürgerkriegs"],
+    "examples_de": [["Die **Verbündeten** planten ihre Strategie in geheimen Treffen", "Die **Geschäftspartner** arbeiteten gemeinsam an der Fusion"], ["**Konföderierte** Soldaten trugen im Krieg graue Uniformen", "Das Museum zeigt **konföderierte** Artefakte und Dokumente"]]
+  },
+  {
+    "lemma": "confucian",
+    "meanings_de": ["Anhänger des Konfuzianismus"],
+    "definitions_de": ["Person, die den Lehren des Konfuzius folgt oder sich darauf bezieht"],
+    "examples_de": [["Der **konfuzianische** Gelehrte studierte alte chinesische Texte", "**Konfuzianische** Werte betonen Respekt vor Älteren und Bildung"], ["Viele **konfuzianische** Prinzipien beeinflussen moderne asiatische Gesellschaften", "Der Tempel zieht **konfuzianische** Pilger aus ganz Asien an"]]
+  },
+  {
+    "lemma": "confucianism",
+    "meanings_de": ["chinesisches Philosophiesystem"],
+    "definitions_de": ["System philosophischer und ethischer Lehren, das von Konfuzius gegründet wurde"],
+    "examples_de": [["Der **Konfuzianismus** prägt die chinesische Kultur seit über zwei Jahrtausenden", "Die Prinzipien des **Konfuzianismus** betonen soziale Harmonie"], ["Studenten studierten den **Konfuzianismus** neben anderen östlichen Philosophien", "Der **Konfuzianismus** beeinflusst die Regierungspolitik in mehreren Ländern"]]
+  },
+  {
+    "lemma": "constable",
+    "meanings_de": ["Polizeibeamter"],
+    "definitions_de": ["Polizeibeamter des niedrigsten Ranges in Großbritannien oder historischer Friedensbeamter"],
+    "examples_de": [["Der **Dorfpolizist** patrouillierte nachts durch die ruhigen Straßen", "Sie meldete den Diebstahl dem örtlichen **Schutzmann**"], ["Der **Polizist** kam schnell am Unfallort an", "Historische **Konstabler** hielten in mittelalterlichen Städten die Ordnung aufrecht"]]
+  },
+  {
+    "lemma": "contra",
+    "meanings_de": ["Gegenposition", "nicaraguanischer Rebell"],
+    "definitions_de": ["Position oder Argument gegen etwas", "Mitglied der Guerillatruppe, die sich in den 1980er Jahren der sandinistischen Regierung Nicaraguas widersetzte"],
+    "examples_de": [["Der Bericht listet das Pro und **Kontra** des Vorschlags auf", "Er vertrat die **Contra**-Position in der Debatte"], ["Die **Contras** erhielten Unterstützung von ausländischen Regierungen", "**Contra**-Kräfte operierten von Stützpunkten in Nachbarländern"]]
+  },
+  {
+    "lemma": "cooper",
+    "meanings_de": ["Fassmacher"],
+    "definitions_de": ["Person, die Holzfässer und Tonnen herstellt oder repariert"],
+    "examples_de": [["Der **Küfer** fertigte Weinfässer für örtliche Weingüter", "Traditionelle **Böttcher**-Fertigkeiten werden immer seltener"], ["Das Museum zeigt, wie ein **Fassbinder** mit Holz arbeitet", "**Küfermeister** geben ihr Handwerk an Lehrlinge weiter"]]
+  },
+  {
+    "lemma": "coptic",
+    "meanings_de": ["ägyptisch-christliche Sprache"],
+    "definitions_de": ["alte ägyptische Sprache, die in christlich-religiösen Kontexten verwendet wird"],
+    "examples_de": [["**Koptische** Manuskripte bewahren frühchristliche Texte", "Der Priester hielt Gottesdienste in **koptischer** Sprache ab"], ["Gelehrte studieren **Koptisch**, um das ägyptische Christentum zu verstehen", "**Koptische** Kunst schmückt viele alte Kirchen in Ägypten"]]
+  },
+  {
+    "lemma": "cork",
+    "meanings_de": ["Flaschenverschluss", "Baumrindenmaterial"],
+    "definitions_de": ["zylindrischer Verschluss für Flaschen aus Rinde", "leichtes elastisches Rindenmaterial der Korkeiche"],
+    "examples_de": [["Sie zog den **Korken** vorsichtig aus der Weinflasche", "Der Champagner**korken** knallte laut während der Feier"], ["**Kork**böden bieten natürliche Isolierung und Komfort", "Portugal produziert den Großteil des weltweiten **Korks**"]]
+  },
+  {
+    "lemma": "cossack",
+    "meanings_de": ["osteuropäischer Krieger"],
+    "definitions_de": ["Angehöriger eines Volkes aus Südrussland und der Ukraine, bekannt für militärische Fähigkeiten"],
+    "examples_de": [["Die **Kosaken**kavallerie war in ganz Osteuropa gefürchtet", "Der **Kosake** führte traditionelle Tänze beim Festival auf"], ["Historische **Kosaken**gemeinschaften pflegten einzigartige kulturelle Traditionen", "**Kosaken**reiter dienten in der russischen Armee"]]
+  },
+  {
+    "lemma": "coulomb",
+    "meanings_de": ["elektrische Ladungseinheit"],
+    "definitions_de": ["SI-Einheit der elektrischen Ladung, gleich der von einem Ampere in einer Sekunde transportierten Ladung"],
+    "examples_de": [["Die Batterie speichert mehrere tausend **Coulomb** Ladung", "Ein **Coulomb** entspricht etwa 6,24 Trillionen Elektronen"], ["Physikstudenten berechneten die Ladungsübertragung in **Coulomb**", "Der Kondensator speicherte genau ein **Coulomb** Ladung"]]
+  },
+  {
+    "lemma": "coward",
+    "meanings_de": ["Person ohne Mut"],
+    "definitions_de": ["Person, der es an Mut fehlt, sich Gefahr, Schwierigkeiten oder Schmerzen zu stellen"],
+    "examples_de": [["Er nannte seinen Gegner einen **Feigling**, weil er der Konfrontation auswich", "Nur ein **Feigling** würde Freunde in Gefahr im Stich lassen"], ["Der **Feigling** floh vom Schlachtfeld, bevor der Kampf begann", "Sie bewies, dass sie keine **Memme** war, indem sie ihre Meinung sagte"]]
+  },
+  {
+    "lemma": "crab",
+    "meanings_de": ["Krebstier", "nörgelnde Person"],
+    "definitions_de": ["Meerestier mit breitem flachem Panzer und fünf Beinpaaren", "schlecht gelaunte Person, die häufig meckert"],
+    "examples_de": [["Die **Krabbe** huschte seitwärts über den Sandstrand", "Frische **Krabben** sind eine Delikatesse in Küstenrestaurants"], ["Sei nicht so ein **Miesepeter** wegen der Planänderung", "Der alte **Nörgler** beschwerte sich über alles, was wir taten"]]
+  },
+  {
+    "lemma": "crane",
+    "meanings_de": ["großer Vogel", "Hebemaschine"],
+    "definitions_de": ["großer Watvogel mit langen Beinen und langem Hals", "hohe Maschine zum Bewegen schwerer Gegenstände durch Aufhängen an einem Ausleger"],
+    "examples_de": [["Der **Kranich** stand regungslos im seichten Wasser", "Ziehende **Kraniche** fliegen jeden Herbst in großen Formationen"], ["Der Bau**kran** hob Stahlträger an ihren Platz", "Ein mobiler **Kran** entfernte das beschädigte Fahrzeug"]]
+  },
+  {
+    "lemma": "crater",
+    "meanings_de": ["schüsselförmige Vertiefung"],
+    "definitions_de": ["große schüsselförmige Vertiefung im Boden oder auf der Oberfläche eines Himmelskörpers"],
+    "examples_de": [["Der Meteor hinterließ einen gewaltigen **Krater** in der Wüste", "Vulkanische **Krater** können sich mit Wasser füllen und Seen bilden"], ["Wissenschaftler untersuchten **Krater** auf der Mondoberfläche", "Die Explosion schuf einen sechs Meter tiefen **Krater**"]]
+  },
+  {
+    "lemma": "creole",
+    "meanings_de": ["Mischsprache", "kulturelle Mischung"],
+    "definitions_de": ["Sprache, die sich aus der Mischung verschiedener Sprachen entwickelt hat", "Person gemischter europäischer und afrikanischer Abstammung in der Karibik"],
+    "examples_de": [["Haitianisches **Kreol** verbindet Französisch mit afrikanischen Sprachen", "Das Restaurant serviert authentische **kreolische** Küche"], ["Die **kreolische** Kultur Louisianas verbindet französische, afrikanische und spanische Einflüsse", "Viele **kreolische** Traditionen überleben in New Orleans"]]
+  },
+  {
+    "lemma": "creon",
+    "meanings_de": ["mythologischer König"],
+    "definitions_de": ["König von Theben in der griechischen Mythologie, der in den Stücken des Sophokles auftritt"],
+    "examples_de": [["**Kreon** verfügte, dass Polyneikes nicht bestattet werden sollte", "Im Stück repräsentiert **Kreon** starre Autorität"], ["Der Schauspieler stellte **Kreon** mit gebietender Präsenz dar", "**Kreons** tragischer Fehler war sein übermäßiger Stolz"]]
+  }
+]

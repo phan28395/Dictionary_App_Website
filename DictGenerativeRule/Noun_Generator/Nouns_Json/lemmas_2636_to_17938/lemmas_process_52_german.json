@@ -1,0 +1,296 @@
+[
+  {
+    "lemma": "diner",
+    "meanings_de": ["Restaurant für zwanglose Mahlzeiten", "Person beim Essen"],
+    "definitions_de": ["kleines, ungezwungenes Restaurant im amerikanischen Stil, das oft durchgehend Frühstück und einfache Gerichte zu moderaten Preisen serviert", "Person, die gerade in einem Restaurant oder einer Gaststätte eine Mahlzeit zu sich nimmt"],
+    "examples_de": [["Das gemütliche **Diner** am Stadtrand servierte rund um die Uhr Frühstück", "Im amerikanischen **Diner** bestellten wir Burger und Milchshakes"], ["Mehrere **Gäste** beschwerten sich über den langsamen Service", "Das Restaurant war voller hungriger **Gäste** nach dem Konzert"]]
+  },
+  {
+    "lemma": "dinero",
+    "meanings_de": ["umgangssprachlich für Geld"],
+    "definitions_de": ["spanisches Wort für Geld, das umgangssprachlich im Deutschen oder Englischen verwendet wird, um Geld oder Kohle zu bezeichnen"],
+    "examples_de": [["Er brauchte mehr **Dinero** für die Reparatur seines Autos", "Nach dem Shoppingtrip war das ganze **Dinero** weg"]]
+  },
+  {
+    "lemma": "ding",
+    "meanings_de": ["kleine Delle", "Klingelton"],
+    "definitions_de": ["kleine Delle oder Beschädigung an einer Oberfläche, die typischerweise durch einen Aufprall entstanden ist", "kurzer metallischer Klang, der entsteht, wenn etwas angeschlagen wird"],
+    "examples_de": [["Die Autotür hatte eine kleine **Delle** vom Einkaufswagen", "Er entdeckte mehrere **Dellen** auf seinem neuen Handybildschirm"], ["Die Mikrowelle machte ein lautes **Ding**, als der Timer ablief", "Wir hörten das **Klingeln** des ankommenden Aufzugs"]]
+  },
+  {
+    "lemma": "dinghy",
+    "meanings_de": ["kleines Boot"],
+    "definitions_de": ["kleines Boot, das von größeren Schiffen mitgeführt oder geschleppt wird oder für Freizeitaktivitäten genutzt wird"],
+    "examples_de": [["Sie ruderten mit dem **Beiboot** von der Yacht zum Ufer", "Das aufblasbare **Schlauchboot** war perfekt, um die Bucht zu erkunden"]]
+  },
+  {
+    "lemma": "dingo",
+    "meanings_de": ["wilder Hund"],
+    "definitions_de": ["in Australien heimischer Wildhund mit gelblich-braunem Fell und spitzen Ohren"],
+    "examples_de": [["Der **Dingo** heulte nachts im australischen Outback", "Die Ranger warnten die Camper, ihr Essen vor **Dingos** zu sichern"]]
+  },
+  {
+    "lemma": "dinosaur",
+    "meanings_de": ["ausgestorbenes Reptil", "veraltete Sache"],
+    "definitions_de": ["ausgestorbenes Reptil, das vor Millionen von Jahren in verschiedenen Größen lebte", "Person oder Sache, die als veraltet gilt oder sich dem Wandel widersetzt"],
+    "examples_de": [["Das Museum stellte ein vollständiges **Dinosaurierskelett** aus", "Kinder lieben es, etwas über verschiedene **Dinosaurierarten** zu lernen"], ["Dieser alte Computer ist ein echter **Dinosaurier** im Vergleich zu modernen Laptops", "Manche nannten ihn einen **Dinosaurier**, weil er sich weigerte, E-Mails zu benutzen"]]
+  },
+  {
+    "lemma": "diocesan",
+    "meanings_de": ["Kirchenverwalter"],
+    "definitions_de": ["Bischof oder kirchlicher Amtsträger, der eine Diözese in der christlichen Kirche verwaltet"],
+    "examples_de": [["Der **Diözesanbischof** besuchte jährlich alle Gemeinden der Region", "Die Ortspfarrer trafen sich mit dem **Diözesanverwalter**, um Kirchenangelegenheiten zu besprechen"]]
+  },
+  {
+    "lemma": "diocese",
+    "meanings_de": ["Kirchenbezirk"],
+    "definitions_de": ["Verwaltungsbezirk unter der Leitung eines Bischofs in der christlichen Kirche"],
+    "examples_de": [["Die **Diözese** umfasste drei Landkreise und fünfzig Pfarreien", "Sie arbeitete im **Diözesanbüro** und kümmerte sich um administrative Aufgaben"]]
+  },
+  {
+    "lemma": "diode",
+    "meanings_de": ["elektronisches Bauteil"],
+    "definitions_de": ["elektronisches Bauelement, das Strom nur in eine Richtung fließen lässt"],
+    "examples_de": [["Die Schaltung benötigte eine **Diode**, um Rückstrom zu verhindern", "Leucht**dioden** werden häufig in elektronischen Anzeigen verwendet"]]
+  },
+  {
+    "lemma": "diorama",
+    "meanings_de": ["dreidimensionale Darstellung"],
+    "definitions_de": ["dreidimensionale Miniaturszene mit Figuren und Hintergründen in einem Schaukasten zur Betrachtung"],
+    "examples_de": [["Die Schüler erstellten ein **Diorama** des Regenwald-Ökosystems", "Das Museum zeigte historische **Dioramen** antiker Zivilisationen"]]
+  },
+  {
+    "lemma": "dioxide",
+    "meanings_de": ["chemische Verbindung"],
+    "definitions_de": ["Verbindung, die zwei Sauerstoffatome enthält, die an ein anderes Element gebunden sind"],
+    "examples_de": [["Der Kohlen**dioxid**gehalt in der Atmosphäre steigt weiter an", "Bei der Reaktion entstand Schwefel**dioxid** als Nebenprodukt"]]
+  },
+  {
+    "lemma": "dip",
+    "meanings_de": ["Soße zum Eintauchen", "Abwärtsneigung", "kurzer Rückgang"],
+    "definitions_de": ["dickflüssige Soße oder Aufstrich, in die Lebensmittel eingetaucht werden", "abwärts geneigte Stelle oder Vertiefung in einer Oberfläche oder Straße", "vorübergehende Abnahme von Menge, Niveau oder Wert"],
+    "examples_de": [["Sie servierte Chips mit selbstgemachtem Spinat-Artischocken-**Dip**", "Das Gemüseplättchen kam mit Ranch-**Dip** als Beilage"], ["Achten Sie auf die **Senke** in der Straße vor uns", "Der Wanderweg folgte einer sanften **Mulde** ins Tal"], ["Die Aktienkurse erlebten einen **Einbruch** nach dem Quartalsbericht", "Es gab einen spürbaren **Temperaturrückgang** über Nacht"]]
+  },
+  {
+    "lemma": "diphthong",
+    "meanings_de": ["Vokallaut"],
+    "definitions_de": ["komplexer Vokallaut, der mit einem Vokal beginnt und zu einem anderen gleitet"],
+    "examples_de": [["Das Wort 'Haus' enthält einen **Diphthong** in seiner Aussprache", "Das Deutsche hat mehrere **Diphthonge**, die in anderen Sprachen nicht vorkommen"]]
+  },
+  {
+    "lemma": "diploma",
+    "meanings_de": ["Abschlusszeugnis"],
+    "definitions_de": ["offizielles Dokument, das den Abschluss eines Studiengangs oder einer Ausbildung bescheinigt"],
+    "examples_de": [["Sie hängte stolz ihr Abitur**diplom** an die Wand", "Die Universität verschickte die **Diplome** drei Wochen nach der Abschlussfeier"]]
+  },
+  {
+    "lemma": "diplomacy",
+    "meanings_de": ["internationale Beziehungen", "taktvolle Kommunikation"],
+    "definitions_de": ["Beruf oder Fähigkeit zur Verwaltung internationaler Beziehungen zwischen Ländern", "Geschick im taktvollem Umgang mit Menschen und Vermeidung von Anstoß"],
+    "examples_de": [["**Diplomatie** verhinderte, dass der Grenzstreit zu einem Krieg eskalierte", "Der Botschafter studierte **Diplomatie** an einer renommierten Universität"], ["Es bedurfte viel **Diplomatie**, um den Konflikt zwischen Kollegen zu lösen", "Sie bewältigte den schwierigen Kunden mit bemerkenswerter **Diplomatie**"]]
+  },
+  {
+    "lemma": "diplomat",
+    "meanings_de": ["Auslandsvertreter", "taktvolle Person"],
+    "definitions_de": ["Beamter, der sein Land in fremden Nationen oder internationalen Organisationen vertritt", "Person, die geschickt im taktvollen und sensiblen Umgang mit anderen ist"],
+    "examples_de": [["Der **Diplomat** verhandelte ein Handelsabkommen zwischen den Ländern", "Mehrere **Diplomaten** nahmen an der UN-Konferenz teil"], ["Sie war ein geborener **Diplomat**, der jeden Streit schlichten konnte", "Man muss ein **Diplomat** sein im Umgang mit schwierigen Verwandten"]]
+  },
+  {
+    "lemma": "dipper",
+    "meanings_de": ["Schöpfkelle", "Vogelart"],
+    "definitions_de": ["großer Löffel mit langem Griff zum Servieren von Flüssigkeiten", "kleiner Vogel, der sich von Insekten ernährt, indem er in Bäche taucht"],
+    "examples_de": [["Benutzen Sie die **Schöpfkelle**, um Suppe aus dem Topf zu servieren", "Die Bowle kam mit einer kristallenen **Kelle**"], ["Die **Wasseramsel** hüpfte entlang des Gebirgsbachs", "Wir entdeckten eine **Wasseramsel** bei der Insektenjagd unter Wasser"]]
+  },
+  {
+    "lemma": "diptych",
+    "meanings_de": ["zweiteiliges Kunstwerk"],
+    "definitions_de": ["Gemälde oder Schnitzerei auf zwei klappbaren Tafeln, die zusammengeschlossen werden können"],
+    "examples_de": [["Das mittelalterliche **Diptychon** zeigte Szenen aus dem Leben des Heiligen", "Der Künstler schuf ein modernes **Diptychon** aus Fotografie und Malerei"]]
+  },
+  {
+    "lemma": "directionality",
+    "meanings_de": ["Richtungseigenschaft"],
+    "definitions_de": ["Eigenschaft, eine bestimmte Richtung zu haben oder im Raum orientiert zu sein"],
+    "examples_de": [["Die **Richtwirkung** der Antenne verbesserte den Signalempfang erheblich", "Forscher untersuchten die **Richtungsabhängigkeit** von Schallwellen in der Kammer"]]
+  },
+  {
+    "lemma": "directive",
+    "meanings_de": ["offizielle Anweisung"],
+    "definitions_de": ["offizielle oder verbindliche Anweisung, die von einer Organisation oder Regierung erlassen wird"],
+    "examples_de": [["Das Unternehmen erließ eine **Richtlinie** zu neuen Sicherheitsverfahren", "Alle Mitarbeiter müssen die **Direktive** der Geschäftsleitung befolgen"]]
+  },
+  {
+    "lemma": "directorate",
+    "meanings_de": ["Vorstand", "Verwaltungsabteilung"],
+    "definitions_de": ["Gruppe von Direktoren, die eine Organisation oder ein Unternehmen leiten", "Abteilung oder Bereich, der von einem Direktor geleitet wird"],
+    "examples_de": [["Das **Direktorium** traf sich vierteljährlich zur Überprüfung der Unternehmensleistung", "Sie wurde nach jahrelanger Tätigkeit in das **Direktorium** berufen"], ["Er arbeitete zehn Jahre im **Bildungsdirektorat**", "Das Forschungs**direktorat** beaufsichtigt alle wissenschaftlichen Projekte"]]
+  },
+  {
+    "lemma": "directorship",
+    "meanings_de": ["Direktorenposten"],
+    "definitions_de": ["Position oder Amt eines Direktors in einer Organisation oder einem Unternehmen"],
+    "examples_de": [["Sie übernahm die **Direktorenstelle** der gemeinnützigen Organisation", "Seine **Amtszeit als Direktor** dauerte fünf Jahre bis zu seiner Pensionierung"]]
+  },
+  {
+    "lemma": "directory",
+    "meanings_de": ["Nachschlagewerk", "Computerordner"],
+    "definitions_de": ["Buch oder Datenbank mit systematisch aufgelisteten Namen und Kontaktinformationen", "Ordner im Computersystem, der Dateien oder andere Verzeichnisse enthält"],
+    "examples_de": [["Sie fand die Nummer des Zahnarztes im **Telefonbuch**", "Das Firmen**verzeichnis** listete alle Mitarbeiter mit ihren Durchwahlen auf"], ["Speichern Sie die Datei im Dokumenten**verzeichnis** auf Ihrem Desktop", "Die **Ordnerstruktur** war nach Projektnamen organisiert"]]
+  },
+  {
+    "lemma": "dirge",
+    "meanings_de": ["Trauerlied"],
+    "definitions_de": ["langsames, klagendes Lied oder Hymne der Trauer, die typischerweise bei Beerdigungen gesungen wird"],
+    "examples_de": [["Der Chor sang ein feierliches **Klagelied** beim Gedenkgottesdienst", "Der Dudelsackspieler spielte eine traditionelle schottische **Totenklage**"]]
+  },
+  {
+    "lemma": "disadvantage",
+    "meanings_de": ["ungünstiger Umstand"],
+    "definitions_de": ["ungünstiger Umstand oder Zustand, der die Erfolgschancen verringert"],
+    "examples_de": [["Klein zu sein war ein **Nachteil** beim Basketball-Vorspielen", "Das Team spielte im **Nachteil** ohne ihren Starspieler"]]
+  },
+  {
+    "lemma": "disaffection",
+    "meanings_de": ["Unzufriedenheitsgefühl"],
+    "definitions_de": ["Zustand der Unzufriedenheit oder Illoyalität, besonders gegenüber Autorität oder Regierung"],
+    "examples_de": [["Die wachsende **Unzufriedenheit** unter den Arbeitern führte zu Streikgesprächen", "Die politische **Verdrossenheit** zeigte sich in der niedrigen Wahlbeteiligung"]]
+  },
+  {
+    "lemma": "disagreement",
+    "meanings_de": ["Meinungsverschiedenheit"],
+    "definitions_de": ["Situation, in der Menschen unterschiedliche Meinungen haben und keinen Konsens erreichen können"],
+    "examples_de": [["Die **Meinungsverschiedenheit** über die Budgetverteilung verzögerte das Projekt", "Sie hatten eine **Unstimmigkeit** darüber, wohin sie in den Urlaub fahren sollten"]]
+  },
+  {
+    "lemma": "disambiguation",
+    "meanings_de": ["Begriffsklärung"],
+    "definitions_de": ["Prozess der Beseitigung von Verwirrung durch Klärung der Bedeutung mehrdeutiger Wörter oder Phrasen"],
+    "examples_de": [["Das Wörterbuch enthielt **Begriffsklärungen** für ähnliche Wörter", "Suchmaschinen nutzen **Disambiguierung**, um relevante Ergebnisse anzuzeigen"]]
+  },
+  {
+    "lemma": "disappearance",
+    "meanings_de": ["Verschwinden"],
+    "definitions_de": ["Vorgang oder Fall, bei dem jemand oder etwas aufhört, sichtbar zu sein"],
+    "examples_de": [["Die Polizei untersuchte das mysteriöse **Verschwinden** des Teenagers", "Das **Verschwinden** des Schiffes bleibt ein ungelöstes Rätsel"]]
+  },
+  {
+    "lemma": "disappearing",
+    "meanings_de": ["Verschwindungsvorgang"],
+    "definitions_de": ["Prozess oder Handlung des allmählichen Aufhörens zu existieren oder sichtbar zu sein"],
+    "examples_de": [["Die **schwindenden** Eiskappen beunruhigen Klimaforscher weltweit", "Zaubershows zeigen oft **Verschwindungstricks** mit Assistenten"]]
+  },
+  {
+    "lemma": "disapproval",
+    "meanings_de": ["Missbilligung"],
+    "definitions_de": ["Gefühl oder Ausdruck, dass jemand oder etwas falsch oder ungeeignet ist"],
+    "examples_de": [["Ihre Eltern äußerten **Missbilligung** über ihre Berufswahl", "Das Komitee stimmte dafür, seine **Ablehnung** des Vorschlags zu zeigen"]]
+  },
+  {
+    "lemma": "disarmament",
+    "meanings_de": ["Abrüstung"],
+    "definitions_de": ["Reduzierung oder Rückzug von Streitkräften und Waffen durch Vereinbarung"],
+    "examples_de": [["Die nuklearen **Abrüstungsgespräche** zwischen den beiden Nationen wurden fortgesetzt", "Der Vertrag forderte eine schrittweise **Abrüstung** über fünf Jahre"]]
+  },
+  {
+    "lemma": "disarming",
+    "meanings_de": ["entwaffnende Eigenschaft"],
+    "definitions_de": ["Eigenschaft, Misstrauen oder Feindseligkeit durch Charme oder Freundlichkeit zu beseitigen"],
+    "examples_de": [["Ihr **entwaffnendes** Lächeln beruhigte nervöse Bewerber", "Er hatte eine **entwaffnende** Art, seine Fehler zuzugeben"]]
+  },
+  {
+    "lemma": "disarray",
+    "meanings_de": ["Unordnungszustand"],
+    "definitions_de": ["Zustand der Desorganisation oder Unordentlichkeit, bei dem Dinge nicht richtig angeordnet sind"],
+    "examples_de": [["Das Büro befand sich nach dem Umzug in völligem **Durcheinander**", "Ihr plötzlicher Weggang hinterließ das Projekt in **Unordnung**"]]
+  },
+  {
+    "lemma": "disassembly",
+    "meanings_de": ["Zerlegungsprozess"],
+    "definitions_de": ["Prozess des Auseinandernehmens von etwas in seine Einzelteile oder Komponenten"],
+    "examples_de": [["Die Möbel erforderten eine **Demontage** vor dem Umzug", "Die ordnungsgemäße **Zerlegung** von Elektronik verhindert Schäden an Bauteilen"]]
+  },
+  {
+    "lemma": "disbandment",
+    "meanings_de": ["Gruppenauflösung"],
+    "definitions_de": ["Akt der Auflösung oder Zerschlagung einer organisierten Gruppe oder Einheit"],
+    "examples_de": [["Die **Auflösung** des Komitees enttäuschte viele Mitglieder", "Militäreinheiten standen aufgrund von Budgetkürzungen vor der **Auflösung**"]]
+  },
+  {
+    "lemma": "disbelief",
+    "meanings_de": ["Unglaube"],
+    "definitions_de": ["Unfähigkeit oder Weigerung, etwas als wahr oder real zu akzeptieren"],
+    "examples_de": [["Sie starrte **ungläubig** auf die gewinnenden Lottozahlen", "Sein **Unglaube** an die Theorie führte zu weiteren Forschungen"]]
+  },
+  {
+    "lemma": "disbursement",
+    "meanings_de": ["Auszahlung"],
+    "definitions_de": ["Zahlung von Geld aus einem Fonds oder Konto für einen bestimmten Zweck"],
+    "examples_de": [["Die **Auszahlung** der Stipendiengelder erfolgt jedes Semester", "Die Buchhaltung verfolgte alle **Auszahlungen** für den Quartalsbericht"]]
+  },
+  {
+    "lemma": "disc",
+    "meanings_de": ["flaches rundes Objekt", "Bandscheibe"],
+    "definitions_de": ["flaches, dünnes, rundes Objekt oder Platte, die für verschiedene Zwecke verwendet wird", "Knorpelpolster zwischen den Wirbeln der Wirbelsäule"],
+    "examples_de": [["Legen Sie die **Scheibe** in den Player ein, um den Film zu starten", "Der Athlet warf die **Scheibe** über das Feld"], ["Die vorgefallene **Bandscheibe** verursachte starke Rückenschmerzen", "Das MRT zeigte Schäden an mehreren **Bandscheiben** in ihrer Wirbelsäule"]]
+  },
+  {
+    "lemma": "discard",
+    "meanings_de": ["weggeworfener Gegenstand"],
+    "definitions_de": ["Gegenstand, der weggeworfen oder als unerwünscht abgelehnt wurde"],
+    "examples_de": [["Der **Ausschusshaufen** wuchs, während sie ihren Schrank ausmistete", "Des einen **Abfall** kann des anderen Schatz sein"]]
+  },
+  {
+    "lemma": "discernment",
+    "meanings_de": ["Urteilsvermögen"],
+    "definitions_de": ["Fähigkeit, gut zu urteilen und Unterschiede klar wahrzunehmen"],
+    "examples_de": [["Ihr **Urteilsvermögen** bei Einstellungen führte zu einem exzellenten Team", "Weinverkostung erfordert **Unterscheidungsvermögen** für subtile Aromen"]]
+  },
+  {
+    "lemma": "discharge",
+    "meanings_de": ["Entlassung aus dem Dienst", "Flüssigkeitsausstoß"],
+    "definitions_de": ["offizielle Entlassung aus dem Dienst, Krankenhaus oder rechtlicher Verpflichtung", "Ausstoß oder Freisetzung von Flüssigkeit, Gas oder anderen Substanzen"],
+    "examples_de": [["Er erhielt eine ehrenvolle **Entlassung** aus dem Militärdienst", "Die **Entlassung** des Patienten aus dem Krankenhaus erfolgte nach vollständiger Genesung"], ["Der **Abfluss** der Fabrik in den Fluss verstieß gegen Umweltgesetze", "Die Wunde zeigte Anzeichen einer Infektion mit gelbem **Ausfluss**"]]
+  },
+  {
+    "lemma": "disciple",
+    "meanings_de": ["ergebener Anhänger"],
+    "definitions_de": ["Person, die einem Lehrer oder Führer folgt und von ihm lernt"],
+    "examples_de": [["Die **Jünger** des Gurus versammelten sich zu täglichen Meditationssitzungen", "Sie wurde eine **Schülerin** des berühmten Kochs"]]
+  },
+  {
+    "lemma": "discipleship",
+    "meanings_de": ["Jüngerschaft"],
+    "definitions_de": ["Zustand, ein Jünger oder Anhänger eines Lehrers oder Glaubens zu sein"],
+    "examples_de": [["Seine **Jüngerschaft** unter dem Meister dauerte zehn Jahre", "Die Kirche betonte **Nachfolge** durch Gemeindedienst"]]
+  },
+  {
+    "lemma": "disciplinarian",
+    "meanings_de": ["strenger Erzieher"],
+    "definitions_de": ["Person, die strenge Disziplin durchsetzt und Gehorsam gegenüber Regeln verlangt"],
+    "examples_de": [["Der Schulleiter war als harter **Zuchtmeister** bekannt", "Ihr Vater war ein **Disziplinfanatiker**, der auf Pünktlichkeit bestand"]]
+  },
+  {
+    "lemma": "disclaimer",
+    "meanings_de": ["Haftungsausschluss"],
+    "definitions_de": ["Erklärung, die Verantwortung oder Verbindung mit etwas ablehnt"],
+    "examples_de": [["Das Buch enthielt einen **Haftungsausschluss** über fiktive Charaktere", "Produkt**hinweise** warnten vor möglichen Nebenwirkungen"]]
+  },
+  {
+    "lemma": "disco",
+    "meanings_de": ["Tanzmusikstil", "Tanzclub"],
+    "definitions_de": ["beliebte Tanzmusik aus den 1970er Jahren mit starkem rhythmischem Bass", "Nachtclub, in dem Menschen zu aufgezeichneter Popmusik tanzen"],
+    "examples_de": [["**Disco**musik dominierte Ende der Siebziger die Charts", "Sie spielten klassische **Disco**-Hits auf der Jubiläumsparty"], ["Die alte **Diskothek** wurde in einen modernen Nachtclub umgewandelt", "Samstagabende in der **Disco** waren immer überfüllt"]]
+  },
+  {
+    "lemma": "discography",
+    "meanings_de": ["Aufnahmenkatalog"],
+    "definitions_de": ["umfassende Liste musikalischer Aufnahmen eines Interpreten oder Komponisten"],
+    "examples_de": [["Die **Diskografie** der Band umfasst über zwanzig Alben", "Sammler schätzen eine vollständige **Diskografie** seltener Aufnahmen"]]
+  },
+  {
+    "lemma": "discoloration",
+    "meanings_de": ["Verfärbung"],
+    "definitions_de": ["Prozess oder Ergebnis der Veränderung zu einer anderen Farbe, oft durch Beschädigung"],
+    "examples_de": [["Sonneneinstrahlung verursachte eine **Verfärbung** des Stoffes", "Der Zahnarzt behandelte die **Zahnverfärbung** mit Bleaching"]]
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "lemma": "formatting",
+    "meanings_de": ["Textgestaltungsprozess"],
+    "definitions_de": ["Prozess der Anordnung von Text, Bildern und anderen Elementen auf einer Seite oder einem Bildschirm, um eine übersichtliche und ansprechende Darstellung zu erreichen"],
+    "examples_de": [["Das Dokument benötigt noch eine ordentliche **Formatierung** vor der Abgabe", "Sie verbrachte Stunden mit der **Formatierung** ihrer Forschungsarbeit"]]
+  },
+  {
+    "lemma": "formulary",
+    "meanings_de": ["Arzneimittelverzeichnis"],
+    "definitions_de": ["Offizielle Liste zugelassener Medikamente, die von einer Krankenversicherung oder einem Gesundheitssystem abgedeckt werden"],
+    "examples_de": [["Der Arzt prüfte im **Arzneimittelverzeichnis**, welche Medikamente erstattungsfähig sind", "Die Krankenkasse aktualisierte ihr **Arzneimittelverzeichnis** um neue Präparate zu ergänzen"]]
+  },
+  {
+    "lemma": "formulation",
+    "meanings_de": ["Entwicklung einer Mischung", "Ausformulierung einer Idee"],
+    "definitions_de": ["Prozess der Entwicklung einer Mischung mit spezifischen Inhaltsstoffen und Mengenverhältnissen, besonders in der Pharmazie und Chemie", "Sorgfältige Ausarbeitung oder Entwicklung eines Plans, einer Theorie oder einer Richtlinie"],
+    "examples_de": [["Das Pharmaunternehmen arbeitete an einer neuen **Formulierung** für das Medikament", "Die Wissenschaftler testeten verschiedene **Formulierungen**, um die gewünschten Eigenschaften zu erreichen"], ["Das Komitee präsentierte seine **Formulierung** der neuen Richtlinien", "Ihre **Formulierung** der Theorie war klar und präzise"]]
+  },
+  {
+    "lemma": "fornication",
+    "meanings_de": ["außerehelicher Geschlechtsverkehr"],
+    "definitions_de": ["Einvernehmlicher Geschlechtsverkehr zwischen zwei Menschen, die nicht miteinander verheiratet sind"],
+    "examples_de": [["Viele Religionen betrachten **Unzucht** als moralisch verwerflich", "Der Prediger sprach in seiner Predigt gegen **außerehelichen Geschlechtsverkehr**"]]
+  },
+  {
+    "lemma": "fort",
+    "meanings_de": ["militärische Befestigungsanlage"],
+    "definitions_de": ["Dauerhafte militärische Festung mit Mauern und Verteidigungsanlagen zum Schutz vor feindlichen Angriffen"],
+    "examples_de": [["Die Soldaten verteidigten das **Fort** gegen feindliche Angriffe", "Wir besuchten ein altes **Fort**, das während der Kolonialzeit erbaut wurde"]]
+  },
+  {
+    "lemma": "forte",
+    "meanings_de": ["persönliche Stärke", "laute Musikpassage"],
+    "definitions_de": ["Bereich oder Tätigkeit, in der eine Person besondere Fähigkeiten oder Talente zeigt", "Musikpassage, die laut oder mit starker Betonung gespielt wird"],
+    "examples_de": [["Mathematik war schon immer ihre **Stärke**", "Öffentliches Reden ist definitiv nicht mein **Forte**"], ["Das Orchester spielte die **Forte**-Passage mit gewaltiger Kraft", "Der Komponist markierte diese Stelle als **forte** in der Partitur"]]
+  },
+  {
+    "lemma": "fortieth",
+    "meanings_de": ["Ordnungszahl vierzig"],
+    "definitions_de": ["Zahl oder Position, die nach der neununddreißigsten in einer Reihenfolge kommt"],
+    "examples_de": [["Sie feierte ihren **vierzigsten** Geburtstag mit Familie und Freunden", "Das **vierzigste** Jubiläum des Unternehmens wurde mit Feierlichkeiten begangen"]]
+  },
+  {
+    "lemma": "fortification",
+    "meanings_de": ["militärische Befestigung", "Stärkungsprozess"],
+    "definitions_de": ["Verteidigungsmauer oder andere Verstärkung, die gebaut wird, um einen Ort gegen Angriffe zu schützen", "Handlung, etwas physisch, emotional oder ernährungstechnisch stärker zu machen"],
+    "examples_de": [["Die antike Stadt war von beeindruckenden **Befestigungsanlagen** umgeben", "Feindliche Truppen konnten die **Befestigungen** der Burg nicht durchbrechen"], ["Die **Anreicherung** von Frühstücksflocken mit Vitaminen hilft Mangelerscheinungen vorzubeugen", "Mentale **Stärkung** durch Meditation half ihr, mit Stress umzugehen"]]
+  },
+  {
+    "lemma": "fortitude",
+    "meanings_de": ["seelische Stärke"],
+    "definitions_de": ["Mut und Stärke, die man zeigt, wenn man Schmerz, Gefahr oder schwierigen Situationen gegenübersteht"],
+    "examples_de": [["Sie zeigte bemerkenswerte **Standhaftigkeit** während ihrer langen Krankheit", "Es erfordert **Charakterstärke**, für seine Überzeugungen einzustehen"]]
+  },
+  {
+    "lemma": "fortnight",
+    "meanings_de": ["Zweiwochenzeitraum"],
+    "definitions_de": ["Zeitraum von vierzehn Tagen oder zwei Wochen"],
+    "examples_de": [["Sie fahren für **vierzehn Tage** in den Urlaub", "Das Projekt wird innerhalb von **zwei Wochen** abgeschlossen sein"]]
+  },
+  {
+    "lemma": "forty",
+    "meanings_de": ["Zahl nach neununddreißig"],
+    "definitions_de": ["Kardinalzahl, die vier mal zehn entspricht"],
+    "examples_de": [["Die Temperatur erreichte gestern **vierzig** Grad Celsius", "Sie lud **vierzig** Gäste zu ihrer Hochzeitsfeier ein"]]
+  },
+  {
+    "lemma": "forwarding",
+    "meanings_de": ["Weiterleitungsprozess"],
+    "definitions_de": ["Handlung, etwas Empfangenes an ein anderes Ziel oder eine andere Person weiterzusenden"],
+    "examples_de": [["Die **Nachsendung** von Post stellt sicher, dass Sie Briefe an Ihrer neuen Adresse erhalten", "Das Unternehmen kümmert sich um die **Weiterleitung** von Paketen ins Ausland"]]
+  },
+  {
+    "lemma": "fostering",
+    "meanings_de": ["Pflegebetreuung", "Förderung Entwicklung"],
+    "definitions_de": ["Vorübergehende Betreuung von Kindern durch andere Personen als ihre leiblichen Eltern", "Handlung, die Entwicklung oder das Wachstum von etwas zu fördern oder zu unterstützen"],
+    "examples_de": [["Das Ehepaar betreibt seit über zehn Jahren **Pflegeelternschaft**", "Die Agentur spezialisiert sich auf **Pflegevermittlungen** für Teenager"], ["Die Schule konzentriert sich auf die **Förderung** der Kreativität bei jungen Schülern", "Gemeindeprogramme **fördern** bessere Beziehungen zwischen Nachbarn"]]
+  },
+  {
+    "lemma": "foul",
+    "meanings_de": ["Sportregelverletzung"],
+    "definitions_de": ["Illegale Handlung oder Spielzug im Sport, der gegen festgelegte Regeln verstößt"],
+    "examples_de": [["Der Schiedsrichter pfiff ein **Foul** gegen den Verteidiger", "Er beging sein fünftes **Foul** und musste das Spiel verlassen"]]
+  },
+  {
+    "lemma": "founding",
+    "meanings_de": ["Gründungsvorgang"],
+    "definitions_de": ["Akt der Errichtung oder Schaffung einer Institution, Organisation oder Siedlung"],
+    "examples_de": [["Die **Gründung** der Universität fand im Jahr 1850 statt", "Wir feiern die **Gründung** unserer Nation jeden Juli"]]
+  },
+  {
+    "lemma": "foundling",
+    "meanings_de": ["verlassenes Kleinkind"],
+    "definitions_de": ["Säugling oder Kleinkind, das verlassen aufgefunden wird und dessen Eltern unbekannt sind"],
+    "examples_de": [["Das Waisenhaus kümmerte sich während des Krieges um viele **Findelkinder**", "Die Geschichte erzählt von einem **Findelkind**, das ein großer Anführer wurde"]]
+  },
+  {
+    "lemma": "foundry",
+    "meanings_de": ["Metallgießerei"],
+    "definitions_de": ["Industriebetrieb, in dem Metall geschmolzen und in bestimmte Formen gegossen wird"],
+    "examples_de": [["Die **Gießerei** produziert Eisengussteile für Automobilkomponenten", "Arbeiter in der **Gießerei** tragen Schutzausrüstung gegen flüssiges Metall"]]
+  },
+  {
+    "lemma": "fountain",
+    "meanings_de": ["dekorativer Springbrunnen", "Quelle oder Ursprung"],
+    "definitions_de": ["Bauwerk, das Wasser zu dekorativen Zwecken in die Luft spritzt", "Ursprüngliche Quelle oder Ursprung von etwas Wünschenswertem oder Wertvollem"],
+    "examples_de": [["Kinder spielten am **Brunnen** auf dem Stadtplatz", "Die Wasserstrahlen des **Springbrunnens** erzeugten ein wunderschönes Schauspiel"], ["Die Bibliothek war eine **Quelle** des Wissens für Forscher", "Sie galt als **Quelle** der Weisheit in der Gemeinde"]]
+  },
+  {
+    "lemma": "fountainhead",
+    "meanings_de": ["primäre Ursprungsquelle"],
+    "definitions_de": ["Ursprüngliche Quelle, aus der etwas entspringt oder sich entwickelt"],
+    "examples_de": [["Das antike Griechenland wird oft als **Ursprung** der Demokratie bezeichnet", "Die Universität wurde zur **Quelle** fortschrittlicher Ideen"]]
+  },
+  {
+    "lemma": "four",
+    "meanings_de": ["Zahl nach drei"],
+    "definitions_de": ["Kardinalzahl zwischen drei und fünf"],
+    "examples_de": [["Der Tisch hat **vier** Beine für Stabilität", "Wir brauchen **vier** Freiwillige für dieses Projekt"]]
+  },
+  {
+    "lemma": "foursome",
+    "meanings_de": ["Vierergruppe"],
+    "definitions_de": ["Gruppe oder Satz von vier Personen oder Dingen"],
+    "examples_de": [["Die Golf-**Vierergruppe** startete früh am Morgen", "Unsere Abendessen-**Viererrunde** trifft sich jeden Freitagabend"]]
+  },
+  {
+    "lemma": "fourteen",
+    "meanings_de": ["Zahl nach dreizehn"],
+    "definitions_de": ["Kardinalzahl, die zehn plus vier entspricht"],
+    "examples_de": [["Sie wird nächsten Monat **vierzehn**", "Das Rezept verlangt **vierzehn** Unzen Mehl"]]
+  },
+  {
+    "lemma": "fourteenth",
+    "meanings_de": ["Ordnungszahl vierzehn"],
+    "definitions_de": ["Zahl oder Position, die nach der dreizehnten in einer Reihenfolge kommt"],
+    "examples_de": [["Der **vierzehnte** Verfassungszusatz garantiert gleichen Schutz vor dem Gesetz", "Ihre **vierzehnte** Geburtstagsfeier war ein unvergessliches Ereignis"]]
+  },
+  {
+    "lemma": "fourth",
+    "meanings_de": ["Ordnungszahl vier", "Viertelanteil"],
+    "definitions_de": ["Position Nummer vier in einer Abfolge oder Serie", "Einer von vier gleichen Teilen, in die etwas geteilt wird"],
+    "examples_de": [["Sie wurde **Vierte** im Marathonlauf", "Die **Viertklässler** lernen gerade das Multiplizieren"], ["Er aß ein **Viertel** der Pizza allein", "Die Ergebnisse des **vierten Quartals** übertrafen die Erwartungen"]]
+  },
+  {
+    "lemma": "fowl",
+    "meanings_de": ["Hausgeflügel", "Wildgeflügel"],
+    "definitions_de": ["Hausvogel, der wegen Eiern oder Fleisch gehalten wird, wie Huhn oder Ente", "Wildvogel, der zur Nahrung oder zum Sport gejagt wird"],
+    "examples_de": [["Der Bauer züchtet verschiedenes **Geflügel** einschließlich Hühner und Gänse", "Haus**geflügel** liefert sowohl Fleisch als auch Eier"], ["Jäger verfolgten **Wasservögel** während der Zugzeit", "Wild**geflügel** ist während der Brutzeit geschützt"]]
+  },
+  {
+    "lemma": "fowler",
+    "meanings_de": ["Vogeljäger"],
+    "definitions_de": ["Person, die Wildvögel zur Nahrung oder zum Sport jagt oder fängt"],
+    "examples_de": [["Der **Vogelfänger** stellte seine Netze vor Morgengrauen auf", "Mittelalterliche **Vogeljäger** belieferten adlige Haushalte mit Vögeln"]]
+  },
+  {
+    "lemma": "fox",
+    "meanings_de": ["wildes Hundetier", "schlaue Person"],
+    "definitions_de": ["Kleines Wildtier mit rötlichem Fell und buschigem Schwanz", "Person, die im Verhalten clever, listig oder verschlagen ist"],
+    "examples_de": [["Ein **Rotfuchs** überquerte den Waldpfad in der Dämmerung", "Der **Fuchs** jagt kleine Nagetiere und Vögel"], ["Er war bekannt als alter **Fuchs** bei Geschäftsverhandlungen", "Vertraue ihr nicht vollständig, sie ist ein richtiger **Schlaufuchs**"]]
+  },
+  {
+    "lemma": "foxtail",
+    "meanings_de": ["Grassamenstand", "Fuchsschwanz"],
+    "definitions_de": ["Ährenförmiger Samenstand bestimmter Gräser, der Tieren schaden kann", "Buschiger Schwanz eines Fuchses"],
+    "examples_de": [["**Fuchsschwanzgrannen** können in Hundeohren und -pfoten stecken bleiben", "Das Feld war voller gefährlicher **Fuchsschwanzgräser**"], ["Der **Fuchsschwanz** war dick und prächtig", "Jäger schätzten den **Fuchsschwanz** als Trophäe"]]
+  },
+  {
+    "lemma": "foxtrot",
+    "meanings_de": ["Gesellschaftstanz"],
+    "definitions_de": ["Gesellschaftstanz im 4/4-Takt mit langsamen und schnellen Schritten"],
+    "examples_de": [["Sie lernten den **Foxtrott** für ihren Hochzeitsempfang", "Die Band spielte einen geschmeidigen **Foxtrott** für die Tänzer"]]
+  },
+  {
+    "lemma": "foyer",
+    "meanings_de": ["Eingangshalle"],
+    "definitions_de": ["Eingangshalle oder Lobby in einem Haus, Hotel oder Theater"],
+    "examples_de": [["Die Gäste versammelten sich im **Foyer** vor der Aufführung", "Das marmorne **Foyer** hinterließ einen beeindruckenden ersten Eindruck"]]
+  },
+  {
+    "lemma": "fracking",
+    "meanings_de": ["hydraulischer Aufbruch"],
+    "definitions_de": ["Verfahren, bei dem Flüssigkeit unter hohem Druck in Gestein gepresst wird, um Öl oder Gas zu fördern"],
+    "examples_de": [["Umweltgruppen lehnen **Fracking** wegen Verschmutzungsbedenken ab", "Das Unternehmen nutzt **Fracking** zur Erdgasgewinnung aus Schiefergestein"]]
+  },
+  {
+    "lemma": "fractal",
+    "meanings_de": ["geometrisches Muster"],
+    "definitions_de": ["Komplexes geometrisches Muster, das auf jeder Größenebene ähnlich aussieht und sich unendlich wiederholt"],
+    "examples_de": [["Computerprogramme können wunderschöne **Fraktalbilder** erzeugen", "**Fraktale** erscheinen in der Natur, wie in Schneeflocken und Küstenlinien"]]
+  },
+  {
+    "lemma": "fractionation",
+    "meanings_de": ["Trennverfahren"],
+    "definitions_de": ["Verfahren zur Trennung eines Gemischs in verschiedene Teile basierend auf physikalischen oder chemischen Eigenschaften"],
+    "examples_de": [["Ölraffinerien nutzen **Fraktionierung**, um Rohöl in nützliche Produkte zu trennen", "Das Labor führte eine **Fraktionierung** durch, um spezifische Proteine zu isolieren"]]
+  },
+  {
+    "lemma": "fracture",
+    "meanings_de": ["Knochenbruch", "Riss oder Spalt"],
+    "definitions_de": ["Bruch oder Riss in einem Knochen, verursacht durch Verletzung oder Belastung", "Riss, Spalt oder Bruch in jedem harten Material oder jeder Oberfläche"],
+    "examples_de": [["Das Röntgenbild zeigte eine **Fraktur** in ihrem Handgelenk", "Er erlitt mehrere **Knochenbrüche** bei dem Autounfall"], ["Das Erdbeben verursachte **Risse** im Fundament des Gebäudes", "Ermüdungs**brüche** zeigten sich im Metall nach wiederholter Nutzung"]]
+  },
+  {
+    "lemma": "fragility",
+    "meanings_de": ["zerbrechliche Beschaffenheit"],
+    "definitions_de": ["Eigenschaft, physisch oder emotional leicht zerbrechlich, beschädigbar oder zerstörbar zu sein"],
+    "examples_de": [["Die **Zerbrechlichkeit** der Kristallgläser erforderte vorsichtige Handhabung", "Die wirtschaftliche **Fragilität** wurde während der Krise offensichtlich"]]
+  },
+  {
+    "lemma": "fragment",
+    "meanings_de": ["abgebrochenes Stück"],
+    "definitions_de": ["Kleines Stück oder Teil, das von etwas abgebrochen oder getrennt wurde"],
+    "examples_de": [["Archäologen fanden Keramik**fragmente** an der Ausgrabungsstätte", "Nur **Bruchstücke** des alten Manuskripts überlebten"]]
+  },
+  {
+    "lemma": "fragmentation",
+    "meanings_de": ["Zersplitterung"],
+    "definitions_de": ["Prozess, etwas in kleine Stücke zu zerbrechen, oder der Zustand des Zerbrochenseins"],
+    "examples_de": [["Die **Fragmentierung** von Lebensräumen bedroht viele Wildtierarten", "Die **Fragmentierung** der Festplatte verlangsamte die Computerleistung"]]
+  },
+  {
+    "lemma": "fragrance",
+    "meanings_de": ["angenehmer Duft"],
+    "definitions_de": ["Süßer oder angenehmer Geruch, besonders von Blumen oder Parfüm"],
+    "examples_de": [["Der **Duft** von Rosen erfüllte den Garten", "Sie trug einen leichten **Duft**, der nach Vanille roch"]]
+  },
+  {
+    "lemma": "frailty",
+    "meanings_de": ["körperliche Gebrechlichkeit"],
+    "definitions_de": ["Zustand der körperlichen Schwäche und Anfälligkeit für gesundheitliche Probleme"],
+    "examples_de": [["Die Krankenschwester war besorgt über die zunehmende **Gebrechlichkeit** des Patienten", "Menschliche **Schwäche** wird mit fortgeschrittenem Alter offensichtlicher"]]
+  },
+  {
+    "lemma": "framing",
+    "meanings_de": ["Rahmenkonstruktion", "Kontextdarstellung"],
+    "definitions_de": ["Prozess der Errichtung des strukturellen Skeletts eines Gebäudes", "Art und Weise, ein Thema oder eine Situation darzustellen oder zu verstehen"],
+    "examples_de": [["Der **Rohbau** des Hauses wurde in zwei Wochen fertiggestellt", "Zimmerleute arbeiteten an der **Rahmenkonstruktion** des neuen Anbaus"], ["Die **Darstellung** der Geschichte durch die Medien beeinflusste die öffentliche Meinung", "Ihre **Rahmung** des Problems half, eine Lösung zu finden"]]
+  },
+  {
+    "lemma": "franc",
+    "meanings_de": ["ehemalige Währungseinheit"],
+    "definitions_de": ["Ehemalige Grundwährungseinheit von Frankreich, Belgien und mehreren anderen Ländern"],
+    "examples_de": [["Der Preis war in **Francs** angegeben, bevor der Euro kam", "Sie tauschte ihre **Francs** bei der Bank in Dollar um"]]
+  },
+  {
+    "lemma": "frank",
+    "meanings_de": ["Postfreistempel"],
+    "definitions_de": ["Offizielles Zeichen oder Unterschrift auf Post, das anzeigt, dass Porto bezahlt wurde"],
+    "examples_de": [["Der Brief trug einen offiziellen **Freistempel** vom Büro des Senators", "Regierungspost trägt oft einen **Freivermerk** anstelle von Briefmarken"]]
+  },
+  {
+    "lemma": "frankfurter",
+    "meanings_de": ["gewürzte Wurst"],
+    "definitions_de": ["Gewürzte Räucherwurst aus Rind- und Schweinefleisch, allgemein als Hot Dog bekannt"],
+    "examples_de": [["Er bestellte eine **Frankfurter** mit Senf beim Baseballspiel", "Die Metzgerei serviert authentische deutsche **Frankfurter Würstchen**"]]
+  },
+  {
+    "lemma": "frankincense",
+    "meanings_de": ["aromatisches Baumharz"],
+    "definitions_de": ["Aromatisches Harz von Bäumen, das in Weihrauch und Parfüms verwendet wird, besonders bei religiösen Zeremonien"],
+    "examples_de": [["Die Kirche verbrannte **Weihrauch** während des Weihnachtsgottesdienstes", "**Weihrauch** war eines der Geschenke, die dem Jesuskind gebracht wurden"]]
+  },
+  {
+    "lemma": "frat",
+    "meanings_de": ["Studentenverbindung"],
+    "definitions_de": ["Informeller Begriff für Burschenschaft, eine soziale Organisation männlicher Studenten"],
+    "examples_de": [["Er trat in seinem zweiten Jahr einer **Studentenverbindung** bei", "Das **Verbindungshaus** veranstaltete jedes Wochenende Partys"]]
+  }
+]

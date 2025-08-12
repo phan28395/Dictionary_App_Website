@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "painted",
+    "meanings_de": ["mit Farbe bedeckt", "geschminkt"],
+    "definitions_de": ["eine Oberfläche habend, die mit aufgetragener Farbe bedeckt oder verziert ist", "Kosmetika im Gesicht tragend, besonders auffällig oder stark aufgetragen"],
+    "examples_de": [["Die **gestrichenen** Wände sahen nach der Renovierung frisch und hell aus", "Wir bewunderten die wunderschön **bemalten** Möbel im Antiquitätenladen"], ["Ihre **geschminkten** Lippen waren für die Aufführung knallrot", "Die Schauspielerin erschien mit stark **geschminkten** Augen und Wangen"]]
+  },
+  {
+    "lemma": "paired",
+    "meanings_de": ["als Paar verbunden", "zusammen abgestimmt"],
+    "definitions_de": ["zusammen verbunden oder vereint als zwei einer Art, die ein Paar bilden", "angeordnet oder abgestimmt mit einer anderen Sache, um ein Set oder eine Ergänzung zu bilden"],
+    "examples_de": [["Die **gepaarten** Tänzer bewegten sich anmutig über die Tanzfläche", "Wissenschaftler beobachteten die **verpaarten** Vögel beim gemeinsamen Nestbau"], ["Die **paarweise** sortierten Socken lagen ordentlich in der Schublade", "Jeder Student wurde mit einem Mentor für das Programm **gepaart**"]]
+  },
+  {
+    "lemma": "palatable",
+    "meanings_de": ["angenehm im Geschmack", "akzeptabel oder annehmbar"],
+    "definitions_de": ["einen angenehmen oder akzeptablen Geschmack habend, der Speisen oder Getränke genießbar macht", "akzeptabel oder angenehm für jemandes Empfindungen, Verstand oder Gefühle"],
+    "examples_de": [["Der Koch machte das gesunde Gemüse mit Kräutern **schmackhafter**", "Dieser Wein ist trotz seines niedrigen Preises durchaus **genießbar**"], ["Das Komitee machte den Vorschlag für die Wähler **annehmbarer**", "Seine Erklärung war für das skeptische Publikum kaum **akzeptabel**"]]
+  },
+  {
+    "lemma": "palatial",
+    "meanings_de": ["palastähnlich"],
+    "definitions_de": ["einem Palast ähnelnd in Bezug auf Geräumigkeit, Großartigkeit und beeindruckenden Luxus"],
+    "examples_de": [["Die **palastartige** Villa des Prominenten überblickte das Meer", "Sie wohnten während ihrer Flitterwochen in einer **palastartigen** Hotelsuite"]]
+  },
+  {
+    "lemma": "paleolithic",
+    "meanings_de": ["aus der Altsteinzeit"],
+    "definitions_de": ["sich auf die frühe Phase der Steinzeit beziehend, die durch primitive Steinwerkzeuge charakterisiert ist"],
+    "examples_de": [["Archäologen entdeckten **altsteinzeitliche** Höhlenmalereien in Südfrankreich", "Das Museum stellte **paläolithische** Werkzeuge aus, die von frühen Menschen benutzt wurden"]]
+  },
+  {
+    "lemma": "palliative",
+    "meanings_de": ["lindernd ohne zu heilen"],
+    "definitions_de": ["Linderung von Symptomen bietend, ohne die zugrundeliegende Ursache einer Erkrankung zu behandeln"],
+    "examples_de": [["Der Arzt verschrieb **palliative** Behandlung zur Schmerzlinderung", "**Palliative** Therapien halfen, seine Lebensqualität zu verbessern"]]
+  },
+  {
+    "lemma": "pallid",
+    "meanings_de": ["unnatürlich blass", "kraftlos"],
+    "definitions_de": ["ein ungesund blasses Aussehen habend, typischerweise aufgrund schlechter Gesundheit oder eines Schocks", "an Vitalität, Kraft oder Überzeugung mangelnd; uninspirierend oder fade"],
+    "examples_de": [["Sein **fahler** Teint deutete darauf hin, dass er wochenlang nicht draußen gewesen war", "Die **blasse** Haut des Patienten beunruhigte das medizinische Personal"], ["Der Film erhielt **schwache** Kritiken von unbeeindruckten Rezensenten", "Ihr **kraftloser** Versuch zu scherzen kam beim Publikum nicht an"]]
+  },
+  {
+    "lemma": "palpable",
+    "meanings_de": ["tastbar", "offensichtlich und intensiv"],
+    "definitions_de": ["fähig, berührt oder gefühlt zu werden, besonders bei medizinischen Untersuchungen", "so intensiv oder offensichtlich, dass es fast gefühlt oder berührt werden kann"],
+    "examples_de": [["Der Arzt fand während der Untersuchung einen **tastbaren** Knoten", "Die Schwellung war unter der Hautoberfläche **fühlbar**"], ["Es herrschte **spürbare** Spannung im Raum während der Verhandlungen", "Die Aufregung im Stadion war vor dem Anpfiff **greifbar**"]]
+  },
+  {
+    "lemma": "paltry",
+    "meanings_de": ["sehr geringe Menge", "wertlos oder trivial"],
+    "definitions_de": ["sehr klein oder dürftig in der Menge, besonders unzureichend oder unbedeutend", "kleinlich, wertlos oder trivial in Natur oder Qualität"],
+    "examples_de": [["Sie boten eine **lächerliche** Summe für solch wertvolle Arbeit", "Sein **klägliches** Gehalt deckte kaum die Grundlebenshaltungskosten"], ["Sie wies seine **armseligen** Ausreden für die Verspätung zurück", "Die **dürftigen** Dekorationen taten nichts, um den Raum zu verbessern"]]
+  },
+  {
+    "lemma": "pancreatic",
+    "meanings_de": ["die Bauchspeicheldrüse betreffend"],
+    "definitions_de": ["sich auf die Bauchspeicheldrüse beziehend oder diese betreffend, eine Drüse, die Verdauungsenzyme und Hormone produziert"],
+    "examples_de": [["Bei dem Patienten wurde letzten Monat **Bauchspeicheldrüsen**krebs diagnostiziert", "**Pankreatische** Enzyme helfen bei der Nahrungsverdauung"]]
+  },
+  {
+    "lemma": "pandemic",
+    "meanings_de": ["ganze Bevölkerungen betreffend"],
+    "definitions_de": ["über ein weites geografisches Gebiet auftretend und einen außergewöhnlich hohen Anteil der Bevölkerung betreffend"],
+    "examples_de": [["Die **pandemische** Krankheit breitete sich schnell über mehrere Kontinente aus", "**Pandemische** Grippeausbrüche gab es in der gesamten Menschheitsgeschichte"]]
+  },
+  {
+    "lemma": "paneled",
+    "meanings_de": ["mit Paneelen verkleidet"],
+    "definitions_de": ["bedeckt, ausgekleidet oder verziert mit flachen rechteckigen Abschnitten aus Holz oder anderem Material"],
+    "examples_de": [["Die **getäfelten** Wände verliehen der Bibliothek ein vornehmes Aussehen", "Sie restaurierten die originale **vertäfelte** Decke im Esszimmer"]]
+  },
+  {
+    "lemma": "panicked",
+    "meanings_de": ["von Panik ergriffen"],
+    "definitions_de": ["betroffen von plötzlicher unkontrollierbarer Angst oder Besorgnis, oft wild unüberlegtes Verhalten verursachend"],
+    "examples_de": [["Die **panische** Menge stürmte zu den Notausgängen", "Sie tätigte **panische** Anrufe, als ihr Kind verschwunden war"]]
+  },
+  {
+    "lemma": "panoramic",
+    "meanings_de": ["weitreichender umfassender Blick"],
+    "definitions_de": ["einen weiten, ungehinderten Blick auf ein ausgedehntes Gebiet in alle Richtungen zeigend"],
+    "examples_de": [["Das Restaurant bot einen **panoramischen** Blick auf die Skyline der Stadt", "Wir machten **Panorama**aufnahmen vom Berggipfel"]]
+  },
+  {
+    "lemma": "papal",
+    "meanings_de": ["den Papst betreffend"],
+    "definitions_de": ["sich auf den Papst oder das Papsttum beziehend, besonders in Bezug auf offizielle Pflichten oder Positionen"],
+    "examples_de": [["Das **päpstliche** Dekret wurde weltweit in Kirchen verlesen", "Kardinäle versammelten sich zur **Papst**wahl im Vatikan"]]
+  },
+  {
+    "lemma": "paperback",
+    "meanings_de": ["mit flexiblem Einband"],
+    "definitions_de": ["einen flexiblen Papiereinband habend anstatt eines steifen Kartoneinbands"],
+    "examples_de": [["Sie bevorzugte **Taschenbücher** zum Reisen, weil sie leichter sind", "Die **Taschenbuch**ausgabe kostet viel weniger als die gebundene Ausgabe"]]
+  },
+  {
+    "lemma": "papery",
+    "meanings_de": ["papierähnliche Textur"],
+    "definitions_de": ["die dünnen, trockenen oder raschelnden Eigenschaften habend, die für Papier charakteristisch sind"],
+    "examples_de": [["Die Blütenblätter hatten eine zarte **papierartige** Textur", "Seine **pergamentartige** Haut zeigte jede Ader darunter"]]
+  },
+  {
+    "lemma": "parabolic",
+    "meanings_de": ["parabelförmig", "durch Gleichnis ausgedrückt"],
+    "definitions_de": ["die Form einer Parabel habend oder sich auf mathematische Parabeln beziehend", "in einem Gleichnis ausgedrückt oder sich darauf beziehend oder symbolische Erzählung verwendend"],
+    "examples_de": [["Die Satellitenschüssel hatte eine **parabolische** Form zur Signalfokussierung", "Ingenieure berechneten die **parabelförmige** Flugbahn des Projektils"], ["Jesus lehrte oft durch **gleichnishafte** Geschichten über das alltägliche Leben", "Der **parabolische** Stil des Autors vermittelte tiefe Wahrheiten indirekt"]]
+  },
+  {
+    "lemma": "paradoxical",
+    "meanings_de": ["scheinbar widersprüchlich"],
+    "definitions_de": ["die Natur eines Paradoxons habend; scheinbar absurd oder selbstwidersprüchlich, aber möglicherweise wahr"],
+    "examples_de": [["Es ist **paradox**, dass Technologie uns verbindet und doch isoliert", "Die **paradoxe** Situation erforderte kreative Problemlösung"]]
+  },
+  {
+    "lemma": "parallel",
+    "meanings_de": ["nebeneinander verlaufend", "entsprechend oder ähnlich"],
+    "definitions_de": ["nebeneinander verlaufend und kontinuierlich denselben Abstand zwischen sich habend", "zur gleichen Zeit oder auf ähnliche Weise auftretend oder existierend; entsprechend"],
+    "examples_de": [["Die **parallelen** Linien schneiden sich nie auf der geometrischen Ebene", "Autos parkten in **parallelen** Reihen auf dem Parkplatz"], ["Die beiden Geschichten zeigen **parallele** Themen der Erlösung", "Wissenschaftler entdeckten **parallele** Evolution bei verschiedenen Arten"]]
+  },
+  {
+    "lemma": "paralytic",
+    "meanings_de": ["Lähmung verursachend", "von Lähmung betroffen"],
+    "definitions_de": ["Lähmung oder Verlust der Bewegungsfähigkeit verursachend", "von Lähmung betroffen; unfähig, einen Teil oder den ganzen Körper zu bewegen"],
+    "examples_de": [["Das **lähmende** Gift immobilisierte die Beute schnell", "Ärzte identifizierten das **paralytische** Mittel in seinem System"], ["Der **gelähmte** Patient benötigte ständige medizinische Betreuung", "Nach dem Unfall blieben seine Beine **gelähmt**"]]
+  },
+  {
+    "lemma": "paralyzed",
+    "meanings_de": ["bewegungsunfähig", "funktionsunfähig"],
+    "definitions_de": ["teilweise oder vollständig bewegungsunfähig aufgrund von Verletzung oder Krankheit", "unfähig gemacht, normal zu denken oder zu handeln, besonders durch Panik oder Angst"],
+    "examples_de": [["Der Unfall ließ ihn von der Hüfte abwärts **gelähmt** zurück", "Ihr **gelähmter** Arm gewann langsam etwas Bewegung zurück"], ["Sie stand vor Angst **wie gelähmt** während des Erdbebens", "Das Unternehmen schien durch Unentschlossenheit **paralysiert**"]]
+  },
+  {
+    "lemma": "paramilitary",
+    "meanings_de": ["militärisch organisiert"],
+    "definitions_de": ["ähnlich wie eine militärische Truppe organisiert, aber nicht Teil der offiziellen Streitkräfte"],
+    "examples_de": [["Die **paramilitärische** Gruppe führte Trainingsübungen durch", "**Paramilitärische** Polizeieinheiten reagierten auf den Notfall"]]
+  },
+  {
+    "lemma": "paramount",
+    "meanings_de": ["wichtiger als alles andere"],
+    "definitions_de": ["wichtiger als alles andere; oberste in Rang, Wichtigkeit oder Autorität"],
+    "examples_de": [["Patientensicherheit ist in der medizinischen Praxis **oberstes Gebot**", "Die **vorrangige** Sorge war der Schutz von Zivilisten"]]
+  },
+  {
+    "lemma": "paranoid",
+    "meanings_de": ["unvernünftig misstrauisch", "extreme Angst zeigend"],
+    "definitions_de": ["unvernünftig oder zwanghaft ängstlich, misstrauisch oder misstrauisch", "gekennzeichnet durch Verfolgungswahn oder übertriebene Selbstwichtigkeit"],
+    "examples_de": [["Er wurde **paranoid**, dass seine Kollegen gegen ihn komplottieren", "Ihr **paranoisches** Verhalten entfremdete Freunde und Familie"], ["Der Patient zeigte **paranoide** Wahnvorstellungen, die sofortige Behandlung erforderten", "Seine **paranoiden** Gedanken störten das tägliche Funktionieren"]]
+  },
+  {
+    "lemma": "paranormal",
+    "meanings_de": ["jenseits normaler Erklärung"],
+    "definitions_de": ["Ereignisse oder Phänomene bezeichnend, die jenseits des Bereichs normalen wissenschaftlichen Verständnisses liegen"],
+    "examples_de": [["Die Ermittler untersuchten **paranormale** Aktivitäten im Haus", "Viele Menschen berichten von **paranormalen** Erfahrungen, die sie nicht erklären können"]]
+  },
+  {
+    "lemma": "grenadian",
+    "meanings_de": ["Grenada betreffend"],
+    "definitions_de": ["sich auf Grenada, seine Menschen, Kultur oder Sprache beziehend"],
+    "examples_de": [["Die **grenadische** Regierung kündigte neue Tourismusinitiativen an", "Wir genossen traditionelle **grenadische** Küche während unseres Besuchs"]]
+  },
+  {
+    "lemma": "guatemalan",
+    "meanings_de": ["Guatemala betreffend"],
+    "definitions_de": ["sich auf Guatemala, seine Menschen, Kultur oder Sprache beziehend"],
+    "examples_de": [["Das Museum zeigte alte **guatemaltekische** Artefakte und Textilien", "**Guatemaltekischer** Kaffee ist für seine außergewöhnliche Qualität bekannt"]]
+  },
+  {
+    "lemma": "guinean",
+    "meanings_de": ["Guinea betreffend"],
+    "definitions_de": ["sich auf Guinea, seine Menschen, Kultur oder Sprache in Westafrika beziehend"],
+    "examples_de": [["Die **guineische** Delegation nahm an der internationalen Konferenz teil", "Traditionelle **guineische** Musik erfüllte das Kulturzentrum"]]
+  },
+  {
+    "lemma": "guyanese",
+    "meanings_de": ["Guyana betreffend"],
+    "definitions_de": ["sich auf Guyana, seine Menschen, Kultur oder Sprache in Südamerika beziehend"],
+    "examples_de": [["Die **guyanische** Gemeinde feierte ihren Unabhängigkeitstag", "Wir probierten köstliches **guyanisches** Curry auf dem Festival"]]
+  },
+  {
+    "lemma": "haitian",
+    "meanings_de": ["Haiti betreffend"],
+    "definitions_de": ["sich auf Haiti, seine Menschen, Kultur oder kreolische Sprache beziehend"],
+    "examples_de": [["**Haitianische** Kunst spiegelt lebendige kulturelle Traditionen und Geschichte wider", "Die **haitianische** Hilfsmaßnahme erhielt internationale Unterstützung"]]
+  },
+  {
+    "lemma": "hawaiian",
+    "meanings_de": ["Hawaii betreffend"],
+    "definitions_de": ["sich auf Hawaii, seine Menschen, Kultur oder polynesische Sprache beziehend"],
+    "examples_de": [["Die **hawaiianischen** Inseln bieten vielfältige Landschaften und Klimazonen", "Wir lernten traditionellen **hawaiianischen** Tanz beim Luau"]]
+  },
+  {
+    "lemma": "hebrew",
+    "meanings_de": ["hebräische Sprache betreffend", "jüdisches Volk betreffend"],
+    "definitions_de": ["sich auf die semitische Sprache des jüdischen Volkes beziehend", "sich auf das jüdische Volk oder seine Kultur und Traditionen beziehend"],
+    "examples_de": [["Sie studierte **hebräische** Texte an der Universität", "Die alten **hebräischen** Manuskripte wurden sorgfältig bewahrt"], ["**Hebräische** Traditionen werden seit Tausenden von Jahren aufrechterhalten", "Der **hebräische** Kalender folgt Mond- und Sonnenzyklen"]]
+  },
+  {
+    "lemma": "hegelian",
+    "meanings_de": ["Hegels Philosophie betreffend"],
+    "definitions_de": ["sich auf den deutschen Philosophen Hegel oder seine dialektische Methode von These, Antithese, Synthese beziehend"],
+    "examples_de": [["Der Professor erklärte **hegelsche** Dialektik den Philosophiestudenten", "Ihre Analyse folgte einem deutlich **hegelschen** Ansatz"]]
+  },
+  {
+    "lemma": "paraplegic",
+    "meanings_de": ["im Unterkörper gelähmt"],
+    "definitions_de": ["betroffen von Lähmung der Beine und des Unterkörpers, typischerweise durch Wirbelsäulenverletzung verursacht"],
+    "examples_de": [["Der **querschnittsgelähmte** Athlet spielte Rollstuhlbasketball", "Nachdem sie **querschnittsgelähmt** wurde, setzte sie sich für Barrierefreiheit ein"]]
+  },
+  {
+    "lemma": "parasitic",
+    "meanings_de": ["von anderen lebend", "andere ausbeutend"],
+    "definitions_de": ["als Parasit auf oder in einem anderen Organismus lebend", "gewohnheitsmäßig die Gastfreundschaft oder Großzügigkeit anderer ausnutzend, ohne etwas zurückzugeben"],
+    "examples_de": [["Die **parasitären** Würmer beeinträchtigten das Verdauungssystem des Hundes", "Wissenschaftler untersuchten **parasitäre** Beziehungen in tropischen Ökosystemen"], ["Sein **parasitärer** Lebensstil hing vollständig von wohlhabenden Freunden ab", "Die **parasitären** Praktiken des Unternehmens erschöpften lokale Ressourcen"]]
+  },
+  {
+    "lemma": "parched",
+    "meanings_de": ["extrem trocken"],
+    "definitions_de": ["durch Hitze ausgetrocknet; extrem trocken, besonders durch Hitze oder übermäßigen Durst"],
+    "examples_de": [["Die **ausgedörrte** Erde riss unter der sengenden Sonne auf", "Ihre **ausgetrocknete** Kehle brauchte dringend Wasser"]]
+  },
+  {
+    "lemma": "parked",
+    "meanings_de": ["abgestellt"],
+    "definitions_de": ["in einer stationären Position belassen, besonders in Bezug auf Fahrzeuge"],
+    "examples_de": [["Die **geparkten** Autos säumten beide Straßenseiten", "Wir fanden ihr Fahrrad vor der Bibliothek **abgestellt**"]]
+  },
+  {
+    "lemma": "parliamentary",
+    "meanings_de": ["das Parlament betreffend"],
+    "definitions_de": ["sich auf ein Parlament oder gesetzgebende Körperschaft beziehend, von diesem erlassen oder dafür geeignet"],
+    "examples_de": [["Die **parlamentarische** Debatte dauerte bis tief in die Nacht", "Sie befolgte während der Sitzung die ordnungsgemäße **parlamentarische** Verfahrensweise"]]
+  },
+  {
+    "lemma": "parochial",
+    "meanings_de": ["eng im Umfang", "eine Pfarrei betreffend"],
+    "definitions_de": ["eine begrenzte oder enge Sichtweise oder einen engen Umfang habend, besonders provinziell", "sich auf eine Kirchengemeinde oder einen kirchlichen Bezirk beziehend"],
+    "examples_de": [["Seine **engstirnigen** Einstellungen hinderten ihn daran, Vielfalt zu schätzen", "Die **provinziellen** Interessen des Ausschusses ignorierten breitere Gemeinschaftsbedürfnisse"], ["Die **Pfarr**schule diente Familien in der örtlichen Gemeinde", "Sie besuchten jeden Sonntag die **Pfarr**kirche"]]
+  },
+  {
+    "lemma": "parted",
+    "meanings_de": ["getrennt oder geteilt"],
+    "definitions_de": ["auseinander bewegt oder getrennt; in Teile oder Abschnitte geteilt"],
+    "examples_de": [["Ihre **geöffneten** Lippen offenbarten ein sanftes Lächeln", "Die Vorhänge waren **geteilt**, um das Morgenlicht hereinzulassen"]]
+  },
+  {
+    "lemma": "participating",
+    "meanings_de": ["teilnehmend an"],
+    "definitions_de": ["an einer Aktivität oder Veranstaltung teilnehmend oder sich daran beteiligend"],
+    "examples_de": [["Alle **teilnehmenden** Schüler erhielten Abschlusszertifikate", "Die **beteiligten** Nationen stimmten dem Klimaabkommen zu"]]
+  },
+  {
+    "lemma": "participatory",
+    "meanings_de": ["aktive Teilnahme ermöglichend"],
+    "definitions_de": ["Menschen erlaubend oder ermutigend, an etwas teilzunehmen oder an Entscheidungen mitzuwirken"],
+    "examples_de": [["Der **partizipative** Workshop ermutigte jeden, Ideen beizutragen", "Sie führten **partizipative** Demokratie in der lokalen Verwaltung ein"]]
+  },
+  {
+    "lemma": "particulate",
+    "meanings_de": ["aus Partikeln bestehend"],
+    "definitions_de": ["aus separaten Partikeln bestehend oder sich darauf beziehend, besonders winzige Materiepartikel"],
+    "examples_de": [["Der Luftfilter entfernt **partikuläre** Stoffe aus der Raumluft", "Wissenschaftler maßen die **Feinstaub**belastung in der Stadt"]]
+  },
+  {
+    "lemma": "partisan",
+    "meanings_de": ["stark Partei unterstützend", "zugunsten voreingenommen"],
+    "definitions_de": ["stark eine bestimmte Partei, Sache oder Person unterstützend, oft ohne Alternativen zu berücksichtigen", "zugunsten einer bestimmten Sache voreingenommen; parteiisch"],
+    "examples_de": [["Die **parteiische** Menge jubelte nur für ihr Team", "**Parteiische** Politik verhinderte bedeutsame legislative Fortschritte"], ["Die **parteiische** Berichterstattung der Zeitung mangelte an Objektivität", "Seine **parteiischen** Ansichten machten ein faires Urteil unmöglich"]]
+  },
+  {
+    "lemma": "partizan",
+    "meanings_de": ["alternative Schreibweise parteiisch"],
+    "definitions_de": ["alternative Schreibweise von partisan; stark eine bestimmte Partei oder Sache unterstützend"],
+    "examples_de": [["Die **Partisanen**kämpfer verteidigten ihr Territorium erbittert", "Seine **partisanen**treue wankte trotz Kritik nie"]]
+  },
+  {
+    "lemma": "passable",
+    "meanings_de": ["ausreichend aber nicht außergewöhnlich", "durchquerbar"],
+    "definitions_de": ["gut genug, aber nicht ausgezeichnet; gerade noch akzeptabel", "fähig, durchquert oder durchreist zu werden"],
+    "examples_de": [["Das Essen war **passabel**, aber nichts Besonderes", "Seine **passable** Leistung brachte ihm eine bestandene Note ein"], ["Die Bergstraße ist im Winter kaum **befahrbar**", "Der Fluss war nur bei Ebbe **passierbar**"]]
+  },
+  {
+    "lemma": "passe",
+    "meanings_de": ["nicht mehr modisch"],
+    "definitions_de": ["nicht mehr modisch, aktuell oder relevant; veraltet"],
+    "examples_de": [["Ihre **überholte** Frisur gehörte in ein anderes Jahrzehnt", "Diese Managementtechniken gelten heute als **passé**"]]
+  },
+  {
+    "lemma": "passive",
+    "meanings_de": ["ohne Widerstand akzeptierend", "nicht aktiv"],
+    "definitions_de": ["akzeptierend oder zulassend, was geschieht, ohne aktive Reaktion oder Widerstand", "nicht aktiv oder nicht teilnehmend; Handlung empfangend ohne selbst zu handeln"],
+    "examples_de": [["Seine **passive** Hinnahme von Kritik überraschte alle", "Das **passive** Publikum reagierte kaum auf die Aufführung"], ["Das Haus nutzt **passive** Solarheizung zur Energieeinsparung", "Sie spielte eine **passive** Rolle in den Verhandlungen"]]
+  },
+  {
+    "lemma": "pasted",
+    "meanings_de": ["mit Klebstoff befestigt"],
+    "definitions_de": ["mit Paste oder Klebstoff in Position geklebt oder befestigt"],
+    "examples_de": [["Die **aufgeklebte** Tapete begann sich an den Ecken zu lösen", "Kinderkunstwerke waren an die Klassenzimmerwände **geklebt**"]]
+  }
+]

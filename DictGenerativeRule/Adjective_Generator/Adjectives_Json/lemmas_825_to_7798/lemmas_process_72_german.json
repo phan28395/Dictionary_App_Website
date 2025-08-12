@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "outsized",
+    "meanings_de": ["übergroß"],
+    "definitions_de": ["ungewöhnlich groß in Bezug auf Größe oder Ausmaß im Vergleich zu dem, was als normal oder erwartet gilt, wobei diese Übergröße oft besondere Aufmerksamkeit erregt"],
+    "examples_de": [["Das Unternehmen steht vor **übergroßen** Herausforderungen auf dem Weltmarkt", "Seine **übergroße** Persönlichkeit füllte jeden Raum, den er betrat"]]
+  },
+  {
+    "lemma": "outspoken",
+    "meanings_de": ["freimütig"],
+    "definitions_de": ["seine Meinungen frei und direkt äußernd, ohne Furcht vor Konsequenzen oder Kritik, dabei oft mutig unpopuläre Standpunkte vertretend"],
+    "examples_de": [["Sie war **freimütig** in ihrer Kritik an der Diskriminierung am Arbeitsplatz", "Der **freimütige** Kritiker hinterfragte jede Regierungsentscheidung"]]
+  },
+  {
+    "lemma": "outstretched",
+    "meanings_de": ["ausgestreckt"],
+    "definitions_de": ["vollständig in die Länge gestreckt oder ausgebreitet, besonders in Bezug auf Arme, Beine oder Flügel"],
+    "examples_de": [["Sie begrüßte ihn mit **ausgestreckten** Armen zur Umarmung", "Der Vogel schwebte mit **ausgestreckten** Flügeln über ihnen"]]
+  },
+  {
+    "lemma": "outward",
+    "meanings_de": ["nach außen gerichtet", "äußerlich sichtbar"],
+    "definitions_de": ["sich von einem Zentrum oder inneren Punkt weg bewegend oder in diese Richtung weisend", "sich auf das äußere Erscheinungsbild oder Verhalten beziehend, nicht auf innere Gefühle oder Gedanken"],
+    "examples_de": [["Der **auswärts** gerichtete Verkehrsstrom nahm zur Rushhour zu", "Seine **äußere** Reise führte ihn über drei Kontinente"], ["Ihre **äußerliche** Ruhe verbarg tiefe innere Ängste", "Die **äußeren** Anzeichen der Krankheit wurden immer deutlicher"]]
+  },
+  {
+    "lemma": "oval",
+    "meanings_de": ["eiförmig"],
+    "definitions_de": ["eine abgerundete und längliche Form wie ein Ei oder eine Ellipse aufweisend, wobei die Krümmung gleichmäßig und harmonisch verläuft"],
+    "examples_de": [["Der **ovale** Spiegel ergänzte die klassische Einrichtung des Zimmers", "Sie ordneten die Stühle in einem **ovalen** Muster an"]]
+  },
+  {
+    "lemma": "ovarian",
+    "meanings_de": ["die Eierstöcke betreffend"],
+    "definitions_de": ["sich auf die Eierstöcke beziehend oder diese betreffend, welche die weiblichen Fortpflanzungsorgane zur Eizellproduktion darstellen"],
+    "examples_de": [["Der Arzt diagnostizierte bei ihr **ovarielle** Zysten", "Die **Eierstock**-Krebsvorsorge wird für Hochrisikopatientinnen empfohlen"]]
+  },
+  {
+    "lemma": "overactive",
+    "meanings_de": ["überaktiv"],
+    "definitions_de": ["aktiver als normal oder wünschenswert, was oft zu Problemen, Unruhe oder körperlichen Beschwerden führt"],
+    "examples_de": [["Seine **überaktive** Fantasie hielt ihn nachts wach", "Die **überaktive** Schilddrüse des Kindes erforderte medizinische Behandlung"]]
+  },
+  {
+    "lemma": "overbearing",
+    "meanings_de": ["herrschsüchtig und anmaßend"],
+    "definitions_de": ["auf unangenehme Weise dominierend im Verhalten, versuchend andere durch Druck oder Einschüchterung zu kontrollieren"],
+    "examples_de": [["Ihre **herrschsüchtige** Mutter bestand darauf, die gesamte Hochzeit zu planen", "Der **anmaßende** Chef machte den Mitarbeitern die Arbeit zur Qual"]]
+  },
+  {
+    "lemma": "overblown",
+    "meanings_de": ["übertrieben oder aufgebauscht"],
+    "definitions_de": ["durch Übertreibung wichtiger oder beeindruckender dargestellt, als es der Realität entspricht, oft ins Lächerliche gesteigert"],
+    "examples_de": [["Die Medienberichterstattung über den Skandal war völlig **übertrieben**", "Sein **aufgeblasenes** Ego machte jede Zusammenarbeit nahezu unmöglich"]]
+  },
+  {
+    "lemma": "overcast",
+    "meanings_de": ["bewölkt und grau"],
+    "definitions_de": ["mit Wolken bedeckt, die das direkte Sonnenlicht blockieren und dadurch ein graues, trübes Erscheinungsbild erzeugen"],
+    "examples_de": [["Der **bewölkte** Himmel drohte den ganzen Nachmittag mit Regen", "An **bedeckten** Tagen ist das Fotografieren eine besondere Herausforderung"]]
+  },
+  {
+    "lemma": "overconfident",
+    "meanings_de": ["übermäßig selbstsicher"],
+    "definitions_de": ["zu viel Vertrauen in die eigenen Fähigkeiten habend, was oft zu Fehlern, Nachlässigkeit oder Misserfolg führt"],
+    "examples_de": [["Der **übermütig** selbstsichere Student lernte nicht und fiel durch die Prüfung", "Seine **übersteigert** selbstsicheren Marktprognosen erwiesen sich als kostspielig"]]
+  },
+  {
+    "lemma": "overdone",
+    "meanings_de": ["übertrieben oder exzessiv", "zu lange gekocht"],
+    "definitions_de": ["bis zum Exzess getrieben oder über das angemessene oder geschmackvolle Maß hinaus übertrieben", "zu lange gekocht oder gebraten, was zu Trockenheit oder Zähigkeit führt"],
+    "examples_de": [["Die **übertriebene** Darstellung des Schauspielers lenkte von der Geschichte ab", "Ihr Make-up war für einen so ungezwungenen Anlass **überzogen**"], ["Das **durchgebratene** Steak war zäh und schwer zu kauen", "Diese **verkochten** Gemüse haben alle ihre Nährstoffe verloren"]]
+  },
+  {
+    "lemma": "overdue",
+    "meanings_de": ["überfällig"],
+    "definitions_de": ["nicht bis zum erforderlichen oder erwarteten Zeitpunkt fertiggestellt, bezahlt oder zurückgegeben, dabei die Frist überschreitend"],
+    "examples_de": [["Das Bibliotheksbuch ist seit drei Wochen **überfällig**", "Ihr Baby war zehn Tage **überfällig**"]]
+  },
+  {
+    "lemma": "overflowing",
+    "meanings_de": ["überlaufend", "überreich vorhanden"],
+    "definitions_de": ["über den Rand oder die Kanten eines Behälters fließend oder schwappend", "in so großen Mengen vorhanden, dass es kaum zu fassen oder einzudämmen scheint"],
+    "examples_de": [["Die **überlaufende** Badewanne überflutete den Badezimmerboden", "Der Regen ließ den **überlaufenden** Fluss über die Ufer treten"], ["Ihr Herz war **übervoll** von Dankbarkeit und Freude", "Die **überquellende** Menschenmenge ergoss sich auf die Straße"]]
+  },
+  {
+    "lemma": "overgrown",
+    "meanings_de": ["überwuchert"],
+    "definitions_de": ["über die normale oder gewünschte Größe hinausgewachsen, besonders bei wild wachsenden Pflanzen ohne Pflege"],
+    "examples_de": [["Der **überwucherte** Garten benötigte dringend Pflege und Rückschnitt", "Ein **zugewachsener** Pfad führte zum verlassenen Haus"]]
+  },
+  {
+    "lemma": "overhead",
+    "meanings_de": ["über dem Kopf befindlich"],
+    "definitions_de": ["direkt oberhalb positioniert oder im Bereich des Himmels oder der Decke befindlich"],
+    "examples_de": [["Die **Decken**lampen warfen Schatten durch den Raum", "Vögel flogen in perfekter Formation **über** uns"]]
+  },
+  {
+    "lemma": "overheated",
+    "meanings_de": ["überhitzt"],
+    "definitions_de": ["auf einen übermäßigen Grad erhitzt, was zu Unbehagen oder mechanischen Problemen führt"],
+    "examples_de": [["Der **überhitzte** Motor begann auf der Autobahn zu qualmen", "Der **überheizte** Raum machte alle schläfrig"]]
+  },
+  {
+    "lemma": "overjoyed",
+    "meanings_de": ["überglücklich"],
+    "definitions_de": ["von extremer Freude oder Entzücken erfüllt, die über gewöhnliche Freude hinausgeht und oft überwältigend ist"],
+    "examples_de": [["Sie war **überglücklich**, als sie den Zulassungsbescheid erhielt", "Die **überglücklichen** Eltern begrüßten ihr erstes Enkelkind"]]
+  },
+  {
+    "lemma": "overland",
+    "meanings_de": ["über Land führend"],
+    "definitions_de": ["über Land reisend oder sich erstreckend, anstatt über See oder durch die Luft"],
+    "examples_de": [["Sie wählten eine **Landroute** durch Zentralasien", "Die **Überlandreise** dauerte drei Monate"]]
+  },
+  {
+    "lemma": "overloaded",
+    "meanings_de": ["überladen"],
+    "definitions_de": ["mit zu viel Gewicht, Arbeit oder Information beladen, über die sichere oder vernünftige Kapazität hinaus"],
+    "examples_de": [["Der **überladene** Lastwagen kämpfte sich den steilen Hügel hinauf", "Ihr **überfrachteter** Terminkalender ließ keine Zeit für Erholung"]]
+  },
+  {
+    "lemma": "overlooked",
+    "meanings_de": ["übersehen oder ignoriert"],
+    "definitions_de": ["nicht bemerkt oder berücksichtigt, obwohl es Aufmerksamkeit hätte erhalten sollen, oft unbeabsichtigt vernachlässigt"],
+    "examples_de": [["Das **übersehene** Detail erwies sich als entscheidend für die Lösung des Falls", "Sie fühlte sich bei der Beförderung **übergangen**, trotz hervorragender Leistungen"]]
+  },
+  {
+    "lemma": "overlooking",
+    "meanings_de": ["mit Blick von oben"],
+    "definitions_de": ["eine Aussicht von einer höheren Position habend, von der aus man auf etwas hinunterschaut"],
+    "examples_de": [["Das Restaurant mit **Blick** auf den Hafen bot atemberaubende Aussichten", "Ein Balkon mit **Blick** auf den Garten sorgte für friedliche Morgenstunden"]]
+  },
+  {
+    "lemma": "overnight",
+    "meanings_de": ["über Nacht", "sehr plötzlich"],
+    "definitions_de": ["während der Nacht geschehend, bleibend oder dauernd", "sehr schnell oder plötzlich ohne Vorwarnung geschehend"],
+    "examples_de": [["Der **nächtliche** Regen hinterließ überall Pfützen", "Sie packte für eine **Übernachtungs**reise nach München"], ["Er wurde **über Nacht** zum Erfolg, nachdem das Video viral ging", "Die **schlagartige** Transformation des Unternehmens überraschte Branchenexperten"]]
+  },
+  {
+    "lemma": "overpowering",
+    "meanings_de": ["überwältigend stark oder intensiv"],
+    "definitions_de": ["so stark oder intensiv, dass es schwierig ist zu widerstehen oder zu ertragen, oft die Sinne oder den Willen überwältigend"],
+    "examples_de": [["Der **überwältigende** Parfümgeruch erfüllte den Aufzug", "Seine **übermächtige** Persönlichkeit dominierte jedes Gespräch"]]
+  },
+  {
+    "lemma": "overpriced",
+    "meanings_de": ["überteuert"],
+    "definitions_de": ["höher bepreist als der tatsächliche Wert oder das, was Menschen als angemessen betrachten"],
+    "examples_de": [["Das **überteuerte** Restaurant enttäuschte mit mittelmäßigem Essen", "Diese **überteuerten** Wohnungen vertreiben die Bewohner"]]
+  },
+  {
+    "lemma": "overprotective",
+    "meanings_de": ["überfürsorglich"],
+    "definitions_de": ["jemanden, besonders ein Kind, mehr als notwendig beschützend, was möglicherweise deren Unabhängigkeit einschränkt"],
+    "examples_de": [["Seine **überfürsorglichen** Eltern ließen ihn nicht draußen spielen", "Der **überbeschützende** Hund knurrte jeden Besucher an"]]
+  },
+  {
+    "lemma": "overriding",
+    "meanings_de": ["vorrangig"],
+    "definitions_de": ["wichtiger als jede andere Überlegung, Vorrang vor allem anderen habend und alle anderen Faktoren übertrumpfend"],
+    "examples_de": [["Sicherheit war ihre **vorrangige** Sorge während des Baus", "Das **übergeordnete** Ziel war der Schutz von Zivilisten"]]
+  },
+  {
+    "lemma": "overseas",
+    "meanings_de": ["in Übersee"],
+    "definitions_de": ["in Ländern jenseits des Ozeans gelegen, von dort stammend oder dort stattfindend"],
+    "examples_de": [["Das Unternehmen erweiterte seine **Übersee**-Aktivitäten nach Asien", "Viele Studenten nutzen **Auslands**-Studienmöglichkeiten"]]
+  },
+  {
+    "lemma": "oversize",
+    "meanings_de": ["übergroß"],
+    "definitions_de": ["größer als die Standard- oder übliche Größe für etwas, dabei oft bewusst großzügig dimensioniert"],
+    "examples_de": [["Das **übergroße** Hemd hing locker an ihrer Gestalt", "Sie bestellten eine **übergroße** Pizza für die Party"]]
+  },
+  {
+    "lemma": "oversized",
+    "meanings_de": ["übergroß"],
+    "definitions_de": ["größer als normal oder Standardgröße gemacht oder seiend, oft als Stilmittel oder aus praktischen Gründen"],
+    "examples_de": [["Sie trug eine **übergroße** Sonnenbrille, um ihr Gesicht zu verbergen", "Die **überdimensionierten** Möbel erdrückten den kleinen Raum"]]
+  },
+  {
+    "lemma": "overstated",
+    "meanings_de": ["übertrieben dargestellt"],
+    "definitions_de": ["zu stark ausgedrückt oder dargestellt, wodurch etwas bedeutsamer erscheint als es in Wirklichkeit ist"],
+    "examples_de": [["Die Schlussfolgerungen des Berichts waren stark **übertrieben**", "Seine **überzogenen** Behauptungen untergruben seine Glaubwürdigkeit"]]
+  },
+  {
+    "lemma": "overt",
+    "meanings_de": ["offen und erkennbar"],
+    "definitions_de": ["offen und deutlich getan oder gezeigt, ohne Versuch der Verheimlichung oder Verschleierung"],
+    "examples_de": [["Es gab keine **offene** Feindseligkeit zwischen den beiden Gruppen", "Seine **offensichtlichen** Zurschaustellungen von Reichtum zogen unerwünschte Aufmerksamkeit an"]]
+  },
+  {
+    "lemma": "overturned",
+    "meanings_de": ["umgestürzt", "aufgehoben oder annulliert"],
+    "definitions_de": ["physisch umgedreht, sodass die Oberseite zur Unterseite wird", "rückgängig gemacht oder annulliert, besonders in Bezug auf rechtliche Entscheidungen"],
+    "examples_de": [["Das **umgestürzte** Auto blockierte beide Fahrspuren", "Starke Winde hinterließen **umgekippte** Tische im ganzen Park"], ["Das Gericht **hob** das vorherige Urteil in der Berufung **auf**", "Die **aufgehobene** Richtlinie war jahrzehntelang in Kraft gewesen"]]
+  },
+  {
+    "lemma": "overweight",
+    "meanings_de": ["übergewichtig"],
+    "definitions_de": ["mehr wiegend als für die eigene Körpergröße als gesund oder normal angesehen wird"],
+    "examples_de": [["Der Arzt riet dem **übergewichtigen** Patienten zu mehr Bewegung", "Fluggesellschaften verlangen Zusatzgebühren für **übergewichtiges** Gepäck"]]
+  },
+  {
+    "lemma": "overwrought",
+    "meanings_de": ["emotional überreizt"],
+    "definitions_de": ["in einem Zustand extremer emotionaler Erregung, nervöser Aufregung oder Angst befindlich"],
+    "examples_de": [["Die **überreizte** Mutter konnte bei der Abschlussfeier nicht aufhören zu weinen", "Seine **überspannte** Reaktion auf Kritik überraschte alle"]]
+  },
+  {
+    "lemma": "overzealous",
+    "meanings_de": ["übereifrig"],
+    "definitions_de": ["zu viel Energie oder Enthusiasmus bei der Verfolgung einer Sache oder eines Ziels zeigend"],
+    "examples_de": [["Der **übereifrige** Sicherheitsdienst verärgerte viele unschuldige Kunden", "Ihre **übertrieben** eifrige Reinigung beschädigte die antiken Möbel"]]
+  },
+  {
+    "lemma": "owing",
+    "meanings_de": ["noch zu bezahlen"],
+    "definitions_de": ["als Schuld oder Verpflichtung noch unbezahlt oder unerfüllt bleibend"],
+    "examples_de": [["Die **ausstehende** Miete vom letzten Monat muss sofort bezahlt werden", "Es gibt noch **offene** Löhne an ehemalige Mitarbeiter"]]
+  },
+  {
+    "lemma": "owned",
+    "meanings_de": ["im Besitz von jemandem"],
+    "definitions_de": ["einer bestimmten Person oder Einheit gehörend oder in deren Besitz befindlich"],
+    "examples_de": [["Das **familieneigene** Unternehmen feierte sein fünfzigjähriges Bestehen", "Alle **eigenen** Fahrzeuge müssen Parkausweise vorweisen"]]
+  },
+  {
+    "lemma": "oxidized",
+    "meanings_de": ["oxidiert"],
+    "definitions_de": ["eine chemische Reaktion mit Sauerstoff eingegangen, was oft zu Rost oder Verfärbung führt"],
+    "examples_de": [["Das **oxidierte** Kupferdach war im Laufe der Zeit grün geworden", "**Oxidierter** Silberschmuck benötigt spezielle Reinigung"]]
+  },
+  {
+    "lemma": "pacific",
+    "meanings_de": ["friedfertig"],
+    "definitions_de": ["friedlich in Charakter oder Absicht, dazu neigend, Frieden zu fördern und Konflikte zu vermeiden"],
+    "examples_de": [["Seine **friedfertige** Art half, die wütende Menge zu beruhigen", "Die **friedliche** Einigung vermied jahrelange Rechtsstreitigkeiten"]]
+  },
+  {
+    "lemma": "pacifist",
+    "meanings_de": ["pazifistisch"],
+    "definitions_de": ["an das Prinzip glaubend oder dafür eintretend, dass Streitigkeiten ohne Gewalt beigelegt werden sollten"],
+    "examples_de": [["Die **pazifistische** Bewegung organisierte friedliche Proteste gegen den Krieg", "Ihre **pazifistischen** Überzeugungen hinderten sie am Militärdienst"]]
+  },
+  {
+    "lemma": "packaged",
+    "meanings_de": ["verpackt"],
+    "definitions_de": ["in einen Behälter oder eine Umhüllung für Lagerung, Transport oder Verkauf gegeben"],
+    "examples_de": [["Die **verpackten** Lebensmittel enthielten detaillierte Nährwertangaben", "Alle **verpackten** Artikel müssen die Qualitätskontrolle bestehen"]]
+  },
+  {
+    "lemma": "packed",
+    "meanings_de": ["vollgepackt", "dicht zusammengepresst"],
+    "definitions_de": ["vollständig gefüllt ohne Platz für mehr Menschen oder Dinge", "fest oder dicht zusammengepresst zu einer kompakten Masse"],
+    "examples_de": [["Das **vollbesetzte** Stadion explodierte, als die Heimmannschaft ein Tor schoss", "Jeder **überfüllte** Zug während der Stoßzeit stellt die Geduld der Pendler auf die Probe"], ["Der fest **gepresste** Schnee eignete sich perfekt für Schneebälle", "Sie hielt ihren **gepackten** Koffer für Notfälle bereit"]]
+  },
+  {
+    "lemma": "padded",
+    "meanings_de": ["gepolstert"],
+    "definitions_de": ["mit weichem Material gefüllt oder bedeckt für Komfort oder Schutz"],
+    "examples_de": [["Der **gepolsterte** Stuhl bot Komfort während langer Besprechungen", "Athleten tragen **gepolsterte** Ausrüstung zur Verletzungsprävention"]]
+  },
+  {
+    "lemma": "paediatric",
+    "meanings_de": ["pädiatrisch"],
+    "definitions_de": ["sich auf den Zweig der Medizin beziehend, der sich mit Kindern und ihren Krankheiten befasst"],
+    "examples_de": [["Die **pädiatrische** Station spezialisierte sich auf die Behandlung junger Patienten", "Sie schloss ihre **Kinderarzt**-Facharztausbildung am Kinderkrankenhaus ab"]]
+  },
+  {
+    "lemma": "pagan",
+    "meanings_de": ["heidnisch"],
+    "definitions_de": ["sich auf religiöse Überzeugungen außerhalb der Hauptweltreligionen beziehend, oft polytheistisch"],
+    "examples_de": [["Alte **heidnische** Rituale feierten den Wechsel der Jahreszeiten", "Die **heidnischen** Symbole waren in Menhire eingraviert"]]
+  },
+  {
+    "lemma": "paid",
+    "meanings_de": ["bezahlt", "beglichen"],
+    "definitions_de": ["Geld im Austausch für Arbeit oder Waren erhalten habend", "als Schuld oder Verpflichtung beglichen oder erfüllt"],
+    "examples_de": [["Alle **bezahlten** Mitarbeiter erhalten Krankenversicherungsleistungen", "Der **bezahlte** Berater lieferte wertvolle Expertise"], ["Die **beglichene** Rechnung wurde bei den Buchhaltungsunterlagen abgelegt", "Stellen Sie sicher, dass alle Rechnungen vor Monatsende **bezahlt** sind"]]
+  },
+  {
+    "lemma": "pained",
+    "meanings_de": ["schmerzerfüllt"],
+    "definitions_de": ["körperlichen oder emotionalen Schmerz, Verletzung oder Kummer zeigend oder ausdrückend"],
+    "examples_de": [["Ihr **schmerzerfüllter** Gesichtsausdruck verriet sofort die schlechten Nachrichten", "Er lächelte **gequält**, als er nach der Scheidung gefragt wurde"]]
+  },
+  {
+    "lemma": "painless",
+    "meanings_de": ["schmerzlos"],
+    "definitions_de": ["keinen körperlichen Schmerz oder Unbehagen verursachend, wenn es erlebt oder durchgeführt wird"],
+    "examples_de": [["Der Zahnarzt versprach, dass der Eingriff völlig **schmerzlos** sein würde", "Moderne Technologie macht viele medizinische Tests praktisch **schmerzfrei**"]]
+  },
+  {
+    "lemma": "painstaking",
+    "meanings_de": ["äußerst sorgfältig und gründlich"],
+    "definitions_de": ["mit großer Sorgfalt, Gründlichkeit und Aufmerksamkeit für Details durchgeführt oder diese verwendend"],
+    "examples_de": [["Die **akribische** Arbeit des Archäologen enthüllte antike Artefakte", "Ihre **gewissenhafte** Forschung dauerte drei Jahre bis zur Fertigstellung"]]
+  }
+]

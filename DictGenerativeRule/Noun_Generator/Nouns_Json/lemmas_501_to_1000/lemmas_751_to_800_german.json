@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "egg",
+    "meanings_de": ["ovales Fortpflanzungsobjekt", "weibliche Keimzelle"],
+    "definitions_de": ["ovales oder rundes Objekt, das von weiblichen Vögeln gelegt wird und sich entwickelnden Nachwuchs enthält", "weibliche Fortpflanzungszelle, die sich zu einem neuen Organismus entwickeln kann"],
+    "examples_de": [["Sie schlug drei **Eier** in die Rührschüssel", "Das Huhn legte jeden Morgen frische **Eier**"], ["Die befruchtete **Eizelle** teilte sich während der frühen Entwicklung rasch", "Wissenschaftler untersuchten die **Eizellen** unter leistungsstarken Mikroskopen"]]
+  },
+  {
+    "lemma": "general",
+    "meanings_de": ["hochrangiger Offizier", "allgemein oder üblich"],
+    "definitions_de": ["Militäroffizier von hohem Rang, der typischerweise mehrere Einheiten befehligt", "alle oder die meisten Menschen, Orte oder Dinge betreffend oder sich darauf beziehend"],
+    "examples_de": [["Der **General** sprach vor der Mission zu den Truppen", "**General** Schmidt ging nach vierzig Dienstjahren in den Ruhestand"], ["Die **allgemeine** Meinung befürwortete die neuen politischen Änderungen", "Diese Richtlinien bieten **allgemeine** Prinzipien für eine gesunde Lebensweise"]]
+  },
+  {
+    "lemma": "expression",
+    "meanings_de": ["Gesichtsausdruck", "mathematische Formel", "sprachliche Äußerung"],
+    "definitions_de": ["Ausdruck im Gesicht einer Person, der eine bestimmte Emotion vermittelt", "mathematisches Symbol oder Formel, das eine Menge oder Operation darstellt", "Wort oder Phrase, die verwendet wird, um Ideen oder Gefühle zu kommunizieren"],
+    "examples_de": [["Ihr **Gesichtsausdruck** zeigte völlige Überraschung über die Nachricht", "Der fröhliche **Ausdruck** des Kindes erhellte die Stimmung aller"], ["Vereinfachen Sie diesen algebraischen **Ausdruck**, um die Antwort zu finden", "Der **Ausdruck** ist gleich null, wenn x gleich drei ist"], ["Diese alte **Redewendung** trifft die Situation hier perfekt", "Die freie **Meinungsäußerung** bleibt ein grundlegendes Menschenrecht"]]
+  },
+  {
+    "lemma": "session",
+    "meanings_de": ["Sitzungsperiode", "Aufnahmezeit"],
+    "definitions_de": ["Zeitraum, der einer bestimmten Aktivität oder formellen Sitzung gewidmet ist", "Zeit, die mit der Aufnahme von Musik in einem professionellen Studio verbracht wird"],
+    "examples_de": [["Die Therapie**sitzung** dauerte heute genau fünfzig Minuten", "Der Bundestag hielt eine Sonder**sitzung** ab, um Bedenken anzusprechen"], ["Die Band buchte eine **Session**, um ihr Album aufzunehmen", "Studio**session**-Musiker arbeiten oft mit mehreren Künstlern zusammen"]]
+  },
+  {
+    "lemma": "competition",
+    "meanings_de": ["organisierter Wettbewerb", "geschäftliche Rivalität"],
+    "definitions_de": ["Veranstaltung oder Wettkampf, bei dem Menschen gegeneinander antreten", "Rivalität zwischen Unternehmen, die versuchen, Kunden oder Marktanteile zu gewinnen"],
+    "examples_de": [["Sie gewann den ersten Platz im Schwimm**wettbewerb**", "Der jährliche **Wettbewerb** zieht Teilnehmer aus vielen Ländern an"], ["Die **Konkurrenz** zwischen Technologieunternehmen treibt Innovationen schnell voran", "Gesunder **Wettbewerb** kommt den Verbrauchern durch bessere Preise zugute"]]
+  },
+  {
+    "lemma": "technique",
+    "meanings_de": ["geschickte Methode", "künstlerischer Stil"],
+    "definitions_de": ["Art und Weise, eine bestimmte Aufgabe mit spezialisierter Fertigkeit auszuführen", "Methode des künstlerischen Ausdrucks oder der Darbietung, die einzelne Schöpfer auszeichnet"],
+    "examples_de": [["Der Chirurg demonstrierte heute eine neue Operations**technik**", "Die richtige Atem**technik** verbessert die sportliche Leistung erheblich"], ["Ihre Mal**technik** verbindet traditionelle und moderne Ansätze", "Die **Technik** des Pianisten beeindruckte selbst erfahrene Musikkritiker"]]
+  },
+  {
+    "lemma": "average",
+    "meanings_de": ["typischer Standard", "mathematischer Mittelwert"],
+    "definitions_de": ["üblicher oder gewöhnlicher Standardpegel oder Qualität von etwas", "Zahl, die berechnet wird, indem Mengen zusammengezählt und dann durch die Anzahl geteilt werden"],
+    "examples_de": [["Der **durchschnittliche** Schüler erledigt Hausaufgaben in zwei Stunden", "Ihre Leistung übertraf den **Durchschnitt** für ihr Alter"], ["Berechnen Sie den **Durchschnitt** dieser fünf Testergebnisse", "Die **durchschnittliche** Temperatur im letzten Monat war ungewöhnlich hoch"]]
+  },
+  {
+    "lemma": "wine",
+    "meanings_de": ["alkoholisches Getränk", "dunkelrote Farbe"],
+    "definitions_de": ["alkoholisches Getränk aus fermentiertem Saft von Trauben", "dunkelrote Farbe, die der von Rotwein ähnelt"],
+    "examples_de": [["Sie öffneten eine Flasche **Wein** zum Abendessen", "Französischer **Wein** bleibt bei Sammlern weltweit beliebt"], ["Sie wählte **weinrote** Vorhänge für das Esszimmer", "Der **Weinton** ergänzte die warmen Farbtöne des Raumes"]]
+  },
+  {
+    "lemma": "youth",
+    "meanings_de": ["junger Mensch", "frühe Lebensphase"],
+    "definitions_de": ["junger Mensch, besonders zwischen Kindheit und Erwachsenenalter", "Zeitraum zwischen Kindheit und Erwachsenenalter im Leben einer Person"],
+    "examples_de": [["Der **Jugendliche** engagierte sich regelmäßig ehrenamtlich im Gemeindezentrum", "Die heutige **Jugend** steht vor anderen Herausforderungen als frühere Generationen"], ["Sie verbrachte ihre **Jugend** damit, um die Welt zu reisen", "In seiner **Jugend** träumte er davon, Astronaut zu werden"]]
+  },
+  {
+    "lemma": "weather",
+    "meanings_de": ["atmosphärische Bedingungen"],
+    "definitions_de": ["Zustand der Atmosphäre einschließlich Temperatur, Luftfeuchtigkeit, Niederschlag und Wind"],
+    "examples_de": [["Die **Wettervorhersage** sagt Regen für das ganze Wochenende voraus", "Extreme **Wetterereignisse** sind in letzter Zeit häufiger geworden"]]
+  },
+  {
+    "lemma": "medicine",
+    "meanings_de": ["Heilmittel", "Medizinwissenschaft"],
+    "definitions_de": ["Substanz zur Behandlung von Krankheiten oder zur Schmerzlinderung", "Wissenschaft und Praxis der Diagnose, Behandlung und Vorbeugung von Krankheiten"],
+    "examples_de": [["Nehmen Sie diese **Medizin** dreimal täglich mit dem Essen ein", "Die Apotheke führt sowohl verschreibungspflichtige als auch freiverkäufliche **Medikamente**"], ["Sie entschied sich, **Medizin** auf Universitätsniveau zu studieren", "Die moderne **Medizin** hat die menschliche Lebenserwartung dramatisch erhöht"]]
+  },
+  {
+    "lemma": "novel",
+    "meanings_de": ["fiktionales Buch", "neu und ungewöhnlich"],
+    "definitions_de": ["lange schriftliche Geschichte über imaginäre Charaktere und Ereignisse", "interessant neu, ungewöhnlich oder anders als typische Erwartungen"],
+    "examples_de": [["Ihr neuester **Roman** stand sofort an der Spitze der Bestsellerliste", "Der **Roman** erforscht Themen von Liebe und Verlust"], ["Wissenschaftler entwickelten einen **neuartigen** Ansatz zur Krebsbehandlung", "Das ist sicherlich eine **neuartige** Art, Probleme zu lösen"]]
+  },
+  {
+    "lemma": "thursday",
+    "meanings_de": ["vierter Wochentag"],
+    "definitions_de": ["Wochentag, der auf Mittwoch folgt und Freitag vorausgeht"],
+    "examples_de": [["Das Treffen wurde für **Donnerstag**nachmittag angesetzt", "Der **Donnerstag** markiert den Beginn unseres Wochenendverkaufs"]]
+  },
+  {
+    "lemma": "exchange",
+    "meanings_de": ["gegenseitiger Handel", "Gespräch", "Marktplatz"],
+    "definitions_de": ["Handlung, etwas zu geben und dafür etwas anderes zu erhalten", "kurzes Gespräch oder Interaktion zwischen zwei oder mehr Personen", "Ort, an dem Wertpapiere, Waren oder Währungen professionell gehandelt werden"],
+    "examples_de": [["Der **Austausch** von Geschenken findet während der Feiertage statt", "Sie arrangierten einen Gefangenen**austausch** zwischen den Ländern"], ["Ihr hitziger **Wortwechsel** dauerte mehrere Minuten, bevor er sich beruhigte", "Ein kurzer **Austausch** von Grüßen ging dem Treffen voraus"], ["Die **Börse** schloss wegen Feiertagen früher", "Währungs**wechselkurse** schwanken während des gesamten Handelstages"]]
+  },
+  {
+    "lemma": "bay",
+    "meanings_de": ["Küstenbucht", "rotbraune Farbe", "Erker"],
+    "definitions_de": ["breite Meeresbucht, wo das Land nach innen gekrümmt ist", "rotbraune Farbe, besonders bei der Beschreibung von Pferden", "zurückgesetzter Bereich eines Raumes oder Gebäudes, der einen Erker bildet"],
+    "examples_de": [["Schiffe ankerten über Nacht sicher in der geschützten **Bucht**", "Die **Bucht** bietet Lebensraum für zahlreiche Meeresarten"], ["Sie ritt ein schönes **braunes** Pferd durch die Felder", "Die **braune** Stute gewann diese Saison drei Rennen"], ["Sie fügten einen Frühstückstisch im Küchen**erker** hinzu", "Das **Erkerfenster** bot einen Panoramablick auf die Gärten"]]
+  },
+  {
+    "lemma": "conclusion",
+    "meanings_de": ["Schlussteil", "erreichte Schlussfolgerung"],
+    "definitions_de": ["letzter Teil oder Ende von etwas wie einer Rede oder Veranstaltung", "Urteil oder Entscheidung, die nach Überlegung von Beweisen oder Argumentation erreicht wurde"],
+    "examples_de": [["Der Redner bewahrte die besten Punkte für den **Schluss** auf", "Das Ende des Films ließ das Publikum mit dem Wunsch nach mehr Antworten zurück"], ["Wissenschaftler kamen nach umfangreichen Forschungsstudien zu dem **Schluss**", "Ziehen Sie keine voreiligen **Schlüsse**, ohne alle Beweise zu prüfen"]]
+  },
+  {
+    "lemma": "progress",
+    "meanings_de": ["Vorwärtsbewegung", "allmähliche Verbesserung"],
+    "definitions_de": ["Vorwärts- oder Weiterbewegung zu einem Ziel oder Bestimmungsort", "allmähliche Verbesserung oder Weiterentwicklung von etwas im Laufe der Zeit"],
+    "examples_de": [["Wir machten heute gute **Fortschritte** auf der Autobahn", "Die Wanderer verfolgten ihren **Fortschritt** mit GPS-Geräten"], ["Der Patient zeigte bemerkenswerte **Fortschritte** nach Beginn der Therapie", "Wissenschaftlicher **Fortschritt** geschieht oft durch kleine, schrittweise Schritte"]]
+  },
+  {
+    "lemma": "surprise",
+    "meanings_de": ["unerwartetes Ereignis", "Erstaunensgefühl"],
+    "definitions_de": ["unerwartetes oder erstaunliches Ereignis, Tatsache oder Sache, die geschieht", "Gefühl von mildem Erstaunen oder Schock, verursacht durch etwas Unerwartetes"],
+    "examples_de": [["Die Geburtstagsfeier war eine völlige **Überraschung** für sie", "Das Leben bringt oft **Überraschungen**, sowohl angenehme als auch herausfordernde"], ["Seine **Überraschung** war offensichtlich, als er das Geschenk öffnete", "Zur **Überraschung** aller gewann das Außenseiterteam deutlich"]]
+  },
+  {
+    "lemma": "assessment",
+    "meanings_de": ["Bewertungsprozess"],
+    "definitions_de": ["Prozess der Bewertung oder Einschätzung der Art, Qualität oder Fähigkeit von jemandem oder etwas"],
+    "examples_de": [["Die Lehrerin führte **Bewertungen** für alle dreißig Schüler durch", "Die Immobilien**bewertung** bestimmt den jährlich geschuldeten Steuerbetrag"]]
+  },
+  {
+    "lemma": "smile",
+    "meanings_de": ["Gesichtsausdruck"],
+    "definitions_de": ["Gesichtsausdruck, der durch Anspannen der Muskeln in der Nähe des Mundes entsteht und Freude oder Belustigung zeigt"],
+    "examples_de": [["Ihr warmes **Lächeln** erhellte sofort den Tag aller", "Der Fotograf bat alle, natürlich zu **lächeln**"]]
+  },
+  {
+    "lemma": "cash",
+    "meanings_de": ["physisches Geld"],
+    "definitions_de": ["Geld in Münzen oder Scheinen im Unterschied zu Schecks oder elektronischen Zahlungen"],
+    "examples_de": [["Sie zahlt lieber mit **Bargeld** als mit Karten", "Das Geschäft bietet Rabatte nur für **Barzahlungen** an"]]
+  },
+  {
+    "lemma": "pound",
+    "meanings_de": ["Gewichtseinheit", "Währungseinheit", "Tierheim"],
+    "definitions_de": ["Gewichtseinheit gleich sechzehn Unzen oder 453,6 Gramm", "grundlegende Währungseinheit des Vereinigten Königreichs und mehrerer anderer Länder", "Einrichtung, in der streunende Tiere gehalten werden, bis sie abgeholt oder adoptiert werden"],
+    "examples_de": [["Das Paket wiegt genau fünf **Pfund** einschließlich Verpackung", "Sie verlor zwanzig **Pfund** durch Diät und Bewegung"], ["Der Artikel kostet fünfzig **Pfund** in britischer Währung", "Wechselkurse beeinflussen den internationalen Wert des **Pfunds** erheblich"], ["Sie adoptierten ihren Hund aus dem örtlichen **Tierheim**", "Das **Tierheim** hält Tiere mindestens sieben Tage"]]
+  },
+  {
+    "lemma": "pair",
+    "meanings_de": ["zwei zusammen", "Paar"],
+    "definitions_de": ["Satz von zwei Dingen, die zusammen verwendet oder als Einheit betrachtet werden", "zwei Personen, die in irgendeiner Weise verwandt sind oder zusammen betrachtet werden"],
+    "examples_de": [["Sie kaufte ein neues **Paar** Laufschuhe", "Dieses **Paar** Scheren muss vor Gebrauch geschärft werden"], ["Das **Paar** arbeitete gemeinsam am Forschungsprojekt", "Was für ein schönes **Paar** sie auf Partys abgeben"]]
+  },
+  {
+    "lemma": "loan",
+    "meanings_de": ["geliehenes Geld", "vorübergehende Nutzung"],
+    "definitions_de": ["Geldsumme, die geliehen und voraussichtlich mit Zinsen zurückgezahlt wird", "Handlung, etwas zur vorübergehenden Nutzung durch eine andere Person zu verleihen"],
+    "examples_de": [["Sie beantragten einen **Kredit**, um ihr Haus zu kaufen", "Studenten**kredite** helfen Millionen bei der Finanzierung der Hochschulbildung"], ["Das Museum erhielt seltene Artefakte als internationale **Leihgabe**", "Die Bibliothek erlaubt Buch**ausleihen** für drei Wochen"]]
+  },
+  {
+    "lemma": "village",
+    "meanings_de": ["kleine Siedlung"],
+    "definitions_de": ["kleine Gemeinschaft oder Gruppe von Häusern in ländlicher Gegend, kleiner als eine Stadt"],
+    "examples_de": [["Das **Dorf** feiert jedes Jahr im Herbst das Erntefest", "Ihr **Dorf** hat jahrhundertelang traditionelle Bräuche bewahrt"]]
+  },
+  {
+    "lemma": "half",
+    "meanings_de": ["gleicher Teil", "unvollständiger Teil"],
+    "definitions_de": ["einer von zwei gleichen Teilen, in die etwas geteilt ist", "Teil von etwas, der ungefähr, aber nicht genau gleich ist"],
+    "examples_de": [["Schneiden Sie den Apfel in der **Hälfte** zum gleichmäßigen Teilen", "Sie erbte die **Hälfte** des Grundstücks ihrer Großmutter"], ["Wir sind erst zur **Hälfte** mit der Projektarbeit fertig", "Das Glas stand **halb** leer auf dem Tisch"]]
+  },
+  {
+    "lemma": "suit",
+    "meanings_de": ["passende Kleidung", "Rechtsstreit", "Kartenkategorie"],
+    "definitions_de": ["Satz Oberbekleidung aus demselben Stoff, bestehend aus Jacke und Hose oder Rock", "Gerichtsverfahren, das von einer Partei gegen eine andere vor Gericht eingeleitet wird", "eine der vier Kartengruppen, die durch ihre Symbole unterschieden werden"],
+    "examples_de": [["Er trug seinen besten **Anzug** zum Vorstellungsgespräch", "Der Business-**Anzug** ist in letzter Zeit weniger formell geworden"], ["Sie reichten eine **Klage** gegen das Unternehmen auf Schadensersatz ein", "Die **Klage** wurde letzten Monat außergerichtlich beigelegt"], ["Herz ist die höchste **Farbe** in diesem Spiel", "Sie sammelte alle Karten derselben **Farbe**"]]
+  },
+  {
+    "lemma": "meaning",
+    "meanings_de": ["Bedeutung", "Definition"],
+    "definitions_de": ["was mit einem Wort, Text, Konzept oder einer Handlung gemeint ist und Wichtigkeit impliziert", "Definition oder Sinn eines Wortes, einer Phrase oder eines Symbols in der Sprache"],
+    "examples_de": [["Die **Bedeutung** des Lebens bleibt die größte philosophische Frage der Menschheit", "Ihre Worte trugen eine tiefere **Bedeutung**, als zunächst offensichtlich war"], ["Schlagen Sie die **Bedeutung** unbekannter Wörter beim Lesen nach", "Manche Wörter haben je nach Kontext mehrere **Bedeutungen**"]]
+  },
+  {
+    "lemma": "supply",
+    "meanings_de": ["verfügbare Menge", "Bereitstellungsakt"],
+    "definitions_de": ["Bestand oder Menge von etwas, das zur Verwendung bei Bedarf verfügbar ist", "Handlung, etwas bereitzustellen, das von jemandem gewünscht oder benötigt wird"],
+    "examples_de": [["Der **Vorrat** an Frischwasser nahm während der Dürre ab", "Medizinische **Vorräte** kamen heute Morgen im Krankenhaus an"], ["Sie **liefern** täglich Bio-Gemüse an lokale Restaurants", "Das Unternehmen wird alle notwendigen Geräte umgehend **liefern**"]]
+  },
+  {
+    "lemma": "honey",
+    "meanings_de": ["süße Substanz", "Kosewort"],
+    "definitions_de": ["süße, klebrige, gelblich-braune Flüssigkeit, die Bienen aus Blütennektar herstellen", "informelle Art, jemanden anzusprechen, den man sehr liebt oder mag"],
+    "examples_de": [["Sie fügte **Honig** zu ihrem Tee für die Süße hinzu", "Lokaler **Honig** hilft manchen Menschen bei saisonalen Allergien"], ["**Schatz**, könntest du bitte das Salz reichen", "Danke, dass du beim Abendessen geholfen hast, **Schatz**, ich schätze es"]]
+  },
+  {
+    "lemma": "bone",
+    "meanings_de": ["Skelettgewebe"],
+    "definitions_de": ["hartes, weißliches Gewebe, das das Skelett bei Menschen und Wirbeltieren bildet"],
+    "examples_de": [["Das Röntgenbild zeigte einen kleinen Bruch im **Knochen**", "Kalzium hilft, starke, gesunde **Knochen** ein Leben lang zu erhalten"]]
+  },
+  {
+    "lemma": "consequence",
+    "meanings_de": ["Ergebnis oder Wirkung"],
+    "definitions_de": ["Ergebnis oder Wirkung einer Handlung oder eines Zustands, besonders wenn unerwünscht oder unangenehm"],
+    "examples_de": [["Jede Handlung hat **Konsequenzen**, ob sofort oder verzögert", "Die Umwelt**folgen** der Verschmutzung betreffen zukünftige Generationen"]]
+  },
+  {
+    "lemma": "regulation",
+    "meanings_de": ["offizielle Regel", "Kontrollprozess"],
+    "definitions_de": ["Regel oder Anweisung, die von einer Behörde erstellt und aufrechterhalten wird", "Handlung oder Prozess der Regulierung oder des Reguliertwerdens durch Kontrolle"],
+    "examples_de": [["Neue Sicherheits**vorschriften** erfordern zusätzliche Schulungen für Arbeiter", "Die **Verordnung** verbietet das Parken während der Straßenreinigung"], ["Die Temperatur**regelung** hält das Gebäude das ganze Jahr über komfortabel", "Die **Regulierung** des Blutzuckers umfasst mehrere Körpersysteme"]]
+  },
+  {
+    "lemma": "award",
+    "meanings_de": ["Preis oder Ehre", "rechtliche Entscheidung"],
+    "definitions_de": ["Preis oder andere Anerkennung, die für eine Leistung vergeben wird", "Geldbetrag, der als Ergebnis eines Gerichtsurteils oder Schiedsverfahrens gezahlt wird"],
+    "examples_de": [["Sie erhielt gestern Abend den **Preis** für die beste Schauspielerin", "Der Wissenschafts**preis** würdigt jährlich herausragende Forschungsbeiträge"], ["Das Gerichts**urteil** entschädigte die Opfer für ihre Verluste", "Der Schiedsspruch beendete schließlich den lang andauernden Streit"]]
+  },
+  {
+    "lemma": "bottom",
+    "meanings_de": ["unterster Teil", "Gesäß"],
+    "definitions_de": ["niedrigster Punkt oder Teil von etwas unter allen anderen", "Gesäß einer Person oder der Teil, auf dem man sitzt"],
+    "examples_de": [["Die Schlüssel fielen auf den **Boden** ihrer Handtasche", "Schwerere Gegenstände sinken zum **Grund** des Wassers"], ["Das Kleinkind fiel und landete auf seinem **Hintern**", "Bitte bleiben Sie während des Starts auf Ihrem **Hintern** sitzen"]]
+  },
+  {
+    "lemma": "classroom",
+    "meanings_de": ["Unterrichtsraum"],
+    "definitions_de": ["Raum in einer Schule oder Hochschule, in dem Unterricht für Schüler stattfindet"],
+    "examples_de": [["Die Schüler betraten das **Klassenzimmer** leise vor Unterrichtsbeginn", "Das **Klassenzimmer** wurde kürzlich mit neuen interaktiven Whiteboards ausgestattet"]]
+  },
+  {
+    "lemma": "reference",
+    "meanings_de": ["Erwähnung oder Zitat", "konsultierte Quelle", "Empfehlung"],
+    "definitions_de": ["Handlung, etwas in Rede oder Schrift zu erwähnen oder darauf anzuspielen", "Informationsquelle, die in Forschung oder akademischer Arbeit zitiert wird", "Aussage über den Charakter oder die Qualifikationen einer Person, typischerweise für eine Anstellung"],
+    "examples_de": [["Seine Rede machte **Anspielungen** auf aktuelle politische Ereignisse", "Der **Verweis** auf klassische Literatur verstärkte ihr Argument"], ["Überprüfen Sie die **Literaturangaben** am Ende jedes Kapitels", "Akademische Arbeiten erfordern ordnungsgemäße **Quellenangaben** für alle Quellen"], ["Ihr ehemaliger Arbeitgeber stellte ein ausgezeichnetes **Referenzschreiben** aus", "Die meisten Jobs erfordern mindestens zwei professionelle **Referenzen**"]]
+  },
+  {
+    "lemma": "lunch",
+    "meanings_de": ["Mittagsmahlzeit"],
+    "definitions_de": ["Mahlzeit, die in der Mitte des Tages gegessen wird, typischerweise zwischen Frühstück und Abendessen"],
+    "examples_de": [["Lass uns zum **Mittagessen** im neuen Restaurant treffen", "Sie packte heute ein gesundes **Mittagessen** für die Arbeit ein"]]
+  },
+  {
+    "lemma": "ad",
+    "meanings_de": ["Werbeanzeige"],
+    "definitions_de": ["öffentliche Mitteilung oder Ankündigung zur Bewerbung eines Produkts, einer Dienstleistung oder Veranstaltung, um Interesse zu wecken"],
+    "examples_de": [["Die clevere **Werbekampagne** steigerte den Umsatz um dreißig Prozent", "Sie übersprang die **Werbung** beim Fernsehen"]]
+  },
+  {
+    "lemma": "desire",
+    "meanings_de": ["starkes Verlangen", "sexuelle Anziehung"],
+    "definitions_de": ["starkes Gefühl, etwas haben zu wollen oder sich zu wünschen, dass etwas passiert", "starkes sexuelles Gefühl oder Verlangen nach intimer körperlicher Verbindung"],
+    "examples_de": [["Ihr **Wunsch** zu reisen motivierte jahrelanges Sparen", "Das **Verlangen** nach Wissen treibt wissenschaftliche Entdeckungen voran"], ["Liebesromane erforschen oft Themen von Liebe und **Begehren**", "Körperliches **Verlangen** ist Teil vieler erwachsener Beziehungen"]]
+  },
+  {
+    "lemma": "instruction",
+    "meanings_de": ["Lehrprozess", "detaillierte Anweisung"],
+    "definitions_de": ["Handlung des Lehrens oder Bereitstellens von Informationen darüber, wie etwas zu tun ist", "detaillierte Information, die angibt, wie etwas getan, bedient oder zusammengebaut werden sollte"],
+    "examples_de": [["Der **Unterricht** kleiner Kinder erfordert Geduld und Kreativität", "Sie erhielt fachkundige **Anleitung** in klassischen Klaviertechniken"], ["Befolgen Sie die Montage**anleitung** sorgfältig, um Fehler zu vermeiden", "Das Medikament wird mit detaillierten Gebrauchs**anweisungen** geliefert"]]
+  },
+  {
+    "lemma": "emergency",
+    "meanings_de": ["dringende Situation"],
+    "definitions_de": ["ernste, unerwartete und potenziell gefährliche Situation, die sofortiges Handeln oder Reaktion erfordert"],
+    "examples_de": [["Rufen Sie im medizinischen **Notfall** sofort 112 an", "Die **Notaufnahme** des Krankenhauses ist vierundzwanzig Stunden geöffnet"]]
+  },
+  {
+    "lemma": "thinking",
+    "meanings_de": ["mentaler Prozess", "Meinung oder Urteil"],
+    "definitions_de": ["Prozess, seinen Verstand zu nutzen, um über etwas nachzudenken oder zu überlegen", "Ideen oder Meinungen einer Person zu einem bestimmten Thema oder Problem"],
+    "examples_de": [["Kritisches **Denken** hilft, komplexe Probleme effektiver zu lösen", "Die **Denkfähigkeiten** des Kindes entwickeln sich während der Schuljahre schnell"], ["Die aktuelle **Denkweise** legt nahe, dass ein anderer Ansatz besser funktionieren könnte", "Was ist Ihre **Meinung** zu dieser wichtigen Angelegenheit"]]
+  },
+  {
+    "lemma": "tour",
+    "meanings_de": ["Reise zu Sehenswürdigkeiten", "Dienstzeit"],
+    "definitions_de": ["Vergnügungsreise mit Besuch mehrerer verschiedener Sehenswürdigkeiten", "Dienstzeit oder Dienst, insbesondere Militärdienst an einem bestimmten Ort"],
+    "examples_de": [["Die **Tour** umfasste Besuche in fünf europäischen Hauptstädten", "Sie arbeitet während der Sommermonate als **Reiseführerin**"], ["Sein **Einsatz** dauerte achtzehn Monate im Ausland", "Die **Tournee** der Band umfasste vierzig Städte in Amerika"]]
+  },
+  {
+    "lemma": "moon",
+    "meanings_de": ["natürlicher Satellit"],
+    "definitions_de": ["natürlicher Satellit der Erde, sichtbar als helle Scheibe am Nachthimmel"],
+    "examples_de": [["Der Voll**mond** beleuchtete den Weg durch den Wald", "Alte Kulturen erstellten Kalender basierend auf **Mond**phasen"]]
+  },
+  {
+    "lemma": "address",
+    "meanings_de": ["Standortdetails", "formelle Rede"],
+    "definitions_de": ["Details des Ortes, an dem jemand wohnt oder eine Organisation ansässig ist", "formelle Rede, die bei besonderer Gelegenheit oder zu einem Thema vor Publikum gehalten wird"],
+    "examples_de": [["Bitte schreiben Sie Ihre **Adresse** deutlich auf den Umschlag", "Sie zogen letzten Monat an eine neue **Adresse**"], ["Die **Ansprache** des Präsidenten konzentrierte sich auf wirtschaftliche Erholungspläne", "Sie hielt die Abschluss**rede** vor achthundert Studenten"]]
+  },
+  {
+    "lemma": "december",
+    "meanings_de": ["zwölfter Monat"],
+    "definitions_de": ["zwölfter und letzter Monat des Jahres im gregorianischen Kalender"],
+    "examples_de": [["Der **Dezember** bringt jährlich kaltes Wetter in nördliche Regionen", "Viele Feiertage werden weltweit im **Dezember** gefeiert"]]
+  },
+  {
+    "lemma": "chicken",
+    "meanings_de": ["Hausgeflügel", "Feigling"],
+    "definitions_de": ["Hausgeflügel, das für Eier oder Fleisch gehalten wird und vom Dschungelhuhn abstammt", "Person, der es an Mut mangelt oder die sich leicht vor Dingen fürchtet"],
+    "examples_de": [["Der Bauer sammelte frische Eier aus dem **Hühnerstall**", "Gebratenes **Hähnchen** ist ein beliebtes Sonntagsessen"], ["Sei kein solcher **Angsthase**, wenn es darum geht, neue Dinge auszuprobieren", "Er nannte mich **feige**, weil ich die Herausforderung ablehnte"]]
+  },
+  {
+    "lemma": "fuel",
+    "meanings_de": ["Energiequelle"],
+    "definitions_de": ["Material wie Kohle, Gas oder Öl, das verbrannt wird, um Wärme oder Energie zu erzeugen"],
+    "examples_de": [["Steigende **Kraftstoffpreise** beeinflussen die Transportkosten landesweit erheblich", "Alternative **Brennstoffe** könnten die Umweltverschmutzung im Laufe der Zeit reduzieren"]]
+  },
+  {
+    "lemma": "abuse",
+    "meanings_de": ["grausame Behandlung", "unsachgemäße Verwendung"],
+    "definitions_de": ["grausame und gewalttätige Behandlung einer Person oder eines Tieres, die Schaden verursacht", "unsachgemäße Verwendung von etwas auf eine Weise, die Schaden oder Schäden verursacht"],
+    "examples_de": [["Kinder**misshandlung** erfordert sofortiges Eingreifen durch Schutzdienste", "Das Frauenhaus hilft Opfern, häuslicher **Gewalt** zu entkommen"], ["Drogen**missbrauch** kann zu ernsthaften gesundheitlichen Komplikationen führen", "Der **Missbrauch** von Macht durch Beamte untergräbt das öffentliche Vertrauen"]]
+  }
+]

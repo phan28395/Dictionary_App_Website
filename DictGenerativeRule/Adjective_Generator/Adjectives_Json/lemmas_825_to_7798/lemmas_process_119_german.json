@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "unrequited",
+    "meanings_de": ["emotional nicht erwidert"],
+    "definitions_de": ["bezeichnet Liebe oder Gefühle, die von der Person, an die sie gerichtet sind, nicht erwidert oder zurückgegeben werden, wodurch eine einseitige emotionale Verbindung entsteht"],
+    "examples_de": [["Seine **unerwiderte** Liebe zu ihr überdauerte die gesamte Studienzeit", "In ihrem Tagebuch schrieb sie Gedichte über **unerwiderte** Gefühle"]]
+  },
+  {
+    "lemma": "unreserved",
+    "meanings_de": ["vollständig und bedingungslos", "nicht reserviert"],
+    "definitions_de": ["ohne jeden Zweifel, Einschränkung oder Zurückhaltung im Ausdruck oder in der Verpflichtung, wobei völlige Offenheit und Ehrlichkeit gezeigt wird", "nicht im Voraus für eine bestimmte Person oder einen bestimmten Zweck zurückgehalten oder gebucht"],
+    "examples_de": [["Sie gab ihre **uneingeschränkte** Unterstützung für die neue Richtlinie", "Das Team erhielt **vorbehaltloses** Lob vom Management"], ["Nur **nicht reservierte** Plätze waren noch für das Konzert verfügbar", "Das Restaurant hatte mehrere **freie** Tische für spontane Gäste"]]
+  },
+  {
+    "lemma": "unresolved",
+    "meanings_de": ["nicht geklärt oder entschieden"],
+    "definitions_de": ["beschreibt ein Problem, eine Frage oder einen Streit, der noch nicht endgültig beantwortet oder beigelegt wurde und weiterhin offene Punkte aufweist"],
+    "examples_de": [["Der **ungelöste** Konflikt zwischen den Nachbarn dauerte jahrelang an", "Nach dem Meeting blieben mehrere **ungeklärte** Fragen offen"]]
+  },
+  {
+    "lemma": "unresponsive",
+    "meanings_de": ["nicht reagierend oder antwortend"],
+    "definitions_de": ["zeigt keine Reaktion auf etwas oder versäumt es zu reagieren, wenn eine Antwort erwartet wird, oft in medizinischen oder kommunikativen Kontexten"],
+    "examples_de": [["Der Patient blieb trotz medizinischer Behandlungsversuche **reaktionslos**", "Der Kundenservice war **nicht ansprechbar** auf unsere wiederholten Beschwerden"]]
+  },
+  {
+    "lemma": "unrestrained",
+    "meanings_de": ["nicht kontrolliert oder begrenzt"],
+    "definitions_de": ["nicht durch Regeln, Selbstkontrolle oder physische Barrieren im Verhalten oder Ausdruck zurückgehalten, wodurch völlige Freiheit in der Äußerung entsteht"],
+    "examples_de": [["Die Kinder zeigten **ungehemmte** Freude bei der Überraschungsparty", "Seine **zügellose** Kritik verärgerte mehrere anwesende Ausschussmitglieder"]]
+  },
+  {
+    "lemma": "unrestricted",
+    "meanings_de": ["ohne Grenzen oder Bedingungen"],
+    "definitions_de": ["nicht durch Regeln, Vorschriften oder Bedingungen eingeschränkt, was völlige Handlungsfreiheit ermöglicht und keinerlei Beschränkungen unterliegt"],
+    "examples_de": [["Der Ausweis gewährte **uneingeschränkten** Zugang zu allen Gebäudebereichen", "Sie genoss **unbegrenzten** Internetzugang in der Bibliothek"]]
+  },
+  {
+    "lemma": "unripe",
+    "meanings_de": ["nicht vollständig ausgereift"],
+    "definitions_de": ["beschreibt Früchte oder Feldfrüchte, die noch nicht die volle Reife zum Verzehr erreicht haben und daher meist hart, sauer oder ungenießbar sind"],
+    "examples_de": [["Die **unreifen** Bananen waren noch grün und hart", "Der Verzehr **unreifer** Tomaten kann Magenprobleme verursachen"]]
+  },
+  {
+    "lemma": "unrivaled",
+    "meanings_de": ["ohne ebenbürtigen Konkurrenten"],
+    "definitions_de": ["besser als alle anderen, wobei niemand in der Lage ist, in Qualität, Leistung oder Exzellenz gleichzuziehen oder zu übertreffen"],
+    "examples_de": [["Ihre **unvergleichliche** Expertise machte sie zur gefragtesten Beraterin", "Das Restaurant bietet eine **konkurrenzlose** Aussicht auf das Meer"]]
+  },
+  {
+    "lemma": "unruly",
+    "meanings_de": ["schwer zu kontrollieren"],
+    "definitions_de": ["unordentlich und störend, reagiert nicht auf Disziplin oder Kontrollversuche und zeigt widerspenstiges Verhalten gegenüber Autoritäten"],
+    "examples_de": [["Die Lehrerin kämpfte täglich mit mehreren **widerspenstigen** Schülern", "Ihre **unbändigen** Haare weigerten sich, an Ort und Stelle zu bleiben"]]
+  },
+  {
+    "lemma": "unsafe",
+    "meanings_de": ["gefährlich oder riskant"],
+    "definitions_de": ["nicht sicher vor Gefahr, Schaden oder Risiko für Gesundheit oder Sicherheit, wobei eine erhöhte Wahrscheinlichkeit für Verletzungen besteht"],
+    "examples_de": [["Die alte Brücke wurde für **unsicher** für Fahrzeuge erklärt", "Nachts alleine zu gehen fühlte sich in dieser Gegend **gefährlich** an"]]
+  },
+  {
+    "lemma": "unsanctioned",
+    "meanings_de": ["nicht offiziell genehmigt"],
+    "definitions_de": ["ohne offizielle Erlaubnis, Genehmigung oder Zustimmung von den zuständigen Behörden oder verantwortlichen Stellen durchgeführt"],
+    "examples_de": [["Der **nicht genehmigte** Protest wurde von der Polizei aufgelöst", "Studenten veranstalteten eine **unerlaubte** Party nach dem Spiel"]]
+  },
+  {
+    "lemma": "unsanitary",
+    "meanings_de": ["nicht sauber oder hygienisch"],
+    "definitions_de": ["nicht sauber oder gesund, wahrscheinlich Krankheiten durch mangelnde Sauberkeit verursachend und hygienische Standards nicht erfüllend"],
+    "examples_de": [["Das Restaurant wurde wegen **unhygienischer** Küchenbedingungen geschlossen", "**Unsaubere** Wasserquellen verbreiteten Krankheiten im Dorf"]]
+  },
+  {
+    "lemma": "unsatisfactory",
+    "meanings_de": ["nicht gut genug"],
+    "definitions_de": ["nicht den Anforderungen oder Erwartungen entsprechend, unzureichend in Qualität oder Leistung und daher als mangelhaft bewertet"],
+    "examples_de": [["Seine **unbefriedigende** Leistung führte zu einem Verwarnungsschreiben", "Das Hotelzimmer war bei der Ankunft in **unzureichendem** Zustand"]]
+  },
+  {
+    "lemma": "unsatisfied",
+    "meanings_de": ["nicht zufrieden oder erfüllt"],
+    "definitions_de": ["das Gefühl habend, dass etwas unzureichend ist oder mehr wünschend als das, was erhalten wurde, wobei ein Mangel an Befriedigung empfunden wird"],
+    "examples_de": [["Kunden gingen **unzufrieden** wegen der schlechten Servicequalität", "Sie blieb **unbefriedigt** trotz Erreichung ihrer Karriereziele"]]
+  },
+  {
+    "lemma": "unsatisfying",
+    "meanings_de": ["keine Befriedigung bietend"],
+    "definitions_de": ["versagend darin, Befriedigung zu geben oder Erwartungen zu erfüllen, wodurch man mehr wünschend zurückgelassen wird"],
+    "examples_de": [["Der Film hatte ein **unbefriedigenes** Ende, das die Zuschauer enttäuschte", "Er fand das Essen **nicht sättigend** und fühlte sich noch hungrig"]]
+  },
+  {
+    "lemma": "unsavory",
+    "meanings_de": ["unangenehm oder geschmacklos", "moralisch anstößig"],
+    "definitions_de": ["unangenehm zu schmecken, riechen oder auf irgendeine Weise daran zu denken, wobei Widerwillen hervorgerufen wird", "unehrliches oder moralisch fragwürdiges Verhalten beinhaltend, das Missbilligung hervorruft und gesellschaftlich nicht akzeptiert wird"],
+    "examples_de": [["Der **widerliche** Geruch kam von den Mülltonnen draußen", "Das Restaurant servierte eine **unappetitliche** Geschmackskombination"], ["Er hatte einen **zweifelhaften** Ruf in der Geschäftswelt", "Die Polizei untersuchte ihre **anrüchigen** Verbindungen zu kriminellen Organisationen"]]
+  },
+  {
+    "lemma": "unscathed",
+    "meanings_de": ["ohne Schaden oder Verletzung"],
+    "definitions_de": ["aus einer gefährlichen oder schwierigen Situation hervorgehend, ohne irgendeine Verletzung oder Schaden erlitten zu haben"],
+    "examples_de": [["Sie kam **unverletzt** aus dem Autounfall heraus", "Das Gebäude überstand das Erdbeben **unbeschädigt** und strukturell intakt"]]
+  },
+  {
+    "lemma": "unscheduled",
+    "meanings_de": ["nicht im Voraus geplant"],
+    "definitions_de": ["geschehend ohne geplant zu sein oder in einen Zeitplan oder Fahrplan aufgenommen zu sein, oft spontan oder aufgrund unvorhergesehener Umstände"],
+    "examples_de": [["Das Flugzeug machte einen **außerplanmäßigen** Stopp wegen des Wetters", "Ein **ungeplantes** Meeting unterbrach unsere Nachmittagsarbeitspläne"]]
+  },
+  {
+    "lemma": "unscientific",
+    "meanings_de": ["nicht wissenschaftlichen Methoden folgend"],
+    "definitions_de": ["nicht auf wissenschaftlichen Methoden, Prinzipien oder rigorosem systematischem Ansatz basierend oder diese verwendend"],
+    "examples_de": [["Sein **unwissenschaftlicher** Ansatz verließ sich auf Vermutungen und Annahmen", "Die Studie wurde für **unwissenschaftliche** Datenerhebungsmethoden kritisiert"]]
+  },
+  {
+    "lemma": "unscripted",
+    "meanings_de": ["nicht im Voraus geschrieben"],
+    "definitions_de": ["gesprochen oder aufgeführt ohne ein vorbereitetes Drehbuch, was spontanen Ausdruck und natürliche Kommunikation ermöglicht"],
+    "examples_de": [["Die **improvisierten** Kommentare des Schauspielers überraschten den Talkshow-Moderator", "Sie bevorzugten **spontane** Gespräche gegenüber formellen vorbereiteten Reden"]]
+  },
+  {
+    "lemma": "unscrupulous",
+    "meanings_de": ["ohne moralische Prinzipien"],
+    "definitions_de": ["bereit, unehrlich oder unfair zu handeln, um Ziele ohne moralische Prinzipien oder ethische Bedenken zu erreichen"],
+    "examples_de": [["Der **skrupellose** Geschäftsmann betrog wiederholt seine Partner", "**Gewissenlose** Kreditgeber nutzten verzweifelte Kreditnehmer aus"]]
+  },
+  {
+    "lemma": "unsealed",
+    "meanings_de": ["nicht verschlossen oder gesichert"],
+    "definitions_de": ["geöffnet worden seiend oder nicht mit einem Siegel oder einer Befestigung verschlossen, wodurch der Inhalt zugänglich wird"],
+    "examples_de": [["Der **unversiegelte** Umschlag war bereits von jemandem gelesen worden", "Wasser leckte während des starken Regens durch das **undichte** Fenster"]]
+  },
+  {
+    "lemma": "unsecured",
+    "meanings_de": ["nicht geschützt oder garantiert", "nicht fest befestigt"],
+    "definitions_de": ["ohne Sicherheitsmaßnahmen, Sicherheiten oder Schutz vor unbefugtem Zugriff oder Verlust, wodurch Verwundbarkeit entsteht", "nicht befestigt, festgebunden oder fest an Ort und Stelle gehalten"],
+    "examples_de": [["Der **ungesicherte** Kredit hatte einen höheren Zinssatz", "Hacker griffen problemlos auf das **ungeschützte** WLAN-Netzwerk zu"], ["Die **ungesicherte** Ladung verschob sich gefährlich während des Transports", "Eine **nicht befestigte** Leiter fiel herunter und verletzte einen Arbeiter"]]
+  },
+  {
+    "lemma": "unseen",
+    "meanings_de": ["nicht sichtbar oder bemerkt"],
+    "definitions_de": ["von niemandem gesehen oder beobachtet, verborgen vor Blick oder Aufmerksamkeit bleibend und dadurch unentdeckt"],
+    "examples_de": [["Eine **unsichtbare** Kraft schien Gegenstände zu bewegen", "Das Problem blieb **unbemerkt** bis die Inspektion es aufdeckte"]]
+  },
+  {
+    "lemma": "unselfish",
+    "meanings_de": ["andere vor sich selbst stellend"],
+    "definitions_de": ["bereit, die Bedürfnisse und Wünsche anderer Menschen vor die eigenen Interessen zu stellen und dabei Selbstlosigkeit zu zeigen"],
+    "examples_de": [["Ihre **selbstlose** Hingabe an die Wohltätigkeit inspirierte viele Freiwillige", "Der Spieler machte einen **uneigennützigen** Pass, um Teamkollegen beim Punkten zu helfen"]]
+  },
+  {
+    "lemma": "unsettled",
+    "meanings_de": ["nicht gelöst oder entschieden", "emotional aufgewühlt", "wechselhaft oder unsicher"],
+    "definitions_de": ["noch nicht endgültig gelöst, entschieden oder vereinbart, wobei offene Fragen bestehen bleiben", "sich ängstlich, besorgt oder beunruhigt über etwas fühlend, oft mit innerem Unbehagen", "wahrscheinlich häufig wechselnd, besonders in Bezug auf Wetterbedingungen oder Marktsituationen"],
+    "examples_de": [["Mehrere **ungeklärte** Streitigkeiten bestanden zwischen den beiden Ländern", "Die **ungelöste** Klage zog sich durch mehrere Gerichtsverhandlungen"], ["Sie fühlte sich **beunruhigt** nach den verstörenden Nachrichten", "Die seltsamen Geräusche ließen alle tief **verunsichert** zurück"], ["Das **wechselhafte** Wetter brachte abwechselnd Regen und Sonnenschein", "Die Märkte blieben **unbeständig** aufgrund wirtschaftlicher Unsicherheit"]]
+  },
+  {
+    "lemma": "unsightly",
+    "meanings_de": ["unangenehm anzusehen"],
+    "definitions_de": ["unangenehm oder hässlich anzusehen, visuelles Missfallen oder ästhetischen Anstoß verursachend und das Gesamtbild störend"],
+    "examples_de": [["Der **hässliche** Müllhaufen ruinierte das Erscheinungsbild der Nachbarschaft", "Sie bedeckte die **unschöne** Narbe jeden Tag mit Make-up"]]
+  },
+  {
+    "lemma": "unsigned",
+    "meanings_de": ["ohne Unterschrift", "nicht unter Vertrag"],
+    "definitions_de": ["keine Unterschrift habend, wo normalerweise eine erforderlich oder erwartet wird, wodurch die Gültigkeit beeinträchtigt sein kann", "keinen Vertrag unterzeichnet habend, besonders im Sport- oder Unterhaltungsbereich"],
+    "examples_de": [["Der **nicht unterschriebene** Scheck konnte bei der Bank nicht eingelöst werden", "Mehrere **unsignierte** Dokumente verzögerten den Abschlussprozess"], ["Der talentierte **vertragslose** Künstler trat in lokalen Veranstaltungsorten auf", "Drei **nicht verpflichtete** Spieler nahmen am Trainingslager des Teams teil"]]
+  },
+  {
+    "lemma": "unskilled",
+    "meanings_de": ["ohne spezielle Ausbildung"],
+    "definitions_de": ["keine spezielle Fertigkeit oder Ausbildung für Arbeit oder Aufgaben habend oder erfordernd, meist einfache Tätigkeiten umfassend"],
+    "examples_de": [["**Ungelernte** Arbeiter verdienten Mindestlohn in der Fabrik", "Der Job erforderte nur **ungelernte** Arbeitskräfte für die einfache Montage"]]
+  },
+  {
+    "lemma": "unsold",
+    "meanings_de": ["nicht gekauft oder erworben"],
+    "definitions_de": ["zum Verkauf verfügbar bleibend, weil noch niemand es gekauft hat, oft als Lagerbestand bezeichnet"],
+    "examples_de": [["**Unverkaufte** Ware stapelte sich im Lagerhausbereich", "Die Künstlerin behielt ihre **unverkauften** Gemälde im Atelier"]]
+  },
+  {
+    "lemma": "unsolicited",
+    "meanings_de": ["nicht erbeten"],
+    "definitions_de": ["gegeben oder angeboten ohne vom Empfänger angefordert oder erbeten worden zu sein, oft als aufdringlich empfunden"],
+    "examples_de": [["Sie erhielt ständig **unerbetene** Ratschläge von wohlmeinenden Verwandten", "Das Unternehmen verschickte **unaufgeforderte** E-Mails an Tausende von Adressen"]]
+  },
+  {
+    "lemma": "unsolved",
+    "meanings_de": ["nicht aufgeklärt"],
+    "definitions_de": ["ohne Lösung oder Antwort verbleibend, besonders in Bezug auf Rätsel, Verbrechen oder wissenschaftliche Probleme"],
+    "examples_de": [["Der **ungelöste** Mordfall verfolgte die Ermittler jahrzehntelang", "Mehrere **ungelöste** mathematische Probleme fordern brillante Köpfe weltweit heraus"]]
+  },
+  {
+    "lemma": "unsophisticated",
+    "meanings_de": ["ohne weltliche Erfahrung", "einfach im Design"],
+    "definitions_de": ["weltliche Erfahrung, Verfeinerung oder Komplexität in Art oder Geschmack vermissen lassend, oft naiv wirkend", "nicht kompliziert oder fortgeschritten in Design, Technologie oder Konstruktion, bewusst einfach gehalten"],
+    "examples_de": [["Sein **unverfälschter** Geschmack bevorzugte einfache Hausmannskost", "Die Touristen wirkten **weltfremd** bezüglich lokaler Gepflogenheiten"], ["Das Gerät verwendete **simple** Technologie aus früheren Jahrzehnten", "Ihr **unkomplizierter** Ansatz löste tatsächlich das komplexe Problem"]]
+  },
+  {
+    "lemma": "unsound",
+    "meanings_de": ["nicht zuverlässig oder sicher", "nicht auf Logik basierend"],
+    "definitions_de": ["in schlechtem Zustand befindlich, wahrscheinlich strukturell zusammenbrechend oder versagend", "nicht auf gültigem Denken oder gutem Urteilsvermögen basierend"],
+    "examples_de": [["Der Inspektor erklärte das alte Gebäude für strukturell **marode**", "Die **baufällige** Brücke wurde für jeglichen Verkehr gesperrt"], ["Sein **fragwürdiger** Finanzrat führte zu großen Verlusten", "Die Theorie beruhte auf **unhaltbaren** wissenschaftlichen Prinzipien"]]
+  },
+  {
+    "lemma": "unspeakable",
+    "meanings_de": ["zu schlimm zum Beschreiben"],
+    "definitions_de": ["zu schrecklich, schockierend oder schlimm, um in Worten ausgedrückt zu werden, wobei die Sprache versagt"],
+    "examples_de": [["Die Flüchtlinge erduldeten **unaussprechliche** Schrecken während des Krieges", "Sie bezeugte **unbeschreibliche** Grausamkeit im Internierungslager"]]
+  },
+  {
+    "lemma": "unspecified",
+    "meanings_de": ["nicht klar identifiziert"],
+    "definitions_de": ["nicht klar oder genau angegeben, vage oder undefiniert in Details gelassen, wodurch Interpretationsspielraum entsteht"],
+    "examples_de": [["Der Vertrag erwähnte **nicht spezifizierte** Schäden bei Vertragsverletzungen", "Er verließ das Büro für einen **unbestimmten** Zeitraum"]]
+  },
+  {
+    "lemma": "unspectacular",
+    "meanings_de": ["nicht beeindruckend oder bemerkenswert"],
+    "definitions_de": ["gewöhnlich und nicht besonders beeindruckend, aufregend oder besonderer Aufmerksamkeit würdig, dabei solide aber unauffällig"],
+    "examples_de": [["Das Team lieferte eine **unspektakuläre** aber solide Leistung ab", "Die Verkäufe zeigten **mäßiges** Wachstum während des gesamten Quartals"]]
+  },
+  {
+    "lemma": "unspoiled",
+    "meanings_de": ["nicht beschädigt oder verdorben"],
+    "definitions_de": ["nicht geschädigt, beschädigt oder negativ beeinflusst, den natürlichen oder ursprünglichen Zustand bewahrend"],
+    "examples_de": [["Die Insel blieb **unberührt** von Tourismus oder Bebauung", "Ihre **unverdorbene** Begeisterung machte das Unterrichten jeden Tag lohnenswert"]]
+  },
+  {
+    "lemma": "unspoken",
+    "meanings_de": ["nicht in Worten ausgedrückt"],
+    "definitions_de": ["verstanden oder impliziert ohne offen in Worten oder Sprache ausgedrückt zu werden, durch nonverbale Kommunikation vermittelt"],
+    "examples_de": [["Eine **stillschweigende** Vereinbarung bestand zwischen den alten Freunden", "Ihre **unausgesprochene** Anziehung war für alle Beobachter offensichtlich"]]
+  },
+  {
+    "lemma": "unsportsmanlike",
+    "meanings_de": ["nicht fair spielend"],
+    "definitions_de": ["sich unfair verhaltend oder schlechtes Verhalten zeigend, das dem Geist guter Sportlichkeit und fairen Wettkampfs widerspricht"],
+    "examples_de": [["Der Spieler erhielt eine Strafe für **unsportliches** Verhalten", "Sein **unfaires** Benehmen brachte seine Teamkollegen und den Trainer in Verlegenheit"]]
+  },
+  {
+    "lemma": "unstable",
+    "meanings_de": ["zu plötzlicher Veränderung neigend", "emotional unberechenbar"],
+    "definitions_de": ["wahrscheinlich plötzlich ohne Warnung zu wechseln, zu versagen oder nachzugeben, keine Beständigkeit aufweisend", "zu plötzlichen Stimmungs- oder Geisteszustandsänderungen unvorhersehbar neigend"],
+    "examples_de": [["Die **instabile** Wirtschaft beunruhigte Investoren und Geschäftsinhaber", "Die **labile** chemische Verbindung erforderte vorsichtige Handhabung"], ["Sein **labiles** Verhalten beunruhigte Familie und Freunde", "Sie fühlte sich emotional **instabil** nach der traumatischen Erfahrung"]]
+  },
+  {
+    "lemma": "unsteady",
+    "meanings_de": ["nicht fest oder stabil"],
+    "definitions_de": ["nicht fest in Position gehalten, sich bewegend oder wahrscheinlich von Seite zu Seite bewegend, unsicheren Halt habend"],
+    "examples_de": [["Ihre **zittrigen** Hände machten das Schreiben nach dem Unfall schwierig", "Er ging mit **unsicheren** Schritten nach der langen Krankheit"]]
+  },
+  {
+    "lemma": "unstoppable",
+    "meanings_de": ["unmöglich zu verhindern"],
+    "definitions_de": ["unfähig gestoppt oder davon abgehalten zu werden fortzufahren oder erfolgreich zu sein, unaufhaltsam vorwärts drängend"],
+    "examples_de": [["Das Team schien **unaufhaltsam** nach zehn Siegen in Folge", "Ihre **unbezwingbare** Entschlossenheit führte zu bemerkenswerten Geschäftserfolgen"]]
+  },
+  {
+    "lemma": "unstructured",
+    "meanings_de": ["ohne organisierte Form"],
+    "definitions_de": ["ohne formale Organisation oder systematische Anordnung in Form oder Herangehensweise, flexible Gestaltung ermöglichend"],
+    "examples_de": [["Das **unstrukturierte** Interview ermöglichte natürlichen Gesprächsfluss", "Kinder genossen **freie** Spielzeit während des Sommercamps"]]
+  },
+  {
+    "lemma": "unsubstantiated",
+    "meanings_de": ["nicht mit Beweisen belegt"],
+    "definitions_de": ["nicht durch Beweise, Fakten oder zuverlässige Zeugenaussagen unterstützt oder bewiesen, ohne fundierte Grundlage"],
+    "examples_de": [["Die Zeitung zog die **unbelegten** Korruptionsvorwürfe zurück", "Die Polizei verwarf die **unbegründeten** Gerüchte als bloßen Klatsch"]]
+  },
+  {
+    "lemma": "unsuccessful",
+    "meanings_de": ["nicht beabsichtigte Ergebnisse erzielend"],
+    "definitions_de": ["versagend darin, das gewünschte Ziel oder beabsichtigte erfolgreiche Ergebnis zu erreichen, ohne den erhofften Erfolg"],
+    "examples_de": [["Seine **erfolglosen** Geschäftsversuche ließen ihn tief entmutigt zurück", "Die **missglückte** Operation erforderte einen zweiten Korrektureingriff"]]
+  },
+  {
+    "lemma": "unsuitable",
+    "meanings_de": ["nicht richtig oder angemessen"],
+    "definitions_de": ["nicht passend oder angemessen für einen bestimmten Zweck, eine Person oder einen Anlass, ungeeignet für die Situation"],
+    "examples_de": [["Das formelle Kleid war **unpassend** für die Strandparty", "Seine aggressive Persönlichkeit machte ihn **ungeeignet** für den Kundendienst"]]
+  },
+  {
+    "lemma": "unsuited",
+    "meanings_de": ["nicht angemessen oder kompatibel"],
+    "definitions_de": ["nicht richtig oder angemessen für etwas, die notwendigen Qualitäten oder Kompatibilität vermissen lassend"],
+    "examples_de": [["Sie waren romantisch völlig **unpassend** füreinander", "Seine Fähigkeiten waren **ungeeignet** für die technischen Jobanforderungen"]]
+  },
+  {
+    "lemma": "unsung",
+    "meanings_de": ["nicht gelobt oder gefeiert"],
+    "definitions_de": ["nicht öffentlich gefeiert oder gelobt trotz Verdienst um Anerkennung für Leistungen, im Verborgenen wirkend"],
+    "examples_de": [["Die **unbesungenen** Helden der Pandemie waren Gesundheitsarbeiter", "Sie blieb eine **verkannte** Mitwirkende am Projekterfolg"]]
+  },
+  {
+    "lemma": "unsupervised",
+    "meanings_de": ["ohne Aufsicht oder Anleitung"],
+    "definitions_de": ["nicht von jemandem in Autorität oder mit Verantwortung beobachtet oder geleitet, ohne direkte Überwachung handelnd"],
+    "examples_de": [["Kinder sollten nicht **unbeaufsichtigt** in der Nähe von Wasser gelassen werden", "Die **unüberwachten** Arbeiter machten gestern mehrere kostspielige Fehler"]]
+  }
+]

@@ -1,0 +1,284 @@
+[
+  {
+    "lemma": "audible",
+    "meanings_de": ["hörbarer Klang"],
+    "definitions_de": ["Geräusch, das laut oder deutlich genug ist, um vom menschlichen Ohr wahrgenommen zu werden"],
+    "examples_de": [["Die Musik war über dem Lärm der Menge kaum **hörbar**", "Sie sprach während der Zeremonie in **hörbarem** Flüsterton"]]
+  },
+  {
+    "lemma": "audio",
+    "meanings_de": ["Tonaufnahme oder -wiedergabe"],
+    "definitions_de": ["Klang, insbesondere wenn er elektronisch aufgezeichnet, übertragen oder wiedergegeben wird"],
+    "examples_de": [["Die **Audioqualität** dieser Aufnahme ist hervorragend", "Wir müssen die **Audiopegel** vor der Übertragung überprüfen"]]
+  },
+  {
+    "lemma": "audiovisual",
+    "meanings_de": ["Material mit Ton und Bild"],
+    "definitions_de": ["Lehr- oder Unterrichtsmaterialien, die sowohl Bild als auch Ton zur Informationsvermittlung nutzen"],
+    "examples_de": [["Die Lehrerin verwendete **audiovisuelle** Hilfsmittel zur Erklärung des Konzepts", "Der Konferenzraum benötigt neue **audiovisuelle** Ausstattung für Präsentationen"]]
+  },
+  {
+    "lemma": "audit",
+    "meanings_de": ["Finanzprüfung", "systematische Überprüfung"],
+    "definitions_de": ["offizielle Prüfung und Verifizierung von Konten und Finanzunterlagen", "systematische Überprüfung oder Bewertung von etwas hinsichtlich Genauigkeit oder Qualität"],
+    "examples_de": [["Das Unternehmen unterzieht sich einer jährlichen **Prüfung** durch externe Wirtschaftsprüfer", "Die Steuer**prüfung** deckte mehrere Unstimmigkeiten in ihren Unterlagen auf"], ["Das Sicherheits**audit** identifizierte mehrere verbesserungsbedürftige Bereiche", "Wir führten eine **Überprüfung** unserer aktuellen Marketingstrategien durch"]]
+  },
+  {
+    "lemma": "audition",
+    "meanings_de": ["Vorsprechen", "Hörvermögen"],
+    "definitions_de": ["praktische Demonstration der Fähigkeiten eines Darstellers, der eine Rolle anstrebt", "der Sinn oder die Fähigkeit des Hörens"],
+    "examples_de": [["Sie hat morgen ein **Vorsprechen** für die Hauptrolle", "Der Regisseur sah während der **Castings** Hunderte von Schauspielern"], ["Der Arzt testete das **Hörvermögen** des Patienten mit verschiedenen Frequenzen", "Sein **Gehör** war nach Jahren lauter Musik beeinträchtigt"]]
+  },
+  {
+    "lemma": "auditor",
+    "meanings_de": ["Wirtschaftsprüfer", "Gasthörer"],
+    "definitions_de": ["Person, die eine Prüfung von Konten oder Finanzunterlagen durchführt", "Person, die einen Kurs besucht, ohne akademische Leistungspunkte zu erhalten"],
+    "examples_de": [["Der **Prüfer** entdeckte Unregelmäßigkeiten in den Spesenberichten", "Ein unabhängiger **Wirtschaftsprüfer** überprüft vierteljährlich unsere Bücher"], ["Mehrere **Gasthörer** nehmen jedes Semester an den Philosophievorlesungen teil", "Als **Gasthörerin** konnte sie Kurse besuchen, aber keine Prüfungen ablegen"]]
+  },
+  {
+    "lemma": "auditorium",
+    "meanings_de": ["große Versammlungshalle"],
+    "definitions_de": ["großer Raum oder Gebäude für öffentliche Versammlungen, Aufführungen oder Vorträge"],
+    "examples_de": [["Die **Aula** der Schule bietet über achthundert Menschen Platz", "Das Konzert findet im städtischen **Auditorium** in der Innenstadt statt"]]
+  },
+  {
+    "lemma": "augmentation",
+    "meanings_de": ["Vergrößerung oder Verstärkung"],
+    "definitions_de": ["Prozess, etwas durch Hinzufügung in Größe, Anzahl oder Stärke zu erweitern"],
+    "examples_de": [["Die **Aufstockung** des Personals half, die Wartezeiten für Kunden zu reduzieren", "Brust**vergrößerung** ist einer der häufigsten kosmetischen Eingriffe"]]
+  },
+  {
+    "lemma": "auntie",
+    "meanings_de": ["informelle Bezeichnung für Tante"],
+    "definitions_de": ["liebevolle oder vertraute Bezeichnung für die Tante oder eine ältere Frau"],
+    "examples_de": [["Meine **Tante** bringt immer die besten Geschenke zu Geburtstagen mit", "Die Kinder nennen ihre Nachbarin aus Respekt **Tante** May"]]
+  },
+  {
+    "lemma": "aunty",
+    "meanings_de": ["informelle Bezeichnung für Tante"],
+    "definitions_de": ["alternative Schreibweise von Auntie, als vertraute Bezeichnung für Tante verwendet"],
+    "examples_de": [["**Tante** Sarah macht den besten Schokoladenkuchen in der Familie", "Die Kinder lieben es, ihre **Tante** am Wochenende zu besuchen"]]
+  },
+  {
+    "lemma": "aura",
+    "meanings_de": ["besondere Atmosphäre", "Energiefeld"],
+    "definitions_de": ["charakteristische Atmosphäre oder Eigenschaft, die eine Person oder Sache zu umgeben scheint", "vermeintliche Ausstrahlung, die den Körper eines Lebewesens umgibt"],
+    "examples_de": [["Sie hatte eine **Aura** von Selbstvertrauen, die alle beeindruckte", "Das alte Herrenhaus hatte eine geheimnisvolle **Ausstrahlung**"], ["Manche Menschen behaupten, sie könnten farbige **Auren** um Personen sehen", "Die Wahrsagerin meinte, meine **Aura** sei heute besonders hell"]]
+  },
+  {
+    "lemma": "aurora",
+    "meanings_de": ["natürliches Lichtphänomen"],
+    "definitions_de": ["natürliches elektrisches Phänomen, das helle Lichter am Himmel in Polnähe erzeugt"],
+    "examples_de": [["Das **Polarlicht** malte grüne Bänder über den nördlichen Himmel", "Touristen reisen nach Alaska, um das **Nordlicht** zu sehen"]]
+  },
+  {
+    "lemma": "austerity",
+    "meanings_de": ["Strenge oder Härte", "wirtschaftliche Einschränkung"],
+    "definitions_de": ["Strenge oder Härte in Verhalten, Haltung oder Erscheinung", "schwierige wirtschaftliche Bedingungen durch staatliche Maßnahmen zur Ausgabenreduzierung"],
+    "examples_de": [["Das Kloster war für seine **Strenge** und einfache Lebensweise bekannt", "Ihre **Schlichtheit** in der Kleidung spiegelte ihre ernste Persönlichkeit wider"], ["Die Regierung verhängte **Sparmaßnahmen** zur Reduzierung des Defizits", "Viele Bürger protestierten gegen die harten **Austeritätspolitiken**"]]
+  },
+  {
+    "lemma": "auteur",
+    "meanings_de": ["Filmregisseur als Künstler"],
+    "definitions_de": ["Filmregisseur, der seine Filme so stark prägt, dass er als deren Autor gilt"],
+    "examples_de": [["Hitchcock gilt als wahrer **Autorenfilmer** des Kinos", "Das Festival feiert **Autorenfilme** aus der ganzen Welt"]]
+  },
+  {
+    "lemma": "authentication",
+    "meanings_de": ["Verifizierungsprozess"],
+    "definitions_de": ["Prozess oder Handlung des Beweisens oder Nachweisens, dass etwas wahr, echt oder gültig ist"],
+    "examples_de": [["Die Zwei-Faktor-**Authentifizierung** bietet zusätzliche Sicherheit für Ihr Konto", "Das Gemälde benötigte eine **Echtheitsprüfung**, bevor die Auktion stattfinden konnte"]]
+  },
+  {
+    "lemma": "authenticity",
+    "meanings_de": ["Eigenschaft des Echtseins"],
+    "definitions_de": ["Qualität des Authentischen, Echten, Wahren oder der eigenen Persönlichkeit oder dem Charakter treu zu sein"],
+    "examples_de": [["Experten stellten die **Echtheit** des antiken Manuskripts in Frage", "Ihre **Authentizität** als Führungsperson verdiente sich den Respekt aller"]]
+  },
+  {
+    "lemma": "authorisation",
+    "meanings_de": ["offizielle Erlaubnis"],
+    "definitions_de": ["offizielle Erlaubnis oder Genehmigung für eine Handlung, besonders von jemandem in Autoritätsposition"],
+    "examples_de": [["Sie benötigen eine **Genehmigung** vom Manager, um auf diese Dateien zuzugreifen", "Die Bank verlangt eine schriftliche **Autorisierung** für große Abhebungen"]]
+  },
+  {
+    "lemma": "authoritarian",
+    "meanings_de": ["Person mit Hang zu strikter Kontrolle"],
+    "definitions_de": ["Person, die an strikten Gehorsam gegenüber Autoritäten auf Kosten persönlicher Freiheit glaubt oder diesen praktiziert"],
+    "examples_de": [["Der **Autokrat** verlangte absoluten Gehorsam von seinen Untergebenen", "Die Geschichte zeigt, dass viele **autoritäre Herrscher** schließlich die öffentliche Unterstützung verlieren"]]
+  },
+  {
+    "lemma": "authoritarianism",
+    "meanings_de": ["System strikter Kontrolle"],
+    "definitions_de": ["Prinzip der blinden Unterwerfung unter Autorität und Unterdrückung individueller Gedanken- oder Handlungsfreiheit"],
+    "examples_de": [["Das Land rutschte nach dem Militärputsch in den **Autoritarismus** ab", "Kritiker warnten vor dem schleichenden **Autoritarismus** in der Regierungspolitik"]]
+  },
+  {
+    "lemma": "authorization",
+    "meanings_de": ["offizielle Erlaubnis"],
+    "definitions_de": ["offizielle Erlaubnis oder Genehmigung für eine Handlung, besonders von jemandem in Autoritätsposition"],
+    "examples_de": [["Sie erhielt die **Genehmigung**, mit dem Projekt fortzufahren", "Die Bestellung erfordert eine **Autorisierung** von zwei Managern"]]
+  },
+  {
+    "lemma": "authorship",
+    "meanings_de": ["Urheberschaft schriftlicher Werke"],
+    "definitions_de": ["Zustand oder Tatsache, der Verfasser eines Buches, Artikels oder Dokuments zu sein"],
+    "examples_de": [["Die **Urheberschaft** des anonymen Briefes bleibt ein Rätsel", "Sie erkannte schließlich die **Autorenschaft** des kontroversen Essays an"]]
+  },
+  {
+    "lemma": "autism",
+    "meanings_de": ["Entwicklungsstörung"],
+    "definitions_de": ["Entwicklungsstörung, die durch Schwierigkeiten bei sozialer Interaktion, Kommunikation und repetitive Verhaltensweisen gekennzeichnet ist"],
+    "examples_de": [["Frühzeitige Intervention kann Kindern mit **Autismus** helfen, wichtige Fähigkeiten zu entwickeln", "Die Schule hat spezielle Programme für Schüler mit **Autismus-Spektrum-Störung**"]]
+  },
+  {
+    "lemma": "autobiography",
+    "meanings_de": ["persönliche Lebensgeschichte"],
+    "definitions_de": ["Bericht über das Leben einer Person, von dieser Person selbst geschrieben"],
+    "examples_de": [["Die **Autobiografie** der Berühmtheit enthüllte viele unbekannte Details", "Sie verbrachte Jahre damit, ihre **Selbstbiografie** nach der Pensionierung zu schreiben"]]
+  },
+  {
+    "lemma": "autocracy",
+    "meanings_de": ["absolutes Herrschaftssystem"],
+    "definitions_de": ["Regierungssystem einer Person mit absoluter Macht über alle anderen"],
+    "examples_de": [["Die Nation wandelte sich nach der Revolution von der **Autokratie** zur Demokratie", "Viele Bürger wurden es müde, unter einer **Alleinherrschaft** zu leben"]]
+  },
+  {
+    "lemma": "autocrat",
+    "meanings_de": ["absoluter Herrscher"],
+    "definitions_de": ["Herrscher, der absolute Macht über ein Land oder eine Organisation hat"],
+    "examples_de": [["Der **Autokrat** regierte das Königreich mit eiserner Faust", "Die Geschichte erinnert sich an ihn als wohlwollenden **Alleinherrscher**, der die Nation modernisierte"]]
+  },
+  {
+    "lemma": "autograph",
+    "meanings_de": ["persönliche Unterschrift", "handschriftliches Dokument"],
+    "definitions_de": ["eigenhändige Unterschrift einer Person, besonders die eines Prominenten für einen Bewunderer", "Manuskript oder Dokument in der eigenen Handschrift des Autors"],
+    "examples_de": [["Fans warteten stundenlang auf das **Autogramm** des Sängers", "Der Baseballspieler gab nach dem Spiel **Autogramme**"], ["Das Museum stellte das **Original** von Lincolns berühmter Rede aus", "Sammler zahlen hohe Preise für historische **Handschriften**"]]
+  },
+  {
+    "lemma": "autoimmunity",
+    "meanings_de": ["selbstangreifende Immunreaktion"],
+    "definitions_de": ["Zustand, bei dem das Immunsystem fälschlicherweise die eigenen gesunden Zellen und Gewebe des Körpers angreift"],
+    "examples_de": [["**Autoimmunität** kann zu verschiedenen chronischen Krankheiten wie Lupus führen", "Forscher untersuchen, was **Autoimmunreaktionen** bei bestimmten Personen auslöst"]]
+  },
+  {
+    "lemma": "automaker",
+    "meanings_de": ["Automobilhersteller"],
+    "definitions_de": ["Unternehmen, das Automobile entwirft, entwickelt, herstellt und verkauft"],
+    "examples_de": [["Der **Autohersteller** kündigte Pläne für neue Elektrofahrzeugmodelle an", "Große **Automobilhersteller** investieren stark in autonome Fahrtechnologie"]]
+  },
+  {
+    "lemma": "automation",
+    "meanings_de": ["automatisches Steuerungssystem"],
+    "definitions_de": ["Einsatz automatischer Ausrüstung und Systeme zur Durchführung von Aufgaben, die zuvor von Menschen erledigt wurden"],
+    "examples_de": [["Die **Automatisierung** der Fabrik hat die Produktionseffizienz erheblich gesteigert", "Das Unternehmen investierte in **Automation**, um die Arbeitskosten zu senken"]]
+  },
+  {
+    "lemma": "automaton",
+    "meanings_de": ["selbstbewegliche Maschine", "mechanisch handelnde Person"],
+    "definitions_de": ["bewegliche mechanische Vorrichtung, die einem Menschen nachempfunden ist", "Person, die auf mechanische oder emotionslose Weise handelt"],
+    "examples_de": [["Der Uhrmacher schuf einen komplizierten **Automaten**, der schreiben konnte", "Die alten Griechen entwarfen **Automaten**, die von Wasser und Dampf angetrieben wurden"], ["Er bewegte sich durch seine tägliche Routine wie ein **Automat**", "Die Arbeiter waren nach Jahren repetitiver Aufgaben zu **Automaten** geworden"]]
+  },
+  {
+    "lemma": "automobile",
+    "meanings_de": ["Kraftfahrzeug"],
+    "definitions_de": ["von einem Motor angetriebenes Straßenfahrzeug, das für den Transport einer kleinen Anzahl von Passagieren konzipiert ist"],
+    "examples_de": [["Das **Automobil** revolutionierte den Transport im zwanzigsten Jahrhundert", "Sie lernte mit sechzehn Jahren, ihr erstes **Auto** zu fahren"]]
+  },
+  {
+    "lemma": "autonomy",
+    "meanings_de": ["Selbstverwaltung", "Unabhängigkeit"],
+    "definitions_de": ["Recht oder Zustand der Selbstverwaltung für ein Land oder eine Region", "Freiheit von externer Kontrolle oder Einfluss bei persönlichen Entscheidungen"],
+    "examples_de": [["Die Region erlangte nach jahrelangen Verhandlungen **Autonomie**", "Die Universität hat **Selbstverwaltung** bei der Festlegung ihrer akademischen Standards"], ["Teenager kämpfen oft um mehr **Unabhängigkeit** von ihren Eltern", "Die **Selbstbestimmung** des Patienten muss bei medizinischen Entscheidungen respektiert werden"]]
+  },
+  {
+    "lemma": "autopilot",
+    "meanings_de": ["automatisches Steuersystem"],
+    "definitions_de": ["Gerät zur automatischen Steuerung von Schiffen, Flugzeugen oder Raumschiffen ohne ständige menschliche Kontrolle"],
+    "examples_de": [["Der Pilot schaltete während des langen Fluges den **Autopiloten** ein", "Moderne Autos verfügen jetzt über fortschrittliche **Autopilot**-Funktionen"]]
+  },
+  {
+    "lemma": "autopsy",
+    "meanings_de": ["Obduktion"],
+    "definitions_de": ["Untersuchung eines toten Körpers zur Bestimmung der Todesursache oder des Krankheitsausmaßes"],
+    "examples_de": [["Die **Obduktion** ergab, dass das Opfer eines natürlichen Todes starb", "Der Gerichtsmediziner führte eine **Autopsie** durch, um Beweise zu sammeln"]]
+  },
+  {
+    "lemma": "autumn",
+    "meanings_de": ["Herbst"],
+    "definitions_de": ["Jahreszeit zwischen Sommer und Winter, wenn Blätter von Bäumen fallen und die Temperaturen kühler werden"],
+    "examples_de": [["Die Blätter verfärben sich im **Herbst** in Neuengland wunderschön", "Wir gehen immer im frühen **Herbst** Äpfel pflücken"]]
+  },
+  {
+    "lemma": "auxiliary",
+    "meanings_de": ["Helfer oder Assistent", "zusätzliche Unterstützung"],
+    "definitions_de": ["Person oder Sache, die ergänzende oder zusätzliche Hilfe und Unterstützung bietet", "Truppen oder Ausrüstung zur Ergänzung der Hauptstreitkräfte"],
+    "examples_de": [["Die Krankenschwester arbeitet als **Hilfskraft** in der Notaufnahme", "Sie trat dem Frauen**verein** am örtlichen Krankenhaus bei"], ["Die Armee rief während der Krise **Hilfstruppen** herbei", "**Hilfsaggregate** liefern Notstrom"]]
+  },
+  {
+    "lemma": "avail",
+    "meanings_de": ["Nutzen oder Vorteil"],
+    "definitions_de": ["Nutzen, Vorteil oder Wert von etwas beim Erreichen eines Zwecks oder Ergebnisses"],
+    "examples_de": [["Unsere Bemühungen waren gegen den Sturm **vergeblich**", "Er versuchte sie zu überzeugen, aber mit wenig **Erfolg**"]]
+  },
+  {
+    "lemma": "avalanche",
+    "meanings_de": ["Schneelawine", "plötzliche überwältigende Menge"],
+    "definitions_de": ["Masse aus Schnee, Eis und Gestein, die schnell einen Berghang hinunterstürzt", "plötzliches Eintreffen oder Auftreten von etwas in überwältigenden Mengen"],
+    "examples_de": [["Die **Lawine** begrub mehrere Häuser am Fuß des Berges", "Skifahrer müssen sich der **Lawinengefahr** im Hinterland bewusst sein"], ["Das Unternehmen erhielt eine **Flut** von Beschwerden nach der Ankündigung", "Eine **Lawine** von E-Mails überflutete ihren Posteingang am Montagmorgen"]]
+  },
+  {
+    "lemma": "avarice",
+    "meanings_de": ["extreme Habgier"],
+    "definitions_de": ["extreme Gier nach Reichtum oder materiellem Gewinn, oft als eine der sieben Todsünden betrachtet"],
+    "examples_de": [["Seine **Habgier** brachte ihn dazu, seine engsten Freunde zu verraten", "Der Roman erforscht, wie **Geldgier** selbst gute Menschen korrumpiert"]]
+  },
+  {
+    "lemma": "avatar",
+    "meanings_de": ["digitale Darstellung", "Inkarnation einer Gottheit"],
+    "definitions_de": ["grafische Darstellung eines Benutzers in einem virtuellen Raum oder Spiel", "Manifestation einer Gottheit oder befreiten Seele in körperlicher Form"],
+    "examples_de": [["Spieler können das Aussehen ihres **Avatars** im Spiel anpassen", "Sie wählte einen Cartoon-**Avatar** für ihr Social-Media-Profil"], ["In der hinduistischen Mythologie hat Vishnu zehn **Avatare**, einschließlich Krishna", "Der Guru galt als **Avatar** eines alten Weisen"]]
+  },
+  {
+    "lemma": "avenger",
+    "meanings_de": ["Person auf Vergeltungssuche"],
+    "definitions_de": ["Person, die Rache nimmt oder jemanden für Fehlverhalten im Namen eines anderen bestraft"],
+    "examples_de": [["Der Held wurde zum **Rächer**, nachdem seine Familie getötet wurde", "In der Geschichte verwandelt sie sich in eine **Rächerin** auf der Suche nach Gerechtigkeit"]]
+  },
+  {
+    "lemma": "aversion",
+    "meanings_de": ["starke Abneigung"],
+    "definitions_de": ["starke Abneigung oder Widerwille gegen etwas, oft begleitet vom Wunsch, es zu vermeiden"],
+    "examples_de": [["Sie hat eine starke **Abneigung** gegen öffentliches Sprechen", "Seine **Aversion** gegen Konflikte ließ ihn alle Streitigkeiten vermeiden"]]
+  },
+  {
+    "lemma": "aviary",
+    "meanings_de": ["Vogelgehege"],
+    "definitions_de": ["großes Gehege oder Gebäude zur Haltung von Vögeln, typischerweise zur Beobachtung, Zucht oder Ausstellung"],
+    "examples_de": [["Die tropische **Voliere** des Zoos beherbergt exotische Vögel aus Regenwäldern", "Sie baute eine kleine **Voliere** in ihrem Hinterhof für Finken"]]
+  },
+  {
+    "lemma": "aviation",
+    "meanings_de": ["Luftfahrtbereich"],
+    "definitions_de": ["Entwurf, Entwicklung, Produktion, Betrieb und Nutzung von Luftfahrzeugen, insbesondere schwerer als Luft"],
+    "examples_de": [["Er studierte **Luftfahrttechnik** an der Fachhochschule", "Die **Luftfahrtindustrie** steht vor neuen Umweltvorschriften"]]
+  },
+  {
+    "lemma": "aviator",
+    "meanings_de": ["Flugzeugpilot"],
+    "definitions_de": ["Person, die ein Flugzeug steuert, besonders als Beruf oder geübtes Hobby"],
+    "examples_de": [["Der **Pilot** führte atemberaubende Kunstflugmanöver bei der Flugschau vor", "Frühe **Flieger** standen in primitiven Flugzeugen vielen Gefahren gegenüber"]]
+  },
+  {
+    "lemma": "avocado",
+    "meanings_de": ["tropische Frucht"],
+    "definitions_de": ["birnenförmige Frucht mit rauer grüner Schale, glattem öligem essbarem Fruchtfleisch und großem Kern"],
+    "examples_de": [["Sie machte frische Guacamole mit reifen **Avocados** und Limette", "**Avocado**-Toast ist zu einer beliebten Frühstücksoption geworden"]]
+  },
+  {
+    "lemma": "avoidance",
+    "meanings_de": ["Akt des Fernhaltens"],
+    "definitions_de": ["Handlung des Fernhaltens von oder Nichtausführens von etwas, besonders absichtlich"],
+    "examples_de": [["Seine **Vermeidung** schwieriger Gespräche schuf mehr Probleme", "Steuer**vermeidung** durch legale Mittel unterscheidet sich von illegaler Steuerhinterziehung"]]
+  }
+]

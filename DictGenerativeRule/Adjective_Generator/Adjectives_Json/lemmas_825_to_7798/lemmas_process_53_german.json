@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "intimidated",
+    "meanings_de": ["eingeschüchtert oder überwältigt"],
+    "definitions_de": ["sich ängstlich oder überwältigt fühlend durch jemanden oder etwas, das als mächtig, bedrohlich oder überlegen wahrgenommen wird, wobei das Selbstvertrauen erheblich beeinträchtigt ist"],
+    "examples_de": [["Der **eingeschüchterte** Zeuge weigerte sich, vor Gericht auszusagen", "Sie fühlte sich durch das umfangreiche Wissen des Professors **eingeschüchtert**"]]
+  },
+  {
+    "lemma": "intimidating",
+    "meanings_de": ["Furcht oder Nervosität verursachend"],
+    "definitions_de": ["Eigenschaften besitzend, die andere Menschen erschrecken, einschüchtern oder nervös und weniger selbstbewusst machen, oft durch Größe, Macht oder Autorität"],
+    "examples_de": [["Seine **einschüchternde** Erscheinung brachte den ganzen Raum zum Schweigen", "Die Prüfungsfragen wirkten auf den ersten Blick **einschüchternd**"]]
+  },
+  {
+    "lemma": "intolerable",
+    "meanings_de": ["nicht zu ertragen"],
+    "definitions_de": ["so extrem schlecht, unangenehm oder schmerzhaft, dass es nicht akzeptiert oder ausgehalten werden kann"],
+    "examples_de": [["Die Hitze wurde am Nachmittag **unerträglich**", "Die Arbeitsbedingungen in der Fabrik waren **untragbar**"]]
+  },
+  {
+    "lemma": "intolerant",
+    "meanings_de": ["Unterschiede nicht akzeptierend", "Substanzen nicht vertragend"],
+    "definitions_de": ["nicht bereit, Ansichten, Überzeugungen oder Verhaltensweisen zu akzeptieren, die von den eigenen abweichen", "unfähig, bestimmte Lebensmittel, Medikamente oder Umweltbedingungen ohne negative Auswirkungen zu essen oder zu ertragen"],
+    "examples_de": [["Seine **intolerante** Haltung entfremdete ihn von seinen Kollegen", "Die **intolerante** Politik der Stadt löste weitreichende Proteste aus"], ["Sie ist **laktoseintolerant** und meidet Milchprodukte", "Meine **intolerante** Reaktion auf Pollen macht den Frühling schwierig"]]
+  },
+  {
+    "lemma": "intoxicated",
+    "meanings_de": ["betrunken oder berauscht", "extrem aufgeregt oder begeistert"],
+    "definitions_de": ["durch Alkohol oder Drogen so beeinflusst, dass die Kontrolle über Fähigkeiten oder Verhalten verloren geht", "emotional so aufgeregt oder begeistert von etwas, dass die normale Zurückhaltung verloren geht"],
+    "examples_de": [["Der **betrunkene** Fahrer wurde am Kontrollpunkt verhaftet", "Er wirkte bereits nach zwei Getränken **alkoholisiert**"], ["Sie war **berauscht** von ihrer neu gewonnenen Freiheit", "Die Menge war vom Sieg **berauscht**"]]
+  },
+  {
+    "lemma": "intoxicating",
+    "meanings_de": ["Trunkenheit verursachend", "extrem aufregend oder berauschend"],
+    "definitions_de": ["Alkohol oder Drogen enthaltend, die jemanden betrunken oder high machen können", "jemanden dazu bringend, die Selbstkontrolle durch Aufregung, Vergnügen oder starke Emotionen zu verlieren"],
+    "examples_de": [["Der Barkeeper weigerte sich, **berauschende** Getränke an Minderjährige auszuschenken", "Der Wein hatte eine **berauschende** Wirkung"], ["Ihr **betörender** Duft erfüllte den ganzen Raum", "Die Bergluft war nach dem Stadtleben **berauschend**"]]
+  },
+  {
+    "lemma": "intractable",
+    "meanings_de": ["schwer zu kontrollieren"],
+    "definitions_de": ["schwer zu kontrollieren, zu verwalten oder zu lösen aufgrund hartnäckigen Widerstands oder inhärenter Komplexität"],
+    "examples_de": [["Der **unlösbare** Konflikt dauert bereits seit Jahrzehnten an", "Sie stand vor einem **hartnäckigen** Problem ohne einfache Lösung"]]
+  },
+  {
+    "lemma": "intramural",
+    "meanings_de": ["innerhalb einer Institution"],
+    "definitions_de": ["innerhalb der Mauern oder Grenzen einer einzelnen Institution, insbesondere einer Schule, existierend oder stattfindend"],
+    "examples_de": [["Studenten nahmen an **hochschulinternen** Basketballturnieren teil", "Die Universität bietet verschiedene **hausinterne** Sportprogramme an"]]
+  },
+  {
+    "lemma": "intransigent",
+    "meanings_de": ["kompromisslos"],
+    "definitions_de": ["sich weigernd, die eigenen Ansichten zu ändern oder einem Kompromiss zuzustimmen, besonders in der Politik"],
+    "examples_de": [["Die **unnachgiebigen** Verhandlungsführer lehnten jeden Lösungsvorschlag ab", "Seine **kompromisslose** Haltung verlängerte den Arbeitskonflikt"]]
+  },
+  {
+    "lemma": "intransitive",
+    "meanings_de": ["kein direktes Objekt nehmend"],
+    "definitions_de": ["ein Verb bezeichnend, das in der Grammatik kein direktes Objekt erfordert oder annimmt"],
+    "examples_de": [["Das Verb 'schlafen' ist im Deutschen **intransitiv**", "Viele **intransitive** Verben beschreiben Zustände des Seins"]]
+  },
+  {
+    "lemma": "intrastate",
+    "meanings_de": ["innerhalb eines Bundesstaates"],
+    "definitions_de": ["innerhalb der Grenzen eines einzelnen Bundesstaates oder einer politischen Untereinheit existierend oder stattfindend"],
+    "examples_de": [["**Innerstaatlicher** Handel fällt unter die Gerichtsbarkeit des Bundesstaates", "Das Unternehmen erweiterte seine **landesinternen** Lieferdienste"]]
+  },
+  {
+    "lemma": "intravenous",
+    "meanings_de": ["in die Venen"],
+    "definitions_de": ["in eine Vene oder Venen verabreicht oder darin vorkommend bei medizinischer Behandlung"],
+    "examples_de": [["Der Patient erhielt während der Operation **intravenöse** Flüssigkeiten", "**Intravenöse** Medikamente wirken schneller als orale Dosen"]]
+  },
+  {
+    "lemma": "intrepid",
+    "meanings_de": ["furchtlos und abenteuerlustig"],
+    "definitions_de": ["Furchtlosigkeit und Ausdauer angesichts von Gefahr oder Schwierigkeiten zeigend"],
+    "examples_de": [["Der **unerschrockene** Forscher wagte sich in unerforschtes Gebiet", "Ihr **mutiger** Geist führte sie dazu, den Mount Everest zu besteigen"]]
+  },
+  {
+    "lemma": "intricate",
+    "meanings_de": ["sehr detailliert und kompliziert"],
+    "definitions_de": ["viele miteinander verbundene Teile oder Facetten habend, die ein komplexes Ganzes bilden und sorgfältige Aufmerksamkeit erfordern"],
+    "examples_de": [["Der Uhrmacher reparierte den **komplizierten** Mechanismus", "Sie webte ein **verschlungenes** Muster in den Wandteppich"]]
+  },
+  {
+    "lemma": "intriguing",
+    "meanings_de": ["Neugier oder Interesse weckend"],
+    "definitions_de": ["Neugier oder Interesse weckend durch ungewöhnliche, geheimnisvolle oder fesselnde Eigenschaften"],
+    "examples_de": [["Der Detektiv fand einen **faszinierenden** Hinweis am Tatort", "Ihr **faszinierender** Vorschlag erregte die Aufmerksamkeit aller"]]
+  },
+  {
+    "lemma": "intrinsic",
+    "meanings_de": ["natürlich oder wesentlich zugehörig"],
+    "definitions_de": ["natürlich oder wesentlich zu etwas als grundlegende Qualität oder Eigenschaft gehörend"],
+    "examples_de": [["Neugier ist ein **intrinsischer** Teil der menschlichen Natur", "Der **innere** Wert des Diamanten überstieg seinen Marktwert"]]
+  },
+  {
+    "lemma": "introductory",
+    "meanings_de": ["als Einführung dienend"],
+    "definitions_de": ["als Einführung in ein Thema, eine Aktivität oder Situation für Anfänger dienend"],
+    "examples_de": [["Studenten müssen zuerst den **einführenden** Kurs absolvieren", "Das Buch enthält ein **einleitendes** Kapitel über die Grundlagen"]]
+  },
+  {
+    "lemma": "introspective",
+    "meanings_de": ["eigene Gedanken untersuchend"],
+    "definitions_de": ["durch die Untersuchung der eigenen Gedanken, Gefühle und mentalen Prozesse gekennzeichnet"],
+    "examples_de": [["Ihre **introspektive** Natur machte sie zu einer hervorragenden Schriftstellerin", "Die Therapie förderte **selbstreflektierendes** Denken"]]
+  },
+  {
+    "lemma": "introverted",
+    "meanings_de": ["schüchtern und nach innen gerichtet"],
+    "definitions_de": ["durch Interesse am eigenen mentalen Leben statt an der äußeren Welt gekennzeichnet"],
+    "examples_de": [["Seine **introvertierte** Persönlichkeit bevorzugte Einzelaktivitäten", "**Introvertierte** Menschen brauchen oft Ruhezeiten zum Aufladen"]]
+  },
+  {
+    "lemma": "intruding",
+    "meanings_de": ["ohne Erlaubnis eindringend"],
+    "definitions_de": ["gewaltsam oder ohne Einladung in einen Ort, eine Situation oder die Angelegenheiten einer Person eindringend"],
+    "examples_de": [["Die **eindringenden** Gedanken störten ihre Konzentration", "Die Sicherheit entfernte die **störenden** Fotografen von der Veranstaltung"]]
+  },
+  {
+    "lemma": "intrusive",
+    "meanings_de": ["unwillkommen und störend"],
+    "definitions_de": ["Störung oder Belästigung verursachend durch unwillkommenes, ungebetenes oder unangemessenes Verhalten"],
+    "examples_de": [["Die **aufdringlichen** Fragen des Nachbarn machten alle unbehaglich", "Pop-up-Werbung ist **aufdringlich** und nervig"]]
+  },
+  {
+    "lemma": "intuitive",
+    "meanings_de": ["auf Instinkt basierend", "leicht zu verstehen"],
+    "definitions_de": ["verwendend oder basierend auf dem, was man ohne bewusstes Nachdenken für wahr hält", "leicht zu verstehen oder zu bedienen ohne explizite Anweisung oder Fachwissen"],
+    "examples_de": [["Ihr **intuitives** Verständnis von Menschen half ihr zum Erfolg", "Gute Mütter haben oft **intuitives** Wissen über ihre Kinder"], ["Die **intuitive** Benutzeroberfläche der Software erfordert keine Schulung", "Das **intuitive** Design machte das Gerät benutzerfreundlich"]]
+  },
+  {
+    "lemma": "inundated",
+    "meanings_de": ["überflutet oder überwältigt"],
+    "definitions_de": ["überwältigt mit Dingen oder Menschen, mit denen man sich befassen muss, buchstäblich oder im übertragenen Sinne überflutet"],
+    "examples_de": [["Das Büro wurde mit Bewerbungen **überschwemmt**", "Starke Regenfälle **überfluteten** die Küstenstädte"]]
+  },
+  {
+    "lemma": "invading",
+    "meanings_de": ["gewaltsam oder feindlich eindringend"],
+    "definitions_de": ["in einen Ort, eine Situation oder einen Tätigkeitsbereich in großer Zahl oder mit Gewalt eindringend"],
+    "examples_de": [["**Eindringende** Armeen überquerten die nördliche Grenze", "Unkraut **drang** in den sorgfältig gepflegten Garten **ein**"]]
+  },
+  {
+    "lemma": "invalid",
+    "meanings_de": ["rechtlich nicht bindend", "durch Krankheit geschwächt"],
+    "definitions_de": ["rechtlich oder offiziell nicht akzeptabel aufgrund falscher Form oder fehlender Befugnis", "durch Krankheit oder Verletzung geschwächt oder behindert, insbesondere dauerhaft"],
+    "examples_de": [["Das Gericht erklärte den Vertrag für **ungültig**", "Sein **abgelaufener** Reisepass hinderte ihn am Reisen"], ["Der **invalide** Soldat benötigte ständige medizinische Betreuung", "Sie pflegte ihre **gebrechliche** Mutter zu Hause"]]
+  },
+  {
+    "lemma": "invalidated",
+    "meanings_de": ["nichtig oder unwirksam gemacht"],
+    "definitions_de": ["rechtlich nichtig gemacht oder als grundlos oder kraftlos erwiesen"],
+    "examples_de": [["Die neuen Beweise **entkräfteten** ihre früheren Schlussfolgerungen", "Ihre Parkberechtigung wurde nach dem Abschluss **ungültig**"]]
+  },
+  {
+    "lemma": "invalidating",
+    "meanings_de": ["nichtig oder ungültig machend"],
+    "definitions_de": ["etwas rechtlich nichtig werden lassend oder beweisend, dass es grundlos ist"],
+    "examples_de": [["Die **entkräftende** Klausel machte die gesamte Vereinbarung wertlos", "Neue Forschung **widerlegt** alte medizinische Theorien"]]
+  },
+  {
+    "lemma": "invaluable",
+    "meanings_de": ["äußerst nützlich oder unentbehrlich"],
+    "definitions_de": ["äußerst nützlich, unentbehrlich oder von einem Wert, der zu groß ist, um berechnet zu werden"],
+    "examples_de": [["Ihr **unschätzbarer** Rat ersparte dem Unternehmen Millionen", "Erfahrung ist **unbezahlbar** bei neuen Herausforderungen"]]
+  },
+  {
+    "lemma": "invariable",
+    "meanings_de": ["niemals verändernd"],
+    "definitions_de": ["sich niemals in Form, Natur oder Wert unter irgendwelchen Umständen oder Bedingungen verändernd"],
+    "examples_de": [["Seine **unveränderliche** Routine beinhaltete morgendlichen Kaffee", "Die Gesetze der Physik sind im ganzen Universum **unveränderlich**"]]
+  },
+  {
+    "lemma": "invasive",
+    "meanings_de": ["sich schädlich ausbreitend", "in den Körper eindringend"],
+    "definitions_de": ["dazu neigend, sich stark und schädlich in Bereiche auszubreiten, wo es nicht erwünscht ist", "die Einführung von Instrumenten oder anderen Objekten in den Körper beinhaltend"],
+    "examples_de": [["**Invasive** Pflanzenarten bedrohen heimische Ökosysteme", "Die **wuchernden** Ranken zerstörten den Garten"], ["Der Arzt empfahl eine weniger **invasive** Behandlungsoption", "**Invasive** Operationen bergen höhere Risiken als Alternativen"]]
+  },
+  {
+    "lemma": "inventive",
+    "meanings_de": ["kreativ und originell"],
+    "definitions_de": ["die Fähigkeit habend, neue Dinge zu erschaffen oder zu entwerfen oder originell zu denken"],
+    "examples_de": [["Ihre **einfallsreichen** Lösungen beeindruckten das Ingenieurteam", "Das **kreative** Menü des Kochs zog Gastrokritiker an"]]
+  },
+  {
+    "lemma": "inverse",
+    "meanings_de": ["entgegengesetzt in Position oder Wirkung"],
+    "definitions_de": ["entgegengesetzt oder gegenteilig in Position, Richtung, Reihenfolge oder Wirkung zu etwas anderem"],
+    "examples_de": [["Temperatur und Druck haben oft **umgekehrte** Beziehungen", "Die **umgekehrte** Pyramidenstruktur stellt Schlussfolgerungen an den Anfang"]]
+  },
+  {
+    "lemma": "invertebrate",
+    "meanings_de": ["ohne Wirbelsäule"],
+    "definitions_de": ["ohne Wirbelsäule oder Rückgrat, charakteristisch für bestimmte Tiergruppen"],
+    "examples_de": [["Quallen sind **wirbellose** Meerestiere", "Die Biologieklasse studierte **wirbellose** Tiere"]]
+  },
+  {
+    "lemma": "inverted",
+    "meanings_de": ["umgedreht", "in der Reihenfolge umgekehrt"],
+    "definitions_de": ["so positioniert, dass die Oberseite dort ist, wo die Unterseite sein sollte", "in die entgegengesetzte Position, Reihenfolge oder Anordnung vom Üblichen gebracht"],
+    "examples_de": [["Das **umgedrehte** Glas fing Luft im Inneren ein", "Sie hing während des Yoga in einer **umgekehrten** Position"], ["Die **umgestellte** Satzstruktur betonte das Objekt", "Ein **umgekehrter** Zeitplan ließ sie nachts arbeiten"]]
+  },
+  {
+    "lemma": "investigative",
+    "meanings_de": ["zur Untersuchung gehörend"],
+    "definitions_de": ["sich auf systematische Nachforschung oder Untersuchung zur Entdeckung von Fakten beziehend oder dadurch gekennzeichnet"],
+    "examples_de": [["Der **investigative** Journalist deckte weitverbreitete Korruption auf", "Die Polizei nutzte **ermittelnde** Techniken zur Lösung des Falls"]]
+  },
+  {
+    "lemma": "investigatory",
+    "meanings_de": ["zur Untersuchung dienend"],
+    "definitions_de": ["dem Zweck der Untersuchung dienend oder im Prozess der Untersuchung verwendet"],
+    "examples_de": [["Das Komitee hat **Untersuchungsbefugnisse** über Finanzunterlagen", "**Ermittlungsverfahren** müssen rechtlichen Richtlinien folgen"]]
+  },
+  {
+    "lemma": "inveterate",
+    "meanings_de": ["gewohnheitsmäßig und unwahrscheinlich zu ändern"],
+    "definitions_de": ["eine bestimmte Gewohnheit, Aktivität oder ein Interesse habend, das seit langem besteht und sich wahrscheinlich nicht ändern wird"],
+    "examples_de": [["Er war ein **eingefleischter** Spieler, der nicht aufhören konnte", "Ihr **unverbesserlicher** Optimismus erhellte jedermanns Tag"]]
+  },
+  {
+    "lemma": "invigorated",
+    "meanings_de": ["mit Energie erfüllt"],
+    "definitions_de": ["mit Kraft, Energie oder Vitalität versehen, sich erfrischt und energiegeladen fühlend"],
+    "examples_de": [["Die kalte Dusche ließ ihn **belebt** fühlen", "Sie fühlte sich nach der Bergwanderung **erfrischt**"]]
+  },
+  {
+    "lemma": "invigorating",
+    "meanings_de": ["energetisierend"],
+    "definitions_de": ["jemanden stark, gesund und voller Energie oder Vitalität fühlen lassend"],
+    "examples_de": [["Die **belebende** Morgenluft weckte alle auf", "Ein **erfrischendes** Bad begann ihren Tag perfekt"]]
+  },
+  {
+    "lemma": "invincible",
+    "meanings_de": ["unbesiegbar"],
+    "definitions_de": ["zu mächtig, um von irgendeiner Kraft oder Opposition besiegt oder überwunden zu werden"],
+    "examples_de": [["Die Armee schien **unbesiegbar**, bis der Winter kam", "Ihr **unbezwingbarer** Geist trug sie durch Schwierigkeiten"]]
+  },
+  {
+    "lemma": "invitational",
+    "meanings_de": ["nur auf Einladung"],
+    "definitions_de": ["eine Veranstaltung bezeichnend, besonders einen Sportwettbewerb, der nur für Eingeladene offen ist"],
+    "examples_de": [["Top-Golfer traten beim **Einladungsturnier** an", "Die **Einladungsausstellung** zeigte ausgewählte Künstler"]]
+  },
+  {
+    "lemma": "inviting",
+    "meanings_de": ["attraktiv und verlockend"],
+    "definitions_de": ["das Versprechen einer attraktiven oder angenehmen Erfahrung bietend, die zur Teilnahme verlockt"],
+    "examples_de": [["Das **einladende** Aroma zog Kunden in die Bäckerei", "Der Strand sah an dem heißen Tag **verlockend** aus"]]
+  },
+  {
+    "lemma": "involuntary",
+    "meanings_de": ["ohne bewusste Kontrolle"],
+    "definitions_de": ["ohne bewusste Kontrolle oder gegen den eigenen Willen getan, besonders als Reflex"],
+    "examples_de": [["Atmen ist größtenteils eine **unwillkürliche** Körperfunktion", "Sein **unwillkürliches** Zucken verriet seine Nervosität"]]
+  },
+  {
+    "lemma": "invulnerable",
+    "meanings_de": ["unverwundbar"],
+    "definitions_de": ["unmöglich zu verletzen, zu beschädigen oder zu besiegen durch guten Schutz oder Stärke"],
+    "examples_de": [["Die Festung schien **unverwundbar** gegen feindliche Angriffe", "Niemand ist **unverwundbar** gegenüber den Herausforderungen des Lebens"]]
+  },
+  {
+    "lemma": "inward",
+    "meanings_de": ["nach innen gerichtet", "auf den Geist bezogen"],
+    "definitions_de": ["auf das Innere oder Zentrum von etwas gerichtet oder dorthin verlaufend", "sich auf den Geist, Geist oder innere Gedanken beziehend statt auf äußere Dinge"],
+    "examples_de": [["Die Tür öffnet sich mit einer **einwärts** gerichteten Bewegung", "Die **innere** Kurve des Weges führte zum Garten"], ["Sie wandte ihre Gedanken während der Meditation **nach innen**", "Sein **innerer** Kampf war für andere nicht sichtbar"]]
+  },
+  {
+    "lemma": "ionic",
+    "meanings_de": ["auf Ionen bezogen"],
+    "definitions_de": ["sich auf Ionen oder Ionisierung in Chemie oder Physik beziehend oder diese bezeichnend"],
+    "examples_de": [["Salz löst sich durch **ionische** Bindung in Wasser auf", "Die **ionische** Verbindung leitete Elektrizität, wenn sie aufgelöst wurde"]]
+  },
+  {
+    "lemma": "irascible",
+    "meanings_de": ["leicht reizbar"],
+    "definitions_de": ["eine Tendenz habend oder zeigend, leicht verärgert oder reizbar gemacht zu werden"],
+    "examples_de": [["Der **jähzornige** alte Mann schrie die Nachbarskinder an", "Ihr **reizbares** Temperament erschwerte die Zusammenarbeit"]]
+  },
+  {
+    "lemma": "irate",
+    "meanings_de": ["äußerst wütend"],
+    "definitions_de": ["großen Zorn über etwas fühlend oder dadurch gekennzeichnet, das als unfair empfunden wird"],
+    "examples_de": [["**Wütende** Kunden verlangten, mit dem Manager zu sprechen", "Der **zornige** Fahrer hupte ununterbrochen im Verkehr"]]
+  },
+  {
+    "lemma": "iridescent",
+    "meanings_de": ["schillernd"],
+    "definitions_de": ["leuchtende Farben zeigend, die sich zu ändern scheinen, wenn sie aus verschiedenen Winkeln betrachtet werden"],
+    "examples_de": [["Die Seifenblase zeigte **schillernde** Regenbogenfarben", "Ihr **schimmerndes** Kleid glänzte unter den Lichtern"]]
+  },
+  {
+    "lemma": "ironclad",
+    "meanings_de": ["unumstößlich"],
+    "definitions_de": ["so stark, fest oder sicher, dass es nicht geändert, gebrochen oder in Frage gestellt werden kann"],
+    "examples_de": [["Der Anwalt entwarf einen **wasserdichten** Vertrag", "Sie hatte ein **hieb- und stichfestes** Alibi für diese Nacht"]]
+  }
+]

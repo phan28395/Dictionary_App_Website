@@ -1,0 +1,278 @@
+[
+  {
+    "lemma": "volta",
+    "meanings_de": ["italienischer Physiker", "Fluss in Ghana"],
+    "definitions_de": ["Italienischer Physiker, der die elektrische Batterie erfand und dem die Einheit Volt ihren Namen verdankt", "Bedeutendes Flusssystem in Ghana, das nach Süden in den Atlantischen Ozean fließt"],
+    "examples_de": [["Alessandro **Volta** demonstrierte Napoleon 1801 seine Batterie", "Die wissenschaftliche Einheit Volt wurde nach **Voltas** Beiträgen benannt"], ["Der **Volta**-Fluss liefert Wasserkraft für große Teile Ghanas", "Der **Volta**-Stausee ist einer der größten künstlichen Seen der Welt"]]
+  },
+  {
+    "lemma": "voltaic",
+    "meanings_de": ["elektrisch", "Volta betreffend"],
+    "definitions_de": ["Die durch chemische Reaktionen in einer Batterie oder Zelle erzeugte Elektrizität betreffend", "Sich auf Alessandro Volta oder die Volta-Region in Westafrika beziehend"],
+    "examples_de": [["Die **voltaische** Zelle wandelt chemische Energie in elektrische Energie um", "Wissenschaftler untersuchten **voltaische** Reaktionen in verschiedenen Metallkombinationen"], ["Die **voltaischen** Völker bewohnen Regionen um das Volta-Flussbecken", "**Voltaische** Sprachen werden in Burkina Faso und Ghana gesprochen"]]
+  },
+  {
+    "lemma": "voltaire",
+    "meanings_de": ["französischer Philosoph und Schriftsteller"],
+    "definitions_de": ["Französischer Aufklärungsschriftsteller und Philosoph, bekannt für seinen Witz, seine Kritik am Christentum und sein Eintreten für Bürgerrechte"],
+    "examples_de": [["**Voltaire** schrieb die satirische Novelle Candide als Kritik am blinden Optimismus", "Das berühmte Zitat über die Verteidigung der Redefreiheit wird oft **Voltaire** zugeschrieben"], ["**Voltaire** korrespondierte sein Leben lang mit Friedrich dem Großen", "Viele Schulen und Straßen in Frankreich sind nach **Voltaire** benannt"]]
+  },
+  {
+    "lemma": "vulcan",
+    "meanings_de": ["römischer Gott", "fiktiver Planet"],
+    "definitions_de": ["Römischer Gott des Feuers, der Metallbearbeitung und der Schmiede, entspricht dem griechischen Hephaistos", "Fiktiver Heimatplanet von Spock und der vulkanischen Spezies in Star Trek"],
+    "examples_de": [["**Vulkans** Schmiede soll sich unter dem Ätna in Sizilien befunden haben", "Die Römer ehrten **Vulkan** während des Festes der Vulcanalia"], ["Spock stammte vom Planeten **Vulkan** mit seinen logischen Bewohnern", "Die Zerstörung von **Vulkan** war zentral im Star-Trek-Film von 2009"]]
+  },
+  {
+    "lemma": "vulgate",
+    "meanings_de": ["lateinische Bibelübersetzung"],
+    "definitions_de": ["Lateinische Bibelübersetzung aus dem vierten Jahrhundert, die zum offiziellen biblischen Text der katholischen Kirche wurde"],
+    "examples_de": [["Der heilige Hieronymus übersetzte die **Vulgata** aus hebräischen und griechischen Texten", "Die **Vulgata** blieb über tausend Jahre lang die Standardbibel"], ["Mittelalterliche Handschriften der **Vulgata** zeigten oft illuminierte Buchstaben", "Das Konzil von Trient erklärte die **Vulgata** 1546 für authentisch"]]
+  },
+  {
+    "lemma": "wan",
+    "meanings_de": ["Computernetzwerktyp"],
+    "definitions_de": ["Weitverkehrsnetz, das Computer über große geografische Entfernungen mittels Telekommunikation verbindet"],
+    "examples_de": [["Das Firmen-**WAN** verband Büros in mehreren Ländern effizient", "**WAN**-Optimierungstools verbessern die Netzwerkleistung über große Entfernungen"], ["Die Einrichtung eines **WAN** erfordert Koordination mit Telekommunikationsanbietern", "Das Unternehmens-**WAN** verlangsamte sich während der Hauptgeschäftszeiten"]]
+  },
+  {
+    "lemma": "wasp",
+    "meanings_de": ["stechendes Insekt", "weißer protestantischer Amerikaner"],
+    "definitions_de": ["Fliegendes Insekt mit schmaler Taille und schmerzhaftem Stich, das Papiernester baut", "White Anglo-Saxon Protestant, bezeichnet die traditionelle amerikanische Elite europäischer Abstammung"],
+    "examples_de": [["Die **Wespe** baute ihr Nest unter dem Dachvorsprung", "Ein **Wespen**stich kann bei manchen Menschen schwere allergische Reaktionen auslösen"], ["Der Begriff **WASP** beschreibt traditionelle amerikanische Establishment-Familien", "Die **WASP**-Kultur dominierte die amerikanische Politik im zwanzigsten Jahrhundert"]]
+  },
+  {
+    "lemma": "wbc",
+    "meanings_de": ["weiße Blutkörperchen"],
+    "definitions_de": ["Weiße Blutkörperchen, die als Teil des Immunsystems Infektionen und Krankheiten bekämpfen"],
+    "examples_de": [["Der Arzt ordnete ein **WBC**-Blutbild an, um auf Infektionen zu prüfen", "Ein erhöhter **WBC**-Wert deutet oft darauf hin, dass der Körper eine Krankheit bekämpft"], ["Normale **WBC**-Bereiche variieren deutlich zwischen Erwachsenen und Kindern", "Das Labor meldete die **WBC**-Anzahl des Patienten im Normalbereich"]]
+  },
+  {
+    "lemma": "wimp",
+    "meanings_de": ["schwache ängstliche Person"],
+    "definitions_de": ["Person, der es an Selbstvertrauen, Mut oder Entschlossenheit mangelt und die leicht einzuschüchtern ist"],
+    "examples_de": [["Sei kein **Schwächling** und probier das scharfe Essen", "Er wurde als **Feigling** bezeichnet, weil er vor der Herausforderung zurückwich"], ["Der Film zeigte die Verwandlung des Protagonisten vom **Weichei** zum Helden", "Sie bewies, dass sie kein **Angsthase** war, indem sie den Hindernisparcours absolvierte"]]
+  },
+  {
+    "lemma": "wlan",
+    "meanings_de": ["drahtloses lokales Netzwerk"],
+    "definitions_de": ["Drahtloses lokales Netzwerk, das Geräte mittels Funkwellen in einem begrenzten Bereich verbindet"],
+    "examples_de": [["Das Büro-**WLAN** ermöglicht Mitarbeitern das Arbeiten in jedem Konferenzraum", "Die Einrichtung eines sicheren **WLAN** erfordert ordnungsgemäße Verschlüsselung und Authentifizierung"], ["Die **WLAN**-Abdeckung des Hotels erstreckte sich bis zum Pool und Gartenbereich", "**WLAN**-Geschwindigkeiten haben sich mit neueren Funkstandards dramatisch verbessert"]]
+  },
+  {
+    "lemma": "wmd",
+    "meanings_de": ["Massenvernichtungswaffen"],
+    "definitions_de": ["Massenvernichtungswaffen, die große Menschenmengen töten können, einschließlich nuklearer, biologischer und chemischer Waffen"],
+    "examples_de": [["Die Suche nach **MVW** wurde während des Irakkriegs kontrovers diskutiert", "Internationale Verträge zielen darauf ab, die Verbreitung von **MVW** weltweit zu verhindern"], ["Länder müssen alle **MVW**-Programme internationalen Überwachungsbehörden melden", "Die Bedrohung durch **MVW**-Terrorismus beunruhigt Sicherheitsexperten weltweit"]]
+  },
+  {
+    "lemma": "wmo",
+    "meanings_de": ["Wetterüberwachungsorganisation"],
+    "definitions_de": ["Weltorganisation für Meteorologie, die globale Wetterbeobachtung und den Austausch von Klimadaten koordiniert"],
+    "examples_de": [["Die **WMO** warnte vor steigenden globalen Temperaturtrends", "Mitgliedsländer teilen Wetterdaten über **WMO**-Kommunikationskanäle"], ["**WMO**-Standards gewährleisten einheitliche Wetterberichterstattung in allen Ländern", "Der jährliche **WMO**-Bericht hob weltweite Extremwetterereignisse hervor"]]
+  },
+  {
+    "lemma": "wsw",
+    "meanings_de": ["Kompassrichtung"],
+    "definitions_de": ["West-Südwest-Richtung auf dem Kompass zwischen West und Südwest bei 247,5 Grad"],
+    "examples_de": [["Der Sturm bewegt sich mit fünfzehn Meilen pro Stunde nach **WSW**", "Setzen Sie Ihren Kurs auf **WSW**, um den Hafen vor Sonnenuntergang zu erreichen"], ["Der **WSW**-Wind brachte wärmere Luft vom Ozean ins Landesinnere", "Der Berggipfel liegt **WSW** von unserem derzeitigen Lagerplatz"]]
+  },
+  {
+    "lemma": "wtc",
+    "meanings_de": ["World Trade Center"],
+    "definitions_de": ["World Trade Center Zwillingsturmkomplex in New York City, der bei den Anschlägen im September 2001 zerstört wurde"],
+    "examples_de": [["Das **WTC** war einst der höchste Gebäudekomplex in New York", "Das **WTC**-Denkmal ehrt die Opfer der Anschläge vom 11. September"], ["Viele Unternehmen hatten vor seiner Zerstörung Büros im **WTC**", "Der neue **WTC**-Standort umfasst den One World Trade Center Turm"]]
+  },
+  {
+    "lemma": "wto",
+    "meanings_de": ["Handelsorganisation"],
+    "definitions_de": ["Welthandelsorganisation, die internationale Handelsregeln reguliert und Streitigkeiten zwischen Nationen schlichtet"],
+    "examples_de": [["Die **WTO** hilft bei der Aushandlung von Handelsabkommen zwischen Mitgliedsländern", "China trat der **WTO** 2001 nach langwierigen Verhandlungen bei"], ["Die **WTO**-Streitschlichtung verhindert Handelskriege zwischen Nationen", "Entwicklungsländer streben bessere Vertretung in **WTO**-Entscheidungen an"]]
+  },
+  {
+    "lemma": "www",
+    "meanings_de": ["World Wide Web"],
+    "definitions_de": ["World Wide Web System aus verlinkten Dokumenten, auf die über das Internet mit Browsern zugegriffen wird"],
+    "examples_de": [["Tim Berners-Lee erfand das **WWW** 1989 am CERN", "Die meisten Webseitenadressen beginnen noch mit **www**, obwohl es optional ist"], ["Das **WWW** revolutionierte den weltweiten Zugang zu und Austausch von Informationen", "Frühe **WWW**-Seiten waren einfacher Text mit grundlegenden Hyperlinks"]]
+  },
+  {
+    "lemma": "wagner",
+    "meanings_de": ["deutscher Komponist"],
+    "definitions_de": ["Deutscher Komponist, bekannt für epische Opern und den Ring-Zyklus, der das Musikdrama revolutionierte"],
+    "examples_de": [["**Wagner** komponierte das berühmte Opernstück Ritt der Walküren", "Die Bayreuther Festspiele feiern **Wagners** Werke jeden Sommer in Deutschland"], ["**Wagners** Ring-Zyklus dauert über fünfzehn Stunden in der Gesamtaufführung", "Viele betrachten **Wagner** als einflussreichsten Opernkomponisten der Geschichte"]]
+  },
+  {
+    "lemma": "wagnerian",
+    "meanings_de": ["Wagner betreffend"],
+    "definitions_de": ["Sich auf Richard Wagners Musikstil beziehend, gekennzeichnet durch dramatische Intensität und großen Maßstab"],
+    "examples_de": [["Die **wagnerianische** Sopranistin sang alle großen Wagner-Opernrollen", "Sein **wagnerianischer** Ansatz beim Filmemachen betonte epische dramatische Themen"], ["**Wagnerianische** Oper erfordert spezialisierte Stimmen mit anhaltender Kraft", "Das Konzert präsentierte ein **wagnerianisches** Programm mit Orchesterauszügen"]]
+  },
+  {
+    "lemma": "wahhabi",
+    "meanings_de": ["Anhänger der islamischen Bewegung"],
+    "definitions_de": ["Anhänger des Wahhabismus, einer konservativen islamischen Reformbewegung mit Ursprung in Saudi-Arabien"],
+    "examples_de": [["**Wahhabitische** Geistliche fördern eine strenge Auslegung islamischer Texte und Gesetze", "Die **wahhabitische** Bewegung beeinflusste moderne saudische Religionspraktiken"], ["Viele **wahhabitische** Gelehrte lehnen Neuerungen in der religiösen Praxis als verboten ab", "**Wahhabitische** Lehren verbreiten sich durch saudisch finanzierte Moscheen und Schulen weltweit"]]
+  },
+  {
+    "lemma": "wahhabism",
+    "meanings_de": ["islamische Reformbewegung"],
+    "definitions_de": ["Konservative islamische Reformbewegung, gegründet von Muhammad ibn Abd al-Wahhab, die reinen Monotheismus und wörtliche Auslegung betont"],
+    "examples_de": [["Der **Wahhabismus** entstand im 18. Jahrhundert in Arabien als Reinigungsbewegung", "Kritiker argumentieren, der **Wahhabismus** fördere Intoleranz gegenüber anderen islamischen Traditionen"], ["Die Allianz zwischen **Wahhabismus** und saudischen Herrschern prägte das moderne Saudi-Arabien", "Der **Wahhabismus** lehnt viele traditionelle islamische Praktiken als unbefugte Neuerungen ab"]]
+  },
+  {
+    "lemma": "wain",
+    "meanings_de": ["Bauernwagen"],
+    "definitions_de": ["Großer offener Bauernwagen mit vier Rädern, der zum Transport von Heu oder anderen Lasten verwendet wird"],
+    "examples_de": [["Der Bauer belud den **Heuwagen** für den Transport zur Scheune", "Karls **Wagen** ist ein anderer Name für das Sternbild Großer Wagen"], ["Der alte **Erntewagen** ächzte unter dem Gewicht der Ernte", "Mittelalterliche Gemälde zeigen oft **Wagen**, die von Ochsengespannen gezogen werden"]]
+  },
+  {
+    "lemma": "walhalla",
+    "meanings_de": ["nordische mythologische Halle"],
+    "definitions_de": ["Halle in der nordischen Mythologie, wo im Kampf gefallene Krieger für die Ewigkeit mit Odin speisen"],
+    "examples_de": [["Wikinger glaubten, dass der Tod im Kampf den Eintritt nach **Walhalla** garantierte", "Wagners Oper zeigt die Götter beim Einzug in **Walhalla** über die Regenbogenbrücke"], ["In **Walhalla** kämpfen Krieger den ganzen Tag und feiern die ganze Nacht für die Ewigkeit", "Das Konzept von **Walhalla** beeinflusste die germanische Kriegerkultur erheblich"]]
+  },
+  {
+    "lemma": "walker",
+    "meanings_de": ["Gehhilfe", "gehende Person"],
+    "definitions_de": ["Metallgestell mit vier Beinen, das älteren oder behinderten Menschen beim Gehen hilft", "Person, die zur Bewegung, Erholung oder als primäres Fortbewegungsmittel zu Fuß geht"],
+    "examples_de": [["Oma benutzt ihren **Rollator**, um sich sicher im Haus zu bewegen", "Der Physiotherapeut stellte die **Gehhilfe** auf die richtige Höhe ein"], ["Die morgendlichen **Spaziergänger** treffen sich täglich um sechs im Park", "Professionelle **Hundeausführer** kümmern sich oft gleichzeitig um mehrere Haustiere"]]
+  },
+  {
+    "lemma": "walkman",
+    "meanings_de": ["tragbarer Musikspieler"],
+    "definitions_de": ["Tragbarer Kassetten- oder CD-Spieler mit Kopfhörern, ursprünglich von Sony für persönliches Musikhören hergestellt"],
+    "examples_de": [["Der **Walkman** revolutionierte, wie Menschen in der Öffentlichkeit Musik hörten", "Sie trug ihren **Walkman** beim Joggen durch den Nachbarschaftspark"], ["Sonys **Walkman** dominierte den tragbaren Musikmarkt in den 1980er Jahren", "Der gelbe Sport-**Walkman** war wasserdicht für aktive Nutzung"]]
+  },
+  {
+    "lemma": "walloon",
+    "meanings_de": ["belgischer Französischsprecher"],
+    "definitions_de": ["Französischsprachige Person aus Südbelgien oder ihre romanische Sprache, die sich vom Standardfranzösischen unterscheidet"],
+    "examples_de": [["**Wallonisch** wird noch in ländlichen Teilen Südbelgiens gesprochen", "Die **Wallonische** Region bildet eine der drei föderalen Regionen Belgiens"], ["Die **wallonische** Kultur unterscheidet sich erheblich von der flämischen Kultur in Belgien", "Viele **wallonische** Wörter sind über die Jahrhunderte ins belgische Französisch eingegangen"]]
+  },
+  {
+    "lemma": "wampanoag",
+    "meanings_de": ["indianisches Volk"],
+    "definitions_de": ["Indianisches Volk aus Massachusetts und Rhode Island, das den Pilgern beim Überleben half"],
+    "examples_de": [["Die **Wampanoag** lehrten die Pilger, erfolgreich Mais anzubauen", "**Wampanoag**-Stämme pflegen noch immer ihre kulturellen Traditionen in Massachusetts"], ["Der **Wampanoag**-Führer Massasoit schloss Frieden mit der Plymouth-Kolonie", "Moderne **Wampanoag**-Gemeinschaften arbeiten daran, ihre Ahnensprache zu bewahren"]]
+  },
+  {
+    "lemma": "ward",
+    "meanings_de": ["Krankenhausabteilung", "Schutzbefohlener", "Wahlbezirk"],
+    "definitions_de": ["Abteilung eines Krankenhauses, die für bestimmte Patientenarten oder Krankheiten vorgesehen ist", "Person unter rechtlichem Schutz oder Vormundschaft einer anderen Person oder eines Gerichts", "Verwaltungsbezirk einer Stadt für Wahl- oder Verwaltungszwecke"],
+    "examples_de": [["Die **Kinderstation** war mit bunten Wandgemälden und Spielzeug dekoriert", "Krankenschwestern auf der **Herzstation** überwachen Patienten rund um die Uhr"], ["Das Gericht ernannte sie nach dem Tod ihrer Eltern zum **Mündel**", "Der wohlhabende Wohltäter wurde Vormund mehrerer **Schutzbefohlener**"], ["Jeder **Wahlbezirk** wählt einen Vertreter in den Stadtrat", "Der dritte **Bezirk** umfasst das Geschäftsviertel der Innenstadt"]]
+  },
+  {
+    "lemma": "warhol",
+    "meanings_de": ["amerikanischer Pop-Art-Künstler"],
+    "definitions_de": ["Amerikanischer Pop-Art-Künstler, berühmt für Siebdruckgemälde von Prominenten und Alltagsgegenständen wie Suppendosen"],
+    "examples_de": [["Andy **Warhols** Campbell's Suppendosen wurden zu einem ikonischen Pop-Art-Bild", "**Warhol** sagte voraus, dass jeder für fünfzehn Minuten berühmt sein würde"], ["Das **Warhol** Museum in Pittsburgh beherbergt Tausende seiner Werke", "**Warhols** Factory-Studio zog Künstler, Prominente und Underground-Figuren an"]]
+  },
+  {
+    "lemma": "warren",
+    "meanings_de": ["Kaninchenbausystem", "überfüllter Bereich"],
+    "definitions_de": ["Netzwerk aus miteinander verbundenen unterirdischen Kaninchenbauten und -tunneln, in denen Kaninchen gemeinschaftlich leben", "Dicht besiedeltes Gebiet mit labyrinthartigen Straßen oder Durchgängen, die Verwirrung stiften"],
+    "examples_de": [["Der **Kaninchenbau** erstreckte sich unter der gesamten Hügelwiese", "Bauern füllen oft **Kaninchenbaue** auf, um Ernteschäden zu verhindern"], ["Der alte Markt war ein **Gewirr** aus engen Gassen und Geschäften", "Sich im **Labyrinth** der Hintergassen zu verirren war überraschend einfach"]]
+  },
+  {
+    "lemma": "warsaw",
+    "meanings_de": ["polnische Hauptstadt"],
+    "definitions_de": ["Hauptstadt und größte Stadt Polens, gelegen an der Weichsel in Ost-Zentralpolen"],
+    "examples_de": [["**Warschau** wurde nach der Zerstörung im Zweiten Weltkrieg fast vollständig wiederaufgebaut", "Das **Warschauer** Aufstandsmuseum erinnert an den Widerstand gegen die Nazis 1944"], ["**Warschaus** Altstadt wurde akribisch nach historischen Gemälden und Plänen rekonstruiert", "Viele internationale Unternehmen haben ihren polnischen Hauptsitz in **Warschau**"]]
+  },
+  {
+    "lemma": "washington",
+    "meanings_de": ["US-Hauptstadt", "erster US-Präsident", "US-Bundesstaat"],
+    "definitions_de": ["Hauptstadt der Vereinigten Staaten, gelegen am Potomac River", "George Washington, erster Präsident der Vereinigten Staaten und Befehlshaber im Unabhängigkeitskrieg", "Bundesstaat in der pazifischen Nordwestregion der Vereinigten Staaten"],
+    "examples_de": [["**Washington** DC beherbergt alle drei Zweige der Bundesregierung", "Touristen strömen nach **Washington**, um Denkmäler und Museen zu sehen"], ["George **Washington** weigerte sich, König der neuen Nation zu werden", "**Washingtons** Abschiedsrede warnte vor Parteispaltungen"], ["Der Bundesstaat **Washington** produziert mehr Äpfel als jeder andere Staat", "Seattle ist die größte Stadt im Bundesstaat **Washington**"]]
+  },
+  {
+    "lemma": "washingtonian",
+    "meanings_de": ["Bewohner der DC-Region"],
+    "definitions_de": ["Person, die in Washington DC oder der umliegenden Metropolregion lebt oder von dort stammt"],
+    "examples_de": [["Einheimische **Washingtonianer** beschweren sich oft über politische Zugezogene, die die Stadt verändern", "Das Magazin **Washingtonian** berichtet ausführlich über lokale Kultur und Restaurants"], ["Viele **Washingtonianer** arbeiten für die Bundesregierung oder verwandte Branchen", "Echte **Washingtonianer** wissen, Touristengebiete während der Kirschblütenzeit zu meiden"]]
+  },
+  {
+    "lemma": "watergate",
+    "meanings_de": ["politischer Skandal"],
+    "definitions_de": ["Großer politischer Skandal um den Einbruch der Nixon-Regierung in die Demokratische Parteizentrale und die anschließende Vertuschung, die zum Rücktritt des Präsidenten führte"],
+    "examples_de": [["Der **Watergate**-Skandal führte 1974 zum Rücktritt von Präsident Nixon", "Bob Woodward und Carl Bernstein deckten die **Watergate**-Vertuschung auf"], ["**Watergate** veränderte die amerikanische Sicht auf präsidentielle Macht und Rechenschaftspflicht", "Die Endung -gate bezeichnet heute jeden großen politischen Skandal"]]
+  },
+  {
+    "lemma": "waterloo",
+    "meanings_de": ["vernichtende Niederlage", "belgischer Schlachtort"],
+    "definitions_de": ["Endgültige vernichtende Niederlage oder Versagen, das jemandes Erfolg oder Ambitionen beendet", "Belgische Stadt, in der Napoleon 1815 seine endgültige Niederlage erlitt"],
+    "examples_de": [["Die gescheiterte Produkteinführung erwies sich als das **Waterloo** des Unternehmens", "Die Begegnung mit dem neuen Partner seiner Ex-Freundin war sein gesellschaftliches **Waterloo**"], ["Die Schlacht bei **Waterloo** beendete Napoleons Rückkehr der Hundert Tage", "Das Schlachtfeld von **Waterloo** zieht jährlich Tausende von Geschichtsinteressierten an"]]
+  },
+  {
+    "lemma": "watt",
+    "meanings_de": ["Leistungseinheit"],
+    "definitions_de": ["Einheit der elektrischen Leistung gleich einem Joule pro Sekunde, verwendet zur Messung des Energieverbrauchs"],
+    "examples_de": [["Eine typische LED-Birne verbraucht nur zehn **Watt** Strom", "Der Mikrowellenherd arbeitet mit maximal tausend **Watt** Leistung"], ["Solarpaneele werden danach bewertet, wie viele **Watt** sie erzeugen können", "Die Elektroheizung zieht auf höchster Stufe fünfzehnhundert **Watt**"]]
+  },
+  {
+    "lemma": "weber",
+    "meanings_de": ["Einheit des magnetischen Flusses", "deutscher Nachname"],
+    "definitions_de": ["Einheit des magnetischen Flusses im Internationalen Einheitensystem gleich einem Tesla-Quadratmeter", "Häufiger deutscher Nachname, oft verbunden mit dem Soziologen Max Weber"],
+    "examples_de": [["Der magnetische Fluss durch die Spule betrug drei **Weber**", "Ingenieure berechneten das Transformatordesign in **Weber** pro Windung"], ["Max **Weber** entwickelte einflussreiche Theorien über Bürokratie und Kapitalismus", "Die Familie **Weber** hat viele bemerkenswerte deutsche Intellektuelle hervorgebracht"]]
+  },
+  {
+    "lemma": "webster",
+    "meanings_de": ["Wörterbuchersteller", "veralteter Weber"],
+    "definitions_de": ["Noah Webster, der das erste große amerikanische Wörterbuch erstellte und die amerikanische Rechtschreibung standardisierte", "Veralteter Begriff für eine Person, die Stoff auf einem Webstuhl webt"],
+    "examples_de": [["**Websters** Wörterbuch wurde zum amerikanischen Standardnachschlagewerk für Englisch", "Noah **Webster** vereinfachte britische Schreibweisen für den amerikanischen Gebrauch"], ["Der **Weber** arbeitete an seinem Webstuhl und stellte feines Wolltuch her", "Mittelalterliche **Weber** bildeten wichtige Zünfte in Textilstädten"]]
+  },
+  {
+    "lemma": "wed",
+    "meanings_de": ["Mittwoch-Abkürzung"],
+    "definitions_de": ["Abgekürzte Form von Mittwoch, dem vierten Tag der Woche zwischen Dienstag und Donnerstag"],
+    "examples_de": [["Das Treffen ist für **Mi** Nachmittag um drei Uhr angesetzt", "Markieren Sie Ihren Kalender für **Mi**, um den Termin nicht zu vergessen"], ["Der Bericht ist spätestens bis **Mi** fällig", "**Mi** Abend ist Quizabend in der örtlichen Kneipe"]]
+  },
+  {
+    "lemma": "wedgwood",
+    "meanings_de": ["Porzellanmarke"],
+    "definitions_de": ["Britische Feinporzellan- und Keramikfirma, gegründet von Josiah Wedgwood, bekannt für charakteristisches blaues Jasperware"],
+    "examples_de": [["Das **Wedgwood**-Teeservice wurde über drei Generationen weitergegeben", "Sammler schätzen antike **Wedgwood**-Stücke mit klassischen Reliefdesigns"], ["**Wedgwood**-Porzellan ziert viele formelle Esstische auf der ganzen Welt", "Das Jasperware des Unternehmens zeigt weiße Figuren auf farbigem Hintergrund"]]
+  },
+  {
+    "lemma": "weimar",
+    "meanings_de": ["deutsche Stadt", "deutsche Republik"],
+    "definitions_de": ["Deutsche Stadt in Thüringen, bekannt für kulturelles Erbe und Verbindung zu Goethe und Schiller", "Deutsche demokratische Republik von 1919 bis 1933 zwischen Kaiserreich und NS-Zeit"],
+    "examples_de": [["**Weimar** zieht Touristen an, die sich für deutsche Klassik in Literatur und Musik interessieren", "Goethe verbrachte den größten Teil seines Lebens in **Weimar** mit Schreiben"], ["Die **Weimarer** Republik kämpfte mit Hyperinflation und politischer Instabilität", "Deutschlands erste demokratische Verfassung wurde in **Weimar** entworfen"]]
+  },
+  {
+    "lemma": "weld",
+    "meanings_de": ["Metallverbindung", "gelbe Färberpflanze"],
+    "definitions_de": ["Verbindung, die durch Verschmelzen von Metallen mittels Hitze, Druck oder Füllmaterial entsteht", "Pflanze, die gelben Farbstoff produziert, historisch zum Färben von Stoffen verwendet"],
+    "examples_de": [["Die **Schweißnaht** hielt die Stahlträger sicher zusammen", "Inspektoren prüfen jede **Schweißnaht** auf Risse oder Schwächen"], ["Mittelalterliche Färber kultivierten **Wau** wegen seines leuchtend gelben Pigments", "**Wau** wächst wild in vielen Teilen Europas und Asiens"]]
+  },
+  {
+    "lemma": "wellington",
+    "meanings_de": ["wasserdichter Stiefel", "neuseeländische Hauptstadt"],
+    "definitions_de": ["Kniehoher wasserdichter Gummistiefel, ursprünglich vom Herzog von Wellington getragen", "Hauptstadt Neuseelands, gelegen an der Südspitze der Nordinsel"],
+    "examples_de": [["Sie trug **Gummistiefel**, um durch die schlammigen Felder zu gehen", "Kinder platschten in bunten **Gummistiefeln** durch Pfützen"], ["**Wellington** erlebt aufgrund seiner Hafenlage starke Winde", "Neuseelands Parlamentsgebäude befinden sich in **Wellington**"]]
+  },
+  {
+    "lemma": "welsh",
+    "meanings_de": ["Wales betreffend"],
+    "definitions_de": ["Sich auf Wales, seine Menschen, keltische Sprache oder Kultur in Westbritannien beziehend"],
+    "examples_de": [["**Walisische** Rugby-Fans sind für ihre leidenschaftliche Gesangsunterstützung bekannt", "Die **walisische** Sprache hat in den letzten Jahrzehnten eine Wiederbelebung erfahren"], ["**Walisische** Kuchen sind traditionelle, auf der Grillplatte gebackene Leckereien zum Tee", "Viele **walisische** Ortsnamen beginnen mit Llan, was Kirche bedeutet"]]
+  },
+  {
+    "lemma": "welshman",
+    "meanings_de": ["Mann aus Wales"],
+    "definitions_de": ["Mann, der aus Wales stammt oder walisische Abstammung und kulturelle Identität hat"],
+    "examples_de": [["Der **Waliser** trug stolz eine Narzisse am St. David's Day", "Berühmte **Waliser** sind die Schauspieler Anthony Hopkins und Richard Burton"], ["Jeder **Waliser** lernt die Nationalhymne Mae Hen Wlad Fy Nhadau", "Der **Waliser** erklärte die Bedeutung seines langen Nachnamens"]]
+  },
+  {
+    "lemma": "wembley",
+    "meanings_de": ["Londoner Stadiongebiet"],
+    "definitions_de": ["Gebiet im Nordwesten Londons, berühmt für sein Nationalstadion, in dem große Fußballspiele und Konzerte stattfinden"],
+    "examples_de": [["Englands Fußballnationalmannschaft spielt Heimspiele im **Wembley**-Stadion", "Das neue **Wembley** hat einen charakteristischen Bogen, der über London sichtbar ist"], ["Das Live-Aid-Konzert in **Wembley** sammelte Millionen für Hungerhilfe", "**Wembley** ist traditionell jedes Jahr im Mai Austragungsort des FA-Cup-Finales"]]
+  },
+  {
+    "lemma": "wesleyan",
+    "meanings_de": ["methodistische Konfessionsanhänger"],
+    "definitions_de": ["Mitglied oder bezogen auf methodistische Kirchen, die John Wesleys Lehren folgen und persönlichen Glauben sowie soziale Gerechtigkeit betonen"],
+    "examples_de": [["Die **wesleyanische** Kapelle diente der Bergbaugemeinde über Generationen", "**Wesleyanische** Universitäten pflegen starke geisteswissenschaftliche Traditionen"], ["Die **wesleyanische** Theologie betont freien Willen und christliche Vollkommenheit", "Viele **wesleyanische** Kirchen engagieren sich aktiv in Gemeindediensten"]]
+  }
+]

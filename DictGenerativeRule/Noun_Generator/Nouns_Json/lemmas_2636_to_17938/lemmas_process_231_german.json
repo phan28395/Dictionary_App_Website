@@ -1,0 +1,296 @@
+[
+  {
+    "lemma": "surfer",
+    "meanings_de": ["Wellenreiter"],
+    "definitions_de": ["Person, die auf einem Surfbrett stehend oder liegend die Wellen des Meeres als Sport oder Freizeitbeschäftigung reitet"],
+    "examples_de": [["Der erfahrene **Surfer** paddelte hinaus, um die größten Wellen zu erwischen", "Mehrere **Wellenreiter** versammelten sich im Morgengrauen und warteten auf perfekte Bedingungen"]]
+  },
+  {
+    "lemma": "surfing",
+    "meanings_de": ["Wellenreiten"],
+    "definitions_de": ["Sportart oder Aktivität, bei der man auf einem Surfbrett stehend oder liegend über die Oberfläche von Meereswellen gleitet"],
+    "examples_de": [["**Surfen** erfordert gutes Gleichgewicht und Verständnis für die Meeresbedingungen", "Sie begann während ihres Urlaubs auf Hawaii mit dem **Wellenreiten**"]]
+  },
+  {
+    "lemma": "surge",
+    "meanings_de": ["plötzliche kraftvolle Bewegung", "rapider Anstieg"],
+    "definitions_de": ["plötzliche kraftvolle Vorwärts- oder Aufwärtsbewegung, besonders von Wasser oder Elektrizität", "plötzlicher starker Anstieg in Menge oder Intensität von etwas"],
+    "examples_de": [["Eine **Flutwelle** brach während des Sturms über die Ufermauer", "Die **Spannungsspitze** beschädigte mehrere elektronische Geräte im Gebäude"], ["Das Unternehmen erlebte einen **Ansturm** im Verkauf während der Weihnachtszeit", "Es gab einen plötzlichen **Anstieg** des Interesses an erneuerbaren Energielösungen"]]
+  },
+  {
+    "lemma": "surmise",
+    "meanings_de": ["begründete Vermutung"],
+    "definitions_de": ["Gedanke oder Idee, die auf unvollständigen Beweisen basiert oder ohne Nachweis ihrer Richtigkeit ist"],
+    "examples_de": [["Seine **Vermutung** über die Ursache des Problems erwies sich als richtig", "Basierend auf den Beweisen war ihre **Mutmaßung**, dass jemand während der Nacht eingedrungen war"]]
+  },
+  {
+    "lemma": "surname",
+    "meanings_de": ["Nachname"],
+    "definitions_de": ["erblicher Name, der von Familienmitgliedern geteilt wird und nach den Vornamen kommt"],
+    "examples_de": [["Bitte schreiben Sie Ihren **Nachnamen** nach Ihrem Vornamen auf das Formular", "Der **Familienname** Müller ist einer der häufigsten im deutschsprachigen Raum"]]
+  },
+  {
+    "lemma": "surrealism",
+    "meanings_de": ["Surrealismus"],
+    "definitions_de": ["künstlerische und literarische Bewegung des zwanzigsten Jahrhunderts, die das Unbewusste durch traumhafte Bilder und unerwartete Gegenüberstellungen auszudrücken suchte"],
+    "examples_de": [["Salvador Dalí wurde zu einem der berühmtesten Künstler des **Surrealismus**", "Das Gemälde zeigte typische Elemente des **Surrealismus** mit seinen schmelzenden Uhren und verzerrten Landschaften"]]
+  },
+  {
+    "lemma": "surrealist",
+    "meanings_de": ["Surrealist"],
+    "definitions_de": ["Künstler oder Schriftsteller, der Werke im Stil des Surrealismus mit traumhaften Bildern schafft"],
+    "examples_de": [["Der **Surrealist** malte unmögliche Szenen, die die Wahrnehmung der Betrachter herausforderten", "Viele **Surrealisten** versammelten sich in den 1920er und 1930er Jahren in Paris"]]
+  },
+  {
+    "lemma": "surrender",
+    "meanings_de": ["Kapitulation"],
+    "definitions_de": ["Handlung der Aufgabe von Kontrolle oder Besitz, besonders nach Kampf oder Widerstand"],
+    "examples_de": [["Der General unterzeichnete das Dokument der **Kapitulation**, um den Konflikt zu beenden", "Ihre **Aufgabe** kam nach wochenlangen Verhandlungen zwischen den Parteien"]]
+  },
+  {
+    "lemma": "surrey",
+    "meanings_de": ["Pferdekutsche", "englische Grafschaft"],
+    "definitions_de": ["leichte vierrädrige Pferdekutsche mit zwei oder vier Sitzen", "Grafschaft im Südosten Englands, die an Greater London grenzt"],
+    "examples_de": [["Die Familie fuhr in einer altmodischen **Kutsche** durch den Park", "Ein **Surrey** mit Fransen am Dach erschien in vielen frühen amerikanischen Filmen"], ["**Surrey** ist bekannt für seine sanften Hügel und historischen Marktstädte", "Viele Londoner Pendler entscheiden sich dafür, in **Surrey** zu leben wegen der ländlichen Umgebung"]]
+  },
+  {
+    "lemma": "surrogate",
+    "meanings_de": ["Ersatz oder Stellvertreter"],
+    "definitions_de": ["Person oder Sache, die den Platz einer anderen einnimmt, besonders in einer spezifischen Rolle oder Funktion"],
+    "examples_de": [["Die Tante diente als **Ersatzmutter**, nachdem die Eltern der Kinder gestorben waren", "Der künstliche Süßstoff fungiert als **Ersatz** für Zucker in vielen Rezepten"]]
+  },
+  {
+    "lemma": "kathmandu",
+    "meanings_de": ["Hauptstadt Nepals"],
+    "definitions_de": ["Hauptstadt und größte Stadt Nepals, gelegen in einem Tal im Himalaya"],
+    "examples_de": [["Touristen nutzen **Kathmandu** oft als Ausgangspunkt für Trekking-Expeditionen", "Die alten Tempel von **Kathmandu** ziehen Besucher aus der ganzen Welt an"]]
+  },
+  {
+    "lemma": "kazakh",
+    "meanings_de": ["Kasache", "kasachische Sprache"],
+    "definitions_de": ["Angehöriger eines Turkvolkes, das in Kasachstan und den umliegenden Regionen beheimatet ist", "Turksprache, die von den Kasachen hauptsächlich in Kasachstan gesprochen wird"],
+    "examples_de": [["Die **kasachischen** Nomaden lebten traditionell in tragbaren Jurten in den Steppen", "Viele **kasachische** Familien pflegen noch ihre traditionellen Bräuche und Feste"], ["Sie lernte **Kasachisch**, um besser mit ihrer Gastfamilie kommunizieren zu können", "**Kasachisch** verwendet in Kasachstan ein modifiziertes kyrillisches Alphabet"]]
+  },
+  {
+    "lemma": "kazakhstan",
+    "meanings_de": ["zentralasiatisches Land"],
+    "definitions_de": ["größtes Binnenland der Welt, gelegen in Zentralasien und Osteuropa"],
+    "examples_de": [["**Kasachstan** erlangte 1991 die Unabhängigkeit von der Sowjetunion", "Die weiten Steppen **Kasachstans** erstrecken sich über Tausende von Kilometern"]]
+  },
+  {
+    "lemma": "kazakhstani",
+    "meanings_de": ["Kasachstaner"],
+    "definitions_de": ["Person, die Bürger oder Einheimischer Kasachstans ist, unabhängig vom ethnischen Hintergrund"],
+    "examples_de": [["Die **kasachstanische** Delegation präsentierte ihren Vorschlag auf der internationalen Konferenz", "Viele **Kasachstaner** sprechen sowohl Kasachisch als auch Russisch fließend"]]
+  },
+  {
+    "lemma": "kelvin",
+    "meanings_de": ["Temperatureinheit"],
+    "definitions_de": ["Basiseinheit der thermodynamischen Temperatur im Internationalen Einheitensystem, ausgehend vom absoluten Nullpunkt"],
+    "examples_de": [["Wasser gefriert bei 273,15 **Kelvin** unter normalem atmosphärischem Druck", "Wissenschaftler verwenden oft **Kelvin** bei der Messung extrem kalter Temperaturen"]]
+  },
+  {
+    "lemma": "kentish",
+    "meanings_de": ["aus Kent stammend"],
+    "definitions_de": ["von oder betreffend die englische Grafschaft Kent oder ihre Menschen und ihren Dialekt"],
+    "examples_de": [["Der **kentische** Dialekt hat mehrere einzigartige Wörter, die anderswo in England nicht zu finden sind", "Sie servierten traditionelles **kentisches** Bier im Dorfpub"]]
+  },
+  {
+    "lemma": "kentucky",
+    "meanings_de": ["US-Bundesstaat"],
+    "definitions_de": ["Bundesstaat im Südosten der Vereinigten Staaten, bekannt für Pferderennen, Bourbon und Bluegrass-Musik"],
+    "examples_de": [["**Kentucky** ist jeden Mai Gastgeber des berühmten Kentucky-Derby-Pferderennens", "Die sanften Hügel von **Kentucky** sind perfekt für die Zucht von Vollblutpferden"]]
+  },
+  {
+    "lemma": "kenya",
+    "meanings_de": ["ostafrikanisches Land"],
+    "definitions_de": ["Land in Ostafrika, bekannt für seine Wildlife-Safaris, vielfältigen Landschaften und athletischen Läufer"],
+    "examples_de": [["**Kenia** zieht Millionen von Touristen an, die die Tierwelt in seinen Nationalparks sehen wollen", "Der Große Afrikanische Grabenbruch verläuft durch **Kenia** und schafft spektakuläre Landschaften"]]
+  },
+  {
+    "lemma": "kenyan",
+    "meanings_de": ["Kenianer"],
+    "definitions_de": ["Einheimischer oder Bürger Kenias oder Person kenianischer Abstammung"],
+    "examples_de": [["Der **kenianische** Läufer gewann den Marathon mit einer Rekordzeit", "Viele **Kenianer** sprechen sowohl Englisch als auch Swahili als Amtssprachen"]]
+  },
+  {
+    "lemma": "keynesian",
+    "meanings_de": ["Keynesianer"],
+    "definitions_de": ["Ökonom oder Person, die die Wirtschaftstheorien von John Maynard Keynes unterstützt, die staatliche Intervention betonen"],
+    "examples_de": [["Der **keynesianische** Ökonom plädierte für erhöhte Staatsausgaben während der Rezession", "Viele **Keynesianer** glauben, dass Fiskalpolitik Wirtschaftszyklen effektiv steuern kann"]]
+  },
+  {
+    "lemma": "khalkha",
+    "meanings_de": ["mongolische Volksgruppe", "mongolische Sprache"],
+    "definitions_de": ["größte ethnische Gruppe der Mongolen, die hauptsächlich in der Mongolei lebt", "Standarddialekt der mongolischen Sprache, der von den Khalkha gesprochen wird"],
+    "examples_de": [["Die **Khalkha** machen etwa achtzig Prozent der mongolischen Bevölkerung aus", "Die traditionelle **Khalkha**-Kultur umfasst nomadische Viehzucht und Reiten"], ["**Khalkha** dient als Grundlage für das in Schulen gelehrte Standard-Mongolisch", "Die meisten offiziellen Dokumente in der Mongolei sind in **Khalkha**-Mongolisch verfasst"]]
+  },
+  {
+    "lemma": "khalsa",
+    "meanings_de": ["Sikh-Gemeinschaft"],
+    "definitions_de": ["kollektive Körperschaft initiierter Sikhs, gegründet von Guru Gobind Singh, die die Reinen repräsentiert"],
+    "examples_de": [["Mitglieder der **Khalsa** folgen strengen Regeln, einschließlich des Tragens von fünf Symbolen", "Die **Khalsa** wurde 1699 gegründet, um die Religionsfreiheit zu schützen"]]
+  },
+  {
+    "lemma": "khanty",
+    "meanings_de": ["sibirisches Volk", "uralische Sprache"],
+    "definitions_de": ["indigenes Volk Westsibiriens, traditionell in Rentierhaltung und Fischerei tätig", "uralische Sprache, die vom Volk der Chanten in Westsibirien gesprochen wird"],
+    "examples_de": [["Die **Chanten** leben seit Tausenden von Jahren in der Ob-Region", "Die traditionelle **chantische** Kultur dreht sich um Rentierhaltung und Flussfischerei"], ["**Chantisch** gehört zum ugrischen Zweig der uralischen Sprachen", "Nur wenige junge Menschen sprechen **Chantisch** noch als Muttersprache"]]
+  },
+  {
+    "lemma": "khartoum",
+    "meanings_de": ["Hauptstadt des Sudan"],
+    "definitions_de": ["Hauptstadt des Sudan, gelegen am Zusammenfluss des Blauen und Weißen Nils"],
+    "examples_de": [["**Khartum** dient als politisches und kommerzielles Zentrum des Sudan", "Die beiden Nilflüsse treffen sich in **Khartum** und schaffen ein einzigartiges geografisches Merkmal"]]
+  },
+  {
+    "lemma": "khedive",
+    "meanings_de": ["ägyptischer Vizekönigstitel"],
+    "definitions_de": ["Titel des Vizekönigs von Ägypten unter osmanischer Oberhoheit von 1867 bis 1914"],
+    "examples_de": [["Der **Khedive** regierte Ägypten mit beträchtlicher Autonomie vom Osmanischen Reich", "Ismail Pascha wurde der erste Herrscher, der offiziell den Titel **Khedive** trug"]]
+  },
+  {
+    "lemma": "khmer",
+    "meanings_de": ["kambodschanisches Volk", "kambodschanische Sprache"],
+    "definitions_de": ["Angehöriger der dominanten ethnischen Gruppe Kambodschas", "Amtssprache Kambodschas, die zur austroasiatischen Familie gehört"],
+    "examples_de": [["Die **Khmer** bewohnen die Region seit über zweitausend Jahren", "Die alte **Khmer**-Zivilisation erbaute die prächtigen Tempel von Angkor Wat"], ["Sie lernte **Khmer** während ihrer Freiwilligenarbeit in Kambodscha zu sprechen", "Die **Khmer**-Schrift hat ihr eigenes einzigartiges Alphabet mit 33 Konsonanten"]]
+  },
+  {
+    "lemma": "khoikhoi",
+    "meanings_de": ["südafrikanisches Volk"],
+    "definitions_de": ["indigenes Hirtenvolk des südwestlichen Afrikas, historisch bekannt für Rinderzucht"],
+    "examples_de": [["Die **Khoikhoi** waren geschickte Viehzüchter, die saisonal für Weideland wanderten", "Europäische Kolonisten trafen zuerst in der Kapregion auf die **Khoikhoi**"]]
+  },
+  {
+    "lemma": "khoisan",
+    "meanings_de": ["afrikanische Völkergruppe", "Sprachfamilie"],
+    "definitions_de": ["Sammelbegriff für indigene Jäger-Sammler-Völker des südlichen Afrikas", "Gruppe afrikanischer Sprachen, die durch Klicklaute gekennzeichnet sind"],
+    "examples_de": [["Die **Khoisan**-Völker gehören zu den ältesten Bewohnern des südlichen Afrikas", "Traditionelle **Khoisan**-Felskunst findet sich in der gesamten Region"], ["**Khoisan**-Sprachen weisen einzigartige Klicklaute auf, die in anderen Sprachfamilien nicht vorkommen", "Linguisten studieren **Khoisan**, um die frühe menschliche Sprachentwicklung zu verstehen"]]
+  },
+  {
+    "lemma": "kickapoo",
+    "meanings_de": ["indianischer Stamm"],
+    "definitions_de": ["Angehöriger eines algonkin-sprachigen indianischen Volkes, ursprünglich aus der Region der Großen Seen"],
+    "examples_de": [["Die **Kickapoo** lebten traditionell in Wigwams und praktizierten saisonale Migration", "Einige **Kickapoo**-Gemeinden leben heute in Kansas, Oklahoma, Texas und Mexiko"]]
+  },
+  {
+    "lemma": "kiev",
+    "meanings_de": ["ukrainische Hauptstadt"],
+    "definitions_de": ["Hauptstadt und größte Stadt der Ukraine am Dnjepr gelegen, auch als Kyiv bekannt"],
+    "examples_de": [["**Kiew** ist seit Jahrhunderten ein wichtiges Zentrum der osteuropäischen Kultur", "Die goldenen Kuppeln der **Kiewer** Kirchen dominieren die Skyline der Stadt"]]
+  },
+  {
+    "lemma": "kilimanjaro",
+    "meanings_de": ["afrikanischer Berg"],
+    "definitions_de": ["höchster Berg Afrikas, gelegen in Tansania nahe der kenianischen Grenze"],
+    "examples_de": [["Der **Kilimandscharo** zieht Tausende von Bergsteigern an, die seinen Gipfel erreichen wollen", "Der Schnee des **Kilimandscharo** ist aufgrund des Klimawandels zurückgegangen"]]
+  },
+  {
+    "lemma": "kilroy",
+    "meanings_de": ["Graffiti-Figur"],
+    "definitions_de": ["berühmte Graffiti-Zeichnung und Phrase aus dem Zweiten Weltkrieg, die eine kahle Figur zeigt, die über eine Mauer späht"],
+    "examples_de": [["**Kilroy** was here wurde zu einer beliebten Botschaft amerikanischer Soldaten", "Die **Kilroy**-Zeichnung erschien auf Wänden und Gebäuden in ganz Europa"]]
+  },
+  {
+    "lemma": "kingmaker",
+    "meanings_de": ["politischer Strippenzieher"],
+    "definitions_de": ["Person, die großen Einfluss bei der Wahl von Führern hat, besonders in der Politik, ohne selbst Macht anzustreben"],
+    "examples_de": [["Der Medienmogul wurde zum **Königsmacher**, indem er Präsidentschaftskandidaten unterstützte", "Mehrere Partei-**Strippenzieher** trafen sich privat, um über ihren Kandidaten zu entscheiden"]]
+  },
+  {
+    "lemma": "kiowa",
+    "meanings_de": ["Prärie-Indianerstamm"],
+    "definitions_de": ["Angehöriger eines indianischen Volkes, ursprünglich aus den südlichen Great Plains"],
+    "examples_de": [["Die **Kiowa** waren als geschickte Reiter und Büffeljäger bekannt", "Traditionelle **Kiowa**-Kunst umfasst aufwendige Perlenarbeiten und bemalte Tipis"]]
+  },
+  {
+    "lemma": "kirghiz",
+    "meanings_de": ["zentralasiatisches Volk"],
+    "definitions_de": ["Angehöriger eines Turkvolkes aus Kirgisistan und den umliegenden Regionen, auch als Kirgisen bekannt"],
+    "examples_de": [["Die **Kirgisen** lebten traditionell als nomadische Hirten in den Bergen", "Viele **kirgisische** Familien praktizieren noch die Adlerjagd als kulturelle Tradition"]]
+  },
+  {
+    "lemma": "kiribati",
+    "meanings_de": ["pazifischer Inselstaat"],
+    "definitions_de": ["Inselstaat im zentralen Pazifik, bestehend aus 33 Korallenatollen"],
+    "examples_de": [["**Kiribati** ist durch den Anstieg des Meeresspiegels aufgrund des Klimawandels ernsthaft bedroht", "Die internationale Datumsgrenze verläuft durch **Kiribati**, wodurch es als erstes jeden neuen Tag sieht"]]
+  },
+  {
+    "lemma": "kiswahili",
+    "meanings_de": ["Swahili-Sprache"],
+    "definitions_de": ["Bantusprache, die in Ostafrika weit verbreitet ist, auch einfach als Swahili bekannt"],
+    "examples_de": [["**Kiswahili** dient als Lingua franca in weiten Teilen Ostafrikas", "Viele Schüler in Tansania lernen **Kiswahili** als primäre Unterrichtssprache"]]
+  },
+  {
+    "lemma": "kiwi",
+    "meanings_de": ["flugunfähiger Vogel", "pelzige Frucht", "Neuseeländer"],
+    "definitions_de": ["flugunfähiger Vogel, der in Neuseeland heimisch ist, mit haarähnlichen Federn und langem Schnabel", "ovale Frucht mit pelziger brauner Schale und grünem Fruchtfleisch, auch Kiwifrucht genannt", "informeller Begriff für eine Person aus Neuseeland"],
+    "examples_de": [["Der **Kiwi** ist Neuseelands Nationalvogel und erscheint auf ihrer Währung", "Naturschutzmaßnahmen haben geholfen, den gefährdeten **Kiwi** vor dem Aussterben zu bewahren"], ["Sie fügte geschnittene **Kiwi** zum Obstsalat für zusätzliche Vitamine hinzu", "Der Supermarkt verkauft sowohl grüne als auch goldene Sorten von **Kiwis**"], ["Der **Kiwi**-Akzent unterscheidet sich deutlich von der australischen Aussprache", "Viele **Kiwis** genießen Outdoor-Aktivitäten wie Wandern und Rugby"]]
+  },
+  {
+    "lemma": "klamath",
+    "meanings_de": ["indianisches Volk"],
+    "definitions_de": ["Angehöriger eines indianischen Volkes, das traditionell im südlichen Oregon und nördlichen Kalifornien lebt"],
+    "examples_de": [["Die **Klamath** lebten historisch entlang des Klamath River und seiner Nebenflüsse", "Traditionelle **Klamath**-Flechtarbeiten werden für ihre komplizierten Designs hoch geschätzt"]]
+  },
+  {
+    "lemma": "klan",
+    "meanings_de": ["Geheimorganisation"],
+    "definitions_de": ["geheime Organisation, insbesondere bezogen auf den Ku-Klux-Klan, bekannt für Rassenhass"],
+    "examples_de": [["Der **Klan** hielt geheime Treffen ab, bei denen weiße Roben und Kapuzen getragen wurden", "Bürgerrechtler arbeiteten daran, die Aktivitäten des **Klans** aufzudecken und zu bekämpfen"]]
+  },
+  {
+    "lemma": "klondike",
+    "meanings_de": ["Goldrausch-Region"],
+    "definitions_de": ["Region im Yukon-Territorium Kanadas, berühmt für den Goldrausch von 1896 bis 1899"],
+    "examples_de": [["Tausende von Goldgräbern reisten zum **Klondike**, um ihr Glück zu suchen", "Die harten Winter im **Klondike** forderten während des Goldrauschs viele Leben"]]
+  },
+  {
+    "lemma": "knesset",
+    "meanings_de": ["israelisches Parlament"],
+    "definitions_de": ["Einkammerparlament Israels, bestehend aus 120 Mitgliedern, die durch Verhältniswahl gewählt werden"],
+    "examples_de": [["Die **Knesset** tagt in Jerusalem, um israelische Gesetze zu debattieren und zu verabschieden", "Mitglieder der **Knesset** werden alle vier Jahre gewählt, es sei denn, es werden vorzeitig Wahlen ausgerufen"]]
+  },
+  {
+    "lemma": "kobe",
+    "meanings_de": ["japanische Stadt"],
+    "definitions_de": ["bedeutende Hafenstadt in Japan, bekannt für ihr Rindfleisch und die Erholung von einem verheerenden Erdbeben"],
+    "examples_de": [["**Kobe** erholte sich bemerkenswert vom verheerenden Erdbeben von 1995", "Der Hafen von **Kobe** schlägt jährlich Millionen Tonnen Fracht um"]]
+  },
+  {
+    "lemma": "koine",
+    "meanings_de": ["gemeingriechischer Dialekt"],
+    "definitions_de": ["gemeinsamer Dialekt des antiken Griechisch, der zur Lingua franca des östlichen Mittelmeerraums wurde"],
+    "examples_de": [["Das Neue Testament wurde in **Koine**-Griechisch statt in klassischem Griechisch verfasst", "**Koine** diente als gemeinsame Sprache für Handel und Kommunikation über verschiedene Regionen hinweg"]]
+  },
+  {
+    "lemma": "kolkata",
+    "meanings_de": ["indische Metropole"],
+    "definitions_de": ["Großstadt in Ostindien, früher als Kalkutta bekannt, die als Hauptstadt von Westbengalen dient"],
+    "examples_de": [["**Kalkutta** war bis 1911 die Hauptstadt von Britisch-Indien", "Das kulturelle Erbe von **Kolkata** umfasst Literatur, Kunst und Kino"]]
+  },
+  {
+    "lemma": "komi",
+    "meanings_de": ["russische Volksgruppe", "uralische Sprache"],
+    "definitions_de": ["finno-ugrisches Volk, das in der Republik Komi im nordwestlichen Russland beheimatet ist", "uralische Sprache, die vom Volk der Komi mit zwei Hauptdialekten gesprochen wird"],
+    "examples_de": [["Die **Komi** leben seit Tausenden von Jahren traditionell von Jagd, Fischerei und Rentierzucht", "Viele **Komi** konvertierten zum orthodoxen Christentum, während sie Volkstraditionen beibehielten"], ["**Komi** verwendet ein modifiziertes kyrillisches Alphabet für sein Schriftsystem", "Kinder in der Republik Komi können **Komi** neben Russisch lernen"]]
+  },
+  {
+    "lemma": "kongo",
+    "meanings_de": ["afrikanisches Volk", "Bantusprache"],
+    "definitions_de": ["Bantu-sprechendes Volk, das in West-Zentralafrika lebt, hauptsächlich im Kongo, der DRK und Angola", "Bantusprache, die vom Kongo-Volk gesprochen wird, auch als Kikongo bekannt"],
+    "examples_de": [["Das **Kongo**-Königreich war einer der mächtigsten Staaten in Zentralafrika", "Traditionelle **Kongo**-Kunst umfasst komplizierte Holzschnitzereien und Textilien"], ["**Kongo** dient als Regionalsprache in mehreren afrikanischen Ländern", "Viele **Kongo**-Wörter wurden durch den Sklavenhandel nach Amerika gebracht"]]
+  },
+  {
+    "lemma": "koran",
+    "meanings_de": ["islamisches Heiliges Buch"],
+    "definitions_de": ["zentraler religiöser Text des Islam, von Muslimen als Offenbarungen Gottes an Mohammed geglaubt"],
+    "examples_de": [["Muslime glauben, dass der **Koran** die direkten Worte Allahs enthält", "Der **Koran** ist in 114 Kapitel unterteilt, die Suren genannt werden"]]
+  },
+  {
+    "lemma": "korea",
+    "meanings_de": ["ostasiatische Halbinsel"],
+    "definitions_de": ["Halbinsel in Ostasien, seit 1945 in Nordkorea und Südkorea geteilt"],
+    "examples_de": [["**Korea** hat ein reiches kulturelles Erbe, das Tausende von Jahren umspannt", "Die Teilung **Koreas** bleibt eine der angespanntesten Grenzen der Welt"]]
+  }
+]

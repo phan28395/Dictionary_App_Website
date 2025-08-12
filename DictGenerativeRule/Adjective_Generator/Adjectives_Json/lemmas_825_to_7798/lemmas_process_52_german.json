@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "insurgent",
+    "meanings_de": ["gegen Autorität rebellierend", "aufwärts wogend"],
+    "definitions_de": ["sich gegen eine etablierte Regierung oder Autorität erhebend, um deren Kontrolle herauszufordern oder zu stürzen", "eine aufwärts drängende Bewegung zeigend, wie Wellen oder Fluten, die kraftvoll nach oben strömen"],
+    "examples_de": [["Die **aufständischen** Truppen besetzten mehrere Regierungsgebäude", "**Rebellische** Gruppen organisierten Proteste gegen das neue Gesetz"], ["Die **aufwogenden** Wellen schlugen heftig gegen die Ufermauer", "Dampf stieg in **aufsteigenden** Schwaden aus den heißen Quellen"]]
+  },
+  {
+    "lemma": "insurmountable",
+    "meanings_de": ["unmöglich zu überwinden"],
+    "definitions_de": ["zu groß oder schwierig, um überwunden, bewältigt oder gelöst zu werden, unabhängig von den aufgewendeten Anstrengungen oder Ressourcen"],
+    "examples_de": [["Das Team stand vor **unüberwindlichen** Hindernissen bei der Projektfertigstellung", "Sprachbarrieren erwiesen sich als **unüberwindbar** für die neuen Einwanderer"]]
+  },
+  {
+    "lemma": "intact",
+    "meanings_de": ["vollständig und unbeschädigt"],
+    "definitions_de": ["vollständig und ganz erhalten bleibend, ohne dass irgendein Teil entfernt, zerbrochen oder beschädigt wurde"],
+    "examples_de": [["Die antike Vase blieb trotz des Erdbebens **intakt**", "Ihr Ruf ging **unbeschadet** aus der Untersuchung hervor"]]
+  },
+  {
+    "lemma": "intangible",
+    "meanings_de": ["nicht berührbar", "vage oder abstrakt"],
+    "definitions_de": ["ohne physische Substanz und daher nicht mit den Händen berührbar oder greifbar", "schwer zu definieren, zu verstehen oder genau zu erfassen aufgrund der abstrakten Natur"],
+    "examples_de": [["Liebe ist eine **immaterielle** Kraft, die Menschen verbindet", "Die **immateriellen** Vermögenswerte des Unternehmens umfassen Patente und Markenzeichen"], ["Es herrschte ein **unfassbares** Gefühl des Unbehagens im Raum", "Erfolg hängt von vielen **nicht greifbaren** Faktoren wie dem richtigen Timing ab"]]
+  },
+  {
+    "lemma": "integral",
+    "meanings_de": ["wesentlich für Vollständigkeit", "Ganzzahlen betreffend"],
+    "definitions_de": ["notwendig, um etwas vollständig zu machen oder einen wesentlichen Teil des Ganzen bildend", "sich auf ganze Zahlen beziehend oder mithilfe von Integration in der Mathematik durchgeführt"],
+    "examples_de": [["Bewegung ist **integraler** Bestandteil der Gesunderhaltung", "Vertrauen bildet einen **wesentlichen** Teil jeder Beziehung"], ["Die Integralrechnung-Prüfung behandelte bestimmte und unbestimmte **Integrale**", "Studenten lösten **integrale** Gleichungen mit verschiedenen mathematischen Methoden"]]
+  },
+  {
+    "lemma": "integrated",
+    "meanings_de": ["zu einem Ganzen verbunden"],
+    "definitions_de": ["verschiedene Teile oder Aspekte zu einem einheitlich funktionierenden Ganzen verknüpft oder koordiniert habend"],
+    "examples_de": [["Die Schule entwickelte einen **integrierten** Lehrplan über alle Fächer hinweg", "Moderne Smartphones bieten **integrierte** Kameras und Computersysteme"]]
+  },
+  {
+    "lemma": "integrative",
+    "meanings_de": ["verschiedene Elemente verbindend"],
+    "definitions_de": ["der Integration dienend oder dazu neigend, getrennte Elemente zu einem koordinierten Ganzen zu verbinden"],
+    "examples_de": [["**Integrative** Medizin kombiniert traditionelle und alternative Heilmethoden", "Das Unternehmen verfolgte einen **integrativen** Ansatz zur Problemlösung"]]
+  },
+  {
+    "lemma": "intelligible",
+    "meanings_de": ["verständlich"],
+    "definitions_de": ["fähig, klar vom Verstand oder den Sinnen verstanden oder begriffen zu werden"],
+    "examples_de": [["Ihre Handschrift war nach dem schnellen Schreiben kaum **verständlich**", "Der Professor machte komplexe Theorien für Erstsemester **begreiflich**"]]
+  },
+  {
+    "lemma": "intended",
+    "meanings_de": ["geplant oder beabsichtigt"],
+    "definitions_de": ["geplant, gemeint oder bewusst für einen bestimmten Zweck oder eine bestimmte Person entworfen"],
+    "examples_de": [["Das Geschenk war als Überraschung zu ihrem Geburtstag **gedacht**", "Diese Anweisungen sind nur für fortgeschrittene Benutzer **vorgesehen**"]]
+  },
+  {
+    "lemma": "intensified",
+    "meanings_de": ["verstärkt oder extremer gemacht"],
+    "definitions_de": ["im Grad, in der Stärke oder Schwere erhöht, um akuter oder ausgeprägter zu werden"],
+    "examples_de": [["Der Sturm **verstärkte** sich, als er sich der Küste näherte", "Die Sicherheitsmaßnahmen wurden nach der Bedrohungswarnung **intensiviert**"]]
+  },
+  {
+    "lemma": "intensifying",
+    "meanings_de": ["stärker werdend"],
+    "definitions_de": ["in Stärke, Grad oder Schwere auf fortlaufende oder progressive Weise zunehmend"],
+    "examples_de": [["Die **zunehmende** Hitze machte Arbeiten im Freien nahezu unmöglich", "**Intensivierender** Wettbewerb zwang Unternehmen zu ständigen Innovationen"]]
+  },
+  {
+    "lemma": "intensive",
+    "meanings_de": ["konzentriert und gründlich"],
+    "definitions_de": ["große Anstrengungen, Energie oder Ressourcen in konzentrierter, gründlicher Weise einbeziehend oder nutzend"],
+    "examples_de": [["Der Patient benötigte nach dem Unfall **intensive** Pflege", "Studenten besuchten einen **intensiven** Sprachkurs während der Sommerferien"]]
+  },
+  {
+    "lemma": "intentional",
+    "meanings_de": ["absichtlich getan"],
+    "definitions_de": ["bewusst mit absichtlichem Design oder Zweck getan, anstatt durch Zufall"],
+    "examples_de": [["Der Schaden schien eher **absichtlich** als zufällig zu sein", "Sie bemühte sich **bewusst**, alle einzubeziehen"]]
+  },
+  {
+    "lemma": "interactive",
+    "meanings_de": ["wechselseitige Aktion beinhaltend"],
+    "definitions_de": ["kontinuierlichen wechselseitigen Informationsaustausch oder gegenseitige Aktion zwischen Teilnehmern ermöglichend"],
+    "examples_de": [["Das Museum bietet **interaktive** Ausstellungen, die Kinder erkunden können", "Moderne Klassenzimmer nutzen **interaktive** Whiteboards für dynamischen Unterricht"]]
+  },
+  {
+    "lemma": "interchangeable",
+    "meanings_de": ["austauschbar"],
+    "definitions_de": ["fähig, anstelle voneinander verwendet zu werden, ohne einen Unterschied zu machen"],
+    "examples_de": [["Die Teile sind zwischen verschiedenen Automodellen **austauschbar**", "In diesem Rezept sind Honig und Ahornsirup **austauschbar**"]]
+  },
+  {
+    "lemma": "intercollegiate",
+    "meanings_de": ["zwischen Hochschulen"],
+    "definitions_de": ["zwischen verschiedenen Hochschulen oder deren Studenten existierend, durchgeführt oder teilnehmend"],
+    "examples_de": [["Sie nahm jedes Jahr an **interkollegialen** Schwimmmeisterschaften teil", "Das Debattierteam nimmt landesweit an **hochschulübergreifenden** Turnieren teil"]]
+  },
+  {
+    "lemma": "interconnected",
+    "meanings_de": ["miteinander verbunden"],
+    "definitions_de": ["verschiedene Teile oder Elemente habend, die gegenseitig miteinander verbunden oder verwandt sind"],
+    "examples_de": [["Globale Wirtschaften sind durch Handelsnetzwerke zunehmend **vernetzt**", "Die Körpersysteme sind **miteinander verbunden** und beeinflussen sich gegenseitig"]]
+  },
+  {
+    "lemma": "intercontinental",
+    "meanings_de": ["zwischen Kontinenten"],
+    "definitions_de": ["sich zwischen verschiedenen Kontinenten über ozeanische Entfernungen erstreckend, existierend oder reisend"],
+    "examples_de": [["Die Fluggesellschaft bietet **interkontinentale** Flüge zu sechs Kontinenten an", "**Interkontinentale** Raketen können Ziele über Ozeane hinweg erreichen"]]
+  },
+  {
+    "lemma": "interdependent",
+    "meanings_de": ["wechselseitig abhängig"],
+    "definitions_de": ["voneinander für Unterstützung, Funktion oder Bedeutung in einer reziproken Beziehung abhängig"],
+    "examples_de": [["Das Ökosystem enthält **voneinander abhängige** Arten, die aufeinander angewiesen sind", "Moderne Nationen sind durch globale Lieferketten **interdependent**"]]
+  },
+  {
+    "lemma": "interfaith",
+    "meanings_de": ["zwischen verschiedenen Religionen"],
+    "definitions_de": ["sich auf verschiedene Religionen oder Mitglieder verschiedener religiöser Gruppen beziehend oder diese einbeziehend"],
+    "examples_de": [["Das Gemeindezentrum veranstaltet monatlich **interreligiöse** Dialogrunden", "Eine **konfessionsübergreifende** Ehe erfordert Verständnis und Respekt"]]
+  },
+  {
+    "lemma": "interfering",
+    "meanings_de": ["Störung verursachend"],
+    "definitions_de": ["verhindernd, dass etwas ordnungsgemäß fortgesetzt oder durchgeführt wird, indem man sich einmischt"],
+    "examples_de": [["Der **störende** Nachbar beschwerte sich ständig über normale Aktivitäten", "Funksignale **störten** die Flugzeugkommunikation"]]
+  },
+  {
+    "lemma": "intergalactic",
+    "meanings_de": ["zwischen Galaxien"],
+    "definitions_de": ["zwischen verschiedenen Galaxien im Weltraum existierend, vorkommend oder reisend"],
+    "examples_de": [["Wissenschaftler erforschen den **intergalaktischen** Raum, um dunkle Materie zu verstehen", "Der Roman handelte von **intergalaktischen** Reisen zwischen fernen Zivilisationen"]]
+  },
+  {
+    "lemma": "interim",
+    "meanings_de": ["vorübergehend oder vorläufig"],
+    "definitions_de": ["vorübergehend oder für die Zwischenzeit dienend, bis eine dauerhafte Regelung getroffen wird"],
+    "examples_de": [["Ein **Interim**-Manager wurde ernannt, während die Suche fortgesetzt wurde", "Der Ausschuss veröffentlichte einen **vorläufigen** Bericht über ihre Erkenntnisse"]]
+  },
+  {
+    "lemma": "interlaced",
+    "meanings_de": ["miteinander verflochten"],
+    "definitions_de": ["in einem alternierenden Muster gekreuzt oder verwoben wie Fäden oder Finger"],
+    "examples_de": [["Der Korb zeigte wunderschön **verflochtene** Bambusstreifen", "Ihre **verschränkten** Finger zeigten die tiefe Verbindung des Paares"]]
+  },
+  {
+    "lemma": "interlacing",
+    "meanings_de": ["miteinander verweben"],
+    "definitions_de": ["in alternierendem Muster kreuzend oder webend, um eine einheitliche Struktur zu bilden"],
+    "examples_de": [["Die **sich verflechtenden** Äste bildeten ein natürliches Blätterdach", "Video nutzt **Zeilensprung**-Techniken zur flüssigen Bewegungsdarstellung"]]
+  },
+  {
+    "lemma": "interlocking",
+    "meanings_de": ["ineinandergreifend"],
+    "definitions_de": ["fest zusammenpassend durch Teile, die miteinander verbunden sind oder ineinandergreifen"],
+    "examples_de": [["Die Puzzleteile hatten **ineinandergreifende** Kanten für sicheren Halt", "**Verflochtene** Aufsichtsräte verbanden die großen Konzerne miteinander"]]
+  },
+  {
+    "lemma": "intermediate",
+    "meanings_de": ["zwischen Extremen liegend"],
+    "definitions_de": ["zwischen zwei Dingen in Zeit, Ort, Reihenfolge, Charakter oder Grad kommend"],
+    "examples_de": [["Sie schrieb sich nach Abschluss der Anfängerstufe für **mittleres** Spanisch ein", "Die **Zwischenstufe** der Entwicklung zeigt gemischte Eigenschaften"]]
+  },
+  {
+    "lemma": "intermittent",
+    "meanings_de": ["mit Unterbrechungen"],
+    "definitions_de": ["in unregelmäßigen Abständen mit wiederholten Perioden des Anhaltens und Beginnens auftretend"],
+    "examples_de": [["Die Region erlebt das ganze Jahr über **unregelmäßige** Niederschläge", "Sie litt mehrere Monate lang unter **wiederkehrenden** Kopfschmerzen"]]
+  },
+  {
+    "lemma": "internationalist",
+    "meanings_de": ["internationale Zusammenarbeit befürwortend"],
+    "definitions_de": ["Zusammenarbeit und Verständigung zwischen Nationen gegenüber Isolationismus befürwortend oder praktizierend"],
+    "examples_de": [["Die **internationalistische** Perspektive betont globale Zusammenarbeit beim Klimaschutz", "Seine **internationalistischen** Ansichten prägten jahrzehntelang die Außenpolitik"]]
+  },
+  {
+    "lemma": "internecine",
+    "meanings_de": ["gegenseitig zerstörerisch"],
+    "definitions_de": ["für beide Seiten in einem Konflikt zerstörerisch, besonders innerhalb einer Gruppe"],
+    "examples_de": [["Die Partei wurde durch **brudermörderische** Konflikte zwischen Fraktionen geschwächt", "**Vernichtende** Kriege verwüsteten die Region über Generationen hinweg"]]
+  },
+  {
+    "lemma": "interoperable",
+    "meanings_de": ["zusammenarbeitsfähig"],
+    "definitions_de": ["fähig, effektiv mit anderen Systemen oder Organisationen zusammenzuarbeiten", "in der Lage, Informationen zwischen verschiedenen Computersystemen auszutauschen und zu nutzen"],
+    "examples_de": [["Rettungsdienste benötigen **interoperable** Kommunikationssysteme zur Koordination", "Das Militär benötigt **kompatible** Ausrüstung unter verbündeten Streitkräften"], ["Softwareentwickler erstellen **interoperable** Programme, die Daten austauschen", "Cloud-Plattformen bieten **systemübergreifende** Dienste verschiedener Anbieter"]]
+  },
+  {
+    "lemma": "interpersonal",
+    "meanings_de": ["zwischenmenschlich"],
+    "definitions_de": ["sich auf Beziehungen oder Kommunikation zwischen Menschen in sozialen Interaktionen beziehend"],
+    "examples_de": [["Starke **zwischenmenschliche** Fähigkeiten sind für Teamführung unerlässlich", "Die Therapie half, ihre **interpersonalen** Beziehungsdynamiken zu verbessern"]]
+  },
+  {
+    "lemma": "interplanetary",
+    "meanings_de": ["zwischen Planeten"],
+    "definitions_de": ["zwischen verschiedenen Planeten innerhalb eines Sonnensystems existierend, vorkommend oder reisend"],
+    "examples_de": [["Die NASA plant **interplanetare** Missionen zum Mars und darüber hinaus", "**Interplanetarer** Staub beeinträchtigt Raumfahrzeuge während langer Reisen"]]
+  },
+  {
+    "lemma": "interpretative",
+    "meanings_de": ["Interpretation beinhaltend"],
+    "definitions_de": ["sich auf eine Interpretation oder Erklärung der Bedeutung von etwas beziehend oder diese bereitstellend"],
+    "examples_de": [["Die Tänzerin gab eine **interpretative** Darbietung der Musik", "Museen nutzen **erklärende** Displays zur Erläuterung historischer Artefakte"]]
+  },
+  {
+    "lemma": "interpreted",
+    "meanings_de": ["erklärt oder übersetzt"],
+    "definitions_de": ["erklärt, verstanden oder von einer Form in eine andere übersetzt worden seiend"],
+    "examples_de": [["Der antike Text wurde von Sprachwissenschaftlern **interpretiert**", "Ihr Schweigen wurde von anderen als Zustimmung **gedeutet**"]]
+  },
+  {
+    "lemma": "interpretive",
+    "meanings_de": ["Bedeutung erklärend"],
+    "definitions_de": ["darauf ausgelegt, die Bedeutung oder Wichtigkeit von etwas für das Publikum zu erklären"],
+    "examples_de": [["Parkranger bieten **erklärende** Führungen zu historischen Stätten an", "Das Museum stellte **interpretative** Führer für Schulgruppen ein"]]
+  },
+  {
+    "lemma": "interracial",
+    "meanings_de": ["zwischen verschiedenen Rassen"],
+    "definitions_de": ["zwischen Menschen verschiedener Rassen oder ethnischer Hintergründe existierend oder diese einbeziehend"],
+    "examples_de": [["**Gemischtrassige** Ehen sind häufiger und akzeptierter geworden", "Die Schule fördert **interrassisches** Verständnis durch Kulturprogramme"]]
+  },
+  {
+    "lemma": "interred",
+    "meanings_de": ["formell begraben"],
+    "definitions_de": ["in einem Grab oder einer Gruft mit formellen oder zeremoniellen Bestattungsriten beigesetzt"],
+    "examples_de": [["Der Präsident wurde auf dem Arlington Nationalfriedhof **beigesetzt**", "Antike Pharaonen wurden mit Schätzen und Dienern **bestattet**"]]
+  },
+  {
+    "lemma": "interrelated",
+    "meanings_de": ["miteinander verbunden"],
+    "definitions_de": ["gegenseitige oder wechselseitige Beziehung oder Verbindung zwischen verschiedenen Elementen habend"],
+    "examples_de": [["Der Klimawandel umfasst viele **miteinander verbundene** Umweltfaktoren", "Der Kurs untersucht **zusammenhängende** Themen der Weltliteratur"]]
+  },
+  {
+    "lemma": "interrogative",
+    "meanings_de": ["Fragen stellend", "grammatische Frageform"],
+    "definitions_de": ["die Kraft oder Form einer Frage habend, um Informationen zu suchen", "ein Wort oder eine Konstruktion bezeichnend, die grammatisch beim Stellen von Fragen verwendet wird"],
+    "examples_de": [["Sie sprach während des gesamten Interviews in einem **fragenden** Ton", "Seine **verhörartige** Art machte Zeugen unbehaglich"], ["Schüler lernten **Interrogativpronomen** wie wer, was und wo", "Die **interrogative** Satzstruktur erfordert eine spezifische Wortstellung"]]
+  },
+  {
+    "lemma": "interrupted",
+    "meanings_de": ["unterbrochen oder gestoppt"],
+    "definitions_de": ["gestoppt oder unterbrochen durch etwas, das eine vorübergehende Fortsetzung verhindert"],
+    "examples_de": [["Ihr Gespräch wurde durch einen Telefonanruf **unterbrochen**", "Der Stromausfall **unterbrach** die Arbeit für mehrere Stunden"]]
+  },
+  {
+    "lemma": "interscholastic",
+    "meanings_de": ["zwischen Schulen"],
+    "definitions_de": ["zwischen verschiedenen Schulen existierend oder durchgeführt oder Schüler aus mehreren Schulen einbeziehend"],
+    "examples_de": [["Das **schulübergreifende** Schachturnier zog hunderte Schüler an", "Sie brillierte landesweit in **interschulischen** Debattierwettbewerben"]]
+  },
+  {
+    "lemma": "intersecting",
+    "meanings_de": ["sich kreuzend"],
+    "definitions_de": ["sich an einem Punkt treffend und kreuzend, um einen Winkel oder eine Kreuzung zu bilden"],
+    "examples_de": [["Die **sich schneidenden** Linien bildeten einen perfekten rechten Winkel", "Ihre **sich kreuzenden** Karrierewege führten zur Zusammenarbeit"]]
+  },
+  {
+    "lemma": "interstate",
+    "meanings_de": ["zwischen Bundesstaaten"],
+    "definitions_de": ["zwischen verschiedenen Bundesstaaten innerhalb eines Landes existierend oder durchgeführt"],
+    "examples_de": [["**Zwischenstaatliche** Handelsvorschriften betreffen landesweit Transportunternehmen", "Sie reisten auf **bundesstaatenübergreifenden** Autobahnen durchs Land"]]
+  },
+  {
+    "lemma": "interstellar",
+    "meanings_de": ["zwischen Sternen"],
+    "definitions_de": ["zwischen Sternen in einer Galaxie oder im Universum vorkommend oder gelegen"],
+    "examples_de": [["Der **interstellare** Raum enthält riesige Mengen an Staub und Gas", "Die Sonde erreichte den **interstellaren** Raum jenseits unseres Sonnensystems"]]
+  },
+  {
+    "lemma": "intertribal",
+    "meanings_de": ["zwischen Stämmen"],
+    "definitions_de": ["zwischen verschiedenen Stämmen oder Stammesgruppen existierend oder vorkommend"],
+    "examples_de": [["**Stammesübergreifende** Räte arbeiten daran, Streitigkeiten friedlich zu lösen", "Das Powwow feiert **intertribale** Einheit und kulturellen Austausch"]]
+  },
+  {
+    "lemma": "intervening",
+    "meanings_de": ["dazwischenkommend"],
+    "definitions_de": ["in der Zeit oder im Raum zwischen zwei Dingen oder Ereignissen auftretend"],
+    "examples_de": [["Viele Veränderungen ereigneten sich in den **dazwischenliegenden** Jahren", "Die **dazwischenliegenden** Berge blockierten Funksignale effektiv"]]
+  },
+  {
+    "lemma": "interwoven",
+    "meanings_de": ["miteinander verwoben"],
+    "definitions_de": ["so eng miteinander vermischt oder kombiniert, dass eine Trennung schwierig wird"],
+    "examples_de": [["Ihre Leben wurden durch gemeinsame Erfahrungen **miteinander verwoben**", "Die Handlung zeigt **verflochtene** Handlungsstränge mehrerer Charaktere"]]
+  },
+  {
+    "lemma": "intestate",
+    "meanings_de": ["ohne Testament"],
+    "definitions_de": ["sterbend ohne ein gültiges Testament für die Vermögensverteilung erstellt zu haben", "sich auf die Erbschaft beziehend, wenn jemand ohne gültiges Testament stirbt"],
+    "examples_de": [["Er starb **ohne Testament**, was rechtliche Komplikationen für die Erben verursachte", "Die Erbfolge bei **Fehlen eines Testaments** bestimmte die Vermögensverteilung"], ["**Testamentslose** Nachlässe folgen staatlichen Gesetzen zur Vermögensverteilung", "Anwälte spezialisieren sich auf **erbrechtliche** Fälle ohne Testament"]]
+  },
+  {
+    "lemma": "intestinal",
+    "meanings_de": ["den Darm betreffend"],
+    "definitions_de": ["sich auf den Darm im Verdauungssystem beziehend oder diesen betreffend"],
+    "examples_de": [["Der Patient litt an einer **Darm**entzündung, die behandelt werden musste", "**Intestinale** Bakterien spielen wichtige Rollen für die menschliche Gesundheit"]]
+  }
+]

@@ -1,0 +1,278 @@
+[
+  {
+    "lemma": "psalm",
+    "meanings_de": ["religiöses Lied oder Hymne"],
+    "definitions_de": ["heiliges Lied oder Gedicht aus religiösen Texten, insbesondere aus dem biblischen Buch der Psalmen"],
+    "examples_de": [["Die Gemeinde sang den dreiundzwanzigsten **Psalm** während der Gedenkfeier", "Sie fand Trost beim Lesen von **Psalmen** vor dem Schlafengehen"]]
+  },
+  {
+    "lemma": "pseudo",
+    "meanings_de": ["falscher oder unechter Mensch"],
+    "definitions_de": ["Person, die vorgibt, etwas zu sein, was sie nicht ist, oft um andere zu täuschen"],
+    "examples_de": [["Dieser **Pseudo**-Intellektuelle zitiert ständig Bücher, die er nie gelesen hat", "Vertraue ihm nicht, er ist nur ein **Pseudo**, der dazugehören will"]]
+  },
+  {
+    "lemma": "pseudonym",
+    "meanings_de": ["falscher Name für Autorschaft"],
+    "definitions_de": ["erfundener Name, den ein Autor oder Künstler anstelle seines echten Namens verwendet"],
+    "examples_de": [["Mark Twain war das **Pseudonym** von Samuel Clemens", "Die Agentin arbeitete während ihrer Karriere unter mehreren **Pseudonymen**"]]
+  },
+  {
+    "lemma": "pseudoscience",
+    "meanings_de": ["falsche wissenschaftliche Praxis"],
+    "definitions_de": ["Sammlung von Überzeugungen oder Praktiken, die fälschlicherweise als auf wissenschaftlicher Methode und Wissen basierend angesehen werden"],
+    "examples_de": [["Astrologie wird von der Wissenschaftsgemeinde als **Pseudowissenschaft** betrachtet", "Der Zeitschriftenartikel bewarb gefährliche **Pseudowissenschaft** über Wunderheilungen"]]
+  },
+  {
+    "lemma": "psyche",
+    "meanings_de": ["menschlicher Geist und Seele"],
+    "definitions_de": ["Gesamtheit des menschlichen Geistes, bewusst und unbewusst, einschließlich Gedanken, Gefühlen und Verhaltensweisen"],
+    "examples_de": [["Jahre des Krieges hatten tiefe Narben in seiner **Psyche** hinterlassen", "Die Therapeutin half ihr, die verborgenen Tiefen ihrer **Psyche** zu erforschen"]]
+  },
+  {
+    "lemma": "psychedelia",
+    "meanings_de": ["psychedelische Kultur und Kunst"],
+    "definitions_de": ["Stil von Kunst, Musik und Kultur, der mit psychedelischen Drogen und veränderten Bewusstseinszuständen verbunden ist"],
+    "examples_de": [["Das Museum zeigte eine Ausstellung über **Psychedelia** und Gegenkultur der 1960er Jahre", "Das neue Album der Band schöpft stark aus klassischen **Psychedelia**-Einflüssen"]]
+  },
+  {
+    "lemma": "psychiatrist",
+    "meanings_de": ["Arzt für psychische Gesundheit"],
+    "definitions_de": ["Facharzt, der auf die Diagnose und Behandlung psychischer Erkrankungen durch Therapie und Medikamente spezialisiert ist"],
+    "examples_de": [["Sie vereinbarte einen Termin bei einem **Psychiater** wegen ihrer Depression", "Der **Psychiater** verschrieb Medikamente zur Behandlung seiner Angststörung"]]
+  },
+  {
+    "lemma": "psychiatry",
+    "meanings_de": ["medizinisches Fachgebiet psychische Gesundheit"],
+    "definitions_de": ["Teilbereich der Medizin, der sich mit Diagnose, Behandlung und Prävention psychischer Erkrankungen befasst"],
+    "examples_de": [["Er entschied sich nach dem Medizinstudium für eine Spezialisierung in **Psychiatrie**", "Die moderne **Psychiatrie** kombiniert Medikamente mit verschiedenen Therapieformen"]]
+  },
+  {
+    "lemma": "psychic",
+    "meanings_de": ["Person mit übernatürlichen Fähigkeiten"],
+    "definitions_de": ["Person, die behauptet, außersinnliche Wahrnehmung zu nutzen, um Informationen zu erkennen, die den normalen Sinnen verborgen sind"],
+    "examples_de": [["Die **Wahrsagerin** behauptete, mit Verstorbenen kommunizieren zu können", "Viele Menschen konsultieren **Hellseher** für Ratschläge über ihre Zukunft"]]
+  },
+  {
+    "lemma": "psycho",
+    "meanings_de": ["psychisch instabile Person"],
+    "definitions_de": ["informeller Begriff für jemanden, der sich gefährlich, gewalttätig oder psychisch instabil verhält"],
+    "examples_de": [["Halte dich von ihm fern, alle sagen, er sei ein kompletter **Psycho**", "Der Film zeigte einen **Psychopathen**, der die Kleinstadt terrorisierte"]]
+  },
+  {
+    "lemma": "psychoanalyst",
+    "meanings_de": ["Spezialist für psychische Therapie"],
+    "definitions_de": ["Therapeut, der Psychoanalyse zur Behandlung psychischer und emotionaler Störungen durch Erforschung unbewusster Gedanken einsetzt"],
+    "examples_de": [["Die **Psychoanalytikerin** half ihr, ihre wiederkehrenden Träume zu verstehen", "Er besuchte zweimal wöchentlich einen **Psychoanalytiker** für tiefgehende Therapiesitzungen"]]
+  },
+  {
+    "lemma": "psychopath",
+    "meanings_de": ["Person mit antisozialer Störung"],
+    "definitions_de": ["Person mit einer Persönlichkeitsstörung, die durch anhaltendes antisoziales Verhalten und mangelnde Empathie gekennzeichnet ist"],
+    "examples_de": [["Der Detektiv vermutete, dass sie es mit einem gefährlichen **Psychopathen** zu tun hatten", "Studien zeigen, dass **Psychopathen** oft charmant und manipulativ wirken"]]
+  },
+  {
+    "lemma": "psychopathy",
+    "meanings_de": ["antisoziale Persönlichkeitsstörung"],
+    "definitions_de": ["psychische Störung, gekennzeichnet durch anhaltendes antisoziales Verhalten, beeinträchtigte Empathie und kühne, enthemmte Eigenschaften"],
+    "examples_de": [["Forscher untersuchen **Psychopathie**, um kriminelles Verhalten besser zu verstehen", "Der Test misst verschiedene Merkmale, die mit **Psychopathie** verbunden sind"]]
+  },
+  {
+    "lemma": "psychotherapist",
+    "meanings_de": ["Anbieter psychischer Gesundheitstherapie"],
+    "definitions_de": ["ausgebildeter Fachmann, der psychische und emotionale Störungen durch psychologische statt medizinische Methoden behandelt"],
+    "examples_de": [["Die **Psychotherapeutin** wendete kognitive Verhaltenstherapietechniken an", "Sie fand einen **Psychotherapeuten**, der auf Traumabewältigung spezialisiert war"]]
+  },
+  {
+    "lemma": "psychotherapy",
+    "meanings_de": ["Behandlungsmethode psychische Gesundheit"],
+    "definitions_de": ["Behandlung psychischer Störungen durch psychologische statt medizinische Mittel mittels Gesprächen und Verhaltensinterventionen"],
+    "examples_de": [["Regelmäßige **Psychotherapie**sitzungen halfen ihm, seine Angst zu bewältigen", "Verschiedene Formen der **Psychotherapie** funktionieren bei unterschiedlichen Erkrankungen besser"]]
+  },
+  {
+    "lemma": "psychotic",
+    "meanings_de": ["Person mit Psychose"],
+    "definitions_de": ["Person, die an Psychose leidet, einer schweren psychischen Störung mit Realitätsverlust"],
+    "examples_de": [["Der **psychotische** Patient musste sofort hospitalisiert werden", "Ohne Medikamente hatte er **psychotische** Episoden"]]
+  },
+  {
+    "lemma": "pub",
+    "meanings_de": ["Trinklokal"],
+    "definitions_de": ["öffentliches Haus, in dem alkoholische Getränke verkauft und vor Ort konsumiert werden"],
+    "examples_de": [["Sie trafen sich jeden Freitagabend im örtlichen **Pub**", "Das historische **Wirtshaus** schenkte seit 1750 Getränke aus"]]
+  },
+  {
+    "lemma": "puberty",
+    "meanings_de": ["jugendliche Entwicklungsphase"],
+    "definitions_de": ["Zeitraum, in dem Jugendliche die Geschlechtsreife erreichen und fortpflanzungsfähig werden"],
+    "examples_de": [["Die meisten Kinder beginnen die **Pubertät** zwischen 10 und 14 Jahren", "Der Gesundheitsunterricht behandelte die körperlichen Veränderungen während der **Pubertät**"]]
+  },
+  {
+    "lemma": "publican",
+    "meanings_de": ["Kneipenwirt oder -betreiber"],
+    "definitions_de": ["Person, die eine Kneipe oder ein öffentliches Haus besitzt oder führt"],
+    "examples_de": [["Der freundliche **Wirt** kannte alle Stammgäste beim Namen", "Als **Gastwirtin** war sie für die Aufrechterhaltung der Ordnung im Lokal verantwortlich"]]
+  },
+  {
+    "lemma": "publicist",
+    "meanings_de": ["Öffentlichkeitsarbeiter"],
+    "definitions_de": ["Person, die für die Erzeugung und Verwaltung von Publicity für einen Kunden oder eine Organisation verantwortlich ist"],
+    "examples_de": [["Die Prominente engagierte einen **Publizisten** für ihre Medienauftritte", "Der **PR-Manager** arrangierte Interviews mit großen Nachrichtensendern"]]
+  },
+  {
+    "lemma": "publicity",
+    "meanings_de": ["öffentliche Aufmerksamkeit oder Werbung"],
+    "definitions_de": ["Beachtung oder Aufmerksamkeit, die jemandem oder etwas durch die Medien zu Werbezwecken zuteil wird"],
+    "examples_de": [["Der Skandal erzeugte unerwünschte **Publicity** für das Unternehmen", "Gute **Öffentlichkeitsarbeit** half dem neuen Restaurant, Kunden anzuziehen"]]
+  },
+  {
+    "lemma": "publicizing",
+    "meanings_de": ["Akt der öffentlichen Bewerbung"],
+    "definitions_de": ["Prozess, etwas durch Werbung oder Medienberichterstattung allgemein bekannt zu machen"],
+    "examples_de": [["Die **Bekanntmachung** der Veranstaltung erforderte monatelange sorgfältige Planung", "Soziale Medien machten die **Bewerbung** kleiner Unternehmen viel einfacher"]]
+  },
+  {
+    "lemma": "puck",
+    "meanings_de": ["Hockeyspielscheibe"],
+    "definitions_de": ["harte Gummischeibe, die beim Eishockey verwendet wird und die Spieler mit ihren Schlägern schlagen"],
+    "examples_de": [["Der Torwart verhinderte, dass der **Puck** ins Tor gelangte", "Er behielt den signierten **Puck** als Andenken an das Meisterschaftsspiel"]]
+  },
+  {
+    "lemma": "pudding",
+    "meanings_de": ["süße Nachspeise"],
+    "definitions_de": ["süße Nachspeise mit weicher, dicker, cremiger Konsistenz, oft aus Milch, Zucker und Aromen hergestellt"],
+    "examples_de": [["Schokoladen**pudding** war ihre Lieblingsnachspeise als Kind", "Das Restaurant servierte Brot**pudding** mit Vanillesauce"]]
+  },
+  {
+    "lemma": "puddle",
+    "meanings_de": ["kleine Wasserlache"],
+    "definitions_de": ["kleine Ansammlung von Flüssigkeit, besonders Wasser, die auf einer Oberfläche liegt"],
+    "examples_de": [["Kinder lieben es, nach dem Regen in **Pfützen** zu springen", "Sie trat vorsichtig um die **Pfütze** auf dem Gehweg herum"]]
+  },
+  {
+    "lemma": "pueblo",
+    "meanings_de": ["südwestliche Gemeinschaftswohnung"],
+    "definitions_de": ["Gemeinschaftswohnung, die von Ureinwohnern im Südwesten der USA aus Stein oder Lehm gebaut wurde"],
+    "examples_de": [["Das alte **Pueblo** war seit über 800 Jahren bewohnt", "Touristen besuchten das historische **Pueblo**, um etwas über indigene Kultur zu lernen"]]
+  },
+  {
+    "lemma": "puff",
+    "meanings_de": ["kleiner Luftstoß", "leichtes Gebäck"],
+    "definitions_de": ["kurzer, explosiver Atem-, Wind- oder Rauchstoß", "leichtes Gebäck gefüllt mit Sahne, Fleisch oder anderen Zutaten"],
+    "examples_de": [["Ein **Rauchschwaden** stieg aus dem Schornstein auf", "Der Zauberer verschwand in einer **Wolke** aus buntem Rauch"], ["Sie bestellte **Windbeutel** aus der französischen Bäckerei", "Die Käse**häppchen** wurden als Vorspeisen auf der Party serviert"]]
+  },
+  {
+    "lemma": "puffer",
+    "meanings_de": ["aufblasbare Fischart", "Atemhilfsgerät"],
+    "definitions_de": ["Fisch, der seinen Körper bei Bedrohung aufbläht, auch Kugelfisch genannt", "Gerät oder Medikament zur Unterstützung der Atmung, insbesondere ein Inhalator"],
+    "examples_de": [["Der **Kugelfisch** blähte sich auf die doppelte Größe auf, als er erschrak", "Japanische Restaurants benötigen spezielle Lizenzen, um **Fugu** zu servieren"], ["Sie trug ihren Asthma**inhalator** immer in ihrer Handtasche", "Das Kind lernte, das **Asthmaspray** richtig zu benutzen"]]
+  },
+  {
+    "lemma": "pufferfish",
+    "meanings_de": ["aufblasbarer Meeresfisch"],
+    "definitions_de": ["Fisch, der seinen Körper bei Bedrohung mit Wasser oder Luft aufblasen kann, oft mit tödlichen Giftstoffen"],
+    "examples_de": [["Der **Kugelfisch** gilt in Japan trotz seiner Giftigkeit als Delikatesse", "Taucher beobachteten, wie sich der **Kugelfisch** zu einer stacheligen Kugel aufblähte"]]
+  },
+  {
+    "lemma": "puffin",
+    "meanings_de": ["Seevogel mit buntem Schnabel"],
+    "definitions_de": ["kleiner Seevogel mit großem, buntem Schnabel, schwarz-weißem Gefieder, in nördlichen Küstenregionen vorkommend"],
+    "examples_de": [["Touristen reisten nach Island, um die **Papageientaucher** zu fotografieren", "Der **Papageientaucher** nutzte seine Flügel, um unter Wasser nach Fischen zu tauchen"]]
+  },
+  {
+    "lemma": "puffing",
+    "meanings_de": ["schweres Atmen"],
+    "definitions_de": ["Akt des Atmens in kurzen Stößen, oft durch Anstrengung oder beim Rauchen"],
+    "examples_de": [["Nach dem Treppensteigen **keuchte** er schwer", "Die alte Dampfmaschine **pustete** Wolken weißen Rauchs aus"]]
+  },
+  {
+    "lemma": "pug",
+    "meanings_de": ["kleine Hunderasse"],
+    "definitions_de": ["kleine Hunderasse mit faltigem Gesicht, geringeltem Schwanz und kompaktem, quadratischem Körper"],
+    "examples_de": [["Ihr **Mops** folgte ihr überall im Haus", "**Möpse** sind für ihre verspielte und liebevolle Persönlichkeit bekannt"]]
+  },
+  {
+    "lemma": "puke",
+    "meanings_de": ["Erbrochenes oder erbrochene Masse"],
+    "definitions_de": ["informeller Begriff für Erbrochenes oder den Akt des Erbrechens"],
+    "examples_de": [["Der Geruch von **Erbrochenem** erfüllte das Badezimmer nach der Party", "Er musste die **Kotze** vom Autositz reinigen"]]
+  },
+  {
+    "lemma": "pullback",
+    "meanings_de": ["Rückzug oder Rücknahme"],
+    "definitions_de": ["strategischer Rückzug oder Rücknahme von einer Position, Investition oder Verpflichtung"],
+    "examples_de": [["Das Militär kündigte einen **Rückzug** aus der umkämpften Region an", "Investoren sahen einen großen **Kursrückgang** bei Technologieaktien"]]
+  },
+  {
+    "lemma": "puller",
+    "meanings_de": ["Person oder Gerät das zieht"],
+    "definitions_de": ["Person oder mechanisches Gerät, das etwas zu sich zieht oder heranzieht"],
+    "examples_de": [["Der Seil**zieher** half beim Bewegen schwerer Ausrüstung", "Er arbeitete als Rikscha**fahrer** in der geschäftigen Stadt"]]
+  },
+  {
+    "lemma": "pulley",
+    "meanings_de": ["Rad für Hebevorrichtung"],
+    "definitions_de": ["Rad mit gerilltem Rand, um das ein Seil läuft, verwendet zum Heben schwerer Lasten"],
+    "examples_de": [["Sie benutzten ein **Flaschenzug**system, um das Klavier zu heben", "Der Mechaniker installierte eine neue **Riemenscheibe** im Motor"]]
+  },
+  {
+    "lemma": "pulling",
+    "meanings_de": ["Akt des Heranziehens"],
+    "definitions_de": ["Handlung, Kraft auszuüben, um etwas zu sich oder in eine bestimmte Richtung zu ziehen"],
+    "examples_de": [["Das **Ziehen** des schweren Karrens erforderte drei Personen", "Ständiges **Zerren** hatte das Seil abgenutzt"]]
+  },
+  {
+    "lemma": "pulp",
+    "meanings_de": ["weiche feuchte Masse", "Literaturgenre"],
+    "definitions_de": ["weiche, feuchte, formlose Masse aus Material, besonders aus zerdrücktem Obst oder Gemüse", "Art billiger Unterhaltungsmagazine oder -romane, gedruckt auf rauem Papier"],
+    "examples_de": [["Orangen**fruchtfleisch** enthält gesunde Ballaststoffe und Vitamine", "Die Papierfabrik verarbeitete Holz zu **Zellstoff**"], ["Er sammelte alte **Groschenhefte** aus den 1950er Jahren", "Die Buchhandlung hatte eine Abteilung für **Schundromane**"]]
+  },
+  {
+    "lemma": "pulpit",
+    "meanings_de": ["erhöhte Kirchenplattform"],
+    "definitions_de": ["erhöhte Plattform in einer Kirche, von der aus der Prediger eine Predigt hält"],
+    "examples_de": [["Der Pfarrer sprach leidenschaftlich von der verzierten hölzernen **Kanzel**", "Die historische Kirche besaß eine im 19. Jahrhundert geschnitzte **Kanzel**"]]
+  },
+  {
+    "lemma": "pulsation",
+    "meanings_de": ["rhythmisches Schlagen oder Pochen"],
+    "definitions_de": ["regelmäßiges rhythmisches Schlagen oder Pochen, besonders des Herzens oder der Blutgefäße"],
+    "examples_de": [["Der Arzt überprüfte das **Pulsieren** in ihrer Halsschlagader", "Sie konnten das **Pochen** des Basses durch den Boden spüren"]]
+  },
+  {
+    "lemma": "pulsing",
+    "meanings_de": ["rhythmisches Pochen"],
+    "definitions_de": ["Handlung des Ausdehnens und Zusammenziehens mit starken regelmäßigen Bewegungen oder Schlägen"],
+    "examples_de": [["Das **Pulsieren** der Musik brachte alle zum Tanzen", "Sie bemerkte ein seltsames **pulsierendes** Licht am Nachthimmel"]]
+  },
+  {
+    "lemma": "puma",
+    "meanings_de": ["große Wildkatze"],
+    "definitions_de": ["große Wildkatze, die in Amerika heimisch ist, auch bekannt als Puma oder Berglöwe"],
+    "examples_de": [["Der Wanderer entdeckte einen **Puma** auf dem Bergpfad", "**Pumas** sind Einzelgänger, die nachts jagen"]]
+  },
+  {
+    "lemma": "pumpkin",
+    "meanings_de": ["oranges Kürbisgemüse"],
+    "definitions_de": ["großer runder orangefarbener Kürbis mit dicker Schale, häufig für Speisen und Halloween-Dekorationen verwendet"],
+    "examples_de": [["Sie schnitzten gruselige Gesichter in **Kürbisse** für Halloween", "Omas **Kürbiskuchen**rezept gewann den ersten Preis auf dem Jahrmarkt"]]
+  },
+  {
+    "lemma": "pun",
+    "meanings_de": ["Wortspielwitz"],
+    "definitions_de": ["Witz, der verschiedene mögliche Bedeutungen eines Wortes oder ähnlich klingende Wörter für humorvolle Effekte nutzt"],
+    "examples_de": [["Sein schreckliches **Wortspiel** über die Bäckerei war wirklich das Sahnehäubchen", "Shakespeares Stücke sind voller cleverer **Wortspiele** und Sprachwitze"]]
+  },
+  {
+    "lemma": "punchline",
+    "meanings_de": ["Pointe eines Witzes"],
+    "definitions_de": ["letzter Teil eines Witzes oder einer Geschichte, der für Humor oder dramatischen Höhepunkt sorgt"],
+    "examples_de": [["Er vergaß immer die **Pointe** und ruinierte den Witz", "Der Komiker lieferte die **Pointe** mit perfektem Timing"]]
+  },
+  {
+    "lemma": "punctuality",
+    "meanings_de": ["Eigenschaft der Pünktlichkeit"],
+    "definitions_de": ["Eigenschaft, pünktlich zu sein oder Aufgaben zur geplanten oder angemessenen Zeit zu erledigen"],
+    "examples_de": [["Ihre **Pünktlichkeit** beeindruckte das Bewerbungsgremium", "Der Bahnservice war stolz auf seinen **Pünktlichkeits**rekord"]]
+  }
+]

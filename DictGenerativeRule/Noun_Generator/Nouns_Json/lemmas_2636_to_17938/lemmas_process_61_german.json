@@ -1,0 +1,278 @@
+[
+  {
+    "lemma": "eddy",
+    "meanings_de": ["kreisförmige Wasserbewegung"],
+    "definitions_de": ["kreisende Bewegung von Wasser, die einen kleinen Strudel bildet"],
+    "examples_de": [["Das Boot geriet in einen **Strudel** nahe dem Flussufer", "Kleine **Wirbel** bildeten sich, wo der Bach auf die Felsen traf"]]
+  },
+  {
+    "lemma": "edging",
+    "meanings_de": ["dekorative Bordüre"],
+    "definitions_de": ["Materialstreifen, der zur Bildung einer Umrandung oder Verzierung verwendet wird"],
+    "examples_de": [["Sie fügte der Tischdecke eine **Spitzenbordüre** hinzu", "Der Gartenweg benötigte eine neue **Steineinfassung**"]]
+  },
+  {
+    "lemma": "edibility",
+    "meanings_de": ["Essbarkeit"],
+    "definitions_de": ["die Eigenschaft oder der Zustand, als Nahrungsmittel zum Verzehr geeignet zu sein"],
+    "examples_de": [["Wissenschaftler testeten die **Essbarkeit** der Waldpilze", "Die **Genießbarkeit** bestimmter Pflanzen ändert sich durch richtiges Kochen"]]
+  },
+  {
+    "lemma": "edible",
+    "meanings_de": ["essbares Lebensmittel"],
+    "definitions_de": ["etwas, das sicher und zum Verzehr geeignet ist"],
+    "examples_de": [["Der Koch dekorierte die Torte mit **essbaren** Blüten", "Viele Waldpflanzen produzieren im Herbst **Essbares**"]]
+  },
+  {
+    "lemma": "edict",
+    "meanings_de": ["amtlicher Erlass"],
+    "definitions_de": ["formeller Befehl oder Proklamation, die von einer Behörde erlassen wird"],
+    "examples_de": [["Der König erließ ein **Edikt**, das öffentliche Versammlungen verbot", "Der neue **Erlass** verpflichtete alle Bürger zur Registrierung"]]
+  },
+  {
+    "lemma": "edifice",
+    "meanings_de": ["imposantes Gebäude"],
+    "definitions_de": ["großes beeindruckendes Gebäude, insbesondere eines von architektonischer oder historischer Bedeutung"],
+    "examples_de": [["Das antike **Bauwerk** thronte majestätisch auf dem Hügel", "Sie wandelten das alte **Gebäude** in ein Museum um"]]
+  },
+  {
+    "lemma": "editing",
+    "meanings_de": ["Bearbeitungsprozess"],
+    "definitions_de": ["Prozess der Überprüfung und Korrektur von schriftlichem Material für die Veröffentlichung"],
+    "examples_de": [["Das Manuskript durchlief mehrere **Bearbeitungsrunden**", "Sie verbrachte Stunden mit der **Bearbeitung** des Dokumentarmaterials"]]
+  },
+  {
+    "lemma": "editorial",
+    "meanings_de": ["Leitartikel", "Redaktionsabteilung"],
+    "definitions_de": ["Artikel, der die Meinung der Herausgeber einer Publikation ausdrückt", "Abteilung oder Prozess im Zusammenhang mit Redaktion und Veröffentlichung"],
+    "examples_de": [["Der **Leitartikel** der Zeitung kritisierte die neue Politik", "Sie schrieb einen leidenschaftlichen **Kommentar** über den Klimawandel"], ["Das **Redaktionsteam** prüfte alle Einsendungen sorgfältig", "Er arbeitet in der **Redaktion** der Zeitschrift"]]
+  },
+  {
+    "lemma": "editorship",
+    "meanings_de": ["Herausgeberposition"],
+    "definitions_de": ["Position oder Zeitraum als Herausgeber einer Publikation"],
+    "examples_de": [["Sie übernahm die **Herausgeberschaft** der Literaturzeitschrift", "Seine **Amtszeit als Chefredakteur** dauerte zwanzig produktive Jahre"]]
+  },
+  {
+    "lemma": "educationalist",
+    "meanings_de": ["Bildungsexperte"],
+    "definitions_de": ["Experte für Bildungstheorie und -methoden, der Bildung studiert oder fördert"],
+    "examples_de": [["Der **Bildungsexperte** schlug Reformen des Lehrplans vor", "Führende **Pädagogikfachleute** versammelten sich zur Jahreskonferenz"]]
+  },
+  {
+    "lemma": "educationist",
+    "meanings_de": ["Bildungsbefürworter"],
+    "definitions_de": ["Person, die sich für Bildungstheorie und -praxis einsetzt oder darauf spezialisiert ist"],
+    "examples_de": [["Der **Bildungstheoretiker** plädierte für kleinere Klassengrößen", "Viele **Pädagogen** unterstützen praxisnahe Lernansätze"]]
+  },
+  {
+    "lemma": "edutainment",
+    "meanings_de": ["unterhaltsame Bildung"],
+    "definitions_de": ["Medieninhalte, die durch Unterhaltung bilden sollen"],
+    "examples_de": [["Die **Edutainment**-Programme des Museums ziehen junge Besucher an", "Kinder lernen am besten durch gut gestaltetes **Bildungsfernsehen**"]]
+  },
+  {
+    "lemma": "eel",
+    "meanings_de": ["schlangenartiger Fisch"],
+    "definitions_de": ["langer dünner Fisch mit schlangenartigem Körper"],
+    "examples_de": [["Der Koch bereitete gegrillten **Aal** mit spezieller Sauce zu", "**Zitteraale** können unter Wasser starke Stromstöße erzeugen"]]
+  },
+  {
+    "lemma": "efficacy",
+    "meanings_de": ["Wirksamkeit"],
+    "definitions_de": ["die Fähigkeit, ein gewünschtes oder beabsichtigtes Ergebnis zu erzielen"],
+    "examples_de": [["Forscher testeten die **Wirksamkeit** des neuen Impfstoffs", "Die **Effektivität** dieser Behandlung variiert bei verschiedenen Patienten"]]
+  },
+  {
+    "lemma": "effigy",
+    "meanings_de": ["Bildnis"],
+    "definitions_de": ["Skulptur oder Modell einer Person, besonders zum Zweck der Zerstörung hergestellt"],
+    "examples_de": [["Demonstranten verbrannten ein **Bildnis** des Diktators", "Das Grab enthielt ein steinernes **Abbild** des Ritters"]]
+  },
+  {
+    "lemma": "effluent",
+    "meanings_de": ["Abwasser"],
+    "definitions_de": ["flüssiger Abfall oder Abwasser, das in einen Fluss oder ins Meer geleitet wird"],
+    "examples_de": [["Das **Abwasser** der Fabrik verschmutzte den nahegelegenen Bach", "Strenge Vorschriften regeln die Entsorgung industrieller **Abflüsse**"]]
+  },
+  {
+    "lemma": "effusion",
+    "meanings_de": ["überschwänglicher Ausdruck", "Flüssigkeitsaustritt"],
+    "definitions_de": ["ungehemmter Ausdruck von Gefühlen in Worten", "Austritt von Flüssigkeit in eine Körperhöhle"],
+    "examples_de": [["Sein **Erguss** der Dankbarkeit brachte die Gäste in Verlegenheit", "Der **Gefühlsausbruch** des Dichters erfasste rohe emotionale Wahrheit"], ["Der Arzt entfernte den **Erguss** aus ihrem Knie", "Ein **Pleuraerguss** kann Atembeschwerden verursachen"]]
+  },
+  {
+    "lemma": "egalitarian",
+    "meanings_de": ["Gleichheitsverfechter"],
+    "definitions_de": ["Person, die an das Prinzip der Gleichheit für alle Menschen glaubt"],
+    "examples_de": [["Der **Egalitarist** widersetzte sich allen Formen der Diskriminierung", "Sie behielt ihre **gleichheitsorientierten** Prinzipien während ihrer gesamten Laufbahn bei"]]
+  },
+  {
+    "lemma": "egalitarianism",
+    "meanings_de": ["Gleichheitslehre"],
+    "definitions_de": ["Lehre, dass alle Menschen gleich sind und gleiche Rechte und Chancen verdienen"],
+    "examples_de": [["Die Bewegung förderte **Egalitarismus** in der Bildung", "Politischer **Gleichheitsgrundsatz** prägte die Verfassung des Landes"]]
+  },
+  {
+    "lemma": "eggplant",
+    "meanings_de": ["lila Gemüse"],
+    "definitions_de": ["großes ovales violett-häutiges Gemüse, das zum Kochen verwendet wird"],
+    "examples_de": [["Sie grillte **Auberginenscheiben** für die vegetarische Lasagne", "Der Bauernmarkt hatte heute Morgen frische **Auberginen**"]]
+  },
+  {
+    "lemma": "eggshell",
+    "meanings_de": ["Eierschale"],
+    "definitions_de": ["harte äußere Hülle eines Eies aus Kalzium"],
+    "examples_de": [["Das Rezept verlangt fein gemahlene **Eierschalen**", "Vögel verwenden **Eierschalenfragmente**, um ihre Nester auszukleiden"]]
+  },
+  {
+    "lemma": "egocentric",
+    "meanings_de": ["selbstzentrierte Person"],
+    "definitions_de": ["Person, die nur an sich selbst denkt ohne Rücksicht auf andere"],
+    "examples_de": [["Der **Egozentriker** konnte die Perspektiven anderer nicht verstehen", "Sein **ichbezogenes** Verhalten entfremdete potenzielle Freunde"]]
+  },
+  {
+    "lemma": "egoism",
+    "meanings_de": ["Eigennutzlehre"],
+    "definitions_de": ["ethische Theorie, dass Eigeninteresse die Grundlage der Moral ist"],
+    "examples_de": [["Seine Philosophie umfasste vollständig den rationalen **Egoismus**", "Kritiker argumentierten, dass **Selbstsucht** die soziale Zusammenarbeit untergräbt"]]
+  },
+  {
+    "lemma": "egret",
+    "meanings_de": ["weißer Watvogel"],
+    "definitions_de": ["weißer Reiher mit langen dekorativen Federn während der Brutzeit"],
+    "examples_de": [["Der **Silberreiher** stand bewegungslos im seichten Wasser", "Eine Schar **Seidenreiher** nistete in den Mangroven"]]
+  },
+  {
+    "lemma": "eight",
+    "meanings_de": ["Zahl nach sieben"],
+    "definitions_de": ["die Zahl, die dem Produkt von zwei und vier entspricht"],
+    "examples_de": [["Das Treffen beginnt punkt **acht** Uhr", "Sie teilte die Pizza in **acht** gleiche Stücke"]]
+  },
+  {
+    "lemma": "eighteen",
+    "meanings_de": ["Zahl nach siebzehn"],
+    "definitions_de": ["die Zahl, die der Summe von zehn und acht entspricht"],
+    "examples_de": [["Sie feierte letzte Woche ihren **achtzehnten** Geburtstag", "Der Kurs erfordert insgesamt **achtzehn** Leistungspunkte"]]
+  },
+  {
+    "lemma": "eighteenth",
+    "meanings_de": ["achtzehnte Position"],
+    "definitions_de": ["die Nummer achtzehn in einer Reihenfolge darstellend"],
+    "examples_de": [["Der **achtzehnte** Verfassungszusatz verbot den Alkoholverkauf", "Er wurde **Achtzehnter** im Marathonlauf"]]
+  },
+  {
+    "lemma": "eighth",
+    "meanings_de": ["achte Position", "Bruchteil"],
+    "definitions_de": ["die Nummer acht in einer Reihenfolge darstellend", "einer von acht gleichen Teilen von etwas"],
+    "examples_de": [["Sie wurde **Achte** im Wettbewerb", "Die **Achtklässler** organisierten eine Spendenaktion"], ["Schneide den Kuchen in **Achtel** für kleinere Portionen", "Er besitzt ein **Achtel** der Firmenanteile"]]
+  },
+  {
+    "lemma": "eightieth",
+    "meanings_de": ["achtzigste Position"],
+    "definitions_de": ["die Nummer achtzig in einer Reihenfolge darstellend"],
+    "examples_de": [["Sie feierten gemeinsam Großvaters **achtzigsten** Geburtstag", "Die Gala zum **achtzigsten** Jubiläum zog viele Gäste an"]]
+  },
+  {
+    "lemma": "eighty",
+    "meanings_de": ["Zahl nach neunundsiebzig"],
+    "definitions_de": ["die Zahl, die dem Produkt von acht und zehn entspricht"],
+    "examples_de": [["Die Temperatur erreichte heute **achtzig** Grad", "Sie sammelte **achtzig** Unterschriften für die Petition"]]
+  },
+  {
+    "lemma": "ejaculation",
+    "meanings_de": ["plötzlicher Ausruf", "körperlicher Samenerguss"],
+    "definitions_de": ["plötzlicher kurzer Ausruf oder Bemerkung", "Ausstoß von Samen aus dem männlichen Fortpflanzungstrakt"],
+    "examples_de": [["Sein **Ausruf** der Überraschung erschreckte alle Anwesenden", "Die häufigen **Zwischenrufe** der Figur sorgten für Humor"], ["Vorzeitige **Ejakulation** betrifft viele Männer weltweit", "Der Arzt besprach normale **Samenergussmuster**"]]
+  },
+  {
+    "lemma": "ejection",
+    "meanings_de": ["gewaltsame Entfernung"],
+    "definitions_de": ["Handlung des gewaltsamen Hinauswerfens oder Ausstoßens von etwas"],
+    "examples_de": [["Der **Schleudersitz** des Piloten rettete sein Leben", "Die Sicherheit handhabte den **Rauswurf** des Störenfrieds professionell"]]
+  },
+  {
+    "lemma": "ejector",
+    "meanings_de": ["Auswurfmechanismus"],
+    "definitions_de": ["Vorrichtung, die etwas aus einer Maschine herausdrückt"],
+    "examples_de": [["Der **Patronenauswerfer** funktionierte beim Schießtraining nicht richtig", "Der **Schleudersitz** des Flugzeugs rettete den Piloten"]]
+  },
+  {
+    "lemma": "elaboration",
+    "meanings_de": ["detaillierte Ausarbeitung"],
+    "definitions_de": ["Prozess der detaillierten Entwicklung von etwas aus einer einfachen Form"],
+    "examples_de": [["Ihre **Ausarbeitung** der Theorie beeindruckte Kollegen", "Der Plan benötigt weitere **Ausführungen** vor der Genehmigung"]]
+  },
+  {
+    "lemma": "elan",
+    "meanings_de": ["schwungvolle Begeisterung"],
+    "definitions_de": ["Energie, Stil und Enthusiasmus in Ausdruck oder Leistung"],
+    "examples_de": [["Sie führte den Tanz mit bemerkenswertem **Elan** auf", "Das Team spielte mit **Schwung**, obwohl sie Außenseiter waren"]]
+  },
+  {
+    "lemma": "elastic",
+    "meanings_de": ["dehnbares Material"],
+    "definitions_de": ["Schnur oder Stoff mit Gummi, der Dehnung und Rückkehr ermöglicht"],
+    "examples_de": [["Der Bund braucht neues **Gummiband** für den richtigen Sitz", "Sie kaufte **Gummizug**, um ihr Nähprojekt zu reparieren"]]
+  },
+  {
+    "lemma": "elasticity",
+    "meanings_de": ["Dehnbarkeit", "wirtschaftliche Reaktionsfähigkeit"],
+    "definitions_de": ["Fähigkeit eines Objekts, nach Dehnung wieder die normale Form anzunehmen", "Grad, in dem Nachfrage oder Angebot auf Preisänderungen reagiert"],
+    "examples_de": [["Die **Elastizität** des Materials macht es perfekt für Sportbekleidung", "Gummibänder zeigen hohe **Dehnbarkeit** beim Strecken"], ["Die **Preiselastizität** beeinflusst Kaufentscheidungen der Verbraucher", "Die **Nachfrageelastizität** variiert zwischen Produkten"]]
+  },
+  {
+    "lemma": "eldest",
+    "meanings_de": ["ältestes Kind"],
+    "definitions_de": ["erstgeborenes oder ältestes Kind in einer Familie"],
+    "examples_de": [["Der **Älteste** erbte das Familienunternehmen", "Als **Erstgeborene** fühlte sie sich für ihre Geschwister verantwortlich"]]
+  },
+  {
+    "lemma": "eldorado",
+    "meanings_de": ["Ort des Reichtums"],
+    "definitions_de": ["Ort großen Reichtums oder großer Möglichkeiten"],
+    "examples_de": [["Kalifornien wurde während des Goldrausches zum **Eldorado**", "Die Technologiebranche stellt ein modernes **Paradies** dar"]]
+  },
+  {
+    "lemma": "elective",
+    "meanings_de": ["Wahlfach"],
+    "definitions_de": ["Kurs oder Fach, das von einem Schüler gewählt und nicht vorgeschrieben wird"],
+    "examples_de": [["Sie wählte Fotografie als ihr **Wahlfach** dieses Semester", "Die Schule bietet verschiedene **Wahlkurse** für Abschlussschüler"]]
+  },
+  {
+    "lemma": "elector",
+    "meanings_de": ["wahlberechtigter Bürger"],
+    "definitions_de": ["Person, die das Recht hat, bei einer Wahl zu wählen"],
+    "examples_de": [["Jeder **Wähler** muss sich vor Ablauf der Frist registrieren", "Die **Wahlberechtigten** versammelten sich an den vorgesehenen Wahllokalen"]]
+  },
+  {
+    "lemma": "electorate",
+    "meanings_de": ["Wählerschaft"],
+    "definitions_de": ["alle Personen, die berechtigt sind, bei einer Wahl zu wählen"],
+    "examples_de": [["Die **Wählerschaft** zeigte starke Unterstützung für Veränderungen", "Politiker müssen die breitere **Wahlbevölkerung** ansprechen"]]
+  },
+  {
+    "lemma": "electrician",
+    "meanings_de": ["Elektroinstallateur"],
+    "definitions_de": ["Person, die elektrische Anlagen installiert und wartet"],
+    "examples_de": [["Der **Elektriker** verkabelte das gesamte Haus sicher neu", "Wir brauchen einen **Elektrofachmann**, um den Sicherungskasten zu reparieren"]]
+  },
+  {
+    "lemma": "electrification",
+    "meanings_de": ["Elektrifizierung"],
+    "definitions_de": ["Prozess der Stromversorgung oder Installation elektrischer Systeme"],
+    "examples_de": [["Die ländliche **Elektrifizierung** verwandelte Bauerngemeinschaften landesweit", "Das **Elektrifizierungsprojekt** brachte Strom in abgelegene Dörfer"]]
+  },
+  {
+    "lemma": "electrocution",
+    "meanings_de": ["Tod durch Stromschlag"],
+    "definitions_de": ["Tod oder schwere Verletzung durch elektrischen Schlag"],
+    "examples_de": [["Die fehlerhafte Verkabelung hätte fast einen **Stromtod** verursacht", "Sicherheitsmaßnahmen verhindern **Stromschläge** am Arbeitsplatz"]]
+  },
+  {
+    "lemma": "electrode",
+    "meanings_de": ["elektrischer Leiter"],
+    "definitions_de": ["Leiter, durch den Elektrizität in ein Objekt ein- oder austritt"],
+    "examples_de": [["Der Techniker befestigte **Elektroden** zur Überwachung der Herzaktivität", "**Batterieelektroden** ermöglichen den Stromfluss"]]
+  }
+]

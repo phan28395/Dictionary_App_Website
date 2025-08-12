@@ -1,0 +1,260 @@
+[
+  {
+    "lemma": "flyweight",
+    "meanings_de": ["Fliegengewichtsklasse"],
+    "definitions_de": ["Gewichtsklasse im Boxsport für Kämpfer mit einem Gewicht von bis zu 50,8 Kilogramm (112 Pfund)"],
+    "examples_de": [["Der **Fliegengewichtler** verteidigte seinen Titel erfolgreich im Berliner Velodrom", "Viele berühmte Boxer begannen ihre Karriere im **Fliegengewicht**"]]
+  },
+  {
+    "lemma": "flywheel",
+    "meanings_de": ["Schwungrad"],
+    "definitions_de": ["Schwere rotierende Scheibe in Maschinen, die Rotationsenergie speichert und Drehbewegungen gleichmäßiger macht"],
+    "examples_de": [["Das **Schwungrad** des Motors sorgt für einen ruhigen Lauf zwischen den Arbeitstakten", "Ein beschädigtes **Schwungrad** kann zu erheblichen Vibrationen führen"]]
+  },
+  {
+    "lemma": "foal",
+    "meanings_de": ["Fohlen"],
+    "definitions_de": ["Junges Pferd, typischerweise unter einem Jahr alt"],
+    "examples_de": [["Die Stute brachte heute Morgen ein gesundes **Fohlen** zur Welt", "Das **Fohlen** blieb dicht bei seiner Mutter auf der Weide"]]
+  },
+  {
+    "lemma": "foam",
+    "meanings_de": ["Schaum", "Schaumstoff"],
+    "definitions_de": ["Ansammlung kleiner Blasen, die sich in Flüssigkeiten oder an deren Oberfläche bildet", "Leichtes zelluläres Material, das für Polsterung oder Isolierung verwendet wird"],
+    "examples_de": [["Nach dem Sturm sammelte sich **Meeresschaum** am Strand", "Der Cappuccino war mit einer Schicht **Milchschaum** gekrönt"], ["Die Verpackung enthielt **Schaumstoff** zum Schutz vor Beschädigungen", "Sie kaufte eine **Schaumstoffmatratze** für besseren Schlafkomfort"]]
+  },
+  {
+    "lemma": "fob",
+    "meanings_de": ["Uhrenanhänger", "Uhrentasche", "Funkschlüssel"],
+    "definitions_de": ["Dekorativer Anhänger, der an einer Uhrkette befestigt wird", "Kleine Tasche in der Kleidung, die speziell für eine Taschenuhr vorgesehen ist", "Kleines elektronisches Gerät für schlüssellosen Zugang oder Zugangskontrolle"],
+    "examples_de": [["Der goldene **Uhrenanhänger** seines Großvaters glänzte an seiner Weste", "Der antike **Berlock** zeigte kunstvolle Gravuren"], ["Er steckte seine Taschenuhr in die **Uhrentasche** seiner Weste", "Der Schneider fügte der Weste eine spezielle **Taschenuhrfach** hinzu"], ["Sie schwenkte ihren **Funkschlüssel**, um das Auto aus der Ferne zu öffnen", "Mitarbeiter nutzen **Transponder** für den Zugang zum Gebäude"]]
+  },
+  {
+    "lemma": "focusing",
+    "meanings_de": ["Konzentration", "Fokussierung"],
+    "definitions_de": ["Prozess der Ausrichtung von Aufmerksamkeit oder Anstrengung auf etwas Bestimmtes", "Vorgang der Einstellung eines optischen Systems zur Erzeugung eines scharfen Bildes"],
+    "examples_de": [["Die **Konzentration** auf die Aufgabe erfordert die Beseitigung aller Ablenkungen", "Das Team verbrachte den Vormittag mit der **Fokussierung** auf Qualitätsverbesserungen"], ["Der Fotograf nahm sich Zeit für die **Scharfeinstellung**, bevor er das Foto machte", "Die automatische **Fokussierung** macht Digitalkameras benutzerfreundlicher"]]
+  },
+  {
+    "lemma": "focussing",
+    "meanings_de": ["Konzentration", "Fokussierung"],
+    "definitions_de": ["Prozess der Ausrichtung von Aufmerksamkeit oder Anstrengung auf etwas Bestimmtes", "Vorgang der Einstellung eines optischen Systems zur Erzeugung eines scharfen Bildes"],
+    "examples_de": [["Die **Fokussierung** auf Kundenbedürfnisse verbesserte ihre Geschäftsstrategie", "Die Schüler hatten Schwierigkeiten mit der **Konzentration** während der langen Vorlesung"], ["Das Teleskop erfordert sorgfältige **Scharfeinstellung**, um entfernte Sterne zu sehen", "Manuelle **Fokussierung** gibt Fotografen mehr kreative Kontrolle"]]
+  },
+  {
+    "lemma": "fodder",
+    "meanings_de": ["Viehfutter", "Stoff"],
+    "definitions_de": ["Getrocknetes Futter wie Heu oder Stroh für Nutztiere", "Material oder Informationen, die als Grundlage für etwas verwendet werden"],
+    "examples_de": [["Der Bauer lagerte **Futter** für die Winterfütterung der Rinder", "Frisches **Viehfutter** wurde jede Woche in die Scheune geliefert"], ["Der Skandal wurde zum **Stoff** für Late-Night-Comedy-Shows", "Diese Statistiken liefern **Futter** für die Debatte"]]
+  },
+  {
+    "lemma": "foe",
+    "meanings_de": ["Feind"],
+    "definitions_de": ["Person oder Gruppe, die aktiv gegen jemanden opponiert oder ihm feindlich gesinnt ist"],
+    "examples_de": [["Der Ritter stellte sich seinem **Feind** auf dem Schlachtfeld", "Ehemalige **Widersacher** wurden während der Krise zu Verbündeten"]]
+  },
+  {
+    "lemma": "fog",
+    "meanings_de": ["Nebel"],
+    "definitions_de": ["Dichte Wolke aus winzigen Wassertröpfchen in Bodennähe, die die Sicht behindert"],
+    "examples_de": [["Dichter **Nebel** reduzierte heute Morgen die Sicht auf der Autobahn", "Der **Nebel** zog bei Sonnenuntergang vom Meer herein"]]
+  },
+  {
+    "lemma": "foghorn",
+    "meanings_de": ["Nebelhorn"],
+    "definitions_de": ["Lautes Signalhorn, das Schiffe bei nebligen Bedingungen vor Gefahren warnt"],
+    "examples_de": [["Der tiefe Ton des **Nebelhorns** hallte über den Hafen", "Schiffe verlassen sich auf **Nebelhörner**, wenn die Sicht schlecht ist"]]
+  },
+  {
+    "lemma": "foil",
+    "meanings_de": ["Folie", "Florett", "Kontrastfigur"],
+    "definitions_de": ["Sehr dünnes Metallblatt zum Einwickeln oder Kochen", "Leichtes, biegsames Schwert für den Fechtsport", "Person oder Sache, die durch Kontrast die Eigenschaften einer anderen hervorhebt"],
+    "examples_de": [["Sie wickelte die Reste in **Alufolie** ein", "Die Schokolade war in dekorative **Goldfolie** gehüllt"], ["Die Fechterin übte ihre Technik mit dem **Florett**", "Wettkampf-**Floretts** müssen bestimmte Gewichtsanforderungen erfüllen"], ["Der Bösewicht diente als perfekte **Kontrastfigur** zum Helden", "Ihre ernste Art war ein **Gegenpol** zu seiner verspielten Persönlichkeit"]]
+  },
+  {
+    "lemma": "foiling",
+    "meanings_de": ["Vereiteln", "Folierung"],
+    "definitions_de": ["Handlung, die Pläne von jemandem am Erfolg hindert", "Prozess des Aufbringens dünner Metallblätter auf eine Oberfläche"],
+    "examples_de": [["Dem Sicherheitsteam gelang die **Vereitelung** des Raubversuchs", "Schnelles Denken war entscheidend für die **Verhinderung** ihres Fluchtplans"], ["Der Handwerker spezialisierte sich auf die **Folierung** antiker Bucheinbände", "Die **Goldfolierung** verleiht Hochzeitseinladungen Eleganz"]]
+  },
+  {
+    "lemma": "folate",
+    "meanings_de": ["Folat"],
+    "definitions_de": ["Wasserlösliches B-Vitamin, das für Zellteilung und DNA-Synthese unerlässlich ist"],
+    "examples_de": [["Schwangere Frauen benötigen ausreichend **Folat** zur Vorbeugung von Geburtsfehlern", "Dunkelgrünes Blattgemüse ist eine hervorragende Quelle für natürliches **Folat**"]]
+  },
+  {
+    "lemma": "folder",
+    "meanings_de": ["Aktenmappe", "Ordner"],
+    "definitions_de": ["Karton- oder Plastikhülle zum Zusammenhalten loser Papiere", "Digitaler Container zur Organisation von Dateien in einem Computersystem"],
+    "examples_de": [["Sie organisierte ihre Steuerunterlagen in einer gelben **Aktenmappe**", "Der Anwalt trug mehrere **Mappen** zum Meeting"], ["Erstellen Sie einen neuen **Ordner** für Ihre Urlaubsfotos", "Der Download-**Ordner** wurde mit Dateien überladen"]]
+  },
+  {
+    "lemma": "folding",
+    "meanings_de": ["Falten", "klappbares Design"],
+    "definitions_de": ["Vorgang des Biegens von etwas über sich selbst", "Eigenschaft, für Lagerung oder Transport zusammengeklappt werden zu können"],
+    "examples_de": [["Präzises **Falten** ist bei der Origami-Kunst unerlässlich", "Sie verbrachte den Nachmittag mit dem **Zusammenlegen** der Wäsche"], ["Die **Klappstühle** sparten Platz im Schrank", "Wir kauften einen **Klapptisch** für Campingausflüge"]]
+  },
+  {
+    "lemma": "foliage",
+    "meanings_de": ["Laub"],
+    "definitions_de": ["Blätter einer Pflanze oder eines Baumes als Gesamtheit betrachtet"],
+    "examples_de": [["Das herbstliche **Laub** färbte den Hang in leuchtenden Farben", "Dichtes **Blattwerk** spendete Schatten vor der Sommersonne"]]
+  },
+  {
+    "lemma": "folio",
+    "meanings_de": ["Folioformat", "Seitenzahl", "Mappe"],
+    "definitions_de": ["Buchgröße aus einmal gefalteten Bögen, die vier Seiten ergeben", "Seitennummer in einem Buch oder Manuskript", "Sammlung künstlerischer Arbeiten oder Dokumente in Mappenform"],
+    "examples_de": [["Die Abteilung für seltene Bücher der Bibliothek enthält mehrere mittelalterliche **Folianten**", "Shakespeares First **Folio** ist äußerst wertvoll"], ["Überprüfen Sie die **Seitenzahl** am unteren Rand jeder Seite", "Die **Blattzählung** des Manuskripts erfolgte fortlaufend"], ["Die Fotografin präsentierte ihre **Arbeitsmappe** potenziellen Kunden", "Seine Design-**Mappe** zeigte zehn Jahre Arbeit"]]
+  },
+  {
+    "lemma": "folklore",
+    "meanings_de": ["Folklore"],
+    "definitions_de": ["Traditionelle Überzeugungen, Bräuche und Geschichten, die über Generationen mündlich weitergegeben werden"],
+    "examples_de": [["Die irische **Folklore** umfasst viele Geschichten über Kobolde und Feen", "Das Festival feiert die lokale **Volksüberlieferung** durch Musik und Tanz"]]
+  },
+  {
+    "lemma": "folksong",
+    "meanings_de": ["Volkslied"],
+    "definitions_de": ["Lied, das unter einfachen Menschen entsteht und mündlich überliefert wird"],
+    "examples_de": [["Der Chor führte traditionelle **Volkslieder** aus verschiedenen Kulturen auf", "Bob Dylan verwandelte amerikanische **Volksweisen** in Protestmusik"]]
+  },
+  {
+    "lemma": "folktale",
+    "meanings_de": ["Volksmärchen"],
+    "definitions_de": ["Geschichte aus der Volkskultur, die typischerweise mündlich überliefert wird"],
+    "examples_de": [["Großmutter erzählte uns **Volksmärchen** aus ihrem Heimatdorf", "Viele **Volkserzählungen** enthalten wichtige moralische Lehren"]]
+  },
+  {
+    "lemma": "follicle",
+    "meanings_de": ["Follikel"],
+    "definitions_de": ["Kleine Höhlung oder Säckchen im Körper, insbesondere eine, die eine Haarwurzel enthält"],
+    "examples_de": [["Jedes Haar wächst aus seinem eigenen **Follikel** in der Haut", "Der Arzt untersuchte den entzündeten **Haarfollikel**"]]
+  },
+  {
+    "lemma": "followup",
+    "meanings_de": ["Nachfassaktion"],
+    "definitions_de": ["Handlung oder Sache, die etwas zuvor Getanes fortsetzt oder vervollständigt"],
+    "examples_de": [["Der Arzt vereinbarte einen **Nachfolgetermin** für nächste Woche", "Bitte senden Sie nach dem Meeting eine **Nachfass-E-Mail**"]]
+  },
+  {
+    "lemma": "folly",
+    "meanings_de": ["Torheit", "Zierbau"],
+    "definitions_de": ["Mangel an gesundem Menschenverstand oder Dummheit in Gedanken oder Handlungen", "Kostspieliges Ziergebäude ohne praktischen Zweck, oft in einem Garten"],
+    "examples_de": [["Es wäre **Torheit**, die Warnzeichen zu ignorieren", "Seine jugendlichen **Dummheiten** kosteten ihn später teuer"], ["Das Anwesen verfügt über eine **Parkarchitektur** aus dem 18. Jahrhundert mit Blick auf den See", "Gotische **Zierbauten** waren in viktorianischen Gärten beliebt"]]
+  },
+  {
+    "lemma": "font",
+    "meanings_de": ["Schriftart", "Taufbecken"],
+    "definitions_de": ["Vollständiger Satz von Schriftzeichen eines bestimmten Designs und einer bestimmten Größe", "Steinbecken in einer Kirche für Taufwasser"],
+    "examples_de": [["Wählen Sie eine gut lesbare **Schriftart** für Ihre Präsentationsfolien", "Der Designer wählte eine elegante **Schrift** für die Hochzeitseinladungen"], ["Das mittelalterliche **Taufbecken** stand nahe dem Kircheneingang", "Babys werden am marmornen **Taufstein** getauft"]]
+  },
+  {
+    "lemma": "foodstuff",
+    "meanings_de": ["Nahrungsmittel"],
+    "definitions_de": ["Jede Substanz, die als Nahrung verwendet oder für die Verwendung als Nahrung vorbereitet werden kann"],
+    "examples_de": [["Das Lagerhaus lagerte verschiedene **Nahrungsmittel** zur Verteilung", "Importvorschriften gelten für alle **Lebensmittel**, die ins Land kommen"]]
+  },
+  {
+    "lemma": "footballer",
+    "meanings_de": ["Fußballspieler"],
+    "definitions_de": ["Person, die Fußball spielt, insbesondere beruflich"],
+    "examples_de": [["Der junge **Fußballspieler** unterschrieb bei einem Erstligaverein", "Professionelle **Fußballer** trainieren während der gesamten Saison intensiv"]]
+  },
+  {
+    "lemma": "footbridge",
+    "meanings_de": ["Fußgängerbrücke"],
+    "definitions_de": ["Schmale Brücke, die für Fußgänger zum Überqueren konzipiert ist"],
+    "examples_de": [["Eine hölzerne **Fußgängerbrücke** überspannt den Bach im Park", "Die **Fußgängerüberführung** bietet sichere Passage über die Autobahn"]]
+  },
+  {
+    "lemma": "footer",
+    "meanings_de": ["Fußzeile", "Fundament"],
+    "definitions_de": ["Bereich am unteren Rand einer Seite mit Informationen", "Fundamentbalken oder -wand, die das Gebäudegewicht verteilt"],
+    "examples_de": [["Die **Fußzeile** des Dokuments enthält die Seitenzahl und das Datum", "Bearbeiten Sie die **Fußzeile**, um Ihren Firmennamen einzufügen"], ["Das Beton**fundament** muss aushärten, bevor das Fundament gebaut wird", "Ordnungsgemäße **Fundamente** verhindern strukturelles Absinken"]]
+  },
+  {
+    "lemma": "foothill",
+    "meanings_de": ["Vorgebirge"],
+    "definitions_de": ["Niedriger Hügel am Fuß eines Berges oder Gebirgszugs"],
+    "examples_de": [["Die Stadt schmiegte sich in die **Ausläufer** der Alpen", "Im **Vorgebirge** blühen jeden Frühling Wildblumen"]]
+  },
+  {
+    "lemma": "foothold",
+    "meanings_de": ["Halt"],
+    "definitions_de": ["Sichere Position, von der aus weitere Fortschritte gemacht werden können"],
+    "examples_de": [["Das Unternehmen gewann einen **Halt** auf dem asiatischen Markt", "Kletterer suchen nach **Tritten** an der Felswand"]]
+  },
+  {
+    "lemma": "footing",
+    "meanings_de": ["Standfestigkeit", "Fundament", "Stellung"],
+    "definitions_de": ["Sicherer Stand der Füße oder stabile Position", "Fundament oder Basis, auf der etwas gebaut wird", "Position oder Status im Verhältnis zu anderen"],
+    "examples_de": [["Sie verlor ihren **Halt** auf dem vereisten Gehweg", "Wanderer sollten auf steilen Pfaden auf ihren **Tritt** achten"], ["Das Gebäude benötigt ein ordentliches **Fundament**, um sein Gewicht zu tragen", "Ingenieure inspizierten die Brücken**fundamente** auf Schäden"], ["Jeder sollte bei Verhandlungen auf gleicher **Augenhöhe** sein", "Die neue Politik stellt kleine Unternehmen auf eine bessere **Grundlage**"]]
+  },
+  {
+    "lemma": "footman",
+    "meanings_de": ["Lakai"],
+    "definitions_de": ["Uniformierter männlicher Diener, der bei Tisch bedient und die Tür öffnet"],
+    "examples_de": [["Der **Lakai** kündigte jeden Gast bei seiner Ankunft an", "Viktorianische Haushalte beschäftigten mehrere **Diener**"]]
+  },
+  {
+    "lemma": "footnote",
+    "meanings_de": ["Fußnote"],
+    "definitions_de": ["Anmerkung am unteren Rand einer Seite, die zusätzliche Informationen gibt"],
+    "examples_de": [["Der Autor fügte eine **Fußnote** hinzu, die den historischen Kontext erklärte", "Wissenschaftliche Arbeiten erfordern ordnungsgemäße **Fußnotenzitate**"]]
+  },
+  {
+    "lemma": "footpath",
+    "meanings_de": ["Fußweg"],
+    "definitions_de": ["Weg für Fußgänger, besonders durch die Landschaft"],
+    "examples_de": [["Der **Fußweg** windet sich durch die Wiese zum Dorf", "Öffentliche **Wanderwege** müssen von Grundbesitzern freigehalten werden"]]
+  },
+  {
+    "lemma": "footprint",
+    "meanings_de": ["Fußabdruck", "ökologischer Fußabdruck", "Grundfläche"],
+    "definitions_de": ["Abdruck, den ein Fuß oder Schuh auf einer Oberfläche hinterlässt", "Auswirkungen menschlicher Aktivitäten auf die Umwelt", "Fläche, die von etwas eingenommen wird"],
+    "examples_de": [["**Fußspuren** im Sand führten zum Wasser", "Die Polizei fand schlammige **Fußabdrücke** am Tatort"], ["Unternehmen arbeiten daran, ihren **CO2-Fußabdruck** zu reduzieren", "Berechnen Sie Ihren **ökologischen Fußabdruck** mit diesem Tool"], ["Das Gebäude hat eine kleine **Grundfläche**, aber mehrere Stockwerke", "Der **Speicherbedarf** der Software ist minimal"]]
+  },
+  {
+    "lemma": "footwear",
+    "meanings_de": ["Schuhwerk"],
+    "definitions_de": ["Äußere Bedeckungen für Füße einschließlich Schuhe, Stiefel und Sandalen"],
+    "examples_de": [["Geeignetes **Schuhwerk** ist für die Wandersicherheit unerlässlich", "Das Geschäft ist auf Sport**schuhe** spezialisiert"]]
+  },
+  {
+    "lemma": "footwork",
+    "meanings_de": ["Beinarbeit"],
+    "definitions_de": ["Art der Fußbewegung, besonders im Sport oder beim Tanzen"],
+    "examples_de": [["Die schnelle **Beinarbeit** des Boxers half ihm, Schlägen auszuweichen", "Ballett erfordert jahrelanges Training präziser **Fußarbeit**"]]
+  },
+  {
+    "lemma": "fop",
+    "meanings_de": ["Geck"],
+    "definitions_de": ["Mann, der übermäßig mit seinem Aussehen und seiner Kleidung beschäftigt ist"],
+    "examples_de": [["Die Restaurationskomödie zeigte einen lächerlichen **Gecken** als komische Einlage", "Er kleidete sich wie ein **Stutzer** mit aufwendigen Rüschen und Bändern"]]
+  },
+  {
+    "lemma": "forage",
+    "meanings_de": ["Nahrungssuche", "Futter"],
+    "definitions_de": ["Handlung des weiträumigen Suchens nach Nahrung oder Vorräten", "Nahrung für Pferde und Rinder, besonders wenn sie durch Weiden aufgenommen wird"],
+    "examples_de": [["Bären suchen vor dem Winterschlaf nach **Beeren**", "Die Soldaten mussten nach Vorräten **suchen**"], ["Die Weide bietet natürliches **Futter** für das Vieh", "Bauern ergänzen das Winter**futter** mit Heu"]]
+  },
+  {
+    "lemma": "forager",
+    "meanings_de": ["Sammler"],
+    "definitions_de": ["Person oder Tier, das weiträumig nach Nahrung sucht"],
+    "examples_de": [["Städtische **Sammler** finden essbare Pflanzen in Stadtparks", "Bienen sind effiziente **Nektarsammler**, die täglich Hunderte von Blüten besuchen"]]
+  },
+  {
+    "lemma": "foraging",
+    "meanings_de": ["Nahrungssuche"],
+    "definitions_de": ["Handlung des Suchens und Sammelns von Nahrung aus wilden Quellen"],
+    "examples_de": [["Die **Pilzsuche** erfordert Expertenwissen", "Der Kurs lehrt sichere **Sammel**techniken"]]
+  },
+  {
+    "lemma": "foray",
+    "meanings_de": ["Ausflug", "Streifzug"],
+    "definitions_de": ["Kurzer Versuch oder Beteiligung an einer neuen Aktivität", "Plötzlicher Angriff oder Überfall auf feindliches Gebiet"],
+    "examples_de": [["Ihr **Ausflug** in die Politik erwies sich als überraschend erfolgreich", "Der **Vorstoß** des Unternehmens in den Smartphone-Markt war nur von kurzer Dauer"], ["Die Kavallerie unternahm nächtliche **Streifzüge** hinter feindlichen Linien", "Wikinger-**Raubzüge** terrorisierten Küstensiedlungen"]]
+  }
+]

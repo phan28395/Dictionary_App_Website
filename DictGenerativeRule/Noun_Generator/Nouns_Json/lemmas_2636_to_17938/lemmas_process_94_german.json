@@ -1,0 +1,290 @@
+[
+  {
+    "lemma": "hairdressing",
+    "meanings_de": ["Friseurhandwerk"],
+    "definitions_de": ["Beruf oder Gewerbe des Schneidens, Pflegens und Gestaltens von Haaren, der sowohl handwerkliches Können als auch kreatives Gespür erfordert"],
+    "examples_de": [["Sie absolvierte ihre Ausbildung im **Friseurhandwerk** an der Berufsschule", "Der **Friseursalon** war samstags stets ausgebucht"]]
+  },
+  {
+    "lemma": "hairline",
+    "meanings_de": ["Haaransatz"],
+    "definitions_de": ["Grenzlinie zwischen behaarter Kopfhaut und Stirn, die sich mit zunehmendem Alter oft nach hinten verschiebt"],
+    "examples_de": [["Sein **Haaransatz** war über die Jahre deutlich zurückgewichen", "Die Friseurin rasierte vorsichtig entlang des **Haaransatzes**"]]
+  },
+  {
+    "lemma": "hairpin",
+    "meanings_de": ["Haarnadel"],
+    "definitions_de": ["Dünne, U-förmig gebogene Nadel aus Metall oder Kunststoff zum Feststecken und Fixieren der Haare"],
+    "examples_de": [["Sie befestigte den Dutt mit mehreren **Haarnadeln**", "Während der Probe fielen der Tänzerin ständig die **Haarnadeln** heraus"]]
+  },
+  {
+    "lemma": "hairstyle",
+    "meanings_de": ["Frisur"],
+    "definitions_de": ["Art und Weise, wie jemandes Haare geschnitten, geformt und arrangiert sind, oft als Ausdruck persönlichen Stils"],
+    "examples_de": [["Die neue **Frisur** ließ sie Jahre jünger wirken", "Modezeitschriften präsentierten die aktuellen **Frisurentrends**"]]
+  },
+  {
+    "lemma": "haj",
+    "meanings_de": ["islamische Pilgerfahrt"],
+    "definitions_de": ["Pilgerfahrt nach Mekka, die jeder Muslim mindestens einmal im Leben unternehmen sollte, sofern er dazu in der Lage ist"],
+    "examples_de": [["Tausende Pilger begannen ihre **Hadsch**-Reise nach Mekka", "Er sparte jahrelang, um die **Pilgerfahrt** durchführen zu können"]]
+  },
+  {
+    "lemma": "hajj",
+    "meanings_de": ["islamische Pilgerfahrt"],
+    "definitions_de": ["Jährliche Pilgerfahrt nach Mekka, die zu den fünf Säulen des Islam gehört und für jeden gesunden Muslim verpflichtend ist"],
+    "examples_de": [["Die **Hadsch** vereint jährlich Millionen Muslime aus aller Welt", "Sie vollzog ihre **Pilgerfahrt** während des heiligen Monats"]]
+  },
+  {
+    "lemma": "hake",
+    "meanings_de": ["Seehecht"],
+    "definitions_de": ["Beliebter Speisefisch aus der Familie der Dorschartigen mit weißem, zartem Fleisch"],
+    "examples_de": [["Das Restaurant servierte gebratenen **Seehecht** mit Zitronensauce", "Frischer **Seehecht** war auf dem Fischmarkt erhältlich"]]
+  },
+  {
+    "lemma": "halal",
+    "meanings_de": ["islamisch erlaubte Speisen"],
+    "definitions_de": ["Nach islamischem Recht erlaubte Speisen und Praktiken, insbesondere bezüglich der Schlachtung und Zubereitung von Fleisch"],
+    "examples_de": [["Das Restaurant serviert ausschließlich **halal** zubereitete Fleischgerichte", "Sie achtete auf das **Halal**-Zertifikat auf der Verpackung"]]
+  },
+  {
+    "lemma": "halfback",
+    "meanings_de": ["Läufer im Football"],
+    "definitions_de": ["Spielerposition im American Football oder Rugby, die sich hinter der Angriffslinie befindet"],
+    "examples_de": [["Der **Halfback** erzielte zwei Touchdowns im Meisterschaftsspiel", "Er spielte als **Läufer** im College-Football-Team"]]
+  },
+  {
+    "lemma": "halfpenny",
+    "meanings_de": ["halber Penny"],
+    "definitions_de": ["Ehemalige britische Münze im Wert eines halben Penny, die bis 1984 im Umlauf war"],
+    "examples_de": [["Die alten **Halfpenny**-Münzen sind heute begehrte Sammlerstücke", "Süßigkeiten kosteten damals nur einen **halben Penny**"]]
+  },
+  {
+    "lemma": "halftime",
+    "meanings_de": ["Halbzeitpause"],
+    "definitions_de": ["Pause zwischen den beiden Hälften eines Spiels, in der sich Spieler erholen und Trainer ihre Strategie besprechen"],
+    "examples_de": [["Der Trainer hielt während der **Halbzeitpause** eine motivierende Ansprache", "Fans kauften sich in der **Halbzeit** Snacks"]]
+  },
+  {
+    "lemma": "halibut",
+    "meanings_de": ["Heilbutt"],
+    "definitions_de": ["Großer Plattfisch der nördlichen Meere mit festem, weißem Fleisch, der als Delikatesse gilt"],
+    "examples_de": [["Der Koch bereitete gegrillten **Heilbutt** mit Kräuterbutter zu", "Die **Heilbutt**-Saison beginnt im frühen Frühjahr"]]
+  },
+  {
+    "lemma": "hallelujah",
+    "meanings_de": ["Lobpreis-Ausruf"],
+    "definitions_de": ["Ausruf des Lobes und der Freude, besonders in religiösen Zusammenhängen verwendet, der 'Lobet den Herrn' bedeutet"],
+    "examples_de": [["Die Gemeinde sang **Halleluja** während des Gottesdienstes", "Sie rief **Halleluja**, als sie die gute Nachricht hörte"]]
+  },
+  {
+    "lemma": "hallmark",
+    "meanings_de": ["Kennzeichen", "Feingehaltsstempel"],
+    "definitions_de": ["Typisches Merkmal oder charakteristische Eigenschaft, die etwas identifiziert", "Offizieller Stempel auf Edelmetallen zur Bestätigung des Reinheitsgehalts"],
+    "examples_de": [["Exzellenter Service ist das **Markenzeichen** dieses Hotels", "Liebe zum Detail wurde zu ihrem beruflichen **Kennzeichen**"], ["Der Juwelier prüfte den **Feingehaltsstempel** am Silberarmband", "Jedes Stück trug den charakteristischen **Punzstempel** des Handwerkers"]]
+  },
+  {
+    "lemma": "hallucination",
+    "meanings_de": ["Sinnestäuschung"],
+    "definitions_de": ["Wahrnehmung von Dingen, die nicht real vorhanden sind, oft verursacht durch Krankheit, Fieber oder Drogen"],
+    "examples_de": [["Das Fieber verursachte lebhafte **Halluzinationen** während der Nacht", "Der Arzt fragte nach **Sinnestäuschungen** oder ungewöhnlichen Visionen"]]
+  },
+  {
+    "lemma": "halo",
+    "meanings_de": ["Heiligenschein", "Lichthof"],
+    "definitions_de": ["Lichtkreis, der in der Kunst um den Kopf heiliger Personen dargestellt wird", "Ring aus Licht, der um eine Lichtquelle oder leuchtenden Körper erscheint"],
+    "examples_de": [["Die Engel im Gemälde trugen alle einen goldenen **Heiligenschein**", "Der **Heiligenschein** des Heiligen leuchtete im Kirchenfenster"], ["Der Mond hatte in dieser nebligen Nacht einen wunderschönen **Lichthof**", "Ein **Lichtkranz** umgab die Straßenlaternen"]]
+  },
+  {
+    "lemma": "halogen",
+    "meanings_de": ["Halogen-Element"],
+    "definitions_de": ["Gruppe chemischer Elemente, zu der Fluor, Chlor, Brom und Jod gehören, die alle salzbildende Eigenschaften haben"],
+    "examples_de": [["**Halogenlampen** erzeugen sehr helles, weißes Licht", "Der Chemiestudent untersuchte **Halogen**-Reaktionen"]]
+  },
+  {
+    "lemma": "halt",
+    "meanings_de": ["vollständiger Stopp"],
+    "definitions_de": ["Unterbrechung oder Beendigung einer Bewegung oder Tätigkeit; ein kompletter Stillstand"],
+    "examples_de": [["Der Zug kam am Bahnhof zu einem abrupten **Halt**", "Die Produktion kam während des Streiks zum **Stillstand**"]]
+  },
+  {
+    "lemma": "halter",
+    "meanings_de": ["Pferdehalfter", "Neckholder-Top"],
+    "definitions_de": ["Riemen oder Seil, das um den Kopf eines Pferdes gelegt wird zum Führen", "Damenoberteil, das durch Träger um den Nacken gehalten wird"],
+    "examples_de": [["Sie legte dem Pferd ein **Halfter** an, bevor sie es führte", "Das lederne **Halfter** war mit Silberbeschlägen verziert"], ["Sie trug ein elegantes **Neckholder-Top** zur Strandparty", "Das **Neckholder-Oberteil** war perfekt für den Sommer"]]
+  },
+  {
+    "lemma": "ham",
+    "meanings_de": ["Schinken", "übertreibender Schauspieler"],
+    "definitions_de": ["Fleisch vom oberen Teil des Schweinebeins, durch Salzen oder Räuchern haltbar gemacht", "Schauspieler, der übertrieben spielt und seine Darstellung überzeichnet"],
+    "examples_de": [["Sie servierten honigglastierten **Schinken** zum Osterfest", "Sie kaufte aufgeschnittenen **Schinken** für Sandwiches"], ["Dieser Schauspieler ist ein richtiger **Schmierenkomödiant** auf der Bühne", "Er spielte den **Possenreißer** vor den Kameras"]]
+  },
+  {
+    "lemma": "hamburger",
+    "meanings_de": ["Hamburger"],
+    "definitions_de": ["Sandwich bestehend aus einer gebratenen Frikadelle aus Rinderhackfleisch in einem aufgeschnittenen Brötchen"],
+    "examples_de": [["Er bestellte einen **Hamburger** mit extra Käse und Speck", "Das Diner serviert die besten **Hamburger** der Stadt"]]
+  },
+  {
+    "lemma": "hamlet",
+    "meanings_de": ["kleiner Weiler"],
+    "definitions_de": ["Kleine Siedlung oder Ansammlung von Häusern, die kleiner als ein Dorf ist"],
+    "examples_de": [["Der ruhige **Weiler** hatte nur fünfzig Einwohner", "Sie entdeckten einen malerischen **Weiler** in den Bergen"]]
+  },
+  {
+    "lemma": "hammerhead",
+    "meanings_de": ["Hammerhai"],
+    "definitions_de": ["Hai mit abgeflachtem, seitlich verbreitertem Kopf in Form eines Hammers"],
+    "examples_de": [["Der **Hammerhai** schwamm nahe am Tauchboot vorbei", "**Hammerhaie** nutzen ihre breiten Köpfe zur Beuteortung"]]
+  },
+  {
+    "lemma": "hammering",
+    "meanings_de": ["anhaltendes Hämmern"],
+    "definitions_de": ["Wiederholtes, kräftiges Schlagen auf etwas, oft mit lautem Geräusch verbunden"],
+    "examples_de": [["Das ständige **Hämmern** von der Baustelle hielt die Nachbarn wach", "Das **Trommeln** des Regens auf dem Dach war ohrenbetäubend"]]
+  },
+  {
+    "lemma": "hammock",
+    "meanings_de": ["Hängematte"],
+    "definitions_de": ["Hängendes Bett aus Stoff oder Netzgeflecht, das zwischen zwei Befestigungspunkten aufgespannt wird"],
+    "examples_de": [["Sie entspannte sich in der **Hängematte** unter Palmen", "Sie spannten eine **Hängematte** zwischen zwei Bäumen im Garten auf"]]
+  },
+  {
+    "lemma": "hamper",
+    "meanings_de": ["Wäschekorb", "Geschenkkorb"],
+    "definitions_de": ["Großer Korb zur Aufbewahrung von schmutziger Wäsche", "Korb mit Lebensmitteln und anderen Artikeln als Geschenk"],
+    "examples_de": [["Die schmutzige Wäsche quoll aus dem **Wäschekorb** hervor", "Sie trug den **Wäschekorb** zur Waschmaschine"], ["Sie erhielten einen luxuriösen **Geschenkkorb** voller Gourmet-Leckereien", "Der weihnachtliche **Präsentkorb** enthielt Wein und Pralinen"]]
+  },
+  {
+    "lemma": "hamster",
+    "meanings_de": ["Hamster"],
+    "definitions_de": ["Kleines Nagetier mit Backentaschen, das als beliebtes Haustier gehalten wird"],
+    "examples_de": [["Der **Hamster** lief die ganze Nacht in seinem Laufrad", "Kinder lieben es zuzusehen, wie **Hamster** ihre Backentaschen füllen"]]
+  },
+  {
+    "lemma": "hamstring",
+    "meanings_de": ["Kniesehne"],
+    "definitions_de": ["Sehne an der Rückseite des Knies, die die Oberschenkelmuskulatur mit dem Unterschenkel verbindet"],
+    "examples_de": [["Der Sportler erlitt eine schmerzhafte Verletzung der **Kniesehne**", "Dehnen hilft, Zerrungen der **Oberschenkelsehne** vorzubeugen"]]
+  },
+  {
+    "lemma": "handbag",
+    "meanings_de": ["Handtasche"],
+    "definitions_de": ["Kleine Tasche, die von Frauen zum Mitführen persönlicher Gegenstände getragen wird"],
+    "examples_de": [["Sie suchte in ihrer **Handtasche** nach den Schlüsseln", "Die Designer-**Handtasche** passte perfekt zu ihren Schuhen"]]
+  },
+  {
+    "lemma": "handball",
+    "meanings_de": ["Handball"],
+    "definitions_de": ["Mannschaftssport, bei dem Spieler einen Ball mit den Händen werfen, um Tore zu erzielen"],
+    "examples_de": [["Die **Handball**-Meisterschaft zog Teams aus ganz Europa an", "Sie spielte zehn Jahre lang professionell **Handball**"]]
+  },
+  {
+    "lemma": "handbook",
+    "meanings_de": ["Handbuch"],
+    "definitions_de": ["Buch mit Informationen oder Anleitungen zu einem bestimmten Thema, das als Nachschlagewerk dient"],
+    "examples_de": [["Das Mitarbeiter-**Handbuch** erklärte die Firmenrichtlinien verständlich", "Schüler erhielten am ersten Tag ein **Handbuch**"]]
+  },
+  {
+    "lemma": "handgun",
+    "meanings_de": ["Handfeuerwaffe"],
+    "definitions_de": ["Kleine Schusswaffe, die dafür konstruiert ist, mit einer Hand gehalten und abgefeuert zu werden"],
+    "examples_de": [["Polizisten tragen **Handfeuerwaffen** zu ihrem Schutz", "Der Detektiv steckte seine **Pistole** ins Holster"]]
+  },
+  {
+    "lemma": "handicap",
+    "meanings_de": ["Behinderung", "Vorgabesystem im Sport"],
+    "definitions_de": ["Körperliche oder geistige Beeinträchtigung, die Bewegungen oder Aktivitäten einer Person einschränkt", "System im Sport, das schwächeren Spielern einen Ausgleich gewährt"],
+    "examples_de": [["Trotz ihrer Sehbehinderung war sie musikalisch sehr erfolgreich", "Das Gebäude wurde für Menschen mit körperlichen **Behinderungen** umgebaut"], ["Sein Golf-**Handicap** verbesserte sich nach monatelangem Training", "Das Rennen nutzte ein **Vorgabesystem** zum Ausgleich der Leistungsunterschiede"]]
+  },
+  {
+    "lemma": "handicapped",
+    "meanings_de": ["behinderte Menschen"],
+    "definitions_de": ["Menschen, die körperliche oder geistige Behinderungen haben"],
+    "examples_de": [["Die Parkplätze für **Behinderte** sind deutlich gekennzeichnet", "Das Zentrum bietet Dienste für **behinderte** Kinder an"]]
+  },
+  {
+    "lemma": "handicraft",
+    "meanings_de": ["Kunsthandwerk"],
+    "definitions_de": ["Dekorative Gegenstände, die von Hand mit traditionellen Fertigkeiten hergestellt werden"],
+    "examples_de": [["Der Markt verkaufte wunderschönes **Kunsthandwerk** lokaler Handwerker", "Sie erlernte traditionelle **Handwerkstechniken** von ihrer Großmutter"]]
+  },
+  {
+    "lemma": "handiwork",
+    "meanings_de": ["Handarbeit"],
+    "definitions_de": ["Etwas, das von Hand gefertigt oder getan wurde; das Ergebnis von jemandes Arbeit"],
+    "examples_de": [["Die Steppdecke war ein schönes Beispiel ihrer **Handarbeit**", "Vandalen hinterließen ihr zerstörerisches **Werk** im ganzen Park"]]
+  },
+  {
+    "lemma": "handkerchief",
+    "meanings_de": ["Taschentuch"],
+    "definitions_de": ["Kleines quadratisches Tuch zum Schnäuzen oder Abwischen des Gesichts"],
+    "examples_de": [["Er zog ein **Taschentuch** hervor, um sich die Stirn abzuwischen", "Sie stickte ihre Initialen auf das seidene **Taschentuch**"]]
+  },
+  {
+    "lemma": "handlebar",
+    "meanings_de": ["Lenkstange"],
+    "definitions_de": ["Gebogene Metallstange zum Lenken eines Fahrrads oder Motorrads"],
+    "examples_de": [["Er umklammerte die **Lenkstange** fest während der Abfahrt", "Die **Lenkstange** des Motorrads war mit Ledergriffen versehen"]]
+  },
+  {
+    "lemma": "handler",
+    "meanings_de": ["Betreuer", "Tierführer"],
+    "definitions_de": ["Person, die etwas verwaltet oder damit umgeht", "Person, die Tiere trainiert oder kontrolliert"],
+    "examples_de": [["Die **Gepäckabfertiger** verluden das Gepäck ins Flugzeug", "Sie arbeitete als **Kundenbetreuerin** für Beschwerden"], ["Der **Hundeführer** demonstrierte Gehorsamkeitstechniken", "**Tierpfleger** müssen besondere Sicherheitsvorkehrungen treffen"]]
+  },
+  {
+    "lemma": "handling",
+    "meanings_de": ["Handhabung"],
+    "definitions_de": ["Art und Weise, wie mit etwas umgegangen oder etwas verwaltet wird"],
+    "examples_de": [["Die sachgemäße **Handhabung** von Chemikalien erfordert Schutzausrüstung", "Die **Bearbeitung** von Kundenbeschwerden verbesserte sich erheblich"]]
+  },
+  {
+    "lemma": "handmaid",
+    "meanings_de": ["Dienerin"],
+    "definitions_de": ["Weibliche Bedienstete oder persönliche Dienerin einer Dame"],
+    "examples_de": [["Die **Dienerin** der Königin half ihr jeden Morgen beim Ankleiden", "Historische Romane zeigen oft treue **Dienerinnen**"]]
+  },
+  {
+    "lemma": "handoff",
+    "meanings_de": ["Ballübergabe"],
+    "definitions_de": ["Aktion des Weitergebens von etwas von einer Person zur anderen"],
+    "examples_de": [["Die **Ballübergabe** des Quarterbacks an den Running Back war perfekt", "Die **Projektübergabe** zwischen den Teams verlief reibungslos"]]
+  },
+  {
+    "lemma": "handover",
+    "meanings_de": ["Übergabe"],
+    "definitions_de": ["Vorgang der Übertragung von Kontrolle oder Verantwortung an eine andere Person"],
+    "examples_de": [["Die **Machtübergabe** fand um Mitternacht statt", "Sie bereiteten Dokumente für die **Geschäftsübergabe** vor"]]
+  },
+  {
+    "lemma": "handrail",
+    "meanings_de": ["Handlauf"],
+    "definitions_de": ["An Wand oder Pfosten befestigte Schiene, an der sich Menschen beim Gehen festhalten können"],
+    "examples_de": [["Sie hielt sich am **Handlauf** fest, während sie die steile Treppe hinaufstieg", "Sicherheitsvorschriften verlangen **Handläufe** auf beiden Seiten"]]
+  },
+  {
+    "lemma": "handset",
+    "meanings_de": ["Telefonhörer"],
+    "definitions_de": ["Teil des Telefons, der beim Sprechen an Ohr und Mund gehalten wird"],
+    "examples_de": [["Sie nahm den **Telefonhörer** ab, um den Anruf entgegenzunehmen", "Der schnurlose **Hörer** musste aufgeladen werden"]]
+  },
+  {
+    "lemma": "handshake",
+    "meanings_de": ["Händedruck"],
+    "definitions_de": ["Begrüßungsgeste oder Besiegelung einer Vereinbarung durch Händeschütteln"],
+    "examples_de": [["Sie besiegelten den Deal mit einem festen **Händedruck**", "Sein **Händedruck** vermittelte Selbstvertrauen und Wärme"]]
+  },
+  {
+    "lemma": "handwriting",
+    "meanings_de": ["Handschrift"],
+    "definitions_de": ["Individuelle Art einer Person, mit der Hand zu schreiben"],
+    "examples_de": [["Die Lehrerin lobte ihre saubere **Handschrift**", "Ärzte sind berüchtigt für ihre unleserliche **Handschrift**"]]
+  },
+  {
+    "lemma": "handyman",
+    "meanings_de": ["Hausmeister"],
+    "definitions_de": ["Person, die verschiedene Reparatur- und Wartungsarbeiten ausführen kann"],
+    "examples_de": [["Der **Hausmeister** reparierte den tropfenden Wasserhahn und die quietschende Tür", "Sie beauftragte einen **Handwerker** mit der Installation neuer Regale"]]
+  }
+]

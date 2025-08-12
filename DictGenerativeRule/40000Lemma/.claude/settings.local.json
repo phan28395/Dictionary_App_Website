@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(del filter_excel.py)",
+      "Bash(rm:*)"
+    ],
+    "deny": []
+  }
+}

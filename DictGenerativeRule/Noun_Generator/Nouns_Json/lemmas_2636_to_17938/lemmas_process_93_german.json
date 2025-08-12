@@ -1,0 +1,290 @@
+[
+  {
+    "lemma": "gumbo",
+    "meanings_de": ["dicke Eintopfsuppe"],
+    "definitions_de": ["Eine sämige Suppe aus der Südstaatenküche der USA, die mit Okra eingedickt wird und typischerweise Fleisch oder Meeresfrüchte enthält"],
+    "examples_de": [["Das würzige **Gumbo** mit Garnelen und Wurst köchelte stundenlang auf dem Herd", "Im Restaurant in New Orleans probierten sie zum ersten Mal authentisches **Gumbo**"]]
+  },
+  {
+    "lemma": "gunboat",
+    "meanings_de": ["bewaffnetes Kriegsschiff"],
+    "definitions_de": ["Ein kleines, wendiges Kriegsschiff, das speziell für Einsätze auf Flüssen und in Küstengewässern konzipiert wurde"],
+    "examples_de": [["Das **Kanonenboot** patrouillierte auf dem Mekong, um Schmuggler abzufangen", "Während des Kolonialkriegs wurden mehrere **Kanonenboote** in den Flussmündungen stationiert"]]
+  },
+  {
+    "lemma": "gunfight",
+    "meanings_de": ["bewaffnete Schießerei"],
+    "definitions_de": ["Ein Kampf zwischen bewaffneten Personen, bei dem mit Schusswaffen aufeinander geschossen wird, oft auf kurze Distanz"],
+    "examples_de": [["Die **Schießerei** im Wilden Westen endete mit einem dramatischen Showdown", "Nach der **Schießerei** zwischen rivalisierenden Banden sperrte die Polizei das Viertel ab"]]
+  },
+  {
+    "lemma": "gunfire",
+    "meanings_de": ["Schusswaffenfeuer"],
+    "definitions_de": ["Das wiederholte Abfeuern von Schusswaffen oder die dabei entstehenden Geräusche"],
+    "examples_de": [["In der Ferne war **Gewehrfeuer** zu hören, das die Dorfbewohner beunruhigte", "Das anhaltende **Maschinengewehrfeuer** zwang die Soldaten in Deckung"]]
+  },
+  {
+    "lemma": "gunman",
+    "meanings_de": ["bewaffneter Täter"],
+    "definitions_de": ["Eine Person, die eine Schusswaffe benutzt, um Verbrechen zu begehen oder Gewalt auszuüben"],
+    "examples_de": [["Der **Schütze** flüchtete nach dem Überfall in einem gestohlenen Wagen", "Augenzeugen beschrieben den maskierten **Bewaffneten**, der das Geschäft betrat"]]
+  },
+  {
+    "lemma": "gunner",
+    "meanings_de": ["Geschützbediener"],
+    "definitions_de": ["Eine Person, die große Geschütze oder Maschinengewehre bedient, besonders im militärischen Bereich"],
+    "examples_de": [["Der **Bordschütze** im Hubschrauber sicherte die Landezone ab", "Als **Kanonier** an der Flak hatte er eine wichtige Verteidigungsposition inne"]]
+  },
+  {
+    "lemma": "gunnery",
+    "meanings_de": ["Geschützwesen"],
+    "definitions_de": ["Die Kunst und Wissenschaft des Bedienens von schweren Geschützen und Artilleriewaffen"],
+    "examples_de": [["Die Marineoffiziere studierten **Ballistik** und Geschütztechnik an der Akademie", "Der Ausbilder lehrte die Rekruten die Grundlagen der **Artilleriekunde**"]]
+  },
+  {
+    "lemma": "gunpoint",
+    "meanings_de": ["vorgehaltene Waffe"],
+    "definitions_de": ["Eine bedrohliche Situation, in der jemand mit einer auf ihn gerichteten Waffe bedroht wird"],
+    "examples_de": [["Die Räuber zwangen den Kassierer mit **vorgehaltener Waffe**, den Safe zu öffnen", "Sie wurden mit **vorgehaltener Pistole** gezwungen, ihre Wertsachen herauszugeben"]]
+  },
+  {
+    "lemma": "gunpowder",
+    "meanings_de": ["Schießpulver"],
+    "definitions_de": ["Ein explosives Pulver aus Schwefel, Holzkohle und Kaliumnitrat, das in Schusswaffen und Feuerwerkskörpern verwendet wird"],
+    "examples_de": [["Die Erfindung des **Schießpulvers** revolutionierte die Kriegsführung im Mittelalter", "Der Pyrotechniker mischte das **Schwarzpulver** vorsichtig für die Silvesterraketen"]]
+  },
+  {
+    "lemma": "gunshot",
+    "meanings_de": ["Schussgeräusch", "Schusswunde"],
+    "definitions_de": ["Das Geräusch, das beim Abfeuern einer Schusswaffe entsteht", "Eine durch eine Kugel aus einer Schusswaffe verursachte Verletzung"],
+    "examples_de": [["Ein lauter **Schuss** hallte durch die stille Nachbarschaft", "Der Detektiv untersuchte die **Schussrückstände** an der Wand"], ["Das Opfer wurde mit einer **Schussverletzung** an der Schulter ins Krankenhaus eingeliefert", "Notfallmediziner sind speziell für die Behandlung von **Schusswunden** ausgebildet"]]
+  },
+  {
+    "lemma": "gunslinger",
+    "meanings_de": ["Revolverheld"],
+    "definitions_de": ["Eine mit Schusswaffen geschickte Person, besonders im amerikanischen Wilden Westen"],
+    "examples_de": [["Der legendäre **Revolverheld** betrat den staubigen Saloon mit klirrenden Sporen", "In den alten Westernfilmen waren mysteriöse **Pistoleros** beliebte Charaktere"]]
+  },
+  {
+    "lemma": "gunsmith",
+    "meanings_de": ["Büchsenmacher"],
+    "definitions_de": ["Ein Handwerker, der Schusswaffen herstellt, repariert oder modifiziert"],
+    "examples_de": [["Der **Büchsenmacher** justierte sorgfältig den Abzugsmechanismus des Gewehrs", "Örtliche Jäger besuchten regelmäßig den **Waffenschmied** für Reparaturen"]]
+  },
+  {
+    "lemma": "guppy",
+    "meanings_de": ["kleiner Zierfisch"],
+    "definitions_de": ["Ein kleiner, bunter Süßwasserfisch, der wegen seiner Farbenpracht in Aquarien beliebt ist"],
+    "examples_de": [["Die Kinder beobachteten fasziniert die bunten **Guppys** im Aquarium", "**Guppys** sind pflegeleichte Fische für Aquaristik-Anfänger"]]
+  },
+  {
+    "lemma": "gurney",
+    "meanings_de": ["Krankentrage"],
+    "definitions_de": ["Eine fahrbare Trage auf Rädern, die zum Transport von Patienten in Krankenhäusern verwendet wird"],
+    "examples_de": [["Die Sanitäter schoben den Patienten auf einer **Rollbahre** in die Notaufnahme", "Die Krankenschwester schob eine leere **Krankentrage** durch den Klinikflur"]]
+  },
+  {
+    "lemma": "guru",
+    "meanings_de": ["spiritueller Lehrer", "Experte Fachmann"],
+    "definitions_de": ["Ein religiöser Lehrer oder spiritueller Führer im Hinduismus oder Buddhismus", "Eine Person mit umfassendem Wissen oder Expertise in einem bestimmten Bereich"],
+    "examples_de": [["Der spirituelle **Guru** lehrte seine Anhänger Meditationstechniken", "Viele Suchende reisten nach Indien, um bei dem **Meister** zu studieren"], ["Sie wurde nach mehreren erfolgreichen Kampagnen als Marketing-**Guru** bekannt", "Der Tech-**Experte** teilte seine Einblicke über zukünftige Innovationen"]]
+  },
+  {
+    "lemma": "gush",
+    "meanings_de": ["plötzlicher Flüssigkeitsstrom"],
+    "definitions_de": ["Ein plötzlicher, starker Strom von Flüssigkeit, der aus einer Öffnung herausschießt"],
+    "examples_de": [["Wasser begann aus dem geplatzten Rohr zu **sprudeln**", "Das Öl **strömte** stundenlang unkontrolliert aus der Quelle"]]
+  },
+  {
+    "lemma": "gust",
+    "meanings_de": ["plötzlicher Windstoß"],
+    "definitions_de": ["Ein plötzlicher, kräftiger Windstoß, der nur kurze Zeit anhält"],
+    "examples_de": [["Eine heftige **Windböe** riss den Sonnenschirm um", "Das Zelt wackelte bei jeder **Böe** während des Sturms"]]
+  },
+  {
+    "lemma": "gusto",
+    "meanings_de": ["begeisterte Energie"],
+    "definitions_de": ["Große Begeisterung und Energie beim Ausführen einer Tätigkeit"],
+    "examples_de": [["Sie sang die Nationalhymne mit außerordentlicher **Begeisterung**", "Die Kinder stürzten sich mit sichtlichem **Genuss** auf ihr Eis"]]
+  },
+  {
+    "lemma": "gutter",
+    "meanings_de": ["Dachrinne", "Straßenrinne"],
+    "definitions_de": ["Eine Rinne am Dachrand zum Ableiten von Regenwasser", "Eine Rinne am Straßenrand zur Entwässerung"],
+    "examples_de": [["Laub verstopfte die **Dachrinne**, sodass das Wasser überlief", "Der Hausbesitzer reinigte die **Regenrinne** von Schmutz"], ["Regenwasser floss schnell durch die **Gosse** ab", "Kinder ließen nach dem Regen Papierschiffe in der **Straßenrinne** schwimmen"]]
+  },
+  {
+    "lemma": "gymnasium",
+    "meanings_de": ["Sporthalle"],
+    "definitions_de": ["Ein großer Raum oder Gebäude, das für körperliche Übungen und Sport ausgestattet ist"],
+    "examples_de": [["Die Schüler versammelten sich in der **Turnhalle** zum Basketballspiel", "Die neue **Sporthalle** verfügt über moderne Trainingsgeräte"]]
+  },
+  {
+    "lemma": "gymnast",
+    "meanings_de": ["Turner Sportler"],
+    "definitions_de": ["Eine Person, die Übungen ausführt, die körperliche Kraft, Beweglichkeit und Koordination erfordern"],
+    "examples_de": [["Die **Turnerin** führte einen perfekten Rückwärtssalto am Schwebebalken aus", "Junge **Turner** trainierten stundenlang für den Wettkampf"]]
+  },
+  {
+    "lemma": "gynaecologist",
+    "meanings_de": ["Frauenarzt"],
+    "definitions_de": ["Ein Arzt, der sich auf die Gesundheit und Krankheiten des weiblichen Fortpflanzungssystems spezialisiert hat"],
+    "examples_de": [["Sie vereinbarte ihren jährlichen Vorsorgetermin beim **Gynäkologen**", "Die **Frauenärztin** erklärte ihrer Patientin die Testergebnisse"]]
+  },
+  {
+    "lemma": "gynaecology",
+    "meanings_de": ["Frauenheilkunde"],
+    "definitions_de": ["Der Zweig der Medizin, der sich mit Krankheiten und der Gesundheit des weiblichen Fortpflanzungssystems befasst"],
+    "examples_de": [["Sie entschied sich während des Medizinstudiums für eine Spezialisierung in **Gynäkologie**", "Das Krankenhaus eröffnete letztes Jahr eine neue Abteilung für **Frauenheilkunde**"]]
+  },
+  {
+    "lemma": "gynecologist",
+    "meanings_de": ["Frauenarzt"],
+    "definitions_de": ["Ein Arzt, der sich auf die Gesundheit und Krankheiten des weiblichen Fortpflanzungssystems spezialisiert hat"],
+    "examples_de": [["Der **Gynäkologe** empfahl seinen Patientinnen regelmäßige Vorsorgeuntersuchungen", "Sie fühlte sich wohl dabei, ihre Bedenken mit ihrer **Frauenärztin** zu besprechen"]]
+  },
+  {
+    "lemma": "gynecology",
+    "meanings_de": ["Frauenheilkunde"],
+    "definitions_de": ["Der Zweig der Medizin, der sich mit Krankheiten und der Gesundheit des weiblichen Fortpflanzungssystems befasst"],
+    "examples_de": [["Die Medizinstudentin lernte für die Prüfung aus **Gynäkologie**-Lehrbüchern", "Fortschritte in der **Frauenheilkunde** haben die Gesundheitsversorgung von Frauen verbessert"]]
+  },
+  {
+    "lemma": "gypsum",
+    "meanings_de": ["weiches Mineralgestein"],
+    "definitions_de": ["Ein weiches, weißes oder graues Mineral, das zur Herstellung von Gips und Zement verwendet wird"],
+    "examples_de": [["Die antiken Wände wurden mit **Gips**putz verkleidet", "Bergarbeiter förderten **Gipsstein** aus dem Steinbruch für Bauzwecke"]]
+  },
+  {
+    "lemma": "gypsy",
+    "meanings_de": ["Roma Volksgruppe", "Nomade Wanderer"],
+    "definitions_de": ["Ein Angehöriger des Roma-Volkes, das traditionell ein Wanderleben führt", "Eine Person, die von Ort zu Ort reist ohne festen Wohnsitz"],
+    "examples_de": [["Die **Roma**-Karawane zog durch osteuropäische Länder", "Traditionelle **Zigeuner**musik erfüllte den Abend"], ["Sie lebte wie eine **Nomadin** und zog von Stadt zu Stadt", "Der Künstler führte ein **Wanderleben** mit ständigen Reisen"]]
+  },
+  {
+    "lemma": "gyro",
+    "meanings_de": ["griechisches Fleischsandwich", "rotierendes Stabilisierungsgerät"],
+    "definitions_de": ["Ein griechisches Sandwich mit am Drehspieß gebratenem Fleisch, eingewickelt in Pita", "Ein Gerät, das sich dreht, um Orientierung und Stabilität aufrechtzuerhalten"],
+    "examples_de": [["Er bestellte ein Lamm-**Gyros** mit extra Tzatziki-Soße", "Der Imbisswagen servierte zur Mittagszeit köstliches **Gyros**"], ["Das **Gyroskop** des Raumschiffs half, seine Position im Orbit zu halten", "Ingenieure testeten das **Kreisel**system vor dem Flug"]]
+  },
+  {
+    "lemma": "gyroscope",
+    "meanings_de": ["drehendes Navigationsgerät"],
+    "definitions_de": ["Ein sich drehendes Rad oder eine Scheibe, die ihre Ausrichtung beibehält und zur Navigation und Stabilisierung verwendet wird"],
+    "examples_de": [["Das **Gyroskop** des Schiffes half bei der Navigation durch neblige Bedingungen", "Smartphones enthalten winzige **Kreisel** für die Bildschirmausrichtung"]]
+  },
+  {
+    "lemma": "habitability",
+    "meanings_de": ["Bewohnbarkeit"],
+    "definitions_de": ["Die Eigenschaft, geeignet oder gut genug zum Bewohnen zu sein"],
+    "examples_de": [["Wissenschaftler untersuchten die **Bewohnbarkeit** des Planeten für zukünftige Kolonisierung", "Der Gutachter bewertete die **Wohnfähigkeit** des Gebäudes nach der Überschwemmung"]]
+  },
+  {
+    "lemma": "habitation",
+    "meanings_de": ["Wohnstätte Behausung"],
+    "definitions_de": ["Ein Ort, an dem Menschen leben, oder der Vorgang des Wohnens an einem Ort"],
+    "examples_de": [["Archäologische Funde zeigten eine alte **Besiedlung** in der Höhle", "Die Insel ist für menschliche **Bewohnung** ungeeignet"]]
+  },
+  {
+    "lemma": "habituation",
+    "meanings_de": ["Gewöhnung Anpassung"],
+    "definitions_de": ["Der Prozess, durch wiederholte Exposition an etwas gewöhnt zu werden"],
+    "examples_de": [["Die Zootiere zeigten eine **Gewöhnung** an Besucherlärm", "Die **Habituationstherapie** half, seine Höhenangst zu reduzieren"]]
+  },
+  {
+    "lemma": "hacienda",
+    "meanings_de": ["spanisches Landgut"],
+    "definitions_de": ["Ein großes Anwesen oder eine Plantage in spanischsprachigen Ländern mit Haupthaus"],
+    "examples_de": [["Die alte **Hazienda** wurde in ein Luxushotel umgewandelt", "Sie besichtigten das historische **Landgut** mit seinen schönen Innenhöfen"]]
+  },
+  {
+    "lemma": "hack",
+    "meanings_de": ["grober Schnitt Hieb", "Computer-Einbruch", "cleverer Trick Lösung"],
+    "definitions_de": ["Ein grober Schnitt oder Hieb mit einem schweren Werkzeug", "Unbefugter Zugriff auf ein Computersystem oder Daten", "Eine clevere Lösung oder Abkürzung zur Problemlösung"],
+    "examples_de": [["Er benutzte eine Axt, um sich durch die dicken Äste zu **hacken**", "Der Holzfäller konnte Bäume präzise **fällen**"], ["Kriminelle versuchten, sich in das Computersystem der Bank zu **hacken**", "Sie lernte **hacken**, indem sie Cybersicherheit studierte"], ["Dieser einfache **Trick** spart Ihnen stundenlange Arbeit", "**Lifehacks** können alltägliche Aufgaben viel einfacher machen"]]
+  },
+  {
+    "lemma": "hacker",
+    "meanings_de": ["Computer-Einbrecher", "versierter Programmierer"],
+    "definitions_de": ["Eine Person, die sich unbefugt Zugang zu Computersystemen verschafft", "Ein geschickter Computerprogrammierer, der gerne technische Probleme löst"],
+    "examples_de": [["Der **Hacker** stahl sensible Daten vom Firmenserver", "Die Polizei verhaftete den **Cyberkriminellen**, der für den Angriff verantwortlich war"], ["Sie ist eine talentierte **Hackerin**, die Unternehmen bei der Verbesserung ihrer Sicherheit hilft", "Viele **Programmierer** tragen zu Open-Source-Softwareprojekten bei"]]
+  },
+  {
+    "lemma": "hacksaw",
+    "meanings_de": ["Metallsäge"],
+    "definitions_de": ["Eine Säge mit feinen Zähnen zum Schneiden von Metall"],
+    "examples_de": [["Der Klempner benutzte eine **Metallsäge**, um das Kupferrohr zu durchtrennen", "Er bewahrte eine **Bügelsäge** in seinem Werkzeugkasten für Metallarbeiten auf"]]
+  },
+  {
+    "lemma": "haddock",
+    "meanings_de": ["Speisefisch Schellfisch"],
+    "definitions_de": ["Ein nordatlantischer Fisch, ähnlich dem Kabeljau, der oft als Speisefisch verwendet wird"],
+    "examples_de": [["Das Restaurant servierte jeden Freitag frischen **Schellfisch** mit Pommes", "Geräucherter **Schellfisch** ist ein köstliches Frühstücksgericht"]]
+  },
+  {
+    "lemma": "hadith",
+    "meanings_de": ["islamische Prophetenüberlieferung"],
+    "definitions_de": ["Sammlung von Aussprüchen und Handlungen des Propheten Mohammed im Islam"],
+    "examples_de": [["Gelehrte studierten die **Hadithe**, um islamische Lehren besser zu verstehen", "Der Imam zitierte einen **Hadith** während der Freitagspredigt"]]
+  },
+  {
+    "lemma": "hadj",
+    "meanings_de": ["islamische Pilgerfahrt"],
+    "definitions_de": ["Die Pilgerfahrt nach Mekka, die jeder Muslim mindestens einmal im Leben unternehmen muss"],
+    "examples_de": [["Millionen Muslime vollziehen jedes Jahr die **Hadsch**", "Er sparte jahrelang, um die **Pilgerfahrt** nach Mekka zu machen"]]
+  },
+  {
+    "lemma": "haemoglobin",
+    "meanings_de": ["Blut-Sauerstoff-Protein"],
+    "definitions_de": ["Ein Protein in roten Blutkörperchen, das Sauerstoff durch den Körper transportiert"],
+    "examples_de": [["Die Blutuntersuchung zeigte niedrige **Hämoglobin**werte, was auf Anämie hindeutet", "**Hämoglobin** verleiht dem Blut seine charakteristische rote Farbe"]]
+  },
+  {
+    "lemma": "haemophilia",
+    "meanings_de": ["Blutgerinnungsstörung"],
+    "definitions_de": ["Eine erbliche Störung, bei der das Blut nicht richtig gerinnt und übermäßige Blutungen verursacht"],
+    "examples_de": [["Der junge Prinz wurde bei der Geburt mit **Hämophilie** diagnostiziert", "Moderne Behandlungen haben das Leben für **Bluter** erheblich verbessert"]]
+  },
+  {
+    "lemma": "haemorrhage",
+    "meanings_de": ["schwere Blutung"],
+    "definitions_de": ["Starke Blutung aus beschädigten Blutgefäßen, die schwer zu stoppen ist"],
+    "examples_de": [["Der Chirurg arbeitete schnell, um die innere **Blutung** zu stoppen", "Eine schwere **Hämorrhagie** kann ohne sofortige Behandlung lebensbedrohlich sein"]]
+  },
+  {
+    "lemma": "hag",
+    "meanings_de": ["hässliche alte Frau"],
+    "definitions_de": ["Eine unangenehme oder hässliche alte Frau, oft in Märchen verwendet"],
+    "examples_de": [["Das Märchen handelte von einer bösen **Hexe**, die im Wald lebte", "Kinder verkleideten sich zu Halloween als Hexen und **Vettel**"]]
+  },
+  {
+    "lemma": "haggis",
+    "meanings_de": ["schottisches Fleischgericht"],
+    "definitions_de": ["Traditionelles schottisches Gericht aus Schafsinnereien mit Hafermehl, gekocht im Schafsmagen"],
+    "examples_de": [["Sie servierten **Haggis** bei der Burns-Night-Feier", "Viele Touristen sind neugierig, authentisches schottisches **Haggis** zu probieren"]]
+  },
+  {
+    "lemma": "haiku",
+    "meanings_de": ["japanische Gedichtform"],
+    "definitions_de": ["Japanisches Gedicht mit drei Zeilen zu fünf, sieben und fünf Silben"],
+    "examples_de": [["Die Schüler lernten im Englischunterricht, **Haikus** über die Natur zu schreiben", "Das **Haiku** fing die Essenz des Frühlings in siebzehn Silben ein"]]
+  },
+  {
+    "lemma": "hail",
+    "meanings_de": ["Hagelniederschlag"],
+    "definitions_de": ["Gefrorene Regenkörner, die während Stürmen als Eiskugeln herabfallen"],
+    "examples_de": [["Der plötzliche **Hagel** beschädigte die draußen geparkten Autos", "Landwirte sorgten sich, dass **Hagelschlag** ihre Ernte zerstören könnte"]]
+  },
+  {
+    "lemma": "haircut",
+    "meanings_de": ["Haarschnitt Frisur"],
+    "definitions_de": ["Das Schneiden der Haare oder die Art, wie die Haare geschnitten sind"],
+    "examples_de": [["Er brauchte einen **Haarschnitt** vor dem Vorstellungsgespräch", "Der Friseur verpasste ihr eine trendige neue **Frisur**"]]
+  },
+  {
+    "lemma": "hairdresser",
+    "meanings_de": ["Friseur Haarstylist"],
+    "definitions_de": ["Eine Person, deren Beruf es ist, die Haare anderer Menschen zu schneiden und zu stylen"],
+    "examples_de": [["Sie besuchte ihren **Friseur** alle sechs Wochen zum Nachschneiden", "Die **Friseurin** empfahl eine neue Farbe für den Sommer"]]
+  }
+]

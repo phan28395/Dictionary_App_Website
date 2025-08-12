@@ -1,0 +1,296 @@
+[
+  {
+    "lemma": "endocrinology",
+    "meanings_de": ["medizinische Hormonstudie"],
+    "definitions_de": ["Teilgebiet der Medizin, das sich mit Hormonen und den sie produzierenden Drüsen befasst"],
+    "examples_de": [["Die Patientin wurde wegen Schilddrüsenproblemen zur **Endokrinologie** überwiesen", "Sie ist auf pädiatrische **Endokrinologie** im Krankenhaus spezialisiert"]]
+  },
+  {
+    "lemma": "endorsement",
+    "meanings_de": ["offizielle Unterstützungserklärung", "Unterschrift auf Dokument"],
+    "definitions_de": ["öffentliche Erklärung der Unterstützung oder Zustimmung für jemanden oder etwas", "Unterschrift auf der Rückseite eines Schecks oder Dokuments, die es gültig macht"],
+    "examples_de": [["Die **Befürwortung** durch den Prominenten steigerte den Produktumsatz erheblich", "Der Politiker erhielt **Unterstützungserklärungen** von mehreren großen Gewerkschaften"], ["Die Bank verlangt Ihr **Indossament** auf der Rückseite des Schecks", "Ohne ordnungsgemäßes **Indossament** kann das Dokument nicht bearbeitet werden"]]
+  },
+  {
+    "lemma": "endorser",
+    "meanings_de": ["Person die unterstützt"],
+    "definitions_de": ["Person, die jemanden oder etwas öffentlich unterstützt oder empfiehlt"],
+    "examples_de": [["Zu den **Befürwortern** des Produkts gehören mehrere berühmte Sportler", "Sie wurde offizielle **Unterstützerin** der Wohltätigkeitskampagne"]]
+  },
+  {
+    "lemma": "endoscopy",
+    "meanings_de": ["innere medizinische Untersuchung"],
+    "definitions_de": ["medizinisches Verfahren mit einem flexiblen Schlauch mit Kamera zur Untersuchung innerer Organe"],
+    "examples_de": [["Der Arzt plante eine **Endoskopie** zur Untersuchung auf Magengeschwüre", "Während der **Endoskopie** entdeckten sie eine Entzündung"]]
+  },
+  {
+    "lemma": "endowment",
+    "meanings_de": ["gestiftete Vermögenswerte", "natürliche Begabung"],
+    "definitions_de": ["große Geldsumme, die einer Institution für einen bestimmten Zweck gegeben wird", "natürliche Fähigkeit oder Eigenschaft, die jemand von Geburt an besitzt"],
+    "examples_de": [["Die Universität erhielt eine großzügige **Stiftung** für Studentenstipendien", "Der **Stiftungsfonds** des Krankenhauses unterstützt medizinische Forschungsprogramme"], ["Ihre musikalische **Begabung** zeigte sich schon früh", "Die natürliche **Ausstattung** des Tals mit fruchtbarem Boden machte es wohlhabend"]]
+  },
+  {
+    "lemma": "endpoint",
+    "meanings_de": ["finaler Zielpunkt", "Studienendpunkt"],
+    "definitions_de": ["letzter Punkt in einem Prozess, einer Reise oder einer Messung", "spezifisches Ergebnis, das in einer klinischen Studie oder Forschung gemessen wird"],
+    "examples_de": [["Der **Endpunkt** des Wanderwegs bietet atemberaubende Bergblicke", "Wir erreichten endlich den **Endpunkt** unserer langen Reise"], ["Der primäre **Endpunkt** der Studie war die Überlebensrate der Patienten", "Die Forscher definierten die klinischen **Endpunkte** sorgfältig vor Beginn"]]
+  },
+  {
+    "lemma": "endurance",
+    "meanings_de": ["Durchhaltevermögen"],
+    "definitions_de": ["körperliche oder geistige Fähigkeit, etwas Schwieriges über lange Zeit fortzusetzen"],
+    "examples_de": [["Marathonläufer brauchen außergewöhnliche **Ausdauer**, um das Rennen zu beenden", "Ihre **Beständigkeit** in schwierigen Zeiten inspirierte alle um sie herum"]]
+  },
+  {
+    "lemma": "enema",
+    "meanings_de": ["medizinische Darmbehandlung"],
+    "definitions_de": ["Flüssigkeit, die in den Enddarm eingespritzt wird, um den Darm zu entleeren oder Medikamente zu verabreichen"],
+    "examples_de": [["Die Krankenschwester bereitete einen **Einlauf** vor der Operation des Patienten vor", "Der Arzt verschrieb einen **Einlauf** zur Linderung schwerer Verstopfung"]]
+  },
+  {
+    "lemma": "enforcer",
+    "meanings_de": ["Person die Einhaltung sicherstellt"],
+    "definitions_de": ["Person, die dafür sorgt, dass Regeln oder Gesetze von anderen befolgt werden"],
+    "examples_de": [["Der **Ordnungshüter** stellte Strafzettel für abgelaufene Parkuhren aus", "Eishockeyteams haben oft einen **Enforcer** zum Schutz ihrer Starspieler"]]
+  },
+  {
+    "lemma": "enfranchisement",
+    "meanings_de": ["Verleihung des Wahlrechts"],
+    "definitions_de": ["Handlung, jemandem das gesetzliche Recht zu verleihen, bei Wahlen abzustimmen"],
+    "examples_de": [["Die **Wahlrechtserweiterung** für Frauen war ein wichtiger Meilenstein im demokratischen Fortschritt", "Die **Wahlrechtsverleihung** an ehemals versklavte Menschen stieß auf heftigen Widerstand"]]
+  },
+  {
+    "lemma": "engraver",
+    "meanings_de": ["Person die Designs graviert"],
+    "definitions_de": ["geschickte Person, die Designs in harte Oberflächen schneidet oder graviert"],
+    "examples_de": [["Der **Graveur** ritzte sorgfältig die Namen des Paares in die Ringe", "Sie arbeitet als **Graveurin** und erstellt maßgefertigte Schmuckstücke"]]
+  },
+  {
+    "lemma": "engraving",
+    "meanings_de": ["gravierte Designkunst", "Graviervorgang"],
+    "definitions_de": ["Design oder Bild, das in harte Oberfläche wie Metall oder Holz geschnitten wird", "Kunst oder Prozess des Schneidens von Designs in harte Oberflächen"],
+    "examples_de": [["Das antike Buch enthielt wunderschöne **Gravuren** von Vögeln", "Wir bestellten eine **Gravur** unseres Hochzeitsdatums auf dem Rahmen"], ["Traditionelle **Gravierkunst** erfordert jahrelange Ausbildung zur Meisterschaft", "Das Museum zeigte Beispiele von **Kupferstichtechniken**"]]
+  },
+  {
+    "lemma": "enhancement",
+    "meanings_de": ["Verbesserung oder Aufwertung"],
+    "definitions_de": ["Prozess der Verbesserung von Qualität, Wert oder Umfang von etwas"],
+    "examples_de": [["Die **Softwareverbesserung** fügte mehrere nützliche Funktionen hinzu", "Genetische **Optimierung** bleibt ein kontroverses Thema in der Medizin"]]
+  },
+  {
+    "lemma": "enhancer",
+    "meanings_de": ["Sache die verbessert"],
+    "definitions_de": ["Substanz oder Gerät, das die Wirkung von etwas verbessert oder verstärkt"],
+    "examples_de": [["Dieser **Geschmacksverstärker** lässt die Suppe viel besser schmecken", "Der **Signalverstärker** verbesserte unsere drahtlose Internetverbindung"]]
+  },
+  {
+    "lemma": "enigma",
+    "meanings_de": ["rätselhaftes Mysterium"],
+    "definitions_de": ["Person oder Sache, die mysteriös, rätselhaft oder schwer zu verstehen ist"],
+    "examples_de": [["Die alte Steinstruktur bleibt ein **Rätsel** für Archäologen", "Ihr plötzliches Verschwinden war ein **Enigma**, das die Stadt heimsuchte"]]
+  },
+  {
+    "lemma": "enjoyment",
+    "meanings_de": ["Vergnügen an Aktivität"],
+    "definitions_de": ["Zustand des Vergnügens oder der Befriedigung durch eine Aktivität oder Erfahrung"],
+    "examples_de": [["Die **Freude** der Kinder an der Party war an ihren Lächeln offensichtlich", "Lesen bereitet ihr großes **Vergnügen** an ruhigen Abenden"]]
+  },
+  {
+    "lemma": "enlargement",
+    "meanings_de": ["Größenzunahmeprozess", "vergrößerte Fotokopie"],
+    "definitions_de": ["Prozess, etwas größer zu machen oder Zustand des Größerwerdens", "Fotografie oder Bild, das größer als das Original gemacht wurde"],
+    "examples_de": [["Der Arzt bemerkte eine **Vergrößerung** der Lymphknoten des Patienten", "**Hauserweiterungsprojekte** erfordern ordnungsgemäße Genehmigungen von der Stadt"], ["Wir bestellten eine **Vergrößerung** unseres Lieblingsurlaubsfotos", "Die **Vergrößerung** zeigte Details, die im Originaldruck unsichtbar waren"]]
+  },
+  {
+    "lemma": "enlightenment",
+    "meanings_de": ["Erkenntnisgewinn", "historische Aufklärungsbewegung"],
+    "definitions_de": ["Zustand des Wissens oder Verstehens über etwas zuvor Unklares", "europäische intellektuelle Bewegung des 18. Jahrhunderts, die Vernunft und Individualismus betonte"],
+    "examples_de": [["Durch Meditation suchte sie spirituelle **Erleuchtung** über den Sinn des Lebens", "Sein Vortrag brachte **Aufklärung** über das komplexe wissenschaftliche Thema"], ["Die **Aufklärung** förderte wissenschaftliches Denken über religiösen Aberglauben", "**Aufklärungsphilosophen** beeinflussten moderne demokratische Regierungen"]]
+  },
+  {
+    "lemma": "enlisting",
+    "meanings_de": ["Militärdiensteintritt"],
+    "definitions_de": ["Handlung des Eintritts in die Streitkräfte oder der Rekrutierung für den Dienst"],
+    "examples_de": [["Seine **Einberufung** in die Armee überraschte seine pazifistische Familie", "Der **Einberufungsprozess** erfordert medizinische Untersuchungen und Hintergrundüberprüfungen"]]
+  },
+  {
+    "lemma": "enlistment",
+    "meanings_de": ["Militärdienstzeit"],
+    "definitions_de": ["Zeitraum, den jemand nach dem Beitritt in den Streitkräften dient"],
+    "examples_de": [["Ihre **Dienstzeit** bei der Marine dauerte vier Jahre", "Der Rekrutierer erklärte die während der **Verpflichtung** verfügbaren Vorteile"]]
+  },
+  {
+    "lemma": "enmity",
+    "meanings_de": ["feindliche Oppositionsgefühle"],
+    "definitions_de": ["Gefühl aktiver Feindseligkeit oder starker Opposition gegenüber jemandem"],
+    "examples_de": [["Jahrelange **Feindschaft** zwischen den Familien endete schließlich mit Versöhnung", "Politische **Feindseligkeit** verhinderte jede sinnvolle Zusammenarbeit zwischen den Parteien"]]
+  },
+  {
+    "lemma": "enquirer",
+    "meanings_de": ["Person die Fragen stellt"],
+    "definitions_de": ["Person, die nach Informationen fragt oder etwas untersucht"],
+    "examples_de": [["Der hartnäckige **Fragesteller** bekam schließlich Antworten vom Beamten", "Telefonische **Anfragende** sollten an die Kundendienstabteilung weitergeleitet werden"]]
+  },
+  {
+    "lemma": "enquiry",
+    "meanings_de": ["Informationsanfrage"],
+    "definitions_de": ["Handlung des Fragens nach Informationen oder offizielle Untersuchung einer Angelegenheit"],
+    "examples_de": [["Bitte reichen Sie Ihre **Anfrage** über unser Online-Kontaktformular ein", "Die Regierung leitete eine **Untersuchung** des Finanzskandals ein"]]
+  },
+  {
+    "lemma": "enrichment",
+    "meanings_de": ["Qualitätsverbesserungsprozess"],
+    "definitions_de": ["Prozess der Verbesserung oder Steigerung der Qualität oder des Werts von etwas"],
+    "examples_de": [["Die **Urananreicherung** ist für die Kernenergieerzeugung notwendig", "Das außerschulische **Bereicherungsprogramm** bietet Kunst- und Musikunterricht"]]
+  },
+  {
+    "lemma": "enrollment",
+    "meanings_de": ["Programmregistrierung"],
+    "definitions_de": ["Prozess der offiziellen Registrierung oder Anzahl der registrierten Personen"],
+    "examples_de": [["Die **Schuleinschreibung** beginnt nächsten Montag für alle neuen Schüler", "Die **Einschreibungszahlen** der Universität stiegen dieses Jahr um zehn Prozent"]]
+  },
+  {
+    "lemma": "enrolment",
+    "meanings_de": ["Programmregistrierung"],
+    "definitions_de": ["Prozess der offiziellen Registrierung oder Anzahl der registrierten Personen"],
+    "examples_de": [["Die **Kurseinschreibung** endet am Ende dieser Woche", "Das College verzeichnete dieses Semester **Rekordeinschreibungszahlen**"]]
+  },
+  {
+    "lemma": "ensemble",
+    "meanings_de": ["musikalische Aufführungsgruppe", "koordiniertes Outfit"],
+    "definitions_de": ["Gruppe von Musikern, Schauspielern oder Tänzern, die zusammen auftreten", "Kleidungsstücke, die als Outfit zusammen getragen werden sollen"],
+    "examples_de": [["Das Jazz-**Ensemble** trat beim Festival in der Innenstadt auf", "Sie spielt Violine im Kammer**ensemble**"], ["Ihr elegantes **Ensemble** passte perfekt zum formellen Anlass", "Der Designer kreierte ein atemberaubendes **Ensemble** für den Laufsteg"]]
+  },
+  {
+    "lemma": "ensign",
+    "meanings_de": ["Marine-Militärrang", "Nationalflaggensymbol"],
+    "definitions_de": ["niedrigster Rang eines Offiziers in der Marine", "Flagge oder Banner, insbesondere eine, die die Nationalität eines Schiffes zeigt"],
+    "examples_de": [["Der junge **Fähnrich** meldete sich zum Dienst auf dem Zerstörer", "Sie wurde vom **Fähnrich** zum Leutnant zur See befördert"], ["Das Schiff führte die britische **Flagge** am Heck", "Die **Flagge** wurde bei Sonnenuntergang gemäß Tradition eingeholt"]]
+  },
+  {
+    "lemma": "enslavement",
+    "meanings_de": ["erzwungene Knechtschaft"],
+    "definitions_de": ["Handlung, jemanden zum Sklaven zu machen oder Zustand der Versklavung"],
+    "examples_de": [["Das Museum dokumentierte die brutale Geschichte der **Versklavung** in Amerika", "Wirtschaftliche **Knechtschaft** hält Arbeiter in Schuldenzyklen gefangen"]]
+  },
+  {
+    "lemma": "entanglement",
+    "meanings_de": ["komplizierte Verwicklungssituation"],
+    "definitions_de": ["Situation, in der Dinge miteinander verwoben werden oder komplizierte Beteiligung an einer Situation"],
+    "examples_de": [["Die **Verstrickung** des Fischernetzes mit Korallen beschädigte das Riff", "Ihre romantische **Verwicklung** verkomplizierte die Geschäftspartnerschaft"]]
+  },
+  {
+    "lemma": "entente",
+    "meanings_de": ["freundschaftliches diplomatisches Einvernehmen"],
+    "definitions_de": ["freundschaftliches Verständnis oder informelles Bündnis zwischen Ländern"],
+    "examples_de": [["Die **Entente** zwischen den Nationen förderte regionale Stabilität", "Sie erreichten eine **Übereinkunft** zum Handel trotz anderer Meinungsverschiedenheiten"]]
+  },
+  {
+    "lemma": "entering",
+    "meanings_de": ["Hineingehen"],
+    "definitions_de": ["Handlung des Herein- oder Hineingehens in einen Ort oder eine Situation"],
+    "examples_de": [["Die **Eingabe** von Daten erfordert sorgfältige Aufmerksamkeit für Genauigkeit", "Beim **Betreten** des Raumes bemerkte sie, dass etwas nicht stimmte"]]
+  },
+  {
+    "lemma": "entertainer",
+    "meanings_de": ["Unterhaltungskünstler"],
+    "definitions_de": ["Person, die professionell auftritt, um ein Publikum zu unterhalten"],
+    "examples_de": [["Der **Entertainer** der Geburtstagsparty begeisterte Kinder mit Zaubertricks", "Sie arbeitete als **Unterhaltungskünstlerin** auf Kreuzfahrtschiffen"]]
+  },
+  {
+    "lemma": "enthronement",
+    "meanings_de": ["zeremonielle Herrscherinstallation"],
+    "definitions_de": ["Zeremonie der Platzierung eines Monarchen oder religiösen Führers auf dem Thron"],
+    "examples_de": [["Die **Inthronisierungszeremonie** des Königs dauerte drei Tage", "Tausende versammelten sich, um die **Inthronisation** des Bischofs zu bezeugen"]]
+  },
+  {
+    "lemma": "enthusiast",
+    "meanings_de": ["leidenschaftlicher Interessenvertreter"],
+    "definitions_de": ["Person, die sehr interessiert und leidenschaftlich an einer bestimmten Aktivität ist"],
+    "examples_de": [["Der Auto-**Enthusiast** verbrachte Wochenenden mit der Restaurierung von Oldtimern", "Fotografie-**Begeisterte** versammelten sich zur jährlichen Kameraausstellung"]]
+  },
+  {
+    "lemma": "entirety",
+    "meanings_de": ["komplettes Ganzes"],
+    "definitions_de": ["Gesamtheit von etwas einschließlich aller seiner Teile vollständig"],
+    "examples_de": [["Sie las den Vertrag in seiner **Gesamtheit**, bevor sie unterschrieb", "Die **Gänze** seines Vermögens ging an wohltätige Zwecke"]]
+  },
+  {
+    "lemma": "entitlement",
+    "meanings_de": ["Anspruch zu erhalten", "Leistungsprogrammzahlung"],
+    "definitions_de": ["Glaube, dass man das Recht hat, etwas zu erhalten", "Regierungsprogramm, das Leistungen an qualifizierte Personen bietet"],
+    "examples_de": [["Seine **Anspruchshaltung** ärgerte seine hart arbeitenden Kollegen", "Manche Menschen verwechseln Privileg mit **Berechtigung**"], ["Die Sozialversicherung ist ein **Leistungsprogramm** für Rentner", "Haushaltsdebatten konzentrieren sich oft auf Reformen der **Sozialleistungsausgaben**"]]
+  },
+  {
+    "lemma": "entombment",
+    "meanings_de": ["Bestattung im Grab"],
+    "definitions_de": ["Handlung, einen toten Körper in ein Grab oder eine Gruft zu legen"],
+    "examples_de": [["Die **Grablegung** des Pharaos beinhaltete Schätze für das Jenseits", "Die **Bestattungszeremonie** folgte alten religiösen Traditionen"]]
+  },
+  {
+    "lemma": "entomologist",
+    "meanings_de": ["Insektenforscher"],
+    "definitions_de": ["Wissenschaftler, der Insekten und ihr Verhalten, ihre Klassifizierung und Ökologie studiert"],
+    "examples_de": [["Der **Entomologe** entdeckte eine neue Schmetterlingsart", "Sie konsultierte einen **Insektenforscher** wegen des Schädlingsproblems im Garten"]]
+  },
+  {
+    "lemma": "entomology",
+    "meanings_de": ["wissenschaftliche Insektenkunde"],
+    "definitions_de": ["wissenschaftliche Studie von Insekten einschließlich ihrer Biologie, ihres Verhaltens und ihrer Klassifizierung"],
+    "examples_de": [["Er erwarb seinen Doktortitel in **Entomologie** an der staatlichen Universität", "Die **Insektenkunde** hilft Landwirten, Ernteschädlinge zu verstehen und zu kontrollieren"]]
+  },
+  {
+    "lemma": "entourage",
+    "meanings_de": ["begleitende Personengruppe"],
+    "definitions_de": ["Gruppe von Menschen, die mit einer wichtigen Person reisen und ihr assistieren"],
+    "examples_de": [["Das **Gefolge** des Prominenten umfasste Leibwächter und persönliche Assistenten", "Der Präsident kam mit einem großen **Gefolge** von Beratern"]]
+  },
+  {
+    "lemma": "entrant",
+    "meanings_de": ["Wettbewerbsteilnehmer"],
+    "definitions_de": ["Person, die an einem Wettbewerb, Rennen, Beruf oder einer Universität teilnimmt"],
+    "examples_de": [["Jeder **Teilnehmer** muss seine Bewerbung vor Ablauf der Frist einreichen", "Der Marathon hatte über tausend **Teilnehmer** aus verschiedenen Ländern"]]
+  },
+  {
+    "lemma": "entrapment",
+    "meanings_de": ["Einfangen in Falle", "illegale Polizeiverleitung"],
+    "definitions_de": ["Handlung, jemanden oder etwas in einer Falle zu fangen", "Praxis, jemanden dazu zu verleiten, ein Verbrechen zur Strafverfolgung zu begehen"],
+    "examples_de": [["Die **Einklemmung** der Maus in der Wand erforderte professionelle Hilfe", "Sorgfältige Planung verhinderte die **Verschüttung** in der eingestürzten Mine"], ["Der Angeklagte behauptete **Tatprovokation** durch verdeckte Polizeibeamte", "Gerichte prüfen **Tatprovokationsverteidigungen** in Drogenfällen sorgfältig"]]
+  },
+  {
+    "lemma": "entrenchment",
+    "meanings_de": ["Verteidigungspositionsetablierung"],
+    "definitions_de": ["Handlung, etwas fest zu etablieren, das schwer zu ändern wird"],
+    "examples_de": [["Die **Verfestigung** traditioneller Werte widerstand sozialen Veränderungen", "Militärische **Verschanzung** entlang der Grenze erhöhte die Spannungen"]]
+  },
+  {
+    "lemma": "entropy",
+    "meanings_de": ["Unordnungsmaß System"],
+    "definitions_de": ["wissenschaftliches Maß für Unordnung oder Zufälligkeit in einem System, das mit der Zeit zunimmt"],
+    "examples_de": [["Der Physiker erklärte **Entropie** am Beispiel schmelzenden Eises", "Nach der Thermodynamik nimmt die **Entropie** in geschlossenen Systemen immer zu"]]
+  },
+  {
+    "lemma": "entryway",
+    "meanings_de": ["Eingangsbereich"],
+    "definitions_de": ["Gang, Halle oder Raum, durch den man ein Gebäude betritt"],
+    "examples_de": [["Der **Eingangsbereich** aus Marmor machte einen beeindruckenden ersten Eindruck", "Bitte lassen Sie Ihre Schuhe im **Vorraum**schrank"]]
+  },
+  {
+    "lemma": "enumeration",
+    "meanings_de": ["Aufzählungsprozess"],
+    "definitions_de": ["Handlung, Dinge einzeln zu erwähnen oder sie zu zählen"],
+    "examples_de": [["Die Volkszählung beinhaltet die **Erfassung** aller Haushaltsmitglieder", "Ihre **Aufzählung** von Beschwerden dauerte fast eine Stunde"]]
+  },
+  {
+    "lemma": "envelopment",
+    "meanings_de": ["umschließende Einkreisung"],
+    "definitions_de": ["militärisches Manöver zur Umzingelung feindlicher Streitkräfte oder Handlung des vollständigen Einschließens"],
+    "examples_de": [["Der General plante eine **Umfassungsstrategie**, um feindliche Truppen einzuschließen", "Die **Einhüllung** des Tals durch Nebel schuf eine unheimliche Atmosphäre"]]
+  },
+  {
+    "lemma": "environmentalism",
+    "meanings_de": ["Naturschutzbewegung"],
+    "definitions_de": ["politische und ethische Bewegung, die versucht, die natürliche Umwelt vor schädlichen menschlichen Aktivitäten zu schützen"],
+    "examples_de": [["Der moderne **Umweltschutz** begann mit Bedenken über industrielle Verschmutzung", "Ihr Engagement für den **Umweltschutz** beeinflusste alle ihre Kaufentscheidungen"]]
+  }
+]

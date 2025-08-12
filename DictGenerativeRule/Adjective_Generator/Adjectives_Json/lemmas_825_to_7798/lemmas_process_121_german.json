@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "uppermost",
+    "meanings_de": ["am höchsten gelegen", "am wichtigsten"],
+    "definitions_de": ["an der höchsten physischen Position oder ganz oben an etwas befindlich", "von größter Wichtigkeit oder Priorität in Gedanken, Überlegungen oder Entscheidungen"],
+    "examples_de": [["Die **obersten** Äste fingen als erste das Morgenlicht ein", "Legen Sie die zerbrechlichen Gegenstände ins **oberste** Fach"], ["Die Sicherheit stand für den Kapitän während des Sturms an **oberster** Stelle", "Das **wichtigste** Anliegen der Eltern ist das Wohlergehen ihrer Kinder"]]
+  },
+  {
+    "lemma": "upright",
+    "meanings_de": ["aufrecht stehend", "moralisch aufrichtig"],
+    "definitions_de": ["gerade nach oben stehend oder in senkrechter Position befindlich", "starke moralische Prinzipien besitzend und sich ehrlich sowie fair verhaltend"],
+    "examples_de": [["Halten Sie beim Heben schwerer Gegenstände den Rücken **aufrecht**", "Das **aufrechte** Klavier passt perfekt an die Wand"], ["Sie ist eine **aufrichtige** Bürgerin, die immer die Wahrheit sagt", "Sein **aufrechter** Charakter verschaffte ihm den Respekt und das Vertrauen aller"]]
+  },
+  {
+    "lemma": "upscale",
+    "meanings_de": ["hochpreisig und exklusiv"],
+    "definitions_de": ["für Menschen mit gehobenem Geschmack und hohem Einkommen konzipiert oder von ihnen genutzt"],
+    "examples_de": [["Das **exklusive** Restaurant verlangt zum Abendessen formelle Kleidung", "Sie zogen in ein **gehobenes** Viertel mit Privatschulen"], ["**Hochpreisige** Boutiquen säumen die modische Einkaufsstraße in der Innenstadt", "Das Hotel bietet **exklusive** Annehmlichkeiten wie Spa-Services"]]
+  },
+  {
+    "lemma": "upsetting",
+    "meanings_de": ["emotional belastend"],
+    "definitions_de": ["jemanden besorgt, unglücklich oder emotional gestört machend"],
+    "examples_de": [["Die **verstörenden** Nachrichten über den Unfall schockierten alle", "Sie fand die gewalttätigen Filmszenen besonders **beunruhigend**"], ["Es ist **aufwühlend**, wenn Menschen wiederholt ihre Versprechen brechen", "Der **verstörende** Anruf ließ ihn nicht mehr schlafen"]]
+  },
+  {
+    "lemma": "upstart",
+    "meanings_de": ["neu erfolgreich und anmaßend"],
+    "definitions_de": ["kürzlich erfolgreich oder prominent geworden, aber ohne Respekt für traditionelle Werte oder Positionen"],
+    "examples_de": [["Das **emporgekommene** Unternehmen forderte mutig die etablierten Branchenriesen heraus", "Kritiker taten ihn als **emporgekommen** Politiker ohne Erfahrung ab"], ["Die **aufstrebende** Technologiefirma störte schnell den gesamten Markt", "Einige betrachteten den **emporgekommenen** Künstler als erfrischend innovativ"]]
+  },
+  {
+    "lemma": "upstream",
+    "meanings_de": ["gegen die Strömung", "früher im Prozess"],
+    "definitions_de": ["sich entgegen der Fließrichtung des Wassers bewegend oder so gelegen", "in einem früheren Stadium eines Prozesses oder Systems auftretend"],
+    "examples_de": [["Die Lachse schwimmen **stromaufwärts** zu ihren Laichgründen", "Das **flussaufwärts** gelegene Dorf bekommt saubereres Wasser als die flussabwärts gelegenen Gebiete"], ["Wir müssen zuerst die **vorgelagerten** Fertigungsprobleme beheben", "**Vorgelagerte** Lieferanten beeinflussen die gesamte Produktionskette erheblich"]]
+  },
+  {
+    "lemma": "uptight",
+    "meanings_de": ["ängstlich und angespannt", "streng konventionell"],
+    "definitions_de": ["nervös angespannt, ängstlich oder wütend über etwas", "starr an Konventionen festhaltend und leicht schockiert oder beleidigt"],
+    "examples_de": [["Sie wird vor wichtigen Präsentationen bei der Arbeit **verkrampft**", "Sei nicht so **verklemmt** wegen kleiner Terminänderungen"], ["Seine **spießigen** Eltern missbilligten lockere Kleiderordnungen", "Die **steife** Atmosphäre ließ alle sich unwohl und eingeschränkt fühlen"]]
+  },
+  {
+    "lemma": "uptown",
+    "meanings_de": ["im gehobenen Stadtviertel"],
+    "definitions_de": ["in einem Wohnviertel einer Stadt gelegen oder sich darauf beziehend, besonders im wohlhabenden Teil"],
+    "examples_de": [["Sie eröffneten eine Galerie im **gehobenen** Viertel", "Die Wohnungen im **noblen** Stadtteil kosten doppelt so viel wie in der Innenstadt"], ["Sie bevorzugt die **vornehmen** Restaurants mit ihrer eleganten Atmosphäre", "Das **feine** Publikum kleidete sich formeller als andere"]]
+  },
+  {
+    "lemma": "upturned",
+    "meanings_de": ["nach oben gerichtet", "vollständig umgekippt"],
+    "definitions_de": ["nach oben zeigend oder gerichtet, besonders an der Spitze oder Kante", "auf den Kopf gestellt oder aus der normalen Position umgekippt"],
+    "examples_de": [["Ihre **aufgeworfene** Nase verlieh ihr ein jugendliches Aussehen", "Die **nach oben gebogenen** Blütenblätter sammelten den Morgentau"], ["Der Sturm hinterließ mehrere **umgekippte** Boote am Ufer", "Ein **umgestürzter** Tisch blockierte nach dem Erdbeben den Flur"]]
+  },
+  {
+    "lemma": "upward",
+    "meanings_de": ["nach oben gerichtet"],
+    "definitions_de": ["sich zu einem höheren Ort, Niveau oder einer höheren Position bewegend, darauf zeigend oder dorthin führend"],
+    "examples_de": [["Der **aufwärts** gerichtete Verkaufstrend ermutigte die Investoren sehr", "Sie machte eine **aufwärts** gerichtete Geste zum Berggipfel"], ["Seine **aufsteigende** Karrierekurve beeindruckte seine ehemaligen Kollegen", "Der **Aufwärtsdruck** auf die Preise beeinflusst die Verbraucherausgaben"]]
+  },
+  {
+    "lemma": "urbane",
+    "meanings_de": ["kultiviert und weltgewandt"],
+    "definitions_de": ["gewandt, höflich und verfeinert im Umgang, besonders in gesellschaftlichen Situationen"],
+    "examples_de": [["Sein **weltgewandter** Witz machte ihn bei Dinnerpartys beliebt", "Der **kultivierte** Diplomat führte die angespannten Verhandlungen geschickt"], ["Sie schätzte seine **urbane** Konversation und weltmännische Perspektive", "Der **weltgewandte** Professor bezauberte Studenten mit kosmopolitischen Geschichten"]]
+  },
+  {
+    "lemma": "urbanized",
+    "meanings_de": ["verstädtert"],
+    "definitions_de": ["mit den Merkmalen des Stadtlebens und der städtischen Entwicklung versehen"],
+    "examples_de": [["Das schnell **verstädterte** Gebiet verlor vollständig seinen ländlichen Charme", "**Verstädterte** Regionen stehen vor einzigartigen ökologischen und sozialen Herausforderungen"], ["Die einst ruhige Stadt wurde innerhalb von zwei Jahrzehnten **urbanisiert**", "**Verstädterte** Bevölkerungen zeigen tendenziell andere Wahlmuster"]]
+  },
+  {
+    "lemma": "urgent",
+    "meanings_de": ["dringend erforderlich"],
+    "definitions_de": ["sofortiges Handeln oder Aufmerksamkeit erfordernd aufgrund von Wichtigkeit oder Notfall"],
+    "examples_de": [["Der Arzt erhielt einen **dringenden** Anruf über den Patienten", "Bitte markieren Sie **dringende** E-Mails mit einer roten Flagge"], ["Diese **dringliche** Angelegenheit kann nicht bis zum morgigen Treffen warten", "Die **dringenden** Reparaturen verhinderten einen größeren Systemausfall"]]
+  },
+  {
+    "lemma": "urinary",
+    "meanings_de": ["die Harnproduktion betreffend"],
+    "definitions_de": ["sich auf Urin oder die Organe beziehend, die Urin produzieren und ausscheiden"],
+    "examples_de": [["Das **Harnsystem** filtert effizient Abfallstoffe aus dem Blut", "Ärzte diagnostizierten eine **Harnwegs**infektion, die Antibiotika erforderte"], ["**Harnwegs**probleme werden mit fortgeschrittenem Alter häufiger", "Die **Urin**analyse ergab wichtige Gesundheitsinformationen"]]
+  },
+  {
+    "lemma": "usable",
+    "meanings_de": ["verwendbar"],
+    "definitions_de": ["in ausreichend gutem Zustand oder geeignet, um effektiv verwendet zu werden"],
+    "examples_de": [["Nur die Hälfte der gespendeten Computer war in **brauchbarem** Zustand", "Das Software-Update machte die Benutzeroberfläche **benutzerfreundlicher**"], ["Wir brauchen **verwertbare** Daten für fundierte Geschäftsentscheidungen", "Die alten Werkzeuge sind trotz ihres Alters noch **verwendbar**"]]
+  },
+  {
+    "lemma": "uterine",
+    "meanings_de": ["die Gebärmutter betreffend"],
+    "definitions_de": ["sich auf die Gebärmutter beziehend oder diese betreffend"],
+    "examples_de": [["Die **Gebärmutter**schleimhaut verdickt sich während des Menstruationszyklus", "Ärzte überwachten sorgfältig die **Gebärmutter**kontraktionen während der Wehen"], ["Die **uterine** Gesundheit beeinflusst Fruchtbarkeit und Schwangerschaftsergebnisse erheblich", "Die **Gebärmutter**untersuchung ergab keine Auffälligkeiten oder Bedenken"]]
+  },
+  {
+    "lemma": "utilitarian",
+    "meanings_de": ["auf Nützlichkeit ausgelegt", "pragmatisch ethisch"],
+    "definitions_de": ["darauf ausgelegt, nützlich oder praktisch statt attraktiv zu sein", "auf dem Prinzip basierend, dass Handlungen richtig sind, wenn sie der Mehrheit nützen"],
+    "examples_de": [["Die **zweckmäßigen** Möbel betonten Funktion über dekorativen Stil", "Militärgebäude haben oft eine **funktionale** architektonische Gestaltung"], ["Sein **utilitaristischer** Ansatz priorisierte das größte Wohl für alle", "Die **utilitaristische** Philosophie beeinflusste moderne Wirtschaftspolitik"]]
+  },
+  {
+    "lemma": "utilized",
+    "meanings_de": ["praktisch genutzt"],
+    "definitions_de": ["praktisch und effektiv für einen Zweck verwendet"],
+    "examples_de": [["Der vollständig **genutzte** Arbeitsbereich bot allen Teammitgliedern Platz", "Unsere **genutzten** Ressourcen produzierten bessere Ergebnisse als erwartet"], ["Die **verwendete** Ausrüstung benötigte regelmäßige Wartung und Pflege", "Richtig **genutzte** Fähigkeiten führen zu Karriereentwicklungsmöglichkeiten"]]
+  },
+  {
+    "lemma": "utmost",
+    "meanings_de": ["größt- oder äußerst"],
+    "definitions_de": ["am extremsten oder größten in Grad, Menge oder Intensität"],
+    "examples_de": [["Sie behandelte die vertraulichen Informationen mit **äußerster** Sorgfalt", "Die Angelegenheit erfordert Ihre **höchste** Aufmerksamkeit und Beachtung"], ["Wir haben **größten** Respekt vor Ihren Datenschutzrechten", "Das Team zeigte während der Krise **äußerste** Hingabe"]]
+  },
+  {
+    "lemma": "utopian",
+    "meanings_de": ["ideal perfekt aber unpraktisch"],
+    "definitions_de": ["auf einen Zustand idealer Perfektion abzielend oder diesen anstrebend, besonders unrealistischerweise"],
+    "examples_de": [["Seine **utopische** Vision ignorierte praktische wirtschaftliche Zwänge vollständig", "Das **utopische** Gemeinschaftsexperiment dauerte nur drei Jahre"], ["Kritiker nannten den Vorschlag **utopisch** und unmöglich umzusetzen", "Ihre **utopischen** Träume inspirierten andere trotz scheinbarer Unrealisierbarkeit"]]
+  },
+  {
+    "lemma": "utter",
+    "meanings_de": ["vollkommen und absolut"],
+    "definitions_de": ["vollständig und total in Grad oder Ausmaß ohne Einschränkung"],
+    "examples_de": [["Das Projekt war trotz sorgfältiger Planung ein **völliger** Misserfolg", "Sie starrte in **völligem** Unglauben auf die unerwarteten Ergebnisse"], ["Sein **totaler** Mangel an Vorbereitung zeigte sich während der Präsentation", "Der Raum verfiel nach der Ankündigung in **absolute** Stille"]]
+  },
+  {
+    "lemma": "vacant",
+    "meanings_de": ["leer und unbesetzt", "geistesabwesend"],
+    "definitions_de": ["keinen Inhalt oder keine Bewohner habend; leer und zur Nutzung verfügbar", "kein Zeichen von Intelligenz oder Interesse im Ausdruck zeigend"],
+    "examples_de": [["Die **leere** Wohnung musste vor neuen Mietern gereinigt werden", "Nach der Firmenumstrukturierung öffneten sich mehrere **freie** Stellen"], ["Er starrte mit **leerem** Blick während der langweiligen Vorlesung", "Ihr **ausdrucksloser** Gesichtsausdruck deutete darauf hin, dass sie nicht aufpasste"]]
+  },
+  {
+    "lemma": "vaccinated",
+    "meanings_de": ["gegen Krankheit geimpft"],
+    "definitions_de": ["einen Impfstoff erhalten habend, um Immunität gegen eine Krankheit zu erzeugen"],
+    "examples_de": [["Alle **geimpften** Schüler konnten ohne Einschränkungen die Schule besuchen", "Die **geimpfte** Bevölkerung zeigte deutlich niedrigere Infektionsraten"], ["Vollständig **geimpfte** Reisende hatten international weniger Einreiseanforderungen", "Die **geimpften** Tiere waren vor dem Ausbruch geschützt"]]
+  },
+  {
+    "lemma": "vagabond",
+    "meanings_de": ["umherziehend ohne Heim"],
+    "definitions_de": ["kein festes Zuhause habend und von Ort zu Ort ziehend"],
+    "examples_de": [["Der **vagabundierende** Lebensstil sprach abenteuerlustige junge Menschen an", "Seine **Vagabunden**jahre lehrten ihn Überlebensfähigkeiten und Unabhängigkeit"], ["Der **umherziehende** Musiker reiste zwischen Städten und gab Straßenshows", "Sie schrieb über ihre **vagabundierenden** Erfahrungen auf drei Kontinenten"]]
+  },
+  {
+    "lemma": "vaginal",
+    "meanings_de": ["die Vagina betreffend"],
+    "definitions_de": ["sich auf die Vagina oder den Geburtskanal beziehend oder diese betreffend"],
+    "examples_de": [["Der Arzt verschrieb **vaginale** Medikamente gegen die Infektion", "**Vaginale** Geburten haben typischerweise kürzere Erholungszeiten als Kaiserschnitte"], ["Regelmäßige **vaginale** Gesundheitsuntersuchungen sind wichtig für Frauen", "Die **vaginale** Untersuchung war Teil der routinemäßigen Schwangerschaftsvorsorge"]]
+  },
+  {
+    "lemma": "vagrant",
+    "meanings_de": ["ziellos umherwandernd", "obdachlos und arbeitslos"],
+    "definitions_de": ["von Ort zu Ort wandernd ohne klares Ziel", "als Wanderer lebend ohne Heim oder regelmäßige Beschäftigung"],
+    "examples_de": [["**Umherschweifende** Gedanken trieben während der Meditation durch ihren Geist", "Die **vagabundierende** Brise trug Herbstblätter über den Hof"], ["Die **obdachlose** Bevölkerung nahm während des wirtschaftlichen Abschwungs zu", "Stadtbeamte debattierten, wie man **obdachlosen** Personen helfen könnte"]]
+  },
+  {
+    "lemma": "vague",
+    "meanings_de": ["unklar und ungenau"],
+    "definitions_de": ["nicht klar ausgedrückt, bekannt, beschrieben oder entschieden; ohne definierte Form"],
+    "examples_de": [["Seine **vage** Antwort befriedigte die spezifische Frage des Interviewers nicht", "Sie hatte nur **verschwommene** Erinnerungen an ihre frühe Kindheit"], ["Die **unklaren** Anweisungen verwirrten alle, die die Montage versuchten", "Ihre **vagen** Pläne brauchten spezifischere Details und Zeitpläne"]]
+  },
+  {
+    "lemma": "vain",
+    "meanings_de": ["übermäßig stolz", "ergebnislos"],
+    "definitions_de": ["übermäßigen Stolz auf das eigene Aussehen, die Eigenschaften oder Errungenschaften habend", "kein Ergebnis erzeugend; nutzlos oder erfolglos beim Erreichen eines Zwecks"],
+    "examples_de": [["Seine **eitle** Persönlichkeit ließ ihn ständig in Spiegel schauen", "Sie ist zu **eitel**, um eine Brille zu tragen, obwohl sie eine braucht"], ["Ihre **vergeblichen** Versuche, das Geschäft zu retten, scheiterten letztendlich", "Es war **vergebliche** Hoffnung, die sie weitersuchen ließ"]]
+  },
+  {
+    "lemma": "valiant",
+    "meanings_de": ["mutig und entschlossen"],
+    "definitions_de": ["Mut oder Entschlossenheit angesichts von Gefahr oder Schwierigkeiten zeigend"],
+    "examples_de": [["Die **tapferen** Feuerwehrleute retteten alle aus dem brennenden Gebäude", "Ihr **mutiger** Versuch, den Marathon zu beenden, inspirierte die Zuschauer"], ["Trotz **tapferer** Versuche konnte das Team das Defizit nicht überwinden", "Die **mutigen** Soldaten verteidigten ihre Position die ganze Nacht"]]
+  },
+  {
+    "lemma": "validated",
+    "meanings_de": ["als gültig bestätigt"],
+    "definitions_de": ["geprüft und als genau, legitim oder akzeptabel erwiesen"],
+    "examples_de": [["Die **validierten** Ergebnisse bestätigten die anfängliche Forschungshypothese", "Nur **entwertete** Parktickets erlauben den Zugang zu dieser Garage"], ["Ihre **bestätigten** Qualifikationen beeindruckten die Mitglieder des Einstellungsausschusses", "Die **validierten** Daten unterstützen unsere Marketingstrategie-Entscheidungen"]]
+  },
+  {
+    "lemma": "validating",
+    "meanings_de": ["Gültigkeit bestätigend"],
+    "definitions_de": ["die Genauigkeit, Legitimität oder den Wert von etwas prüfend oder beweisend"],
+    "examples_de": [["Der **validierende** Prozess stellt die Datengenauigkeit vor der Analyse sicher", "Ihre **bestätigenden** Kommentare stärkten das Selbstvertrauen des Teams erheblich"], ["**Validierendes** Kundenfeedback hilft, unser Produktdesign zu verbessern", "Die **validierenden** Tests bestätigten die Einhaltung der Sicherheitsstandards"]]
+  },
+  {
+    "lemma": "valorous",
+    "meanings_de": ["großen Mut zeigend"],
+    "definitions_de": ["großen Mut angesichts von Gefahr zeigend, besonders im Kampf"],
+    "examples_de": [["Der **tapfere** Ritter rettete die Dorfbewohner vor Gefahr", "Geschichtsbücher feiern **heldenhafte** Taten von Kriegshelden"], ["Ihre **mutigen** Handlungen während der Krise retteten viele Leben", "Die **heldenhafte** Entscheidung erforderte persönliche Opfer und Tapferkeit"]]
+  },
+  {
+    "lemma": "valued",
+    "meanings_de": ["als wichtig geschätzt"],
+    "definitions_de": ["als wichtig, nützlich oder schätzenswert betrachtet"],
+    "examples_de": [["Sie ist ein **geschätztes** Mitglied unseres Forschungsteams", "Das **geschätzte** Kundenprogramm bietet exklusive Vorteile und Rabatte"], ["Seine **geschätzte** Meinung beeinflusste die endgültige Geschäftsentscheidung", "Diese **wertvollen** Traditionen verbinden uns mit unseren Vorfahren"]]
+  },
+  {
+    "lemma": "vanilla",
+    "meanings_de": ["mit Vanille aromatisiert", "schlicht und gewöhnlich"],
+    "definitions_de": ["mit Vanilleextrakt aus der Vanillepflanze aromatisiert", "schlicht, gewöhnlich oder konventionell; ohne besondere oder zusätzliche Funktionen"],
+    "examples_de": [["Sie bestellte **Vanille**eis mit Schokoladensauce", "Die **Vanille**cupcakes dufteten köstlich frisch aus dem Ofen"], ["Er bevorzugt **Standard**software ohne unnötige Anpassungsoptionen", "Ihr **konventioneller** Designansatz mangelt an kreativer Innovation"]]
+  },
+  {
+    "lemma": "vanished",
+    "meanings_de": ["vollständig verschwunden"],
+    "definitions_de": ["plötzlich und vollständig verschwunden, oft auf mysteriöse Weise"],
+    "examples_de": [["Der **verschwundene** Schatz wurde trotz Suchen nie gefunden", "Die **verschwundene** Zivilisation hinterließ nur Ruinen und Geheimnisse"], ["Ihr **verschwundenes** Lächeln deutete darauf hin, dass etwas ernsthaft falsch war", "Die **verschwundenen** Dokumente enthielten entscheidende Beweise für den Fall"]]
+  },
+  {
+    "lemma": "vapid",
+    "meanings_de": ["geistlos und langweilig"],
+    "definitions_de": ["nichts Anregendes oder Herausforderndes bietend; fade, langweilig oder geschmacklos"],
+    "examples_de": [["Die **fade** Unterhaltung beim Abendessen langweilte alle Anwesenden", "Kritiker nannten den Film **geistlos** und völlig vergesslich"], ["Ihre **inhaltslose** Antwort zeigte, dass sie die Frage nicht verstanden hatte", "Die **seichte** Unterhaltung bot nichts intellektuell Anregendes"]]
+  },
+  {
+    "lemma": "vaporized",
+    "meanings_de": ["in Dampf verwandelt"],
+    "definitions_de": ["in Dampf- oder Gasform umgewandelt, oft plötzlich oder gewaltsam"],
+    "examples_de": [["Das **verdampfte** Wasser bildete Wolken in der Atmosphäre", "Der Laser **verdampfte** das Metall sofort während des Schneideprozesses"], ["Das **verdampfte** Medikament gelangt effektiver in die Lungen als Pillen", "Die Explosion hinterließ nur **verdampfte** Überreste der Struktur"]]
+  },
+  {
+    "lemma": "variant",
+    "meanings_de": ["von Standardform abweichend"],
+    "definitions_de": ["in irgendeiner Weise von anderen derselben allgemeinen Art abweichend"],
+    "examples_de": [["Die **abweichende** Schreibweise verwirrte Schüler beim Englischlernen", "Wissenschaftler entdeckten einen **varianten** Stamm des Virus"], ["Dieses **Varianten**modell enthält zusätzliche Sicherheitsmerkmale", "Die **abweichende** Aussprache ist in bestimmten Regionen üblich"]]
+  },
+  {
+    "lemma": "varied",
+    "meanings_de": ["vielfältig und abwechslungsreich"],
+    "definitions_de": ["Variation oder Vielfalt zeigend; verschiedene Typen oder Elemente enthaltend"],
+    "examples_de": [["Ihre **vielfältige** Erfahrung machte sie perfekt für die Position", "Das Restaurant bietet eine **abwechslungsreiche** Speisekarte mit internationalen Gerichten"], ["Die **vielfältige** Landschaft umfasste Berge, Wälder und Strände", "Schüler schätzten die **abwechslungsreichen** Unterrichtsmethoden des Lehrers"]]
+  },
+  {
+    "lemma": "variegated",
+    "meanings_de": ["verschiedenfarbig gemustert"],
+    "definitions_de": ["mit Flecken oder Stellen verschiedener Farben markiert; Vielfalt aufweisend"],
+    "examples_de": [["Die **bunten** Blätter zeigten Grün, Weiß und Rosa", "Sie pflanzte **bunte** Funkien entlang des Gartenwegs"], ["Der **gefleckte** Marmor hatte schöne natürliche Farbmuster", "**Buntes** Garn erzeugt beim Stricken interessante Muster"]]
+  },
+  {
+    "lemma": "varnished",
+    "meanings_de": ["mit Lack überzogen"],
+    "definitions_de": ["mit Lack bedeckt, um eine harte, glänzende, schützende Oberfläche zu geben"],
+    "examples_de": [["Die **lackierten** Holzböden glänzten im Sonnenlicht", "Er reinigte täglich sorgfältig die **lackierten** antiken Möbel"], ["Das **lackierte** Gemälde war vor Feuchtigkeitsschäden geschützt", "Ihre **lackierten** Nägel passten zu ihrem eleganten Abendkleid"]]
+  },
+  {
+    "lemma": "varying",
+    "meanings_de": ["wechselnd oder unterschiedlich"],
+    "definitions_de": ["in Größe, Menge, Grad oder Natur unterschiedlich; nicht gleich bleibend"],
+    "examples_de": [["Die **wechselnden** Wetterbedingungen erschwerten die Planung von Outdoor-Veranstaltungen", "Schüler zeigten **unterschiedliche** Verständnisebenen des Konzepts"], ["Die Preise **variieren** je nach saisonaler Nachfrage und Verfügbarkeit", "Die **unterschiedlichen** Meinungen machten einen Konsens fast unmöglich"]]
+  },
+  {
+    "lemma": "vascular",
+    "meanings_de": ["die Blutgefäße betreffend"],
+    "definitions_de": ["sich auf Blutgefäße oder Pflanzengefäße beziehend oder diese enthaltend, die Flüssigkeiten transportieren"],
+    "examples_de": [["Das **vaskuläre** System transportiert Blut durch den ganzen Körper", "**Vaskuläre** Pflanzen haben spezialisierte Gewebe für den Wassertransport"], ["Regelmäßige Bewegung verbessert die **vaskuläre** Gesundheit und Durchblutung erheblich", "Der **Gefäß**chirurg spezialisiert sich auf Blutgefäßerkrankungen"]]
+  },
+  {
+    "lemma": "vaulted",
+    "meanings_de": ["mit gewölbter Decke", "übersprungen"],
+    "definitions_de": ["ein gewölbtes Dach oder eine gewölbte Decke habend, besonders in der Architektur", "über etwas gesprungen unter Verwendung der Hände oder einer Stange zur Unterstützung"],
+    "examples_de": [["Die **gewölbte** Decke schuf eine beeindruckende Kathedralensatmosphäre", "Die **gewölbte** Architektur stammt aus dem Mittelalter"], ["Der **überwundene** Zaun hielt das Pferd auf seiner Weide", "Sie sprang während des Wettkampfs leicht über **überwundene** Hindernisse"]]
+  },
+  {
+    "lemma": "vaulting",
+    "meanings_de": ["übertrieben ehrgeizig"],
+    "definitions_de": ["übertriebenes Selbstvertrauen oder Ehrgeiz zeigend, der die eigenen Fähigkeiten übersteigen kann"],
+    "examples_de": [["Sein **maßloser** Ehrgeiz führte sowohl zu Erfolg als auch zu Fall", "Die **hochfliegenden** Erwartungen des Unternehmens erwiesen sich in der Praxis als unrealistisch"], ["Ihr **übersteigertes** Selbstvertrauen beeindruckte Investoren während der Präsentation", "Ihre **hochfliegenden** Pläne erforderten mehr Ressourcen als verfügbar"]]
+  },
+  {
+    "lemma": "vegan",
+    "meanings_de": ["alle tierischen Produkte ausschließend"],
+    "definitions_de": ["keine tierischen Produkte verwendend oder enthaltend, einschließlich Fleisch, Milchprodukte oder Eier"],
+    "examples_de": [["Das **vegane** Restaurant serviert ausschließlich kreative pflanzliche Gerichte", "Sie folgt aus gesundheitlichen und ethischen Gründen einer **veganen** Ernährung"], ["Diese **veganen** Lederschuhe sehen identisch aus wie echtes Leder", "Der **vegane** Käse schmilzt perfekt auf hausgemachter Pizza"]]
+  },
+  {
+    "lemma": "vegetarian",
+    "meanings_de": ["Fleisch und Fisch ausschließend"],
+    "definitions_de": ["kein Fleisch oder Fisch essend oder enthaltend, möglicherweise aber Milchprodukte und Eier einschließend"],
+    "examples_de": [["Das **vegetarische** Menü bietet viele proteinreiche Optionen", "Sein **vegetarischer** Lebensstil begann nach einem Bauernhofbesuch"], ["Viele **vegetarische** Gerichte sind von Natur aus reich an Vitaminen", "Die **vegetarische** Abteilung wurde aufgrund der Kundennachfrage erweitert"]]
+  },
+  {
+    "lemma": "vegetative",
+    "meanings_de": ["das Pflanzenwachstum betreffend", "ohne Hirnaktivität"],
+    "definitions_de": ["sich auf Vegetation oder Pflanzenwachstum und -entwicklung beziehend", "lebendig aber ohne Anzeichen von Gehirnaktivität oder Bewusstsein"],
+    "examples_de": [["Die **vegetative** Wachstumsphase erfordert ausreichend Wasser und Nährstoffe", "Tropische Klimazonen unterstützen das ganze Jahr über üppige **vegetative** Entwicklung"], ["Der Patient blieb monatelang in einem **vegetativen** Zustand", "Ärzte erklärten den Unterschied zwischen Koma und **vegetativen** Zuständen"]]
+  },
+  {
+    "lemma": "vehement",
+    "meanings_de": ["starke Leidenschaft zeigend"],
+    "definitions_de": ["starkes Gefühl oder Leidenschaft zeigend; kraftvoll, leidenschaftlich oder intensiv"],
+    "examples_de": [["Ihre **vehemente** Leugnung überzeugte niemanden von ihrer Unschuld", "Der Senator brachte **vehemente** Argumente gegen den vorgeschlagenen Gesetzentwurf vor"], ["Seine **heftige** Reaktion überraschte alle bei der Besprechung", "Sie drückten **vehementen** Widerstand gegen die Entwicklungspläne aus"]]
+  },
+  {
+    "lemma": "vehicular",
+    "meanings_de": ["Fahrzeuge betreffend"],
+    "definitions_de": ["sich auf Fahrzeuge beziehend oder diese betreffend, besonders Kraftfahrzeuge auf Straßen"],
+    "examples_de": [["Der **Verkehrs**unfall verursachte große Staus in der Innenstadt", "Neue **Fahrzeug**emissionsstandards treten nächstes Jahr in Kraft"], ["Der **Fahrzeug**zugang zum Park erfordert eine Sondergenehmigung", "Die Brücke bewältigt während der Hauptverkehrszeit starken **Fahrzeug**verkehr"]]
+  }
+]

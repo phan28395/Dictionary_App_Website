@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "unintentional",
+    "meanings_de": ["ohne Absicht geschehen"],
+    "definitions_de": ["ohne bewusste Planung oder Absicht geschehend oder entstanden, wobei das Ergebnis nicht beabsichtigt war"],
+    "examples_de": [["Der **unbeabsichtigte** Fehler führte zu erheblichen Verzögerungen im Projekt", "Seine **ungewollte** Bemerkung verletzte ihre Gefühle zutiefst"]]
+  },
+  {
+    "lemma": "uninterested",
+    "meanings_de": ["ohne Interesse oder Anteilnahme"],
+    "definitions_de": ["kein Interesse oder keine Anteilnahme an etwas oder jemandem zeigend, gleichgültig gegenüber bestimmten Themen oder Personen"],
+    "examples_de": [["Sie wirkte völlig **desinteressiert** an dem Gespräch über Politik", "Die **teilnahmslosen** Schüler starrten nur auf ihre Handys"]]
+  },
+  {
+    "lemma": "uninteresting",
+    "meanings_de": ["langweilig oder öde"],
+    "definitions_de": ["keine Neugier oder kein Interesse erweckend aufgrund von Eintönigkeit, Langeweile oder fehlender Spannung"],
+    "examples_de": [["Der Redner hielt einen **langweiligen** Vortrag über Steuerrecht", "Sie fand den Film so **uninteressant**, dass sie mittendrin ging"]]
+  },
+  {
+    "lemma": "uninterrupted",
+    "meanings_de": ["durchgehend ohne Unterbrechung"],
+    "definitions_de": ["ohne Pause oder Unterbrechung fortlaufend, wobei keine Störung den kontinuierlichen Ablauf beeinträchtigt"],
+    "examples_de": [["Das Baby schlief letzte Nacht **ununterbrochene** acht Stunden", "Wir brauchen **ungestörte** Zeit, um dieses Projekt fertigzustellen"]]
+  },
+  {
+    "lemma": "uninvited",
+    "meanings_de": ["nicht eingeladen"],
+    "definitions_de": ["ohne Einladung oder Aufforderung erscheinend oder handelnd, wobei die Anwesenheit nicht erwünscht oder erbeten wurde"],
+    "examples_de": [["Mehrere **ungebetene** Gäste tauchten bei der Hochzeitsfeier auf", "Seine **unerwünschten** Ratschläge kamen bei niemandem gut an"]]
+  },
+  {
+    "lemma": "uninvolved",
+    "meanings_de": ["nicht beteiligt"],
+    "definitions_de": ["nicht in eine Aktivität oder Situation eingebunden oder daran teilnehmend, sich bewusst aus Angelegenheiten heraushaltend"],
+    "examples_de": [["Sie blieb **unbeteiligt** an den Bürostreitigkeiten und Intrigen", "Die **unbeteiligten** Zuschauer beobachteten den Streit aus der Ferne"]]
+  },
+  {
+    "lemma": "unionized",
+    "meanings_de": ["gewerkschaftlich organisiert"],
+    "definitions_de": ["in einer Gewerkschaft organisiert oder einer solchen angehörend zum Zweck der kollektiven Interessenvertretung"],
+    "examples_de": [["Die **gewerkschaftlich organisierten** Arbeiter verhandelten bessere Krankenversicherungsleistungen", "Die meisten Angestellten in der **gewerkschaftlich organisierten** Fabrik verdienen höhere Löhne"]]
+  },
+  {
+    "lemma": "unisex",
+    "meanings_de": ["für alle Geschlechter geeignet"],
+    "definitions_de": ["so gestaltet, dass es gleichermaßen für männliche und weibliche Personen geeignet und verwendbar ist"],
+    "examples_de": [["Das Geschäft verkauft **Unisex**-Kleidung in neutralen Farben und Schnitten", "Im neuen Bürogebäude wurden **geschlechtsneutrale** Toiletten installiert"]]
+  },
+  {
+    "lemma": "unitary",
+    "meanings_de": ["einheitlich strukturiert"],
+    "definitions_de": ["eine einzelne oder vereinheitlichte Einheit bildend anstatt aus getrennten Teilen zu bestehen"],
+    "examples_de": [["Das Land führte ein **einheitliches** Regierungssystem ein", "Die **unitäre** Struktur vereinfachte den Entscheidungsprozess erheblich"]]
+  },
+  {
+    "lemma": "unjust",
+    "meanings_de": ["nicht gerecht oder richtig"],
+    "definitions_de": ["nicht auf Prinzipien der Gerechtigkeit oder Fairness beruhend oder diesen entsprechend handelnd"],
+    "examples_de": [["Das Gericht hob das **ungerechte** Urteil nach neuen Beweisen auf", "Viele protestierten gegen die **unfaire** Behandlung von Minderheiten"]]
+  },
+  {
+    "lemma": "unjustifiable",
+    "meanings_de": ["nicht zu rechtfertigen"],
+    "definitions_de": ["unter keinen Umständen als richtig oder vernünftig darstellbar oder begründbar"],
+    "examples_de": [["Das Komitee befand seine Handlungen für völlig **nicht rechtfertigbar**", "Solche **unverzeihliche** Gewalt schockierte die gesamte Gemeinde"]]
+  },
+  {
+    "lemma": "unjustified",
+    "meanings_de": ["ohne guten Grund"],
+    "definitions_de": ["nicht durch verfügbare Beweise oder Argumente als richtig oder vernünftig erwiesen"],
+    "examples_de": [["Ihre Ängste erwiesen sich als völlig **unbegründet**", "Die **ungerechtfertigte** Kritik schadete seinem beruflichen Ansehen"]]
+  },
+  {
+    "lemma": "unkempt",
+    "meanings_de": ["ungepflegt und unordentlich"],
+    "definitions_de": ["ein unordentliches oder ungepflegtes Erscheinungsbild aufweisend aufgrund mangelnder Pflege oder Sorgfalt"],
+    "examples_de": [["Seine **ungepflegten** Haare deuteten darauf hin, dass er gerade aufgewacht war", "Der **verwilderte** Garten war mit Unkraut und Ranken überwuchert"]]
+  },
+  {
+    "lemma": "unkind",
+    "meanings_de": ["ohne Freundlichkeit"],
+    "definitions_de": ["rücksichtslos und hart gegenüber anderen in Verhalten oder Worten, ohne Mitgefühl handelnd"],
+    "examples_de": [["Es war **unfreundlich**, über seinen ehrlichen Fehler zu lachen", "Ihre **verletzenden** Bemerkungen ließen ihn verletzt und verwirrt zurück"]]
+  },
+  {
+    "lemma": "unknowable",
+    "meanings_de": ["nicht erkennbar"],
+    "definitions_de": ["nicht durch den menschlichen Verstand erkennbar oder verstehbar, jenseits der Grenzen menschlicher Erkenntnis liegend"],
+    "examples_de": [["Das endgültige Schicksal des Universums bleibt **unergründlich**", "Manche Geheimnisse des Bewusstseins mögen für immer **unerkennbar** bleiben"]]
+  },
+  {
+    "lemma": "unknowing",
+    "meanings_de": ["ohne Wissen oder Bewusstsein"],
+    "definitions_de": ["nicht wissend oder sich nicht bewusst über etwas Bestimmtes, in Unkenntnis befindlich"],
+    "examples_de": [["Die **unwissenden** Teilnehmer waren Teil eines psychologischen Experiments", "Sie war eine **ahnungslose** Komplizin des ausgeklügelten Plans"]]
+  },
+  {
+    "lemma": "unlawful",
+    "meanings_de": ["gegen das Gesetz"],
+    "definitions_de": ["nicht mit dem Gesetz oder geltenden Regeln übereinstimmend oder von diesen erlaubt"],
+    "examples_de": [["Das Gericht entschied, dass die Durchsuchung **rechtswidrig** war", "**Unerlaubtes** Parken führt zum Abschleppen Ihres Fahrzeugs"]]
+  },
+  {
+    "lemma": "unleaded",
+    "meanings_de": ["ohne Bleizusatz"],
+    "definitions_de": ["keine Bleiverbindungen enthaltend, besonders in Bezug auf Benzin oder Farbe"],
+    "examples_de": [["Die meisten modernen Autos benötigen **bleifreies** Benzin zum Fahren", "Das alte Haus musste mit **bleifreier** Farbe neu gestrichen werden"]]
+  },
+  {
+    "lemma": "unlicensed",
+    "meanings_de": ["ohne erforderliche Lizenz"],
+    "definitions_de": ["nicht im Besitz einer gesetzlich vorgeschriebenen offiziellen Lizenz oder Genehmigung"],
+    "examples_de": [["Der **nicht lizenzierte** Fahrer wurde bei einer Routinekontrolle verhaftet", "Ein **nicht genehmigtes** Gewerbe zu betreiben kann hohe Strafen nach sich ziehen"]]
+  },
+  {
+    "lemma": "unlimited",
+    "meanings_de": ["ohne jegliche Grenzen"],
+    "definitions_de": ["nicht begrenzt oder eingeschränkt in Bezug auf Anzahl, Menge oder Ausmaß"],
+    "examples_de": [["Der Handytarif beinhaltet **unbegrenzte** Daten und SMS", "Kinder scheinen **unerschöpfliche** Energie zum Spielen zu haben"]]
+  },
+  {
+    "lemma": "unlisted",
+    "meanings_de": ["nicht aufgelistet"],
+    "definitions_de": ["nicht in einer Liste, einem Verzeichnis oder Katalog von Elementen enthalten"],
+    "examples_de": [["Sie hält ihre Telefonnummer aus Datenschutzgründen **unverzeichnet**", "Die **nicht börsennotierte** Aktie kann nicht an großen Börsen gehandelt werden"]]
+  },
+  {
+    "lemma": "unloaded",
+    "meanings_de": ["Ladung entfernt", "Waffe ohne Munition"],
+    "definitions_de": ["mit bereits entfernter Ladung oder entleertem Inhalt eines Fahrzeugs oder Behälters", "ohne Kugeln oder Munition in einer Schusswaffe"],
+    "examples_de": [["Der **entladene** Lastwagen kehrte zum Lager für weitere Lieferungen zurück", "Die Arbeiter **entluden** das Schiff schnell im geschäftigen Hafen"], ["Überprüfen Sie immer, dass die Waffe **entladen** ist, bevor Sie sie reinigen", "Die Polizei bestätigte, dass die Waffe bei der Festnahme **ungeladen** war"]]
+  },
+  {
+    "lemma": "unlocked",
+    "meanings_de": ["nicht mit Schloss gesichert"],
+    "definitions_de": ["nicht mit einem Schloss oder ähnlicher Vorrichtung verschlossen oder gesichert"],
+    "examples_de": [["Sie fand die Tür **unverschlossen** vor, als sie nach Hause kam", "Das **entsperrte** Telefon ermöglichte einfachen Zugang zu allen Apps"]]
+  },
+  {
+    "lemma": "unlucky",
+    "meanings_de": ["vom Pech verfolgt"],
+    "definitions_de": ["Unglück habend, bringend oder daraus resultierend, vom Schicksal nicht begünstigt"],
+    "examples_de": [["Er hatte das **Pech**, den Lottogewinn um eine Zahl zu verpassen", "Freitag der Dreizehnte gilt als **unglücklicher** Tag"]]
+  },
+  {
+    "lemma": "unmade",
+    "meanings_de": ["noch nicht hergestellt", "Bettzeug nicht gerichtet"],
+    "definitions_de": ["noch nicht in eine fertige Form gebracht oder konstruiert", "mit Bettzeug, das nach Gebrauch nicht ordentlich arrangiert wurde"],
+    "examples_de": [["Die **unbefestigte** Straße war holprig und voller Schlaglöcher", "Mehrere **ungetroffene** Entscheidungen benötigten noch die Zustimmung des Vorstands"], ["Sie ließ ihr **ungemachtes** Bett in der Eile zur Arbeit zurück", "Das Hotelzimmer hatte **ungemachte** Betten bei unserer Ankunft"]]
+  },
+  {
+    "lemma": "unmanageable",
+    "meanings_de": ["schwer zu kontrollieren"],
+    "definitions_de": ["unmöglich oder sehr schwierig zu verwalten, kontrollieren oder effektiv zu bewältigen"],
+    "examples_de": [["Ihr dickes Haar wird bei feuchtem Wetter **unbändig**", "Das Projekt wurde ohne richtige Planung und Ressourcen **unkontrollierbar**"]]
+  },
+  {
+    "lemma": "unmanned",
+    "meanings_de": ["ohne menschlichen Bediener"],
+    "definitions_de": ["keinen menschlichen Bediener oder keine Besatzung benötigend oder habend"],
+    "examples_de": [["Das Militär nutzt **unbemannte** Drohnen für Aufklärungsmissionen", "Ein **unbemanntes** Raumschiff landete erfolgreich auf dem fernen Planeten"]]
+  },
+  {
+    "lemma": "unmarked",
+    "meanings_de": ["ohne Kennzeichnung"],
+    "definitions_de": ["keine Markierungen, Zeichen oder unterscheidende Merkmale aufweisend"],
+    "examples_de": [["Die Polizei nutzt oft **unmarkierte** Fahrzeuge für Überwachungsoperationen", "Das **namenlose** Grab enthielt Überreste aus dem Bürgerkrieg"]]
+  },
+  {
+    "lemma": "unmarried",
+    "meanings_de": ["nicht verheiratet"],
+    "definitions_de": ["nicht verheiratet oder keinen Ehepartner habend, ledig oder unverheiratet lebend"],
+    "examples_de": [["Das **unverheiratete** Paar beschloss, gemeinsam ein Haus zu kaufen", "Sie blieb während ihrer erfolgreichen Karriere **unverheiratet**"]]
+  },
+  {
+    "lemma": "unmatched",
+    "meanings_de": ["ohne Gleichen", "kein Paar bildend"],
+    "definitions_de": ["in Qualität oder Ausmaß ohne Vergleichbares, einzigartig in seiner Art", "nicht übereinstimmend oder kein zusammengehöriges Set bildend"],
+    "examples_de": [["Ihre **unvergleichliche** Verhandlungsfähigkeit beeindruckte die Vorstandsmitglieder", "Das Restaurant bietet **einzigartige** Ausblicke auf die Skyline der Stadt"], ["Er trug **unterschiedliche** Socken zum wichtigen Geschäftstreffen", "Das **nicht zusammenpassende** Geschirr verlieh dem Tisch einen eklektischen Look"]]
+  },
+  {
+    "lemma": "unmistakable",
+    "meanings_de": ["deutlich erkennbar"],
+    "definitions_de": ["aufgrund sehr charakteristischer Merkmale nicht mit etwas anderem verwechselbar"],
+    "examples_de": [["Ihr **unverwechselbares** Lachen war im ganzen Raum zu hören", "Der **unverkennbare** Duft von Kaffee erfüllte die Morgenluft"]]
+  },
+  {
+    "lemma": "unmitigated",
+    "meanings_de": ["absolut und vollständig"],
+    "definitions_de": ["absolut und uneingeschränkt, oft verwendet um zu betonen, wie schlecht etwas ist"],
+    "examples_de": [["Das Projekt war von Anfang bis Ende eine **völlige** Katastrophe", "Seine **unglaubliche** Frechheit, nach einer Gehaltserhöhung zu fragen, schockierte alle"]]
+  },
+  {
+    "lemma": "unmodified",
+    "meanings_de": ["nicht verändert oder angepasst"],
+    "definitions_de": ["in der ursprünglichen Form verbleibend ohne irgendwelche Änderungen oder Anpassungen"],
+    "examples_de": [["Die Software läuft auf **unmodifizierter** Hardware von vor zehn Jahren", "Wissenschaftler untersuchten die **unveränderte** Gensequenz zum Vergleich"]]
+  },
+  {
+    "lemma": "unmoved",
+    "meanings_de": ["emotional unbeeinflusst", "physisch nicht bewegt"],
+    "definitions_de": ["nicht von Emotionen oder Überzeugungsversuchen beeinflusst", "in derselben physischen Position verbleibend"],
+    "examples_de": [["Sie blieb **ungerührt** von seiner leidenschaftlichen Bitte um Vergebung", "Der Richter schien **unbewegt** von den Tränen des Angeklagten"], ["Die schweren Möbel blieben während des Erdbebens **unbewegt**", "Die Statue ist seit über einem Jahrhundert **unverändert** an ihrem Platz"]]
+  },
+  {
+    "lemma": "unnamed",
+    "meanings_de": ["ohne Namen"],
+    "definitions_de": ["nicht namentlich identifiziert oder ohne angegebenen Namen"],
+    "examples_de": [["Eine **ungenannte** Quelle gab die vertraulichen Informationen an Reporter weiter", "Der **namenlose** Fluss fließt durch mehrere abgelegene Dörfer"]]
+  },
+  {
+    "lemma": "unnatural",
+    "meanings_de": ["naturwidrig", "gezwungen und künstlich"],
+    "definitions_de": ["dem gewöhnlichen Lauf der Natur entgegengesetzt", "nicht spontan oder echt, sondern gezwungen und künstlich"],
+    "examples_de": [["Die **unnatürliche** blaue Farbe des Sees deutete auf Verschmutzung hin", "Wissenschaftler untersuchten das **widernatürliche** Verhalten der Tiere"], ["Ihr **gekünsteltes** Lächeln machte alle unbehaglich", "Er sprach während des Interviews mit **verstellter** Stimme"]]
+  },
+  {
+    "lemma": "unnecessary",
+    "meanings_de": ["nicht benötigt oder erforderlich"],
+    "definitions_de": ["nicht gebraucht oder mehr als für einen bestimmten Zweck erforderlich ist"],
+    "examples_de": [["Vermeiden Sie **unnötige** Ausgaben in diesen schwierigen Finanzzeiten", "Die Lehrerin strich **überflüssige** Hausaufgaben, um den Stress der Schüler zu reduzieren"]]
+  },
+  {
+    "lemma": "unneeded",
+    "meanings_de": ["nicht erforderlich"],
+    "definitions_de": ["nicht notwendig oder nicht für einen bestimmten Zweck benötigt"],
+    "examples_de": [["Bitte entfernen Sie alle **nicht benötigten** Gegenstände von Ihrem Schreibtisch", "Das Unternehmen entließ **überflüssige** Mitarbeiter während der Rezession"]]
+  },
+  {
+    "lemma": "unnerved",
+    "meanings_de": ["verunsichert oder beunruhigt"],
+    "definitions_de": ["dazu gebracht, sich besorgt, entmutigt oder weniger selbstsicher über etwas zu fühlen"],
+    "examples_de": [["Die seltsamen Geräusche im Haus machten sie völlig **nervös**", "Er war **verunsichert** von der aggressiven Fragetechnik des Interviewers"]]
+  },
+  {
+    "lemma": "unnerving",
+    "meanings_de": ["Angst oder Sorge verursachend"],
+    "definitions_de": ["bewirkend, dass man sich besorgt, verstört oder weniger selbstsicher fühlt"],
+    "examples_de": [["Die **beunruhigende** Stille im Wald ließ sie schneller gehen", "Sie fand sein ständiges Starren **verstörend** und unangenehm"]]
+  },
+  {
+    "lemma": "unnoticed",
+    "meanings_de": ["nicht gesehen oder bemerkt"],
+    "definitions_de": ["von niemandem gesehen oder bemerkt, obwohl anwesend oder vorhanden"],
+    "examples_de": [["Der Fehler blieb bis zur abschließenden Überprüfung **unbemerkt**", "Sie verließ die Party **unbeobachtet** von anderen Gästen"]]
+  },
+  {
+    "lemma": "unnumbered",
+    "meanings_de": ["ohne zugewiesene Nummern", "zu viele zum Zählen"],
+    "definitions_de": ["nicht mit identifizierenden Nummern markiert oder versehen", "zu zahlreich um gezählt zu werden"],
+    "examples_de": [["Die **unnummerierten** Seiten machten das Dokument schwer zu organisieren", "Lagern Sie die Dateien in **unnummerierten** Ordnern alphabetisch geordnet"], ["**Unzählige** Sterne füllten den klaren Wüstenhimmel in jener Nacht", "Sie hatte **ungezählte** Gründe, ihrer Familie dankbar zu sein"]]
+  },
+  {
+    "lemma": "unobserved",
+    "meanings_de": ["nicht gesehen oder bemerkt"],
+    "definitions_de": ["von niemandem gesehen oder bemerkt während des Geschehens oder der Anwesenheit"],
+    "examples_de": [["Der Dieb betrat das Gebäude **unbeobachtet** durch eine Seitentür", "Viele chemische Reaktionen laufen **unbemerkt** auf molekularer Ebene ab"]]
+  },
+  {
+    "lemma": "unobstructed",
+    "meanings_de": ["frei ohne Blockierung"],
+    "definitions_de": ["nicht durch irgendwelche Hindernisse im Weg blockiert oder behindert"],
+    "examples_de": [["Die Wohnung hat **freie** Sicht auf das Meer", "Notausgänge müssen jederzeit **unversperrt** bleiben"]]
+  },
+  {
+    "lemma": "unobtrusive",
+    "meanings_de": ["nicht auffällig oder aufdringlich"],
+    "definitions_de": ["nicht auffällig oder in unerwünschter oder aufdringlicher Weise Aufmerksamkeit erregend"],
+    "examples_de": [["Die Sicherheitskameras wurden **unauffällig** gestaltet", "Sie bevorzugte **dezenten** Schmuck für den Alltag"]]
+  },
+  {
+    "lemma": "unoccupied",
+    "meanings_de": ["leer ohne Bewohner"],
+    "definitions_de": ["von niemandem bewohnt oder besetzt, leer von Menschen"],
+    "examples_de": [["Das **unbewohnte** Haus stand seit Monaten zum Verkauf", "Sie fand einen **freien** Tisch im überfüllten Restaurant"]]
+  },
+  {
+    "lemma": "unofficial",
+    "meanings_de": ["nicht offiziell autorisiert"],
+    "definitions_de": ["nicht offiziell von zuständigen Behörden autorisiert oder bestätigt"],
+    "examples_de": [["Die **inoffizielle** Stimmenauszählung zeigte ein sehr knappes Rennen", "Laut **inoffiziellen** Quellen wird die Fusion bald stattfinden"]]
+  },
+  {
+    "lemma": "unopened",
+    "meanings_de": ["noch versiegelt geschlossen"],
+    "definitions_de": ["nicht geöffnet oder noch in der Originalverpackung versiegelt"],
+    "examples_de": [["Der **ungeöffnete** Brief lag wochenlang auf ihrem Schreibtisch", "Geben Sie **ungeöffnete** Produkte für eine volle Rückerstattung zurück"]]
+  },
+  {
+    "lemma": "unopposed",
+    "meanings_de": ["ohne Gegnerschaft"],
+    "definitions_de": ["von niemandem in Wettbewerb oder Konflikt angefochten oder bekämpft"],
+    "examples_de": [["Sie kandidierte **ohne Gegenkandidaten** für das Amt der Klassenpräsidentin", "Der Antrag wurde in der Vorstandssitzung **einstimmig** angenommen"]]
+  },
+  {
+    "lemma": "unorganized",
+    "meanings_de": ["ohne Ordnung oder Struktur"],
+    "definitions_de": ["nicht auf systematische oder geordnete Weise organisiert oder arrangiert"],
+    "examples_de": [["Sein **unordentlicher** Schreibtisch erschwerte das Finden wichtiger Dokumente", "Der **unorganisierte** Protest verlor schnell an Schwung und löste sich auf"]]
+  }
+]

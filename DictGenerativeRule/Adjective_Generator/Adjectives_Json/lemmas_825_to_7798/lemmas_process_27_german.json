@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "easterly",
+    "meanings_de": ["nach Osten gerichtet", "aus dem Osten kommend"],
+    "definitions_de": ["sich in Richtung Osten bewegend, nach Osten ausgerichtet oder im Osten gelegen, wo die Sonne aufgeht", "aus östlicher Richtung kommend, wie es bei Wind oder Wetterlagen der Fall ist"],
+    "examples_de": [["Das Schiff fuhr in **östlicher** Richtung dem Sonnenaufgang entgegen", "Wir nahmen die **östliche** Route durch den Gebirgspass"], ["Starke **Ostwinde** brachten Regen in die Küstenregionen", "Die **östliche** Brise kühlte die Nachmittagstemperatur spürbar ab"]]
+  },
+  {
+    "lemma": "easternmost",
+    "meanings_de": ["am weitesten östlich"],
+    "definitions_de": ["am östlichsten Punkt oder in der östlichsten Position eines bestimmten Gebiets oder einer Region gelegen"],
+    "examples_de": [["Rügen beherbergt den **östlichsten** Punkt Deutschlands", "Die **östlichste** Insel der Kette empfängt als erste den Sonnenaufgang"]]
+  },
+  {
+    "lemma": "eastside",
+    "meanings_de": ["im Osten gelegen"],
+    "definitions_de": ["im östlichen Teil einer Stadt, eines Gebiets oder einer Region gelegen oder sich darauf beziehend"],
+    "examples_de": [["Das **Ostseiten**-Viertel hat viele historische Gebäude und Parks", "Wir zogen in eine Wohnung im **östlichen** Stadtteil, näher zum Zentrum"]]
+  },
+  {
+    "lemma": "eastward",
+    "meanings_de": ["nach Osten gerichtet"],
+    "definitions_de": ["sich in Richtung Osten bewegend, dorthin führend oder zeigend, wo die Sonne aufgeht"],
+    "examples_de": [["Die Siedler setzten ihre **ostwärts** gerichtete Reise über die Ebenen fort", "Die Vögel begannen ihre **östliche** Wanderung, als der Herbst nahte"]]
+  },
+  {
+    "lemma": "easygoing",
+    "meanings_de": ["entspannt im Umgang"],
+    "definitions_de": ["ein ruhiges, entspanntes Temperament besitzend, das sich nicht leicht aufregen oder stressen lässt"],
+    "examples_de": [["Ihre **lockere** Art machte sie bei den Kollegen beliebt", "Der **gelassene** Lehrer erhob selten seine Stimme im Unterricht"]]
+  },
+  {
+    "lemma": "ebony",
+    "meanings_de": ["tiefschwarz gefärbt"],
+    "definitions_de": ["eine tiefschwarze Farbe besitzend wie das dunkle Hartholz tropischer Bäume"],
+    "examples_de": [["Ihr **ebenholzschwarzes** Haar bildete einen schönen Kontrast zu ihrer hellen Haut", "Die **schwarzen** Tasten des Klaviers glänzten im Bühnenlicht"]]
+  },
+  {
+    "lemma": "eccentric",
+    "meanings_de": ["unkonventionell im Verhalten", "mechanisch außermittig"],
+    "definitions_de": ["von konventionellem Verhalten abweichend auf eine Weise, die anderen seltsam aber harmlos erscheint", "eine Achse oder ein Zentrum besitzend, das nicht in der üblichen oder erwarteten Position liegt"],
+    "examples_de": [["Der **exzentrische** Professor trug unterschiedliche Socken und zitierte zufällig Gedichte", "Ihre **ausgefallene** Angewohnheit, alte Schreibmaschinen zu sammeln, füllte drei Zimmer"], ["Das **exzentrische** Rad verursachte unregelmäßige Vibrationen der Maschine", "Eine **exzentrische** Umlaufbahn bringt den Kometen zu bestimmten Zeiten näher"]]
+  },
+  {
+    "lemma": "ecclesiastic",
+    "meanings_de": ["kirchlich"],
+    "definitions_de": ["sich auf die christliche Kirche, ihre Geistlichkeit oder ihre formellen religiösen Praktiken und Traditionen beziehend"],
+    "examples_de": [["Die **kirchlichen** Autoritäten trafen sich zur Besprechung wichtiger Kirchenangelegenheiten", "Er trug **geistliche** Gewänder während der religiösen Zeremonie"]]
+  },
+  {
+    "lemma": "ecclesiastical",
+    "meanings_de": ["kirchlich"],
+    "definitions_de": ["sich auf die christliche Kirche oder ihre Geistlichkeit beziehend, besonders in formellen oder offiziellen Kontexten"],
+    "examples_de": [["Das **kirchliche** Gericht behandelte Angelegenheiten des Kirchenrechts und der Disziplin", "Die mittelalterliche **kirchliche** Architektur zeichnete sich durch hohe Türme und Buntglasfenster aus"]]
+  },
+  {
+    "lemma": "echoing",
+    "meanings_de": ["Echos erzeugend", "widerhallend oder wiederholend"],
+    "definitions_de": ["Geräusche erzeugend, die sich durch Reflexion an Oberflächen in abnehmender Lautstärke wiederholen", "etwas in Thema, Stil oder Bedeutung wiederholend oder eng ähnelnd wie ein Echo"],
+    "examples_de": [["Die **hallenden** Schritte im leeren Flur klangen unheimlich", "Ihre Stimme **hallte** durch das Bergtal unter ihnen"], ["Seine Rede enthielt Themen, die seine früheren Wahlversprechen **widerspiegelten**", "Das Ende des Romans **griff** die Bildsprache des ersten Kapitels **wieder auf**"]]
+  },
+  {
+    "lemma": "eclectic",
+    "meanings_de": ["aus verschiedenen Quellen"],
+    "definitions_de": ["Elemente aus einer großen Vielfalt von Quellen, Stilen oder Ideen auswählend oder verwendend statt aus nur einer"],
+    "examples_de": [["Ihre **eklektische** Musiksammlung reichte von Klassik bis Heavy Metal", "Das Restaurant serviert eine **vielseitige** Speisekarte mit asiatischen und mediterranen Gerichten"]]
+  },
+  {
+    "lemma": "ecological",
+    "meanings_de": ["ökologisch"],
+    "definitions_de": ["sich auf die Beziehungen zwischen lebenden Organismen und ihrer Umwelt oder Ökosystem-Interaktionen beziehend"],
+    "examples_de": [["Die Ölpest verursachte schwere **ökologische** Schäden am Meeresleben", "Wissenschaftler untersuchten die **ökologischen** Auswirkungen der Einführung neuer Arten"]]
+  },
+  {
+    "lemma": "economical",
+    "meanings_de": ["wirtschaftlich", "sparsam im Verbrauch"],
+    "definitions_de": ["ein gutes Preis-Leistungs-Verhältnis in Bezug auf das ausgegebene Geld, die Zeit oder den Aufwand bietend", "die minimale Menge an Ressourcen verwendend, die notwendig ist, um ein gewünschtes Ergebnis effizient zu erreichen"],
+    "examples_de": [["Der Kauf in großen Mengen ist für Großfamilien **wirtschaftlicher**", "Dieses **sparsame** Auto hat einen ausgezeichneten Kraftstoffverbrauch beim Pendeln"], ["Sie gab eine **knappe** Erklärung mit nur wenigen Worten", "Der Koch kreierte **sparsame** Mahlzeiten, die Lebensmittelverschwendung minimierten"]]
+  },
+  {
+    "lemma": "ecstatic",
+    "meanings_de": ["überglücklich"],
+    "definitions_de": ["überwältigende Freude, Glück oder Aufregung fühlend oder zeigend, die über normale Kontrolle hinauszugehen scheint"],
+    "examples_de": [["Sie war **überglücklich**, als sie ihre Hochschulzulassung erhielt", "Die Fans waren **ekstatisch**, nachdem ihr Team die Meisterschaft gewonnen hatte"]]
+  },
+  {
+    "lemma": "ecumenical",
+    "meanings_de": ["die religiöse Einheit fördernd", "weltweit im Umfang"],
+    "definitions_de": ["die Zusammenarbeit und Einheit zwischen verschiedenen christlichen Kirchen oder Religionen im Allgemeinen fördernd", "sich auf die Gesamtheit einer Gruppe von Kirchen beziehend oder diese repräsentierend oder universell in der Ausdehnung seiend"],
+    "examples_de": [["Der **ökumenische** Gottesdienst brachte Katholiken, Protestanten und Orthodoxe zusammen", "Sie organisierten eine **ökumenische** Konferenz zur Diskussion gemeinsamer religiöser Werte"], ["Das **ökumenische** Konzil behandelte Themen, die Kirchen weltweit betrafen", "Sein **ökumenischer** Ansatz begrüßte Ideen aus allen religiösen Traditionen"]]
+  },
+  {
+    "lemma": "edged",
+    "meanings_de": ["mit Rand versehen", "scharfkantig"],
+    "definitions_de": ["einen Rand oder eine Grenze einer bestimmten Art um die Außenseite herum besitzend", "Seiten oder Grenzen besitzend, die scharf genug sind, um wie eine Klinge zu schneiden"],
+    "examples_de": [["Die Einladungskarte war mit **goldumrandeter** Folie verziert", "Ihr Kleid war am Kragen mit zarter Spitze **eingefasst**"], ["Er ging vorsichtig mit den **scharfkantigen** Werkzeugen in der Werkstatt um", "Die **geschliffenen** Waffen wurden in einem sicheren Schrank verschlossen aufbewahrt"]]
+  },
+  {
+    "lemma": "edgy",
+    "meanings_de": ["nervös gereizt", "avantgardistisch oder gewagt"],
+    "definitions_de": ["sich nervös, angespannt oder gereizt fühlend, oft durch Stress oder Erwartung von etwas", "eine kühne, provokative oder unkonventionelle Qualität besitzend, die Grenzen in Kunst oder Stil verschiebt"],
+    "examples_de": [["Sie fühlte sich **nervös**, während sie auf den wichtigen Anruf wartete", "Das Koffein machte ihn **unruhig** und unfähig sich zu konzentrieren"], ["Der **gewagte** neue Sound der Band forderte die Mainstream-Musikkonventionen heraus", "Ihre **ausgefallenen** Modewahlen zogen bei Veranstaltungen immer Aufmerksamkeit auf sich"]]
+  },
+  {
+    "lemma": "edible",
+    "meanings_de": ["essbar"],
+    "definitions_de": ["zum Essen geeignet oder sicher, ohne Schaden zu verursachen, wenn es von Menschen verzehrt wird"],
+    "examples_de": [["Nicht alle Pilze im Wald sind **essbare** Sorten", "Die Kuchenverzierungen waren aus **essbaren** Blüten und Gold hergestellt"]]
+  },
+  {
+    "lemma": "edited",
+    "meanings_de": ["überarbeitet und korrigiert", "für Veröffentlichung vorbereitet"],
+    "definitions_de": ["überarbeitet, korrigiert oder modifiziert worden seiend, um Klarheit, Genauigkeit oder Qualität zu verbessern", "für die Veröffentlichung vorbereitet worden seiend durch Auswahl, Anordnung und Verfeinerung von Inhalten für ein Publikum"],
+    "examples_de": [["Das **redigierte** Manuskript war viel klarer als der erste Entwurf", "Sie reichte die **überarbeitete** Version mit allen korrigierten Grammatikfehlern ein"], ["Die **herausgegebene** Anthologie enthielt Werke von zwanzig verschiedenen Dichtern", "Er veröffentlichte eine **edierte** Sammlung historischer Briefe und Dokumente"]]
+  },
+  {
+    "lemma": "editorial",
+    "meanings_de": ["redaktionell", "meinungsäußernd"],
+    "definitions_de": ["sich auf den Prozess des Redigierens oder die Arbeit von Redakteuren im Verlagswesen beziehend", "Meinungen ausdrückend statt nur Fakten zu berichten, besonders im Journalismus oder in den Medien"],
+    "examples_de": [["Das **redaktionelle** Team arbeitete bis spät, um die Veröffentlichungsfrist einzuhalten", "Sie nahm mehrere **redaktionelle** Änderungen vor, um den Textfluss zu verbessern"], ["Die **redaktionelle** Haltung der Zeitung bevorzugte Umweltschutzmaßnahmen", "Seine **kommentierenden** Anmerkungen zeigten eine klare politische Voreingenommenheit"]]
+  },
+  {
+    "lemma": "educated",
+    "meanings_de": ["formal gebildet", "auf Wissen basierend"],
+    "definitions_de": ["formale Schulbildung oder Ausbildung erhalten habend, die zu Wissen und intellektueller Entwicklung führt", "auf Erfahrung, Wissen oder informiertem Denken basierend statt auf zufälligem Raten"],
+    "examples_de": [["Die **gebildete** Arbeitnehmerschaft zog viele Technologieunternehmen in die Region", "Sie stammte aus einer **gebildeten** Familie, in der alle die Universität besuchten"], ["Er machte eine **fundierte** Vermutung über die Testergebnisse", "Ihre **durchdachte** Entscheidung basierte auf gründlicher Marktforschung"]]
+  },
+  {
+    "lemma": "educative",
+    "meanings_de": ["bildend"],
+    "definitions_de": ["dazu dienend zu bilden oder Unterricht zu geben, der Wissen vermehrt oder Fähigkeiten entwickelt"],
+    "examples_de": [["Das Museum bietet **bildende** Programme für Schulkinder", "Historische Romane zu lesen kann sowohl unterhaltend als auch **lehrreich** sein"]]
+  },
+  {
+    "lemma": "eerie",
+    "meanings_de": ["unheimlich"],
+    "definitions_de": ["seltsam und beängstigend auf eine Weise, die einen nervös oder unbehaglich fühlen lässt"],
+    "examples_de": [["Eine **unheimliche** Stille legte sich um Mitternacht über das verlassene Haus", "Der Nebel schuf eine **gespenstische** Atmosphäre in den leeren Straßen"]]
+  },
+  {
+    "lemma": "effected",
+    "meanings_de": ["bewirkt"],
+    "definitions_de": ["herbeigeführt, vollbracht oder verursacht worden seiend als Ergebnis einer Handlung"],
+    "examples_de": [["Die **bewirkten** Veränderungen verbesserten die Mitarbeitermoral erheblich", "Die neu **durchgeführten** Maßnahmen reduzierten die Verschmutzung in der Stadt"]]
+  },
+  {
+    "lemma": "effeminate",
+    "meanings_de": ["feminin wirkend"],
+    "definitions_de": ["Eigenschaften besitzend, die traditionell eher mit Frauen als mit Männern in Erscheinung, Art oder Verhalten assoziiert werden"],
+    "examples_de": [["Seine **weiblichen** Gesten ließen ihn unter seinen Altersgenossen auffallen", "Die **feminine** Stimme des Schauspielers passte zu der Rolle, die er spielte"]]
+  },
+  {
+    "lemma": "effervescent",
+    "meanings_de": ["sprudelnd", "lebhaft und enthusiastisch"],
+    "definitions_de": ["Gasblasen abgebend, besonders Kohlendioxid, wie bei kohlensäurehaltigen Getränken", "Lebhaftigkeit, Enthusiasmus und Aufregung auf eine attraktive, sprudelnde Art wie Champagner zeigend"],
+    "examples_de": [["Die **sprudelnden** Tabletten lösten sich schnell im Wasser auf", "Sie bestellte ein **prickelndes** Getränk, um den Anlass zu feiern"], ["Ihre **sprühende** Persönlichkeit machte sie zum Mittelpunkt jeder Party", "Der **überschäumende** Humor des Komikers hielt das Publikum ständig am Lachen"]]
+  },
+  {
+    "lemma": "efficacious",
+    "meanings_de": ["wirksam"],
+    "definitions_de": ["erfolgreich in der Hervorbringung eines gewünschten oder beabsichtigten Ergebnisses, besonders in der Medizin oder Behandlung"],
+    "examples_de": [["Das neue Medikament erwies sich als **wirksam** bei der Behandlung der seltenen Krankheit", "Regelmäßige Bewegung ist **wirksam** für die Erhaltung guter Gesundheit"]]
+  },
+  {
+    "lemma": "effluent",
+    "meanings_de": ["abfließend"],
+    "definitions_de": ["heraus- oder fortfließend, besonders in Bezug auf flüssige Abfälle aus industriellen Prozessen"],
+    "examples_de": [["Die **abfließenden** Abwässer der Fabrik wurden sorgfältig auf Schadstoffe überwacht", "Das **Abwasser** aus der Kläranlage erfüllte die Umweltstandards"]]
+  },
+  {
+    "lemma": "effortless",
+    "meanings_de": ["mühelos"],
+    "definitions_de": ["keine körperliche oder geistige Anstrengung erfordernd, um etwas zu erreichen, leicht und natürlich erscheinend"],
+    "examples_de": [["Ihre **mühelose** Anmut auf der Tanzfläche erstaunte alle", "Er ließ das schwierige Klavierstück völlig **mühelos** aussehen"]]
+  },
+  {
+    "lemma": "effusive",
+    "meanings_de": ["überschwänglich"],
+    "definitions_de": ["Gefühle der Dankbarkeit, Freude oder Zustimmung auf eine ungehemmte, herzliche und enthusiastische Weise ausdrückend"],
+    "examples_de": [["Sie bedankte sich **überschwänglich** für die unerwartete Geburtstagsüberraschung", "Sein **überschwängliches** Lob ließ die junge Künstlerin vor Stolz erröten"]]
+  },
+  {
+    "lemma": "egalitarian",
+    "meanings_de": ["gleichheitsorientiert"],
+    "definitions_de": ["an das Prinzip glaubend oder darauf basierend, dass alle Menschen gleiche Rechte und Chancen verdienen"],
+    "examples_de": [["Das Unternehmen förderte eine **egalitäre** Arbeitsplatzkultur für alle Mitarbeiter", "Ihre **gleichheitsorientierten** Ansichten beeinflussten die neue Bildungspolitik"]]
+  },
+  {
+    "lemma": "egocentric",
+    "meanings_de": ["egozentrisch"],
+    "definitions_de": ["nur an sich selbst denkend ohne Rücksicht auf die Gefühle, Bedürfnisse oder Wünsche anderer"],
+    "examples_de": [["Sein **egozentrisches** Verhalten entfremdete viele seiner früheren Freunde", "Das **ichbezogene** Kind weigerte sich, Spielzeug mit anderen zu teilen"]]
+  },
+  {
+    "lemma": "egotistical",
+    "meanings_de": ["selbstgefällig"],
+    "definitions_de": ["übermäßig eingebildet oder in sich selbst versunken, ein aufgeblähtes Selbstwertgefühl zeigend"],
+    "examples_de": [["Der **egozentrische** Schauspieler verlangte Sonderbehandlung am Set", "Ihre **selbstgefälligen** Bemerkungen über ihre Leistungen verärgerten Kollegen"]]
+  },
+  {
+    "lemma": "egregious",
+    "meanings_de": ["ungeheuerlich"],
+    "definitions_de": ["außerordentlich schlecht oder schockierend auf eine Weise, die sehr auffällig und inakzeptabel ist"],
+    "examples_de": [["Der Bericht enthüllte **ungeheuerliche** Verstöße gegen Sicherheitsvorschriften", "Sein **haarsträubender** Fehler kostete das Unternehmen Millionen von Euro"]]
+  },
+  {
+    "lemma": "eight",
+    "meanings_de": ["Zahl nach sieben"],
+    "definitions_de": ["eins mehr als sieben in der Anzahl seiend, dargestellt durch die Ziffer 8"],
+    "examples_de": [["Der Oktopus hat **acht** Tentakel, die von seinem Körper ausgehen", "Sie arbeitet jeden Tag **acht** Stunden im Büro"]]
+  },
+  {
+    "lemma": "eighteen",
+    "meanings_de": ["Zahl nach siebzehn"],
+    "definitions_de": ["eins mehr als siebzehn in der Anzahl seiend, dargestellt durch die Ziffer 18"],
+    "examples_de": [["Man muss **achtzehn** Jahre alt sein, um bei Wahlen wählen zu dürfen", "Der Golfplatz hat **achtzehn** Löcher für eine volle Runde"]]
+  },
+  {
+    "lemma": "eighteenth",
+    "meanings_de": ["achtzehnte Position"],
+    "definitions_de": ["nach dem siebzehnten in Position, Zeit oder Reihenfolge in einer Sequenz kommend"],
+    "examples_de": [["Ihre **achtzehnte** Geburtstagsfeier war eine unvergessliche Feier", "Das **achtzehnte** Jahrhundert sah große wissenschaftliche und philosophische Fortschritte"]]
+  },
+  {
+    "lemma": "eightfold",
+    "meanings_de": ["achtfach", "achtteilig"],
+    "definitions_de": ["achtmal so groß oder so viel in Menge oder Grad seiend", "aus acht Teilen, Aspekten oder Abteilungen bestehend, die zusammen als Ganzes angeordnet sind"],
+    "examples_de": [["Das Unternehmen erlebte eine **achtfache** Steigerung der Online-Verkäufe", "Die Investitionsrenditen zeigten ein **achtfaches** Wachstum über zehn Jahre"], ["Der Buddhismus lehrt den **achtfachen** Pfad zur Erleuchtung", "Der Kristall zeigte eine **achtfache** Symmetrie in seiner Struktur"]]
+  },
+  {
+    "lemma": "eighth",
+    "meanings_de": ["achte Position", "ein Achtel"],
+    "definitions_de": ["nach dem siebten in Position, Zeit oder Reihenfolge in einer Sequenz kommend", "einer von acht gleichen Teilen seiend, in die etwas geteilt wird"],
+    "examples_de": [["Sie wurde trotz ihrer Verletzung **Achte** im Marathon", "Die **achten** Klassen bereiteten sich auf ihre Abschlussfeier vor"], ["Er aß nur ein **Achtel** der Pizza, bevor er satt war", "Eine **Achtelnote** in der Musik dauert halb so lang wie eine Viertelnote"]]
+  },
+  {
+    "lemma": "eightieth",
+    "meanings_de": ["achtzigste Position"],
+    "definitions_de": ["nach dem neunundsiebzigsten in Position, Zeit oder Reihenfolge in einer Sequenz kommend"],
+    "examples_de": [["Sie feierten den **achtzigsten** Geburtstag ihres Großvaters mit der Familie", "Das **achtzigste** Jubiläum des Unternehmens beinhaltete besondere Veranstaltungen"]]
+  },
+  {
+    "lemma": "eighty",
+    "meanings_de": ["Zahl nach neunundsiebzig"],
+    "definitions_de": ["zehn mehr als siebzig in der Anzahl seiend, dargestellt durch die Ziffer 80"],
+    "examples_de": [["Die Temperatur erreichte **achtzig** Grad am sonnigen Nachmittag", "Sie wurde **achtzig** Jahre alt und erlebte viele Veränderungen"]]
+  },
+  {
+    "lemma": "elaborate",
+    "meanings_de": ["aufwändig gestaltet"],
+    "definitions_de": ["viele sorgfältig arrangierte Teile oder Details beinhaltend, die mit großer Sorgfalt und Komplexität entwickelt wurden"],
+    "examples_de": [["Die Hochzeit zeigte **aufwändige** Dekorationen mit Tausenden von Blumen", "Sie trug ein **kunstvolles** Kostüm mit komplizierter Perlenstickerei"]]
+  },
+  {
+    "lemma": "elaborated",
+    "meanings_de": ["detailliert ausgearbeitet"],
+    "definitions_de": ["sorgfältig im Detail entwickelt, erweitert oder ausgearbeitet worden seiend mit zusätzlichen Informationen"],
+    "examples_de": [["Die **ausgearbeiteten** Pläne beinhalteten Notfallmaßnahmen für jedes mögliche Szenario", "Ihre **ausführliche** Theorie baute auf früherer Forschung auf dem Gebiet auf"]]
+  },
+  {
+    "lemma": "elapsed",
+    "meanings_de": ["vergangen"],
+    "definitions_de": ["vergangen oder vorbeigeglittend seiend, besonders in Bezug auf Zeit, die verstrichen ist"],
+    "examples_de": [["Drei Stunden waren **vergangen**, seit das Treffen begann", "Die **verstrichene** Zeit zwischen den Anrufen wurde sorgfältig aufgezeichnet"]]
+  },
+  {
+    "lemma": "elastic",
+    "meanings_de": ["dehnbar", "flexibel und anpassungsfähig"],
+    "definitions_de": ["fähig sich zu dehnen und ohne dauerhafte Verformung in die ursprüngliche Form zurückzukehren", "fähig sich leicht zu verändern und an verschiedene Umstände oder Anforderungen anzupassen"],
+    "examples_de": [["Der **elastische** Bund machte die Hose bequem zu tragen", "Gummibänder sind **elastisch** und können sich auf das Mehrfache ihrer Länge dehnen"], ["Das Unternehmen behielt **flexible** Richtlinien bei, um verschiedene Situationen zu berücksichtigen", "Die Marktnachfrage erwies sich als **elastischer** als Ökonomen vorhergesagt hatten"]]
+  },
+  {
+    "lemma": "elated",
+    "meanings_de": ["hocherfreut"],
+    "definitions_de": ["sich extrem glücklich und aufgeregt fühlend wegen Erfolg oder guter Nachrichten"],
+    "examples_de": [["Sie fühlte sich **hocherfreut**, nachdem sie das Stellenangebot erhalten hatte", "Das Team war **begeistert** über ihren unerwarteten Sieg"]]
+  },
+  {
+    "lemma": "eldest",
+    "meanings_de": ["älteste Person"],
+    "definitions_de": ["die älteste von drei oder mehr Personen seiend, besonders Kinder in einer Familie"],
+    "examples_de": [["Die **älteste** Tochter erbte das Familienunternehmen", "Als **ältestes** Kind fühlte er sich verantwortlich für seine Geschwister"]]
+  },
+  {
+    "lemma": "elected",
+    "meanings_de": ["gewählt"],
+    "definitions_de": ["für eine Position oder ein Amt durch einen formellen Abstimmungsprozess einer Gruppe gewählt"],
+    "examples_de": [["Der neu **gewählte** Präsident hielt eine inspirierende Antrittsrede", "Sie wurde **gewählt**, um im Schulvorstand zu dienen"]]
+  },
+  {
+    "lemma": "elective",
+    "meanings_de": ["durch Wahl bestimmt", "wahlfrei"],
+    "definitions_de": ["sich auf eine Wahl beziehend oder durch Wahl statt durch Ernennung oder Vererbung gewählt", "als Wahlmöglichkeit verfügbar, aber nicht erforderlich, besonders in Bezug auf Kurse oder medizinische Eingriffe"],
+    "examples_de": [["Die **Wahlämter** umfassten Bürgermeister und Stadtratspositionen", "Richter in einigen Bundesländern haben **gewählte** statt ernannte Positionen"], ["Studenten müssen drei **Wahlfächer** belegen, um ihren Abschluss zu machen", "Die Operation war **elektiv**, nicht medizinisch notwendig"]]
+  },
+  {
+    "lemma": "electrifying",
+    "meanings_de": ["elektrisierend"],
+    "definitions_de": ["plötzliche Aufregung, Nervenkitzel oder Erregung verursachend, als ob durch einen elektrischen Schlag"],
+    "examples_de": [["Die **elektrisierende** Performance der Band belebte die gesamte Menge", "Ihre **mitreißende** Rede inspirierte das Publikum zum Handeln"]]
+  }
+]

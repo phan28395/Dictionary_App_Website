@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "gloomy",
+    "meanings_de": ["dunkel und bedrückend", "pessimistisch gestimmt"],
+    "definitions_de": ["dunkel oder schlecht beleuchtet auf eine Weise, die eine trostlose, bedrückende Atmosphäre schafft und negative Gefühle hervorruft", "Pessimismus, Traurigkeit oder Hoffnungslosigkeit fühlend oder ausdrückend in Bezug auf eine Situation oder Zukunft"],
+    "examples_de": [["Das **trübe** Wetter machte alle müde und traurig", "Wir betraten den **düsteren** Keller mit nur einer flackernden Lampe"], ["Sie hatte eine **pessimistische** Einstellung zur Zukunft der Wirtschaft", "Seine **düsteren** Vorhersagen über das Projekt erwiesen sich als falsch"]]
+  },
+  {
+    "lemma": "glorified",
+    "meanings_de": ["aufgewertet dargestellt", "verherrlicht oder gepriesen"],
+    "definitions_de": ["so dargestellt, dass etwas wichtiger oder besser erscheint, als es tatsächlich ist", "mit Ehre, Lob oder Verehrung in erhöhter oder erhabener Weise bedacht"],
+    "examples_de": [["Das Restaurant war nur eine **aufgewertete** Imbissbude", "Sein Jobtitel klingt beeindruckend, aber er ist eigentlich nur ein **verherrlichter** Sekretär"], ["Die **verherrlichten** Helden wurden mit einer Parade in der Innenstadt geehrt", "Alte Kulturen **verherrlichten** ihre Anführer durch monumentale Statuen"]]
+  },
+  {
+    "lemma": "glorious",
+    "meanings_de": ["herrlich und prächtig", "wunderbar oder köstlich"],
+    "definitions_de": ["große Ehre, Bewunderung oder Auszeichnung durch Pracht und Großartigkeit habend oder verdienend", "äußerst angenehm, erfreulich oder schön auf eine Weise, die Glück und Freude bringt"],
+    "examples_de": [["Die Armee feierte ihren **glorreichen** Sieg über die Eindringlinge", "Die **prächtige** Architektur der Kathedrale zog Touristen aus aller Welt an"], ["Wir verbrachten einen **herrlichen** Nachmittag am See", "Das Wetter war absolut **wunderbar** für unseren Hochzeitstag"]]
+  },
+  {
+    "lemma": "glossy",
+    "meanings_de": ["glänzend und glatt", "oberflächlich attraktiv"],
+    "definitions_de": ["eine glatte, glänzende Oberfläche habend, die Licht hell reflektiert", "oberflächlich attraktiv oder beeindruckend, aber ohne Tiefe oder Substanz"],
+    "examples_de": [["Sie trug **glänzenden** Lippenstift für das Fotoshooting auf", "Die **glänzenden** Magazinseiten reflektierten das Deckenlicht"], ["Die **hochglanzpolierte** Marketingkampagne der Firma verbarg ihren schlechten Service", "Hinter der **glänzenden** Fassade steckte ein Unternehmen in ernsthaften Schwierigkeiten"]]
+  },
+  {
+    "lemma": "glowing",
+    "meanings_de": ["warm leuchtend", "überschwänglich lobend"],
+    "definitions_de": ["ein stetiges warmes Licht abgebend oder mit Wärme zu scheinen scheinend", "enthusiastisches Lob, Anerkennung oder Zustimmung über etwas oder jemanden ausdrückend"],
+    "examples_de": [["Die **glühende** Glut hielt die Hütte die ganze Nacht warm", "Ihr Gesicht hatte nach der Gesichtsbehandlung einen **strahlenden** Teint"], ["Der Film erhielt **glänzende** Kritiken von allen Rezensenten", "Sein Chef gab ihm eine **hervorragende** Empfehlung für die Beförderung"]]
+  },
+  {
+    "lemma": "dorian",
+    "meanings_de": ["die Dorer betreffend", "die dorische Tonart betreffend"],
+    "definitions_de": ["sich auf das antike griechische Volk der Dorer oder deren Dialekt und Kultur beziehend", "sich auf die dorische Tonart in der Musik beziehend oder diese verwendend, die durch spezifische Intervalle charakterisiert ist"],
+    "examples_de": [["Die **dorische** Wanderung markierte eine bedeutende Periode in der griechischen Geschichte", "Archäologen entdeckten **dorische** Keramikfragmente an der Ausgrabungsstätte"], ["Der Komponist schrieb das Stück in **dorischer** Tonart wegen ihres charakteristischen Klangs", "Jazzmusiker verwenden oft **dorische** Skalen in ihren Improvisationen"]]
+  },
+  {
+    "lemma": "draconian",
+    "meanings_de": ["übermäßig hart oder streng"],
+    "definitions_de": ["übermäßig hart und streng in Gesetzen, Regeln oder Bestrafungen, oft als grausam oder ungerecht betrachtet"],
+    "examples_de": [["Die Regierung verhängte **drakonische** Maßnahmen zur Kontrolle der Proteste", "Viele Mitarbeiter kündigten wegen der **drakonischen** Anwesenheitsrichtlinien des Unternehmens"]]
+  },
+  {
+    "lemma": "ecuadorian",
+    "meanings_de": ["Ecuador betreffend"],
+    "definitions_de": ["sich auf Ecuador, seine Menschen, Kultur oder die in diesem südamerikanischen Land gesprochene Sprache beziehend"],
+    "examples_de": [["Wir genossen traditionelle **ecuadorianische** Küche während unseres Besuchs in Quito", "Die **ecuadorianische** Botschaft half Touristen bei ihren Visaanträgen"]]
+  },
+  {
+    "lemma": "edwardian",
+    "meanings_de": ["die Regierungszeit Edwards VII. betreffend"],
+    "definitions_de": ["sich auf die Regierungszeit von König Edward VII. von Großbritannien von 1901 bis 1910 oder deren Stil beziehend"],
+    "examples_de": [["Das Haus wies wunderschöne **edwardianische** Architektur mit kunstvollen Details auf", "Sie sammelte **edwardianischen** Schmuck aus Antiquitätenläden in ganz England"]]
+  },
+  {
+    "lemma": "egyptian",
+    "meanings_de": ["Ägypten betreffend"],
+    "definitions_de": ["sich auf Ägypten, seine Menschen, Kultur oder die dort gesprochene arabische Sprache beziehend"],
+    "examples_de": [["Das Museum stellte alte **ägyptische** Artefakte aus verschiedenen Dynastien aus", "**Ägyptische** Baumwollbettwäsche ist für ihre überlegene Qualität bekannt"]]
+  },
+  {
+    "lemma": "elizabethan",
+    "meanings_de": ["die Regierungszeit Elisabeths I. betreffend"],
+    "definitions_de": ["sich auf die Regierungszeit von Königin Elisabeth I. von England von 1558 bis 1603 oder deren kulturellen Stil beziehend"],
+    "examples_de": [["Shakespeare schrieb seine Stücke während der **elisabethanischen** Ära", "Der Schauspieler trug ein aufwendiges **elisabethanisches** Kostüm für das historische Drama"]]
+  },
+  {
+    "lemma": "allied",
+    "meanings_de": ["im Bündnis vereint", "verwandt oder verbunden"],
+    "definitions_de": ["durch Vertrag oder Vereinbarung für gegenseitige Unterstützung oder gemeinsamen Zweck zusammengeschlossen", "in Natur, Form oder Funktion mit etwas anderem verbunden oder verwandt"],
+    "examples_de": [["Die **alliierten** Streitkräfte arbeiteten zusammen, um den Feind zu besiegen", "Mehrere **verbündete** Nationen unterzeichneten letzten Monat das Handelsabkommen"], ["Psychologie und Neurowissenschaft sind **verwandte** Studienbereiche", "Das Unternehmen fusionierte mit mehreren **verbundenen** Geschäften in der Branche"]]
+  },
+  {
+    "lemma": "alpine",
+    "meanings_de": ["hochgebirgsbezogen", "die Alpen betreffend"],
+    "definitions_de": ["sich auf Hochgebirgsgebiete beziehend oder dort vorkommend, besonders oberhalb der Baumgrenze", "sich auf das Alpengebirge in Europa oder dessen Eigenschaften beziehend"],
+    "examples_de": [["**Alpine** Blumen blühen nur kurz während des kurzen Bergsommers", "Das **alpine** Klima erfordert spezielle Ausrüstung für sicheres Wandern"], ["Wir übernachteten in einem charmanten **Alpendorf** in der Schweiz", "**Alpines** Skifahren entstand an den steilen Hängen der Alpen"]]
+  },
+  {
+    "lemma": "apocryphal",
+    "meanings_de": ["von zweifelhafter Echtheit"],
+    "definitions_de": ["von zweifelhafter Echtheit oder Wahrheit, obwohl weithin als wahr oder echt verbreitet"],
+    "examples_de": [["Die **apokryphe** Geschichte über Washington und den Kirschbaum hält sich hartnäckig", "Viele **apokryphe** Erzählungen ranken sich um die Gründung des Unternehmens"]]
+  },
+  {
+    "lemma": "glued",
+    "meanings_de": ["mit Klebstoff befestigt", "gebannt aufmerksam"],
+    "definitions_de": ["mit Klebstoff oder einer anderen klebenden Substanz befestigt oder zusammengeklebt", "vollständige, unerschütterliche Aufmerksamkeit auf etwas gebend, als ob man nicht wegschauen könnte"],
+    "examples_de": [["Die zerbrochenen Vasenstücke wurden sorgfältig wieder **zusammengeklebt**", "Stellen Sie sicher, dass die Kanten richtig **verklebt** sind, bevor die Farbe trocknet"], ["Die Kinder saßen während des Zeichentrickfilms wie **gebannt** vor dem Fernseher", "Ihre Augen blieben den ganzen Nachmittag auf den spannenden Roman **geheftet**"]]
+  },
+  {
+    "lemma": "glutinous",
+    "meanings_de": ["klebrig wie Leim"],
+    "definitions_de": ["eine klebrige, leimartige Textur oder Konsistenz habend, besonders für bestimmte Reissorten verwendet"],
+    "examples_de": [["**Klebreis** ist unverzichtbar für die Herstellung traditioneller asiatischer Desserts", "Die **klebrige** Substanz machte es schwierig, die Maschinen zu reinigen"]]
+  },
+  {
+    "lemma": "goaded",
+    "meanings_de": ["zum Handeln angestachelt"],
+    "definitions_de": ["durch anhaltende Belästigung oder Kritik provoziert, gedrängt oder zum Handeln getrieben"],
+    "examples_de": [["**Angestachelt** durch ständige Hänseleien verlor er schließlich die Beherrschung", "Der **gereizte** Stier stürmte wütend auf das Tuch des Matadors zu"]]
+  },
+  {
+    "lemma": "goalless",
+    "meanings_de": ["ohne Torerfolg", "ohne Ziel oder Zweck"],
+    "definitions_de": ["im Sport, ohne dass eines der Teams oder Spieler ein Tor erzielt hat", "ohne klare Ziele, Zweck oder Richtung im Leben oder bei Aktivitäten"],
+    "examples_de": [["Das Spiel endete nach neunzig Minuten mit einem **torlosen** Unentschieden", "Es war ein langweiliges, **torloses** Spiel trotz vieler Versuche"], ["Er fühlte sich **ziellos** nach dem Abschluss ohne Karrierepläne", "Ihr **zielloses** Umherirren durchs Leben beunruhigte ihre Eltern"]]
+  },
+  {
+    "lemma": "godless",
+    "meanings_de": ["nicht an Gott glaubend", "böse oder unmoralisch"],
+    "definitions_de": ["nicht an die Existenz Gottes oder von Gottheiten glaubend oder diese anerkennend", "moralische Prinzipien vermissen lassend, böse oder gottlos im Verhalten oder Charakter"],
+    "examples_de": [["Die **gottlose** Gesellschaft verließ sich auf Wissenschaft statt auf Glauben", "Einige nannten ihn **gottlos**, weil er religiöse Lehren hinterfragte"], ["Der **gottlose** Tyrann zeigte seinen Untertanen keine Gnade", "Sie beschrieben die Taten des Verbrechers als völlig **gottlos**"]]
+  },
+  {
+    "lemma": "godlike",
+    "meanings_de": ["einer Gottheit ähnelnd"],
+    "definitions_de": ["Eigenschaften oder Kräfte habend, die einem Gott oder einer Gottheit zu gehören scheinen"],
+    "examples_de": [["Die **gottgleiche** Statur des Athleten beeindruckte alle im Fitnessstudio", "Antike Herrscher beanspruchten oft **göttliche** Kräfte zur Kontrolle ihrer Untertanen"]]
+  },
+  {
+    "lemma": "godly",
+    "meanings_de": ["fromm und gottesfürchtig"],
+    "definitions_de": ["tief religiös, fromm und nach religiösen Prinzipien lebend"],
+    "examples_de": [["Sie führte ein **gottgefälliges** Leben, das Gebet und Wohltätigkeit gewidmet war", "Der **fromme** Pfarrer wurde in der ganzen Gemeinde respektiert"]]
+  },
+  {
+    "lemma": "going",
+    "meanings_de": ["aktuell oder bestehend", "in Betrieb befindlich"],
+    "definitions_de": ["zum gegenwärtigen Zeitpunkt in einem bestimmten Kontext existierend oder verfügbar", "funktionierend, operierend oder als aktives Unternehmen oder Anliegen fortbestehend"],
+    "examples_de": [["Was ist der **gängige** Preis für freiberufliche Autoren heutzutage?", "Der **übliche** Preis für dieses Modell liegt bei etwa fünfhundert Euro"], ["Ist dieses Restaurant nach der Pandemie noch ein **laufendes** Geschäft?", "Wir müssen dieses Projekt trotz der Rückschläge **am Laufen** halten"]]
+  },
+  {
+    "lemma": "gone",
+    "meanings_de": ["nicht mehr anwesend", "aufgebraucht oder beendet"],
+    "definitions_de": ["einen Ort verlassen habend oder von dort weggegangen und nicht mehr anwesend", "vollständig verbraucht, konsumiert oder beendet, ohne dass etwas übrig bleibt"],
+    "examples_de": [["Als wir ankamen, waren bereits alle **weg**", "Der Schmerz in meiner Schulter ist nach der Behandlung endlich **verschwunden**"], ["Der ganze Kuchen ist **aufgegessen**, weil die Kinder ihn gegessen haben", "Unsere Ersparnisse sind nach den Hausreparaturen fast **aufgebraucht**"]]
+  },
+  {
+    "lemma": "goofy",
+    "meanings_de": ["albern oder töricht"],
+    "definitions_de": ["albern, töricht oder verspielt auf eine liebenswerte oder harmlose Weise"],
+    "examples_de": [["Sein **albernes** Lächeln brachte immer alle zum Lachen", "Die Kinder schauten samstags morgens gerne **verrückte** Zeichentrickfilme"]]
+  },
+  {
+    "lemma": "gory",
+    "meanings_de": ["mit viel Blutvergießen", "unangenehm detailliert"],
+    "definitions_de": ["viel Blut, Gewalt oder grausame Verletzungen beinhaltend oder zeigend", "unangenehme oder schockierende Details über etwas Beunruhigendes beinhaltend"],
+    "examples_de": [["Der **blutige** Horrorfilm war zu gewalttätig für junge Zuschauer", "Kriminalbeamte dokumentierten die **grausigen** Details"], ["Sie ersparte uns die **blutigen** Details ihrer Operation", "Er erzählte uns alle **schmutzigen** Details über den Bankrott der Firma"]]
+  },
+  {
+    "lemma": "gossamer",
+    "meanings_de": ["äußerst leicht und zart"],
+    "definitions_de": ["äußerst leicht, zart und durchscheinend wie ein Spinnennetz oder feiner Stoff"],
+    "examples_de": [["Die Braut trug einen **hauchdünnen** Schleier, der im Wind schwebte", "Morgentau hing an den **hauchzarten** Spinnennetzen im Garten"]]
+  },
+  {
+    "lemma": "gothic",
+    "meanings_de": ["mittelalterlicher Baustil", "dunkel und mysteriös"],
+    "definitions_de": ["sich auf einen Baustil aus dem mittelalterlichen Europa beziehend, der spitze Bögen und kunstvolle Details aufweist", "durch dunkle, mysteriöse oder düstere Atmosphäre gekennzeichnet, oft mit übernatürlichen Elementen"],
+    "examples_de": [["Die Türme der **gotischen** Kathedrale ragten hoch in den Himmel", "**Gotische** Architektur dominierte europäische Städte während des Mittelalters"], ["Sie las gerne **schaurige** Romane voller verwunschener Schlösser", "Der **düstere** Stil der Band umfasste dunkle Kleidung und dramatisches Make-up"]]
+  },
+  {
+    "lemma": "governing",
+    "meanings_de": ["Kontrolle oder Autorität habend"],
+    "definitions_de": ["die Macht habend, Verhalten oder Handlungsverlauf zu kontrollieren, zu lenken oder stark zu beeinflussen"],
+    "examples_de": [["Der **leitende** Vorstand traf wichtige Entscheidungen über die Schulpolitik", "Dies sind die **maßgeblichen** Prinzipien unserer Organisation"]]
+  },
+  {
+    "lemma": "governmental",
+    "meanings_de": ["die Regierung betreffend"],
+    "definitions_de": ["sich auf die Regierungskörperschaft einer Nation, eines Staates oder einer Gemeinschaft beziehend oder diese betreffend"],
+    "examples_de": [["**Staatliche** Behörden überwachen verschiedene Aspekte öffentlicher Dienstleistungen", "Die neuen **behördlichen** Richtlinien betrafen Kleinunternehmer"]]
+  },
+  {
+    "lemma": "graceful",
+    "meanings_de": ["sich elegant bewegend", "höflich und angenehm"],
+    "definitions_de": ["sich auf glatte, elegante Weise bewegend, die natürlich und mühelos erscheint", "Höflichkeit und guten Geschmack in schwierigen Situationen oder sozialen Interaktionen zeigend"],
+    "examples_de": [["Die **anmutige** Tänzerin bewegte sich wie fließendes Wasser über die Bühne", "Schwäne sind für ihre **graziösen** Bewegungen auf dem Wasser bekannt"], ["Sie hielt eine **würdevolle** Rede zur Annahme des Preises", "Sein **eleganter** Umgang mit Kritik beeindruckte seine Kollegen"]]
+  },
+  {
+    "lemma": "gracious",
+    "meanings_de": ["höflich und freundlich", "elegant und geschmackvoll"],
+    "definitions_de": ["höflich, freundlich und angenehm im Umgang, besonders gegenüber jemandem mit niedrigerem Status", "durch Eleganz, guten Geschmack und großzügige Proportionen in Lebensstil oder Umgebung gekennzeichnet"],
+    "examples_de": [["Der **liebenswürdige** Gastgeber sorgte dafür, dass sich jeder Gast willkommen fühlte", "Sie war **großmütig** in der Niederlage und gratulierte ihrer Gegnerin herzlich"], ["Sie lebten in einem **herrschaftlichen** Haus mit wunderschönen Gärten", "Das Hotel bot **noble** Unterkünfte mit außergewöhnlichem Service"]]
+  },
+  {
+    "lemma": "graded",
+    "meanings_de": ["nach Stufen geordnet", "einen Verlauf habend"],
+    "definitions_de": ["in Stufen, Rängen oder Schritten nach Größe, Qualität oder Schwierigkeit angeordnet", "eine allmähliche Veränderung in Farbe, Ton oder einer anderen Eigenschaft habend"],
+    "examples_de": [["Die **abgestuften** Hausaufgaben wurden jede Woche schwieriger", "Die Schüler erhielten ihre **bewerteten** Arbeiten vom Lehrer zurück"], ["Der Künstler verwendete **abgestufte** Schattierungen zur Erzeugung von Tiefe", "Die **sanft ansteigende** Steigung machte die Wanderung für Anfänger zugänglich"]]
+  },
+  {
+    "lemma": "gradual",
+    "meanings_de": ["langsam über Zeit geschehend"],
+    "definitions_de": ["langsam oder schrittweise über einen längeren Zeitraum stattfindend oder fortschreitend"],
+    "examples_de": [["Der Patient zeigte **allmähliche** Verbesserung nach Beginn der neuen Behandlung", "Der Klimawandel verursacht **schrittweise** Verschiebungen in Wettermustern"]]
+  },
+  {
+    "lemma": "graduated",
+    "meanings_de": ["mit Gradeinteilung versehen", "Ausbildung abgeschlossen"],
+    "definitions_de": ["mit Teilungen oder Maßeinheiten markiert, die in regelmäßigen Abständen angeordnet sind", "einen Studiengang erfolgreich abgeschlossen und einen Abschluss oder ein Diplom erhalten habend"],
+    "examples_de": [["Der **graduierte** Zylinder maß Flüssigkeiten präzise im Labor", "Eine **skalierte** Anzeige am Thermometer zeigte Temperaturwerte"], ["Frisch **graduierte** Studenten suchten nach Einstiegspositionen", "Sie **absolvierte** mit Auszeichnung die medizinische Fakultät"]]
+  },
+  {
+    "lemma": "grainy",
+    "meanings_de": ["sichtbar körnig", "nicht glatte Textur"],
+    "definitions_de": ["sichtbare Körnung oder körnige Textur zeigend, besonders bei Fotografien oder Bildern", "eine raue Textur habend, die aus kleinen Körnern oder Partikeln besteht oder diesen ähnelt"],
+    "examples_de": [["Das alte Foto war **körnig**, zeigte aber noch ihre Gesichter", "Das Überwachungsmaterial war zu **grobkörnig**, um den Verdächtigen zu identifizieren"], ["Der **grobe** Senf fügte dem Sandwich Textur hinzu", "Dieses Holz hat eine natürlich **körnige** Oberfläche, die geschliffen werden muss"]]
+  },
+  {
+    "lemma": "grammatical",
+    "meanings_de": ["die Grammatik betreffend", "grammatisch korrekt"],
+    "definitions_de": ["sich auf die Regeln und Struktur der Sprachgrammatik beziehend oder diese betreffend", "den etablierten Regeln der Grammatik in einer Sprache entsprechend"],
+    "examples_de": [["Die Schüler lernten **grammatische** Konzepte wie Zeitformen und Satzstruktur", "Die **grammatikalische** Analyse enthüllte interessante Muster im Text"], ["Ihr Aufsatz ist **grammatisch** korrekt, könnte aber vielfältigeres Vokabular verwenden", "Ist dieser Satz im Standarddeutsch **grammatikalisch** richtig?"]]
+  },
+  {
+    "lemma": "grandiose",
+    "meanings_de": ["beeindruckend großartig", "anmaßend großartig"],
+    "definitions_de": ["beeindruckend und imposant in Erscheinung oder Stil, besonders in großem Maßstab", "übermäßig großartig oder ehrgeizig auf eine Weise, die anmaßend oder unrealistisch erscheint"],
+    "examples_de": [["Der Palast wies **grandiose** Architektur mit Marmorsäulen auf", "Sie veranstalteten eine **prachtvolle** Feier zum Firmenjubiläum"], ["Seine **größenwahnsinnigen** Expansionspläne erwiesen sich als völlig unrealistisch", "Sie hatte **überzogene** Wahnvorstellungen, sofort berühmt zu werden"]]
+  },
+  {
+    "lemma": "granted",
+    "meanings_de": ["gewährt oder erlaubt", "als gegeben angenommen"],
+    "definitions_de": ["formell als Privileg oder Recht gegeben, verliehen oder erlaubt", "ohne Frage oder Beweis als wahr akzeptiert oder angenommen"],
+    "examples_de": [["Die Genehmigung für den Baubeginn wurde **erteilt**", "Das Gericht **gewährte** der Mutter das Sorgerecht für die Kinder"], ["Wir nehmen unsere Freiheiten oft als **selbstverständlich** hin, bis sie bedroht werden", "**Zugegeben**, dass er müde war, war sein Verhalten trotzdem inakzeptabel"]]
+  },
+  {
+    "lemma": "granular",
+    "meanings_de": ["aus Körnchen bestehend", "detailliert und spezifisch"],
+    "definitions_de": ["aus kleinen Körnern oder Partikeln bestehend oder so erscheinend", "durch feine Details gekennzeichnet oder in kleine, spezifische Komponenten aufgeteilt"],
+    "examples_de": [["Der **körnige** Zucker löste sich schnell im heißen Wasser auf", "Sandstein hat eine deutlich **granulare** Textur, die man fühlen kann"], ["Wir brauchen **detailliertere** Daten, um das Kundenverhalten zu verstehen", "Der Bericht lieferte eine **kleinteilige** Analyse der Leistung jeder Abteilung"]]
+  },
+  {
+    "lemma": "granulated",
+    "meanings_de": ["zu Körnchen geformt"],
+    "definitions_de": ["durch einen Herstellungs- oder natürlichen Prozess zu kleinen Körnern oder Partikeln geformt"],
+    "examples_de": [["Fügen Sie zwei Tassen **granulierten** Zucker zum Kuchenteig hinzu", "Der **gekörnte** Dünger verteilte sich gleichmäßig über den Rasen"]]
+  },
+  {
+    "lemma": "graphical",
+    "meanings_de": ["visuelle Darstellung betreffend", "Computergrafik betreffend"],
+    "definitions_de": ["sich auf visuelle Darstellung von Daten oder Informationen mittels Grafiken, Diagrammen oder Schaubildern beziehend", "sich auf Computergrafik oder visuelle Elemente in digitalen Oberflächen beziehend"],
+    "examples_de": [["Die **grafische** Darstellung machte die Datentrends leicht verständlich", "Die Schüler erstellten **grafische** Anzeigen für ihre Wissenschaftsprojekte"], ["Die Software bietet eine intuitive **grafische** Benutzeroberfläche", "Moderne Spiele erfordern leistungsstarke **Grafik**prozessoren"]]
+  },
+  {
+    "lemma": "grasping",
+    "meanings_de": ["gierig nach Gewinn", "greiffähig"],
+    "definitions_de": ["eifrig materiellen Gewinn oder Vorteil auf gierige, egoistische Weise suchend", "fähig, Dinge physisch zu greifen oder festzuhalten oder Konzepte zu verstehen"],
+    "examples_de": [["Seine **habgierige** Art machte ihn bei Kollegen unbeliebt", "Die **geldgierige** Vermieterin erhöhte die Miete bei jeder Gelegenheit"], ["Die **greifenden** Finger des Babys hielten sich fest an der Hand ihrer Mutter", "Sie hatte einen **begreifenden** Verstand, der komplexe Ideen schnell verstand"]]
+  },
+  {
+    "lemma": "grassroots",
+    "meanings_de": ["von der Basis ausgehend"],
+    "definitions_de": ["von gewöhnlichen Menschen ausgehend oder unterstützt, nicht von Führern oder Elitegruppen"],
+    "examples_de": [["Die **Basisbewegung** gewann landesweit Unterstützung", "Ihre **Graswurzelkampagne** stützte sich auf kleine Spenden vieler Unterstützer"]]
+  },
+  {
+    "lemma": "grassy",
+    "meanings_de": ["mit Gras bewachsen"],
+    "definitions_de": ["mit Gras bedeckt oder Gras enthaltend oder im Aussehen Gras ähnelnd"],
+    "examples_de": [["Kinder spielten auf dem **grasbewachsenen** Hügel hinter der Schule", "Die **grüne** Wiese war perfekt für das Sommerpicknick"]]
+  },
+  {
+    "lemma": "gratifying",
+    "meanings_de": ["Befriedigung oder Freude gebend"],
+    "definitions_de": ["Befriedigung, Freude oder ein Gefühl von Leistung und Erfüllung gebend"],
+    "examples_de": [["Lehren kann eine **befriedigende** Karriere sein, wenn Schüler Erfolg haben", "Es war **erfreulich** zu sehen, dass sich unsere harte Arbeit endlich auszahlte"]]
+  },
+  {
+    "lemma": "grating",
+    "meanings_de": ["rau und irritierend", "gitterartige Struktur"],
+    "definitions_de": ["rau, grob oder irritierend klingend, besonders für die Ohren oder Nerven", "aus einem Rahmen aus parallelen oder gekreuzten Stäben bestehend oder habend"],
+    "examples_de": [["Ihre **kratzige** Stimme machte die lange Vorlesung noch unerträglicher", "Das **kreischende** Geräusch von Metall auf Beton tat unseren Ohren weh"], ["Der **Gitterboden** ließ Wasser leicht abfließen", "Licht fiel durch die **vergitterten** Fenster des alten Gefängnisses"]]
+  },
+  {
+    "lemma": "gratis",
+    "meanings_de": ["kostenlos gegeben"],
+    "definitions_de": ["ohne Gebühr oder Bezahlung gegeben oder getan; kostenlos"],
+    "examples_de": [["Das Museum bietet am ersten Sonntag **kostenlosen** Eintritt", "Kaffee und Gebäck wurden auf der Konferenz **gratis** bereitgestellt"]]
+  },
+  {
+    "lemma": "gratuitous",
+    "meanings_de": ["unnötig und ungerechtfertigt", "kostenlos gegeben"],
+    "definitions_de": ["unnötig, unbegründet oder ohne guten Grund, oft übermäßig oder unangemessen", "kostenlos, ohne Bezahlung oder Verpflichtung gegeben oder getan"],
+    "examples_de": [["Der Film enthielt **unnötige** Gewalt, die nichts zur Handlung beitrug", "Seine **grundlosen** Beleidigungen verletzten ihre Gefühle ohne Grund"], ["Der Anwalt leistete der Wohltätigkeitsorganisation **unentgeltliche** Rechtsberatung", "Sie erhielten während ihrer Freiwilligenarbeit **kostenlose** Mahlzeiten"]]
+  },
+  {
+    "lemma": "gravelly",
+    "meanings_de": ["kleine Steine enthaltend", "rau und tief klingend"],
+    "definitions_de": ["Kies oder kleine Steine und Kiesel enthaltend oder damit bedeckt", "eine raue, tiefe Qualität habend wie das Geräusch von bewegtem Kies"],
+    "examples_de": [["Der **kiesige** Weg knirschte unter unseren Wanderstiefeln", "Wir hatten Mühe, auf der **schotterigen** Straße Fahrrad zu fahren"], ["Seine **raue** Stimme deutete auf jahrelanges Rauchen hin", "Der **kratzige** Ton des Sängers verlieh dem Blues-Song Authentizität"]]
+  },
+  {
+    "lemma": "gravitational",
+    "meanings_de": ["die Schwerkraft betreffend"],
+    "definitions_de": ["sich auf die Schwerkraft zwischen Objekten mit Masse beziehend oder daraus resultierend"],
+    "examples_de": [["Die **Anziehungskraft** des Mondes verursacht Gezeiten auf der Erde", "Wissenschaftler entdeckten **Gravitationswellen** von kollidierenden schwarzen Löchern"]]
+  }
+]

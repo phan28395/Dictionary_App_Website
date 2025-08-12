@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "haunting",
+    "meanings_de": ["unvergesslich eindringlich", "gespenstisch oder übernatürlich"],
+    "definitions_de": ["eine Qualität besitzend, die im Gedächtnis bleibt und starke Emotionen oder Erinnerungen wachruft, wobei die Eindrücke oft melancholisch oder bewegend sind", "auf die Anwesenheit von Geistern oder überirdischen Wesen hinweisend oder diese vermuten lassend"],
+    "examples_de": [["Die **eindringliche** Melodie des Films begleitete mich noch wochenlang", "Sie besaß eine **unvergessliche** Schönheit, die Fotografen faszinierte"], ["Die **gespenstische** Präsenz im alten Herrenhaus erschreckte die Besucher", "Sie hörten **unheimliche** Geräusche aus dem leeren Zimmer"]]
+  },
+  {
+    "lemma": "haywire",
+    "meanings_de": ["außer Kontrolle"],
+    "definitions_de": ["unberechenbar funktionierend oder nicht ordnungsgemäß arbeitend, sodass normale Abläufe gestört sind"],
+    "examples_de": [["Nach dem Update lief das Computersystem völlig **durcheinander**", "Seine Pläne gerieten komplett **außer Kontrolle**, als es zu regnen begann"]]
+  },
+  {
+    "lemma": "hazardous",
+    "meanings_de": ["gefährlich oder riskant"],
+    "definitions_de": ["ein Risiko für Schaden, Verletzung oder Gefahr darstellend oder diesem ausgesetzt"],
+    "examples_de": [["Die Fabrikarbeiter hantierten mit **gefährlichen** Chemikalien unter Verwendung von Schutzausrüstung", "Das Fahren bei Nebel kann **riskant** für Ihre Sicherheit sein"]]
+  },
+  {
+    "lemma": "hazel",
+    "meanings_de": ["hellgoldbraune Farbe"],
+    "definitions_de": ["von einer hellbraunen oder gelblich-braunen Farbe, besonders zur Beschreibung von Augen verwendet"],
+    "examples_de": [["Ihre wunderschönen **haselnussbraunen** Augen veränderten ihre Farbe bei unterschiedlichem Licht", "Er trug eine **haselnussfarbene** Jacke, die zu seinen Schuhen passte"]]
+  },
+  {
+    "lemma": "hazy",
+    "meanings_de": ["unklar oder neblig", "vage oder verschwommen"],
+    "definitions_de": ["von einem leichten Nebel oder Dunst bedeckt, der die Klarheit vermindert", "ohne bestimmte Form, Klarheit oder Präzision in Gedanken oder Erinnerungen"],
+    "examples_de": [["Der **neblige** Morgendunst bedeckte das Bergtal", "Wir konnten **verschwommene** Umrisse von Schiffen in der Ferne erkennen"], ["Meine Kindheitserinnerungen sind nach so langer Zeit ziemlich **vage**", "Sie gab nur **unklare** Details über den Vorfall preis"]]
+  },
+  {
+    "lemma": "headed",
+    "meanings_de": ["sich bewegend in Richtung", "einen Kopf habend"],
+    "definitions_de": ["unterwegs zu einem bestimmten Ort oder Ziel oder sich dorthin bewegend", "mit einer bestimmten Art oder Anzahl von Köpfen versehen, wie angegeben"],
+    "examples_de": [["Der **nordwärts fahrende** Zug wird an Gleis drei ankommen", "Wir sind **unterwegs** zum Strand für die Sommerferien"], ["Der **doppelköpfige** Adler ist ein berühmtes heraldisches Symbol", "Sie verwendete **bedrucktes** Briefpapier für offizielle Korrespondenz"]]
+  },
+  {
+    "lemma": "headless",
+    "meanings_de": ["ohne Kopf"],
+    "definitions_de": ["keinen Kopf besitzend durch Entfernung, Abwesenheit oder beabsichtigtes Design"],
+    "examples_de": [["Die **kopflose** Statue stand geheimnisvoll im Garten", "Sie entdeckten eine **kopflose** Schaufensterpuppe im Lagerraum"]]
+  },
+  {
+    "lemma": "headlong",
+    "meanings_de": ["mit dem Kopf voran", "hastig und rücksichtslos"],
+    "definitions_de": ["sich mit dem Kopf voraus in Eile oder beim Fallen bewegend", "schnell ohne sorgfältige Überlegung oder Berücksichtigung von Konsequenzen durchgeführt"],
+    "examples_de": [["Er stürzte in seiner Eile **kopfüber** die Treppe hinunter", "Das Kind sprang **kopfüber** in den Swimmingpool"], ["Sie stürzten sich **überstürzt** in die Ehe, ohne darüber nachzudenken", "Das Unternehmen traf eine **übereilte** Entscheidung zur Expansion ins Ausland"]]
+  },
+  {
+    "lemma": "headstrong",
+    "meanings_de": ["stur eigenwillig"],
+    "definitions_de": ["entschlossen, den eigenen Willen durchzusetzen, ungeachtet von Ratschlägen oder Vernunft"],
+    "examples_de": [["Der **eigensinnige** Teenager weigerte sich, auf ihre Eltern zu hören", "Seine **starrköpfige** Art brachte ihn oft in Schwierigkeiten"]]
+  },
+  {
+    "lemma": "heady",
+    "meanings_de": ["berauschend oder aufregend", "den Verstand beeinflussend"],
+    "definitions_de": ["eine starke Wirkung auf die Sinne oder Emotionen ausübend auf eine aufregende Weise", "dazu neigend, Schwindel zu verursachen oder die geistige Klarheit zu beeinträchtigen"],
+    "examples_de": [["Das **berauschende** Parfüm erfüllte den ganzen Raum mit Duft", "Der Erfolg brachte ein **berauschendes** Gefühl der Erfüllung"], ["Der **schwere** Wein machte alle schnell benommen", "Sie genossen die **berauschende** Atmosphäre des Jazzclubs"]]
+  },
+  {
+    "lemma": "healed",
+    "meanings_de": ["wiederhergestellt zur Gesundheit"],
+    "definitions_de": ["von Verletzung, Krankheit oder emotionalem Schaden genesen oder erholt"],
+    "examples_de": [["Seine **geheilten** Wunden hinterließen nur schwache Narben", "Die **wiederhergestellte** Beziehung zwischen ihnen wurde stärker als zuvor"]]
+  },
+  {
+    "lemma": "healing",
+    "meanings_de": ["Genesung fördernd"],
+    "definitions_de": ["die Fähigkeit besitzend, Gesundheit oder Ganzheit für Körper oder Geist wiederherzustellen"],
+    "examples_de": [["Die **heilenden** Eigenschaften von Kräutern sind seit Jahrhunderten bekannt", "Sie fand, dass der Bergurlaub eine **heilsame** Atmosphäre hatte"]]
+  },
+  {
+    "lemma": "healthful",
+    "meanings_de": ["gesundheitsfördernd"],
+    "definitions_de": ["förderlich für oder unterstützend von körperlicher oder geistiger Gesundheit und Wohlbefinden"],
+    "examples_de": [["Sie wählten **gesunde** Snacks anstelle von verarbeiteten Lebensmitteln", "Regelmäßige Bewegung ist eine **gesundheitsfördernde** Gewohnheit, die jeder entwickeln sollte"]]
+  },
+  {
+    "lemma": "healthier",
+    "meanings_de": ["gesünder"],
+    "definitions_de": ["in besserer Gesundheit befindlich oder förderlicher für die Gesundheit als etwas anderes"],
+    "examples_de": [["Sie fühlt sich nach der Ernährungsumstellung viel **gesünder**", "Frisches Gemüse ist **gesünder** als Konserven"]]
+  },
+  {
+    "lemma": "heard",
+    "meanings_de": ["mit dem Ohr wahrgenommen"],
+    "definitions_de": ["durch den Hörsinn wahrgenommen oder erfahren"],
+    "examples_de": [["Die **gehörte** Aussage überzeugte die Jury von seiner Unschuld", "Ihre **vernommenen** Beschwerden führten zu Änderungen in der Firmenpolitik"]]
+  },
+  {
+    "lemma": "hearsay",
+    "meanings_de": ["auf Gerüchten basierend"],
+    "definitions_de": ["auf dem beruhend, was andere gesagt haben, anstatt auf direktem Wissen oder Beweisen"],
+    "examples_de": [["Der Richter wies die **auf Hörensagen beruhenden** Beweise aus dem Prozess zurück", "Glauben Sie keine **unbestätigten** Geschichten, ohne die Fakten zu überprüfen"]]
+  },
+  {
+    "lemma": "heartbreaking",
+    "meanings_de": ["extreme Traurigkeit verursachend"],
+    "definitions_de": ["überwältigende Traurigkeit, Kummer oder Enttäuschung verursachend, die einen tief berührt"],
+    "examples_de": [["Die **herzzerreißenden** Nachrichten über den Unfall schockierten die Gemeinde", "Es war **herzzerreißend**, die verlassenen Welpen zu sehen"]]
+  },
+  {
+    "lemma": "heartbroken",
+    "meanings_de": ["von Kummer überwältigt"],
+    "definitions_de": ["unter überwältigender Traurigkeit leidend, besonders durch Verlust oder Enttäuschung"],
+    "examples_de": [["Sie war **untröstlich**, als ihre beste Freundin wegzog", "Die **tieftraurige** Witwe konnte bei der Beerdigung nicht aufhören zu weinen"]]
+  },
+  {
+    "lemma": "heartfelt",
+    "meanings_de": ["tief aufrichtig"],
+    "definitions_de": ["echtes Gefühl oder aufrichtige Emotion vom Herzen kommend ausdrückend"],
+    "examples_de": [["Er sprach eine **aufrichtige** Entschuldigung für seine Fehler aus", "Die **herzliche** Würdigung brachte allen Tränen in die Augen"]]
+  },
+  {
+    "lemma": "heartless",
+    "meanings_de": ["ohne Mitgefühl"],
+    "definitions_de": ["kein Mitgefühl, keine Freundlichkeit oder kein Gefühl für andere zeigend"],
+    "examples_de": [["Der **herzlose** Vermieter setzte die Familie im Winter vor die Tür", "Es war **gefühllos**, die Bitte des Obdachlosen zu ignorieren"]]
+  },
+  {
+    "lemma": "heartwarming",
+    "meanings_de": ["emotional erhebend"],
+    "definitions_de": ["Gefühle von Glück, Freude und emotionaler Wärme hervorrufend"],
+    "examples_de": [["Die **herzerwärmende** Wiedervereinigung des verlorenen Hundes mit seinem Besitzer ging viral", "Sie erzählte eine **rührende** Geschichte über die Hilfe für Fremde"]]
+  },
+  {
+    "lemma": "hearty",
+    "meanings_de": ["enthusiastisch und warm", "substanziell und nahrhaft"],
+    "definitions_de": ["warme und uneingeschränkte Freundlichkeit oder Begeisterung zeigend", "reichlich Nahrung bietend oder befriedigend groß seiend"],
+    "examples_de": [["Er bereitete uns einen **herzlichen** Empfang, als wir ankamen", "Das Team erhielt **herzliche** Glückwünsche für ihren Sieg"], ["Sie servierten ein **kräftiges** Frühstück zum Start in den Tag", "Die **deftige** Suppe wärmte uns in der kalten Nacht"]]
+  },
+  {
+    "lemma": "heated",
+    "meanings_de": ["erwärmt", "intensiv emotional"],
+    "definitions_de": ["auf eine hohe Temperatur gebracht oder warm gemacht", "von starken Gefühlen, Wut oder leidenschaftlicher Meinungsverschiedenheit geprägt"],
+    "examples_de": [["Der **beheizte** Pool war perfekt zum Schwimmen im Winter", "Sie servierte **erwärmte** Handtücher den Spa-Gästen"], ["Sie hatten gestern Abend einen **hitzigen** Streit über Politik", "Die **erhitzte** Debatte dauerte stundenlang ohne Lösung"]]
+  },
+  {
+    "lemma": "heathen",
+    "meanings_de": ["unzivilisiert oder unreligiös"],
+    "definitions_de": ["nach einem bestimmten Standpunkt Kultur, moralische Prinzipien oder religiöse Überzeugungen vermissen lassend"],
+    "examples_de": [["Die Missionare betrachteten die Bräuche des abgelegenen Stammes als **heidnisch**", "Sein **gottloses** Verhalten schockierte die konservative Gemeinde"]]
+  },
+  {
+    "lemma": "heavenly",
+    "meanings_de": ["göttlicher Natur", "äußerst angenehm"],
+    "definitions_de": ["sich auf den Himmel oder das göttliche Reich in religiösen Kontexten beziehend", "großes Vergnügen bereitend oder wunderbar genussvoll seiend"],
+    "examples_de": [["Der Chor sang **himmlische** Hymnen während des Gottesdienstes", "Alte Texte beschreiben **himmlische** Wesen, die die Erde besuchen"], ["Der Schokoladenkuchen schmeckte absolut **himmlisch**", "Sie verbrachten eine **paradiesische** Woche im Strandresort"]]
+  },
+  {
+    "lemma": "hectic",
+    "meanings_de": ["sehr beschäftigt"],
+    "definitions_de": ["voller hektischer Aktivität, Verwirrung oder Aufregung"],
+    "examples_de": [["Montagmorgen im Büro sind immer **hektisch**", "Sie hatte einen **stressigen** Zeitplan mit aufeinanderfolgenden Besprechungen"]]
+  },
+  {
+    "lemma": "hedonistic",
+    "meanings_de": ["vergnügungssüchtig"],
+    "definitions_de": ["dem Streben nach Vergnügen und Selbstbefriedigung als Lebensweise gewidmet"],
+    "examples_de": [["Sein **hedonistischer** Lebensstil umfasste teure Autos und Partys", "Das Resort bediente **genusssüchtige** Touristen, die Luxus suchten"]]
+  },
+  {
+    "lemma": "hefty",
+    "meanings_de": ["groß und schwer", "beträchtlich im Ausmaß"],
+    "definitions_de": ["erhebliches Gewicht oder Volumen habend, das Anstrengung zum Bewegen erfordert", "beeindruckend groß in Größe, Menge oder Umfang"],
+    "examples_de": [["Die Umzugshelfer kämpften mit dem **schweren** Sofa die Treppe hinauf", "Er trug einen **massiven** Rucksack auf der Wanderung"], ["Sie zahlten einen **stattlichen** Preis für das Grundstück am Wasser", "Das Unternehmen sah sich **erheblichen** Geldstrafen für Umweltverstöße gegenüber"]]
+  },
+  {
+    "lemma": "heightening",
+    "meanings_de": ["steigernd oder intensivierend"],
+    "definitions_de": ["intensiver, bewusster oder prominenter machend oder werdend"],
+    "examples_de": [["Die **zunehmende** Spannung im Raum machte alle nervös", "Musik spielte eine **steigernde** Rolle im Drama des Films"]]
+  },
+  {
+    "lemma": "heinous",
+    "meanings_de": ["äußerst abscheulich"],
+    "definitions_de": ["schockierend böse oder verwerflich, starke Verurteilung verdienend"],
+    "examples_de": [["Das **abscheuliche** Verbrechen schockierte die ganze Nation", "Solche **grausamen** Gewalttaten können nicht toleriert werden"]]
+  },
+  {
+    "lemma": "held",
+    "meanings_de": ["ergriffen oder gestützt", "organisiert oder durchgeführt"],
+    "definitions_de": ["in Position gehalten durch Ergreifen oder Stützen mit Händen oder Armen", "arrangiert, durchgeführt oder als Veranstaltung stattfindend"],
+    "examples_de": [["Das **zurückgehaltene** Paket konnte nicht ohne Unterschrift zugestellt werden", "Sie behielt die **gehaltene** Position mehrere Minuten lang bei"], ["Die **abgehaltene** Konferenz zog Tausende von Teilnehmern an", "Alle **durchgeführten** Meetings müssen zur Compliance aufgezeichnet werden"]]
+  },
+  {
+    "lemma": "helical",
+    "meanings_de": ["spiralförmig"],
+    "definitions_de": ["die Form oder Gestalt einer Helix oder Spirale habend"],
+    "examples_de": [["DNA hat eine berühmte **spiralförmige** Struktur aus Doppelsträngen", "Die **gewundene** Treppe wand sich elegant durch den Turm"]]
+  },
+  {
+    "lemma": "heliocentric",
+    "meanings_de": ["sonnenzentriert"],
+    "definitions_de": ["die Sonne als Zentrum habend oder darstellend, besonders des Sonnensystems"],
+    "examples_de": [["Kopernikus schlug das **heliozentrische** Modell unseres Sonnensystems vor", "Die **heliozentrische** Theorie revolutionierte das astronomische Verständnis"]]
+  },
+  {
+    "lemma": "hellish",
+    "meanings_de": ["extrem unangenehm"],
+    "definitions_de": ["der Hölle ähnelnd oder diese nahelegend durch extreme Unannehmlichkeit, Schwierigkeit oder Schmerz"],
+    "examples_de": [["Der **höllische** Verkehr ließ das Pendeln drei Stunden dauern", "Sie ertrugen **infernalische** Bedingungen während des Bergsturms"]]
+  },
+  {
+    "lemma": "helmeted",
+    "meanings_de": ["einen Helm tragend"],
+    "definitions_de": ["den Kopf mit einem Helm geschützt oder bedeckt habend"],
+    "examples_de": [["Der **behelmte** Motorradfahrer fuhr sicher durch den dichten Verkehr", "Alle **behelmten** Spieler betraten das Feld zum Training"]]
+  },
+  {
+    "lemma": "helpless",
+    "meanings_de": ["unfähig sich selbst zu helfen"],
+    "definitions_de": ["die Fähigkeit vermissen lassend, ohne Hilfe zu handeln oder sich selbst zu helfen"],
+    "examples_de": [["Die Vogeljungen waren **hilflos** ohne ihre Mutter", "Sie fühlte sich **machtlos**, als sie zusah, wie die Flut Häuser zerstörte"]]
+  },
+  {
+    "lemma": "hemispheric",
+    "meanings_de": ["die Hemisphäre betreffend"],
+    "definitions_de": ["sich auf die Hälfte einer Kugel beziehend, besonders die Hälfte der Erde"],
+    "examples_de": [["Klimamuster zeigen deutliche **hemisphärische** Unterschiede zwischen Nord und Süd", "Die Konferenz behandelte **hemisphärische** Zusammenarbeit zwischen Nationen"]]
+  },
+  {
+    "lemma": "hemispherical",
+    "meanings_de": ["halbkugelförmig"],
+    "definitions_de": ["die Form oder Gestalt einer halben Kugel habend"],
+    "examples_de": [["Die **halbkugelförmige** Kuppel bedeckte das Stadion perfekt", "Sie installierten **hemisphärische** Sicherheitskameras für bessere Abdeckung"]]
+  },
+  {
+    "lemma": "heralded",
+    "meanings_de": ["angekündigt oder gefeiert"],
+    "definitions_de": ["öffentlich angekündigt, verkündet oder als bedeutsam gepriesen"],
+    "examples_de": [["Die **gefeierte** Entdeckung veränderte unser Verständnis der Physik", "Kritiker priesen den Film als den **angekündigten** Besten des Jahres"]]
+  },
+  {
+    "lemma": "heraldic",
+    "meanings_de": ["die Heraldik betreffend"],
+    "definitions_de": ["sich auf das System der Wappen und heraldischen Symbole beziehend"],
+    "examples_de": [["Das Schloss zeigte verschiedene **heraldische** Schilde an seinen Wänden", "Sie studierte **heraldische** Traditionen mittelalterlicher europäischer Familien"]]
+  },
+  {
+    "lemma": "herbaceous",
+    "meanings_de": ["weiche Stängel habend"],
+    "definitions_de": ["Pflanzen bezeichnend mit weichen, grünen Stängeln anstatt holzigen, die jährlich absterben"],
+    "examples_de": [["Der Garten enthielt viele **krautige** Stauden, die jeden Frühling blühen", "**Staudenbeete** erfordern regelmäßige Pflege und Teilung"]]
+  },
+  {
+    "lemma": "herbal",
+    "meanings_de": ["Kräuter betreffend"],
+    "definitions_de": ["sich auf Pflanzen beziehend oder aus diesen hergestellt, die für Medizin, Würze oder Duft verwendet werden"],
+    "examples_de": [["Sie bevorzugte **Kräutertee** gegenüber normalem Kaffee", "Das Geschäft spezialisierte sich auf **pflanzliche** Heilmittel und Nahrungsergänzungsmittel"]]
+  },
+  {
+    "lemma": "herbivorous",
+    "meanings_de": ["pflanzenfressend"],
+    "definitions_de": ["sich nur von Pflanzen ernährend anstatt von Fleisch"],
+    "examples_de": [["Kühe sind **pflanzenfressende** Tiere, die auf Gras weiden", "Die **herbivoren** Dinosaurier hatten spezielle Zähne zum Mahlen von Pflanzen"]]
+  },
+  {
+    "lemma": "hereditary",
+    "meanings_de": ["genetisch vererbt", "durch Nachfolge weitergegeben"],
+    "definitions_de": ["von Eltern auf Nachkommen durch Gene übertragen", "durch gesetzliches Recht von einer Generation zur nächsten weitergegeben"],
+    "examples_de": [["Einige Krankheiten sind **erblich** und kommen in Familien vor", "Sie entdeckten **vererbbare** Merkmale in der Pflanzenart"], ["Der **erbliche** Titel ging an den ältesten Sohn über", "Viele Monarchien haben **erbliche** Nachfolgesysteme"]]
+  },
+  {
+    "lemma": "heretical",
+    "meanings_de": ["gegen akzeptierte Überzeugungen"],
+    "definitions_de": ["Meinungen vertretend, die der akzeptierten Lehre widersprechen, besonders religiöser Lehre"],
+    "examples_de": [["Seine **ketzerischen** Ansichten führten zu seinem Ausschluss aus der Kirche", "Die **häretische** Theorie des Wissenschaftlers forderte die konventionelle Weisheit heraus"]]
+  },
+  {
+    "lemma": "heritable",
+    "meanings_de": ["vererbungsfähig"],
+    "definitions_de": ["fähig, vererbt oder von Eltern auf Nachkommen übertragen zu werden"],
+    "examples_de": [["Intelligenz scheint einige **vererbbare** Komponenten zu haben", "Das Anwesen umfasste verschiedene **vererbbare** Vermögenswerte und Grundstücke"]]
+  },
+  {
+    "lemma": "hermaphrodite",
+    "meanings_de": ["beide Geschlechter habend"],
+    "definitions_de": ["sowohl männliche als auch weibliche Fortpflanzungsorgane oder Merkmale besitzend"],
+    "examples_de": [["Einige **zwittrige** Pflanzen können sich ohne andere Pflanzen selbst bestäuben", "Der **hermaphroditische** Regenwurm hat Fortpflanzungsorgane beider Geschlechter"]]
+  },
+  {
+    "lemma": "hermetic",
+    "meanings_de": ["luftdicht", "esoterisch oder okkult"],
+    "definitions_de": ["vollständig versiegelt, um das Eindringen oder Entweichen von Luft oder Gas zu verhindern", "sich auf alte mystische oder alchemistische Schriften beziehend, die schwer zu verstehen sind"],
+    "examples_de": [["Die **hermetische** Versiegelung hielt das Essen monatelang frisch", "Sie lagerten Chemikalien in **luftdichten** Behältern zur Sicherheit"], ["Er studierte **hermetische** Texte über alte spirituelle Praktiken", "Die **hermetische** Philosophie beeinflusste viele Renaissance-Denker"]]
+  },
+  {
+    "lemma": "heroic",
+    "meanings_de": ["großen Mut zeigend"],
+    "definitions_de": ["extremen Mut, Entschlossenheit oder Fähigkeit zeigend, die von anderen bewundert wird"],
+    "examples_de": [["Die **heldenhaften** Taten des Feuerwehrmanns retteten drei Kinder", "Sie unternahm eine **heroische** Anstrengung, den Marathon zu beenden"]]
+  },
+  {
+    "lemma": "hesitant",
+    "meanings_de": ["zögerlich zu handeln"],
+    "definitions_de": ["Zurückhaltung oder Unentschlossenheit zeigend, bevor man handelt oder spricht"],
+    "examples_de": [["Sie war **zögerlich**, das Jobangebot sofort anzunehmen", "Seine **zaudernde** Art deutete darauf hin, dass er etwas verbarg"]]
+  }
+]

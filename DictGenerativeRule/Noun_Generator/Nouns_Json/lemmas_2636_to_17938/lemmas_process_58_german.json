@@ -1,0 +1,272 @@
+[
+  {
+    "lemma": "drapery",
+    "meanings_de": ["hängende Stoffdekoration"],
+    "definitions_de": ["Stoff, der in losen Falten als Dekoration für Wände oder Fenster aufgehängt wird"],
+    "examples_de": [["Schwere Samt**vorhänge** bedeckten die Theaterbühne vollständig", "Die **Drapierung** in der Hotellobby schafft eine elegante Atmosphäre"]]
+  },
+  {
+    "lemma": "draught",
+    "meanings_de": ["Luftzug", "Flüssigkeitsportion", "Brettspiel"],
+    "definitions_de": ["Luftstrom, der durch einen geschlossenen Raum fließt", "Flüssigkeitsmenge, die in einem Zug getrunken wird", "britische Bezeichnung für das Brettspiel Dame"],
+    "examples_de": [["Ein kalter **Luftzug** kam durch das schlecht abgedichtete Fenster", "Der **Zug** von der Tür ließ die Kerze flackern"], ["Er trank die Medizin in einem einzigen **Schluck**", "Der Ritter nahm einen langen **Zug** aus seiner Wasserflasche"], ["Sie verbrachten den Abend mit **Dame**spielen im Pub", "Das britische **Damespiel** verwendet dasselbe Brett wie das amerikanische Checkers"]]
+  },
+  {
+    "lemma": "draughtsman",
+    "meanings_de": ["technischer Zeichner", "Spielstein"],
+    "definitions_de": ["Person, die detaillierte technische Pläne und Zeichnungen für Gebäude oder Maschinen erstellt", "Spielstein, der beim Brettspiel Dame verwendet wird"],
+    "examples_de": [["Der **technische Zeichner** erstellte präzise Baupläne für die neue Brücke", "Sie arbeitete als **Zeichnerin** für ein Ingenieurbüro"], ["Er zog seinen **Damestein** diagonal über das karierte Brett", "Jeder Spieler beginnt mit zwölf **Spielsteinen** im Spiel"]]
+  },
+  {
+    "lemma": "drawback",
+    "meanings_de": ["Nachteil oder Problem"],
+    "definitions_de": ["Eigenschaft, die etwas weniger akzeptabel oder wünschenswert macht, als es sonst wäre"],
+    "examples_de": [["Der Haupt**nachteil** der Wohnung ist ihre Entfernung zur Arbeit", "Hohe Wartungskosten sind ein erheblicher **Nachteil** von Luxusautos"]]
+  },
+  {
+    "lemma": "drawbridge",
+    "meanings_de": ["beweglicher Brückenteil"],
+    "definitions_de": ["Brücke, die angehoben werden kann, um Schiffen die Durchfahrt zu ermöglichen oder den Zugang zu verhindern"],
+    "examples_de": [["Die **Zugbrücke** der Burg wurde jede Nacht aus Sicherheitsgründen hochgezogen", "Moderne **Klappbrücken** verwenden hydraulische Systeme zum Anheben der Fahrbahn"]]
+  },
+  {
+    "lemma": "dread",
+    "meanings_de": ["intensives Angstgefühl"],
+    "definitions_de": ["extreme Furcht oder Besorgnis über etwas, das in der Zukunft geschehen könnte"],
+    "examples_de": [["Sie empfand ein Gefühl der **Furcht** vor der wichtigen Prüfung", "Die **Angst** vor öffentlichen Reden hinderte ihn daran, Beförderungen anzunehmen"]]
+  },
+  {
+    "lemma": "dreamer",
+    "meanings_de": ["fantasievolle Person", "schlafende Person"],
+    "definitions_de": ["Person mit ehrgeizigen Plänen, der aber möglicherweise praktische Fähigkeiten zur Umsetzung fehlen", "Person, die während des Schlafs Träume erlebt"],
+    "examples_de": [["Er ist ein **Träumer**, der glaubt, eines Tages ein berühmter Künstler zu werden", "Der **Visionär** verbrachte Stunden damit, sich fantastische Geschäftsideen auszudenken"], ["Der unruhige **Träumende** wälzte sich die ganze Nacht hin und her", "Wissenschaftler untersuchen die Gehirnaktivität von **Träumenden** während der REM-Phase"]]
+  },
+  {
+    "lemma": "dreaming",
+    "meanings_de": ["mentale Bildaktivität", "Wunschdenken"],
+    "definitions_de": ["Erleben von Gedanken und Bildern während des Schlafs", "Hingabe an Tagträume oder unrealistische Hoffnungen"],
+    "examples_de": [["Ihr **Träumen** war voller lebendiger Farben und seltsamer Landschaften", "Luzides **Träumen** ermöglicht es Menschen, ihre Traumerfahrungen zu kontrollieren"], ["Hör auf zu **träumen** und konzentriere dich auf realistische Karriereziele", "Sein ständiges **Träumen** vom Ruhm lenkte ihn von der tatsächlichen Arbeit ab"]]
+  },
+  {
+    "lemma": "dreamland",
+    "meanings_de": ["Schlafzustand", "Fantasieort"],
+    "definitions_de": ["Zustand des Schlafens und Träumens", "imaginärer perfekter Ort, der nur in Träumen oder der Vorstellung existiert"],
+    "examples_de": [["Das Baby glitt nach ihrem Schlaflied ins **Traumland**", "Es dauerte Stunden, bis er gestern Nacht ins **Reich der Träume** gelangte"], ["Ihr Geschäftsplan klingt wie etwas aus dem **Wolkenkuckucksheim**, nicht aus der Realität", "Der Freizeitpark schuf ein magisches **Traumland** für Kinder"]]
+  },
+  {
+    "lemma": "dreamworld",
+    "meanings_de": ["imaginärer Idealort"],
+    "definitions_de": ["Fantasieumgebung in der Vorstellung, wo alles perfekt oder surreal ist"],
+    "examples_de": [["Sie lebte in einer **Traumwelt**, in der Geld nie ein Problem war", "Die Gemälde des Künstlers zeigten eine farbenfrohe **Fantasiewelt** mit unmöglichen Landschaften"]]
+  },
+  {
+    "lemma": "dredge",
+    "meanings_de": ["Baggermaschine", "Küchenutensil"],
+    "definitions_de": ["Maschine zum Entfernen von Schlamm und Ablagerungen vom Grund von Flüssen oder Häfen", "Behälter mit perforiertem Deckel zum Bestreuen mit Mehl oder Zucker"],
+    "examples_de": [["Der Hafen**bagger** arbeitete kontinuierlich, um die Schifffahrtsrinnen freizuhalten", "Sie brachten einen riesigen **Schwimmbagger** zur Reinigung des verschmutzten Flusses"], ["Verwenden Sie den **Streuer**, um Puderzucker über das Gebäck zu stäuben", "Der Koch hielt einen **Mehlstreuer** mit gewürztem Mehl bereit"]]
+  },
+  {
+    "lemma": "dressage",
+    "meanings_de": ["Pferdeausbildungsdisziplin"],
+    "definitions_de": ["Reitsportwettbewerb, bei dem Pferde präzise Bewegungen als Reaktion auf subtile Reiterkommandos ausführen"],
+    "examples_de": [["Sie nahm an der **Dressur** bei den internationalen Reitmeisterschaften teil", "**Dressurreiten** erfordert jahrelanges Training für Pferd und Reiter"]]
+  },
+  {
+    "lemma": "dresser",
+    "meanings_de": ["Schlafzimmermöbel", "Person die kleidet"],
+    "definitions_de": ["Kommode mit Schubladen, die typischerweise zur Aufbewahrung von Kleidung in Schlafzimmern verwendet wird", "Person, die Schauspielern bei Kostümen hilft oder jemandem beim Ankleiden assistiert"],
+    "examples_de": [["Die antike **Kommode** hatte sechs geräumige Schubladen zur Kleideraufbewahrung", "Sie stellte Familienfotos auf ihre Schlafzimmer**kommode**"], ["Die Theater**garderobiere** half den Schauspielern bei schnellen Kostümwechseln", "Als professionelle **Stylistin** kleidete sie Prominente für Veranstaltungen ein"]]
+  },
+  {
+    "lemma": "dressing",
+    "meanings_de": ["Salatsauce", "Wundabdeckung", "Ankleideprozess"],
+    "definitions_de": ["Sauce oder Würzmischung für Salate oder andere Speisen", "sterile Abdeckung für Wunden zum Schutz und zur Förderung der Heilung", "Vorgang des Anziehens von Kleidung"],
+    "examples_de": [["Sie machte hausgemachtes Ranch-**Dressing** für den Gartensalat", "Das Caesar-**Dressing** enthält Sardellen, Knoblauch und Parmesankäse"], ["Die Krankenschwester wechselte täglich den **Verband** seiner Operationswunde", "Tragen Sie antibiotische Salbe auf, bevor Sie einen sauberen **Verband** anlegen"], ["Das morgendliche **Ankleiden** dauert bei ihr mindestens dreißig Minuten", "Das **Einkleiden** der Braut erforderte drei Assistentinnen"]]
+  },
+  {
+    "lemma": "dressmaker",
+    "meanings_de": ["Bekleidungsdesignerin"],
+    "definitions_de": ["Person, die beruflich Damenbekleidung, insbesondere Kleider, entwirft und anfertigt"],
+    "examples_de": [["Die **Schneiderin** fertigte ein maßgeschneidertes Hochzeitskleid für die Braut an", "Sie machte eine Lehre bei einer renommierten **Modistin** in Paris"]]
+  },
+  {
+    "lemma": "dressmaking",
+    "meanings_de": ["Kleidungsanfertigungshandwerk"],
+    "definitions_de": ["Beruf oder Hobby des Entwerfens und Anfertigens von Damenbekleidung, insbesondere Kleidern"],
+    "examples_de": [["Sie lernte das **Schneiderhandwerk** von ihrer Großmutter, die Näherin war", "Die **Schneiderei** erfordert Fähigkeiten im Schnittmusterschneiden, Nähen und Anpassen"]]
+  },
+  {
+    "lemma": "dribble",
+    "meanings_de": ["Flüssigkeitstropfen", "Ballkontrolltechnik"],
+    "definitions_de": ["kleine Flüssigkeitsmenge, die langsam in Tropfen oder dünnem Strahl fällt", "Basketball- oder Fußballtechnik des Prellens oder Kontrollierens des Balls während der Bewegung"],
+    "examples_de": [["Ein **Rinnsal** Honig lief an der Seite des Glases herunter", "Der **Speichel** des Babys befleckte die Vorderseite ihres Lätzchens"], ["Sein **Dribbling** durch drei Verteidiger führte zu einem einfachen Korb", "Üben Sie Ihr **Dribbeln**, um die Ballbehandlung zu verbessern"]]
+  },
+  {
+    "lemma": "dribbling",
+    "meanings_de": ["Flüssigkeitstropfen", "Sport-Ballkontrolle"],
+    "definitions_de": ["Vorgang des langsamen Fallens von Flüssigkeit in Tropfen oder kleinen Mengen", "kontinuierliche Ballkontrolle während der Bewegung im Basketball oder Fußball"],
+    "examples_de": [["Das **Tropfen** des Wassers aus dem Wasserhahn hielt ihn wach", "Ständiges **Tröpfeln** vom Dach deutete auf ein ernstes Leck hin"], ["Ihre **Dribbelkünste** machten sie zur besten Spielmacherin des Teams", "Effektives **Dribbeln** erfordert Koordination zwischen Händen und Füßen"]]
+  },
+  {
+    "lemma": "drier",
+    "meanings_de": ["Trocknungsgerät", "Trocknungssubstanz"],
+    "definitions_de": ["Maschine oder Gerät zum Entfernen von Feuchtigkeit aus Kleidung oder Haaren", "Substanz, die Farbe oder Lack zugesetzt wird, um den Trocknungsprozess zu beschleunigen"],
+    "examples_de": [["Der Wäsche**trockner** ging während der Regenzeit kaputt", "Ihr Haar**trockner** hat mehrere Hitze- und Geschwindigkeitsstufen"], ["Fügen Sie **Sikkativ** zur Ölfarbe hinzu, um die Trocknungszeit zu verkürzen", "Die Möbelpolitur enthält ein schnell wirkendes **Trocknungsmittel**"]]
+  },
+  {
+    "lemma": "drifter",
+    "meanings_de": ["umherziehende Person"],
+    "definitions_de": ["Person, die ohne festen Wohnsitz oder regelmäßige Beschäftigung von Ort zu Ort zieht"],
+    "examples_de": [["Der **Landstreicher** arbeitete in jeder Stadt, die er durchquerte, Gelegenheitsjobs", "Viele **Wanderarbeiter** kamen während der Touristensaison in die Küstenstadt"]]
+  },
+  {
+    "lemma": "drifting",
+    "meanings_de": ["zielloses Bewegen"],
+    "definitions_de": ["allmähliche Bewegung von einem Ort zum anderen ohne bestimmte Richtung oder Zweck"],
+    "examples_de": [["Das **Treiben** des Bootes beunruhigte die Küstenwache", "Sein **Umherziehen** von Job zu Job besorgte seine Eltern"]]
+  },
+  {
+    "lemma": "driftwood",
+    "meanings_de": ["Strandholz-Treibgut"],
+    "definitions_de": ["Holzstücke, die nach dem Treiben im Wasser von Wellen oder Gezeiten an Land gespült wurden"],
+    "examples_de": [["Sie sammelte **Treibholz**, um rustikale Bilderrahmen zu gestalten", "Der Strand war nach dem Sturm mit **Schwemmholz** übersät"]]
+  },
+  {
+    "lemma": "drilling",
+    "meanings_de": ["Bohrvorgang", "wiederholtes Üben"],
+    "definitions_de": ["Prozess des Herstellens von Löchern in Materialien mit rotierenden Schneidwerkzeugen", "intensive wiederholte Übungen oder Trainingseinheiten"],
+    "examples_de": [["Die **Bohrung** nach Öl ging die ganze Nacht weiter", "Präzisions**bohren** erfordert Spezialausrüstung und qualifizierte Bediener"], ["Tägliches **Einüben** des Einmaleins verbesserte die Mathematikkenntnisse der Schüler", "Militärisches **Exerzieren** vermittelt Disziplin und koordinierte Bewegung"]]
+  },
+  {
+    "lemma": "drinker",
+    "meanings_de": ["trinkende Person", "Trinkvorrichtung"],
+    "definitions_de": ["Person, die Getränke konsumiert, insbesondere regelmäßig alkoholische", "Behälter oder Vorrichtung, aus der Tiere Wasser trinken können"],
+    "examples_de": [["Er war ein starker **Trinker**, der jeden Abend die Bar besuchte", "Kaffee**trinker** bevorzugen oft ihr Morgengetränk sehr heiß"], ["Füllen Sie die Hühner**tränke** jeden Morgen mit frischem Wasser", "Die automatische **Tränke** stellt sicher, dass Haustiere ständig Wasser haben"]]
+  },
+  {
+    "lemma": "drip",
+    "meanings_de": ["fallender Flüssigkeitstropfen", "medizinisches Gerät"],
+    "definitions_de": ["einzelner Tropfen Flüssigkeit, der fällt oder fallen will", "intravenöse Vorrichtung zur langsamen Verabreichung von Flüssigkeiten oder Medikamenten"],
+    "examples_de": [["Ein **Tropfen** Farbe fiel auf den frisch gereinigten Boden", "Das ständige **Tropfen** aus dem Wasserhahn war störend"], ["Der Patient erhielt Antibiotika über einen **Infusionstropf**", "Krankenschwestern überwachten die **Tropfgeschwindigkeit** während des Eingriffs"]]
+  },
+  {
+    "lemma": "dripping",
+    "meanings_de": ["fallende Flüssigkeit", "Bratenfett"],
+    "definitions_de": ["kontinuierliches Fallen von Flüssigkeit in Tropfen", "Fett, das beim Braten von Fleisch abtropft und zum Kochen verwendet wird"],
+    "examples_de": [["Das **Tropfen** aus dem kaputten Rohr beschädigte die Decke", "Ständiges **Tröpfeln** von Wasser kann festen Fels erodieren"], ["Bewahren Sie das Rinder**schmalz** für die Zubereitung von Yorkshire Pudding auf", "In **Schmalz** gebratenes Brot war ein traditionelles Frühstück"]]
+  },
+  {
+    "lemma": "driveshaft",
+    "meanings_de": ["Fahrzeug-Antriebskomponente"],
+    "definitions_de": ["rotierende Welle, die in Fahrzeugen Kraft vom Motor auf die Räder überträgt"],
+    "examples_de": [["Der Mechaniker ersetzte die beschädigte **Antriebswelle** im Lastwagen", "Eine gebrochene **Kardanwelle** ließ das Auto auf der Autobahn liegen"]]
+  },
+  {
+    "lemma": "driveway",
+    "meanings_de": ["privater Fahrzeugweg"],
+    "definitions_de": ["private Straße, die von der Straße zum Haus oder zur Garage für den Fahrzeugzugang führt"],
+    "examples_de": [["Parken Sie Ihr Auto in der **Einfahrt** statt auf der Straße", "Sie verlegten dekorative Pflastersteine, um ihre Beton**auffahrt** aufzuwerten"]]
+  },
+  {
+    "lemma": "drizzle",
+    "meanings_de": ["leichter Regen", "dünner Speisestrahl"],
+    "definitions_de": ["leichter Regen, der in sehr feinen Tropfen fällt", "dünner Flüssigkeitsstrahl, der über Speisen gegossen wird"],
+    "examples_de": [["Ein sanfter **Nieselregen** begann, als wir unseren Spaziergang starteten", "Die Vorhersage sagte **Sprühregen** für den ganzen Nachmittag voraus"], ["Fügen Sie einen **Schuss** Olivenöl über den Salat hinzu", "Vollenden Sie das Dessert mit einem Schokoladen**guss**"]]
+  },
+  {
+    "lemma": "drone",
+    "meanings_de": ["unbemanntes Flugzeug", "männliche Biene", "kontinuierliches Geräusch"],
+    "definitions_de": ["ferngesteuertes pilotenloses Flugzeug für Überwachung oder Lieferung", "männliche Honigbiene, deren Hauptaufgabe die Paarung mit der Königin ist", "niedriges kontinuierliches Summen oder Brummen"],
+    "examples_de": [["Die Liefer**drohne** warf Pakete direkt vor den Haustüren der Kunden ab", "Militär**drohnen** bieten Luftüberwachung über Konfliktgebieten"], ["Die einzige Aufgabe des **Drohns** ist die Paarung mit der Bienenkönigin", "Arbeitsbienen vertreiben **Drohnen** vor dem Winter aus dem Bienenstock"], ["Das **Brummen** der Klimaanlage erschwerte die Konzentration", "Wir hörten das **Dröhnen** herannahender Motorräder"]]
+  },
+  {
+    "lemma": "droning",
+    "meanings_de": ["kontinuierliches dumpfes Geräusch"],
+    "definitions_de": ["monotones kontinuierliches Summen oder Brummen, das ermüdend wird"],
+    "examples_de": [["Das **Dröhnen** der Dozentenstimme schläferte die Studenten ein", "Ständiges **Brummen** von der Autobahn störte die Anwohner"]]
+  },
+  {
+    "lemma": "droop",
+    "meanings_de": ["Abwärtsbiegung"],
+    "definitions_de": ["Abwärtsbiegung oder Durchhängen aufgrund von Schwäche, Müdigkeit oder Gewicht"],
+    "examples_de": [["Das **Hängen** der Blütenblätter zeigte, dass sie Wasser brauchten", "Seine Schultern zeigten nach den schlechten Nachrichten ein deutliches **Absacken**"]]
+  },
+  {
+    "lemma": "dropkick",
+    "meanings_de": ["Fußball-Tritttechnik"],
+    "definitions_de": ["Tritt, der ausgeführt wird, indem der Ball fallen gelassen und getreten wird, wenn er hochspringt"],
+    "examples_de": [["Der Spieler erzielte mit einem perfekten **Sprungtritt** aus dreißig Metern", "Rugbyspieler müssen den **Dropkick** für bestimmte Spielsituationen beherrschen"]]
+  },
+  {
+    "lemma": "droplet",
+    "meanings_de": ["winziges Flüssigkeitspartikel"],
+    "definitions_de": ["sehr kleiner Tropfen Flüssigkeit, oft in der Luft schwebend oder auf einer Oberfläche"],
+    "examples_de": [["Mikroskopische **Tröpfchen** von Speichel können Atemwegserkrankungen verbreiten", "Der Morgentau bildete winzige **Tröpfchen** auf dem Spinnennetz"]]
+  },
+  {
+    "lemma": "dropout",
+    "meanings_de": ["Bildungsabbrecher", "Signalverlust"],
+    "definitions_de": ["Person, die Schule oder Universität verlässt, bevor sie ihr Studium abschließt", "vorübergehender Signalverlust bei elektronischer Übertragung"],
+    "examples_de": [["Der **Schulabbrecher** erwarb später sein Abitur nach", "Die **Studienabbruchquoten** stiegen während der Wirtschaftsrezession"], ["Während der Aufnahmesitzung traten mehrmals Audio**ausfälle** auf", "Der Videostream litt unter häufigen **Signalausfällen**"]]
+  },
+  {
+    "lemma": "drought",
+    "meanings_de": ["verlängerte Trockenperiode"],
+    "definitions_de": ["anhaltende Periode mit wenig oder keinem Niederschlag, die zu Wassermangel führt"],
+    "examples_de": [["Die schwere **Dürre** zwang die Bauern, ihre Ernten aufzugeben", "Kalifornien erlebte die schlimmste **Trockenheit** seit Beginn der Aufzeichnungen"]]
+  },
+  {
+    "lemma": "drove",
+    "meanings_de": ["sich bewegende Tiergruppe", "spitzes Werkzeug"],
+    "definitions_de": ["große Gruppe von Tieren, die sich gemeinsam bewegen, insbesondere Vieh", "breiter Meißel, den Steinmetze zum Bearbeiten von Stein verwenden"],
+    "examples_de": [["Eine **Herde** Rinder blockierte die Landstraße vollständig", "Der Hirte führte seine **Herde** über den Bergpass"], ["Der Steinmetz verwendete einen **Zahneisen**, um die Granitblöcke zu formen", "Verschieden große **Steinmeißel** erzeugen verschiedene Texturen im Mauerwerk"]]
+  },
+  {
+    "lemma": "drubbing",
+    "meanings_de": ["schwere Niederlage", "körperliche Prügel"],
+    "definitions_de": ["gründliche Niederlage im Sport oder Wettbewerb", "schwere Prügel oder Tracht als körperliche Bestrafung"],
+    "examples_de": [["Die Heimmannschaft erhielt eine **Abreibung** und verlor mit vierzig Punkten", "Ihr Kandidat bekam bei der Wahl eine **Schlappe**"], ["Der Tyrann drohte, ihm nach der Schule eine **Tracht Prügel** zu verpassen", "In alten Geschichten erhielten Bösewichte oft eine ordentliche **Abreibung**"]]
+  },
+  {
+    "lemma": "drudge",
+    "meanings_de": ["hart arbeitender Dienstbote"],
+    "definitions_de": ["Person, die harte, niedere oder eintönige Arbeit für wenig Lohn verrichtet"],
+    "examples_de": [["Sie fühlte sich wie eine **Arbeitssklavin**, die für Mindestlohn Häuser putzte", "Der Büro**knecht** erledigte alle langweiligen Ablagearbeiten"]]
+  },
+  {
+    "lemma": "drugging",
+    "meanings_de": ["Medikamentengabe", "illegaler Substanzgebrauch"],
+    "definitions_de": ["Verabreichung von Medikamenten zur medizinischen Behandlung", "heimliche Verabreichung von Drogen oder Verwendung illegaler Substanzen"],
+    "examples_de": [["Die **Medikation** von Patienten erfordert sorgfältige Dosierungsberechnungen", "Ordnungsgemäße **Arzneimittelgabe** gewährleistet die Patientensicherheit in Krankenhäusern"], ["Die **Betäubung** ihres Getränks wurde von Sicherheitskameras aufgezeichnet", "Athleten droht eine Sperre wegen **Dopingvergehen**"]]
+  },
+  {
+    "lemma": "druggist",
+    "meanings_de": ["Apothekenfachkraft"],
+    "definitions_de": ["Person, die Medikamente und pharmazeutische Produkte in einer Apotheke zubereitet und verkauft"],
+    "examples_de": [["Der **Apotheker** empfahl ein rezeptfreies Mittel gegen ihre Erkältung", "Fragen Sie den **Pharmazeuten** nach möglichen Wechselwirkungen"]]
+  },
+  {
+    "lemma": "drugstore",
+    "meanings_de": ["Apotheken-Einzelhandel"],
+    "definitions_de": ["Einzelhandelsgeschäft, in dem Medikamente zusammen mit verschiedenen Haushaltsartikeln und Toilettenartikeln verkauft werden"],
+    "examples_de": [["Die **Apotheke** an der Hauptstraße hat bis Mitternacht geöffnet", "Sie kaufte Verbände und Schmerzmittel in der örtlichen **Drogerie**"]]
+  },
+  {
+    "lemma": "drummer",
+    "meanings_de": ["Schlagzeugmusiker"],
+    "definitions_de": ["Person, die beruflich oder als Hobby Schlagzeug in einer Band oder einem Orchester spielt"],
+    "examples_de": [["Der **Schlagzeuger** der Band hielt während des gesamten Konzerts den perfekten Rhythmus", "Sie begann als **Trommlerin** in der Blaskapelle ihrer Schule"]]
+  },
+  {
+    "lemma": "drumming",
+    "meanings_de": ["Schlagzeugspiel", "wiederholender Klang"],
+    "definitions_de": ["Spielen von Schlagzeug oder Erzeugen rhythmischer Schläge", "kontinuierliches wiederholendes Klopfen oder Schlagen"],
+    "examples_de": [["Sein **Schlagzeugspiel** verbesserte sich nach monatelangem täglichen Üben", "Afrikanische **Trommeltraditionen** beeinflussten die moderne Jazzmusik"], ["Das **Trommeln** des Regens auf dem Dach dauerte die ganze Nacht", "Nervöses **Fingertrommeln** auf dem Tisch nervte alle"]]
+  },
+  {
+    "lemma": "drunkard",
+    "meanings_de": ["gewohnheitsmäßiger Vieltrinker"],
+    "definitions_de": ["Person, die gewohnheitsmäßig übermäßige Mengen Alkohol bis zur Abhängigkeit trinkt"],
+    "examples_de": [["Der Stadt**säufer** verbrachte jeden Abend in der örtlichen Taverne", "Sein Vater war ein **Trinker**, der alles durch Alkohol verlor"]]
+  }
+]

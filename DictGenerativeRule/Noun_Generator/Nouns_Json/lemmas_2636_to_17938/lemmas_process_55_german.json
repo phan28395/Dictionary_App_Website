@@ -1,0 +1,290 @@
+[
+  {
+    "lemma": "disposal",
+    "meanings_de": ["Entsorgung", "Verfügungsgewalt"],
+    "definitions_de": ["Vorgang der Beseitigung von unerwünschten oder nicht mehr benötigten Dingen, insbesondere von Abfällen oder gefährlichen Stoffen", "Befugnis oder Freiheit, über etwas nach eigenem Ermessen zu verfügen oder es zu nutzen"],
+    "examples_de": [["Die **Entsorgung** von Sondermüll unterliegt strengen gesetzlichen Auflagen", "Die **Müllabfuhr** kommt bei uns immer dienstags morgens"], ["Das gesamte Vermögen steht zu seiner **Verfügung**", "Der Firmenwagen steht Ihnen für die Dienstreise zur **Verfügung**"]]
+  },
+  {
+    "lemma": "disposition",
+    "meanings_de": ["Wesensart", "Anordnung"],
+    "definitions_de": ["die angeborenen Eigenschaften und Charakterzüge einer Person, die ihr Verhalten und ihre Reaktionen prägen", "Art und Weise, wie etwas angeordnet oder aufgestellt ist, besonders in Bezug auf andere Dinge"],
+    "examples_de": [["Ihre fröhliche **Veranlagung** sorgte dafür, dass sich alle willkommen fühlten", "Der Welpe zeigt eine sanfte **Wesensart** im Umgang mit Kindern"], ["Die **Aufstellung** der Truppen entlang der Grenze war strategisch durchdacht", "Wir müssen die **Aufteilung** des Vermögens im Testament überprüfen"]]
+  },
+  {
+    "lemma": "dispossession",
+    "meanings_de": ["Enteignung"],
+    "definitions_de": ["Handlung, bei der jemandem Land, Eigentum oder andere Besitztümer entzogen werden, oft durch rechtliche oder gewaltsame Mittel"],
+    "examples_de": [["Die **Enteignung** der Bauern führte zu landesweiten Protesten", "Die historische **Vertreibung** indigener Völker wirkt bis heute nach"]]
+  },
+  {
+    "lemma": "disputation",
+    "meanings_de": ["akademische Debatte"],
+    "definitions_de": ["formelle akademische Auseinandersetzung oder Streitgespräch über ein bestimmtes Thema, häufig theologischer oder philosophischer Natur"],
+    "examples_de": [["Mittelalterliche Gelehrte führten ausgedehnte **Disputationen** über religiöse Lehrsätze", "Die Universität veranstaltet jährlich eine **Disputation** zu ethischen Fragen"]]
+  },
+  {
+    "lemma": "disqualification",
+    "meanings_de": ["Disqualifikation"],
+    "definitions_de": ["Handlung, bei der jemand für ungeeignet erklärt wird, ein Amt zu bekleiden, eine Position einzunehmen oder an einem Wettbewerb teilzunehmen"],
+    "examples_de": [["Dem Athleten drohte die **Disqualifikation** wegen Dopings", "Sein Vorstrafenregister führte zur automatischen **Disqualifikation** für diese Stelle"]]
+  },
+  {
+    "lemma": "disquiet",
+    "meanings_de": ["Beunruhigung"],
+    "definitions_de": ["Gefühl der Besorgnis oder des Unbehagens über etwas, das innere Unruhe verursacht"],
+    "examples_de": [["Eine spürbare **Unruhe** breitete sich im Wartezimmer aus", "Die seltsamen Geräusche in der Nacht sorgten für erhebliche **Beunruhigung**"]]
+  },
+  {
+    "lemma": "disregard",
+    "meanings_de": ["Missachtung"],
+    "definitions_de": ["mangelnde Beachtung oder fehlender Respekt gegenüber jemandem oder etwas, das als unwichtig betrachtet wird"],
+    "examples_de": [["Seine **Missachtung** der Sicherheitsvorschriften führte zu dem Unfall", "Sie zeigte völlige **Gleichgültigkeit** gegenüber den Gefühlen anderer"]]
+  },
+  {
+    "lemma": "disrepair",
+    "meanings_de": ["Verfall"],
+    "definitions_de": ["Zustand des Verfalls, in dem etwas beschädigt ist oder nicht mehr richtig funktioniert, meist durch Vernachlässigung"],
+    "examples_de": [["Die alte Villa war in einem bedauernswerten **Zustand des Verfalls**", "Jahrelange **Vernachlässigung** machte die Brücke unpassierbar"]]
+  },
+  {
+    "lemma": "disrepute",
+    "meanings_de": ["schlechter Ruf"],
+    "definitions_de": ["Zustand, in dem jemand oder etwas in der öffentlichen Meinung gering geschätzt wird oder einen schlechten Ruf hat"],
+    "examples_de": [["Der Skandal brachte das Unternehmen in **Verruf**", "Seine Handlungen haben den gesamten Berufsstand in **Misskredit** gebracht"]]
+  },
+  {
+    "lemma": "disrespect",
+    "meanings_de": ["Respektlosigkeit"],
+    "definitions_de": ["Mangel an Respekt oder Höflichkeit, der jemandem oder etwas entgegengebracht wird"],
+    "examples_de": [["Dazwischenzureden, während andere sprechen, zeugt von **Respektlosigkeit**", "Die **Missachtung** von Autoritäten brachte den Jugendlichen in Schwierigkeiten"]]
+  },
+  {
+    "lemma": "disruption",
+    "meanings_de": ["Störung"],
+    "definitions_de": ["Unterbrechung oder Probleme, die den normalen Ablauf einer Veranstaltung, Tätigkeit oder eines Prozesses beeinträchtigen"],
+    "examples_de": [["Der Stromausfall verursachte erhebliche **Störungen** im Geschäftsbetrieb", "Die Schüler wurden davor gewarnt, während der Prüfungen **Unruhe** zu stiften"]]
+  },
+  {
+    "lemma": "dissatisfaction",
+    "meanings_de": ["Unzufriedenheit"],
+    "definitions_de": ["Mangel an Zufriedenheit oder das Gefühl, dass etwas nicht gut genug ist"],
+    "examples_de": [["Die **Unzufriedenheit** der Kunden mit dem Service führte zu Beschwerden", "Sie äußerte ihre **Unzufriedenheit** mit ihrer derzeitigen beruflichen Situation"]]
+  },
+  {
+    "lemma": "dissection",
+    "meanings_de": ["Sektion"],
+    "definitions_de": ["methodisches Zerlegen eines Körpers oder einer Pflanze, um die inneren Strukturen zu studieren"],
+    "examples_de": [["Die Biologiestudenten führten im Labor eine **Froschsektion** durch", "Die sorgfältige **Präparation** offenbarte die genaue Lage des Tumors"]]
+  },
+  {
+    "lemma": "dissemination",
+    "meanings_de": ["Verbreitung"],
+    "definitions_de": ["Vorgang des weitreichenden Verbreitens von etwas, insbesondere von Informationen, an viele Menschen"],
+    "examples_de": [["Die **Verbreitung** von Falschnachrichten kann erheblichen Schaden anrichten", "Soziale Medien ermöglichen die schnelle **Verbreitung** von Notfallwarnungen"]]
+  },
+  {
+    "lemma": "dissension",
+    "meanings_de": ["Zwietracht"],
+    "definitions_de": ["Meinungsverschiedenheiten, die zu Uneinigkeit und Streit innerhalb einer Gruppe führen"],
+    "examples_de": [["Politische **Zwietracht** spaltete die Gemeinde in verfeindete Lager", "Es gab wachsende **Uneinigkeit** unter den Vorstandsmitgliedern über die Strategie"]]
+  },
+  {
+    "lemma": "dissent",
+    "meanings_de": ["abweichende Meinung"],
+    "definitions_de": ["das Vertreten oder Äußern von Meinungen, die von den allgemein oder offiziell vertretenen Ansichten abweichen"],
+    "examples_de": [["Der Richter verfasste ein eindringliches **Sondervotum** gegen die Mehrheitsentscheidung", "Politischer **Widerspruch** wurde unter der Diktatur nicht geduldet"]]
+  },
+  {
+    "lemma": "dissenter",
+    "meanings_de": ["Andersdenkender"],
+    "definitions_de": ["Person, die mit der offiziellen Politik oder Lehrmeinung nicht übereinstimmt oder sich ihr widersetzt, besonders in Politik oder Religion"],
+    "examples_de": [["Religiöse **Abweichler** gründeten viele der frühen amerikanischen Kolonien", "Der einzige **Gegenstimmer** votierte gegen die vorgeschlagenen Änderungen"]]
+  },
+  {
+    "lemma": "dissertation",
+    "meanings_de": ["Doktorarbeit"],
+    "definitions_de": ["umfangreiche wissenschaftliche Abhandlung über ein bestimmtes Thema, die insbesondere für einen Universitätsabschluss verfasst wird"],
+    "examples_de": [["Sie arbeitete drei Jahre an ihrer **Dissertation**", "Seine **Doktorarbeit** über mittelalterliche Dichtung gewann mehrere Auszeichnungen"]]
+  },
+  {
+    "lemma": "disservice",
+    "meanings_de": ["schlechter Dienst"],
+    "definitions_de": ["schädliche Handlung oder Verhalten, das den Interessen oder dem Ruf einer Person schadet"],
+    "examples_de": [["Gerüchte zu verbreiten erweist allen Beteiligten einen **schlechten Dienst**", "Du tust dir selbst keinen **Gefallen**, wenn du dich nicht mehr anstrengst"]]
+  },
+  {
+    "lemma": "dissident",
+    "meanings_de": ["Regimekritiker"],
+    "definitions_de": ["Person, die sich der offiziellen Politik widersetzt, insbesondere der einer autoritären Regierung"],
+    "examples_de": [["Politische **Dissidenten** wurden ohne Gerichtsverfahren inhaftiert", "Der **regimekritische** Schriftsteller lebte zwanzig Jahre im Exil"]]
+  },
+  {
+    "lemma": "dissipation",
+    "meanings_de": ["Verschwendung", "Zerstreuung"],
+    "definitions_de": ["übermäßige Hingabe an sinnliche Vergnügungen, die zur Verschwendung von Geld, Zeit oder Energie führt", "Prozess, bei dem etwas verstreut, verteilt wird oder allmählich verschwindet"],
+    "examples_de": [["Sein Erbe ging durch jahrelange **Verschwendung** verloren", "Ein Leben in **Ausschweifung** ließ ihn gebrochen und arm zurück"], ["Die **Wärmeableitung** durch das Metall erfolgte rasch", "Die **Auflösung** der Wolken ließ die Sonne durchbrechen"]]
+  },
+  {
+    "lemma": "dissociation",
+    "meanings_de": ["mentale Abspaltung", "chemische Trennung"],
+    "definitions_de": ["Trennung oder Abkopplung normalerweise verbundener mentaler Prozesse, Gedanken, Erinnerungen oder der Identität", "umkehrbare Aufspaltung von Molekülen in einfachere Gruppen oder Atome"],
+    "examples_de": [["Traumata können zur **Abspaltung** schmerzhafter Erinnerungen führen", "Der Patient erlebte während der Panikattacke eine **Dissoziation**"], ["Hitze verursacht die **Aufspaltung** von Wasser in Wasserstoff und Sauerstoff", "Die **Dissoziationskonstante** hilft bei der Vorhersage chemischer Reaktionen"]]
+  },
+  {
+    "lemma": "dissolution",
+    "meanings_de": ["Auflösung", "Lösungsvorgang"],
+    "definitions_de": ["formelle Beendigung oder Auflösung einer Organisation, Partnerschaft oder Vereinbarung", "Vorgang des Auflösens oder Gelöstwerdens in einer Flüssigkeit"],
+    "examples_de": [["Die **Auflösung** des Parlaments löste Neuwahlen aus", "Sie reichten die Papiere zur **Scheidung** ihrer Ehe ein"], ["Die **Auflösung** von Salz in Wasser erfolgt schnell", "Die vollständige **Auflösung** der Tablette dauert fünf Minuten"]]
+  },
+  {
+    "lemma": "dissolving",
+    "meanings_de": ["Auflösungsprozess"],
+    "definitions_de": ["Vorgang, bei dem eine feste Substanz in eine Flüssigkeit eingebunden wird"],
+    "examples_de": [["Das **Auflösen** von Zucker im Tee süßt das Getränk", "Wir beobachteten, wie sich die Tablette im Wasserglas **auflöste**"]]
+  },
+  {
+    "lemma": "dissonance",
+    "meanings_de": ["Missklang", "Widerspruch"],
+    "definitions_de": ["Kombination von Tönen, die zusammen gehört hart oder unangenehm klingen", "Mangel an Harmonie oder Übereinstimmung zwischen Ideen, Überzeugungen oder Fakten"],
+    "examples_de": [["Das Musikstück nutzte **Dissonanzen**, um Spannung zu erzeugen", "Der **Missklang** zwischen den Instrumenten war beabsichtigt"], ["Es besteht ein deutlicher **Widerspruch** zwischen seinen Worten und Taten", "Kognitive **Dissonanz** entsteht, wenn Überzeugungen mit dem Verhalten kollidieren"]]
+  },
+  {
+    "lemma": "distaste",
+    "meanings_de": ["Widerwille"],
+    "definitions_de": ["milde Abneigung oder Aversion gegen etwas, das als unangenehm oder abstoßend empfunden wird"],
+    "examples_de": [["Sie konnte ihren **Widerwillen** gegen die bittere Medizin nicht verbergen", "Seine **Abneigung** gegen Gewalt machte ihm Actionfilme unerträglich"]]
+  },
+  {
+    "lemma": "distillation",
+    "meanings_de": ["Destillation", "Essenzgewinnung"],
+    "definitions_de": ["Verfahren zur Reinigung einer Flüssigkeit durch Erhitzen und Abkühlen zur Trennung der Bestandteile", "Herausarbeitung der wesentlichen Bedeutung oder der wichtigsten Aspekte von etwas"],
+    "examples_de": [["Die **Destillation** von Rohöl erzeugt verschiedene Kraftstoffe", "Die **Wasserdestillation** entfernt Verunreinigungen und Mineralien"], ["Ihr Buch ist eine **Quintessenz** aus dreißig Jahren Forschung", "Der Bericht war eine **Zusammenfassung** von Hunderten von Interviews"]]
+  },
+  {
+    "lemma": "distiller",
+    "meanings_de": ["Brennmeister", "Destillierapparat"],
+    "definitions_de": ["Person oder Unternehmen, das alkoholische Spirituosen durch Destillation herstellt", "Gerät, das zur Destillation von Flüssigkeiten verwendet wird, insbesondere zur Reinigung"],
+    "examples_de": [["Der **Whiskybrenner** führte das Geschäft seit Generationen", "Lokale **Brennereien** produzieren preisgekrönte Craft-Spirituosen"], ["Der Labor-**Destillierapparat** kann zehn Liter pro Stunde verarbeiten", "Wir benötigen einen neuen **Destillator** für die Chemieabteilung"]]
+  },
+  {
+    "lemma": "distillery",
+    "meanings_de": ["Brennerei"],
+    "definitions_de": ["Anlage, in der alkoholische Spirituosen durch Destillation aus Getreide oder Früchten hergestellt werden"],
+    "examples_de": [["Die Bourbon-**Brennerei** bietet täglich Führungen und Verkostungen an", "Schottland beherbergt Hunderte von Whisky-**Destillerien**"]]
+  },
+  {
+    "lemma": "distortion",
+    "meanings_de": ["Verzerrung", "Verfälschung"],
+    "definitions_de": ["Vorgang der unnatürlichen Veränderung der Form, des Aussehens oder des Klangs von etwas", "Handlung, eine irreführende oder falsche Darstellung oder einen falschen Eindruck zu vermitteln"],
+    "examples_de": [["Der Zerrspiegel erzeugte lustige **Verzerrungen** unserer Gesichter", "Die Audio-**Verzerrung** machte die Aufnahme schwer verständlich"], ["Seine Geschichte war eine völlige **Verfälschung** der Tatsachen", "Mediale **Verzerrung** von Ereignissen kann die öffentliche Meinung prägen"]]
+  },
+  {
+    "lemma": "distraction",
+    "meanings_de": ["Ablenkung"],
+    "definitions_de": ["Sache, die jemanden daran hindert, sich auf etwas anderes zu konzentrieren"],
+    "examples_de": [["Handys sind eine große **Ablenkung** beim Autofahren", "Der Lärm draußen war eine ständige **Störung** beim Lernen"]]
+  },
+  {
+    "lemma": "distributor",
+    "meanings_de": ["Großhändler", "Verteiler"],
+    "definitions_de": ["Unternehmen, das Waren an Einzelhändler oder andere Unternehmen liefert", "Bauteil im Motor, das elektrischen Strom an die Zündkerzen weiterleitet"],
+    "examples_de": [["Der Buch-**Großhändler** beliefert Geschäfte im ganzen Land", "Wir kaufen direkt beim **Distributor**, um Geld zu sparen"], ["Das Auto sprang wegen eines defekten **Verteilers** nicht an", "Der Austausch der **Verteilerkappe** behob das Motorproblem"]]
+  },
+  {
+    "lemma": "distrust",
+    "meanings_de": ["Misstrauen"],
+    "definitions_de": ["Gefühl des Zweifels oder Verdachts bezüglich der Ehrlichkeit oder Zuverlässigkeit einer Person"],
+    "examples_de": [["Jahrelange Lügen schufen tiefes **Misstrauen** zwischen ihnen", "Das öffentliche **Misstrauen** gegenüber Politikern wächst weiter"]]
+  },
+  {
+    "lemma": "disturbance",
+    "meanings_de": ["Ruhestörung", "seelische Störung"],
+    "definitions_de": ["Unterbrechung eines friedlichen oder geregelten Zustands, besonders durch Lärm oder Unordnung", "Zustand emotionaler oder mentaler Beunruhigung oder Erregung"],
+    "examples_de": [["Die Polizei wurde gerufen, um sich um die **Ruhestörung** zu kümmern", "Die laute Party verursachte eine **Störung** in der Nachbarschaft"], ["**Schlafstörungen** können die psychische Gesundheit erheblich beeinträchtigen", "Die Nachricht verursachte erhebliche emotionale **Aufruhr**"]]
+  },
+  {
+    "lemma": "disunity",
+    "meanings_de": ["Uneinigkeit"],
+    "definitions_de": ["Meinungsverschiedenheiten und Konflikte innerhalb einer Gruppe, die sie daran hindern, zusammenzuarbeiten"],
+    "examples_de": [["Politische **Uneinigkeit** schwächte die Koalitionsregierung erheblich", "**Zwietracht** unter den Teammitgliedern führte zu schlechter Leistung"]]
+  },
+  {
+    "lemma": "disuse",
+    "meanings_de": ["Nichtgebrauch"],
+    "definitions_de": ["Zustand, in dem etwas nicht mehr benutzt wird, was oft zu Verfall führt"],
+    "examples_de": [["Die Bahnstrecke verfiel nach der Schließung der Mine in **Nichtgebrauch**", "Fähigkeiten können durch **Nichtbenutzung** im Laufe der Zeit verloren gehen"]]
+  },
+  {
+    "lemma": "ditch",
+    "meanings_de": ["Graben"],
+    "definitions_de": ["schmaler Kanal, der in den Boden gegraben wird, typischerweise zur Entwässerung oder Bewässerung"],
+    "examples_de": [["Arbeiter gruben einen **Graben**, um das überflutete Feld zu entwässern", "Das Auto rutschte von der Straße in einen **Straßengraben**"]]
+  },
+  {
+    "lemma": "ditto",
+    "meanings_de": ["dito"],
+    "definitions_de": ["verwendet, um anzuzeigen, dass dasselbe nochmals gilt oder wiederholt wird"],
+    "examples_de": [["Ich nehme Kaffee mit Milch und Zucker, und **dito** für sie", "Die Kritik nannte den Film langweilig, und **ebenso** die Fortsetzung"]]
+  },
+  {
+    "lemma": "ditty",
+    "meanings_de": ["Liedchen"],
+    "definitions_de": ["kurzes, einfaches Lied oder Melodie, die leicht zu merken ist"],
+    "examples_de": [["Die Kinder sangen ein eingängiges **Liedchen** über das Alphabet", "Er summte ein kleines **Liedchen**, während er das Geschirr spülte"]]
+  },
+  {
+    "lemma": "diva",
+    "meanings_de": ["Operndiva", "launische Frau"],
+    "definitions_de": ["gefeierte Opernsängerin, die für ihre außergewöhnliche Stimmfähigkeit bekannt ist", "temperamentvolle Person, die schwer zufriedenzustellen ist und Sonderbehandlung verlangt"],
+    "examples_de": [["Die Opern-**Diva** erhielt stehende Ovationen", "Maria Callas war eine der größten **Diven** aller Zeiten"], ["Seit sie berühmt wurde, ist sie zu einer richtigen **Diva** geworden", "Der Regisseur konnte mit dem **divenhaften** Verhalten des Schauspielers nicht umgehen"]]
+  },
+  {
+    "lemma": "divan",
+    "meanings_de": ["Diwan"],
+    "definitions_de": ["langes, niedriges Sofa ohne Rückenlehne oder Armlehnen, das typischerweise an einer Wand platziert wird"],
+    "examples_de": [["Sie lehnte sich auf dem samtenen **Diwan** zurück und las ein Buch", "Im Wartezimmer standen mehrere bequeme **Diwane**"]]
+  },
+  {
+    "lemma": "dive",
+    "meanings_de": ["Kopfsprung", "Spelunke"],
+    "definitions_de": ["Sprung mit dem Kopf voran ins Wasser mit ausgestreckten Armen", "verrufene Bar, Nachtclub oder ähnliche Einrichtung"],
+    "examples_de": [["Sie führte einen perfekten **Kopfsprung** vom hohen Brett aus", "Die Kinder lieben es, nach Münzen zu **tauchen**"], ["Der Detektiv durchsuchte jede **Spelunke** in der Stadt", "Der Laden ist eine echte **Kaschemme**, aber das Essen ist großartig"]]
+  },
+  {
+    "lemma": "diver",
+    "meanings_de": ["Taucher"],
+    "definitions_de": ["Person, die ins Wasser taucht, insbesondere als Sport oder Beruf"],
+    "examples_de": [["Der Perlen-**Taucher** konnte minutenlang die Luft anhalten", "Olympische **Turmspringer** trainieren jahrelang, um ihre Technik zu perfektionieren"]]
+  },
+  {
+    "lemma": "divergence",
+    "meanings_de": ["Auseinandergehen", "Meinungsverschiedenheit"],
+    "definitions_de": ["Prozess des Auseinandergehens in verschiedene Richtungen von einem gemeinsamen Punkt", "Unterschied zwischen zwei oder mehr Dingen, Meinungen oder Einstellungen"],
+    "examples_de": [["Die **Gabelung** der beiden Straßen verwirrte die Reisenden", "Wissenschaftler untersuchen das **Auseinanderdriften** von Arten im Laufe der Zeit"], ["Es gibt eine deutliche **Divergenz** zwischen ihren politischen Ansichten", "Die **Abweichung** in den Testergebnissen bedarf weiterer Untersuchung"]]
+  },
+  {
+    "lemma": "diversification",
+    "meanings_de": ["Diversifizierung"],
+    "definitions_de": ["Prozess der Variation von Produkten, Investitionen oder Aktivitäten, um Risiken zu streuen oder Chancen zu erhöhen"],
+    "examples_de": [["Die **Diversifizierung** des Portfolios hilft, sich vor Marktrückgängen zu schützen", "Die **Diversifikation** des Unternehmens in neue Märkte erwies sich als erfolgreich"]]
+  },
+  {
+    "lemma": "diversion",
+    "meanings_de": ["Umleitung", "Zerstreuung"],
+    "definitions_de": ["Fall, in dem etwas von seinem beabsichtigten Kurs oder Zweck abgelenkt wird", "Aktivität, die den Geist von langweiligen oder ernsten Angelegenheiten ablenkt"],
+    "examples_de": [["Die **Verkehrsumleitung** wegen Straßenarbeiten verursachte erhebliche Verzögerungen", "Das Fluss-**Umleitungsprojekt** wird künftige Überschwemmungen verhindern"], ["Das Lesen von Krimis ist ihre liebste **Zerstreuung**", "Der Zirkus bot eine willkommene **Ablenkung** von den täglichen Sorgen"]]
+  },
+  {
+    "lemma": "divestiture",
+    "meanings_de": ["Veräußerung"],
+    "definitions_de": ["Handlung des Verkaufs von Tochtergesellschaften, Geschäftsinteressen oder Investitionen"],
+    "examples_de": [["Das Gericht ordnete die **Veräußerung** der Monopolbestände an", "Die **Ausgliederung** von Unternehmensteilen kann die Konzentration auf das Kerngeschäft verbessern"]]
+  },
+  {
+    "lemma": "dividend",
+    "meanings_de": ["Dividende", "Dividend"],
+    "definitions_de": ["Geldbetrag, der regelmäßig von einem Unternehmen aus Gewinnen an die Aktionäre gezahlt wird", "Zahl, die in einer Divisionsaufgabe durch eine andere Zahl geteilt werden soll"],
+    "examples_de": [["Die Aktionäre erhielten eine vierteljährliche **Dividende** von fünfzig Cent", "Das Unternehmen kündigte eine Erhöhung der **Dividendenzahlungen** an"], ["In der Gleichung zwölf geteilt durch drei ist zwölf der **Dividend**", "Die Schüler lernten, den **Dividenden** in Matheaufgaben zu identifizieren"]]
+  }
+]

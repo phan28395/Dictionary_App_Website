@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "mediocre",
+    "meanings_de": ["unterdurchschnittliche Qualität"],
+    "definitions_de": ["von nur mäßiger Qualität, die weder besonders gut noch besonders schlecht ist und keine herausragenden Merkmale aufweist"],
+    "examples_de": [["Das Restaurant servierte **mittelmäßiges** Essen zu überhöhten Preisen", "Seine **mittelmäßige** Leistung enttäuschte das gesamte Team"]]
+  },
+  {
+    "lemma": "meditative",
+    "meanings_de": ["tief nachdenklich", "Meditation fördernd"],
+    "definitions_de": ["in tiefes Nachdenken oder Betrachtung spiritueller Angelegenheiten vertieft oder damit beschäftigt", "dazu bestimmt, ruhige Reflexion und geistige Stille zu fördern"],
+    "examples_de": [["Sie saß in **meditativer** Stille am See", "Der Garten hatte eine **meditative** Qualität, die Besucher beruhigte"], ["Der Lehrer spielte **meditative** Musik während der Yogastunde", "Seine **meditativen** Praktiken halfen, den täglichen Stress zu reduzieren"]]
+  },
+  {
+    "lemma": "meek",
+    "meanings_de": ["still und sanftmütig"],
+    "definitions_de": ["still, sanft und leicht zu beeinflussen, ohne Widerspruch zu leisten"],
+    "examples_de": [["Der **sanftmütige** Schüler meldete sich selten im Unterricht zu Wort", "Ihr **sanftmütiges** Auftreten verbarg eine starke innere Entschlossenheit"]]
+  },
+  {
+    "lemma": "megalithic",
+    "meanings_de": ["aus riesigen Steinen"],
+    "definitions_de": ["sich auf prähistorische Monumente beziehend, die aus großen Steinen bestehen oder diese enthalten"],
+    "examples_de": [["Die **megalithischen** Strukturen von Stonehenge ziehen Millionen von Besuchern an", "Archäologen entdeckten eine neue **megalithische** Grabstätte"]]
+  },
+  {
+    "lemma": "melancholic",
+    "meanings_de": ["tief traurig fühlend"],
+    "definitions_de": ["eine nachdenkliche Traurigkeit fühlend oder ausdrückend, die keinen offensichtlichen Grund zu haben scheint"],
+    "examples_de": [["Die **melancholische** Musik passte perfekt zu ihrer düsteren Stimmung", "Er hatte ein **melancholisches** Temperament, das seine Kunstwerke prägte"]]
+  },
+  {
+    "lemma": "melancholy",
+    "meanings_de": ["tief traurig", "Traurigkeit verursachend"],
+    "definitions_de": ["eine nachdenkliche Traurigkeit fühlend oder zeigend, die ohne erkennbare Ursache auftritt", "Traurigkeit oder Depression des Geistes verursachend oder dazu neigend"],
+    "examples_de": [["Sie fühlte sich an regnerischen Herbstnachmittagen **melancholisch**", "Sein **melancholischer** Gesichtsausdruck beunruhigte seine engen Freunde"], ["Die **melancholische** Melodie brachte viele zum Weinen", "Das verlassene Haus hatte eine **melancholische** Atmosphäre"]]
+  },
+  {
+    "lemma": "mellow",
+    "meanings_de": ["weich und gereift", "entspannt und sanft"],
+    "definitions_de": ["angenehm weich oder sanft durch Alter oder Reife geworden", "entspannt und gut gelaunt durch Reife oder Erfahrung"],
+    "examples_de": [["Der **milde** Geschmack des gereiften Whiskys erfreute Kenner", "Das **sanfte** Licht des Sonnenuntergangs tauchte die Landschaft in warme Farben"], ["Er wurde mit zunehmendem Alter **gelassener**", "Der **entspannte** Jazz schuf eine lockere Atmosphäre"]]
+  },
+  {
+    "lemma": "melodic",
+    "meanings_de": ["angenehm klingende Musik"],
+    "definitions_de": ["sich auf eine angenehme Abfolge von musikalischen Tönen beziehend oder diese aufweisend"],
+    "examples_de": [["Der **melodische** Vogelgesang erfüllte die Morgenluft", "Sie komponierte **melodische** Weisen, die jeder mitsummen konnte"]]
+  },
+  {
+    "lemma": "melodious",
+    "meanings_de": ["wohlklingend"],
+    "definitions_de": ["angenehm klingend mit einer sanft fließenden musikalischen Qualität"],
+    "examples_de": [["Ihre **melodiöse** Stimme fesselte das gesamte Publikum", "Das **melodische** Glockenspiel erklang durch den ganzen Garten"]]
+  },
+  {
+    "lemma": "melodramatic",
+    "meanings_de": ["übertrieben dramatisch"],
+    "definitions_de": ["übertrieben und emotional auf eine Weise, die unaufrichtig wirkt"],
+    "examples_de": [["Seine **melodramatische** Reaktion auf Kritik verärgerte alle", "Die **melodramatischen** Wendungen des Films strapazierten die Glaubwürdigkeit"]]
+  },
+  {
+    "lemma": "melted",
+    "meanings_de": ["zu Flüssigkeit geworden", "emotional erweicht"],
+    "definitions_de": ["durch Erhitzen vom festen in den flüssigen Zustand übergegangen", "durch emotionale Wärme zart oder sanft gemacht"],
+    "examples_de": [["Die **geschmolzene** Schokolade tropfte auf die Arbeitsplatte", "Der **geschmolzene** Schnee bildete Pfützen auf dem Gehweg"], ["Ihr Herz **schmolz** dahin, als sie den Welpen sah", "Sein **geschmolzener** Widerstand gab schließlich der Zustimmung nach"]]
+  },
+  {
+    "lemma": "melting",
+    "meanings_de": ["flüssig werdend", "emotional berührend"],
+    "definitions_de": ["im Prozess des Übergangs vom festen in den flüssigen Zustand", "Gefühle von Zärtlichkeit oder Mitgefühl hervorrufend"],
+    "examples_de": [["Das **schmelzende** Eis brauchte sofortige Aufmerksamkeit", "Der **schmelzende** Schnee signalisierte die Ankunft des Frühlings"], ["Ihr **schmelzendes** Lächeln entwaffnete all seinen Ärger", "Die **rührende** Szene brachte die Zuschauer zu Tränen"]]
+  },
+  {
+    "lemma": "membered",
+    "meanings_de": ["mit bestimmten Gliedern"],
+    "definitions_de": ["eine bestimmte Anzahl oder Art von Gliedern oder Mitgliedern habend"],
+    "examples_de": [["Das **vierköpfige** Komitee traf sich jeden Dienstagmorgen", "Die **sechsgliedrige** Ringstruktur ist in der Chemie häufig"]]
+  },
+  {
+    "lemma": "membranous",
+    "meanings_de": ["dünn und flexibel"],
+    "definitions_de": ["einer dünnen flexiblen Gewebeschicht ähnelnd oder aus einer solchen bestehend"],
+    "examples_de": [["Die **häutigen** Flügel der Libelle schimmerten wunderschön", "Ärzte untersuchten die **membranöse** Auskleidung des Organs"]]
+  },
+  {
+    "lemma": "memorable",
+    "meanings_de": ["erinnerungswürdig"],
+    "definitions_de": ["wert, in Erinnerung behalten zu werden, oder aufgrund besonderer Eigenschaften leicht zu merken"],
+    "examples_de": [["Ihre **unvergessliche** Hochzeit bot Feuerwerk und Live-Musik", "Sie hielt eine **denkwürdige** Rede, die alle inspirierte"]]
+  },
+  {
+    "lemma": "menacing",
+    "meanings_de": ["Gefahr andeutend"],
+    "definitions_de": ["das Vorhandensein von Gefahr andeutend oder mit Schaden drohend"],
+    "examples_de": [["Die **bedrohlichen** Gewitterwolken sammelten sich am Horizont", "Sein **drohender** Blick ließ alle nervös zurücktreten"]]
+  },
+  {
+    "lemma": "menial",
+    "meanings_de": ["wenig Können erfordernd"],
+    "definitions_de": ["nicht viel Geschick erfordernd und ohne Prestige oder Bedeutung"],
+    "examples_de": [["Sie wurde der **niederen** Tätigkeiten bei der Arbeit überdrüssig", "Die **einfachen** Hausarbeiten nahmen den größten Teil seines Tages ein"]]
+  },
+  {
+    "lemma": "menopausal",
+    "meanings_de": ["die Wechseljahre betreffend"],
+    "definitions_de": ["sich auf die Zeit beziehend, in der die Menstruation endet, oder für diese charakteristisch"],
+    "examples_de": [["Die Ärztin besprach **menopausale** Symptome mit ihrer Patientin", "**Wechseljahresbedingte** Veränderungen wirken sich bei Frauen unterschiedlich aus"]]
+  },
+  {
+    "lemma": "menstrual",
+    "meanings_de": ["die Menstruation betreffend"],
+    "definitions_de": ["sich auf den Prozess der Menstruation oder monatlichen Periode beziehend"],
+    "examples_de": [["Sie verfolgte ihren **Menstruationszyklus** in einem Kalender", "Die **menstruellen** Krämpfe verursachten ihr erhebliche Beschwerden"]]
+  },
+  {
+    "lemma": "mercantile",
+    "meanings_de": ["den Handel betreffend"],
+    "definitions_de": ["sich auf Handel oder Gewerbe beziehend, besonders in großem Maßstab"],
+    "examples_de": [["Das **Handelsviertel** war voller geschäftlicher Aktivitäten", "Seine **kaufmännischen** Unternehmungen erstreckten sich über drei Kontinente"]]
+  },
+  {
+    "lemma": "mercenary",
+    "meanings_de": ["durch Geld motiviert"],
+    "definitions_de": ["hauptsächlich daran interessiert, Geld zu verdienen, auf Kosten der Ethik"],
+    "examples_de": [["Seine **geldgierige** Haltung verprellte potenzielle Geschäftspartner", "Die **Söldner** kämpften für denjenigen, der am meisten zahlte"]]
+  },
+  {
+    "lemma": "merciful",
+    "meanings_de": ["Mitgefühl zeigend"],
+    "definitions_de": ["Gnade und Mitgefühl gegenüber Menschen in Not zeigend oder ausübend"],
+    "examples_de": [["Der **gnädige** Richter milderte das harte Urteil", "Sie war **barmherzig** zu denen, die ihr Unrecht getan hatten"]]
+  },
+  {
+    "lemma": "merciless",
+    "meanings_de": ["keine Gnade zeigend"],
+    "definitions_de": ["keine Gnade oder Mitleid in der Behandlung anderer zeigend"],
+    "examples_de": [["Die **gnadenlose** Sonne brannte auf die Wüstenreisenden herab", "Seine **erbarmungslose** Kritik zerstörte ihr Selbstvertrauen vollständig"]]
+  },
+  {
+    "lemma": "mercurial",
+    "meanings_de": ["schnell wechselnde Stimmung"],
+    "definitions_de": ["plötzlichen oder unvorhersehbaren Stimmungs- oder Meinungsänderungen unterworfen"],
+    "examples_de": [["Ihr **wechselhaftes** Temperament machte Beziehungen schwierig", "Das **launische** Wetter wechselte von Sonnenschein zu Stürmen"]]
+  },
+  {
+    "lemma": "merged",
+    "meanings_de": ["zusammengefügt"],
+    "definitions_de": ["kombiniert oder vereint, um eine einzige Einheit zu bilden"],
+    "examples_de": [["Die **fusionierten** Unternehmen schufen ein mächtiges Geschäftsimperium", "Die **zusammengeführten** Fahrspuren verlangsamten den Verkehr erheblich"]]
+  },
+  {
+    "lemma": "merging",
+    "meanings_de": ["sich vereinigend"],
+    "definitions_de": ["im Prozess des Kombinierens oder Vereinigens zu einem"],
+    "examples_de": [["Der **einfädelnde** Verkehr erforderte sorgfältige Aufmerksamkeit der Fahrer", "**Zusammenlegende** Abteilungen sorgten für Verwirrung unter den Mitarbeitern"]]
+  },
+  {
+    "lemma": "meridian",
+    "meanings_de": ["am höchsten Punkt"],
+    "definitions_de": ["sich auf den höchsten Punkt der Entwicklung beziehend oder dort gelegen"],
+    "examples_de": [["Das Reich erreichte seine **höchste** Macht, bevor es verfiel", "Ihre **größten** Erfolge kamen in ihren Vierzigern"]]
+  },
+  {
+    "lemma": "merited",
+    "meanings_de": ["verdient oder erworben"],
+    "definitions_de": ["verdient oder erworben als Ergebnis von Handlungen oder Eigenschaften"],
+    "examples_de": [["Seine **verdiente** Beförderung kam nach Jahren der Hingabe", "Der **verdiente** Sieg der Mannschaft krönte eine perfekte Saison"]]
+  },
+  {
+    "lemma": "meritorious",
+    "meanings_de": ["Lob verdienend"],
+    "definitions_de": ["Belohnung oder Lob für Exzellenz oder würdige Taten verdienend"],
+    "examples_de": [["Ihr **verdienstvoller** Dienst erhielt nationale Anerkennung", "Die **verdienstvollen** Schüler erhielten besondere Stipendien"]]
+  },
+  {
+    "lemma": "merry",
+    "meanings_de": ["fröhlich und lebhaft"],
+    "definitions_de": ["fröhlich und lebhaft in Stimmung oder Art und Weise"],
+    "examples_de": [["Die **fröhlichen** Kinder sangen Lieder am Lagerfeuer", "Seine **heitere** Veranlagung erhellte jedermanns Tag"]]
+  },
+  {
+    "lemma": "meshed",
+    "meanings_de": ["ineinander verzahnt"],
+    "definitions_de": ["gefangen oder miteinander verbunden wie Zahnräder oder Netzwerk"],
+    "examples_de": [["Die **verzahnten** Zahnräder betrieben die komplexe Maschinerie reibungslos", "Ihre **verflochtenen** Zeitpläne machten die Planung von Treffen schwierig"]]
+  },
+  {
+    "lemma": "mesmerized",
+    "meanings_de": ["völlig fasziniert"],
+    "definitions_de": ["wie durch hypnotische Kraft von Faszination gebannt gehalten"],
+    "examples_de": [["Das Publikum saß **gebannt** von der Vorstellung des Zauberers", "Sie stand **fasziniert** vor der Nordlichterscheinung"]]
+  },
+  {
+    "lemma": "mesmerizing",
+    "meanings_de": ["Aufmerksamkeit fesselnd"],
+    "definitions_de": ["vollständige Aufmerksamkeit auf eine Weise einfangend, die magisch erscheint"],
+    "examples_de": [["Die **fesselnde** Tanzvorführung erhielt stehende Ovationen", "Sein **faszinierendes** Geschichtenerzählen hielt Kinder stundenlang in Bann"]]
+  },
+  {
+    "lemma": "mesolithic",
+    "meanings_de": ["mittlere Steinzeit"],
+    "definitions_de": ["sich auf die mittlere Periode der Steinzeit beziehend"],
+    "examples_de": [["Die **mesolithischen** Werkzeuge zeigten fortgeschrittene Handwerkstechniken", "**Mesolithische** Jäger und Sammler hinterließen faszinierende archäologische Überreste"]]
+  },
+  {
+    "lemma": "messianic",
+    "meanings_de": ["erlöserartige Überzeugungen"],
+    "definitions_de": ["sich auf einen Messias oder inspirierten Führer beziehend oder ihm ähnelnd"],
+    "examples_de": [["Sein **messianischer** Komplex ließ ihn glauben, er könne alle retten", "Die **messianischen** Prophezeiungen beeinflussten religiöse Bewegungen"]]
+  },
+  {
+    "lemma": "messy",
+    "meanings_de": ["unordentlich oder schmutzig", "kompliziert und schwierig"],
+    "definitions_de": ["unordentlich oder schmutzig im Aussehen oder in den Gewohnheiten", "kompliziert und wahrscheinlich Probleme oder Kontroversen verursachend"],
+    "examples_de": [["Das **unordentliche** Zimmer brauchte stundenlange Reinigung", "Ihr **chaotischer** Schreibtisch spiegelte ihren chaotischen Arbeitsstil wider"], ["Die **komplizierte** Scheidung zog sich über zwei Jahre hin", "Es war eine **verzwickte** Situation ohne einfache Lösung"]]
+  },
+  {
+    "lemma": "metabolic",
+    "meanings_de": ["den Stoffwechsel betreffend"],
+    "definitions_de": ["sich auf die chemischen Prozesse beziehend, die das Leben in Organismen aufrechterhalten"],
+    "examples_de": [["Regelmäßige Bewegung verbessert die **metabolische** Gesundheit erheblich", "Die **Stoffwechselstörung** erforderte eine sorgfältige Ernährungsführung"]]
+  },
+  {
+    "lemma": "metallic",
+    "meanings_de": ["Metall enthaltend", "hart wie Metall"],
+    "definitions_de": ["aus Metall bestehend oder Metall in Aussehen oder Eigenschaften ähnelnd", "eine harte Qualität habend, die an Metall erinnert"],
+    "examples_de": [["Die **metallische** Lackierung verlieh dem Auto ein futuristisches Aussehen", "Die **metallene** Oberfläche reflektierte das Licht brillant"], ["Die Medizin hinterließ einen **metallischen** Geschmack in ihrem Mund", "Seine **metallische** Stimme ging allen auf die Nerven"]]
+  },
+  {
+    "lemma": "metallurgical",
+    "meanings_de": ["die Metallurgie betreffend"],
+    "definitions_de": ["sich auf die Wissenschaft der Gewinnung und Bearbeitung von Metallen beziehend"],
+    "examples_de": [["Der **metallurgische** Ingenieur entwarf neue Legierungszusammensetzungen", "**Metallurgische** Analysen enthüllten die alten Ursprünge des Schwertes"]]
+  },
+  {
+    "lemma": "metamorphic",
+    "meanings_de": ["durch Hitze umgewandelt"],
+    "definitions_de": ["sich auf Gestein beziehend, das durch Hitze, Druck oder andere Prozesse umgewandelt wurde"],
+    "examples_de": [["Die **metamorphen** Gesteine zeigten schöne kristalline Muster", "Geologen untersuchten die **metamorphen** Formationen im Detail"]]
+  },
+  {
+    "lemma": "metaphoric",
+    "meanings_de": ["Metaphern verwendend"],
+    "definitions_de": ["charakteristisch für Metaphern als bildliche Sprache oder sich darauf beziehend"],
+    "examples_de": [["Seine **metaphorische** Sprache malte lebendige mentale Bilder", "Der **metaphorische** Stil des Dichters beeinflusste moderne Schriftsteller"]]
+  },
+  {
+    "lemma": "metaphorical",
+    "meanings_de": ["bildlich nicht wörtlich"],
+    "definitions_de": ["auf figurative Weise verwendet, um etwas anderes symbolisch darzustellen"],
+    "examples_de": [["Die **metaphorische** Reise stellte persönliches Wachstum dar", "Ihre **metaphorischen** Flügel gaben ihr die Freiheit zu erkunden"]]
+  },
+  {
+    "lemma": "metaphysical",
+    "meanings_de": ["jenseits physischer Realität"],
+    "definitions_de": ["sich auf den Zweig der Philosophie beziehend, der sich mit Existenz und Realität jenseits des Physischen befasst"],
+    "examples_de": [["Die **metaphysischen** Fragen beschäftigten Philosophen über Jahrhunderte", "Seine **metaphysische** Dichtung erkundete Themen der Existenz"]]
+  },
+  {
+    "lemma": "metastatic",
+    "meanings_de": ["Krankheit ausbreitend"],
+    "definitions_de": ["sich auf die Ausbreitung von Krankheiten von einem Organ auf ein anderes beziehend"],
+    "examples_de": [["Der **metastatische** Krebs erforderte sofort eine aggressive Behandlung", "Ärzte überwachten das **metastatische** Wachstum in anderen Organen"]]
+  },
+  {
+    "lemma": "meteoric",
+    "meanings_de": ["extrem schneller Aufstieg"],
+    "definitions_de": ["einem Meteor in Geschwindigkeit oder Brillanz der Entwicklung ähnelnd"],
+    "examples_de": [["Ihr **kometenhafter** Aufstieg zum Ruhm überraschte Branchenveteranen", "Das **rasante** Wachstum des Unternehmens zog die Aufmerksamkeit der Investoren auf sich"]]
+  },
+  {
+    "lemma": "meteorological",
+    "meanings_de": ["das Wetter betreffend"],
+    "definitions_de": ["sich auf die Prozesse und Phänomene der Atmosphäre und des Wetters beziehend"],
+    "examples_de": [["Die **meteorologischen** Daten sagten schwere Stürme voraus", "**Wetterbedingungen** machten das Fliegen heute gefährlich"]]
+  },
+  {
+    "lemma": "methodical",
+    "meanings_de": ["systematisch und ordentlich"],
+    "definitions_de": ["nach einem systematischen oder etablierten Verfahren durchgeführt"],
+    "examples_de": [["Ihr **methodisches** Vorgehen stellte sicher, dass nichts übersehen wurde", "Die **systematische** Untersuchung deckte wichtige Beweise auf"]]
+  },
+  {
+    "lemma": "methodological",
+    "meanings_de": ["die Methodik betreffend"],
+    "definitions_de": ["sich auf das System der in Forschung oder Studium verwendeten Methoden beziehend"],
+    "examples_de": [["Die **methodologischen** Mängel untergruben die Forschungsergebnisse", "Sie befolgten durchgehend strenge **methodische** Richtlinien"]]
+  },
+  {
+    "lemma": "methylated",
+    "meanings_de": ["chemisch modifiziert"],
+    "definitions_de": ["einer Methylierung unterzogen durch Hinzufügen einer Methylgruppe"],
+    "examples_de": [["Die **methylierten** Verbindungen zeigten unterschiedliche chemische Eigenschaften", "**Brennspiritus** diente als effektives Reinigungsmittel"]]
+  },
+  {
+    "lemma": "meticulous",
+    "meanings_de": ["äußerst sorgfältig"],
+    "definitions_de": ["große Aufmerksamkeit für Details zeigend und sehr sorgfältig und präzise"],
+    "examples_de": [["Seine **akribische** Buchführung rettete das Unternehmen während der Prüfungen", "Sie war **penibel** bei der Grammatik in ihrem Schreiben"]]
+  }
+]

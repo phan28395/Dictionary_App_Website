@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "encounter",
+    "meanings_de": ["unerwartete Begegnung", "feindliche Konfrontation"],
+    "definitions_de": ["eine unerwartete oder zufällige Begegnung mit einer Person oder Sache, die oft bedeutsame Auswirkungen hat", "eine gewaltsame Konfrontation oder ein Konflikt zwischen gegnerischen Kräften, insbesondere im militärischen Kontext"],
+    "examples_de": [["Die **Begegnung** mit dem Autor veränderte meine Sichtweise grundlegend", "Ihre zufällige **Begegnung** im Café führte zu einer langjährigen Freundschaft"], ["Die Soldaten bereiteten sich auf ihr erstes **Gefecht** mit feindlichen Truppen vor", "Jede **Konfrontation** zwischen den Rivalen wurde heftiger"]]
+  },
+  {
+    "lemma": "expertise",
+    "meanings_de": ["Fachwissen"],
+    "definitions_de": ["spezialisiertes Wissen oder besondere Fähigkeiten in einem bestimmten Bereich, die durch Ausbildung und langjährige Erfahrung erworben wurden"],
+    "examples_de": [["Ihre **Expertise** in der Meeresbiologie machte sie zur idealen Beraterin", "Das Unternehmen suchte seine **Fachkenntnisse**, um komplexe technische Probleme zu lösen"]]
+  },
+  {
+    "lemma": "creator",
+    "meanings_de": ["Schöpfer"],
+    "definitions_de": ["eine Person, die etwas Neues erschafft oder ins Leben ruft, sei es durch künstlerische Arbeit, Innovation oder geistige Leistung"],
+    "examples_de": [["Die **Schöpferin** der Skulptur wollte ihre Inspiration nicht preisgeben", "Software-**Entwickler** arbeiten oft lange Stunden, um ihre Produkte zu perfektionieren"]]
+  },
+  {
+    "lemma": "tablet",
+    "meanings_de": ["elektronisches Gerät", "Arzneiform", "Schreibtafel"],
+    "definitions_de": ["ein tragbarer Computer mit Touchscreen-Oberfläche, der für verschiedene digitale Anwendungen genutzt wird", "eine kleine, feste Arzneiform, die zu einer flachen runden oder ovalen Form gepresst wird", "eine flache Tafel aus Stein oder Ton, die historisch für Inschriften verwendet wurde"],
+    "examples_de": [["Sie liest ihre Morgennachrichten auf dem digitalen **Tablet**", "Die Studentin macht während der Vorlesungen Notizen auf ihrem **Tablet**"], ["Nehmen Sie zwei **Tabletten** Aspirin gegen Ihre Kopfschmerzen", "Der Arzt verschrieb Vitamin-**Tabletten** zur täglichen Einnahme"], ["Antike **Tafeln** enthüllten die Geschichte früher Zivilisationen", "Das Museum zeigte Stein**tafeln** mit hieroglyphischen Inschriften"]]
+  },
+  {
+    "lemma": "blow",
+    "meanings_de": ["heftiger Schlag", "schwerer Rückschlag", "starker Wind"],
+    "definitions_de": ["ein kraftvoller Schlag mit der Hand oder einer Waffe", "ein plötzlicher Schock oder eine Enttäuschung, die emotionalen Schmerz verursacht", "eine starke Luftströmung oder Windbewegung"],
+    "examples_de": [["Der Boxer versetzte seinem Gegner einen mächtigen **Schlag**", "Ein **Hieb** mit dem Hammer trieb den Nagel vollständig ein"], ["Der Verlust der Meisterschaft war ein schwerer **Schlag** für das Team", "Die Nachricht traf die Familie wie ein vernichtender **Schicksalsschlag**"], ["Der Sturm brachte heftige **Windstöße** aus nördlicher Richtung", "Eine plötzliche **Böe** warf das Zelt in der Nacht um"]]
+  },
+  {
+    "lemma": "ruling",
+    "meanings_de": ["Gerichtsentscheidung", "herrschende Gruppe"],
+    "definitions_de": ["eine offizielle Entscheidung eines Richters oder Gerichts über eine Rechtsfrage", "die Gruppe von Menschen, die ein Land oder eine Organisation kontrollieren und regieren"],
+    "examples_de": [["Das **Urteil** des Gerichts schuf einen wichtigen Präzedenzfall", "Wir müssen auf die **Entscheidung** des Richters warten, bevor wir fortfahren"], ["Die **regierende** Partei kündigte neue Wirtschaftsmaßnahmen an", "Mitglieder der **herrschenden** Klasse genossen besondere Privilegien"]]
+  },
+  {
+    "lemma": "launch",
+    "meanings_de": ["Projektstart", "Schiffstaufe", "Raketenstart"],
+    "definitions_de": ["der Beginn eines neuen Produkts, Unternehmens oder Projekts mit öffentlicher Präsentation", "das Zuwasserlassen eines Bootes oder Schiffes, oft mit zeremonieller Begleitung", "der Start einer Rakete oder eines Raumfahrzeugs ins All"],
+    "examples_de": [["Das Unternehmen plante eine große **Markteinführung** für ihr neues Smartphone", "Die **Buchpräsentation** zog Hunderte begeisterter Leser an"], ["Der **Stapellauf** der neuen Yacht lockte Menschenmassen zum Hafen", "Sie nahmen an der feierlichen **Schiffstaufe** des Rettungsbootes teil"], ["Alle verfolgten den dramatischen **Start** des Space Shuttles", "Der Satelliten**start** wurde wegen schlechten Wetters verschoben"]]
+  },
+  {
+    "lemma": "warming",
+    "meanings_de": ["Temperaturanstieg", "freundlicheres Verhalten"],
+    "definitions_de": ["der Prozess des Wärmerwerdens oder der Erhöhung der Temperatur von etwas", "das Freundlicher- oder Herzlicherwerden im zwischenmenschlichen Verhalten"],
+    "examples_de": [["Die globale **Erwärmung** stellt eine ernsthafte Bedrohung für Küstenstädte dar", "Die **Erwärmung** der Ozeane beeinflusst marine Ökosysteme"], ["In ihrer Beziehung ist eine deutliche **Erwärmung** zu spüren", "Seine **wärmere** Haltung ließ alle sich wohler fühlen"]]
+  },
+  {
+    "lemma": "equity",
+    "meanings_de": ["Gerechtigkeitsprinzip", "Eigenkapitalwert"],
+    "definitions_de": ["die Qualität der Fairness und Unparteilichkeit in Behandlung oder Beurteilung", "der Wert von Anteilen oder Eigentum nach Abzug von Schulden"],
+    "examples_de": [["Die Organisation fördert **Chancengleichheit** in der Bildung für alle Schüler", "Lohn**gerechtigkeit** zwischen den Geschlechtern bleibt ein wichtiges Arbeitsplatzthema"], ["Sie baute über zwanzig Jahre erhebliches **Eigenkapital** in ihrem Haus auf", "Private-**Equity**-Firmen investieren in wachstumssuchende Unternehmen"]]
+  },
+  {
+    "lemma": "classic",
+    "meanings_de": ["zeitloses Werk", "typisches Beispiel"],
+    "definitions_de": ["ein Werk der Kunst, Literatur oder Musik von anerkanntem und etabliertem Wert", "etwas, das als Standard oder typisches Beispiel seiner Art dient"],
+    "examples_de": [["Dieser Roman gilt als **Klassiker** der amerikanischen Literatur", "Die Oldtimer-Show präsentierte automobile **Klassiker** aus den Fünfzigerjahren"], ["Sein Verhalten war ein **klassisches** Beispiel für Verleugnung", "Dieser Fehler war ein **Paradebeispiel** für schlechte Planung"]]
+  },
+  {
+    "lemma": "pine",
+    "meanings_de": ["Nadelbaum", "Kiefernholz"],
+    "definitions_de": ["ein immergrüner Nadelbaum mit nadelförmigen Blättern, die in Büscheln wachsen", "das helle, weiche Holz eines Kiefernbaums, das im Bau und für Möbel verwendet wird"],
+    "examples_de": [["Die hohen **Kiefern** spendeten dem Zeltplatz Schatten", "**Kiefernwälder** bedecken große Teile der Bergregion"], ["Sie wählten **Kiefernholz**schränke für ihr rustikales Küchendesign", "Der Boden bestand aus polierten **Kieferndielen**"]]
+  },
+  {
+    "lemma": "surgeon",
+    "meanings_de": ["Chirurg"],
+    "definitions_de": ["ein Arzt, der sich auf die Durchführung von Operationen zur Behandlung von Krankheiten, Verletzungen oder Deformitäten spezialisiert hat"],
+    "examples_de": [["Der Herz**chirurg** führte die komplexe Operation erfolgreich durch", "Sie bildete sich jahrelang zur Kinder**chirurgin** aus"]]
+  },
+  {
+    "lemma": "tennis",
+    "meanings_de": ["Rückschlagspiel"],
+    "definitions_de": ["ein Spiel, das mit Schlägern und einem Ball auf einem rechteckigen, durch ein Netz geteilten Spielfeld gespielt wird"],
+    "examples_de": [["Sie spielen jeden Samstagmorgen **Tennis** im Club", "Professionelles **Tennis** erfordert außergewöhnliche körperliche Fitness und mentale Stärke"]]
+  },
+  {
+    "lemma": "suffering",
+    "meanings_de": ["körperlicher Schmerz", "seelisches Leid"],
+    "definitions_de": ["der Zustand, in dem man körperliche Schmerzen, Beschwerden oder Härten erduldet", "geistiger oder emotionaler Schmerz, verursacht durch Verlust, Enttäuschung oder Trauma"],
+    "examples_de": [["Die Medikamente halfen, ihre körperlichen **Leiden** zu lindern", "Jahre des **Leidens** unter chronischen Schmerzen beeinträchtigten sein tägliches Leben"], ["Das **Leid** der Familie nach der Tragödie war herzzerreißend", "Kunst kann menschliches **Leiden** manchmal besser ausdrücken als Worte"]]
+  },
+  {
+    "lemma": "accuracy",
+    "meanings_de": ["Genauigkeit"],
+    "definitions_de": ["die Qualität oder der Zustand der Korrektheit oder Präzision in Details und Messungen"],
+    "examples_de": [["Die **Genauigkeit** der Wettervorhersage hat sich erheblich verbessert", "Wissenschaftler schätzen **Präzision** mehr als Geschwindigkeit in ihrer Forschung"]]
+  },
+  {
+    "lemma": "literacy",
+    "meanings_de": ["Lesefähigkeit", "Kompetenzniveau"],
+    "definitions_de": ["die Fähigkeit, auf einem funktionalen Niveau lesen und schreiben zu können", "Kompetenz oder Wissen in einem bestimmten Bereich oder einer Fertigkeit"],
+    "examples_de": [["Alphabetisierungsprogramme für Erwachsene helfen Menschen, grundlegende Fähigkeiten zu erlangen", "Das Land erreichte durch Bildungsreformen nahezu vollständige **Alphabetisierung**"], ["Digitale **Kompetenz** wird in modernen Arbeitsplätzen immer wichtiger", "Finanzielle **Bildung** hilft Menschen, bessere Geldentscheidungen zu treffen"]]
+  },
+  {
+    "lemma": "treasury",
+    "meanings_de": ["Finanzministerium", "Schatzkammer"],
+    "definitions_de": ["die Regierungsabteilung, die für die Verwaltung öffentlicher Einnahmen und Ausgaben verantwortlich ist", "ein Ort, an dem Schätze oder wertvolle Gegenstände aufbewahrt werden"],
+    "examples_de": [["Das **Finanzministerium** kündigte neue Maßnahmen zur Inflationskontrolle an", "Sie arbeitet als Analystin im nationalen **Schatzamt**"], ["Die **Schatzkammer** des Museums enthält unbezahlbare antike Artefakte", "Die **Domschatzkammer** beherbergt religiöse Reliquien und Goldgefäße"]]
+  },
+  {
+    "lemma": "crown",
+    "meanings_de": ["königliche Kopfbedeckung", "oberer Teil", "Zahnkrone"],
+    "definitions_de": ["ein kreisförmiger ornamentaler Kopfschmuck, den Monarchen als Symbol der Autorität tragen", "der oberste oder höchste Teil von etwas Rundem oder Gewölbtem", "eine künstliche Abdeckung für einen beschädigten Zahn aus Metall oder Porzellan"],
+    "examples_de": [["Die **Krone** der Königin funkelte mit kostbaren Diamanten und Smaragden", "Die **Krone** wurde über Generationen von Herrschern weitergegeben"], ["Schnee bedeckte die **Kuppe** des Berges den ganzen Sommer über", "Die **Baumkrone** breitete sich weit aus und spendete reichlich Schatten"], ["Der Zahnarzt empfahl eine **Krone** zum Schutz des geschwächten Zahns", "Ihre neue **Zahnkrone** passte perfekt zu ihren natürlichen Zähnen"]]
+  },
+  {
+    "lemma": "sergeant",
+    "meanings_de": ["Militärdienstgrad", "Polizeidienstgrad"],
+    "definitions_de": ["ein Unteroffizier, der in den Streitkräften über dem Gefreiten rangiert", "ein Polizeibeamter, der unter dem Leutnant oder Inspektor rangiert"],
+    "examples_de": [["Der **Feldwebel** führte seinen Trupp durch Kampftrainingsübungen", "Sie erhielt ihre **Sergeant**-Abzeichen nach fünf Jahren Dienst"], ["Kriminal**hauptmeister** Johnson befragte alle Zeugen", "Der Revierbeamte protokollierte den Vorfall"]]
+  },
+  {
+    "lemma": "thumb",
+    "meanings_de": ["Daumen"],
+    "definitions_de": ["der kurze, dicke erste Finger der menschlichen Hand, der von den anderen vier Fingern abgesetzt ist"],
+    "examples_de": [["Er schlug sich versehentlich mit dem Hammer auf den **Daumen**", "Babys lutschen oft an ihrem **Daumen** zur Beruhigung und aus Sicherheitsbedürfnis"]]
+  },
+  {
+    "lemma": "colony",
+    "meanings_de": ["Siedlungsgebiet", "Organismengruppe"],
+    "definitions_de": ["ein Land oder Gebiet unter politischer Kontrolle eines anderen Landes und von Siedlern bewohnt", "eine Gruppe von Organismen derselben Art, die zusammen leben oder wachsen"],
+    "examples_de": [["Die dreizehn **Kolonien** erklärten ihre Unabhängigkeit von der britischen Herrschaft", "Frankreich gründete **Kolonien** in ganz Afrika und Südostasien"], ["Die Ameisen**kolonie** arbeitete zusammen am Bau ihres unterirdischen Nestes", "Wissenschaftler untersuchten die Bakterien**kolonie** unter dem Mikroskop"]]
+  },
+  {
+    "lemma": "walking",
+    "meanings_de": ["Gehbewegung"],
+    "definitions_de": ["die Aktivität, sich zu Fuß in gemäßigtem Tempo zur Bewegung oder zum Reisen fortzubewegen"],
+    "examples_de": [["Tägliches **Spazierengehen** verbessert die Herz-Kreislauf-Gesundheit und das geistige Wohlbefinden", "Das **Wandern** durch den Park wurde zu ihrer liebsten Morgenroutine"]]
+  },
+  {
+    "lemma": "integration",
+    "meanings_de": ["Vereinigungsprozess", "mathematische Operation"],
+    "definitions_de": ["der Prozess der Kombination oder Eingliederung separater Elemente in ein einheitliches Ganzes", "eine mathematische Operation, die die Fläche unter einer Kurve oder die Akkumulation von Größen findet"],
+    "examples_de": [["Die **Integration** neuer Mitarbeiter erfordert sorgfältige Planung und Unterstützung", "Kulturelle **Integration** hilft Einwanderergemeinschaften, sich willkommen zu fühlen"], ["Studenten lernten **Integrations**techniken in ihrem Analysis-Kurs", "Die **Integration** komplexer Funktionen erfordert fortgeschrittene mathematische Fähigkeiten"]]
+  },
+  {
+    "lemma": "spouse",
+    "meanings_de": ["Ehepartner"],
+    "definitions_de": ["ein Ehemann oder eine Ehefrau in Bezug auf ihren verheirateten Partner"],
+    "examples_de": [["Jeder **Ehepartner** muss die Hypothekendokumente unterschreiben", "**Ehepartner** von Militärangehörigen stehen während Einsätzen vor besonderen Herausforderungen"]]
+  },
+  {
+    "lemma": "excitement",
+    "meanings_de": ["Begeisterung"],
+    "definitions_de": ["ein Gefühl großer Begeisterung, Aufregung oder emotionaler Erregung über etwas"],
+    "examples_de": [["Die Kinder konnten ihre **Aufregung** am Weihnachtsmorgen nicht verbergen", "Im Stadion herrschte große **Begeisterung**, als die Heimmannschaft ein Tor erzielte"]]
+  },
+  {
+    "lemma": "residence",
+    "meanings_de": ["Wohnort", "Aufenthaltsstatus"],
+    "definitions_de": ["das Zuhause einer Person oder der Ort, an dem jemand dauerhaft oder vorübergehend lebt", "die Tatsache des Wohnens oder der offiziellen Erlaubnis, an einem Ort zu leben"],
+    "examples_de": [["Ihr Haupt**wohnsitz** liegt in den Vororten außerhalb der Stadt", "Die **Residenz** des Botschafters war Schauplatz vieler diplomatischer Empfänge"], ["Sie beantragte nach fünf Jahren im Ausland eine dauerhafte **Aufenthaltsgenehmigung**", "Die **Facharztausbildung** dauert in der Regel drei bis sieben Jahre"]]
+  },
+  {
+    "lemma": "adolescent",
+    "meanings_de": ["Jugendlicher"],
+    "definitions_de": ["eine junge Person in der Entwicklung vom Kind zum Erwachsenen, typischerweise zwischen dreizehn und neunzehn Jahren"],
+    "examples_de": [["Der **Jugendliche** kämpfte mit Identitäts- und Gruppenzwangsproblemen", "Gesundheitsdienstleister spezialisieren sich auf die psychische Gesundheit von **Heranwachsenden**"]]
+  },
+  {
+    "lemma": "doll",
+    "meanings_de": ["Spielzeugfigur"],
+    "definitions_de": ["eine kleine Figur, die ein Baby oder eine Person darstellt und als Kinderspielzeug verwendet wird"],
+    "examples_de": [["Die antike **Puppensammlung** war Tausende von Euro wert", "Sie zog ihrer Lieblings**puppe** sorgfältig ein neues Outfit an"]]
+  },
+  {
+    "lemma": "oxygen",
+    "meanings_de": ["Atemgas"],
+    "definitions_de": ["ein farb- und geruchloses Gas, das etwa einundzwanzig Prozent der Erdatmosphäre ausmacht und für die Atmung unerlässlich ist"],
+    "examples_de": [["Bergsteiger tragen oft **Sauerstoff**flaschen in großen Höhen", "Pflanzen produzieren **Sauerstoff** durch den Prozess der Photosynthese"]]
+  },
+  {
+    "lemma": "gravity",
+    "meanings_de": ["Anziehungskraft", "ernste Natur"],
+    "definitions_de": ["die Kraft, die Objekte mit Masse zueinander anzieht, insbesondere Objekte zur Erde", "die extreme Wichtigkeit oder Ernsthaftigkeit einer Situation oder Angelegenheit"],
+    "examples_de": [["Die **Schwerkraft** hält Planeten in der Umlaufbahn um die Sonne", "Der Apfel fiel aufgrund der Erd**anziehung** vom Baum"], ["Der **Ernst** der Lage erforderte sofortiges Handeln", "Er sprach mit großem **Ernst** über die Finanzkrise des Unternehmens"]]
+  },
+  {
+    "lemma": "palace",
+    "meanings_de": ["königliche Residenz"],
+    "definitions_de": ["ein großes und beeindruckendes Gebäude, das als offizielle Residenz eines Herrschers, Präsidenten oder Erzbischofs dient"],
+    "examples_de": [["Touristen standen Schlange, um den alten **Palast** und seine Gärten zu besichtigen", "Die **Palastwachen** führten jeden Morgen die Wachablösung durch"]]
+  },
+  {
+    "lemma": "cotton",
+    "meanings_de": ["Pflanzenfaser", "Baumwollstoff"],
+    "definitions_de": ["weiche weiße Fasern aus den Samen einer tropischen Pflanze", "Stoff oder Faden aus der weichen weißen Fasersubstanz"],
+    "examples_de": [["**Baumwollpflanzen** benötigen warmes Klima und ausreichend Niederschlag", "Die **Baumwollernte** beschäftigte Tausende von Saisonarbeitern"], ["Sie bevorzugt **Baumwollhemden**, weil sie bequem und atmungsaktiv sind", "Das Krankenhaus verwendet **Baumwollverbände** für die Wundversorgung"]]
+  },
+  {
+    "lemma": "rescue",
+    "meanings_de": ["Rettungsaktion"],
+    "definitions_de": ["eine Handlung, jemanden oder etwas vor Gefahr, Schaden oder einer schwierigen Situation zu retten"],
+    "examples_de": [["Die dramatische **Rettung** der eingeschlossenen Bergleute machte internationale Schlagzeilen", "Berg**rettungsteams** trainieren intensiv für Notfallsituationen"]]
+  },
+  {
+    "lemma": "lawmaker",
+    "meanings_de": ["Gesetzgeber"],
+    "definitions_de": ["eine Person, die Gesetze macht oder erlässt, insbesondere ein Mitglied einer gesetzgebenden Körperschaft"],
+    "examples_de": [["**Abgeordnete** debattierten mehrere Wochen über das neue Gesundheitsgesetz", "Sie wurde **Gesetzgeberin**, um für Umweltschutz zu kämpfen"]]
+  },
+  {
+    "lemma": "determination",
+    "meanings_de": ["Feststellung", "Entschlossenheit"],
+    "definitions_de": ["der Prozess der genauen Feststellung von etwas durch Berechnung oder Forschung", "die Eigenschaft, entschlossen zu sein, etwas trotz Schwierigkeiten zu tun oder zu erreichen"],
+    "examples_de": [["Die **Feststellung** der Schuld erfordert sorgfältige Prüfung der Beweise", "Bluttests ermöglichen die **Bestimmung** verschiedener Gesundheitszustände"], ["Ihre **Entschlossenheit** zum Erfolg inspirierte alle um sie herum", "Athleten brauchen **Durchhaltevermögen**, um trotz Schmerzen und Rückschlägen zu trainieren"]]
+  },
+  {
+    "lemma": "dynamics",
+    "meanings_de": ["Kräftewechselwirkung", "Veränderungsmuster"],
+    "definitions_de": ["der Zweig der Mechanik, der Kräfte und ihre Auswirkungen auf Bewegung untersucht", "die Kräfte oder Eigenschaften, die Veränderungen innerhalb eines Systems oder Prozesses anregen"],
+    "examples_de": [["Studenten studierten Strömungs**dynamik** in ihrem Physikkurs", "Die **Dynamik** der Planetenbewegung faszinierte frühe Astronomen"], ["Die Familien**dynamik** änderte sich nach der Scheidung dramatisch", "Das Verständnis von Gruppen**dynamik** hilft Managern, effektiver zu führen"]]
+  },
+  {
+    "lemma": "shell",
+    "meanings_de": ["harte Hülle", "Explosivgeschoss", "äußere Struktur"],
+    "definitions_de": ["die harte schützende Außenhülle eines Tieres, insbesondere von Weichtieren und Schildkröten", "ein mit Sprengstoff gefülltes Metallgeschoss, das aus großen Geschützen abgefeuert wird", "die äußere Struktur oder das Gerüst von etwas"],
+    "examples_de": [["Kinder sammelten bunte **Muscheln** am Strand", "Die Schildkröte zog sich bei Bedrohung in ihren **Panzer** zurück"], ["Artillerie**granaten** explodierten nahe den feindlichen Stellungen", "Nicht explodierte **Geschosse** aus dem Krieg bleiben gefährlich"], ["Das **Gebäudegerippe** stand nach dem Brand leer", "Arbeiter entfernten während der Renovierung alles außer der **Außenhülle**"]]
+  },
+  {
+    "lemma": "hint",
+    "meanings_de": ["dezenter Hinweis", "kleine Menge"],
+    "definitions_de": ["eine leichte oder indirekte Andeutung oder Anregung über etwas", "eine sehr kleine Spur oder Menge von etwas"],
+    "examples_de": [["Sie ließ mehrere **Andeutungen** fallen, dass sie sich Schmuck zum Geburtstag wünschte", "Der Lehrer gab **Hinweise**, um den Schülern beim Lösen des Rätsels zu helfen"], ["Es war nur ein **Hauch** von Knoblauch in der Soße", "Ein **Anflug** von Traurigkeit huschte über ihr Gesicht"]]
+  },
+  {
+    "lemma": "rush",
+    "meanings_de": ["eilige Bewegung", "plötzliche Nachfrage", "Binsengewächs"],
+    "definitions_de": ["eine plötzliche schnelle Bewegung zu etwas hin oder in eine bestimmte Richtung", "ein plötzlicher Anstieg der Nachfrage oder Aktivität zu einer bestimmten Zeit", "eine Sumpfpflanze mit zylindrischen Stängeln, die oft in der Korbflechterei verwendet wird"],
+    "examples_de": [["Die morgendliche **Hektik**, den Zug zu erwischen, ließ ihn atemlos zurück", "Alle **stürmten** zu den Ausgängen, als der Alarm ertönte"], ["Der Weihnachts**ansturm** hielt die Angestellten mit Überstunden beschäftigt", "Es gibt immer einen **Ansturm** auf Konzertkarten, wenn der Verkauf beginnt"], ["Ureinwohner Amerikas flochten Körbe aus getrockneten **Binsenstängeln**", "**Binsen** wuchsen dicht am Flussufer"]]
+  },
+  {
+    "lemma": "christianity",
+    "meanings_de": ["christlicher Glaube"],
+    "definitions_de": ["die Religion, die auf den Lehren Jesu Christi und dem Glauben an ihn als Sohn Gottes basiert"],
+    "examples_de": [["Das **Christentum** breitete sich in den frühen Jahrhunderten im gesamten Römischen Reich aus", "Viele Konfessionen existieren weltweit innerhalb des **Christentums**"]]
+  },
+  {
+    "lemma": "ban",
+    "meanings_de": ["offizielles Verbot"],
+    "definitions_de": ["ein offizielles oder gesetzliches Verbot von etwas"],
+    "examples_de": [["Die Stadt verhängte ein **Verbot** von Plastiktüten", "Das **Rauchverbot** in Restaurants verbesserte die öffentliche Gesundheit"]]
+  },
+  {
+    "lemma": "statute",
+    "meanings_de": ["geschriebenes Gesetz"],
+    "definitions_de": ["ein schriftliches Gesetz, das von einer gesetzgebenden Körperschaft verabschiedet wurde"],
+    "examples_de": [["Das neue **Gesetz** verlangt von Unternehmen, bezahlten Krankenurlaub zu gewähren", "Anwälte müssen sowohl **Gesetze** als auch Rechtsprechung verstehen"]]
+  },
+  {
+    "lemma": "biology",
+    "meanings_de": ["Lebenswissenschaft"],
+    "definitions_de": ["die wissenschaftliche Untersuchung lebender Organismen einschließlich ihrer Struktur, Funktion, Wachstum und Evolution"],
+    "examples_de": [["Die Meeres**biologie** konzentriert sich auf Organismen, die in Meeresumgebungen leben", "Sie erwarb ihren Abschluss in Molekular**biologie**"]]
+  },
+  {
+    "lemma": "follower",
+    "meanings_de": ["Anhänger", "Social-Media-Abonnent"],
+    "definitions_de": ["eine Person, die eine bestimmte Person oder eine Reihe von Ideen unterstützt und bewundert", "eine Person, die das Social-Media-Konto einer anderen Person abonniert, um deren Inhalte zu sehen"],
+    "examples_de": [["Die **Anhänger** des religiösen Führers versammelten sich zu wöchentlichen Gottesdiensten", "Politische **Gefolgsleute** besuchten Kundgebungen, um ihre Unterstützung zu zeigen"], ["Sie gewann Tausende von **Followern**, nachdem ihr Video viral ging", "Influencer interagieren oft mit ihren **Abonnenten** durch Kommentare"]]
+  },
+  {
+    "lemma": "trap",
+    "meanings_de": ["Fangvorrichtung", "gefährliche Situation"],
+    "definitions_de": ["eine Vorrichtung oder Umschließung, die zum Fangen und Festhalten von Tieren entwickelt wurde", "eine Situation, aus der es schwierig oder unmöglich ist zu entkommen"],
+    "examples_de": [["Die Mause**falle** fing drei Mäuse im Keller", "Jäger stellten **Fallen** entlang bekannter Tierpfade auf"], ["Sie erkannte zu spät, dass der Vertrag eine **Falle** war", "Viele Studenten tappen in die **Falle** der Aufschieberitis"]]
+  },
+  {
+    "lemma": "consent",
+    "meanings_de": ["Zustimmung"],
+    "definitions_de": ["die Erlaubnis, dass etwas geschieht, oder die Zustimmung, etwas zu tun"],
+    "examples_de": [["Der Patient muss vor der Operation seine informierte **Einwilligung** geben", "Die Eltern erteilten ihre schriftliche **Zustimmung** für den Schulausflug"]]
+  },
+  {
+    "lemma": "pump",
+    "meanings_de": ["Fördergerät", "Damenschuh"],
+    "definitions_de": ["ein mechanisches Gerät, das verwendet wird, um Flüssigkeiten durch Druck oder Saugkraft zu bewegen", "ein Damenschuh mit niedrigem Oberteil und ohne Verschluss"],
+    "examples_de": [["Die Wasser**pumpe** versagte während der Dürre", "Tankstellen**zapfsäulen** zeigen die aktuellen Kraftstoffpreise an"], ["Sie trug schwarze **Pumps** zum formellen Abendessen", "Die neue **Pumps**-Kollektion des Designers zeigte kräftige Farben"]]
+  },
+  {
+    "lemma": "down",
+    "meanings_de": ["weiche Federn"],
+    "definitions_de": ["weiche, feine Federn, die unter den härteren äußeren Federn von Vögeln zu finden sind"],
+    "examples_de": [["Der Schlafsack war mit Gänse**daunen** für Wärme gefüllt", "**Daunen**kissen bieten luxuriösen Schlafkomfort"]]
+  },
+  {
+    "lemma": "hate",
+    "meanings_de": ["intensive Abneigung"],
+    "definitions_de": ["intensive oder leidenschaftliche Abneigung gegen jemanden oder etwas"],
+    "examples_de": [["Der **Hass** zwischen den rivalisierenden Gruppen führte zu anhaltenden Konflikten", "Kinder über **Hass** aufzuklären hilft, Diskriminierung zu verhindern"]]
+  },
+  {
+    "lemma": "trunk",
+    "meanings_de": ["Baumstamm", "Aufbewahrungstruhe", "Elefantenrüssel"],
+    "definitions_de": ["der Hauptholzstamm eines Baumes im Unterschied zu seinen Ästen und Wurzeln", "eine große Kiste oder ein Behälter zum Aufbewahren oder Transportieren von Kleidung und anderen Gegenständen", "die verlängerte greiffähige Nase eines Elefanten"],
+    "examples_de": [["Der massive **Stamm** des Baumes zeigte jahrhundertealte Wachstumsringe", "Ein Blitz hatte den **Stamm** vernarbt, aber der Baum überlebte"], ["Sie packte ihre alte **Truhe** für die Überseereise", "Der Koffer**raum** des Autos fasste ihre gesamte Campingausrüstung"], ["Der Elefant benutzte seinen **Rüssel**, um Wasser auf seinen Rücken zu spritzen", "Elefantenbabys lernen allmählich, ihren **Rüssel** zu kontrollieren"]]
+  }
+]

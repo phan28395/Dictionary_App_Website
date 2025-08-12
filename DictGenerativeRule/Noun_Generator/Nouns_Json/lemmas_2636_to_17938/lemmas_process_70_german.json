@@ -1,0 +1,266 @@
+[
+  {
+    "lemma": "extractor",
+    "meanings_de": ["Gerät zum Entfernen", "Person die extrahiert"],
+    "definitions_de": ["Maschine oder Werkzeug, das dazu entwickelt wurde, Substanzen aus Materialien herauszuziehen oder zu entfernen", "Person, deren Beruf das Entfernen oder Gewinnen bestimmter Materialien oder Informationen umfasst"],
+    "examples_de": [["Der **Entsafter** trennt das Fruchtfleisch effizient von der Flüssigkeit", "Sie kaufte einen neuen **Zahnextraktor** für die Zahnarztpraxis"], ["Der **Datenextraktor** sammelte Informationen aus mehreren Datenbanken", "Die **Honigschleuder** half bei der Ernte der Waben ohne Beschädigung"]]
+  },
+  {
+    "lemma": "extradition",
+    "meanings_de": ["rechtliches Überstellungsverfahren"],
+    "definitions_de": ["offizielles Verfahren zur Rückführung beschuldigter oder verurteilter Straftäter in das Land, in dem sie Verbrechen begangen haben"],
+    "examples_de": [["Das **Auslieferungsabkommen** zwischen den Ländern erleichtert die Rechtspflege", "Seine Anwälte kämpften mehrere Monate gegen die **Auslieferung**"]]
+  },
+  {
+    "lemma": "extrapolation",
+    "meanings_de": ["mathematische Erweiterungsmethode", "Schlussfolgerung über Daten hinaus"],
+    "definitions_de": ["mathematische Technik zur Schätzung von Werten jenseits bekannter Datenpunkte unter Verwendung von Mustern", "Prozess der Ableitung unbekannter Informationen aus bekannten Fakten oder beobachteten Trends"],
+    "examples_de": [["Der Wissenschaftler nutzte **Extrapolation** zur Vorhersage zukünftiger Temperaturen", "Lineare **Extrapolation** half bei der Schätzung der Umsatzzahlen des nächsten Quartals"], ["Ihre **Extrapolation** aus begrenzten Beweisen erwies sich als überraschend genau", "Die Markt**extrapolation** deutete auf anhaltendes Wachstum in diesem Sektor hin"]]
+  },
+  {
+    "lemma": "extraterrestrial",
+    "meanings_de": ["Wesen aus dem Weltraum", "außerirdischen Ursprungs"],
+    "definitions_de": ["hypothetisches oder fiktives Wesen, das von außerhalb des Planeten Erde stammt", "alles, was jenseits der Erdatmosphäre oder terrestrischer Grenzen existiert oder vorkommt"],
+    "examples_de": [["Wissenschaftler suchen nach Beweisen für **außerirdische** Lebensformen", "Der Film zeigte freundliche **Außerirdische**, die unseren Planeten besuchen"], ["Der Meteorit enthielt **extraterrestrische** Mineralien, die noch nie zuvor gesehen wurden", "Funksignale könnten auf **außerirdische** Intelligenz hindeuten, die Kontakt aufnehmen will"]]
+  },
+  {
+    "lemma": "extravagance",
+    "meanings_de": ["übermäßiges Ausgabeverhalten", "aufwendige Zurschaustellung"],
+    "definitions_de": ["Neigung, Geld sorglos oder über vernünftige Grenzen hinaus für unnötige Dinge auszugeben", "Eigenschaft, aufwendig, verziert oder über normale Grenzen in Stil oder Präsentation hinauszugehen"],
+    "examples_de": [["Ihre **Verschwendungssucht** führte später zu ernsthaften finanziellen Problemen", "Die **Extravaganz** der Hochzeit schockierte selbst die anwesenden wohlhabenden Gäste"], ["Die **Prachtentfaltung** des Palastes spiegelte die unbegrenzte Macht des Königs wider", "Die **Extravaganz** der Modenschau umfasste mit Gold durchwirkte Designerkleider"]]
+  },
+  {
+    "lemma": "extravaganza",
+    "meanings_de": ["spektakuläre Unterhaltungsveranstaltung"],
+    "definitions_de": ["aufwendige und spektakuläre Unterhaltungsproduktion mit mehreren Acts, prächtigen Kostümen und beeindruckender Inszenierung"],
+    "examples_de": [["Die Zirkus-**Extravaganza** präsentierte Akrobaten und exotische Tiere", "Broadways neueste **Extravaganza** verbindet Musik, Tanz und Drama"]]
+  },
+  {
+    "lemma": "extraversion",
+    "meanings_de": ["nach außen gerichtete Persönlichkeitseigenschaft"],
+    "definitions_de": ["Persönlichkeitsmerkmal, das durch Geselligkeit, Gesprächigkeit und das Schöpfen von Energie aus externen Interaktionen mit anderen gekennzeichnet ist"],
+    "examples_de": [["Ihre natürliche **Extraversion** machte Netzwerkveranstaltungen zu angenehmen Erlebnissen", "Psychologische Tests messen **Extraversion** zusammen mit anderen Eigenschaften"]]
+  },
+  {
+    "lemma": "extremism",
+    "meanings_de": ["radikales Glaubenssystem"],
+    "definitions_de": ["politische oder religiöse Ideologie, die drastische Veränderungen durch kompromisslose und oft gewalttätige Methoden befürwortet"],
+    "examples_de": [["Regierungsbehörden überwachen **Extremismus**, um Terroranschläge zu verhindern", "Online-Plattformen kämpfen damit, **Extremismus**-Inhalte effektiv zu entfernen"]]
+  },
+  {
+    "lemma": "extremist",
+    "meanings_de": ["Anhänger radikaler Ideologie"],
+    "definitions_de": ["Person, die extreme politische oder religiöse Ansichten vertritt und drastische Maßnahmen befürwortet"],
+    "examples_de": [["Die **Extremisten**gruppe plante Anschläge auf Regierungsgebäude", "Ehemalige **Extremisten** helfen manchmal bei erfolgreichen Deradikalisierungsprogrammen"]]
+  },
+  {
+    "lemma": "extremity",
+    "meanings_de": ["äußerster Körperteil", "äußerster Grad"],
+    "definitions_de": ["Arm, Bein, Hand oder Fuß, die sich am weitesten vom Körperzentrum entfernt befinden", "äußerster Punkt, Grenze oder Grad von etwas, besonders in Bezug auf Schwere oder Intensität"],
+    "examples_de": [["Erfrierungen betreffen oft **Extremitäten** wie Finger und Zehen", "Der Arzt untersuchte alle vier **Gliedmaßen** auf Verletzungen"], ["Die **Extremität** der Situation erforderte sofortiges Handeln", "Sie erreichten die **Grenze** menschlicher Ausdauer beim Klettern"]]
+  },
+  {
+    "lemma": "exuberance",
+    "meanings_de": ["enthusiastische Energie"],
+    "definitions_de": ["Eigenschaft, voller Energie, Aufregung und Fröhlichkeit zu sein, die sich in Verhalten und Ausdruck zeigt"],
+    "examples_de": [["Die natürliche **Ausgelassenheit** der Kinder erfüllte den Spielplatz mit Lachen", "Ihre **Begeisterung** für das Projekt motivierte das gesamte Team"]]
+  },
+  {
+    "lemma": "eyeball",
+    "meanings_de": ["kugelförmiges Sehorgan"],
+    "definitions_de": ["rundes Sehorgan, das in der Augenhöhle liegt und mit dem Gehirn verbunden ist"],
+    "examples_de": [["Der Arzt untersuchte ihren **Augapfel** auf Anzeichen von Schäden", "Sein **Augapfel** bewegte sich während der Traumschlafphase schnell"]]
+  },
+  {
+    "lemma": "eyelid",
+    "meanings_de": ["Augenbedeckende Hautfalte"],
+    "definitions_de": ["bewegliche Hautfalte, die das Auge beim Schließen bedeckt und schützt"],
+    "examples_de": [["Ihr **Augenlid** zuckte unwillkürlich vor Stress und Müdigkeit", "Maskenbildner trugen vorsichtig Lidschatten auf ihr oberes **Augenlid** auf"]]
+  },
+  {
+    "lemma": "eyepiece",
+    "meanings_de": ["optische Betrachtungslinse"],
+    "definitions_de": ["Linse oder Linsensystem, das dem Auge in optischen Instrumenten wie Teleskopen oder Mikroskopen am nächsten ist"],
+    "examples_de": [["Stellen Sie das **Okular** des Mikroskops ein, bis das Bild klar erscheint", "Das **Okular** des Teleskops vergrößerte entfernte Sterne zwanzigfach"]]
+  },
+  {
+    "lemma": "eyesight",
+    "meanings_de": ["Sehvermögen"],
+    "definitions_de": ["Fähigkeit, mit den Augen und dem visuellen System klar zu sehen und Objekte zu unterscheiden"],
+    "examples_de": [["Sein **Sehvermögen** verschlechterte sich mit dem Alter und erforderte stärkere Brillen", "Regelmäßige Untersuchungen helfen, das **Augenlicht** ein Leben lang zu erhalten"]]
+  },
+  {
+    "lemma": "eyesore",
+    "meanings_de": ["hässlicher Anblick"],
+    "definitions_de": ["Gebäude, Struktur oder Objekt, das äußerst unangenehm anzusehen ist"],
+    "examples_de": [["Die verlassene Fabrik wurde zum **Schandfleck** in der Nachbarschaft", "Anwohner forderten die Entfernung des mit Graffiti bedeckten **Schandflecks**"]]
+  },
+  {
+    "lemma": "fable",
+    "meanings_de": ["moralische Lehrgeschichte"],
+    "definitions_de": ["kurze fiktive Geschichte mit Tieren oder Gegenständen, die eine moralische Lektion vermittelt"],
+    "examples_de": [["Äsops **Fabel** von der Schildkröte lehrt, dass Geduld siegt", "Kinder lernten Werte durch **Fabeln**, die über Generationen weitergegeben wurden"]]
+  },
+  {
+    "lemma": "fabrication",
+    "meanings_de": ["Herstellungsprozess", "bewusste Falschdarstellung"],
+    "definitions_de": ["Prozess der Konstruktion oder Herstellung von Produkten aus Rohstoffen in Fabriken", "Erfindung falscher Informationen oder Geschichten, die als Wahrheit präsentiert werden, um zu täuschen"],
+    "examples_de": [["Die **Metallverarbeitung** erfordert Spezialwerkzeuge und Facharbeiter", "Das Unternehmen ist auf die **Fertigung** von Stahlteilen nach Maß spezialisiert"], ["Seine gesamte Aussage war reine **Erfindung** ohne jede Wahrheit", "Der Journalist deckte die **Fälschung** im offiziellen Bericht auf"]]
+  },
+  {
+    "lemma": "facade",
+    "meanings_de": ["Gebäudevorderseite", "täuschende Außendarstellung"],
+    "definitions_de": ["Vorderwand oder Vorderseite eines Gebäudes, besonders wenn diese dekorativ oder imposant ist", "falsche, oberflächliche oder künstliche Erscheinung, die aufrechterhalten wird, um eine weniger angenehme Realität zu verbergen"],
+    "examples_de": [["Die verzierte **Fassade** des Gebäudes zeigte geschnitzte Steinsäulen", "Architekten bewahrten die historische **Fassade** während der Innenrenovierung"], ["Ihre fröhliche **Fassade** verbarg tiefe persönliche Kämpfe", "Die Erfolgs**fassade** des Unternehmens verbarg ernsthafte finanzielle Probleme"]]
+  },
+  {
+    "lemma": "facelift",
+    "meanings_de": ["kosmetischer Eingriff", "Renovierung und Modernisierung"],
+    "definitions_de": ["chirurgischer Eingriff, der die Gesichtshaut strafft, um sichtbare Zeichen des Alterns zu reduzieren", "Renovierung oder Modernisierung, die das Erscheinungsbild von Gebäuden, Produkten oder Organisationen verbessert"],
+    "examples_de": [["Sie überlegte sich zu ihrem sechzigsten Geburtstag ein **Facelifting**", "Der Chirurg spezialisierte sich auf minimalinvasive **Gesichtsstraffungen**"], ["Die **Verschönerung** des Ladens umfasste neue Beschilderung und moderne Displays", "Die Website benötigte eine **Auffrischung** zur Verbesserung der Benutzerfreundlichkeit"]]
+  },
+  {
+    "lemma": "facet",
+    "meanings_de": ["flache Oberfläche", "Aspekt oder Merkmal"],
+    "definitions_de": ["flache polierte Oberfläche eines geschliffenen Edelsteins oder Kristalls, die Licht reflektiert", "bestimmter Aspekt, Merkmal oder Eigenschaft von etwas Komplexem mit mehreren Teilen"],
+    "examples_de": [["Jede **Facette** des Diamanten funkelte im hellen Sonnenlicht", "Der Juwelier polierte sorgfältig jede **Facette** des Edelsteins"], ["Wir müssen jeden **Aspekt** dieses komplexen Problems berücksichtigen", "Ihre Persönlichkeit offenbarte neue **Facetten**, als die Freundschaft sich vertiefte"]]
+  },
+  {
+    "lemma": "facial",
+    "meanings_de": ["Gesichtsbehandlung"],
+    "definitions_de": ["kosmetische Behandlung für das Gesicht mit Reinigung, Peeling und Feuchtigkeitspflege der Haut"],
+    "examples_de": [["Sie buchte eine monatliche **Gesichtsbehandlung** im Spa in der Innenstadt", "Die **Gesichtsbehandlung** umfasste eine Dampfbehandlung und eine feuchtigkeitsspendende Maske"]]
+  },
+  {
+    "lemma": "facilitation",
+    "meanings_de": ["ermöglichender Unterstützungsprozess"],
+    "definitions_de": ["Handlung, einen Prozess oder eine Aktivität zu erleichtern, indem Anleitung und Ressourcen bereitgestellt oder Hindernisse beseitigt werden"],
+    "examples_de": [["Die **Moderation** von Workshops erfordert starke Kommunikations- und Führungsqualitäten", "Der Berater spezialisierte sich auf Team**moderation** und Konfliktlösung"]]
+  },
+  {
+    "lemma": "facilitator",
+    "meanings_de": ["Prozessbegleiter"],
+    "definitions_de": ["Person, die Gruppen hilft, effektiv zusammenzuarbeiten, indem sie Diskussionen und Aktivitäten leitet"],
+    "examples_de": [["Der **Moderator** des Meetings hielt die Diskussionen fokussiert und produktiv", "Ein erfahrener **Facilitator** half bei der Lösung von Konflikten zwischen Abteilungen"]]
+  },
+  {
+    "lemma": "facing",
+    "meanings_de": ["Oberflächenverkleidung", "gerichtete Ausrichtung"],
+    "definitions_de": ["Material, das zur Verkleidung der Oberfläche von Wänden, Kleidungsstücken oder Strukturen verwendet wird", "Position oder Richtung, in die etwas gedreht oder ausgerichtet ist"],
+    "examples_de": [["Die **Ziegelverblendung** verlieh dem Gebäude ein traditionelles Aussehen", "Sie wählte eine **Marmorverkleidung** für die Kamineinfassung"], ["Die **Südausrichtung** des Hauses maximierte das natürliche Licht im Winter", "Die **Fensterausrichtung** bestimmt, wie viel Sonnenlicht in jeden Raum fällt"]]
+  },
+  {
+    "lemma": "facsimile",
+    "meanings_de": ["exakte Nachbildung"],
+    "definitions_de": ["exakte Kopie oder Reproduktion eines Dokuments, Kunstwerks oder Objekts, die alle ursprünglichen Details bewahrt"],
+    "examples_de": [["Das Museum stellte ein **Faksimile** des alten Manuskripts aus", "Verlage erstellten **Faksimile**-Ausgaben seltener historischer Bücher"]]
+  },
+  {
+    "lemma": "faction",
+    "meanings_de": ["abweichende Untergruppe"],
+    "definitions_de": ["organisierte Gruppe innerhalb einer größeren Gruppe, die unterschiedliche Ideen oder Ziele fördert und oft Konflikte verursacht"],
+    "examples_de": [["Politische **Fraktionen** innerhalb der Partei waren sich über die politische Richtung uneinig", "Die Rebellen**fraktion** gewann Unterstützung unter jüngeren Mitgliedern"]]
+  },
+  {
+    "lemma": "factoring",
+    "meanings_de": ["Finanzdienstleistung", "mathematische Zerlegung"],
+    "definitions_de": ["Geschäftspraxis des Kaufs von Forderungen mit Abschlag zur Bereitstellung von sofortigem Bargeld", "mathematischer Prozess der Zerlegung von Zahlen oder Ausdrücken in Produkte einfacherer Faktoren"],
+    "examples_de": [["Kleine Unternehmen nutzen **Factoring**, um den Cashflow schnell zu verbessern", "Die **Factoring**-Gesellschaft kaufte Rechnungen zu neunzig Prozent des Wertes"], ["Schüler übten das **Faktorisieren** quadratischer Gleichungen im Algebraunterricht", "Die **Primfaktorzerlegung** offenbart die grundlegenden Bestandteile von Zahlen"]]
+  },
+  {
+    "lemma": "fad",
+    "meanings_de": ["vorübergehender Trend"],
+    "definitions_de": ["Aktivität oder Interesse, das für kurze Zeit sehr beliebt wird, bevor es seine Anziehungskraft verliert"],
+    "examples_de": [["Der Diät**trend** hielt nur wenige Monate an, bevor er verschwand", "Soziale Medien schaffen neue **Modeerscheinungen**, die sich weltweit schnell verbreiten"]]
+  },
+  {
+    "lemma": "fading",
+    "meanings_de": ["allmählicher Schwundprozess"],
+    "definitions_de": ["Prozess des allmählichen Verlusts von Helligkeit, Farbe, Stärke oder Klarheit im Laufe der Zeit"],
+    "examples_de": [["Das Foto zeigte **Verblassen** durch jahrelange Sonneneinstrahlung", "Das **Nachlassen** des Gedächtnisses beunruhigte sie mit zunehmendem Alter"]]
+  },
+  {
+    "lemma": "faerie",
+    "meanings_de": ["magisches Reich", "übernatürliches Feenwesen"],
+    "definitions_de": ["mythisches, jenseitiges Reich, das in Folklore und Fantasy von magischen Kreaturen bewohnt wird", "übernatürliches Wesen mit magischen Kräften, ähnlich einer Fee, aber oft mysteriöser"],
+    "examples_de": [["Die Geschichte beschrieb ein verborgenes **Feenreich** unter den Hügeln", "Alte keltische Mythen sprachen von **Feenringen** in den Wäldern"], ["Die **Fee** gewährte dem freundlichen Bauern drei Wünsche", "Das Mondlicht enthüllte eine **Fee**, die zwischen den Blumen tanzte"]]
+  },
+  {
+    "lemma": "fag",
+    "meanings_de": ["Zigarette", "ermüdende Aufgabe"],
+    "definitions_de": ["Zigarette, besonders im britischen informellen Sprachgebrauch für Tabakprodukte", "mühsame oder ermüdende Aufgabe, die Anstrengung erfordert, aber wenig Befriedigung bietet"],
+    "examples_de": [["Er ging nach draußen, um in der Pause eine **Kippe** zu rauchen", "Der Laden verkaufte **Zigaretten** hinter der Theke gegen Ausweis"], ["Die Reinigung des gesamten Lagers war eine echte **Plackerei**", "Die Studenten empfanden die Aufgabe als furchtbare **Schinderei**"]]
+  },
+  {
+    "lemma": "failing",
+    "meanings_de": ["Schwäche oder Mangel"],
+    "definitions_de": ["Schwäche, Fehler oder Mangel in Charakter, Fähigkeit oder Leistung, der Erfolg verhindert"],
+    "examples_de": [["Seine größte **Schwäche** war die Unfähigkeit, Aufgaben effektiv zu delegieren", "Trotz ihrer **Mängel** blieb sie eine engagierte Lehrerin"]]
+  },
+  {
+    "lemma": "faint",
+    "meanings_de": ["kurzer Bewusstseinsverlust"],
+    "definitions_de": ["plötzlicher kurzer Bewusstseinsverlust durch vorübergehende Verringerung des Blutflusses zum Gehirn"],
+    "examples_de": [["Sie spürte eine **Ohnmacht** nahen in dem überfüllten, heißen Raum", "Die Krankenschwester half ihm, sich schnell von der **Ohnmacht** zu erholen"]]
+  },
+  {
+    "lemma": "fairground",
+    "meanings_de": ["Freiluft-Unterhaltungsbereich"],
+    "definitions_de": ["offene Fläche, auf der Jahrmärkte, Karneval oder ähnliche Veranstaltungen mit Fahrgeschäften und Attraktionen stattfinden"],
+    "examples_de": [["Das jährliche Festival verwandelte den **Rummelplatz** in ein Zentrum der Aufregung", "Die Kinder stürmten zu den **Jahrmarkt**sfahrgeschäften, als die Tore sich öffneten"]]
+  },
+  {
+    "lemma": "fairway",
+    "meanings_de": ["Golfplatz-Spielbahn"],
+    "definitions_de": ["gemähte Fläche zwischen Abschlag und Grün auf dem Golfplatz, auf die Spieler ihre Schläge zielen"],
+    "examples_de": [["Sein Abschlag landete perfekt in der Mitte des **Fairways**", "Die Platzwarte hielten das **Fairway** in makellosem Spielzustand"]]
+  },
+  {
+    "lemma": "fairy",
+    "meanings_de": ["magisches geflügeltes Wesen"],
+    "definitions_de": ["kleines imaginäres Wesen mit magischen Kräften, typischerweise mit Flügeln in der Folklore dargestellt"],
+    "examples_de": [["Die **Zahnfee** hinterließ über Nacht Geld unter ihrem Kopfkissen", "Gartendekorationen umfassten winzige **Feen**figuren zwischen den Blumen"]]
+  },
+  {
+    "lemma": "fairyland",
+    "meanings_de": ["magisches verzaubertes Reich"],
+    "definitions_de": ["imaginäres Land, das in Geschichten von Feen und anderen magischen Kreaturen bewohnt wird"],
+    "examples_de": [["Der Themenpark stellte ein **Märchenland** mit überall Schlössern nach", "Winterschnee verwandelte den Wald in ein funkelndes **Feenland**"]]
+  },
+  {
+    "lemma": "fairytale",
+    "meanings_de": ["magische Kindergeschichte", "unrealistische perfekte Situation"],
+    "definitions_de": ["traditionelle Geschichte mit magischen Ereignissen, Kreaturen und glücklichen Enden für Kinder", "Situation oder Geschichte, die zu perfekt oder unrealistisch erscheint, um wahr zu sein"],
+    "examples_de": [["Die Großmutter las jeden Abend ein **Märchen** über Prinzessinnen vor", "Die **Märchen**sammlung enthielt Geschichten aus vielen Kulturen"], ["Ihre Romanze schien wie ein wahr gewordenes **Märchen**", "Glauben Sie nicht seinen **märchenhaften** Versprechungen über leichten Reichtum"]]
+  },
+  {
+    "lemma": "falcon",
+    "meanings_de": ["Raubvogel"],
+    "definitions_de": ["schnell fliegender Raubvogel mit scharfen Krallen und gebogenem Schnabel zum Jagen"],
+    "examples_de": [["Der **Wanderfalke** stürzte mit unglaublicher Geschwindigkeit auf die Beute herab", "Trainierte **Falken** halfen, die Vogelpopulationen am Flughafen effektiv zu kontrollieren"]]
+  },
+  {
+    "lemma": "falconer",
+    "meanings_de": ["Falkentrainer"],
+    "definitions_de": ["Person, die Falken oder andere Greifvögel trainiert und mit ihnen jagt"],
+    "examples_de": [["Der erfahrene **Falkner** demonstrierte alte Jagdtechniken sachgemäß", "Mittelalterliche **Falkner** dienten dem Adel, indem sie ihre Jagdvögel trainierten"]]
+  },
+  {
+    "lemma": "falconry",
+    "meanings_de": ["Jagd mit Vögeln"],
+    "definitions_de": ["Sport und Praxis des Trainings von Falken oder Habichten zur Jagd auf Wild"],
+    "examples_de": [["Die **Falknerei** erfordert Geduld und tiefes Verständnis für Greifvögel", "Der Verein lehrte **Falknerei**traditionen, die über viele Generationen weitergegeben wurden"]]
+  },
+  {
+    "lemma": "fallacy",
+    "meanings_de": ["logischer Denkfehler"],
+    "definitions_de": ["irrtümlicher Glaube oder Fehler in der Argumentation, der die Logik eines Arguments untergräbt"],
+    "examples_de": [["Das Argument enthielt einen **Trugschluss** über Ursache-Wirkungs-Beziehungen", "Schüler lernten, häufige **Fehlschlüsse** in überzeugenden Texten zu identifizieren"]]
+  },
+  {
+    "lemma": "fallback",
+    "meanings_de": ["Reserve-Alternative"],
+    "definitions_de": ["alternativer Plan oder Position, der verwendet werden kann, wenn der Hauptplan scheitert"],
+    "examples_de": [["Das Lehramt blieb ihre **Rückfalloption**, falls die Schauspielerei nicht erfolgreich wäre", "Das Unternehmen unterhielt eine **Ausweichstrategie** für Lieferunterbrechungen"]]
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "lowercase",
+    "meanings_de": ["in Kleinbuchstaben geschrieben"],
+    "definitions_de": ["mit kleinen Buchstaben anstatt Großbuchstaben geschrieben oder gedruckt, wie sie in der normalen Schreibweise nach dem Satzanfang verwendet werden"],
+    "examples_de": [["Bitte geben Sie Ihr Passwort ausschließlich in **kleingeschriebenen** Buchstaben ein", "Die E-Mail-Adresse muss komplett **kleingeschrieben** werden"]]
+  },
+  {
+    "lemma": "lowered",
+    "meanings_de": ["nach unten bewegt", "im Betrag reduziert"],
+    "definitions_de": ["in eine Position gebracht oder bewegt, die weniger hoch ist als zuvor", "in Grad, Intensität, Menge oder Wert kleiner gemacht als vorher"],
+    "examples_de": [["Die Flagge wurde zum Zeichen der Trauer auf **halbmast** gesetzt", "Sie **senkte** ihre Stimme zu einem Flüstern"], ["Das Geschäft hat die Preise für den Schlussverkauf **gesenkt**", "Die Zinssätze wurden **gesenkt**, um die Wirtschaft anzukurbeln"]]
+  },
+  {
+    "lemma": "lowering",
+    "meanings_de": ["dunkel und bedrohlich"],
+    "definitions_de": ["dunkel und bedrohlich aussehend, besonders zur Beschreibung von Himmel oder Wetterbedingungen verwendet"],
+    "examples_de": [["Die **drohenden** Wolken kündigten ein nahendes Gewitter an", "Unter dem **düsteren** Himmel beeilten wir uns nach Hause zu kommen"]]
+  },
+  {
+    "lemma": "lowermost",
+    "meanings_de": ["an unterster Position"],
+    "definitions_de": ["an der niedrigsten oder untersten Position in einer Reihe oder Struktur gelegen"],
+    "examples_de": [["Das **unterste** Regal war vollständig mit Staub bedeckt", "Wir fanden Fossilien in der **untersten** Gesteinsschicht"]]
+  },
+  {
+    "lemma": "lowest",
+    "meanings_de": ["auf Minimalniveau", "niedrigster im Rang"],
+    "definitions_de": ["auf dem kleinsten oder minimal möglichen Grad, Betrag oder Niveau befindlich", "die am wenigsten wichtige Position in einer Hierarchie oder Rangordnung innehabend"],
+    "examples_de": [["Die Temperatur erreichte letzte Nacht ihren **tiefsten** Punkt", "Dieses Produkt bietet den **niedrigsten** Preis in der Stadt"], ["Er begann auf der **niedrigsten** Position im Unternehmen", "Der **rangniedrigste** Offizier führte die Patrouille an"]]
+  },
+  {
+    "lemma": "lowland",
+    "meanings_de": ["Flachland betreffend"],
+    "definitions_de": ["sich auf Land beziehend oder charakteristisch für Land, das niedrig gelegen und relativ flach ist"],
+    "examples_de": [["Die **Tiefland**regionen sind anfällig für Überschwemmungen", "Die Landwirtschaft im **Flachland** unterscheidet sich von der Berglandwirtschaft"]]
+  },
+  {
+    "lemma": "lowly",
+    "meanings_de": ["niedrig im Status", "bescheiden und anspruchslos"],
+    "definitions_de": ["niedrig in Status, Rang oder Bedeutung in der Gesellschaft oder einer Organisation", "eine bescheidene oder demütige Meinung von sich selbst habend oder zeigend"],
+    "examples_de": [["Er stieg von **bescheidenen** Anfängen zu großem Erfolg auf", "Der **einfache** Angestellte wurde schließlich Firmenpräsident"], ["Sie bewahrte trotz ihrer Erfolge eine **bescheidene** Haltung", "Sein **demütiges** Auftreten verbarg sein umfangreiches Wissen"]]
+  },
+  {
+    "lemma": "lubricated",
+    "meanings_de": ["mit Öl geschmiert"],
+    "definitions_de": ["mit Öl oder Fett versehen, um die Reibung zwischen beweglichen Teilen zu verringern"],
+    "examples_de": [["Der gut **geschmierte** Motor lief ruhig und leise", "Halten Sie die Scharniere **geölt**, um Quietschen zu vermeiden"]]
+  },
+  {
+    "lemma": "lucid",
+    "meanings_de": ["klar ausgedrückt", "geistig klar"],
+    "definitions_de": ["klar ausgedrückt und leicht zu verstehen mit logischer Kohärenz und Nachvollziehbarkeit", "fähig, klar und rational zu denken, besonders zwischen Phasen der Verwirrung"],
+    "examples_de": [["Ihre **klare** Erklärung half allen, das Konzept zu verstehen", "Der Professor hielt einen **verständlichen** Vortrag über Quantenphysik"], ["Die Patientin hatte während ihrer Krankheit **klare** Momente", "Trotz seines Alters blieb sein Geist vollkommen **klar**"]]
+  },
+  {
+    "lemma": "lucrative",
+    "meanings_de": ["sehr profitabel"],
+    "definitions_de": ["eine große Menge an Profit oder finanziellem Gewinn erzeugend oder versprechend"],
+    "examples_de": [["Immobilien können eine **lukrative** Investitionsmöglichkeit sein", "Sie verließ den Lehrerberuf für eine **einträglichere** Karriere"]]
+  },
+  {
+    "lemma": "ludicrous",
+    "meanings_de": ["absurd lächerlich"],
+    "definitions_de": ["so töricht, unvernünftig oder deplatziert, dass es amüsant und lächerlich wirkt"],
+    "examples_de": [["Die Idee von fliegenden Autos erschien vor Jahrzehnten **absurd**", "Seine **lächerliche** Ausrede brachte alle zum Lachen"]]
+  },
+  {
+    "lemma": "lukewarm",
+    "meanings_de": ["mäßig warm", "wenig begeistert"],
+    "definitions_de": ["nur leicht warm, zwischen kühl und warm in der Temperatur liegend", "wenig Enthusiasmus, Interesse oder Überzeugung für etwas zeigend"],
+    "examples_de": [["Der Kaffee war während unseres Gesprächs **lauwarm** geworden", "Sie bevorzugt **lauwarmes** Wasser zum Waschen ihres Gesichts"], ["Das Publikum zeigte eine **verhaltene** Reaktion auf die Aufführung", "Seine **halbherzige** Unterstützung enttäuschte das Wahlkampfteam"]]
+  },
+  {
+    "lemma": "lumbar",
+    "meanings_de": ["Lendenwirbel betreffend"],
+    "definitions_de": ["sich auf den unteren Teil des Rückens zwischen den Rippen und dem Becken beziehend"],
+    "examples_de": [["Die **Lendenwirbelsäule** trägt einen Großteil des Körpergewichts", "Er benötigte eine **Lendenstütze** beim Sitzen am Arbeitsplatz"]]
+  },
+  {
+    "lemma": "lumbering",
+    "meanings_de": ["schwerfällig bewegend"],
+    "definitions_de": ["sich aufgrund von Größe oder Gewicht auf langsame, schwere und unbeholfene Weise bewegend"],
+    "examples_de": [["Der **schwerfällige** Elefant bewegte sich langsam durch den Dschungel", "Sein **plumper** Gang machte ihn leicht erkennbar"]]
+  },
+  {
+    "lemma": "luminescent",
+    "meanings_de": ["Licht ohne Wärme aussendend"],
+    "definitions_de": ["Licht aussendend, das nicht durch Hitze verursacht wird, sondern durch chemische oder biologische Prozesse"],
+    "examples_de": [["Die **leuchtenden** Algen ließen das Meer nachts erstrahlen", "Glühwürmchen erzeugen **lumineszierende** Signale zur Partnerwerbung"]]
+  },
+  {
+    "lemma": "luminous",
+    "meanings_de": ["hell leuchtend", "leicht verständlich"],
+    "definitions_de": ["voller Licht oder hell strahlend, besonders in der Dunkelheit auffallend", "sehr klar und leicht zu verstehen, intellektuell oder spirituell erleuchtend"],
+    "examples_de": [["Das **leuchtende** Zifferblatt glühte sanft im Dunkeln", "Sterne erschienen als **leuchtende** Punkte am Himmel"], ["Ihre **erhellende** Prosa machte komplexe Ideen für alle zugänglich", "Die **einleuchtende** Erklärung des Wissenschaftlers klärte die Theorie"]]
+  },
+  {
+    "lemma": "lumpy",
+    "meanings_de": ["unregelmäßige Beulen habend"],
+    "definitions_de": ["voller Klumpen oder mit Beulen bedeckt, wodurch eine unebene Oberfläche entsteht"],
+    "examples_de": [["Die alte Matratze war unangenehm **klumpig** geworden", "Sie rührte die Soße um, um eine **klumpige** Konsistenz zu vermeiden"]]
+  },
+  {
+    "lemma": "lunar",
+    "meanings_de": ["den Mond betreffend"],
+    "definitions_de": ["vom Mond bestimmt oder sich auf den Mond oder seine Bewegungen beziehend"],
+    "examples_de": [["Der **Mondkalender** folgt den Phasen des Mondes", "Wissenschaftler untersuchten **lunare** Bodenproben von der Mission"]]
+  },
+  {
+    "lemma": "lunatic",
+    "meanings_de": ["extrem töricht", "geisteskrank"],
+    "definitions_de": ["extrem töricht, exzentrisch oder absurd in Verhalten oder Ideen", "historisch mit periodischem Wahnsinn behaftet, der von Mondphasen abhängig war"],
+    "examples_de": [["Dieser **verrückte** Fahrer hätte beinahe einen schrecklichen Unfall verursacht", "Es war eine **wahnsinnige** Idee, ohne Ausrüstung zu klettern"], ["Die alte Anstalt beherbergte als **geisteskrank** geltende Patienten", "Mittelalterliche Überzeugungen verbanden **wahnsinniges** Verhalten mit Mondphasen"]]
+  },
+  {
+    "lemma": "lurid",
+    "meanings_de": ["unangenehm grell", "in grellen Farben"],
+    "definitions_de": ["in erschreckend lebhaften oder sensationellen Begriffen dargestellt, besonders mit Gewalt oder Unmoral", "unnatürlich hell in der Farbe, besonders rot, orange oder gelb"],
+    "examples_de": [["Die Boulevardzeitung präsentierte **reißerische** Details des Skandals", "Er vermied **grausige** Kriminalromane vor dem Schlafengehen"], ["Der **grelle** Sonnenuntergang färbte den Himmel in Rottönen", "**Grelle** Flammen verschlangen nachts das verlassene Gebäude"]]
+  },
+  {
+    "lemma": "luscious",
+    "meanings_de": ["verlockend köstlich", "sinnlich attraktiv"],
+    "definitions_de": ["einen angenehm reichen, süßen Geschmack oder Geruch habend, der stark anspricht", "sehr attraktiv auf eine Weise, die sinnliches Vergnügen suggeriert"],
+    "examples_de": [["Die **köstlichen** Pfirsiche tropften vor süßem Saft", "Sie servierte **verlockenden** Schokoladenkuchen zum Nachtisch"], ["Die **sinnlichen** Lippen des Models erschienen in jeder Werbung", "Er beschrieb sie in **schwelgerischen** Begriffen, die alle in Verlegenheit brachten"]]
+  },
+  {
+    "lemma": "lush",
+    "meanings_de": ["üppig wachsend", "luxuriös reich"],
+    "definitions_de": ["dicht und kräftig wachsend mit reicher, üppiger Vegetation", "sehr reich, üppig und die Sinne ansprechend auf luxuriöse Weise"],
+    "examples_de": [["Der **üppige** Regenwald wimmelte von exotischen Pflanzen", "Ihr **üppiger** Garten erforderte ständiges Gießen und Pflege"], ["Das Hotel bot **luxuriöse** Einrichtung und goldene Armaturen", "Ihre **volle** Stimme erfüllte den Konzertsaal wunderschön"]]
+  },
+  {
+    "lemma": "lustful",
+    "meanings_de": ["starkes Verlangen habend"],
+    "definitions_de": ["starke Gefühle sexuellen Verlangens oder Appetits habend oder zeigend"],
+    "examples_de": [["Sein **lüsterner** Blick machte sie unbehaglich", "Der Roman schilderte **lüsterne** Charaktere im alten Rom"]]
+  },
+  {
+    "lemma": "lustrous",
+    "meanings_de": ["sanft glänzend"],
+    "definitions_de": ["einen sanften Glanz oder Schein habend, der Licht sanft und attraktiv reflektiert"],
+    "examples_de": [["Ihr **glänzendes** Haar zog auf Partys alle Blicke auf sich", "Die **schimmernde** Oberfläche der Perle erstrahlte im Licht"]]
+  },
+  {
+    "lemma": "lusty",
+    "meanings_de": ["gesund und kräftig", "lüstern"],
+    "definitions_de": ["gesund, kräftig und voller Stärke und Energie", "gekennzeichnet durch oder starkes sexuelles Verlangen zeigend"],
+    "examples_de": [["Das **kräftige** Baby schrie laut nach Milch", "Sein **herzhafter** Appetit erforderte dreimal täglich deftige Mahlzeiten"], ["Die **lüsternen** jungen Männer pfiffen vorbeigehenden Frauen nach", "Mittelalterliche Geschichten handelten oft von **lüsternen** Rittern und Jungfrauen"]]
+  },
+  {
+    "lemma": "luxe",
+    "meanings_de": ["elegant luxuriös"],
+    "definitions_de": ["von höchster Qualität, gekennzeichnet durch Eleganz und Luxus"],
+    "examples_de": [["Die **luxuriöse** Hotelsuite war mit Marmor und Gold ausgestattet", "Sie bevorzugte **edle** Stoffe wie Seide und Kaschmir"]]
+  },
+  {
+    "lemma": "luxuriant",
+    "meanings_de": ["üppig wuchernd", "aufwendig und reich"],
+    "definitions_de": ["üppig wuchernd mit dichter und reichlicher Vegetation oder Blattwerk", "gekennzeichnet durch reiche und üppige Ausarbeitung oder Verzierung"],
+    "examples_de": [["Die **wuchernden** Reben bedeckten die gesamte Gartenmauer", "Ihr **üppiges** Haar erforderte besondere Pflege und Aufmerksamkeit"], ["Der Palast wies in jedem Raum **prunkvolle** Dekorationen auf", "Sein **schwelgerischer** Prosastil überwältigte manche Leser vollständig"]]
+  },
+  {
+    "lemma": "luxurious",
+    "meanings_de": ["äußerst komfortabel und teuer"],
+    "definitions_de": ["äußerst komfortabel, elegant und teuer, was großen Reichtum und Genuss suggeriert"],
+    "examples_de": [["Sie übernachteten in einem **luxuriösen** Resort am Meer", "Die **luxuriösen** Ledersitze machten das Fahren zum Vergnügen"]]
+  },
+  {
+    "lemma": "lymphatic",
+    "meanings_de": ["Lymphsystem betreffend"],
+    "definitions_de": ["sich auf die Lymphe oder das System von Gefäßen beziehend, die sie transportieren"],
+    "examples_de": [["Das **Lymphsystem** hilft, Infektionen im Körper zu bekämpfen", "Die **lymphatische** Drainage-Massage fördert bessere Durchblutung und Gesundheit"]]
+  },
+  {
+    "lemma": "lyric",
+    "meanings_de": ["persönliche Gefühle ausdrückend"],
+    "definitions_de": ["persönliche Emotionen oder Gefühle auf fantasievolle und schöne Weise ausdrückend"],
+    "examples_de": [["Der **lyrische** Stil des Dichters eroberte Herzen und Köpfe", "Sie schrieb **lyrische** Gedichte über Liebe und Verlust"]]
+  },
+  {
+    "lemma": "lyrical",
+    "meanings_de": ["Gefühle künstlerisch ausdrückend", "liedhaft"],
+    "definitions_de": ["Emotionen auf fantasievolle und schöne Weise mit künstlerischer Qualität ausdrückend", "eine für Lieder geeignete Qualität habend oder musikalischen Ausdruck ähnelnd"],
+    "examples_de": [["Seine **lyrische** Naturbeschreibung bewegte das Publikum", "Die **poetische** Prosa der Autorin liest sich wie Lyrik"], ["Die **melodische** Melodie blieb mir den ganzen Tag im Kopf", "Ihre **liedhafte** Stimme passte perfekt zur romantischen Ballade"]]
+  },
+  {
+    "lemma": "macabre",
+    "meanings_de": ["verstörend und grauenhaft"],
+    "definitions_de": ["verstörend und grauenhaft, weil mit Tod und Verletzung befasst"],
+    "examples_de": [["Die **makabren** Dekorationen verschreckten die jüngeren Kinder", "Sein **makabrer** Sinn für Humor wurde hier nicht geschätzt"]]
+  },
+  {
+    "lemma": "macho",
+    "meanings_de": ["aggressiv männlich"],
+    "definitions_de": ["aggressiven männlichen Stolz und stereotypisch männliche Eigenschaften oder Verhaltensweisen zeigend"],
+    "examples_de": [["Seine **machomäßige** Einstellung entfremdete viele seiner Kollegen", "Die **Macho**kultur entmutigte Männer, Gefühle zu zeigen"]]
+  },
+  {
+    "lemma": "macro",
+    "meanings_de": ["großmaßstäblich"],
+    "definitions_de": ["in großem Maßstab, sich mit übergeordneten oder allgemeinen Merkmalen befassend"],
+    "examples_de": [["Wir müssen **makroökonomische** Trends sorgfältig berücksichtigen", "Die **Makroansicht** offenbart Muster, die aus der Nähe unsichtbar sind"]]
+  },
+  {
+    "lemma": "macroeconomic",
+    "meanings_de": ["gesamtwirtschaftlich"],
+    "definitions_de": ["sich auf das großmaßstäbliche oder gesamte Verhalten einer Volkswirtschaft beziehend"],
+    "examples_de": [["**Makroökonomische** Politik beeinflusst Beschäftigungsraten im ganzen Land", "Der Bericht analysierte **gesamtwirtschaftliche** Indikatoren für das Jahr"]]
+  },
+  {
+    "lemma": "macroscopic",
+    "meanings_de": ["ohne Vergrößerung sichtbar"],
+    "definitions_de": ["groß genug, um mit bloßem Auge ohne Vergrößerung sichtbar zu sein"],
+    "examples_de": [["Der **makroskopische** Schaden am Gebäude war erheblich", "Einige Kristalle wachsen mit der Zeit zu **makroskopischer** Größe"]]
+  },
+  {
+    "lemma": "madcap",
+    "meanings_de": ["wild impulsiv"],
+    "definitions_de": ["amüsant exzentrisch, unkonventionell und wild impulsiv in Verhalten oder Ideen"],
+    "examples_de": [["Ihr **verrücktes** Abenteuer führte sie über drei Kontinente", "Sie war für ihre **wilden** Pläne und Streiche bekannt"]]
+  },
+  {
+    "lemma": "made",
+    "meanings_de": ["hergestellt oder geschaffen", "des Erfolgs sicher"],
+    "definitions_de": ["hergestellt, geschaffen oder produziert anstatt natürlich oder spontan entstanden", "sicher erfolgreich zu sein oder Erfolg erreicht zu haben"],
+    "examples_de": [["Diese Schuhe sind vollständig aus recycelten Materialien **hergestellt**", "Das **gemachte** Bett sah nach langem Tag einladend aus"], ["Mit seinen Verbindungen ist er jetzt ein **gemachter** Mann", "Sobald du in diesem Club bist, hast du es fürs Leben **geschafft**"]]
+  },
+  {
+    "lemma": "magenta",
+    "meanings_de": ["purpurrot"],
+    "definitions_de": ["von einer Farbe, die ein tiefes Purpurrot oder Rötlichpurpur ist"],
+    "examples_de": [["Sie trug ein atemberaubendes **magentafarbenes** Kleid zur Gala", "Die **purpurroten** Blumen brachten Farbe in den Garten"]]
+  },
+  {
+    "lemma": "magisterial",
+    "meanings_de": ["große Autorität habend", "herrisch"],
+    "definitions_de": ["große Autorität und umfassendes Wissen oder Verständnis habend oder zeigend", "eine übermäßig würdevolle oder herrische Art habend oder zeigend"],
+    "examples_de": [["Sein **meisterhaftes** Werk über Wirtschaft gewann mehrere Preise", "Der **gebieterische** Ton des Professors verschaffte ihm Respekt bei Studenten"], ["Ihre **herrische** Art schüchterte die jüngeren Mitarbeiter ein", "Er wies ihre Bedenken mit **magistraler** Gleichgültigkeit zurück"]]
+  },
+  {
+    "lemma": "magnanimous",
+    "meanings_de": ["großmütig und verzeihend"],
+    "definitions_de": ["sehr großzügig oder verzeihend, besonders gegenüber einem Rivalen oder weniger mächtigen Person"],
+    "examples_de": [["Der **großmütige** Sieger schüttelte seinem Gegner die Hand", "Ihre **großherzige** Spende rettete das Gemeindezentrum vor der Schließung"]]
+  },
+  {
+    "lemma": "magnetic",
+    "meanings_de": ["Eisen anziehend", "kraftvoll anziehend"],
+    "definitions_de": ["die Eigenschaften eines Magneten habend, fähig Eisen oder Stahl anzuziehen", "sehr attraktiv oder verlockend mit einem kraftvollen Charme"],
+    "examples_de": [["Das **magnetische** Feld beeinflusste alle nahegelegenen Metallgegenstände", "Halten Sie **magnetische** Gegenstände von Computerfestplatten fern"], ["Ihre **magnetische** Persönlichkeit zog Menschen natürlich an", "Der Redner hatte eine **fesselnde** Präsenz auf der Bühne"]]
+  },
+  {
+    "lemma": "magnetized",
+    "meanings_de": ["magnetisch gemacht"],
+    "definitions_de": ["mit magnetischen Eigenschaften versehen oder zu einem Magneten gemacht"],
+    "examples_de": [["Die **magnetisierte** Nadel zeigte stetig nach magnetisch Nord", "Einmal **magnetisiert**, zog das Metall Eisenspäne leicht an"]]
+  },
+  {
+    "lemma": "magnificent",
+    "meanings_de": ["äußerst schön oder beeindruckend"],
+    "definitions_de": ["äußerst schön, beeindruckend oder aufwendig, große Bewunderung verdienend"],
+    "examples_de": [["Die **prächtige** Kathedrale brauchte Jahrhunderte für ihre vollständige Erbauung", "Sie beobachteten einen **herrlichen** Sonnenuntergang über dem Meer"]]
+  },
+  {
+    "lemma": "magnified",
+    "meanings_de": ["größer erscheinen lassend", "in Bedeutung gesteigert"],
+    "definitions_de": ["mit optischen Instrumenten größer als die tatsächliche Größe erscheinen lassend", "in tatsächlicher oder scheinbarer Bedeutung, Intensität oder Schwere gesteigert"],
+    "examples_de": [["Das **vergrößerte** Bild enthüllte deutlich verborgene Details", "Durch die **vergrößernde** Linse wurden Bakterien sichtbar"], ["Sein kleiner Fehler wurde von den Medien **aufgebauscht**", "Angst **verstärkte** jedes Geräusch im dunklen Haus"]]
+  },
+  {
+    "lemma": "maiden",
+    "meanings_de": ["erstmalig", "unverheiratet"],
+    "definitions_de": ["das erste oder früheste seiner Art seiend, das geschieht", "sich auf ein unverheiratetes Mädchen oder eine junge Frau beziehend"],
+    "examples_de": [["Die **Jungfernfahrt** des Schiffes zog weltweite Medienaufmerksamkeit an", "Ihre **Jungfernrede** im Parlament beeindruckte hochrangige Mitglieder"], ["Die **unverheiratete** Tante lebte allein auf dem Land", "In **mädchenhaften** Tagen träumte sie von großen Abenteuern"]]
+  },
+  {
+    "lemma": "mailed",
+    "meanings_de": ["per Post verschickt", "mit Rüstung bedeckt"],
+    "definitions_de": ["durch das Postsystem oder per elektronischer Post verschickt", "mit Rüstung aus Metallringen oder -platten bedeckt oder sie tragend"],
+    "examples_de": [["Die **verschickten** Einladungen kamen gerade rechtzeitig an", "Sie **verschickte** das Paket gestern per Expressversand"], ["Der **gepanzerte** Ritter ritt selbstbewusst in die Schlacht", "Seine **gepanzerte** Faust schlug hart auf den Holzschild"]]
+  },
+  {
+    "lemma": "maimed",
+    "meanings_de": ["verwundet und behindert"],
+    "definitions_de": ["verwundet oder verletzt, sodass ein Teil des Körpers dauerhaft geschädigt ist"],
+    "examples_de": [["Der Unfall ließ ihn **verstümmelt**, aber nicht besiegt zurück", "Viele Soldaten kehrten **verstümmelt** aus dem schrecklichen Krieg zurück"]]
+  },
+  {
+    "lemma": "maintained",
+    "meanings_de": ["in gutem Zustand gehalten", "auf gleichem Niveau fortgeführt"],
+    "definitions_de": ["durch regelmäßige Überprüfung oder Reparatur in gutem Zustand gehalten", "ohne Unterbrechung mit derselben Rate, demselben Niveau oder Zustand fortgeführt"],
+    "examples_de": [["Der gut **gepflegte** Garten blühte die ganze Saison hindurch", "Ihre **gewartete** Ausrüstung benötigte selten Notreparaturen"], ["Sie **bewahrte** ihre Fassung während der Krise", "Das Team **hielt** seine Führung bis zum Ende"]]
+  },
+  {
+    "lemma": "majestic",
+    "meanings_de": ["großartig und beeindruckend"],
+    "definitions_de": ["beeindruckende Schönheit, Würde oder Erhabenheit habend oder zeigend"],
+    "examples_de": [["Die **majestätischen** Berge erhoben sich über die Morgenwolken", "Adler schwebten mit **majestätischer** Anmut über den Himmel"]]
+  }
+]

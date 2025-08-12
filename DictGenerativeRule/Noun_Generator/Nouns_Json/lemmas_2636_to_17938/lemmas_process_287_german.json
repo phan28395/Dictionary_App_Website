@@ -1,0 +1,278 @@
+[
+  {
+    "lemma": "xxx",
+    "meanings_de": ["Platzhaltersymbol", "Altersfreigabe für Erwachsene"],
+    "definitions_de": ["Drei X-Zeichen, die als Platzhalter für unbekannte Variablen oder zur Kennzeichnung von Leerstellen verwendet werden", "Kennzeichnung für Inhalte mit explizit sexuellem oder nur für Erwachsene geeignetem Material"],
+    "examples_de": [["Tragen Sie Ihren Namen in das Feld mit **xxx** ein", "Das Passwortfeld zeigt aus Sicherheitsgründen nur **xxx** an"], ["Der Film erhielt die **XXX**-Freigabe wegen expliziter Szenen", "Manche Webseiten verlangen eine Altersverifikation für **XXX**-Inhalte"]]
+  },
+  {
+    "lemma": "xenophon",
+    "meanings_de": ["antiker griechischer Historiker"],
+    "definitions_de": ["Griechischer Soldat und Geschichtsschreiber, der von 430 bis 354 v. Chr. lebte und für seine historischen Werke bekannt ist"],
+    "examples_de": [["**Xenophon** verfasste detaillierte Berichte über antike griechische Feldzüge", "In der klassischen Philologie wird **Xenophons** Anabasis häufig studiert"]]
+  },
+  {
+    "lemma": "xerox",
+    "meanings_de": ["Kopiergerätemarke", "Kopiervorgang"],
+    "definitions_de": ["Markenname für Fotokopiergeräte und verwandte Büroausstattung des gleichnamigen Unternehmens", "Vorgang des Anfertigens von Fotokopien, unabhängig vom verwendeten Gerät"],
+    "examples_de": [["Das Büro hat einen neuen **Xerox**-Kopierer angeschafft", "Die **Xerox** Corporation war Pionier der modernen Kopiertechnologie"], ["Können Sie diese Unterlagen bitte **xeroxen** vor der Besprechung?", "Ich muss zwanzig Exemplare des Berichts **xeroxen**"]]
+  },
+  {
+    "lemma": "xhosa",
+    "meanings_de": ["afrikanische Volksgruppe", "Bantusprache"],
+    "definitions_de": ["Ethnische Gruppe, die hauptsächlich in der Ostkap-Provinz Südafrikas beheimatet ist", "Bantusprache mit charakteristischen Klicklauten, die vom Xhosa-Volk gesprochen wird"],
+    "examples_de": [["Die **Xhosa** pflegen reiche kulturelle Traditionen und Zeremonien", "Nelson Mandela gehörte dem **Xhosa**-Volk an"], ["Das Erlernen von **Xhosa** erfordert die Beherrschung der einzigartigen Klicklaute", "**Xhosa** ist eine der offiziellen Sprachen Südafrikas"]]
+  },
+  {
+    "lemma": "xinjiang",
+    "meanings_de": ["chinesische autonome Region"],
+    "definitions_de": ["Autonome Region im Nordwesten Chinas, die an mehrere zentralasiatische Länder grenzt"],
+    "examples_de": [["**Xinjiang** ist Chinas flächenmäßig größte Verwaltungseinheit", "Die Seidenstraße führte durch **Xinjiang** und verband Ost und West"]]
+  },
+  {
+    "lemma": "yhwh",
+    "meanings_de": ["hebräischer Gottesname"],
+    "definitions_de": ["Vier hebräische Buchstaben, die den heiligen Namen Gottes im Judentum darstellen"],
+    "examples_de": [["Die jüdische Tradition betrachtet **YHWH** als zu heilig für die Aussprache", "Das Tetragramm **YHWH** erscheint durchgehend in der hebräischen Bibel"]]
+  },
+  {
+    "lemma": "yahoo",
+    "meanings_de": ["Internetunternehmen", "Freudenausruf", "ungehobelter Mensch"],
+    "definitions_de": ["Technologieunternehmen, das für Webdienste, E-Mail und Suchmaschinen bekannt ist", "Ausruf, der Begeisterung, Triumph oder überschwängliche Freude ausdrückt", "Person, die sich unhöflich, ungehobelt oder unkultiviert verhält"],
+    "examples_de": [["**Yahoo** war eine der ersten Suchmaschinen des Internets", "Viele Menschen nutzen noch immer **Yahoo** Mail für ihre E-Mails"], ["**Juhuu**, wir haben endlich die Meisterschaft gewonnen", "Die Menge rief **Juhuu**, als die Heimmannschaft traf"], ["Diese **Rüpel** machten zu viel Lärm im Restaurant", "Er benahm sich wie ein kompletter **Flegel** beim formellen Abendessen"]]
+  },
+  {
+    "lemma": "yahweh",
+    "meanings_de": ["hebräischer Gottesname"],
+    "definitions_de": ["Vokalisierte Form des hebräischen Gottesnamens, wie er in biblischen Texten verwendet wird"],
+    "examples_de": [["Gelehrte diskutieren über die korrekte Aussprache von **Jahwe**", "**Jahwe** wird in deutschen Bibeln oft mit HERR übersetzt"]]
+  },
+  {
+    "lemma": "yale",
+    "meanings_de": ["Eliteuniversität"],
+    "definitions_de": ["Ivy-League-Universität in New Haven, Connecticut, gegründet 1701"],
+    "examples_de": [["Die **Yale** University ist bekannt für ihre Jura- und Theaterprogramme", "Viele Präsidenten und Verfassungsrichter absolvierten **Yale**"]]
+  },
+  {
+    "lemma": "yalta",
+    "meanings_de": ["Kurort auf der Krim"],
+    "definitions_de": ["Kurort an der Schwarzmeerküste, bekannt für die Jalta-Konferenz von 1945"],
+    "examples_de": [["Die Konferenz von **Jalta** prägte das Nachkriegseuropa", "Touristen besuchen **Jalta** wegen seiner Strände und historischen Stätten"]]
+  },
+  {
+    "lemma": "yangtze",
+    "meanings_de": ["großer chinesischer Fluss"],
+    "definitions_de": ["Längster Fluss Asiens, der durch China von Tibet bis zum Ostchinesischen Meer fließt"],
+    "examples_de": [["Der **Jangtse** ist lebenswichtig für Chinas Handel und Transport", "Der Drei-Schluchten-Damm überspannt den **Jangtse**"]]
+  },
+  {
+    "lemma": "yank",
+    "meanings_de": ["ruckartige Zugbewegung", "Spitzname für Amerikaner"],
+    "definitions_de": ["Schnelle, kräftige Zugbewegung, um etwas abrupt zu bewegen", "Umgangssprachliche Bezeichnung für einen Amerikaner, besonders aus den Nordstaaten"],
+    "examples_de": [["Ziehen Sie kräftig am Seil, um den Motor zu starten", "Ein kräftiger **Ruck** befreite die klemmende Schublade"], ["Die britischen Soldaten nannten die Amerikaner **Amis** während des Krieges", "Als **Ami** im Ausland vermisste er amerikanisches Essen"]]
+  },
+  {
+    "lemma": "yankee",
+    "meanings_de": ["Amerikaner aus dem Norden", "New Yorker Baseballteam"],
+    "definitions_de": ["Person aus den nördlichen Vereinigten Staaten, besonders aus Neuengland", "Professionelles Baseballteam mit Sitz in New York City"],
+    "examples_de": [["Während des Bürgerkriegs nannten Konföderierte die Unionssoldaten **Yankees**", "Ihr **Yankee**-Akzent verriet, dass sie aus Boston stammte"], ["Die **Yankees** gewannen mehrere World Series", "Er trug seine **Yankees**-Kappe zu jedem Spiel"]]
+  },
+  {
+    "lemma": "yay",
+    "meanings_de": ["Freudenausruf"],
+    "definitions_de": ["Ausdruck von Freude, Begeisterung oder Feierlichkeit, oft informell verwendet"],
+    "examples_de": [["**Juhu**, wir gehen morgen in den Freizeitpark", "Die Kinder riefen **Hurra**, als sie die Geburtstagstorte sahen"]]
+  },
+  {
+    "lemma": "yellowstone",
+    "meanings_de": ["Nationalpark"],
+    "definitions_de": ["Erster Nationalpark der Vereinigten Staaten, hauptsächlich in Wyoming gelegen, bekannt für geothermische Phänomene"],
+    "examples_de": [["**Yellowstone** zieht Millionen Besucher an, die den Geysir Old Faithful sehen wollen", "Das **Yellowstone**-Ökosystem beherbergt vielfältige Wildtiere wie Bären und Wölfe"]]
+  },
+  {
+    "lemma": "yemeni",
+    "meanings_de": ["Person aus dem Jemen", "jemenitisch"],
+    "definitions_de": ["Staatsbürger oder Einheimischer des Jemen, eines Landes auf der Arabischen Halbinsel", "Charakteristisch für den Jemen, seine Menschen oder Kultur"],
+    "examples_de": [["Die **jemenitische** Flüchtlingsfrau erzählte Geschichten aus ihrer Heimat", "Viele **Jemeniten** arbeiten in den benachbarten Golfstaaten"], ["**Jemenitischer** Kaffee ist für seinen charakteristischen Geschmack berühmt", "Das Museum zeigte traditionellen **jemenitischen** Schmuck und Textilien"]]
+  },
+  {
+    "lemma": "yggdrasil",
+    "meanings_de": ["mythischer Weltenbaum"],
+    "definitions_de": ["Riesige Esche in der nordischen Mythologie, die die neun Welten des Kosmos verbindet"],
+    "examples_de": [["**Yggdrasils** Wurzeln und Äste verbanden alle Reiche in der nordischen Kosmologie", "Die Nornen saßen unter **Yggdrasil** und webten die Schicksale der Menschen"]]
+  },
+  {
+    "lemma": "yiddish",
+    "meanings_de": ["jüdische Sprache"],
+    "definitions_de": ["Historisch von aschkenasischen Juden gesprochene Sprache, die deutsche, hebräische und slawische Elemente verbindet"],
+    "examples_de": [["Meine Großmutter spricht noch immer **Jiddisch** mit ihren alten Freunden", "Viele **jiddische** Wörter sind in den deutschen Wortschatz eingegangen"]]
+  },
+  {
+    "lemma": "yogi",
+    "meanings_de": ["Yoga-Praktizierender"],
+    "definitions_de": ["Person, die Yoga praktiziert, insbesondere jemand, der die Disziplin gemeistert hat"],
+    "examples_de": [["Der **Yogi** demonstrierte fortgeschrittene Stellungen während des Workshops", "Sie studierte sechs Monate bei einem **Yogi** in Indien"]]
+  },
+  {
+    "lemma": "yokohama",
+    "meanings_de": ["japanische Hafenstadt"],
+    "definitions_de": ["Große Hafenstadt südlich von Tokio und Japans zweitgrößte Stadt"],
+    "examples_de": [["**Yokohama** öffnete sich im neunzehnten Jahrhundert dem Außenhandel", "Das Baseballstadion in **Yokohama** ist Austragungsort internationaler Spiele"]]
+  },
+  {
+    "lemma": "york",
+    "meanings_de": ["englische Stadt", "amerikanischer Städtename"],
+    "definitions_de": ["Historische Stadt in Nordengland mit römischem und wikingerzeitlichem Erbe", "Häufiger Städtename in den Vereinigten Staaten, insbesondere New York"],
+    "examples_de": [["Das **York** Minster ist eine der größten gotischen Kathedralen Englands", "Die alten Mauern umgeben noch immer die Stadt **York**"], ["New **York** wurde nach dem Herzog von York benannt", "**York** in Pennsylvania spielte eine Rolle in der amerikanischen Geschichte"]]
+  },
+  {
+    "lemma": "yorkshire",
+    "meanings_de": ["englische Grafschaft", "Hunderasse"],
+    "definitions_de": ["Größte historische Grafschaft in Nordengland, bekannt für ihre ausgeprägte Kultur", "Kleine Terrierrasse, die ursprünglich aus Yorkshire in England stammt"],
+    "examples_de": [["**Yorkshire** Pudding ist eine traditionelle englische Beilage", "Die **Yorkshire** Dales bieten atemberaubende Landschaftsblicke"], ["Ihr **Yorkshire** Terrier passt perfekt in eine kleine Wohnung", "**Yorkshire**-Hunde sind für ihr seidiges Fell bekannt"]]
+  },
+  {
+    "lemma": "yorktown",
+    "meanings_de": ["historische amerikanische Stätte"],
+    "definitions_de": ["Stadt in Virginia, wo die Briten kapitulierten und damit 1781 den Amerikanischen Unabhängigkeitskrieg beendeten"],
+    "examples_de": [["Die Schlacht von **Yorktown** markierte Amerikas Unabhängigkeit von Großbritannien", "Touristen besuchen **Yorktown**, um die Schlachtfelder des Unabhängigkeitskrieges zu sehen"]]
+  },
+  {
+    "lemma": "yoruba",
+    "meanings_de": ["afrikanische Volksgruppe", "afrikanische Sprache"],
+    "definitions_de": ["Ethnische Gruppe hauptsächlich in Nigeria, Benin und Togo in Westafrika", "Tonsprache, die vom Yoruba-Volk gesprochen wird, mit reichen mündlichen Traditionen"],
+    "examples_de": [["Die **Yoruba** haben die Kultur in der gesamten afrikanischen Diaspora beeinflusst", "**Yoruba**-Religionstraditionen verbreiteten sich durch die Sklaverei nach Amerika"], ["Das Erlernen von **Yoruba** erfordert das Verständnis des Tonsystems", "Die **Yoruba**-Literatur umfasst alte mündliche Dichtung und moderne Werke"]]
+  },
+  {
+    "lemma": "yosemite",
+    "meanings_de": ["Nationalpark"],
+    "definitions_de": ["Nationalpark in Kaliforniens Sierra Nevada, berühmt für Granitfelsen und Wasserfälle"],
+    "examples_de": [["Das **Yosemite** Valley bietet atemberaubende Ausblicke auf El Capitan", "Kletterer aus aller Welt kommen, um die Wände des **Yosemite** zu bezwingen"]]
+  },
+  {
+    "lemma": "yuan",
+    "meanings_de": ["chinesische Währung", "chinesische Dynastie"],
+    "definitions_de": ["Grundlegende Währungseinheit Chinas, auch Renminbi genannt", "Mongolen-Dynastie, die China von 1271 bis 1368 regierte"],
+    "examples_de": [["Der Wechselkurs bestimmt, wie viele **Yuan** Sie für Euro bekommen", "Preise in Peking sind in **Yuan** ausgezeichnet"], ["Die **Yuan**-Dynastie wurde von Kublai Khan gegründet und vereinte China", "Marco Polo besuchte China während der **Yuan**-Zeit"]]
+  },
+  {
+    "lemma": "yucatan",
+    "meanings_de": ["mexikanische Halbinsel"],
+    "definitions_de": ["Halbinsel im Südosten Mexikos, die den Golf von Mexiko vom Karibischen Meer trennt"],
+    "examples_de": [["Die Halbinsel **Yucatán** beherbergt viele alte Maya-Ruinen", "Touristen strömen zu **Yucatáns** Stränden und archäologischen Stätten"]]
+  },
+  {
+    "lemma": "yugoslav",
+    "meanings_de": ["ehemalige Nationalität"],
+    "definitions_de": ["Person aus dem ehemaligen Staat Jugoslawien oder auf diese Nation bezogen"],
+    "examples_de": [["Viele **jugoslawische** Flüchtlinge flohen während der Bürgerkriege", "Die **jugoslawische** Nationalmannschaft trat bei internationalen Turnieren an"]]
+  },
+  {
+    "lemma": "yugoslavia",
+    "meanings_de": ["ehemaliges Balkanland"],
+    "definitions_de": ["Ehemaliger Staat in Südosteuropa, der von 1918 bis 1992 existierte, bevor er in separate Nationen zerfiel"],
+    "examples_de": [["**Jugoslawien** löste sich in den 1990er Jahren in mehrere unabhängige Länder auf", "Die Hauptstadt **Jugoslawiens** war Belgrad"]]
+  },
+  {
+    "lemma": "yugoslavian",
+    "meanings_de": ["ehemaliges Nationalitätsadjektiv"],
+    "definitions_de": ["Auf das ehemalige Land Jugoslawien, seine Menschen oder Kultur bezogen"],
+    "examples_de": [["Das Museum bewahrt **jugoslawische** Artefakte aus der kommunistischen Ära", "Die **jugoslawische** Küche vereinte Einflüsse verschiedener ethnischer Gruppen"]]
+  },
+  {
+    "lemma": "yukon",
+    "meanings_de": ["kanadisches Territorium"],
+    "definitions_de": ["Territorium im Nordwesten Kanadas, bekannt für Wildnis und den Klondike-Goldrausch"],
+    "examples_de": [["Das **Yukon**-Territorium zieht Abenteurer und Naturliebhaber an", "Dawson City im **Yukon** bewahrt die Geschichte des Goldrausches"]]
+  },
+  {
+    "lemma": "yule",
+    "meanings_de": ["Weihnachtszeit"],
+    "definitions_de": ["Traditioneller Begriff für Weihnachten oder die Feierzeit zur Wintersonnenwende"],
+    "examples_de": [["Der **Weihnachts**klotz brannte während der gesamten Feierlichkeiten", "Viele **Jul**-Traditionen in Nordeuropa sind älter als das Christentum"]]
+  },
+  {
+    "lemma": "zip",
+    "meanings_de": ["Postleitzahl", "Reißverschluss", "schnelle Bewegung"],
+    "definitions_de": ["Postleitzahlensystem, das in den Vereinigten Staaten für die Postzustellung verwendet wird", "Verschlussvorrichtung mit ineinandergreifenden Zähnen für Kleidung und Taschen", "Schnelle, energische Bewegung oder das Geräusch einer raschen Bewegung"],
+    "examples_de": [["Geben Sie Ihre **ZIP**-Code ein, um Geschäfte in der Nähe zu finden", "Der Brief benötigt die korrekte **ZIP** für die ordnungsgemäße Zustellung"], ["Der **Reißverschluss** an meiner Jacke klemmt auf halber Höhe", "Sie ersetzte den kaputten **Reißverschluss** an ihrem Rucksack"], ["Das Auto fuhr mit einem lauten **Zischen** vorbei", "Er bewegte sich trotz seines hohen Alters mit **Schwung**"]]
+  },
+  {
+    "lemma": "zagreb",
+    "meanings_de": ["kroatische Hauptstadt"],
+    "definitions_de": ["Hauptstadt und größte Stadt Kroatiens, im Nordwesten des Landes gelegen"],
+    "examples_de": [["**Zagreb** veranstaltet das ganze Jahr über viele Kulturfestivals", "Die historische Oberstadt von **Zagreb** stammt aus dem Mittelalter"]]
+  },
+  {
+    "lemma": "zaire",
+    "meanings_de": ["ehemaliges afrikanisches Land"],
+    "definitions_de": ["Früherer Name der Demokratischen Republik Kongo von 1971 bis 1997"],
+    "examples_de": [["**Zaire** wurde nach dem Ende des Mobutu-Regimes umbenannt", "Der **Zaire**-Fluss heißt heute wieder Kongo"]]
+  },
+  {
+    "lemma": "zambezi",
+    "meanings_de": ["afrikanischer Fluss"],
+    "definitions_de": ["Viertlängster Fluss Afrikas, der durch sechs Länder zum Indischen Ozean fließt"],
+    "examples_de": [["Die Victoriafälle entstehen dort, wo der **Sambesi** dramatisch in die Tiefe stürzt", "Der **Sambesi** versorgt Millionen Menschen im südlichen Afrika mit Wasser"]]
+  },
+  {
+    "lemma": "zambia",
+    "meanings_de": ["afrikanisches Land"],
+    "definitions_de": ["Binnenstaat im südlichen Afrika, früher als Nordrhodesien bekannt"],
+    "examples_de": [["**Sambia** erlangte 1964 die Unabhängigkeit von Großbritannien", "Kupferbergbau treibt einen Großteil von **Sambias** Wirtschaft an"]]
+  },
+  {
+    "lemma": "zambian",
+    "meanings_de": ["Person aus Sambia", "sambisch"],
+    "definitions_de": ["Staatsbürger oder Einheimischer Sambias, eines Landes im südlichen Afrika", "Charakteristisch für Sambia, seine Menschen oder Kultur"],
+    "examples_de": [["Der **sambische** Athlet gewann Gold bei den Commonwealth Games", "Viele **Sambier** arbeiten in der Kupferbergbauindustrie"], ["**Sambische** Musik verbindet traditionelle und moderne Einflüsse", "Die **sambische** Flagge zeigt einen fliegenden Adler"]]
+  },
+  {
+    "lemma": "zamboni",
+    "meanings_de": ["Eisbearbeitungsmaschine"],
+    "definitions_de": ["Markenname für Maschinen, die Eisbahnen durch Abhobeln und Fluten der Oberfläche erneuern"],
+    "examples_de": [["Die **Zamboni** glättete das Eis zwischen den Hockeydritteln", "Das Fahren einer **Zamboni** erfordert spezielle Schulung und Geschick"]]
+  },
+  {
+    "lemma": "zanzibar",
+    "meanings_de": ["afrikanische Inselregion"],
+    "definitions_de": ["Halbautonomer Archipel vor Tansanias Küste, bekannt für Gewürze und Strände"],
+    "examples_de": [["**Sansibars** Steinstadt spiegelt jahrhundertelange kulturelle Einflüsse wider", "Die Gewürztouren auf **Sansibar** zeigen Nelken- und Muskatplantagen"]]
+  },
+  {
+    "lemma": "zarathustra",
+    "meanings_de": ["altpersischer Prophet"],
+    "definitions_de": ["Gründer des Zoroastrismus, auch als Zoroaster bekannt, der im alten Persien lebte"],
+    "examples_de": [["**Zarathustras** Lehren beeinflussten die großen Weltreligionen", "Nietzsche schrieb Also sprach **Zarathustra** als philosophisches Werk"]]
+  },
+  {
+    "lemma": "zealand",
+    "meanings_de": ["dänische Insel", "Ländernamenbestandteil"],
+    "definitions_de": ["Größte Insel Dänemarks, auf der sich Kopenhagen befindet", "Teil des Namens Neuseeland, der sich auf die pazifische Nation bezieht"],
+    "examples_de": [["**Seeland** ist über die Öresundbrücke mit Schweden verbunden", "Der Flughafen Kopenhagen bedient die Region **Seeland**"], ["Neu**seeland** wurde von niederländischen Entdeckern benannt", "Das Wort **seeland** im Ländernamen hat niederländische Ursprünge"]]
+  },
+  {
+    "lemma": "zealander",
+    "meanings_de": ["Neuseeländer"],
+    "definitions_de": ["Informelle Bezeichnung für eine Person aus Neuseeland, auch Kiwi genannt"],
+    "examples_de": [["Der **Neuseeländer** erklärte den Touristen die Rugby-Regeln", "Viele **Neuseeländer** reisen für ihre Auslandserfahrung ins Ausland"]]
+  },
+  {
+    "lemma": "zealot",
+    "meanings_de": ["fanatische Person"],
+    "definitions_de": ["Person, die extreme Leidenschaft oder fanatische Unterstützung für eine Sache, einen Glauben oder eine Aktivität zeigt"],
+    "examples_de": [["Der politische **Eiferer** weigerte sich, gegensätzliche Standpunkte zu berücksichtigen", "Religiöse **Fanatiker** stoßen manchmal gemäßigtere Gläubige ab"]]
+  },
+  {
+    "lemma": "zeitgeist",
+    "meanings_de": ["Zeitgeist"],
+    "definitions_de": ["Der prägende Geist, die Stimmung oder das kulturelle Klima einer bestimmten Geschichtsperiode"],
+    "examples_de": [["Der Film fing perfekt den **Zeitgeist** der 1960er Jahre ein", "Soziale Medien spiegeln den aktuellen **Zeitgeist** der sofortigen Kommunikation wider"]]
+  },
+  {
+    "lemma": "zen",
+    "meanings_de": ["buddhistische Tradition", "Ruhezustand"],
+    "definitions_de": ["Japanische Schule des Mahayana-Buddhismus, die Meditation und Intuition betont", "Zustand ruhiger Aufmerksamkeit und intuitiver Einsicht"],
+    "examples_de": [["Sie studierte **Zen**-Buddhismus in einem Kloster in Japan", "**Zen**-Gärten nutzen Steine und Sand zur Kontemplationsanregung"], ["Ihr **Zen** zu finden half ihr, mit dem Arbeitsstress umzugehen", "Das minimalistische Design schuf eine **Zen**-Atmosphäre"]]
+  }
+]

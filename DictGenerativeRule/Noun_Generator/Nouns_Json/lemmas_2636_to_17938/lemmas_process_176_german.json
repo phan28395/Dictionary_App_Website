@@ -1,0 +1,278 @@
+[
+  {
+    "lemma": "pressing",
+    "meanings_de": ["dringende Angelegenheit", "Stoffbehandlungsverfahren"],
+    "definitions_de": ["dringende oder wichtige Angelegenheit, die sofortige Aufmerksamkeit oder Handlung erfordert", "Verfahren, bei dem Druck und Hitze auf Stoff angewendet werden, um ihn zu glätten"],
+    "examples_de": [["Die Finanzkrise wurde zu einer **dringenden** Angelegenheit für die Geschäftsführung", "Wir haben mehrere **dringende** Themen, die wir in der heutigen Sitzung besprechen müssen"], ["Sie brachte ihr Kleid zur Reinigung für eine professionelle **Bügelung**", "Das **Bügeln** entfernte alle Falten aus seinem Hemd"]]
+  },
+  {
+    "lemma": "pressman",
+    "meanings_de": ["Druckmaschinenbediener", "Zeitungsjournalist"],
+    "definitions_de": ["Person, die eine Druckmaschine in einer Druckerei bedient", "Journalist oder Reporter, der für eine Zeitung arbeitet"],
+    "examples_de": [["Der **Drucker** richtete das Papier sorgfältig aus, bevor er den Druckvorgang startete", "Ein erfahrener **Druckmaschinenbediener** kann Druckprobleme schnell erkennen"], ["Der **Pressevertreter** befragte Zeugen am Unfallort", "Mehrere **Journalisten** versammelten sich vor dem Gerichtsgebäude für die Urteilsverkündung"]]
+  },
+  {
+    "lemma": "prestige",
+    "meanings_de": ["hohes Ansehen"],
+    "definitions_de": ["weit verbreiteter Respekt und Bewunderung, die auf Leistungen oder Qualität basieren"],
+    "examples_de": [["Das **Ansehen** der Universität zieht Studenten aus aller Welt an", "Der Gewinn des Preises brachte dem kleinen Unternehmen großes **Prestige**"]]
+  },
+  {
+    "lemma": "presumption",
+    "meanings_de": ["unbewiesene Annahme", "anmaßendes Verhalten"],
+    "definitions_de": ["Überzeugung oder Annahme, die ohne eindeutigen Beweis oder Beleg getroffen wird", "Verhalten, das übermäßiges Selbstvertrauen zeigt oder sich Freiheiten ohne Erlaubnis herausnimmt"],
+    "examples_de": [["Die **Unschuldsvermutung** ist grundlegend für unser Rechtssystem", "Seine **Annahme**, dass sie zustimmen würde, erwies sich als falsch"], ["Ihre **Anmaßung**, mein Büro ohne zu fragen zu benutzen, war ziemlich irritierend", "Solche **Dreistigkeit** von einem Nachwuchsmitarbeiter wird nicht toleriert"]]
+  },
+  {
+    "lemma": "preteen",
+    "meanings_de": ["Kind vor Teenageralter"],
+    "definitions_de": ["Kind im Alter zwischen etwa neun und zwölf Jahren"],
+    "examples_de": [["Das Sommercamp bietet spezielle Programme für **Vorpubertäre** an", "Viele **Kinder** in diesem Alter kämpfen mit dem Übergang zur Mittelschule"]]
+  },
+  {
+    "lemma": "pretence",
+    "meanings_de": ["falsche Zurschaustellung"],
+    "definitions_de": ["Handlung des Vortäuschens oder Erzeugens eines falschen Anscheins von etwas"],
+    "examples_de": [["Sie hielt die **Fassade** aufrecht, dass zu Hause alles in Ordnung sei", "Seine Freundlichkeit war nur **Schein**, um ihr Vertrauen zu gewinnen"]]
+  },
+  {
+    "lemma": "pretender",
+    "meanings_de": ["falscher Thronanwärter", "Person die vorgibt"],
+    "definitions_de": ["Person, die ohne legitimes Recht einen Thron oder Titel beansprucht", "jemand, der vorgibt, etwas zu sein, was er nicht ist"],
+    "examples_de": [["Der **Thronprätendent** sammelte Anhänger in den nördlichen Provinzen", "Nach dem Tod des Königs ohne Erben tauchten mehrere **Thronanwärter** auf"], ["Er ist nur ein **Schwindler**, der nichts von echter Kunst versteht", "Trauen Sie diesem **Betrüger** nicht, der behauptet, Arzt zu sein"]]
+  },
+  {
+    "lemma": "pretending",
+    "meanings_de": ["Vortäuschen"],
+    "definitions_de": ["Verhalten, bei dem so getan wird, als ob etwas wahr wäre, obwohl es das nicht ist"],
+    "examples_de": [["Kinder lernen durch **Vortäuschen** und fantasievolles Spielen", "Ihr **Vortäuschen** von Glück täuschte niemanden auf der Party"]]
+  },
+  {
+    "lemma": "pretense",
+    "meanings_de": ["falsche Zurschaustellung"],
+    "definitions_de": ["Handlung des Vortäuschens oder Erzeugens eines falschen Anscheins von etwas"],
+    "examples_de": [["Er ließ alle **Verstellung** fallen und sprach ehrlich über seine Gefühle", "Ihre Ehe war nur eine **Fassade**, um ihre Familien zufriedenzustellen"]]
+  },
+  {
+    "lemma": "pretension",
+    "meanings_de": ["Anspruch auf Bedeutung"],
+    "definitions_de": ["Behauptung eines Anspruchs auf etwas, insbesondere Prestige oder Wichtigkeit"],
+    "examples_de": [["Das Restaurant erhebt **Ansprüche** auf gehobene Küche, serviert aber durchschnittliches Essen", "Seine **Anmaßungen** intellektueller Überlegenheit nervten seine Kollegen"]]
+  },
+  {
+    "lemma": "pretext",
+    "meanings_de": ["falscher Vorwand"],
+    "definitions_de": ["Grund, der zur Rechtfertigung einer Handlung angegeben wird, aber die wahre Absicht verbirgt"],
+    "examples_de": [["Er nutzte das Treffen als **Vorwand**, um seine Freundin zu besuchen", "Die Inspektion war nur ein **Vorwand**, um die Fabrik zu schließen"]]
+  },
+  {
+    "lemma": "pretrial",
+    "meanings_de": ["vor Gerichtsverfahren"],
+    "definitions_de": ["rechtliche Verfahren oder Aktivitäten, die vor dem eigentlichen Prozess stattfinden"],
+    "examples_de": [["Die **Vorverhandlung** wird bestimmen, welche Beweise vorgelegt werden können", "Beide Anwälte reichten mehrere **vorprozessuale** Anträge beim Gericht ein"]]
+  },
+  {
+    "lemma": "pretzel",
+    "meanings_de": ["gedrehtes Laugengebäck"],
+    "definitions_de": ["gebackenes Knabbergebäck, das zu einer Knotenform gedreht und mit Salz bestreut wird"],
+    "examples_de": [["Sie kaufte eine warme **Brezel** beim Straßenverkäufer", "Die Kinder hatten Spaß daran, **Brezeln** in ihrem Kochkurs zu machen"]]
+  },
+  {
+    "lemma": "prevalence",
+    "meanings_de": ["weitverbreitetes Auftreten"],
+    "definitions_de": ["Tatsache oder Zustand des weitverbreiteten oder häufigen Vorkommens in einer Population"],
+    "examples_de": [["Die **Häufigkeit** von Diabetes hat in den letzten Jahrzehnten erheblich zugenommen", "Wissenschaftler untersuchten die **Verbreitung** der Krankheit in städtischen Gebieten"]]
+  },
+  {
+    "lemma": "preventative",
+    "meanings_de": ["vorbeugende Maßnahme"],
+    "definitions_de": ["Maßnahme oder Handlung, die ergriffen wird, um etwas Unerwünschtes zu verhindern"],
+    "examples_de": [["Regelmäßige Bewegung ist eine wichtige **Vorbeugung** gegen Herzkrankheiten", "Das Unternehmen führte **vorbeugende** Wartung an allen Geräten durch"]]
+  },
+  {
+    "lemma": "preventive",
+    "meanings_de": ["vorbeugende Maßnahme"],
+    "definitions_de": ["darauf ausgelegt, etwas Unerwünschtes wie Krankheit oder Schäden zu verhindern"],
+    "examples_de": [["**Präventivmedizin** konzentriert sich auf die Erhaltung der Gesundheit statt auf die Behandlung von Krankheiten", "Sie planten **vorbeugende** Wartung, um Geräteausfälle zu vermeiden"]]
+  },
+  {
+    "lemma": "preview",
+    "meanings_de": ["Vorschau"],
+    "definitions_de": ["Vorabansicht oder Betrachtung von etwas vor der allgemeinen Veröffentlichung oder Verfügbarkeit"],
+    "examples_de": [["Die Film**vorschau** verriet zu viel von der Handlung", "Kunden können die Software vor dem Kauf in einer **Vorschau** testen"]]
+  },
+  {
+    "lemma": "prey",
+    "meanings_de": ["gejagtes Beutetier"],
+    "definitions_de": ["Tier, das von einem anderen Tier zur Nahrung gejagt oder gefangen wird"],
+    "examples_de": [["Der Adler kreiste oben und suchte nach **Beute**", "Kleine Fische sind **Beute** für größere Raubfischarten"]]
+  },
+  {
+    "lemma": "pricing",
+    "meanings_de": ["Preisgestaltungsprozess"],
+    "definitions_de": ["Prozess der Bestimmung der Kosten, zu denen Produkte verkauft werden"],
+    "examples_de": [["Die **Preisstrategie** des Unternehmens half ihnen, Marktanteile zu gewinnen", "Wettbewerbsfähige **Preisgestaltung** ist im Einzelhandel unerlässlich"]]
+  },
+  {
+    "lemma": "prick",
+    "meanings_de": ["spitzes Stichgefühl", "kleine Einstichstelle"],
+    "definitions_de": ["scharfer Schmerz oder Empfindung, die durch das Durchstechen mit etwas Spitzem verursacht wird", "kleines Loch oder Markierung, die durch Einstechen mit etwas Scharfem entsteht"],
+    "examples_de": [["Sie spürte einen **Stich**, als die Krankenschwester die Nadel einführte", "Der **Stich** des Gewissens brachte ihn dazu, seinen Fehler zu gestehen"], ["Es gab einen winzigen **Einstich** im Ballon, der ihn zum Entleeren brachte", "Der **Stich** vom Dorn hinterließ eine kleine Markierung an ihrem Finger"]]
+  },
+  {
+    "lemma": "priesthood",
+    "meanings_de": ["religiöses Priesteramt"],
+    "definitions_de": ["Position oder Amt eines Priesters in einer religiösen Organisation"],
+    "examples_de": [["Er trat nach Jahren des Theologiestudiums ins **Priesteramt** ein", "Das **Priestertum** erfordert Hingabe im Dienst an der Gemeinde"]]
+  },
+  {
+    "lemma": "primacy",
+    "meanings_de": ["oberste Wichtigkeitsstellung"],
+    "definitions_de": ["Zustand, in Bedeutung, Ordnung oder Rang an erster Stelle über allen anderen zu stehen"],
+    "examples_de": [["Der **Vorrang** der Menschenrechte wird im Völkerrecht anerkannt", "Rom behielt seinen **Primat** in der katholischen Kirche"]]
+  },
+  {
+    "lemma": "primate",
+    "meanings_de": ["Säugetiergruppenmitglied", "Kirchenführerposition"],
+    "definitions_de": ["Mitglied der biologischen Ordnung, die Menschen, Menschenaffen und Affen umfasst", "Erzbischof oder Bischof, der als Erster unter Gleichen in einer Kirchenprovinz rangiert"],
+    "examples_de": [["Schimpansen sind **Primaten**, die eng mit Menschen verwandt sind", "Der Zoo hat eine spezielle Ausstellung mit verschiedenen **Primaten**"], ["Der **Primas** der Kirche leitete die wichtige Zeremonie", "Als **Primas** hatte er Autorität über alle Bischöfe in der Region"]]
+  },
+  {
+    "lemma": "primer",
+    "meanings_de": ["Grundlagenlehrbuch", "Grundierungsfarbe"],
+    "definitions_de": ["elementares Buch zum Lehren von Kindern beim Lesen oder zur Einführung in ein Thema", "vorbereitende Beschichtung, die vor der Hauptfarbe auf eine Oberfläche aufgetragen wird"],
+    "examples_de": [["Die Schüler benutzten eine **Fibel**, um die Grundlagen der Chemie zu lernen", "Dieses **Grundlagenbuch** erklärt Computerprogrammierung in einfachen Begriffen"], ["Tragen Sie eine Schicht **Grundierung** auf, bevor Sie die Wände streichen", "Die Metall**grundierung** verhindert Rostbildung"]]
+  },
+  {
+    "lemma": "priming",
+    "meanings_de": ["Vorbereitungsprozess"],
+    "definitions_de": ["Prozess der Vorbereitung von etwas für die Verwendung oder um es betriebsbereit zu machen"],
+    "examples_de": [["Das **Ansaugen** der Pumpe gewährleistet einen ordnungsgemäßen Wasserfluss", "Kognitives **Priming** beeinflusst, wie wir nachfolgende Informationen verarbeiten"]]
+  },
+  {
+    "lemma": "primitive",
+    "meanings_de": ["frühe Entwicklungsstufe"],
+    "definitions_de": ["etwas aus einer frühen Entwicklungsstufe, dem Komplexität oder Fortschritt fehlt"],
+    "examples_de": [["Höhlenmalereien sind **Primitive**, die frühe menschliche Kreativität offenbaren", "Der Computer war ein **Primitiv** im Vergleich zu modernen Maschinen"]]
+  },
+  {
+    "lemma": "primrose",
+    "meanings_de": ["Frühlingsblühpflanze"],
+    "definitions_de": ["kleine Pflanze mit hellgelben Blüten, die im frühen Frühling blühen"],
+    "examples_de": [["Wilde **Primeln** bedeckten den Waldboden Anfang April", "Sie pflanzte **Schlüsselblumen** entlang des Gartenwegs"]]
+  },
+  {
+    "lemma": "principality",
+    "meanings_de": ["fürstenregiertes Territorium"],
+    "definitions_de": ["Staat oder Territorium, das von einem Fürsten regiert wird oder einen Fürsten als Oberhaupt hat"],
+    "examples_de": [["Monaco ist ein kleines **Fürstentum** an der Mittelmeerküste", "Das **Fürstentum** behielt jahrhundertelang seine Unabhängigkeit"]]
+  },
+  {
+    "lemma": "printer",
+    "meanings_de": ["Druckgerät", "Druckereibesitzer"],
+    "definitions_de": ["Maschine, die Text oder Bilder von digitaler Eingabe auf Papier produziert", "Person, die eine Druckerei besitzt oder betreibt"],
+    "examples_de": [["Der Büro**drucker** ging während der arbeitsreichen Zeit der Toner aus", "Sie verband ihren Laptop mit dem drahtlosen **Drucker**"], ["Der örtliche **Drucker** produzierte alle unsere Hochzeitseinladungen", "Mein Großvater arbeitete vierzig Jahre als **Drucker**"]]
+  },
+  {
+    "lemma": "printing",
+    "meanings_de": ["Textreproduktionsprozess"],
+    "definitions_de": ["Prozess der Reproduktion von Text und Bildern mit Tinte auf Papier oder anderen Materialien"],
+    "examples_de": [["Die Erfindung des **Buchdrucks** revolutionierte die Verbreitung von Wissen", "Moderner Digital**druck** ermöglicht maßgeschneiderte Buchproduktion"]]
+  },
+  {
+    "lemma": "printmaker",
+    "meanings_de": ["Druckgrafikersteller"],
+    "definitions_de": ["Künstler, der Drucke mit Techniken wie Radierung, Lithografie oder Holzschnitt erstellt"],
+    "examples_de": [["Der **Druckgrafiker** demonstrierte den Radierprozess vor Kunststudenten", "Berühmte **Druckgrafiker** wie Dürer beeinflussten Generationen von Künstlern"]]
+  },
+  {
+    "lemma": "printmaking",
+    "meanings_de": ["künstlerische Druckherstellung"],
+    "definitions_de": ["künstlerischer Prozess der Erstellung von Drucken durch verschiedene Techniken und Methoden"],
+    "examples_de": [["Sie studierte drei Jahre **Druckgrafik** am Kunstinstitut", "Traditionelle **Druckgrafik** erfordert Geduld und technisches Können"]]
+  },
+  {
+    "lemma": "prism",
+    "meanings_de": ["dreieckiges Glasobjekt"],
+    "definitions_de": ["transparentes optisches Element mit flachen Oberflächen, das Licht bricht"],
+    "examples_de": [["Das **Prisma** teilte weißes Licht in einen Regenbogen von Farben auf", "Wissenschaftler verwenden **Prismen**, um das Lichtspektrum zu analysieren"]]
+  },
+  {
+    "lemma": "privatisation",
+    "meanings_de": ["Übergang zu Privatbesitz"],
+    "definitions_de": ["Übertragung des Eigentums vom Staat oder öffentlichen Sektor auf den privaten Sektor"],
+    "examples_de": [["Die **Privatisierung** des Eisenbahnsystems löste hitzige Debatten aus", "Viele Länder verfolgten in den 1980er Jahren **Privatisierungspolitik**"]]
+  },
+  {
+    "lemma": "privatization",
+    "meanings_de": ["Übergang zu Privatbesitz"],
+    "definitions_de": ["Übertragung des Eigentums vom Staat oder öffentlichen Sektor auf den privaten Sektor"],
+    "examples_de": [["Die **Privatisierung** von Versorgungsunternehmen führte zu verstärktem Wettbewerb", "Kritiker argumentierten, die **Privatisierung** würde öffentliche Dienstleistungen reduzieren"]]
+  },
+  {
+    "lemma": "prizefighter",
+    "meanings_de": ["professioneller Boxkämpfer"],
+    "definitions_de": ["professioneller Boxer, der in Kämpfen um Geld und Preise antritt"],
+    "examples_de": [["Der **Preisboxer** trainierte täglich sechs Stunden für die Meisterschaft", "Viele **Preiskämpfer** kamen aus der Arbeiterklasse"]]
+  },
+  {
+    "lemma": "probable",
+    "meanings_de": ["wahrscheinlicher Kandidat"],
+    "definitions_de": ["Person oder Sache, die wahrscheinlich ausgewählt wird oder Erfolg haben wird"],
+    "examples_de": [["Sie ist eine **wahrscheinliche Kandidatin** für die Teamkapitänsposition nächstes Jahr", "Der Neuling ist ein **wahrscheinlicher** Starter für das morgige Spiel"]]
+  },
+  {
+    "lemma": "probate",
+    "meanings_de": ["Testamentsbestätigungsverfahren"],
+    "definitions_de": ["rechtliches Verfahren zur Bestätigung der Gültigkeit eines Testaments und Verwaltung eines Nachlasses"],
+    "examples_de": [["Das **Nachlassverfahren** dauerte mehrere Monate", "Sie beauftragten einen Anwalt mit der **Nachlassverwaltung** ihres Vaters"]]
+  },
+  {
+    "lemma": "probation",
+    "meanings_de": ["überwachte Freilassungszeit", "Probezeit"],
+    "definitions_de": ["Zeitraum der überwachten Freilassung für Straftäter anstelle von Gefängniszeit", "Probezeit für neue Mitarbeiter, um ihre Eignung zu beweisen"],
+    "examples_de": [["Er erhielt zwei Jahre **Bewährung** statt Gefängnis", "Die Verletzung der **Bewährungsauflagen** könnte zu Inhaftierung führen"], ["Neue Lehrer haben eine **Probezeit** von einem Schuljahr", "Sie bestand ihre **Probezeit** und wurde Festangestellte"]]
+  },
+  {
+    "lemma": "probe",
+    "meanings_de": ["Untersuchung", "medizinisches Untersuchungsinstrument"],
+    "definitions_de": ["gründliche Untersuchung oder Befragung einer Angelegenheit oder eines Vorfalls", "dünnes medizinisches Instrument zur Untersuchung von Wunden oder Körperhöhlen"],
+    "examples_de": [["Die Regierung leitete eine **Untersuchung** des Finanzskandals ein", "Die **Nachforschungen** des Journalisten deckten Beweise für Korruption auf"], ["Der Arzt benutzte eine **Sonde**, um die Wunde zu untersuchen", "Die Zahn**sonde** half, die Karies zu lokalisieren"]]
+  },
+  {
+    "lemma": "proceeding",
+    "meanings_de": ["Gerichtsverfahren", "Ablauf von Ereignissen"],
+    "definitions_de": ["rechtliche Handlung oder Verfahren, das vor einem Gericht durchgeführt wird", "Reihe von Ereignissen oder Handlungen, die in einem formellen Rahmen stattfinden"],
+    "examples_de": [["Das **Scheidungsverfahren** dauerte mehrere Monate", "**Strafverfahren** wurden gegen den mutmaßlichen Veruntreuer eingeleitet"], ["Die Konferenz**protokolle** wurden in einer Sonderzeitschrift veröffentlicht", "Wir verfolgten die **Vorgänge** von der Galerie aus"]]
+  },
+  {
+    "lemma": "procession",
+    "meanings_de": ["organisierte bewegende Gruppe"],
+    "definitions_de": ["Anzahl von Menschen oder Fahrzeugen, die sich geordnet vorwärts bewegen"],
+    "examples_de": [["Der **Trauerzug** bewegte sich langsam durch die Straßen", "Eine bunte **Prozession** markierte den Beginn des Festivals"]]
+  },
+  {
+    "lemma": "processional",
+    "meanings_de": ["zeremonielles Musikstück"],
+    "definitions_de": ["Hymne oder Musikstück, das während einer formellen Prozession gesungen oder gespielt wird"],
+    "examples_de": [["Die **Einzugsmusik** der Hochzeit begann, als die Braut eintrat", "Der Chor sang eine schöne **Prozessionshymne** bei der Abschlussfeier"]]
+  },
+  {
+    "lemma": "proclamation",
+    "meanings_de": ["offizielle öffentliche Bekanntmachung"],
+    "definitions_de": ["offizielle öffentliche Ankündigung oder Erklärung einer Autoritätsperson"],
+    "examples_de": [["Der König erließ eine **Proklamation**, die einen Feiertag erklärte", "Die **Bekanntmachung** des Bürgermeisters würdigte lokale Freiwillige"]]
+  },
+  {
+    "lemma": "procrastination",
+    "meanings_de": ["Aufschubgewohnheit"],
+    "definitions_de": ["Handlung des Verzögerns oder Aufschiebens von Aufgaben oder Entscheidungen trotz negativer Konsequenzen"],
+    "examples_de": [["Seine **Aufschieberitis** führte dazu, dass er die Bewerbungsfrist verpasste", "**Prokrastination** entspringt oft aus Angst vor Versagen oder Perfektionismus"]]
+  },
+  {
+    "lemma": "procreation",
+    "meanings_de": ["Fortpflanzung"],
+    "definitions_de": ["biologischer Prozess der Nachkommenserzeugung durch sexuelle Fortpflanzung"],
+    "examples_de": [["Viele Arten haben spezifische Jahreszeiten für die **Fortpflanzung**", "Das Paar besprach ihre Ansichten zur **Fortpflanzung** vor der Heirat"]]
+  }
+]

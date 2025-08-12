@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "abused",
+    "meanings_de": ["grausam behandelt", "falsch verwendet"],
+    "definitions_de": ["körperlicher oder seelischer Schädigung durch grausame Behandlung ausgesetzt, wobei das Opfer unter den Folgen dieser Misshandlung leidet", "in einer falschen oder unangemessenen Weise verwendet, die zu Schäden oder negativen Konsequenzen führt"],
+    "examples_de": [["Die **misshandelten** Kinder brauchten jahrelange Therapie zur Heilung", "Sie fühlte sich durch seine ständige Kritik emotional **missbraucht**"], ["Das **überstrapazierte** System brach schließlich durch Überlastung zusammen", "Seine **missbrauchten** Privilegien wurden ihm schließlich vollständig entzogen"]]
+  },
+  {
+    "lemma": "abusive",
+    "meanings_de": ["andere grausam behandelnd", "verletzende Sprache verwendend"],
+    "definitions_de": ["durch grausame und gewalttätige Behandlung gegenüber einer anderen Person gekennzeichnet, oft in Beziehungen oder Machtpositionen", "harte, beleidigende Sprache verwendend oder enthaltend, die darauf abzielt zu verletzen oder herabzusetzen"],
+    "examples_de": [["Der **gewalttätige** Elternteil wurde dem Jugendamt gemeldet", "Sie verließ ihren **misshandelnden** Partner nach Jahren des Leidens"], ["Seine **beleidigenden** Kommentare machten alle im Meeting unbehaglich", "Der Schiedsrichter warnte den Spieler wegen seiner **ausfallenden** Sprache"]]
+  },
+  {
+    "lemma": "abysmal",
+    "meanings_de": ["extrem schlecht", "unermesslich tief"],
+    "definitions_de": ["von extrem schlechter Qualität oder Leistung, sodass es Entsetzen oder Bestürzung hervorruft", "so tief oder groß, dass es wie ein Abgrund unermesslich erscheint"],
+    "examples_de": [["Die **katastrophale** Leistung des Teams führte zur Entlassung des Trainers", "Die Testergebnisse waren trotz monatelanger Vorbereitung **miserabel**"], ["Das U-Boot tauchte in die **abgrundtiefen** Tiefen des Ozeans", "Eine **unergründliche** Schlucht öffnete sich zwischen den beiden Bergen"]]
+  },
+  {
+    "lemma": "abyssal",
+    "meanings_de": ["die Tiefsee betreffend"],
+    "definitions_de": ["die Tiefen des Ozeans unterhalb von 3000 Metern betreffend oder bezeichnend, wo ewige Dunkelheit herrscht"],
+    "examples_de": [["**Abyssale** Lebewesen haben sich an völlige Dunkelheit und extremen Druck angepasst", "Die **abyssale** Ebene bedeckt den größten Teil des Ozeanbodens"]]
+  },
+  {
+    "lemma": "accelerated",
+    "meanings_de": ["in Geschwindigkeit erhöht", "schneller vorangebracht"],
+    "definitions_de": ["sich schneller bewegend oder schneller ablaufend als üblich oder erwartet", "durch Phasen oder Stufen schneller als normal fortschreitend"],
+    "examples_de": [["Das **beschleunigte** Tempo des Autos alarmierte die Fußgänger", "Der Klimawandel findet in **beschleunigtem** Tempo statt"], ["Sie belegte einen **beschleunigten** Kurs, um ihr Studium früher abzuschließen", "Das **beschleunigte** Programm erlaubte begabten Schülern Klassen zu überspringen"]]
+  },
+  {
+    "lemma": "accented",
+    "meanings_de": ["betont oder hervorgehoben", "mit Akzent gesprochen"],
+    "definitions_de": ["besondere Betonung oder Hervorhebung in Design oder Dekoration erhalten habend", "mit einer charakteristischen Aussprache gesprochen, die regionale oder ausländische Herkunft anzeigt"],
+    "examples_de": [["Die **betonten** Farben machten das Gemälde dramatischer", "Ihr Outfit wurde mit goldenen Schmuckstücken **akzentuiert**"], ["Sein **akzentbehaftetes** Englisch verriet seine italienische Herkunft", "Die **betonten** Silben in der Poesie erzeugen ihren Rhythmus"]]
+  },
+  {
+    "lemma": "accepted",
+    "meanings_de": ["allgemein anerkannt", "formell angenommen"],
+    "definitions_de": ["allgemein als gültig oder korrekt geglaubt oder anerkannt, sodass es als Standard gilt", "offiziell empfangen oder als angemessen, gültig oder geeignet angenommen"],
+    "examples_de": [["Die **anerkannte** Theorie wird seit Jahrzehnten gelehrt", "Dies sind die **akzeptierten** Standards in unserer Branche"], ["Alle **zugelassenen** Studenten erhalten diese Woche Benachrichtigungsbriefe", "Nur **akzeptierte** Zahlungsformen umfassen Bargeld und Kreditkarte"]]
+  },
+  {
+    "lemma": "accepting",
+    "meanings_de": ["bereit zu erlauben", "tolerant gegenüber Unterschieden"],
+    "definitions_de": ["bereit, etwas oder jemanden zu erlauben oder zu billigen ohne Widerstand", "fähig, Unterschiede ohne Kritik zu tolerieren oder zu akzeptieren"],
+    "examples_de": [["Sie war sehr **aufgeschlossen** gegenüber der plötzlichen Planänderung", "Die **entgegenkommende** Haltung des Personals machte alle wohl"], ["Die Gemeinde ist **tolerant** gegenüber Menschen aller Hintergründe", "Er wurde mit dem Alter **aufgeschlossener** gegenüber anderen Meinungen"]]
+  },
+  {
+    "lemma": "accessory",
+    "meanings_de": ["ergänzend oder zusätzlich", "bei Verbrechen helfend"],
+    "definitions_de": ["zu einer Aktivität als ergänzendes Element beitragend oder diese unterstützend", "jemandem bei der Begehung eines Verbrechens helfend, aber nicht als Haupttäter"],
+    "examples_de": [["Der Schal diente als **ergänzendes** Accessoire zur Vervollständigung ihres Outfits", "Diese **zusätzlichen** Funktionen verbessern die Hauptproduktfunktionalität"], ["Er wurde als **Mittäter** des Raubüberfalls angeklagt", "Als **nachträglicher** Gehilfe zu handeln ist immer noch illegal"]]
+  },
+  {
+    "lemma": "accidental",
+    "meanings_de": ["zufällig geschehend"],
+    "definitions_de": ["durch Zufall oder unerwartet geschehend ohne absichtliche Intention oder Ursache"],
+    "examples_de": [["Die **zufällige** Entdeckung führte zu einem großen wissenschaftlichen Durchbruch", "Ihre **zufällige** Begegnung im Café veränderte beider Leben"]]
+  },
+  {
+    "lemma": "accommodating",
+    "meanings_de": ["hilfsbereit und entgegenkommend"],
+    "definitions_de": ["bereit, sich den Wünschen oder Bedürfnissen anderer auf hilfreiche Weise anzupassen"],
+    "examples_de": [["Das **entgegenkommende** Personal machte unseren Aufenthalt äußerst angenehm", "Sie ist sehr **zuvorkommend**, wenn es um Terminänderungen geht"]]
+  },
+  {
+    "lemma": "accompanied",
+    "meanings_de": ["zusammen gehend mit"],
+    "definitions_de": ["mit jemandem mitgehend oder zusammen mit etwas anderem auftretend"],
+    "examples_de": [["Die **begleitete** Tour umfasst durchgehend einen professionellen Führer", "Kinder müssen jederzeit von einem Erwachsenen **begleitet** sein"]]
+  },
+  {
+    "lemma": "accompanying",
+    "meanings_de": ["mitgehend mit"],
+    "definitions_de": ["zur gleichen Zeit wie etwas anderes bereitgestellt oder auftretend"],
+    "examples_de": [["Die **begleitende** Musik verstärkte die emotionale Wirkung der Szene", "Bitte lesen Sie die **beiliegenden** Anweisungen vor dem Zusammenbau"]]
+  },
+  {
+    "lemma": "accomplished",
+    "meanings_de": ["hochqualifiziert", "erfolgreich abgeschlossen"],
+    "definitions_de": ["hochgradig ausgebildet oder geschickt in einer bestimmten Tätigkeit durch jahrelange Übung", "erfolgreich erreicht oder zur Vollendung gebracht"],
+    "examples_de": [["Sie ist eine **versierte** Pianistin, die weltweit aufgetreten ist", "Der **renommierte** Koch eröffnete dieses Jahr sein drittes Restaurant"], ["Nachdem wir unser Ziel **erreicht** hatten, feierten wir gemeinsam", "Die **vollbrachte** Mission hob die Moral aller erheblich"]]
+  },
+  {
+    "lemma": "accountable",
+    "meanings_de": ["anderen gegenüber verantwortlich"],
+    "definitions_de": ["verpflichtet oder erwartet, Handlungen oder Entscheidungen gegenüber jemandem zu rechtfertigen"],
+    "examples_de": [["Manager sind für die Leistungsergebnisse ihres Teams **verantwortlich**", "Amtsträger müssen den Bürgern gegenüber **rechenschaftspflichtig** sein"]]
+  },
+  {
+    "lemma": "accredited",
+    "meanings_de": ["offiziell anerkannt"],
+    "definitions_de": ["offiziell als wesentliche Anforderungen oder Standards erfüllend anerkannt"],
+    "examples_de": [["Sie absolvierte mit Auszeichnung eine **akkreditierte** Universität", "Nur **zugelassene** Labore können diese spezialisierten Tests durchführen"]]
+  },
+  {
+    "lemma": "accrued",
+    "meanings_de": ["über Zeit angesammelt"],
+    "definitions_de": ["über einen Zeitraum allmählich angesammelt oder erhalten"],
+    "examples_de": [["Seine **angesammelten** Urlaubstage ermöglichten eine einmonatige Reise", "Die **aufgelaufenen** Zinsen auf dem Darlehen waren überraschend hoch"]]
+  },
+  {
+    "lemma": "accumulated",
+    "meanings_de": ["über Zeit gesammelt"],
+    "definitions_de": ["allmählich über einen Zeitraum gesammelt oder erworben"],
+    "examples_de": [["Der **angesammelte** Staub zeigte, dass der Raum nicht benutzt wurde", "Ihr **angehäuftes** Wissen machte sie zur Expertin auf dem Gebiet"]]
+  },
+  {
+    "lemma": "accursed",
+    "meanings_de": ["unter einem Fluch"],
+    "definitions_de": ["unter einem Fluch stehend oder scheinbar Unglück bringend"],
+    "examples_de": [["Der **verfluchte** Schatz brachte allen Unglück, die ihn berührten", "Sie flohen vor Einbruch der Nacht aus dem **verwunschenen** Ort"]]
+  },
+  {
+    "lemma": "accusing",
+    "meanings_de": ["Schuld ausdrückend"],
+    "definitions_de": ["andeutend, dass jemand etwas Falsches getan hat oder schuldig ist"],
+    "examples_de": [["Ihr **anklagender** Ton ließ alle im Raum defensiv werden", "Er zeigte mit **beschuldigendem** Finger auf den mutmaßlichen Dieb"]]
+  },
+  {
+    "lemma": "accustomed",
+    "meanings_de": ["durch Gewohnheit vertraut"],
+    "definitions_de": ["mit etwas durch Gewohnheit oder regelmäßiges Vorkommen vertraut"],
+    "examples_de": [["Sie war daran **gewöhnt**, früh für die Arbeit aufzustehen", "Die Wüstentiere sind an extreme Temperaturschwankungen **gewöhnt**"]]
+  },
+  {
+    "lemma": "ace",
+    "meanings_de": ["von höchster Qualität"],
+    "definitions_de": ["von höchster Qualität oder Fähigkeitsstufe, exzellent ausgeführt"],
+    "examples_de": [["Er ist ein **erstklassiger** Detektiv, der die härtesten Fälle löst", "Der **exzellente** Pilot führte während der Flugshow unglaubliche Manöver vor"]]
+  },
+  {
+    "lemma": "acerbic",
+    "meanings_de": ["scharf und harsch"],
+    "definitions_de": ["scharf und direkt in Sprache oder Art, oft beißend kritisch"],
+    "examples_de": [["Ihr **beißender** Witz beleidigte oft empfindlichere Kollegen", "Die **ätzende** Kritik des Rezensenten zerstörte das neue Restaurant"]]
+  },
+  {
+    "lemma": "acetic",
+    "meanings_de": ["Essig betreffend"],
+    "definitions_de": ["sich auf Essigsäure beziehend oder diese enthaltend, wie sie in Essig vorkommt"],
+    "examples_de": [["Der **essigartige** Geruch aus der Gurkenfabrik erfüllte die Luft", "**Essigsäure** verleiht dem Essig seinen charakteristischen sauren Geschmack"]]
+  },
+  {
+    "lemma": "achievable",
+    "meanings_de": ["erreichbar"],
+    "definitions_de": ["in der Lage, innerhalb vernünftiger Grenzen erfolgreich verwirklicht oder erreicht zu werden"],
+    "examples_de": [["**Erreichbare** Ziele zu setzen hilft, die Motivation während des Projekts aufrechtzuerhalten", "Der Plan schien mit unseren verfügbaren Ressourcen **machbar**"]]
+  },
+  {
+    "lemma": "aching",
+    "meanings_de": ["anhaltende Schmerzen verursachend"],
+    "definitions_de": ["einen kontinuierlichen dumpfen Schmerz im Körper oder in den Emotionen verursachend"],
+    "examples_de": [["Ihre **schmerzenden** Muskeln brauchten nach dem Marathon Ruhe", "Er fühlte eine **schmerzliche** Einsamkeit, nachdem sein Freund weggezogen war"]]
+  },
+  {
+    "lemma": "acidic",
+    "meanings_de": ["säurehaltige Eigenschaften enthaltend"],
+    "definitions_de": ["die Eigenschaften einer Säure mit einem pH-Wert unter sieben aufweisend"],
+    "examples_de": [["Der **saure** Boden war perfekt für den Anbau von Blaubeerpflanzen", "Zitronen haben einen **säuerlichen** Geschmack, der Menschen grimassieren lässt"]]
+  },
+  {
+    "lemma": "acknowledged",
+    "meanings_de": ["als wahr anerkannt"],
+    "definitions_de": ["allgemein als wahr, gültig oder legitim akzeptiert oder zugegeben"],
+    "examples_de": [["Sie ist die **anerkannte** Expertin in der Meeresbiologieforschung", "Der **anerkannte** Führer trat vor, um die Menge anzusprechen"]]
+  },
+  {
+    "lemma": "acoustic",
+    "meanings_de": ["Schall betreffend", "nicht elektronisch verstärkt"],
+    "definitions_de": ["sich auf Schall oder den Hörsinn beziehend und dessen Eigenschaften betreffend", "nicht elektronisch verstärkt, bezogen auf Musikinstrumente"],
+    "examples_de": [["Die **akustischen** Eigenschaften des Konzertsaals waren perfekt", "**Akustische** Platten an der Decke reduzierten das Echo erheblich"], ["Sie spielte eine **akustische** Gitarre am Lagerfeuer", "Das **akustische** Set der Band schuf eine intime Atmosphäre"]]
+  },
+  {
+    "lemma": "acoustical",
+    "meanings_de": ["die Schallwissenschaft betreffend"],
+    "definitions_de": ["sich auf die Wissenschaft und Eigenschaften des Schalls beziehend"],
+    "examples_de": [["Der **akustische** Ingenieur entwarf das Layout des Aufnahmestudios", "**Akustische** Messungen zeigten, dass der Raum Schallbehandlung benötigte"]]
+  },
+  {
+    "lemma": "acquainted",
+    "meanings_de": ["mit jemandem bekannt"],
+    "definitions_de": ["persönliche Kenntnis von jemandem durch Begegnung oder Erfahrung habend"],
+    "examples_de": [["Sie lernten sich auf der Firmenweihnachtsfeier **kennen**", "Ich bin mit ihrer Arbeit **vertraut**, aber wir haben uns nie getroffen"]]
+  },
+  {
+    "lemma": "acquired",
+    "meanings_de": ["erlangt oder gewonnen"],
+    "definitions_de": ["durch Anstrengung oder über Zeit erlangt oder gewonnen, nicht angeboren"],
+    "examples_de": [["Sein **erworbener** Reichtum stammte aus Jahren kluger Investitionen", "Die **erlernten** Fähigkeiten machten sie für jeden Arbeitgeber wertvoll"]]
+  },
+  {
+    "lemma": "acquitted",
+    "meanings_de": ["für nicht schuldig erklärt"],
+    "definitions_de": ["formell durch Urteil von einer strafrechtlichen Anklage freigesprochen"],
+    "examples_de": [["Der **freigesprochene** Angeklagte dankte seinem Anwalt unter Tränen", "Sie wurde nach Auftauchen neuer Beweise von allen Anklagen **freigesprochen**"]]
+  },
+  {
+    "lemma": "acrimonious",
+    "meanings_de": ["wütend und verbittert"],
+    "definitions_de": ["wütend und verbittert in Sprache oder Art, typischerweise während Streitigkeiten"],
+    "examples_de": [["Ihre **erbitterten** Scheidungsverhandlungen dauerten über zwei Jahre", "Die **gehässige** Debatte spaltete die Gemeinde in gegnerische Lager"]]
+  },
+  {
+    "lemma": "acrobatic",
+    "meanings_de": ["körperliche Geschicklichkeit erfordernd"],
+    "definitions_de": ["körperliche Geschicklichkeit und koordinierte Bewegungsfähigkeiten erfordernd oder zeigend"],
+    "examples_de": [["Die **akrobatische** Vorführung ließ das Publikum vor Staunen atemlos", "Ihre **akrobatischen** Paraden als Torwärterin gewannen das Meisterschaftsspiel"]]
+  },
+  {
+    "lemma": "acting",
+    "meanings_de": ["vorübergehend dienend"],
+    "definitions_de": ["vorübergehend die Aufgaben der Position einer anderen Person ausführend"],
+    "examples_de": [["Der **stellvertretende** Direktor leitete die Schule während ihrer Abwesenheit", "Er diente sechs Monate als **kommissarischer** Leiter"]]
+  },
+  {
+    "lemma": "actionable",
+    "meanings_de": ["Handlungsgrundlage bietend"],
+    "definitions_de": ["ausreichenden Grund bietend, rechtliche Schritte oder praktische Maßnahmen zu ergreifen"],
+    "examples_de": [["Der Anwalt sagte, wir hätten **klagefähige** Beweise für die Klage", "Der Bericht enthielt **umsetzbare** Empfehlungen zur Verbesserung"]]
+  },
+  {
+    "lemma": "activated",
+    "meanings_de": ["aktiviert"],
+    "definitions_de": ["aus einem ruhenden oder inaktiven Zustand aktiv oder betriebsbereit gemacht"],
+    "examples_de": [["Das **aktivierte** Alarmsystem erkannte den Eindringling sofort", "Einmal **aktiviert**, kann das Notfallprotokoll nicht gestoppt werden"]]
+  },
+  {
+    "lemma": "activating",
+    "meanings_de": ["zum Funktionieren bringend"],
+    "definitions_de": ["etwas dazu bringend, zu arbeiten oder aktiv zu werden"],
+    "examples_de": [["Das **aktivierende** Enzym löst den chemischen Reaktionsprozess aus", "Das Drücken dieses **aktivierenden** Schalters startet das gesamte System"]]
+  },
+  {
+    "lemma": "actuarial",
+    "meanings_de": ["versicherungsstatistisch"],
+    "definitions_de": ["sich auf die statistische Berechnung von Versicherungsrisiken und -prämien beziehend"],
+    "examples_de": [["Die **versicherungsmathematische** Analyse bestimmte die Lebensversicherungstarife", "Sie studierte **Versicherungsmathematik**, um in der Versicherungsbranche zu arbeiten"]]
+  },
+  {
+    "lemma": "actuated",
+    "meanings_de": ["zum Handeln motiviert"],
+    "definitions_de": ["zum Handeln veranlasst oder durch ein bestimmtes Gefühl oder einen Wunsch motiviert"],
+    "examples_de": [["Er wurde von dem Wunsch **angetrieben**, anderen zum Erfolg zu verhelfen", "Der Mechanismus wird durch Drücken des roten Knopfes **betätigt**"]]
+  },
+  {
+    "lemma": "acute",
+    "meanings_de": ["scharf oder schwer", "scharfsinnig"],
+    "definitions_de": ["in schwerem oder intensivem Grad vorhanden oder erfahren", "scharfe geistige Wahrnehmung und analytische Fähigkeit habend oder zeigend"],
+    "examples_de": [["Die Patientin verspürte **akute** Schmerzen im unteren Rücken", "Der **akute** Versorgungsmangel zwang zu Rationierungsmaßnahmen"], ["Ihre **scharfsinnigen** Beobachtungen halfen, das Rätsel schnell zu lösen", "Er hat einen **ausgeprägten** Sinn für Timing in der Komödie"]]
+  },
+  {
+    "lemma": "adagio",
+    "meanings_de": ["langsam im Tempo"],
+    "definitions_de": ["langsam und anmutig im musikalischen Tempo aufgeführt"],
+    "examples_de": [["Der **Adagio**-Satz brachte das Publikum zu Tränen", "Balletttänzer führten den **Adagio**-Teil mit eleganter Präzision auf"]]
+  },
+  {
+    "lemma": "adamant",
+    "meanings_de": ["sich weigernd zu ändern"],
+    "definitions_de": ["sich weigernd, überredet zu werden oder seine Meinung entschlossen zu ändern"],
+    "examples_de": [["Sie war **unnachgiebig** in ihrer Weigerung, das Familienhaus zu verkaufen", "Trotz Protesten blieb er **stur** bei seiner Entscheidung"]]
+  },
+  {
+    "lemma": "adaptable",
+    "meanings_de": ["anpassungsfähig"],
+    "definitions_de": ["fähig, sich flexibel an neue Bedingungen oder Umstände anzupassen"],
+    "examples_de": [["**Anpassungsfähige** Mitarbeiter gedeihen in sich verändernden Arbeitsumgebungen", "Das **flexible** Design funktioniert in verschiedenen Raumgrößen"]]
+  },
+  {
+    "lemma": "adapted",
+    "meanings_de": ["angepasst"],
+    "definitions_de": ["vom Original modifiziert, um verschiedenen Bedingungen oder Zwecken zu entsprechen"],
+    "examples_de": [["Das **bearbeitete** Drehbuch unterschied sich erheblich vom Roman", "Wüstenpflanzen sind **angepasst**, um mit minimalem Wasser zu überleben"]]
+  },
+  {
+    "lemma": "adaptive",
+    "meanings_de": ["sich anpassend"],
+    "definitions_de": ["gekennzeichnet durch oder zeigend die Fähigkeit, sich an Umstände anzupassen"],
+    "examples_de": [["**Adaptive** Lerntechnologie passt sich dem Tempo jedes Schülers an", "Das **anpassungsfähige** Verhalten des Vogels half ihm, den Klimawandel zu überleben"]]
+  },
+  {
+    "lemma": "addicted",
+    "meanings_de": ["von Substanz abhängig"],
+    "definitions_de": ["körperlich und geistig von einer bestimmten Substanz oder Aktivität abhängig"],
+    "examples_de": [["Er wurde nach seiner Operation von Schmerzmitteln **abhängig**", "Sie war **süchtig** danach, jede Stunde soziale Medien zu überprüfen"]]
+  },
+  {
+    "lemma": "addictive",
+    "meanings_de": ["süchtig machend"],
+    "definitions_de": ["verursachend oder wahrscheinlich verursachend, dass jemand süchtig wird"],
+    "examples_de": [["Das **süchtig machende** Gameplay hielt die Spieler stundenlang gefesselt", "Viele Menschen finden Schokolade hochgradig **suchterzeugend**"]]
+  },
+  {
+    "lemma": "additive",
+    "meanings_de": ["zur Verbesserung hinzugefügt"],
+    "definitions_de": ["zu etwas hinzugefügt, um es zusätzlich zu verbessern oder zu konservieren"],
+    "examples_de": [["Das Essen enthält keine künstlichen **Zusatzstoffe** oder Konservierungsmittel", "**Additive** Fertigung ermöglicht die einfache Erstellung komplexer Formen"]]
+  }
+]

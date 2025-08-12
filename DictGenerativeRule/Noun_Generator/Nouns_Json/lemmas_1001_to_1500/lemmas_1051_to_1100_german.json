@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "flow",
+    "meanings_de": ["fließende Bewegung", "kontinuierlicher Strom"],
+    "definitions_de": ["gleichmäßige, ununterbrochene Bewegung von Flüssigkeiten, Luft oder anderen Substanzen in eine Richtung", "stetiger, kontinuierlicher Strom oder Nachschub von etwas"],
+    "examples_de": [["Der **Fluss** des Wassers war nach dem Frühlingsregen sanft", "Der Verkehrs**fluss** verbesserte sich erheblich nach dem Ausbau der Fahrbahnen"], ["Das Unternehmen sorgt für einen stetigen **Fluss** neuer Produkte", "Der Informations**fluss** zwischen den Abteilungen muss besser koordiniert werden"]]
+  },
+  {
+    "lemma": "calorie",
+    "meanings_de": ["Energieeinheit"],
+    "definitions_de": ["Maßeinheit für die Energiemenge, die Nahrungsmittel dem Körper liefern"],
+    "examples_de": [["Dieser Apfel enthält etwa achtzig **Kalorien** an Energie", "Sie überwacht ihre tägliche **Kalorienzufuhr** mit einer App"]]
+  },
+  {
+    "lemma": "seed",
+    "meanings_de": ["Pflanzensamen", "Ausgangspunkt"],
+    "definitions_de": ["kleiner harter Teil, den Pflanzen produzieren und aus dem neue Pflanzen wachsen", "Anfang oder Quelle, aus der sich etwas entwickelt"],
+    "examples_de": [["Pflanzen Sie die Tomaten**samen** etwa drei Zentimeter tief", "Sie sammelte **Samen** aus ihrem Garten für das nächste Jahr"], ["Seine Kindheitserfahrungen legten den **Samen** für sein Unternehmertum", "Die Forschung lieferte **Ansätze** für zukünftige Innovationen"]]
+  },
+  {
+    "lemma": "bike",
+    "meanings_de": ["zweirädriges Fahrzeug"],
+    "definitions_de": ["Kurzform von Fahrrad, ein zweirädriges Fahrzeug, das durch Treten angetrieben wird"],
+    "examples_de": [["Sie fährt jeden Morgen mit dem **Fahrrad** zur Arbeit", "Die Kinder stellten ihre **Räder** in die Garage"]]
+  },
+  {
+    "lemma": "employer",
+    "meanings_de": ["Arbeitgeber"],
+    "definitions_de": ["Person oder Organisation, die Menschen für ihre Arbeit bezahlt"],
+    "examples_de": [["Ihr **Arbeitgeber** bietet ausgezeichnete Krankenversicherungsleistungen", "Das Unternehmen ist der größte **Arbeitgeber** der Stadt"]]
+  },
+  {
+    "lemma": "disaster",
+    "meanings_de": ["Katastrophenereignis", "vollständiges Versagen"],
+    "definitions_de": ["plötzliches Ereignis, das großen Schaden, Verlust oder Zerstörung verursacht", "komplettes Versagen oder sehr schlechtes Ergebnis"],
+    "examples_de": [["Das Erdbeben war die schlimmste **Katastrophe** seit Jahrzehnten", "Rettungsteams reagierten schnell auf die Natur**katastrophe**"], ["Die Party wurde zu einem kompletten **Desaster**", "Sein erster Kochversuch war eine **Katastrophe**"]]
+  },
+  {
+    "lemma": "sale",
+    "meanings_de": ["Verkaufstransaktion", "Preisreduzierung"],
+    "definitions_de": ["Vorgang des Verkaufens oder Verkauftwerdens", "Zeitraum, in dem Waren zu reduzierten Preisen verkauft werden"],
+    "examples_de": [["Der **Verkauf** des Hauses wurde letzten Freitag abgeschlossen", "Die Auto**verkäufe** stiegen in diesem Quartal erheblich"], ["Der **Schlussverkauf** des Kaufhauses beginnt morgen", "Ich habe diese Schuhe im **Ausverkauf** für den halben Preis gekauft"]]
+  },
+  {
+    "lemma": "bathroom",
+    "meanings_de": ["Toilettenraum"],
+    "definitions_de": ["Raum mit einer Toilette und normalerweise einem Waschbecken und einer Badewanne"],
+    "examples_de": [["Das **Badezimmer** ist den Flur entlang auf der linken Seite", "Wir renovieren diesen Sommer das **Hauptbadezimmer**"]]
+  },
+  {
+    "lemma": "agenda",
+    "meanings_de": ["Sitzungsplan", "verstecktes Motiv"],
+    "definitions_de": ["Liste von Punkten, die bei einer Besprechung diskutiert werden sollen", "zugrunde liegender, oft versteckter Plan oder Absicht"],
+    "examples_de": [["Die **Tagesordnung** der Sitzung umfasst Budgetdiskussionen und Aktualisierungen", "Bitte fügen Sie dieses Thema zur morgigen **Agenda** hinzu"], ["Kritiker behaupten, die Politik verfolge eine politische **Agenda**", "Sie fragte sich, was seine wirkliche **Absicht** sein könnte"]]
+  },
+  {
+    "lemma": "enforcement",
+    "meanings_de": ["Durchsetzung von Regeln"],
+    "definitions_de": ["Handlung, Menschen dazu zu bringen, Gesetze, Regeln oder Vorschriften zu befolgen"],
+    "examples_de": [["**Ordnungskräfte** patrouillieren regelmäßig in der Nachbarschaft", "Eine strengere **Durchsetzung** der Sicherheitsvorschriften ist erforderlich"]]
+  },
+  {
+    "lemma": "diet",
+    "meanings_de": ["Ernährungsgewohnheiten", "eingeschränkte Ernährung"],
+    "definitions_de": ["Art von Nahrung, die eine Person regelmäßig zu sich nimmt", "spezielle Ernährungsweise zur Gewichtsabnahme oder aus medizinischen Gründen"],
+    "examples_de": [["Eine ausgewogene **Ernährung** umfasst täglich Obst und Gemüse", "Die mediterrane **Ernährungsweise** betont Olivenöl und Fisch"], ["Sie begann eine neue **Diät** zur Senkung des Cholesterinspiegels", "Der Arzt verschrieb eine salzarme **Diät**"]]
+  },
+  {
+    "lemma": "mark",
+    "meanings_de": ["sichtbares Zeichen", "Bewertungsnote"],
+    "definitions_de": ["kleiner Bereich auf einer Oberfläche mit unterschiedlicher Farbe oder Beschaffenheit", "Zahl oder Buchstabe, der die Qualität einer Arbeit anzeigt"],
+    "examples_de": [["Auf dem Küchentisch ist ein dunkler **Fleck**", "Der Unfall hinterließ bleibende **Spuren** am Auto"], ["Sie erhielt in allen Prüfungen gute **Noten**", "Der Lehrer gab volle **Punkte** für Kreativität"]]
+  },
+  {
+    "lemma": "silence",
+    "meanings_de": ["Abwesenheit von Geräuschen"],
+    "definitions_de": ["vollständige Abwesenheit von Geräuschen oder Lärm"],
+    "examples_de": [["Die Bibliothek verlangt während der Lernzeiten absolute **Stille**", "Nach seinem Kommentar erfüllte eine unangenehme **Stille** den Raum"]]
+  },
+  {
+    "lemma": "journalist",
+    "meanings_de": ["Nachrichtenreporter"],
+    "definitions_de": ["Person, die Nachrichtenartikel für Zeitungen, Zeitschriften oder Rundfunk schreibt"],
+    "examples_de": [["Der **Journalist** befragte Zeugen am Tatort", "Sie arbeitet als freiberufliche **Journalistin** im Technologiebereich"]]
+  },
+  {
+    "lemma": "bible",
+    "meanings_de": ["religiöser Text", "maßgeblicher Leitfaden"],
+    "definitions_de": ["heiliges Buch des Christentums mit Altem und Neuem Testament", "Buch, das auf seinem Gebiet als maßgeblich gilt"],
+    "examples_de": [["Sie liest jeden Morgen ein Kapitel aus der **Bibel**", "Die Kirche verteilte kostenlose **Bibeln** an Neuankömmlinge"], ["Dieses Kochbuch gilt als die **Bibel** der französischen Küche", "Das Handbuch wurde zur **Bibel** des Programmierers"]]
+  },
+  {
+    "lemma": "queen",
+    "meanings_de": ["weibliche Monarchin", "Schachfigur"],
+    "definitions_de": ["weibliche Herrscherin eines Landes oder Ehefrau eines Königs", "mächtigste Figur im Schachspiel"],
+    "examples_de": [["Die **Königin** wandte sich im Fernsehen an die Nation", "**Königin** Elisabeth regierte über siebzig Jahre"], ["Sie bewegte ihre **Dame**, um den König zu schützen", "Die Schach**dame** kann sich in jede Richtung bewegen"]]
+  },
+  {
+    "lemma": "expense",
+    "meanings_de": ["Kostenaufwand"],
+    "definitions_de": ["Geldbetrag, der für etwas ausgegeben wird; Kosten"],
+    "examples_de": [["Reise**kosten** werden vom Unternehmen erstattet", "Wir müssen unsere monatlichen **Ausgaben** erheblich reduzieren"]]
+  },
+  {
+    "lemma": "cream",
+    "meanings_de": ["Milchprodukt", "Hautprodukt"],
+    "definitions_de": ["dicke weiße oder hellgelbe fetthaltige Flüssigkeit aus Milch", "dicke glatte Substanz, die auf die Haut aufgetragen wird"],
+    "examples_de": [["Geben Sie **Sahne** in den Kaffee für einen reicheren Geschmack", "Das Rezept verlangt **Schlagsahne** und Butter"], ["Tragen Sie die Gesichts**creme** vor dem Schlafengehen auf", "Diese Hand**creme** hilft bei trockener Haut"]]
+  },
+  {
+    "lemma": "exposure",
+    "meanings_de": ["Offenlegung", "schädlicher Kontakt"],
+    "definitions_de": ["Zustand des Offenlegens oder Bekanntwerdens", "Aussetzung gegenüber schädlichen Bedingungen oder Substanzen"],
+    "examples_de": [["Der Skandal führte zur medialen **Aufdeckung** von Korruption", "Seine **Berührung** mit verschiedenen Kulturen erweiterte seinen Horizont"], ["Längere **Einwirkung** von Sonnenlicht kann Ihre Haut schädigen", "Arbeiter beklagten sich über die **Aussetzung** gefährlichen Chemikalien"]]
+  },
+  {
+    "lemma": "priority",
+    "meanings_de": ["Hauptwichtigkeit"],
+    "definitions_de": ["etwas, das als wichtiger als andere Angelegenheiten betrachtet wird"],
+    "examples_de": [["Die Gesundheit der Familie ist dieses Jahr unsere oberste **Priorität**", "Der Manager erklärte die **Prioritäten** des Projekts deutlich"]]
+  },
+  {
+    "lemma": "soil",
+    "meanings_de": ["Erdschicht"],
+    "definitions_de": ["obere Erdschicht, in der Pflanzen wachsen"],
+    "examples_de": [["Der **Boden** hier ist perfekt für den Gemüseanbau", "Reicher, dunkler **Erdboden** füllte die Gartenbeete"]]
+  },
+  {
+    "lemma": "angel",
+    "meanings_de": ["spirituelles Wesen", "gütige Person"],
+    "definitions_de": ["spirituelles Wesen, das als Gottes Bote gilt", "Person, die sehr freundlich, hilfsbereit oder schön ist"],
+    "examples_de": [["Das Gemälde zeigte **Engel** mit goldenen Flügeln", "Viele Religionen beschreiben **Engel** als göttliche Boten"], ["Die Krankenschwester war während der Genesung ein absoluter **Engel**", "Danke für deine Hilfe; du bist so ein **Schatz**"]]
+  },
+  {
+    "lemma": "journey",
+    "meanings_de": ["lange Reise"],
+    "definitions_de": ["Akt des Reisens von einem Ort zum anderen, besonders über eine lange Strecke"],
+    "examples_de": [["Ihre **Reise** durch das Land dauerte drei Wochen", "Die **Fahrt** mit dem Zug bietet wunderschöne Bergblicke"]]
+  },
+  {
+    "lemma": "trust",
+    "meanings_de": ["festes Vertrauen", "Finanzvereinbarung"],
+    "definitions_de": ["fester Glaube an die Zuverlässigkeit, Wahrheit oder Fähigkeit von jemandem oder etwas", "rechtliche Vereinbarung zur Verwaltung von Eigentum oder Geld für jemanden"],
+    "examples_de": [["**Vertrauen** aufzubauen braucht Zeit, es zu verlieren geht schnell", "Sie setzte vollstes **Vertrauen** in den Rat ihres Arztes"], ["Das Erbe wurde in einen **Treuhandfonds** gelegt", "Er verwaltet mehrere Familien**trusts** für Kunden"]]
+  },
+  {
+    "lemma": "tank",
+    "meanings_de": ["großer Behälter", "Militärfahrzeug"],
+    "definitions_de": ["großer Behälter zum Aufbewahren von Flüssigkeiten oder Gas", "schwer gepanzertes Kampffahrzeug mit Ketten"],
+    "examples_de": [["Der Wasser**tank** fasst fünfhundert Liter", "**Tanken** Sie vor der langen Fahrt voll"], ["Armee**panzer** rollten durch die Straßen der Stadt", "Das Museum zeigt einen **Panzer** aus dem Zweiten Weltkrieg"]]
+  },
+  {
+    "lemma": "cheese",
+    "meanings_de": ["Milchprodukt"],
+    "definitions_de": ["Lebensmittel aus gepresster Milchmasse"],
+    "examples_de": [["Das Sandwich braucht mehr **Käse** für besseren Geschmack", "Dieser Laden verkauft **Käse** aus aller Welt"]]
+  },
+  {
+    "lemma": "schedule",
+    "meanings_de": ["Zeitplan"],
+    "definitions_de": ["Plan, der Zeiten auflistet, wann Ereignisse oder Aktivitäten stattfinden werden"],
+    "examples_de": [["Prüfen Sie den **Fahrplan** bevor Sie das Haus verlassen", "Ihr Arbeits**zeitplan** ändert sich alle zwei Wochen"]]
+  },
+  {
+    "lemma": "bedroom",
+    "meanings_de": ["Schlafzimmer"],
+    "definitions_de": ["Raum zum Schlafen in einem Haus oder einer Wohnung"],
+    "examples_de": [["Das **Hauptschlafzimmer** hat ein angeschlossenes Bad", "Kinder sollten ihre **Schlafzimmer** jede Woche aufräumen"]]
+  },
+  {
+    "lemma": "tone",
+    "meanings_de": ["Klangqualität", "allgemeiner Charakter"],
+    "definitions_de": ["Qualität des Klangs, besonders von Stimme oder Musikinstrument", "allgemeiner Charakter, Haltung oder Gefühl von etwas"],
+    "examples_de": [["Ihr **Tonfall** deutete darauf hin, dass sie verärgert war", "Die Violine hat einen warmen, vollen **Klang**"], ["Das Treffen hatte durchgehend einen ernsten, professionellen **Ton**", "Der **Ton** des Artikels war kritisch, aber fair"]]
+  },
+  {
+    "lemma": "selection",
+    "meanings_de": ["Auswahlprozess", "ausgewählte Artikel"],
+    "definitions_de": ["Prozess des sorgfältigen Auswählens von jemandem oder etwas", "Sammlung von Dingen, die aus einer größeren Gruppe ausgewählt wurden"],
+    "examples_de": [["Das **Auswahlverfahren** für die Stelle dauerte Wochen", "Die natürliche **Selektion** treibt die Evolution bei Lebewesen voran"], ["Das Geschäft bietet eine große **Auswahl** an Weinen", "Diese **Auswahl** von Gedichten repräsentiert ihre beste Arbeit"]]
+  },
+  {
+    "lemma": "wheel",
+    "meanings_de": ["kreisförmiges Objekt"],
+    "definitions_de": ["kreisförmiges Objekt, das sich um eine Achse dreht und für Bewegung oder Maschinen verwendet wird"],
+    "examples_de": [["Das Vorder**rad** meines Fahrrads muss repariert werden", "Alte Zivilisationen erfanden das **Rad** für den Transport"]]
+  },
+  {
+    "lemma": "gap",
+    "meanings_de": ["leerer Raum", "Unterschiedsniveau"],
+    "definitions_de": ["leerer Raum oder Öffnung zwischen zwei Dingen", "Unterschied im Niveau oder Betrag zwischen Dingen"],
+    "examples_de": [["Eine kleine **Lücke** zwischen den Zaunbrettern lässt Licht durch", "Achten Sie auf die **Lücke** beim Einsteigen in die U-Bahn"], ["Die Lohn**lücke** zwischen Arbeitern wächst weiter", "Es gibt eine erhebliche **Kluft** bei den Testergebnissen"]]
+  },
+  {
+    "lemma": "veteran",
+    "meanings_de": ["Militärdienst", "erfahrene Person"],
+    "definitions_de": ["Person, die in den Streitkräften gedient hat", "Person mit langer Erfahrung in einem bestimmten Bereich"],
+    "examples_de": [["Die **Veteranen** versammelten sich zur Gedenkfeier", "Viele **Veteranen** brauchen Unterstützung beim Übergang ins Zivilleben"], ["Sie ist eine **erfahrene** Lehrerin mit dreißig Jahren Berufserfahrung", "Der **altgediente** Schauspieler hat in unzähligen Filmen mitgespielt"]]
+  },
+  {
+    "lemma": "characteristic",
+    "meanings_de": ["unterscheidendes Merkmal"],
+    "definitions_de": ["typische Eigenschaft oder Merkmal, das jemanden oder etwas erkennbar macht"],
+    "examples_de": [["Geduld ist eine wichtige **Eigenschaft** für Lehrer", "Der rote Kamm des Vogels ist sein auffälligstes **Merkmal**"]]
+  },
+  {
+    "lemma": "protein",
+    "meanings_de": ["Körpernährstoff"],
+    "definitions_de": ["Substanz in Lebensmitteln, die für Körperwachstum und -reparatur notwendig ist"],
+    "examples_de": [["Fleisch und Bohnen sind ausgezeichnete **Proteinquellen**", "Sportler brauchen zusätzliches **Eiweiß** für die Muskelregeneration"]]
+  },
+  {
+    "lemma": "resolution",
+    "meanings_de": ["fester Entschluss", "Bildschärfe"],
+    "definitions_de": ["feste Entscheidung, etwas zu tun oder nicht zu tun", "Grad der sichtbaren Details in einem Bild oder Display"],
+    "examples_de": [["Ihr Neujahrsvorsatz war, täglich Sport zu treiben", "Der Vorstand verabschiedete eine **Resolution** zur Unterstützung des Vorschlags"], ["Dieser Monitor bietet hohe **Auflösung** für Spiele", "Erhöhen Sie die Bild**auflösung** für bessere Druckqualität"]]
+  },
+  {
+    "lemma": "whole",
+    "meanings_de": ["vollständige Sache"],
+    "definitions_de": ["gesamte Sache mit allen ihren Teilen; vollständige Menge"],
+    "examples_de": [["Sie aß die **ganze** Pizza alleine", "Die **gesamte** Klasse nahm am Wissenschaftsprojekt teil"]]
+  },
+  {
+    "lemma": "engineer",
+    "meanings_de": ["technischer Fachmann"],
+    "definitions_de": ["Person, die Motoren, Maschinen oder Strukturen entwirft, baut oder wartet"],
+    "examples_de": [["Der **Ingenieur** entwarf eine effizientere Brückenkonstruktion", "Software**ingenieure** entwickeln Anwendungen für Smartphones"]]
+  },
+  {
+    "lemma": "walk",
+    "meanings_de": ["Bewegungsaktivität", "Gehweg"],
+    "definitions_de": ["Akt des Gehens zu Fuß mit mäßiger Geschwindigkeit", "Weg, der zum Gehen konzipiert ist"],
+    "examples_de": [["Ein täglicher **Spaziergang** verbessert sowohl die körperliche als auch die geistige Gesundheit", "Lass uns zusammen einen **Spaziergang** durch die Nachbarschaft machen"], ["Der Garten**weg** führt zu einem kleinen Brunnen", "Bitte räumen Sie den Schnee vom vorderen **Gehweg**"]]
+  },
+  {
+    "lemma": "dish",
+    "meanings_de": ["Servierbehälter", "zubereitetes Essen"],
+    "definitions_de": ["flacher Behälter zum Halten oder Servieren von Speisen", "bestimmte Art von zubereitetem Essen"],
+    "examples_de": [["Stellen Sie das schmutzige **Geschirr** in die Spülmaschine", "Diese Keramik**teller** sind mikrowellengeeignet"], ["Pasta ist ihr liebstes **Gericht** zum Kochen", "Das Signatur**gericht** des Restaurants verwendet lokale Zutaten"]]
+  },
+  {
+    "lemma": "waste",
+    "meanings_de": ["unerwünschtes Material", "ineffiziente Nutzung"],
+    "definitions_de": ["unerwünschtes oder unbrauchbares Material; Müll", "Verwendung von etwas auf sorglose oder unnötige Weise"],
+    "examples_de": [["Trennen Sie organischen **Abfall** von wiederverwertbaren Materialien", "Die Fabrik produziert Tonnen von Industrie**müll**"], ["**Verschwenden** Sie kein Wasser während der Dürre", "Dieses Meeting war eine komplette Zeit**verschwendung**"]]
+  },
+  {
+    "lemma": "print",
+    "meanings_de": ["gedruckter Text", "gedrucktes Muster"],
+    "definitions_de": ["durch Drucken erzeugte Texte oder Bilder", "auf Stoff oder Oberfläche aufgebrachtes Design oder Muster"],
+    "examples_de": [["Die **Schrift** in diesem Buch ist zu klein", "Prüfen Sie das **Kleingedruckte** vor der Unterschrift"], ["Ihr Kleid hat ein wunderschönes Blumen**muster**", "Tiermotive sind diese Saison beliebt"]]
+  },
+  {
+    "lemma": "depression",
+    "meanings_de": ["psychischer Zustand", "vertiefte Fläche"],
+    "definitions_de": ["medizinischer Zustand, der anhaltende Traurigkeit und Interessenverlust verursacht", "Bereich, der niedriger als die umgebende Oberfläche ist"],
+    "examples_de": [["Die Behandlung von **Depression** umfasst oft Therapie und Medikamente", "Viele Menschen erleben während der Wintermonate **Depressionen**"], ["Regen sammelte sich in der **Vertiefung** nahe der Straße", "Die geografische **Senke** bildet ein natürliches Becken"]]
+  },
+  {
+    "lemma": "dude",
+    "meanings_de": ["informelle Person"],
+    "definitions_de": ["informelles Wort für einen Mann oder eine Person"],
+    "examples_de": [["Der **Typ** da drüben ist mein Nachbar", "Hey **Kumpel**, kannst du mir helfen, das zu bewegen?"]]
+  },
+  {
+    "lemma": "present",
+    "meanings_de": ["Geschenkartikel", "aktuelle Zeit"],
+    "definitions_de": ["Sache, die jemandem als Geschenk gegeben wird", "Zeitraum, der jetzt stattfindet"],
+    "examples_de": [["Sie verpackte das Geburtstags**geschenk** in buntes Papier", "Die Kinder öffneten ihre **Geschenke** am Weihnachtsmorgen"], ["Konzentrieren wir uns auf die **Gegenwart** statt auf die Vergangenheit", "**Derzeit** haben wir keine Pläne zur Expansion"]]
+  },
+  {
+    "lemma": "ceo",
+    "meanings_de": ["Unternehmensleiter"],
+    "definitions_de": ["Geschäftsführer; ranghöchste Person in einem Unternehmen"],
+    "examples_de": [["Der **Geschäftsführer** verkündete Rekordgewinne in diesem Quartal", "Sie wurde nach zwanzig Jahren im Unternehmen **Vorstandsvorsitzende**"]]
+  },
+  {
+    "lemma": "initiative",
+    "meanings_de": ["neues Programm", "persönlicher Antrieb"],
+    "definitions_de": ["neuer Plan oder Prozess, um etwas zu erreichen", "Fähigkeit, unabhängig zu handeln und Entscheidungen zu treffen"],
+    "examples_de": [["Die Regierung startete eine **Initiative** zur Armutsbekämpfung", "Diese Umwelt**initiative** zielt darauf ab, mehr Bäume zu pflanzen"], ["Mitarbeiter, die **Initiative** zeigen, werden oft schneller befördert", "**Eigeninitiative** zu ergreifen zeigt Führungspotenzial"]]
+  },
+  {
+    "lemma": "gate",
+    "meanings_de": ["Eingangsbarriere"],
+    "definitions_de": ["bewegliche Barriere zum Verschließen einer Öffnung in einem Zaun oder einer Mauer"],
+    "examples_de": [["Schließen Sie das Garten**tor**, um den Hund drinnen zu halten", "Die Sicherheit überprüfte Ausweise am Haupt**tor**"]]
+  },
+  {
+    "lemma": "entry",
+    "meanings_de": ["Betreten", "aufgezeichneter Eintrag"],
+    "definitions_de": ["Akt des Hinein- oder Hereinkommens an einen Ort", "in einer Liste, einem Tagebuch oder einer Datenbank geschriebener oder aufgezeichneter Artikel"],
+    "examples_de": [["Der **Eintritt** ins Museum erfordert eine gültige Eintrittskarte", "Der Wachmann verweigerte den **Zutritt** ohne ordnungsgemäße Identifikation"], ["Jeder Tagebuch**eintrag** beschreibt ihre täglichen Erfahrungen", "Prüfen Sie den Wörterbuch**eintrag** für die Aussprachehilfe"]]
+  },
+  {
+    "lemma": "assistance",
+    "meanings_de": ["Hilfe Unterstützung"],
+    "definitions_de": ["Akt des Helfens oder der Unterstützung"],
+    "examples_de": [["Vielen Dank für Ihre **Unterstützung** bei diesem Projekt", "Das Geschäft bietet **Hilfe** für ältere Kunden"]]
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "assembly",
+    "meanings_de": ["Versammlung", "Zusammenbau"],
+    "definitions_de": ["Gruppe von Menschen, die sich zu einem gemeinsamen Zweck versammelt, insbesondere für formelle Diskussionen oder Beratungen", "Vorgang des Zusammenfügens von Einzelteilen zu einer funktionierenden Einheit, etwa bei Maschinen oder Möbeln"],
+    "examples_de": [["Die **Schulversammlung** besprach neue Sicherheitsrichtlinien", "Die **Generalversammlung** der Vereinten Nationen tagt jährlich"], ["Der **Zusammenbau** der Möbel dauerte mehrere Stunden", "Die Arbeiter schlossen die **Endmontage** des Flugzeugs ab"]]
+  },
+  {
+    "lemma": "fraud",
+    "meanings_de": ["Betrug", "Betrüger"],
+    "definitions_de": ["Vorsätzliche Täuschung oder kriminelle Handlung, die darauf abzielt, sich unrechtmäßig finanzielle oder persönliche Vorteile zu verschaffen", "Person, die sich als etwas ausgibt, was sie nicht ist, um andere zu täuschen"],
+    "examples_de": [["Das Unternehmen wurde wegen **Betrugs** und Unterschlagung angeklagt", "Kreditkarten**betrug** verursacht jährlich Milliardenschäden"], ["Er entpuppte sich als **Betrüger** mit gefälschten Zeugnissen", "Der angebliche Experte wurde als **Hochstapler** entlarvt"]]
+  },
+  {
+    "lemma": "limitation",
+    "meanings_de": ["Einschränkung", "Verjährungsfrist"],
+    "definitions_de": ["Beschränkung oder Begrenzung, die festlegt, was möglich oder erlaubt ist", "Gesetzlich festgelegte Zeitspanne, nach deren Ablauf rechtliche Ansprüche nicht mehr geltend gemacht werden können"],
+    "examples_de": [["Budget**beschränkungen** verhinderten die Erweiterung des Programms", "Wir müssen innerhalb unserer **Grenzen** arbeiten"], ["Die **Verjährungsfrist** läuft nach sieben Jahren ab", "Es gibt eine **Frist** für die Einreichung von Ansprüchen"]]
+  },
+  {
+    "lemma": "partnership",
+    "meanings_de": ["Geschäftspartnerschaft", "Zusammenarbeit"],
+    "definitions_de": ["Rechtliche Vereinigung von zwei oder mehr Personen als Miteigentümer eines gewinnorientierten Unternehmens", "Zustand des Zusammenarbeitens in einer kooperativen Beziehung"],
+    "examples_de": [["Sie gründeten eine **Partnerschaft**, um ein Restaurant zu eröffnen", "Die Anwaltskanzlei arbeitet als **Kommanditgesellschaft**"], ["Die **Partnerschaft** zwischen den beiden Unternehmen erwies sich als erfolgreich", "Ihre **Zusammenarbeit** am Projekt dauerte fünf Jahre"]]
+  },
+  {
+    "lemma": "crash",
+    "meanings_de": ["Zusammenstoß", "Zusammenbruch", "Krachen"],
+    "definitions_de": ["Heftiger Zusammenstoß, typischerweise von Fahrzeugen, der zu Schäden oder Zerstörung führt", "Plötzlicher katastrophaler Ausfall oder Zusammenbruch, besonders bei Finanz- oder Computersystemen", "Lautes Geräusch, das entsteht, wenn etwas heftig fällt oder zerbricht"],
+    "examples_de": [["Der **Autounfall** verletzte drei Personen", "Ermittler untersuchten die **Absturzstelle** des Flugzeugs"], ["Der **Börsenkrach** vernichtete Ersparnisse", "Ein **Systemabsturz** löschte alle Dateien"], ["Wir hörten ein lautes **Krachen** aus der Küche", "Das **Donnerkrachen** weckte alle auf"]]
+  },
+  {
+    "lemma": "representation",
+    "meanings_de": ["Darstellung", "Vertretung"],
+    "definitions_de": ["Handlung des Darstellens, Beschreibens oder Symbolisierens von etwas in Kunst, Medien oder anderen Formen", "Handlung des Sprechens oder Handelns im Namen einer anderen Person, besonders in offizieller Funktion"],
+    "examples_de": [["Das Gemälde ist eine **Darstellung** des ländlichen Lebens", "Die mediale **Repräsentation** von Minderheiten muss verbessert werden"], ["Allen Angeklagten wird rechtliche **Vertretung** zur Verfügung gestellt", "Gewerkschaftliche **Vertretung** schützt die Rechte der Arbeitnehmer"]]
+  },
+  {
+    "lemma": "hold",
+    "meanings_de": ["Griff", "Frachtraum"],
+    "definitions_de": ["Akt des Greifens, Tragens oder Stützens von etwas oder jemandem mit Händen oder Armen", "Lagerraum im unteren Teil eines Schiffes oder Flugzeugs für Fracht"],
+    "examples_de": [["Sie verlor den **Halt** am Geländer", "Der Ringer befreite sich aus dem **Griff** seines Gegners"], ["Die Fracht wurde im **Laderaum** des Schiffes verstaut", "Das Gepäck kommt in den **Frachtraum** des Flugzeugs"]]
+  },
+  {
+    "lemma": "ministry",
+    "meanings_de": ["Ministerium", "Seelsorge"],
+    "definitions_de": ["Von einem Minister geleitete Regierungsabteilung, die für bestimmte öffentliche Angelegenheiten zuständig ist", "Arbeit oder Berufung eines Geistlichen, einschließlich spiritueller Führung und Dienst"],
+    "examples_de": [["Das **Bildungsministerium** verkündete neue Richtlinien", "Sie arbeitet im **Außenministerium**"], ["Er widmete sein Leben der **Seelsorge** in ländlichen Kirchen", "Der **Kirchendienst** bietet Beratung und Unterstützung"]]
+  },
+  {
+    "lemma": "excuse",
+    "meanings_de": ["Ausrede", "Entschuldigung"],
+    "definitions_de": ["Grund oder Erklärung, die vorgebracht wird, um einen Fehler oder eine Verfehlung zu verteidigen oder zu rechtfertigen", "Formelle Befreiung von einer Pflicht, Anforderung oder Anwesenheit"],
+    "examples_de": [["Seine **Ausrede** für die Verspätung war nicht glaubwürdig", "Sie hat immer eine **Entschuldigung** für verpasste Fristen"], ["Der Arzt stellte eine **Befreiung** vom Sportunterricht aus", "Er bat um **Entbindung** vom Geschworenendienst"]]
+  },
+  {
+    "lemma": "comedy",
+    "meanings_de": ["Komödie", "Komik"],
+    "definitions_de": ["Professionelle Unterhaltung bestehend aus Witzen und humorvollen Situationen, die das Publikum zum Lachen bringen sollen", "Amüsanter oder humorvoller Aspekt von etwas, oft in realen Situationen"],
+    "examples_de": [["Die **Comedy-Show** brachte alle zum Lachen", "Sie bevorzugt **Komödien** gegenüber Dramen"], ["Die ganze Situation wurde zu einer **Groteske** voller Pannen", "Die kleinen **Komödien** des Lebens halten uns bei Laune"]]
+  },
+  {
+    "lemma": "purchase",
+    "meanings_de": ["Kauf", "Anschaffung", "Halt"],
+    "definitions_de": ["Handlung des Kaufens von etwas, insbesondere einer bedeutenden Erwerbung", "Gegenstand, der gekauft oder durch Zahlung erworben wurde", "Fester Halt oder Griff, der ein Abrutschen verhindert, besonders für Hebelwirkung"],
+    "examples_de": [["Der **Hauskauf** dauerte Monate bis zum Abschluss", "Online-**Käufe** haben dramatisch zugenommen"], ["Sie zeigte ihre neueste **Anschaffung** aus dem Einkaufszentrum", "Alle **Einkäufe** müssen von der Geschäftsleitung genehmigt werden"], ["Der Kletterer fand keinen **Halt** am glatten Felsen", "Sichern Sie sich einen guten **Griff** bevor Sie anheben"]]
+  },
+  {
+    "lemma": "infrastructure",
+    "meanings_de": ["Infrastruktur"],
+    "definitions_de": ["Grundlegende physische und organisatorische Strukturen und Einrichtungen, die für den Betrieb einer Gesellschaft oder eines Unternehmens erforderlich sind"],
+    "examples_de": [["Das Land investiert massiv in die **Infrastruktur**entwicklung", "Die alternde **Infrastruktur** erfordert sofortige Aufmerksamkeit und Finanzierung"]]
+  },
+  {
+    "lemma": "islam",
+    "meanings_de": ["Islam"],
+    "definitions_de": ["Monotheistische Religion, die auf den Lehren des Propheten Mohammed basiert, wie sie im Koran enthalten sind"],
+    "examples_de": [["Der **Islam** wird von fast zwei Milliarden Menschen weltweit praktiziert", "Sie studierte den **Islam** und seine kulturellen Beiträge"]]
+  },
+  {
+    "lemma": "port",
+    "meanings_de": ["Hafen", "Anschluss", "Portwein"],
+    "definitions_de": ["Ort an der Küste oder am Fluss, wo Schiffe anlegen können, um Fracht oder Passagiere zu laden und zu entladen", "Verbindungspunkt an einem Computer oder Netzwerkgerät für Kabel oder Peripheriegeräte", "Süßer verstärkter Wein ursprünglich aus Portugal, der typischerweise nach dem Essen serviert wird"],
+    "examples_de": [["Das Frachtschiff erreichte den **Hafen** am frühen Morgen", "Große **Häfen** bewältigen jährlich Millionen von Containern"], ["Stecken Sie das Kabel in den USB-**Anschluss**", "Der Router hat mehrere Ethernet-**Ports**"], ["Sie servierten **Portwein** zum Käsegang", "Alter **Port** verbessert sich mit dem Alter"]]
+  },
+  {
+    "lemma": "fate",
+    "meanings_de": ["Schicksal", "Ausgang"],
+    "definitions_de": ["Entwicklung von Ereignissen außerhalb der Kontrolle einer Person, die als von übernatürlicher Macht bestimmt angesehen wird", "Endgültiges Ergebnis oder Resultat einer bestimmten Situation oder Handlungsweise"],
+    "examples_de": [["Sie glaubte, es war **Schicksal**, dass sie zusammenfanden", "Er nahm sein **Schicksal** mit stiller Würde an"], ["Das **Schicksal** des Unternehmens hängt von dieser Entscheidung ab", "Die Jury wird über das **Schicksal** des Angeklagten entscheiden"]]
+  },
+  {
+    "lemma": "dialogue",
+    "meanings_de": ["Dialog", "Gespräch"],
+    "definitions_de": ["Gespräch zwischen zwei oder mehr Personen als Merkmal eines Buches, Theaterstücks oder Films", "Diskussion zwischen Vertretern mit dem Ziel, eine Einigung zu erzielen oder Differenzen zu lösen"],
+    "examples_de": [["Der **Dialog** zwischen den Charakteren war geistreich und fesselnd", "Das Drehbuch gewann Preise für seine brillanten **Dialoge**"], ["Die Friedens**gespräche** zwischen den Nationen dauerten monatelang", "Offener **Dialog** ist für die Konfliktlösung unerlässlich"]]
+  },
+  {
+    "lemma": "plus",
+    "meanings_de": ["Pluspunkt", "Pluszeichen"],
+    "definitions_de": ["Positiver oder vorteilhafter Faktor oder Merkmal in einer Situation", "Mathematisches Symbol (+), das Addition oder einen positiven Wert bezeichnet"],
+    "examples_de": [["Erfahrung ist definitiv ein **Pluspunkt** für diese Position", "Die Lage in der Nähe von Schulen ist ein großer **Vorteil**"], ["Setzen Sie ein **Plus** zwischen die beiden Zahlen", "Er bekam eine Zwei **plus** für seinen Aufsatz"]]
+  },
+  {
+    "lemma": "frequency",
+    "meanings_de": ["Häufigkeit", "Frequenz"],
+    "definitions_de": ["Rate, mit der etwas über einen bestimmten Zeitraum oder in einer Stichprobe auftritt oder wiederholt wird", "Schwingungsrate einer Welle, insbesondere von Schall- oder Radiowellen, gemessen in Hertz"],
+    "examples_de": [["Die **Häufigkeit** von Unfällen ist dieses Jahr zurückgegangen", "Sie treffen sich mit zunehmender **Regelmäßigkeit**"], ["Der Radiosender sendet auf einer **Frequenz** von 95,5 MHz", "Hohe **Frequenzen** sind im Alter schwerer zu hören"]]
+  },
+  {
+    "lemma": "tribe",
+    "meanings_de": ["Stamm", "Gruppe"],
+    "definitions_de": ["Soziale Gruppierung in traditionellen Gesellschaften, bestehend aus Familien, die durch soziale, wirtschaftliche, religiöse oder Blutsbande verbunden sind", "Informelle Gruppe von Menschen mit ähnlichen Interessen, Aktivitäten oder Eigenschaften"],
+    "examples_de": [["Der **Stamm** lebt seit Jahrhunderten in dieser Region", "Verschiedene **Stämme** haben einzigartige kulturelle Traditionen"], ["Der ganze **Clan** von Musikern versammelte sich beim Festival", "Sie fand ihren **Stamm** unter Künstlerkollegen"]]
+  },
+  {
+    "lemma": "appointment",
+    "meanings_de": ["Termin", "Ernennung"],
+    "definitions_de": ["Vereinbarung, jemanden zu einer bestimmten Zeit und an einem bestimmten Ort für einen bestimmten Zweck zu treffen", "Akt der Zuweisung einer Stelle oder Position an jemanden, besonders in offizieller Funktion"],
+    "examples_de": [["Sie hat um drei Uhr einen **Arzttermin**", "Bitte kommen Sie zehn Minuten vor Ihrem **Termin**"], ["Seine **Ernennung** zum Geschäftsführer wurde gestern bekannt gegeben", "Die **Berufung** an den Obersten Gerichtshof löste Debatten aus"]]
+  },
+  {
+    "lemma": "establishment",
+    "meanings_de": ["Einrichtung", "Gründung", "Establishment"],
+    "definitions_de": ["Geschäftsbetrieb, öffentliche Institution oder Haushalt und dessen Betrieb", "Handlung der Gründung oder des Aufbaus von etwas auf einer festen Grundlage", "Gruppe in der Gesellschaft, die Macht und Einfluss auf politische oder Meinungsfragen ausübt"],
+    "examples_de": [["Das **Lokal** serviert ausgezeichnete französische Küche", "Mehrere **Betriebe** wurden wegen Gesundheitsverstößen geschlossen"], ["Die **Gründung** der neuen Abteilung dauerte Monate", "Sie feierten die **Aufnahme** diplomatischer Beziehungen"], ["Er rebellierte gegen das politische **Establishment**", "Das **Establishment** widersetzte sich jeglichen Änderungen der Tradition"]]
+  },
+  {
+    "lemma": "shopping",
+    "meanings_de": ["Einkaufen"],
+    "definitions_de": ["Tätigkeit des Kaufens von Waren in Geschäften oder Läden, entweder aus Notwendigkeit oder zum Vergnügen"],
+    "examples_de": [["Sie geht jeden Samstagmorgen **einkaufen**", "Online-**Shopping** ist immer beliebter geworden"]]
+  },
+  {
+    "lemma": "celebrity",
+    "meanings_de": ["Prominenter", "Berühmtheit"],
+    "definitions_de": ["Berühmte Person, besonders in Unterhaltung oder Sport, die vielen Menschen bekannt ist", "Zustand des Bekanntseins und der öffentlichen Aufmerksamkeit"],
+    "examples_de": [["Der **Prominente** war von Fotografen umringt", "Mehrere **Berühmtheiten** nahmen an der Wohltätigkeitsveranstaltung teil"], ["Sie erlangte **Prominenz** nach dem Gewinn der Auszeichnung", "Seine plötzliche **Berühmtheit** veränderte sein Leben völlig"]]
+  },
+  {
+    "lemma": "congressman",
+    "meanings_de": ["Kongressabgeordneter"],
+    "definitions_de": ["Mitglied des Kongresses, insbesondere des US-Repräsentantenhauses"],
+    "examples_de": [["Der **Kongressabgeordnete** stimmte gegen den vorgeschlagenen Gesetzentwurf", "Mehrere **Abgeordnete** nahmen an der Bürgerversammlung teil"]]
+  },
+  {
+    "lemma": "taxpayer",
+    "meanings_de": ["Steuerzahler"],
+    "definitions_de": ["Person, die Steuern zahlt, insbesondere jemand, der Einkommensteuer zahlt"],
+    "examples_de": [["**Steuerzahler** finanzieren alle staatlichen Dienstleistungen und Programme", "Die neue Politik wird den **Steuerzahlern** jährlich Millionen sparen"]]
+  },
+  {
+    "lemma": "pride",
+    "meanings_de": ["Stolz", "Würde", "Rudel"],
+    "definitions_de": ["Gefühl tiefer Freude oder Befriedigung über eigene Leistungen oder Eigenschaften", "Bewusstsein der eigenen Würde und Weigerung, gedemütigt zu werden", "Gruppe von Löwen, die eine soziale Einheit bilden und zusammen leben und jagen"],
+    "examples_de": [["Sie war **stolz** auf die Leistungen ihrer Kinder", "Sein **Stolz** auf seine Arbeit zeigte sich in jedem Detail"], ["Trotz Armut bewahrten sie ihre **Würde**", "Schluck deinen **Stolz** herunter und entschuldige dich"], ["Ein **Rudel** Löwen ruhte unter dem Akazienbaum", "Das **Rudel** bestand aus zwölf Löwen"]]
+  },
+  {
+    "lemma": "clothing",
+    "meanings_de": ["Kleidung"],
+    "definitions_de": ["Gegenstände, die getragen werden, um den Körper zu bedecken, einschließlich Kleidungsstücke, Accessoires und Schuhe insgesamt"],
+    "examples_de": [["Das Geschäft verkauft Kinder**kleidung** und Accessoires", "Schutz**kleidung** ist im Labor erforderlich"]]
+  },
+  {
+    "lemma": "domain",
+    "meanings_de": ["Bereich", "Domain", "Herrschaftsgebiet"],
+    "definitions_de": ["Tätigkeits-, Interessen- oder Wissensbereich, den jemand kontrolliert oder in dem er Expertise hat", "Eindeutige Teilmenge des Internets mit Adressen, die ein gemeinsames Suffix teilen", "Gebiet, das einem Herrscher, einer Regierung oder ähnlichen Behörde gehört oder von ihr kontrolliert wird"],
+    "examples_de": [["Unterrichten liegt eindeutig in ihrem **Fachgebiet**", "Diese Angelegenheit fällt außerhalb meines **Verantwortungsbereichs**"], ["Sie registrierten eine neue **Domain** für ihre Website", "Der **Domainname** war bereits vergeben"], ["Der König herrschte über ein weites **Reich**", "Diese Ländereien waren einst die **Domäne** von Adligen"]]
+  },
+  {
+    "lemma": "ceiling",
+    "meanings_de": ["Decke", "Obergrenze"],
+    "definitions_de": ["Obere Innenfläche eines Raumes oder eines ähnlichen Bereichs", "Obergrenze, die typischerweise für Preise, Löhne oder Ausgaben festgelegt wird"],
+    "examples_de": [["Sie strichen die **Decke** weiß, um den Raum aufzuhellen", "Wasserschäden zeigten sich an der Schlafzimmer**decke**"], ["Die Regierung führte eine **Obergrenze** für Mieterhöhungen ein", "Sie stießen an die gläserne **Decke** in ihrer Karriere"]]
+  },
+  {
+    "lemma": "shelter",
+    "meanings_de": ["Unterschlupf", "Obdachlosenheim"],
+    "definitions_de": ["Struktur, die Schutz oder Deckung vor Wetter oder Gefahr bietet", "Ort, der vorübergehende Unterkunft für Obdachlose oder Bedürftige bietet"],
+    "examples_de": [["Sie suchten **Schutz** vor dem Sturm unter der Brücke", "Die Wanderer bauten einen **Unterschlupf** aus Ästen"], ["Das **Obdachlosenheim** serviert zweimal täglich Mahlzeiten", "**Tierheime** kümmern sich um verlassene Haustiere"]]
+  },
+  {
+    "lemma": "obligation",
+    "meanings_de": ["Verpflichtung", "Schuld"],
+    "definitions_de": ["Handlung oder Handlungsweise, zu der eine Person moralisch oder rechtlich verpflichtet ist", "Dankesschuld für einen Dienst oder Gefallen, den man von einem anderen erhalten hat"],
+    "examples_de": [["Eltern haben die gesetzliche **Verpflichtung**, für ihre Kinder zu sorgen", "Sie fühlte eine **Verpflichtung**, ihrer Gemeinde zu helfen"], ["Ich stehe unter keiner **Verpflichtung**, ihr Angebot anzunehmen", "Er beglich seine **Schulden** bei seinem Mentor"]]
+  },
+  {
+    "lemma": "shower",
+    "meanings_de": ["Dusche", "Schauer", "Feier"],
+    "definitions_de": ["Umschlossener Bereich oder Bad, in dem Wasser zum Waschen auf den Körper gesprüht wird", "Kurze Periode von Regen oder Schnee, der aus Wolken fällt", "Feier, bei der jemandem Geschenke gegeben werden, besonders vor einer Hochzeit oder Geburt"],
+    "examples_de": [["Das Hotelzimmer hat eine **Dusche** und Badewanne", "Sie **duscht** jeden Morgen"], ["Für heute Nachmittag sind **Schauer** vorhergesagt", "Ein plötzlicher **Regenschauer** durchnässte die Picknicker"], ["Sie organisierten eine **Babyparty** für ihre Freundin", "Die **Brautparty** beinhaltete Spiele und Geschenke"]]
+  },
+  {
+    "lemma": "musician",
+    "meanings_de": ["Musiker"],
+    "definitions_de": ["Person, die ein Musikinstrument spielt oder Musik schreibt, besonders als Beruf"],
+    "examples_de": [["Der **Musiker** trat in der Carnegie Hall auf", "Mehrere **Musiker** gründeten eine neue Jazzband"]]
+  },
+  {
+    "lemma": "dirt",
+    "meanings_de": ["Erde", "Schmutz", "Klatsch"],
+    "definitions_de": ["Lockere Erde, die zum Gärtnern verwendet wird oder auf dem Boden gefunden wird", "Substanz, die etwas unsauber macht, wie Staub, Schlamm oder Dreck", "Skandalöse oder schädliche Informationen über jemanden, die für Klatsch verwendet werden"],
+    "examples_de": [["Die Kinder spielten in der **Erde** hinter dem Haus", "Gute **Erde** ist wichtig für gesunde Pflanzen"], ["Auf deinem weißen Hemd ist überall **Schmutz**", "Sie putzte den **Dreck** von ihren Schuhen"], ["Die Boulevardzeitung veröffentlichte **Klatsch** über den Prominenten", "Er verbreitet immer **Gerüchte** über seine Kollegen"]]
+  },
+  {
+    "lemma": "pc",
+    "meanings_de": ["PC", "politische Korrektheit"],
+    "definitions_de": ["Personalcomputer, insbesondere einer, der für den individuellen Gebrauch zu Hause oder im Büro konzipiert ist", "Politische Korrektheit; Sprache oder Verhalten, das die Beleidigung bestimmter Gruppen vermeidet"],
+    "examples_de": [["Sie kaufte einen neuen **PC** zum Spielen", "Der **Computer** braucht ein Software-Update"], ["Manche denken, die **PC-Kultur** ist zu weit gegangen", "Er versucht, in seiner Sprache **politisch korrekt** zu sein"]]
+  },
+  {
+    "lemma": "bell",
+    "meanings_de": ["Glocke", "Glockenform"],
+    "definitions_de": ["Hohles Instrument, typischerweise aus Metall, das beim Anschlagen einen Klang erzeugt", "Form, die einer Glocke ähnelt, typischerweise unten breiter und oben schmaler"],
+    "examples_de": [["Die **Kirchenglocke** läutete jede Stunde", "Die Schüler eilten zum Unterricht, als die **Glocke** läutete"], ["Die Blume hat eine charakteristische **Glockenform**", "Ihr Kleid hatte einen **glockenförmigen** Rock"]]
+  },
+  {
+    "lemma": "smell",
+    "meanings_de": ["Geruch", "Geruchssinn"],
+    "definitions_de": ["Eigenschaft oder Merkmal einer Substanz, die durch den Geruchssinn wahrgenommen wird", "Fähigkeit oder Vermögen, Gerüche durch die Nase wahrzunehmen"],
+    "examples_de": [["Der **Duft** von frischem Brot erfüllte die Bäckerei", "Dieser Müll hat einen schrecklichen **Geruch**"], ["Hunde haben einen ausgezeichneten **Geruchssinn**", "Sie verlor ihren **Geruchssinn** nach dem Unfall"]]
+  },
+  {
+    "lemma": "ceremony",
+    "meanings_de": ["Zeremonie"],
+    "definitions_de": ["Formelle öffentliche oder religiöse Veranstaltung, die typischerweise ein bestimmtes Ereignis oder eine Errungenschaft feiert"],
+    "examples_de": [["Die **Hochzeitszeremonie** fand im Garten statt", "Die **Abschlussfeier** beginnt um zwei Uhr"]]
+  },
+  {
+    "lemma": "clue",
+    "meanings_de": ["Hinweis"],
+    "definitions_de": ["Beweisstück oder Information, die hilft, ein Problem oder Rätsel zu lösen"],
+    "examples_de": [["Der Detektiv fand einen wichtigen **Hinweis** am Tatort", "Ich habe keine **Ahnung**, wovon du sprichst"]]
+  },
+  {
+    "lemma": "guideline",
+    "meanings_de": ["Richtlinie"],
+    "definitions_de": ["Allgemeine Regel, Prinzip oder Ratschlag, der Entscheidungen oder Verfahren beeinflussen soll"],
+    "examples_de": [["Befolgen Sie diese **Richtlinien** für eine gesunde Ernährung", "Das Unternehmen hat neue Sicherheits**richtlinien** aufgestellt"]]
+  },
+  {
+    "lemma": "comfort",
+    "meanings_de": ["Komfort", "Trost"],
+    "definitions_de": ["Zustand körperlicher Bequemlichkeit und Freiheit von Schmerz, Not oder Zwang", "Trost oder Unterstützung, die jemandem in Zeiten von Trauer oder Not gegeben wird"],
+    "examples_de": [["Die neue Matratze bietet ausgezeichneten **Komfort**", "Sie leben dank ihrer Ersparnisse in **Wohlstand**"], ["Sie spendete der trauernden Familie **Trost**", "Seine Worte brachten **Trost** in schwierigen Zeiten"]]
+  },
+  {
+    "lemma": "pregnancy",
+    "meanings_de": ["Schwangerschaft"],
+    "definitions_de": ["Zustand oder Zeitraum des Schwangerseins, wobei sich ein Nachkomme im Körper entwickelt"],
+    "examples_de": [["Ihre **Schwangerschaft** dauerte die vollen neun Monate", "Regelmäßige Untersuchungen sind während der **Schwangerschaft** wichtig"]]
+  },
+  {
+    "lemma": "tourist",
+    "meanings_de": ["Tourist"],
+    "definitions_de": ["Person, die zum Vergnügen und nicht geschäftlich an einen Ort reist"],
+    "examples_de": [["**Touristen** füllten das Museum während der Sommerferien", "Die Wirtschaft der Stadt hängt stark von **Touristen** ab"]]
+  },
+  {
+    "lemma": "incentive",
+    "meanings_de": ["Anreiz"],
+    "definitions_de": ["Etwas, das jemanden motiviert oder ermutigt, etwas zu tun, oft eine Zahlung oder Belohnung"],
+    "examples_de": [["Das Unternehmen bietet **Anreize** für das Erreichen von Verkaufszielen", "Steuer**anreize** ermutigen Unternehmen, vor Ort zu investieren"]]
+  },
+  {
+    "lemma": "custom",
+    "meanings_de": ["Brauch", "maßgefertigt"],
+    "definitions_de": ["Traditionelle und weithin akzeptierte Art des Verhaltens oder Handelns, die für eine Gesellschaft spezifisch ist", "Nach Maß oder auf Bestellung für einen bestimmten Kunden mit spezifischen Anforderungen hergestellt"],
+    "examples_de": [["Es ist **Brauch**, sich bei der Begrüßung die Hand zu geben", "Hochzeits**bräuche** variieren zwischen verschiedenen Kulturen"], ["Er bestellte **maßgefertigte** Möbel für sein Büro", "Das Geschäft ist auf **Maßschneiderei** spezialisiert"]]
+  },
+  {
+    "lemma": "cheek",
+    "meanings_de": ["Wange", "Frechheit"],
+    "definitions_de": ["Jede Seite des Gesichts unterhalb des Auges und oberhalb des Kiefers", "Unverschämtes oder respektloses Verhalten, das mangelnden Respekt zeigt"],
+    "examples_de": [["Sie küsste ihn zur Begrüßung auf beide **Wangen**", "Die **Wangen** des Babys waren von der Kälte rosig"], ["Er hatte die **Frechheit**, nach einer Gehaltserhöhung zu fragen", "So eine **Unverschämtheit** von jemandem so jungem!"]]
+  },
+  {
+    "lemma": "tournament",
+    "meanings_de": ["Turnier"],
+    "definitions_de": ["Serie von Wettkämpfen zwischen mehreren Teilnehmern, um einen Gesamtsieger zu ermitteln"],
+    "examples_de": [["Das Tennis**turnier** zieht Spieler aus der ganzen Welt an", "Sie gewann das Schach**turnier** drei Jahre in Folge"]]
+  },
+  {
+    "lemma": "satellite",
+    "meanings_de": ["Satellit", "abhängige Einheit"],
+    "definitions_de": ["Künstlicher Körper, der in eine Umlaufbahn um die Erde oder einen anderen Planeten gebracht wird, um Informationen zu sammeln oder zur Kommunikation", "Land oder Organisation, die von einem mächtigeren abhängig ist oder von ihm kontrolliert wird"],
+    "examples_de": [["Der **Satellit** überträgt Fernsehsignale weltweit", "Wetter**satelliten** helfen bei der Vorhersage von Stürmen"], ["Die kleine Nation war ein **Vasallenstaat** des Imperiums", "Mehrere **Zweigstellen** berichten an die Zentrale"]]
+  },
+  {
+    "lemma": "medication",
+    "meanings_de": ["Medikament"],
+    "definitions_de": ["Substanz, die zur medizinischen Behandlung verwendet wird, insbesondere ein Medikament zur Behandlung oder Vorbeugung von Krankheiten"],
+    "examples_de": [["Der Arzt verschrieb **Medikamente** für ihren Zustand", "Nehmen Sie dieses **Medikament** zweimal täglich mit dem Essen ein"]]
+  },
+  {
+    "lemma": "script",
+    "meanings_de": ["Drehbuch", "Schrift", "Skript"],
+    "definitions_de": ["Geschriebener Text eines Theaterstücks, Films oder einer Sendung einschließlich Dialog und Regieanweisungen", "Besonderer Stil der Handschrift oder gedruckten Schrift", "Programm oder Befehlsfolge, die von einem Computer interpretiert oder ausgeführt wird"],
+    "examples_de": [["Die Schauspieler probten ihre Zeilen aus dem **Drehbuch**", "Sie schreibt ein **Skript** für eine neue Fernsehserie"], ["Die Einladung war in eleganter **Schrift** verfasst", "Kinder lernen in **Schreibschrift** zu schreiben"], ["Das **Skript** automatisiert den Backup-Prozess", "Er schrieb ein Python-**Skript** zur Datenanalyse"]]
+  }
+]

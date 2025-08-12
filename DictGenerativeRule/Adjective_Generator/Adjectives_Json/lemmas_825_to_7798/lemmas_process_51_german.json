@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "inhibited",
+    "meanings_de": ["emotional gehemmt", "chemisch verhindert"],
+    "definitions_de": ["sich aufgrund von Selbstbewusstsein oder Angst unfähig fühlend, Emotionen auszudrücken oder sich natürlich zu verhalten", "einen Prozess oder eine Reaktion durch eine chemische Substanz verlangsamt oder verhindert habend"],
+    "examples_de": [["Sie fühlte sich zu **gehemmt**, um auf der Party zu tanzen", "Der **gehemmte** Teenager hatte Schwierigkeiten, neue Freunde zu finden"], ["Das Medikament **hemmte** das Wachstum der Krebszellen", "Bestimmte Medikamente haben die Enzymaktivität **gehemmt**"]]
+  },
+  {
+    "lemma": "inhospitable",
+    "meanings_de": ["unwirtlich gegenüber Menschen", "lebensfeindlich"],
+    "definitions_de": ["Gästen gegenüber nicht willkommen heißend oder freundlich, wenig Wärme oder Großzügigkeit zeigend", "raue Bedingungen aufweisend, die das Überleben oder die Besiedlung extrem schwierig machen"],
+    "examples_de": [["Die **unwirtliche** Haltung des Gastwirts vertrieb die Kunden", "Ihr **ungastlicher** Empfang veranlasste uns, früh zu gehen"], ["Das **lebensfeindliche** Wüstenterrain forderte selbst erfahrene Wanderer heraus", "Der Mars hat eine für Menschen **lebensfeindliche** Atmosphäre"]]
+  },
+  {
+    "lemma": "inhuman",
+    "meanings_de": ["ohne Mitgefühl", "übermenschlich"],
+    "definitions_de": ["kein Mitgefühl oder Erbarmen zeigend, extrem grausam oder brutal im Verhalten", "normale menschliche Fähigkeiten oder Ausdauer in Stärke, Geschwindigkeit oder Kapazität übersteigend"],
+    "examples_de": [["Die **unmenschliche** Behandlung der Gefangenen verstieß gegen internationales Recht", "Seine **unmenschliche** Grausamkeit schockierte selbst abgehärtete Soldaten"], ["Sie arbeitete in einem **unmenschlichen** Tempo, um fertig zu werden", "Der Athlet zeigte während des Wettkampfs **übermenschliche** Kräfte"]]
+  },
+  {
+    "lemma": "inhumane",
+    "meanings_de": ["ohne Mitgefühl"],
+    "definitions_de": ["kein Mitgefühl oder keine Freundlichkeit gegenüber anderen zeigend, besonders gegenüber Leidenden"],
+    "examples_de": [["Die **inhumanen** Bedingungen in der Fabrik wurden aufgedeckt", "Tiere in so kleinen Käfigen zu halten ist **inhuman**"]]
+  },
+  {
+    "lemma": "inimical",
+    "meanings_de": ["feindlich oder schädlich"],
+    "definitions_de": ["Feindseligkeit oder Opposition zeigend, dazu neigend, etwas zu behindern oder Schaden zuzufügen"],
+    "examples_de": [["Die neuen Richtlinien waren **schädlich** für kleine Unternehmen", "Seine **feindliche** Haltung machte eine Zusammenarbeit unmöglich"]]
+  },
+  {
+    "lemma": "inimitable",
+    "meanings_de": ["unnachahmlich"],
+    "definitions_de": ["so einzigartig oder ausgezeichnet, dass es von anderen nicht imitiert oder erreicht werden kann"],
+    "examples_de": [["Ihr **unnachahmlicher** Stil machte ihre Gemälde sofort erkennbar", "Das **einzigartige** Saucenrezept des Kochs blieb ein Geheimnis"]]
+  },
+  {
+    "lemma": "injectable",
+    "meanings_de": ["injizierbar"],
+    "definitions_de": ["in der Lage, mit einer Nadel und Spritze in den Körper verabreicht zu werden"],
+    "examples_de": [["Der Arzt verschrieb eine **injizierbare** Form von Insulin", "**Injizierbare** Impfstoffe bieten eine schnellere Immunantwort als Tabletten"]]
+  },
+  {
+    "lemma": "injured",
+    "meanings_de": ["körperlich verletzt", "emotional verletzt"],
+    "definitions_de": ["körperlichen Schaden oder Verletzung durch einen Unfall oder Angriff erlitten habend", "emotionalen Schmerz durch Beleidigung, Unrecht oder unfaire Behandlung empfindend"],
+    "examples_de": [["Der **verletzte** Spieler wurde vom Feld getragen", "Mehrere **verletzte** Passagiere wurden ins Krankenhaus gebracht"], ["Sie warf ihm einen **verletzten** Blick nach der Bemerkung zu", "Sein **verletzter** Stolz ließ ihn ihre Hilfe ablehnen"]]
+  },
+  {
+    "lemma": "injurious",
+    "meanings_de": ["schädlich"],
+    "definitions_de": ["Schaden, Verletzung oder Beeinträchtigung für jemanden oder etwas verursachend oder wahrscheinlich verursachend"],
+    "examples_de": [["Rauchen hat **schädliche** Auswirkungen auf Ihre Gesundheit", "Die **verletzenden** Bemerkungen beschädigten ihre berufliche Beziehung"]]
+  },
+  {
+    "lemma": "inlaid",
+    "meanings_de": ["eingelegt"],
+    "definitions_de": ["Materialstücke habend, die in eine Oberfläche eingesetzt sind, um ein dekoratives Muster zu bilden"],
+    "examples_de": [["Der **eingelegte** Marmorboden zeigte komplizierte Muster", "Sie bewunderte das **eingelegte** Perlmutt auf der Schatulle"]]
+  },
+  {
+    "lemma": "inland",
+    "meanings_de": ["im Landesinneren"],
+    "definitions_de": ["im Inneren eines Landes gelegen oder dorthin gerichtet, entfernt vom Meer"],
+    "examples_de": [["Sie zogen in eine Stadt **im Landesinneren** wegen günstigerer Wohnkosten", "Die **Binnenregionen** erleben extremere Temperaturschwankungen"]]
+  },
+  {
+    "lemma": "innate",
+    "meanings_de": ["angeboren"],
+    "definitions_de": ["von Geburt an existierend statt erworben, zum wesentlichen Wesen von etwas gehörend"],
+    "examples_de": [["Ihr **angeborenes** musikalisches Talent zeigte sich im Alter von drei Jahren", "Menschen haben eine **angeborene** Fähigkeit zum Spracherwerb"]]
+  },
+  {
+    "lemma": "innermost",
+    "meanings_de": ["innerst", "geheimst"],
+    "definitions_de": ["am weitesten innen gelegen oder im tiefsten Teil von etwas Physischem befindlich", "am privatesten, geheimsten oder am sorgfältigsten gehütet in Gedanken oder Gefühlen"],
+    "examples_de": [["Die **innerste** Kammer der Pyramide blieb versiegelt", "Sie erreichten den **innersten** Teil der Höhle"], ["Sie teilte ihre **innersten** Ängste mit ihrer Therapeutin", "Sein Tagebuch offenbarte seine **geheimsten** Gedanken und Wünsche"]]
+  },
+  {
+    "lemma": "innocuous",
+    "meanings_de": ["harmlos"],
+    "definitions_de": ["nicht schädlich oder anstößig, unwahrscheinlich Schaden zu verursachen oder Anstoß zu erregen"],
+    "examples_de": [["Die **harmlose** Bemerkung wurde als Beleidigung missverstanden", "Was wie **harmlose** Symptome aussah, wurde später ernst"]]
+  },
+  {
+    "lemma": "innumerable",
+    "meanings_de": ["unzählig"],
+    "definitions_de": ["zu viele, um gezählt zu werden, in so großer Zahl existierend, dass sie nicht zählbar sind"],
+    "examples_de": [["Der Nachthimmel enthält **unzählige** Sterne", "Sie hatte **unzählige** Bewerbungen für die Stelle erhalten"]]
+  },
+  {
+    "lemma": "inoffensive",
+    "meanings_de": ["nicht anstößig"],
+    "definitions_de": ["nicht zu beanstanden oder schädlich, unwahrscheinlich jemanden zu verärgern oder zu beleidigen"],
+    "examples_de": [["Er wählte **harmlose** Themen für die Tischgespräche", "Der **unverfängliche** Humor des Films sprach alle Altersgruppen an"]]
+  },
+  {
+    "lemma": "inoperable",
+    "meanings_de": ["nicht operierbar", "nicht funktionsfähig"],
+    "definitions_de": ["aus medizinischen Gründen nicht durch einen chirurgischen Eingriff behandelbar oder entfernbar", "nicht funktionsfähig oder nutzbar, über praktische Reparatur hinaus beschädigt"],
+    "examples_de": [["Der Tumor war aufgrund seiner Lage **inoperabel**", "Der **inoperable** Zustand des Patienten erforderte alternative Behandlung"], ["Die alte Maschinerie war völlig **funktionsunfähig** geworden", "Schwere Schäden machten das Fahrzeug **fahruntüchtig**"]]
+  },
+  {
+    "lemma": "inoperative",
+    "meanings_de": ["außer Betrieb"],
+    "definitions_de": ["nicht arbeitend oder funktionierend, aufgehört habend, in Kraft oder in Betrieb zu sein"],
+    "examples_de": [["Die Notausgänge waren während der Inspektion **außer Betrieb**", "Mehrere Klauseln im Vertrag waren **unwirksam** geworden"]]
+  },
+  {
+    "lemma": "inordinate",
+    "meanings_de": ["übermäßig"],
+    "definitions_de": ["ungewöhnlich oder unvernünftig groß, über das Normale oder Akzeptable hinausgehend"],
+    "examples_de": [["Er verbrachte **übermäßig** viel Zeit mit dem Prüfen von E-Mails", "Das Projekt erforderte **unverhältnismäßig** viele Ressourcen"]]
+  },
+  {
+    "lemma": "inorganic",
+    "meanings_de": ["anorganisch", "künstlich gewachsen"],
+    "definitions_de": ["aus Materie zusammengesetzt, die nicht von lebenden Organismen stammt, sich auf Verbindungen ohne Kohlenstoff beziehend", "nicht aus natürlichem Wachstum entstehend, künstlich hinzugefügt oder ohne ordnungsgemäße Integration entwickelt"],
+    "examples_de": [["Salz ist eine **anorganische** Verbindung im Meerwasser", "Der Boden enthielt hohe Konzentrationen **anorganischer** Mineralien"], ["Das **künstliche** Wachstum des Unternehmens durch Übernahmen verursachte Probleme", "Die **aufgesetzte** Nebenhandlung des Films wirkte erzwungen und unnatürlich"]]
+  },
+  {
+    "lemma": "inquiring",
+    "meanings_de": ["forschend"],
+    "definitions_de": ["Neugier oder den Wunsch zu lernen zeigend, durch das Stellen von Fragen gekennzeichnet"],
+    "examples_de": [["Der **wissbegierige** Geist der Schülerin beeindruckte ihre Lehrer", "Er warf ihr einen **fragenden** Blick zu und wartete auf eine Erklärung"]]
+  },
+  {
+    "lemma": "inquisitive",
+    "meanings_de": ["neugierig"],
+    "definitions_de": ["große Neugier habend oder zeigend, begierig, mehr über Dinge zu erfahren oder zu wissen"],
+    "examples_de": [["Das **neugierige** Kind stellte endlose Fragen über alles", "Ihre **wissbegierige** Natur machte sie zu einer ausgezeichneten Forscherin"]]
+  },
+  {
+    "lemma": "insatiable",
+    "meanings_de": ["unersättlich"],
+    "definitions_de": ["unmöglich zu befriedigen oder zu erfüllen, immer mehr von etwas wollend"],
+    "examples_de": [["Er hatte einen **unersättlichen** Appetit auf Abenteuerromane", "Die Medien zeigten **unstillbares** Interesse an dem Skandal"]]
+  },
+  {
+    "lemma": "inscribed",
+    "meanings_de": ["eingraviert"],
+    "definitions_de": ["Wörter oder Symbole auf einer Oberfläche geschrieben, gemeißelt oder eingraviert habend"],
+    "examples_de": [["Das **beschriftete** Denkmal ehrte gefallene Soldaten", "Sie schätzte die **gravierte** Uhr von ihrem Großvater"]]
+  },
+  {
+    "lemma": "insecure",
+    "meanings_de": ["unsicher", "nicht fest"],
+    "definitions_de": ["an Selbstvertrauen mangelnd, besorgt über die eigene Angemessenheit oder Akzeptanz durch andere", "nicht fest befestigt oder angebracht, anfällig nachzugeben oder verloren zu gehen"],
+    "examples_de": [["Der **unsichere** Teenager machte sich ständig Sorgen, dazuzugehören", "Sein **unsicheres** Verhalten stammte aus Kindheitserfahrungen"], ["Die **wackelige** Leiter schwankte bei jedem Schritt", "Ihre **unsichere** finanzielle Lage verursachte ständigen Stress"]]
+  },
+  {
+    "lemma": "insensitive",
+    "meanings_de": ["gefühllos", "unempfindlich"],
+    "definitions_de": ["mangelnde Rücksicht auf die Gefühle anderer zeigend, gedankenlos oder taktlos im Verhalten", "nicht reaktionsfähig oder empfänglich für physische Reize oder chemische Substanzen"],
+    "examples_de": [["Seine **gefühllosen** Kommentare verletzten sie zutiefst", "Der **unsensible** Manager ignorierte die Bedenken der Mitarbeiter"], ["Die beschädigten Nerven waren **unempfindlich** gegenüber Berührung", "Dieser Film ist **unempfindlich** gegenüber Lichteinwirkung"]]
+  },
+  {
+    "lemma": "inseparable",
+    "meanings_de": ["untrennbar"],
+    "definitions_de": ["nicht trennbar oder getrennt behandelbar, immer zusammen gefunden oder gesehen werdend"],
+    "examples_de": [["Die Zwillinge waren während ihrer Kindheit **unzertrennlich**", "Gutes Management und Kommunikation sind im Geschäftsleben **untrennbar**"]]
+  },
+  {
+    "lemma": "inshore",
+    "meanings_de": ["küstennah"],
+    "definitions_de": ["nahe der Küste gelegen oder betrieben werdend oder sich zur Küste hin bewegend"],
+    "examples_de": [["Die **küstennahen** Fischerboote kehrten vor Sonnenuntergang zurück", "**Küstennahe** Gewässer sind im Allgemeinen ruhiger als offenes Meer"]]
+  },
+  {
+    "lemma": "insidious",
+    "meanings_de": ["heimtückisch"],
+    "definitions_de": ["allmählich mit schädlichen Auswirkungen fortschreitend, sich so langsam entwickelnd, dass es unbemerkt bleibt"],
+    "examples_de": [["Die Krankheit hatte einen **heimtückischen** Beginn über Monate", "Propaganda kann **hinterhältige** Auswirkungen auf die öffentliche Meinung haben"]]
+  },
+  {
+    "lemma": "insightful",
+    "meanings_de": ["aufschlussreich"],
+    "definitions_de": ["ein genaues und tiefes Verständnis von jemandem oder etwas habend oder zeigend"],
+    "examples_de": [["Ihre **aufschlussreiche** Analyse enthüllte verborgene Markttrends", "Der Therapeut machte mehrere **einsichtsvolle** Beobachtungen über das Verhalten"]]
+  },
+  {
+    "lemma": "insignificant",
+    "meanings_de": ["unbedeutend"],
+    "definitions_de": ["zu klein oder unwichtig, um der Betrachtung wert zu sein, wenig oder keine Bedeutung habend"],
+    "examples_de": [["Der Preisunterschied war **unbedeutend**", "Er fühlte sich **bedeutungslos** in dem großen Konzern"]]
+  },
+  {
+    "lemma": "insincere",
+    "meanings_de": ["unaufrichtig"],
+    "definitions_de": ["keine echten Gefühle ausdrückend, vortäuschend etwas zu fühlen, was man nicht fühlt"],
+    "examples_de": [["Seine **unaufrichtige** Entschuldigung täuschte niemanden", "Sie konnte die **geheuchelte** Schmeichelei sofort erkennen"]]
+  },
+  {
+    "lemma": "insinuating",
+    "meanings_de": ["andeutend"],
+    "definitions_de": ["auf indirekte und unangenehme Weise auf etwas Schlechtes hindeutend"],
+    "examples_de": [["Seine **anzüglichen** Bemerkungen über ihre Vergangenheit verärgerten alle", "Sie schätzte den **unterstellenden** Ton der Frage nicht"]]
+  },
+  {
+    "lemma": "insipid",
+    "meanings_de": ["geschmacklos", "langweilig"],
+    "definitions_de": ["ohne Geschmack oder Aroma, schwach oder wässrig in der Substanz", "ohne Kraft oder Interesse, langweilig und öde im Charakter oder in der Qualität"],
+    "examples_de": [["Das Krankenhausessen war **fade** und unappetitlich", "Die **geschmacklose** Suppe brauchte Salz und Gewürze"], ["Die **langweilige** Handlung des Films schläferte das Publikum ein", "Ihre **geistlose** Unterhaltung ließ die Dinnerparty sich hinziehen"]]
+  },
+  {
+    "lemma": "insistent",
+    "meanings_de": ["beharrlich"],
+    "definitions_de": ["etwas nachdrücklich fordernd und Ablehnung oder Verzögerung nicht akzeptierend"],
+    "examples_de": [["Ihr **beharrliches** Klopfen weckte schließlich die Nachbarn", "Er **bestand darauf**, dass alle die Sicherheitsprotokolle befolgen"]]
+  },
+  {
+    "lemma": "insolent",
+    "meanings_de": ["unverschämt"],
+    "definitions_de": ["einen unhöflichen und arroganten Mangel an Respekt gegenüber anderen zeigend"],
+    "examples_de": [["Der **unverschämte** Schüler wurde zum Direktor geschickt", "Sein **freches** Verhalten kostete ihn die Beförderung"]]
+  },
+  {
+    "lemma": "insoluble",
+    "meanings_de": ["unlöslich", "unlösbar"],
+    "definitions_de": ["nicht in einer Flüssigkeit, insbesondere Wasser, auflösbar", "unmöglich zu lösen oder zu erklären, keine Lösung habend"],
+    "examples_de": [["Öl ist **unlöslich** in Wasser", "Das Mineral bildete **unlösliche** Kristalle"], ["Sie standen vor einem **unlösbaren** Dilemma ohne gute Optionen", "Das Rätsel blieb trotz jahrelanger Untersuchung **unlösbar**"]]
+  },
+  {
+    "lemma": "insolvent",
+    "meanings_de": ["zahlungsunfähig"],
+    "definitions_de": ["nicht in der Lage, geschuldete Schulden zu bezahlen, Verbindlichkeiten habend, die das Vermögen übersteigen"],
+    "examples_de": [["Das **insolvente** Unternehmen meldete Insolvenzschutz an", "Viele Unternehmen wurden während der Wirtschaftskrise **zahlungsunfähig**"]]
+  },
+  {
+    "lemma": "insomniac",
+    "meanings_de": ["schlaflos"],
+    "definitions_de": ["die chronische Unfähigkeit einzuschlafen oder durchzuschlafen erlebend oder damit zusammenhängend"],
+    "examples_de": [["Der **schlaflose** Patient probierte verschiedene Schlafmittel aus", "Ihre **schlaflosen** Tendenzen verschlimmerten sich in stressigen Zeiten"]]
+  },
+  {
+    "lemma": "inspirational",
+    "meanings_de": ["inspirierend"],
+    "definitions_de": ["Motivation oder Ermutigung bietend, etwas Positives zu tun oder zu fühlen"],
+    "examples_de": [["Die **inspirierende** Rede des Trainers gab dem Team neue Energie", "Sie fand die Geschichte des Überlebenden zutiefst **motivierend**"]]
+  },
+  {
+    "lemma": "inspired",
+    "meanings_de": ["genial", "inspiriert"],
+    "definitions_de": ["brillante kreative Gedanken oder Fähigkeiten zeigend, außergewöhnlich gut oder originell", "mit Motivation oder kreativem Impuls erfüllt, von göttlicher oder übernatürlicher Führung beeinflusst"],
+    "examples_de": [["Das **geniale** Design des Architekten gewann internationale Auszeichnungen", "Es war eine **brillante** Entscheidung, sie für die Rolle zu besetzen"], ["Der **inspirierte** Künstler arbeitete die ganze Nacht durch", "Sie fühlte sich nach der Konferenz **beflügelt**"]]
+  },
+  {
+    "lemma": "inspiring",
+    "meanings_de": ["inspirierend"],
+    "definitions_de": ["jemanden mit dem Drang oder der Fähigkeit erfüllend, etwas Kreatives oder Lohnendes zu tun oder zu fühlen"],
+    "examples_de": [["Die **inspirierende** Hingabe der Lehrerin motivierte ihre Schüler", "Die Aussicht auf die Berge war wirklich **beeindruckend** anzusehen"]]
+  },
+  {
+    "lemma": "instantaneous",
+    "meanings_de": ["augenblicklich"],
+    "definitions_de": ["sofort auftretend oder geschehend, ohne Verzögerung zwischen Ursache und Wirkung"],
+    "examples_de": [["Die Reaktion war fast **augenblicklich**", "Moderne Kommunikation ermöglicht **sofortige** globale Verbindung"]]
+  },
+  {
+    "lemma": "instinctive",
+    "meanings_de": ["instinktiv"],
+    "definitions_de": ["auf natürlichem Impuls basierend statt auf bewusstem Denken, aus angeborener Neigung entstehend"],
+    "examples_de": [["Ihre **instinktive** Reaktion rettete das Kind vor dem Sturz", "Tiere zeigen **instinktive** Angst vor ihren natürlichen Feinden"]]
+  },
+  {
+    "lemma": "instructive",
+    "meanings_de": ["lehrreich"],
+    "definitions_de": ["der Unterweisung oder Erleuchtung dienend, Wissen oder Information auf hilfreiche Weise vermittelnd"],
+    "examples_de": [["Die Dokumentation war sowohl unterhaltsam als auch **lehrreich**", "Seine Fehler erwiesen sich als **aufschlussreich** für zukünftige Projekte"]]
+  },
+  {
+    "lemma": "instrumental",
+    "meanings_de": ["maßgeblich", "instrumental"],
+    "definitions_de": ["als entscheidendes Mittel zur Erreichung von etwas dienend, eine wichtige Rolle spielend", "sich auf Musikinstrumente beziehend oder auf ihnen aufgeführt statt mit Stimmen"],
+    "examples_de": [["Sie war **maßgeblich** an der Aushandlung des Friedensvertrags beteiligt", "Seine Unterstützung erwies sich als **entscheidend** für den Projekterfolg"], ["Die Band veröffentlichte eine **instrumentale** Version ihres Hits", "Er bevorzugte **instrumentalen** Jazz gegenüber Gesangsdarbietungen"]]
+  },
+  {
+    "lemma": "insufficient",
+    "meanings_de": ["unzureichend"],
+    "definitions_de": ["nicht genug in Menge, Stärke oder Qualität, um einen Bedarf oder eine Anforderung zu erfüllen"],
+    "examples_de": [["Die Beweise waren **unzureichend**, um ihn zu verurteilen", "Ihre Ersparnisse erwiesen sich als **ungenügend** für den Notfall"]]
+  },
+  {
+    "lemma": "insular",
+    "meanings_de": ["abgeschottet", "engstirnig"],
+    "definitions_de": ["sich auf eine Insel beziehend oder für sie charakteristisch, von äußeren Einflüssen isoliert", "einen begrenzten oder engen Ausblick habend, unwillig, verschiedene Ideen zu berücksichtigen"],
+    "examples_de": [["Die **abgeschottete** Gemeinschaft bewahrte einzigartige Traditionen", "Ihre **insulare** Lage schützte sie vor Invasion"], ["Seine **engstirnigen** Ansichten hinderten ihn daran, andere zu verstehen", "Die **abgekapselte** Unternehmenskultur widersetzte sich Veränderungen"]]
+  },
+  {
+    "lemma": "insulting",
+    "meanings_de": ["beleidigend"],
+    "definitions_de": ["Respektlosigkeit oder Verachtung zeigend, darauf abzielend, jemandes Würde zu verletzen"],
+    "examples_de": [["Seine **beleidigenden** Bemerkungen über ihre Arbeit waren unangebracht", "Sie empfanden das niedrige Gehaltsangebot als **erniedrigend**"]]
+  },
+  {
+    "lemma": "insured",
+    "meanings_de": ["versichert"],
+    "definitions_de": ["durch Versicherung gegen möglichen Verlust, Schaden, Krankheit oder Tod geschützt"],
+    "examples_de": [["Das **versicherte** Eigentum war gegen Hochwasserschäden geschützt", "Alle **versicherten** Patienten erhielten volle Deckung für die Behandlung"]]
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "deductive",
+    "meanings_de": ["auf logischer Schlussfolgerung basierend"],
+    "definitions_de": ["sich auf die Methode beziehend, bei der aus allgemeinen Prinzipien oder Prämissen spezifische Schlussfolgerungen abgeleitet werden, wobei die Wahrheit der Prämissen die Wahrheit der Schlussfolgerung garantiert"],
+    "examples_de": [["Der **deduktive** Ansatz des Detektivs führte zur Lösung des komplizierten Falls", "In der Mathematik nutzen wir **deduktive** Beweise, um Theoreme herzuleiten"]]
+  },
+  {
+    "lemma": "deepening",
+    "meanings_de": ["sich verstärkend oder vertiefend"],
+    "definitions_de": ["allmählich an Tiefe, Intensität oder Ernsthaftigkeit zunehmend, wobei sich etwas in seiner Ausprägung oder Bedeutung kontinuierlich verstärkt"],
+    "examples_de": [["Die sich **vertiefende** Wirtschaftskrise erforderte sofortige Regierungsmaßnahmen", "Ihr **zunehmendes** Verständnis für Quantenphysik beeindruckte den Professor"]]
+  },
+  {
+    "lemma": "defamatory",
+    "meanings_de": ["rufschädigend"],
+    "definitions_de": ["falsche oder unbegründete Aussagen enthaltend, die den Ruf oder das Ansehen einer Person in der Öffentlichkeit schädigen oder herabsetzen können"],
+    "examples_de": [["Die Zeitung zog den **verleumderischen** Artikel über den Politiker zurück", "Sie verklagte die Verfasser der **rufschädigenden** Social-Media-Beiträge"]]
+  },
+  {
+    "lemma": "defeated",
+    "meanings_de": ["im Wettbewerb besiegt", "hoffnungslos und entmutigt"],
+    "definitions_de": ["in einem Wettkampf, einer Schlacht oder einem Kampf verloren habend", "eine Haltung der Resignation nach erlebtem Misserfolg zeigend"],
+    "examples_de": [["Die **geschlagene** Mannschaft verließ schweigend das Spielfeld", "Unsere **besiegte** Armee zog sich in sicherere Gebiete zurück"], ["Sein **niedergeschlagener** Gesichtsausdruck zeigte, dass er aufgegeben hatte", "Mit **resignierter** Stimme sprach sie nach mehreren Absagen"]]
+  },
+  {
+    "lemma": "defective",
+    "meanings_de": ["fehlerhaft oder unvollkommen"],
+    "definitions_de": ["Mängel oder Fehler in Form, Funktion oder Qualität aufweisend, die die ordnungsgemäße Verwendung beeinträchtigen"],
+    "examples_de": [["Der Hersteller rief alle **defekten** Autobatterien sofort zurück", "Sie gaben den **fehlerhaften** Laptop zur Reparatur zurück"]]
+  },
+  {
+    "lemma": "defenceless",
+    "meanings_de": ["schutzlos"],
+    "definitions_de": ["ohne Schutz oder ohne die Fähigkeit, sich gegen Angriffe oder Gefahren zu verteidigen, völlig verwundbar"],
+    "examples_de": [["Die **wehrlosen** Dorfbewohner flohen vor den herannahenden Soldaten", "Vogeljunge sind ohne ihre Eltern völlig **schutzlos**"]]
+  },
+  {
+    "lemma": "defending",
+    "meanings_de": ["vor Angriffen schützend"],
+    "definitions_de": ["aktiv damit beschäftigt, jemanden oder etwas vor Schaden, Angriffen oder Kritik zu bewahren oder zu verteidigen"],
+    "examples_de": [["Der **verteidigende** Meister spielte im Finale aggressiv", "Die Anwältin verbrachte Stunden damit, die Unschuld ihres **verteidigten** Mandanten zu beweisen"]]
+  },
+  {
+    "lemma": "defenseless",
+    "meanings_de": ["schutzlos"],
+    "definitions_de": ["ohne Schutz oder ohne die Fähigkeit, sich gegen Angriffe oder Gefahren zu verteidigen, völlig verwundbar"],
+    "examples_de": [["Der **wehrlose** Welpe brauchte sofort Schutz und Pflege", "Die Bürger fühlten sich **schutzlos** gegen die steigende Kriminalität"]]
+  },
+  {
+    "lemma": "defensible",
+    "meanings_de": ["vertretbar oder verteidigbar"],
+    "definitions_de": ["fähig, verteidigt, gerechtfertigt oder als gültig aufrechterhalten zu werden, sowohl in argumentativer als auch in praktischer Hinsicht"],
+    "examples_de": [["Ihre Entscheidung zu kündigen war unter den Umständen völlig **vertretbar**", "Die Burg befand sich in einer **verteidigungsfähigen** Position auf dem Hügel"]]
+  },
+  {
+    "lemma": "deferential",
+    "meanings_de": ["respektvoll unterwürfig"],
+    "definitions_de": ["demütigen Respekt und höfliche Rücksichtnahme auf die Wünsche anderer zeigend, besonders gegenüber Autoritätspersonen"],
+    "examples_de": [["Der Assistent bewahrte eine **ehrerbietige** Haltung gegenüber der Geschäftsleitung", "Seine **respektvolle** Verbeugung zeigte Achtung vor der älteren Lehrerin"]]
+  },
+  {
+    "lemma": "defiant",
+    "meanings_de": ["trotzig widerstehend"],
+    "definitions_de": ["offenen Widerstand oder kühnen Ungehorsam gegenüber Autorität oder Opposition zeigend, sich nicht unterwerfen wollend"],
+    "examples_de": [["Die **trotzige** Haltung der Jugendlichen frustrierte ihre Eltern ständig", "Die Demonstranten blieben **aufsässig** trotz Drohungen mit Verhaftung"]]
+  },
+  {
+    "lemma": "deficient",
+    "meanings_de": ["mangelhaft in Menge oder Qualität"],
+    "definitions_de": ["nicht genügend von einer bestimmten Qualität, einem Nährstoff oder einer erforderlichen Eigenschaft besitzend"],
+    "examples_de": [["Der Boden war **arm** an essentiellen Nährstoffen für die Ernte", "Seine Ernährung war ernsthaft **mangelhaft** an Vitaminen und Mineralstoffen"]]
+  },
+  {
+    "lemma": "defiled",
+    "meanings_de": ["verunreinigt oder entweiht"],
+    "definitions_de": ["verdorben oder kontaminiert, besonders etwas Heiliges oder Reines, das seiner Reinheit beraubt wurde"],
+    "examples_de": [["Die Vandalen hatten den alten Tempel mit Graffiti **geschändet**", "Die **verunreinigte** Wasserquelle stellte ernsthafte Gesundheitsrisiken dar"]]
+  },
+  {
+    "lemma": "definable",
+    "meanings_de": ["klar beschreibbar"],
+    "definitions_de": ["fähig, präzise beschrieben zu werden oder klare Grenzen gesetzt zu bekommen, eindeutig bestimmbar"],
+    "examples_de": [["Erfolg hat viele **definierbare** Merkmale im geschäftlichen Kontext", "Das Projekt braucht **bestimmbare** Ziele, bevor wir beginnen können"]]
+  },
+  {
+    "lemma": "defined",
+    "meanings_de": ["klar umrissen oder festgelegt"],
+    "definitions_de": ["mit klaren Grenzen, Limits oder charakteristischen Merkmalen versehen, die deutlich erkennbar sind"],
+    "examples_de": [["Ihre **definierten** Muskeln zeugten von jahrelangem engagiertem Training", "Der Vertrag enthielt klar **festgelegte** Bedingungen und Konditionen"]]
+  },
+  {
+    "lemma": "definite",
+    "meanings_de": ["eindeutig festgelegt oder entschieden"],
+    "definitions_de": ["klar ausgedrückt, sicher oder frei von Zweifeln und Mehrdeutigkeiten, unzweifelhaft feststehend"],
+    "examples_de": [["Wir brauchen bis morgen früh eine **eindeutige** Antwort", "Es gibt eine **deutliche** Verbesserung in ihrem Klavierspiel"]]
+  },
+  {
+    "lemma": "definitive",
+    "meanings_de": ["endgültig und maßgebend"],
+    "definitions_de": ["eine endgültige Lösung bietend oder die maßgeblichste Autorität ihrer Art darstellend, nicht mehr verbesserbar"],
+    "examples_de": [["Diese Biografie ist die **maßgebliche** Darstellung ihres Lebens", "Das Gericht erließ ein **endgültiges** Urteil in der Angelegenheit"]]
+  },
+  {
+    "lemma": "deflated",
+    "meanings_de": ["luftleer geworden", "emotional entmutigt"],
+    "definitions_de": ["Luft oder Gas verloren habend, dadurch kleiner oder flacher geworden", "sich plötzlich enttäuscht fühlend oder an Selbstvertrauen verloren habend"],
+    "examples_de": [["Der **luftleere** Ballon lag zerknittert auf dem Boden", "Wir fanden einen **platten** Reifen am verlassenen Auto"], ["Sie fühlte sich nach dem Ablehnungsschreiben völlig **niedergeschlagen**", "Seine **gedämpfte** Stimmung war nach der Niederlage offensichtlich"]]
+  },
+  {
+    "lemma": "deformed",
+    "meanings_de": ["abnormal geformt oder verzerrt"],
+    "definitions_de": ["eine abnormale oder entstellte Form aufweisend aufgrund von Schäden, Mutationen oder Fehlbildungen"],
+    "examples_de": [["Der **verformte** Baumstamm bildete eine interessante natürliche Skulptur", "Röntgenaufnahmen zeigten mehrere **deformierte** Knochen vom Unfall"]]
+  },
+  {
+    "lemma": "deft",
+    "meanings_de": ["geschickt und flink"],
+    "definitions_de": ["ordentliche Geschicklichkeit und schnelle Cleverness in Bewegung oder Gedanken demonstrierend, gewandt"],
+    "examples_de": [["Die **geschickten** Hände des Chirurgen vollendeten den heiklen Eingriff", "Sie gab eine **gewandte** Antwort auf die schwierige Frage"]]
+  },
+  {
+    "lemma": "defunct",
+    "meanings_de": ["nicht mehr existierend oder funktionierend"],
+    "definitions_de": ["nicht mehr in Kraft, Existenz oder Betrieb befindlich; tot, ausgestorben oder aufgelöst"],
+    "examples_de": [["Das Gebäude der **aufgelösten** Firma stand jahrelang leer", "Sie entdeckten Artefakte einer **untergegangenen** antiken Zivilisation"]]
+  },
+  {
+    "lemma": "degenerate",
+    "meanings_de": ["in der Qualität verfallen"],
+    "definitions_de": ["von einem früheren oder ursprünglichen Zustand zu einer niedrigeren Qualität verschlechtert oder verkommen"],
+    "examples_de": [["Die Debatte wurde schnell **entartet** mit persönlichen Angriffen", "Der **verkommene** Zustand des Gebäudes erforderte den Abriss"]]
+  },
+  {
+    "lemma": "degenerative",
+    "meanings_de": ["allmähliche Verschlechterung verursachend"],
+    "definitions_de": ["durch fortschreitende Verschlechterung von Funktion oder Struktur über Zeit gekennzeichnet, sich kontinuierlich abbauend"],
+    "examples_de": [["Arthritis ist eine **degenerative** Krankheit, die Millionen weltweit betrifft", "Der Patient zeigte Anzeichen **degenerativer** Veränderungen im Sehvermögen"]]
+  },
+  {
+    "lemma": "degraded",
+    "meanings_de": ["in Qualität oder Wert gemindert"],
+    "definitions_de": ["in Qualität, Wert, Charakter oder Status von einem früheren Zustand herabgesetzt oder verschlechtert"],
+    "examples_de": [["Das **degradierte** Waldökosystem hatte Mühe, Wildtiere zu ernähren", "Jahrelange Vernachlässigung hinterließ das Gebäude in **heruntergekommenem** Zustand"]]
+  },
+  {
+    "lemma": "degrading",
+    "meanings_de": ["Würdeverlust verursachend"],
+    "definitions_de": ["Demütigung oder einen Verlust von Selbstachtung und menschlicher Würde verursachend, erniedrigend"],
+    "examples_de": [["Die Gefangenen erduldeten **entwürdigende** Behandlung von ihren Entführern", "Sie weigerte sich, **erniedrigende** Aufgaben zu erledigen, obwohl sie Geld brauchte"]]
+  },
+  {
+    "lemma": "dehydrated",
+    "meanings_de": ["unzureichend mit Wasser versorgt"],
+    "definitions_de": ["eine große Menge Wasser aus dem Körper oder einer Substanz verloren habend, ausgetrocknet"],
+    "examples_de": [["Der **dehydrierte** Wanderer brauchte nach der Wüstentour dringend Wasser", "Diese **getrockneten** Gemüse können monatelang gelagert werden"]]
+  },
+  {
+    "lemma": "dejected",
+    "meanings_de": ["traurig und entmutigt"],
+    "definitions_de": ["sich traurig, enttäuscht und ohne Hoffnung oder Selbstvertrauen fühlend, niedergeschlagen"],
+    "examples_de": [["Der **niedergeschlagene** Spieler saß allein nach dem Verlust der Meisterschaft", "Ihre **bedrückte** Haltung verriet sofort die schlechten Nachrichten"]]
+  },
+  {
+    "lemma": "delayed",
+    "meanings_de": ["später als geplant eintretend"],
+    "definitions_de": ["später als geplant oder erwartet aufgrund verschiedener Umstände auftretend oder stattfindend"],
+    "examples_de": [["Der **verspätete** Flug führte dazu, dass Passagiere wichtige Anschlüsse verpassten", "Starker Regen führte diese Saison zu einer **verzögerten** Ernte"]]
+  },
+  {
+    "lemma": "deleterious",
+    "meanings_de": ["schädlich oder zerstörerisch"],
+    "definitions_de": ["eine schädliche oder zerstörerische Wirkung auf etwas habend, besonders auf die Gesundheit oder das Wohlbefinden"],
+    "examples_de": [["Rauchen hat **schädliche** Auswirkungen auf das Herz-Kreislauf-System", "Die **zerstörerischen** Folgen der Verschmutzung bedrohen marine Ökosysteme"]]
+  },
+  {
+    "lemma": "deliberate",
+    "meanings_de": ["absichtlich getan", "bedächtig und gemessen"],
+    "definitions_de": ["bewusst und absichtlich getan statt zufällig oder versehentlich", "durch sorgfältige Überlegung und gemessenes Tempo gekennzeichnet"],
+    "examples_de": [["Seine **absichtliche** Beleidigung löste sofort eine wütende Konfrontation aus", "Die **vorsätzliche** Zerstörung von Beweisen erschwerte die Ermittlung"], ["Sie sprach in **bedächtiger** Weise, um Verständnis sicherzustellen", "Seine **gemessenen** Bewegungen zeigten jahrelanges Kampfkunsttraining"]]
+  },
+  {
+    "lemma": "deliberative",
+    "meanings_de": ["sorgfältige Überlegung beinhaltend"],
+    "definitions_de": ["sich auf die Betrachtung und Diskussion von Themen beziehend oder dafür bestimmt, beratschlagend"],
+    "examples_de": [["Die **beratende** Versammlung wog sorgfältig alle vorgeschlagenen Optionen ab", "Ein **deliberativer** Prozess gewährleistet bessere Entscheidungsfindung in Organisationen"]]
+  },
+  {
+    "lemma": "delighted",
+    "meanings_de": ["große Freude empfindend"],
+    "definitions_de": ["große Freude, Zufriedenheit oder Glück fühlend oder zeigend, hocherfreut"],
+    "examples_de": [["Die **entzückten** Kinder öffneten aufgeregt ihre Geburtstagsgeschenke", "Wir waren **hocherfreut** über Ihre Beförderung zu hören"]]
+  },
+  {
+    "lemma": "delightful",
+    "meanings_de": ["Freude oder Vergnügen bereitend"],
+    "definitions_de": ["große Freude, Zufriedenheit oder Glück beim Erleben gebend, entzückend"],
+    "examples_de": [["Die Gartenparty war eine **reizende** Nachmittagsveranstaltung", "Sie hat eine **bezaubernde** Persönlichkeit, die jeden verzaubert"]]
+  },
+  {
+    "lemma": "delimited",
+    "meanings_de": ["mit festen Grenzen versehen"],
+    "definitions_de": ["klare Grenzen oder Limits habend, die markiert sind, um verschiedene Bereiche zu trennen"],
+    "examples_de": [["Die **abgegrenzten** Zonen halfen, die Baustelle effizient zu organisieren", "Jeder **begrenzte** Abschnitt enthielt nur spezifische Datentypen"]]
+  },
+  {
+    "lemma": "delineated",
+    "meanings_de": ["klar beschrieben oder umrissen"],
+    "definitions_de": ["in genauem und präzisem Detail mit klaren Grenzen beschrieben oder dargestellt"],
+    "examples_de": [["Der Vertrag **umriss** klar die Verantwortlichkeiten und Pflichten jeder Partei", "Karten zeigten **abgegrenzte** Grenzen zwischen den Nachbarländern"]]
+  },
+  {
+    "lemma": "delinquent",
+    "meanings_de": ["Verpflichtungen nicht erfüllend", "antisoziales Verhalten zeigend"],
+    "definitions_de": ["Schulden nicht bezahlend oder Pflichten nicht rechtzeitig erfüllend", "wiederholtes antisoziales oder kriminelles Verhalten zeigend, besonders bei Jugendlichen"],
+    "examples_de": [["**Säumige** Konten werden mit zusätzlichen Verspätungsgebühren belastet", "Die Bank schickte Mahnungen wegen **überfälliger** Hypothekenzahlungen"], ["Die **straffälligen** Jugendlichen vandalisierten letzte Nacht mehrere Gebäude", "Programme helfen **delinquenten** Jugendlichen, positive Lebenswege zu finden"]]
+  },
+  {
+    "lemma": "delirious",
+    "meanings_de": ["geistig verwirrt durch Krankheit", "extrem aufgeregt"],
+    "definitions_de": ["in einem gestörten Geisteszustand, gekennzeichnet durch Verwirrung und Halluzinationen", "wild aufgeregt oder ekstatisch über etwas"],
+    "examples_de": [["Der **delirierende** Patient redete zusammenhanglos bei hohem Fieber", "Er wurde **wirr** nach drei Tagen ohne Wasser"], ["Die Fans waren **außer sich** vor Freude nach dem Sieg ihrer Mannschaft", "Sie war **überglücklich** an ihrem Hochzeitstag"]]
+  },
+  {
+    "lemma": "deltoid",
+    "meanings_de": ["dreieckig in der Form"],
+    "definitions_de": ["eine dreieckige Form wie der griechische Buchstabe Delta habend"],
+    "examples_de": [["Der **Deltamuskel** verbindet die Schulter mit dem Arm", "Blätter mit **deltoidförmiger** Gestalt sind bei bestimmten Pflanzen häufig"]]
+  },
+  {
+    "lemma": "delusional",
+    "meanings_de": ["falsche Überzeugungen habend"],
+    "definitions_de": ["durch falsche Überzeugungen trotz gegenteiliger Beweise gekennzeichnet oder diese haltend"],
+    "examples_de": [["Sein **wahnhaftes** Denken erforderte sofortige psychiatrische Intervention", "Sie hatte **illusorische** Vorstellungen über ihre eigene Wichtigkeit"]]
+  },
+  {
+    "lemma": "deluxe",
+    "meanings_de": ["luxuriös und von höchster Qualität"],
+    "definitions_de": ["von besonderer Eleganz, Pracht oder Feinheit; von hoher oder höchster Qualität"],
+    "examples_de": [["Die **Luxus**-Hotelsuite verfügte über einen privaten Balkon", "Wir bestellten die **Deluxe**-Pizza mit extra Belägen"]]
+  },
+  {
+    "lemma": "demanding",
+    "meanings_de": ["viel Anstrengung erfordernd"],
+    "definitions_de": ["viel Geschick, Aufmerksamkeit oder Anstrengung erfordernd, um erfolgreich bewältigt zu werden"],
+    "examples_de": [["Kindergarten zu unterrichten ist jeden Tag emotional **anspruchsvolle** Arbeit", "Der **fordernde** Chef erwartete Perfektion von allen Mitarbeitern"]]
+  },
+  {
+    "lemma": "demeaning",
+    "meanings_de": ["Würdeverlust verursachend"],
+    "definitions_de": ["jemanden dazu bringend, Würde oder Respekt zu verlieren; erniedrigend oder demütigend"],
+    "examples_de": [["Sie kündigte, anstatt **erniedrigende** Behandlung vom Management zu akzeptieren", "Die **herabwürdigenden** Kommentare schadeten seinem beruflichen Ruf erheblich"]]
+  },
+  {
+    "lemma": "demented",
+    "meanings_de": ["geisteskrank oder verrückt"],
+    "definitions_de": ["an Demenz leidend oder verrückt und irrational erscheinend"],
+    "examples_de": [["Der **demente** alte Mann wanderte durch die Straßen und sprach mit sich selbst", "Sein **wahnsinniges** Lachen hallte durch die leeren Flure"]]
+  },
+  {
+    "lemma": "demolished",
+    "meanings_de": ["vollständig zerstört"],
+    "definitions_de": ["niedergerissen oder vollständig zerstört, zu Ruinen reduziert"],
+    "examples_de": [["Das **abgerissene** Gebäude hinterließ nur Schutt und Staub", "Arbeiter räumten die **zerstörten** Abschnitte der Autobahn weg"]]
+  },
+  {
+    "lemma": "demonic",
+    "meanings_de": ["sich auf böse Geister beziehend"],
+    "definitions_de": ["von Dämonen oder bösen Geistern stammend, ihnen ähnelnd oder für sie charakteristisch"],
+    "examples_de": [["Sein **dämonisches** Lachen erschreckte die Kinder auf der Party", "Der Film zeigte **dämonische** Besessenheit und übernatürlichen Horror"]]
+  },
+  {
+    "lemma": "demonstrable",
+    "meanings_de": ["nachweisbar"],
+    "definitions_de": ["klar ersichtlich oder fähig, demonstriert oder bewiesen zu werden"],
+    "examples_de": [["Die Medizin zeigte **nachweisbare** Vorteile in klinischen Studien", "Es gibt **beweisbare** Beweise, die Rauchen mit Lungenkrebs verbinden"]]
+  },
+  {
+    "lemma": "demonstrated",
+    "meanings_de": ["klar gezeigt oder bewiesen"],
+    "definitions_de": ["durch Beweise klar gezeigt worden, dass es existiert oder wahr ist"],
+    "examples_de": [["Ihre **bewiesene** Expertise brachte ihr schnell die Beförderung ein", "Der **nachgewiesene** Reformbedarf führte zu sofortigen Maßnahmen"]]
+  },
+  {
+    "lemma": "demonstrative",
+    "meanings_de": ["Gefühle offen zeigend", "zum Nachweis dienend"],
+    "definitions_de": ["dazu neigend, Gefühle, besonders Zuneigung, offen und uneingeschränkt zu zeigen", "als schlüssiger Beweis oder Nachweis für etwas dienend"],
+    "examples_de": [["Italienische Familien sind typischerweise **gefühlsbetonter** als britische", "Seine **demonstrative** Art machte ihn bei Kindern beliebt"], ["Das Experiment lieferte **beweiskräftige** Belege für die Theorie", "Diese **anschaulichen** Beispiele verdeutlichen das mathematische Konzept perfekt"]]
+  },
+  {
+    "lemma": "demoralised",
+    "meanings_de": ["das Selbstvertrauen verloren habend"],
+    "definitions_de": ["Selbstvertrauen, Hoffnung oder Kampfgeist aufgrund wiederholter Misserfolge verloren habend"],
+    "examples_de": [["Das **demoralisierte** Team kämpfte nach mehreren Niederlagen um Konkurrenzfähigkeit", "**Entmutigte** Arbeiter zeigten verringerte Produktivität und erhöhte Fehlzeiten"]]
+  },
+  {
+    "lemma": "demoralized",
+    "meanings_de": ["das Selbstvertrauen verloren habend"],
+    "definitions_de": ["Selbstvertrauen, Hoffnung oder Kampfgeist aufgrund wiederholter Misserfolge verloren habend"],
+    "examples_de": [["Die **demoralisierten** Soldaten zogen sich nach schweren Verlusten zurück", "Ständige Kritik ließ das Personal sich völlig **entmutigt** fühlen"]]
+  }
+]

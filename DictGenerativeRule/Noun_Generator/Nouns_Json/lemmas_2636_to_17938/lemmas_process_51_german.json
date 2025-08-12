@@ -1,0 +1,278 @@
+[
+  {
+    "lemma": "dick",
+    "meanings_de": ["Slang für Penis", "Männername"],
+    "definitions_de": ["vulgärer umgangssprachlicher Ausdruck für das männliche Geschlechtsorgan", "informelle Kurzform des männlichen Vornamens Richard"],
+    "examples_de": [["Der geschmacklose Witz mit der Anspielung machte alle unbehaglich", "Medizinisches Fachpersonal verwendet stets die korrekten anatomischen Begriffe"], ["**Dick** Tracy war eine berühmte Comic-Detektivfigur", "Mein Großvater **Dick** diente im Zweiten Weltkrieg"]]
+  },
+  {
+    "lemma": "dickey",
+    "meanings_de": ["Hemdbrust-Einsatz", "Vogelartbezeichnung"],
+    "definitions_de": ["abnehmbarer Hemdeinsatz, der als formelles Kleidungsaccessoire getragen wird", "gebräuchliche Bezeichnung für bestimmte kleine Singvögel"],
+    "examples_de": [["Der Schauspieler trug einen **Hemdbrust-Einsatz** unter seinem Smoking", "Viktorianische Herren trugen oft **Einsätze** zu formellen Anlässen"], ["Der kleine **Singvogel** sang vom Gartenzaun", "Kinder lieben es, den **Vögelchen** beim Herumhüpfen zuzusehen"]]
+  },
+  {
+    "lemma": "dickie",
+    "meanings_de": ["Hemdbrust-Einsatz", "Hecksitz im Auto"],
+    "definitions_de": ["dekorativer Einsatz, der getragen wird, um den Ausschnitt eines Kleidungsstücks zu füllen", "britischer Ausdruck für Notsitz oder ausklappbaren Rücksitz"],
+    "examples_de": [["Sie trug einen **Spitzeneinsatz** unter ihrem Blazer", "Der **Einsatz** sorgte für Wärme ohne zusätzliches Volumen"], ["Der alte Roadster hatte einen **Notsitz** hinten", "Zwei Passagiere konnten auf dem **Klappsitz** mitfahren"]]
+  },
+  {
+    "lemma": "dicky",
+    "meanings_de": ["unzuverlässig oder fehlerhaft", "Hemdbrust-Einsatz"],
+    "definitions_de": ["britischer Slang für etwas Schwaches, Unzuverlässiges oder in schlechtem Zustand", "alternative Schreibweise von dickey, ein abnehmbarer Hemdeinsatz"],
+    "examples_de": [["Mein **schwaches** Herz bedeutet, dass ich keine Marathons mehr laufen kann", "Das Auto hat ein **defektes** Getriebe, das repariert werden muss"], ["Er trug einen weißen **Hemdeinsatz** zu seiner Abendjacke", "Das Kostüm beinhaltete einen formellen **Einsatz** und eine Fliege"]]
+  },
+  {
+    "lemma": "dictate",
+    "meanings_de": ["autoritäre Anweisung", "gesprochene Aufnahme"],
+    "definitions_de": ["Befehl oder Anordnung, die ohne Widerspruch befolgt werden muss", "Worte, die laut ausgesprochen werden, damit jemand anderes sie niederschreibt"],
+    "examples_de": [["Das Unternehmen folgte den **Vorgaben** der neuen Vorschriften", "Religiöse **Gebote** leiten das tägliche Leben der Gemeinschaft"], ["Das **Diktat** des Arztes wurde von der medizinischen Sekretärin abgetippt", "Sie nahm ihr **Diktat** für die Assistentin auf"]]
+  },
+  {
+    "lemma": "dictation",
+    "meanings_de": ["Diktierprozess", "kontrollierende Befehle"],
+    "definitions_de": ["Vorgang des lauten Aussprechens von Worten, damit eine andere Person sie niederschreibt", "autoritäre Kontrolle durch das Erteilen von Befehlen, die befolgt werden müssen"],
+    "examples_de": [["Die Sekretärin nahm jeden Morgen das **Diktat** der Geschäftsführung auf", "Schüler üben **Diktate**, um ihre Hörfähigkeiten zu verbessern"], ["Die **Bevormundung** des Trainers bei jedem Spielzug frustrierte die Spieler", "Das Leben unter ständiger **Gängelung** wurde für sie unerträglich"]]
+  },
+  {
+    "lemma": "dictator",
+    "meanings_de": ["absoluter Herrscher", "herrschsüchtige Person"],
+    "definitions_de": ["politischer Führer, der ein Land mit totaler Macht und Autorität regiert", "Person, die sich autoritär verhält und Gehorsam verlangt"],
+    "examples_de": [["Der **Diktator** regierte das Land über dreißig Jahre lang", "Viele **Diktatoren** kommen in Krisenzeiten an die Macht"], ["Mein Chef ist so ein **Tyrann** bei Besprechungsabläufen", "Der Küchenchef führte die Küche wie ein **Despot**"]]
+  },
+  {
+    "lemma": "dictatorship",
+    "meanings_de": ["autoritäre Regierung", "absolute Kontrolle"],
+    "definitions_de": ["Regierungsform, bei der absolute Macht von einem Diktator oder einer kleinen Gruppe ausgeübt wird", "Zustand oder Zeitraum vollständiger Autorität und Kontrolle über andere"],
+    "examples_de": [["Das Land litt zwei Jahrzehnte unter der **Diktatur**", "Viele Bürger flohen aus der **Diktatur**, um Freiheit zu suchen"], ["Das Unternehmen funktionierte unter seinem Gründer wie eine **Diktatur**", "Sie errichtete eine **Alleinherrschaft** über die Haushaltsfinanzen"]]
+  },
+  {
+    "lemma": "diction",
+    "meanings_de": ["Wortwahl-Stil", "Sprechklarheit"],
+    "definitions_de": ["Sprech- oder Schreibstil, der durch die Wortwahl bestimmt wird", "Klarheit und Deutlichkeit der Aussprache beim Sprechen"],
+    "examples_de": [["Die **Wortwahl** des Dichters erzeugt einen formellen, erhabenen Ton", "Wissenschaftliche Arbeiten erfordern präzise **Ausdrucksweise** und klare Argumente"], ["Die perfekte **Artikulation** des Schauspielers machte jedes Wort deutlich hörbar", "Sprachtherapie verbesserte ihre **Aussprache** im Laufe der Zeit erheblich"]]
+  },
+  {
+    "lemma": "dictionary",
+    "meanings_de": ["Nachschlagewerk", "Datenstruktur"],
+    "definitions_de": ["Buch mit alphabetischer Auflistung von Wörtern mit ihren Bedeutungen und Aussprachen", "Programmierdatenstruktur, die Daten in Schlüssel-Wert-Paaren speichert"],
+    "examples_de": [["Sie schlug das unbekannte Wort im **Wörterbuch** nach", "Jedes Klassenzimmer sollte ein gutes **Wörterbuch** zur Verfügung haben"], ["Das Programm speichert Benutzereinstellungen in einem **Dictionary-Objekt**", "Python-**Dictionaries** sind äußerst nützlich für die Datenorganisation"]]
+  },
+  {
+    "lemma": "dictum",
+    "meanings_de": ["formelle Verlautbarung", "bedeutsamer Ausspruch"],
+    "definitions_de": ["formelle Verlautbarung einer autoritativen Quelle, besonders im Rechtswesen", "kurze Aussage, die eine allgemeine Wahrheit oder ein Prinzip ausdrückt"],
+    "examples_de": [["Das **Diktum** des Richters klärte den Präzedenzfall", "Das päpstliche **Diktum** behandelte Fragen der Kirchenlehre"], ["Das berühmte **Diktum** 'Erkenne dich selbst' stammt aus dem alten Griechenland", "Ihr **Leitsatz** über harte Arbeit inspirierte viele Studenten"]]
+  },
+  {
+    "lemma": "dieback",
+    "meanings_de": ["Pflanzensterben"],
+    "definitions_de": ["fortschreitendes Absterben von Trieben, Ästen oder Wurzeln, beginnend an den Spitzen"],
+    "examples_de": [["Die Ulmen zeigten Anzeichen von **Triebsterben** durch Krankheit", "Trockenstress kann **Absterben** bei Gartenpflanzen verursachen"], ["Förster überwachen das **Kiefernsterben** im Nationalpark", "Das **Baumsterben** breitete sich rasch durch den Obstgarten aus"]]
+  },
+  {
+    "lemma": "diehard",
+    "meanings_de": ["hartnäckiger Anhänger"],
+    "definitions_de": ["Person, die sich stark gegen Veränderungen wehrt oder hartnäckig an Überzeugungen oder Loyalität festhält"],
+    "examples_de": [["**Eingefleischte** Fans besuchten jedes Spiel unabhängig vom Wetter", "Sie ist eine **unverbesserliche** Konservative, die alle Reformen ablehnt"], ["Die **Hardliner** weigerten sich, das Wahlergebnis zu akzeptieren", "Nur die **Unbelehrbaren** verwenden noch diese veraltete Software"]]
+  },
+  {
+    "lemma": "diesel",
+    "meanings_de": ["Kraftstoffart", "Motortyp"],
+    "definitions_de": ["schwerer Erdölkraftstoff, der in Dieselmotoren verwendet wird", "Verbrennungsmotor, der Dieselkraftstoff verbrennt"],
+    "examples_de": [["**Diesel** kostet an den meisten Tankstellen mehr als normales Benzin", "Der Lkw fährt mit **Diesel** für bessere Kraftstoffeffizienz"], ["Der **Dieselmotor** liefert mehr Drehmoment als Benzinmotoren", "Schiffe verwenden oft große **Dieselmotoren**"]]
+  },
+  {
+    "lemma": "dietary",
+    "meanings_de": ["ernährungsbezogene Regeln"],
+    "definitions_de": ["System von Regeln oder Empfehlungen über Nahrung und Essgewohnheiten"],
+    "examples_de": [["Das Krankenhaus befolgt strenge **Ernährungsrichtlinien** für Patienten", "Viele Religionen haben spezifische **Speisevorschriften**"], ["Sie konsultierte einen **Ernährungsspezialisten** wegen ihrer Allergien", "Die **Ernährungsumstellung** verbesserte seine allgemeine Gesundheit"]]
+  },
+  {
+    "lemma": "dieter",
+    "meanings_de": ["Person auf Diät"],
+    "definitions_de": ["Person, die ihre Nahrungsaufnahme einschränkt, um Gewicht zu verlieren oder aus gesundheitlichen Gründen"],
+    "examples_de": [["Die **Diäthaltende** zählte bei jeder Mahlzeit sorgfältig Kalorien", "Selbsthilfegruppen helfen **Abnehmwilligen**, motiviert zu bleiben"], ["Erfolgreiche **Diäthaltende** konzentrieren sich auf nachhaltige Lebensstiländerungen", "Die Zeitschrift präsentierte Geschichten von ehemaligen **Abnehmenden**"]]
+  },
+  {
+    "lemma": "dieting",
+    "meanings_de": ["Diätpraxis"],
+    "definitions_de": ["Praxis, weniger Nahrung oder nur bestimmte Arten von Nahrung zu essen, um Gewicht zu verlieren"],
+    "examples_de": [["Ständiges **Diäthalten** kann zu ungesunden Essmustern führen", "Sie versuchte es mit **Diäten**, fand aber Sport effektiver"], ["Das Buch warnt vor extremen **Diätmethoden**", "Gesundes **Abnehmen** beinhaltet ausgewogene Ernährung und Portionskontrolle"]]
+  },
+  {
+    "lemma": "differential",
+    "meanings_de": ["Unterschiedsbetrag", "mechanische Komponente"],
+    "definitions_de": ["Unterschied in Menge, Grad oder Qualität zwischen vergleichbaren Dingen", "Getriebemechanismus, der es Rädern ermöglicht, sich mit unterschiedlichen Geschwindigkeiten zu drehen"],
+    "examples_de": [["Das **Lohngefälle** zwischen Managern und Arbeitern vergrößerte sich", "**Temperaturunterschiede** treiben Wetterphänomene an"], ["Das **Differentialgetriebe** des Autos braucht neues Öl", "Allradfahrzeuge haben vordere und hintere **Differentiale**"]]
+  },
+  {
+    "lemma": "differentiation",
+    "meanings_de": ["Unterscheidungsprozess", "mathematische Operation"],
+    "definitions_de": ["Prozess der Unterscheidung oder Schaffung von Unterschieden zwischen ähnlichen Dingen oder Konzepten", "mathematischer Prozess zur Bestimmung der Ableitung einer Funktion"],
+    "examples_de": [["Die **Produktdifferenzierung** hilft Unternehmen, in überfüllten Märkten zu konkurrieren", "Die **Zelldifferenzierung** erzeugt spezialisierte Gewebe in Organismen"], ["Studenten lernen die **Differentiation** in fortgeschrittenen Mathematikkursen", "Die **Ableitung** komplexer Funktionen erfordert sorgfältiges Arbeiten"]]
+  },
+  {
+    "lemma": "diffuser",
+    "meanings_de": ["Streuvorrichtung", "Aromatherapie-Gerät"],
+    "definitions_de": ["Gerät, das etwas, insbesondere Licht oder Luft, über einen weiten Bereich verteilt", "Gerät, das ätherische Öle als feinen Nebel in die Luft verteilt"],
+    "examples_de": [["Der Fotograf verwendete einen **Diffusor**, um harte Schatten zu mildern", "Der Decken**verteiler** verteilte kühle Luft im ganzen Raum"], ["Sie ließ den Lavendel**zerstäuber** laufen, um besser schlafen zu können", "Der **Duftspender** erfüllte das Spa mit beruhigenden Aromen"]]
+  },
+  {
+    "lemma": "diffusion",
+    "meanings_de": ["Ausbreitungsprozess"],
+    "definitions_de": ["Prozess, bei dem sich Moleküle oder Partikel von Bereichen hoher Konzentration zu niedriger Konzentration ausbreiten"],
+    "examples_de": [["Die **Diffusion** von Sauerstoff durch Zellmembranen erhält das Leben", "Kulturelle **Verbreitung** überträgt Ideen zwischen verschiedenen Gesellschaften"], ["Die **Parfümausbreitung** erfüllte den ganzen Raum innerhalb von Minuten", "Die **Diffusion** von Innovationen folgt vorhersehbaren Mustern"]]
+  },
+  {
+    "lemma": "digest",
+    "meanings_de": ["Zusammenfassungssammlung", "verarbeitete Information"],
+    "definitions_de": ["Sammlung von verdichtetem oder zusammengefasstem schriftlichem Material aus verschiedenen Quellen", "systematisch angeordnete Zusammenstellung von Gesetzen, Regeln oder Vorschriften"],
+    "examples_de": [["Der monatliche **Überblick** enthält alle wichtigen Firmenankündigungen", "Der **Lesezirkel** veröffentlicht gekürzte Versionen beliebter Bücher"], ["Die juristische **Zusammenfassung** fasste aktuelle Gerichtsentscheidungen zusammen", "Studenten verlassen sich vor Prüfungen auf **Lernzusammenfassungen**"]]
+  },
+  {
+    "lemma": "digestion",
+    "meanings_de": ["Verdauungsprozess"],
+    "definitions_de": ["Prozess, bei dem Nahrung in Substanzen zerlegt wird, die vom Körper aufgenommen werden können"],
+    "examples_de": [["Eine gute **Verdauung** erfordert ausreichende Wasser- und Ballaststoffzufuhr", "Stress kann Ihre **Verdauung** erheblich beeinträchtigen"], ["Die **Verdauung** von Proteinen beginnt im Magen", "Enzyme spielen eine entscheidende Rolle bei der **Verdauung**"]]
+  },
+  {
+    "lemma": "digestive",
+    "meanings_de": ["verdauungsbezogener Artikel", "süßer Keks"],
+    "definitions_de": ["bezogen auf oder förderlich für den Prozess der Nahrungsverdauung", "britischer Begriff für einen halbsüßen Weizenkeks"],
+    "examples_de": [["Der Arzt verschrieb **Verdauungsenzyme** für ihren Zustand", "Die **Verdauungsgesundheit** beeinflusst das allgemeine Wohlbefinden"], ["Tee und **Digestive-Kekse** sind der perfekte Nachmittagssnack", "Die schokoladenüberzogenen **Kekse** waren schnell ausverkauft"]]
+  },
+  {
+    "lemma": "digger",
+    "meanings_de": ["Grabarbeiter", "Grabwerkzeug"],
+    "definitions_de": ["Person, deren Arbeit das Graben beinhaltet, insbesondere im Bau oder Bergbau", "Werkzeug oder Maschine zum Graben von Löchern oder Bewegen von Erde"],
+    "examples_de": [["Die **Goldgräber** arbeiteten lange Stunden unter harten Bedingungen", "Archäologische **Ausgräber** gruben die antike Stätte sorgfältig aus"], ["Der **Erdbohrer** machte die Zauninstallation viel einfacher", "Sie mieteten einen mechanischen **Bagger** für die Fundamentarbeiten"]]
+  },
+  {
+    "lemma": "digging",
+    "meanings_de": ["Grabaktivität"],
+    "definitions_de": ["Tätigkeit des Aufbrechens und Bewegens von Erde mit Werkzeug oder Maschine"],
+    "examples_de": [["Die **Grabungen** für die neue U-Bahn-Linie störten den Verkehr", "Archäologische **Ausgrabungen** brachten antike Keramikfragmente zum Vorschein"], ["Hunde lieben das **Graben** von Löchern im Hinterhof", "Die **Grabarbeiten** gingen trotz des Regens weiter"]]
+  },
+  {
+    "lemma": "digit",
+    "meanings_de": ["einzelne Zahl", "Finger oder Zeh"],
+    "definitions_de": ["eine der Ziffern von null bis neun", "Finger oder Zeh an menschlicher Hand oder Fuß"],
+    "examples_de": [["Der Code erfordert eine sechsstellige **Zahl** für die Sicherheit", "Jede **Ziffer** in der Sequenz hat eine besondere Bedeutung"], ["Das Baby wurde mit einem zusätzlichen **Finger** an jeder Hand geboren", "Erfrierungen betrafen mehrere **Zehen** an seinem linken Fuß"]]
+  },
+  {
+    "lemma": "digitalization",
+    "meanings_de": ["digitaler Umwandlungsprozess"],
+    "definitions_de": ["Umwandlung analoger Informationen in digitale Form für Computerverarbeitung und -speicherung"],
+    "examples_de": [["Die **Digitalisierungsstrategie** des Unternehmens transformierte ihre Abläufe vollständig", "Bibliotheken unternehmen massive **Digitalisierungsprojekte**, um alte Manuskripte zu bewahren"], ["Die **Digitalisierung** im Gesundheitswesen verbessert die Patientenaktenverwaltung", "Die **Digitalisierung** von Bankdienstleistungen erhöhte den Kundenkomfort"]]
+  },
+  {
+    "lemma": "digitisation",
+    "meanings_de": ["digitaler Umwandlungsprozess"],
+    "definitions_de": ["britische Schreibweise des Prozesses zur Umwandlung analoger Daten in digitales Format"],
+    "examples_de": [["Das **Digitalisierungsprojekt** des Museums bewahrt historische Fotografien", "Staatliche **Digitalisierungsinitiativen** verbessern die öffentliche Dienstleistung"], ["Die Audio-**Digitalisierung** ermöglicht die Bewahrung alter Aufnahmen", "Der **Digitalisierungsprozess** erfordert spezialisierte Scanausrüstung"]]
+  },
+  {
+    "lemma": "digitization",
+    "meanings_de": ["digitaler Umwandlungsprozess"],
+    "definitions_de": ["amerikanische Schreibweise des Prozesses zur Umwandlung von Informationen in digitales computerlesbares Format"],
+    "examples_de": [["Die Dokument-**Digitalisierung** reduziert den physischen Speicherbedarf erheblich", "Die **Digitalisierung** von Krankenakten verbessert die Effizienz im Gesundheitswesen"], ["Die Film-**Digitalisierung** bewahrt Filme für zukünftige Generationen", "Die Zeitungs-**Digitalisierung** erleichtert die historische Forschung erheblich"]]
+  },
+  {
+    "lemma": "dignitary",
+    "meanings_de": ["wichtiger Amtsträger"],
+    "definitions_de": ["Person, die aufgrund hohen Ranges oder Amtes als wichtig angesehen wird"],
+    "examples_de": [["Ausländische **Würdenträger** nahmen an der staatlichen Trauerfeier teil", "Die Sicherheit wurde für die besuchenden **Ehrengäste** verstärkt"], ["Lokale **Honoratioren** durchschnitten das Band bei der Eröffnung", "Der **Würdenträger** hielt eine Rede bei der Abschlussfeier"]]
+  },
+  {
+    "lemma": "dike",
+    "meanings_de": ["Wasserbarriere", "geologische Formation"],
+    "definitions_de": ["Damm zum Schutz vor Überschwemmungen durch Meer oder Fluss", "Gesteinsschicht, die sich in Rissen bestehender Gesteinskörper bildet"],
+    "examples_de": [["Der **Deich** schützte das Dorf vor Sturmfluten", "Ingenieure verstärkten den **Damm** vor der Hurrikansaison"], ["Geologen untersuchten die alte vulkanische **Gangformation**", "Der Basalt**gang** durchschnitt die Kalksteinschichten"]]
+  },
+  {
+    "lemma": "dilation",
+    "meanings_de": ["Erweiterungsprozess"],
+    "definitions_de": ["Vorgang, etwas breiter, größer oder offener zu machen"],
+    "examples_de": [["Die **Pupillenerweiterung** ermöglicht Ärzten die Untersuchung der Netzhaut", "Die **Erweiterung** der Blutgefäße erhöht den Blutfluss"], ["Die **Gebärmutterhalserweiterung** erfolgt während der Geburt", "Die **Zeitdilatation** ist ein Konzept in Einsteins Relativitätstheorie"]]
+  },
+  {
+    "lemma": "dildo",
+    "meanings_de": ["Sexspielzeug"],
+    "definitions_de": ["Objekt in Form eines erigierten Penis zur sexuellen Stimulation"],
+    "examples_de": [["Fachgeschäfte für Erwachsene verkaufen verschiedene Arten von persönlichen Massagegeräten", "Das Museum zeigte antike Fruchtbarkeitsobjekte"], ["Sexualpädagogen besprechen die sichere Verwendung von persönlichen Hilfsmitteln", "Die Comedy-Show machte Witze über Erwachsenenspielzeug"]]
+  },
+  {
+    "lemma": "dilemma",
+    "meanings_de": ["schwierige Entscheidungssituation"],
+    "definitions_de": ["Situation, die eine Wahl zwischen gleichermaßen unerwünschten oder ungünstigen Optionen erfordert"],
+    "examples_de": [["Das ethische **Dilemma** beschäftigte den Arzt tagelang", "Eltern stehen vor dem **Dilemma** zwischen Arbeit und Familienzeit"], ["Das **Dilemma** des Unternehmens betraf Gewinne oder Umweltschutz", "Sie befand sich in einem **Dilemma** bezüglich der Stellenannahme"]]
+  },
+  {
+    "lemma": "diligence",
+    "meanings_de": ["beharrlicher Fleiß"],
+    "definitions_de": ["sorgfältige und beharrliche Arbeit oder Anstrengung, um etwas zu erreichen"],
+    "examples_de": [["Ihr **Fleiß** beim Lernen führte zu ausgezeichneten Noten", "**Sorgfaltspflicht** ist vor jeder größeren Investition erforderlich"], ["Die **Sorgfalt** der Forscherin deckte wichtige neue Erkenntnisse auf", "Erfolg erfordert sowohl Talent als auch **Beharrlichkeit**"]]
+  },
+  {
+    "lemma": "dill",
+    "meanings_de": ["Kräuterpflanze"],
+    "definitions_de": ["aromatisches Kraut mit federartigen Blättern zum Kochen und Einlegen"],
+    "examples_de": [["Frischer **Dill** verstärkt den Geschmack von Lachsgerichten", "Das Rezept verlangt gehackten **Dill** und Zitrone"], ["**Dillgurken** sind eine beliebte Sandwich-Beilage", "Sie züchtet **Dill** in ihrem Küchenkräutergarten"]]
+  },
+  {
+    "lemma": "dilution",
+    "meanings_de": ["Verdünnungsprozess"],
+    "definitions_de": ["Prozess, eine Flüssigkeit durch Zugabe von Wasser oder einem anderen Lösungsmittel zu schwächen"],
+    "examples_de": [["Die **Verdünnung** der Chemikalie machte sie sicher verwendbar", "Die **Verwässerung** von Aktien tritt auf, wenn Unternehmen neue Anteile ausgeben"], ["Richtige **Verdünnungsverhältnisse** gewährleisten wirksame Reinigungslösungen", "Die **Verwässerung** der Marke schädigte ihr Luxusimage"]]
+  },
+  {
+    "lemma": "dime",
+    "meanings_de": ["Zehn-Cent-Münze"],
+    "definitions_de": ["Münze der Vereinigten Staaten im Wert von zehn Cent oder einem Zehntel Dollar"],
+    "examples_de": [["Sie fand einen **Dime** unter den Sofakissen", "Die Parkuhr akzeptiert nur Vierteldollar und **Dimes**"], ["Er hatte keinen **Cent** mehr", "Der Vintage-**Dime** war mehr wert als der Nennwert"]]
+  },
+  {
+    "lemma": "dimensionality",
+    "meanings_de": ["Messungsaspekte"],
+    "definitions_de": ["Anzahl der Dimensionen oder messbaren Aspekte von etwas"],
+    "examples_de": [["Die **Dimensionalität** des Datensatzes verkomplizierte die Analyse", "Die Reduzierung der **Dimensionalität** hilft bei der Visualisierung komplexer Informationen"], ["Wissenschaftler erforschen die **Dimensionalität** der Raumzeit", "Die hohe **Dimensionalität** des Problems erfordert fortgeschrittene Mathematik"]]
+  },
+  {
+    "lemma": "diminution",
+    "meanings_de": ["Verringerungsprozess"],
+    "definitions_de": ["Verringerung der Größe, des Umfangs, der Bedeutung oder des Wertes von etwas"],
+    "examples_de": [["Die **Verringerung** des Waldes beunruhigte Umweltschützer sehr", "Das Alter brachte keine **Abnahme** ihrer geistigen Fähigkeiten"], ["Der Vertrag führte zur **Reduzierung** der Streitkräfte", "Es gab eine allmähliche **Abnahme** des öffentlichen Interesses"]]
+  },
+  {
+    "lemma": "diminutive",
+    "meanings_de": ["kleine Version", "Wortform"],
+    "definitions_de": ["extrem oder ungewöhnlich kleine Person oder Sache", "Wortform, die Kleinheit, Jugend, Zuneigung oder Verachtung ausdrückt"],
+    "examples_de": [["Die **zierliche** Frau genoss großen Respekt", "Trotz seiner **winzigen** Statur war er im Basketball hervorragend"], ["Das Spanische verwendet häufig **Verkleinerungsformen** wie 'ito' und 'ita'", "Die **Koseform** 'Hündchen' klingt freundlicher als 'Hund'"]]
+  },
+  {
+    "lemma": "dimmer",
+    "meanings_de": ["Lichtregelgerät"],
+    "definitions_de": ["Gerät zur Regelung der Helligkeit von elektrischem Licht"],
+    "examples_de": [["Der **Dimmer** schafft perfekte Stimmung beim Abendessen", "Die Installation von **Dimmern** kann den Stromverbrauch reduzieren"], ["Das **Lichtstellpult** des Theaters steuert alle Bühnenlichter", "Sie justierte den **Helligkeitsregler**, um die Bildschirmblendung zu reduzieren"]]
+  },
+  {
+    "lemma": "dimple",
+    "meanings_de": ["kleine Vertiefung"],
+    "definitions_de": ["kleine natürliche Mulde in Wange oder Kinn"],
+    "examples_de": [["Ihre **Grübchen** erscheinen, wann immer sie lächelt", "Die **Grübchen** des Babys brachten alle dazu, seine Wangen kneifen zu wollen"], ["Die **Dellen** des Golfballs verbessern seine Aerodynamik", "Eine **Delle** bildete sich dort, wo der Meteor einschlug"]]
+  },
+  {
+    "lemma": "din",
+    "meanings_de": ["lauter anhaltender Lärm"],
+    "definitions_de": ["lauter, unangenehmer und anhaltender Lärm"],
+    "examples_de": [["Der **Lärm** von der Baustelle dauerte den ganzen Tag", "Wir konnten uns kaum über den **Krach** der Maschinen unterhalten"], ["Der **Verkehrslärm** hört in der Stadt nie auf", "Die Kinder verursachten ziemlichen **Radau** auf dem Spielplatz"]]
+  },
+  {
+    "lemma": "dinar",
+    "meanings_de": ["Währungseinheit"],
+    "definitions_de": ["Grundwährungseinheit mehrerer Länder, besonders im Nahen Osten und auf dem Balkan"],
+    "examples_de": [["Der kuwaitische **Dinar** ist eine der stärksten Währungen der Welt", "Sie tauschte ihre Dollar am Flughafen in **Dinar** um"], ["Der antike Gold-**Dinar** wurde im Handel weit verbreitet verwendet", "Jordaniens Währung heißt jordanischer **Dinar**"]]
+  }
+]

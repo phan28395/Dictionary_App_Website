@@ -1,0 +1,296 @@
+[
+  {
+    "lemma": "unconstrained",
+    "meanings_de": ["nicht eingeschränkt oder begrenzt"],
+    "definitions_de": ["nicht durch Zwänge, Grenzen oder Beschränkungen in Verhalten oder Ausdruck gebunden; frei von Einschränkungen, die natürliche Entfaltung behindern würden"],
+    "examples_de": [["Der Künstler arbeitete mit **uneingeschränkter** Kreativität an seinem neuen Projekt", "Die Kinder zeigten **ungebremste** Freude bei der Überraschungsparty"]]
+  },
+  {
+    "lemma": "uncontested",
+    "meanings_de": ["nicht bestritten oder angefochten"],
+    "definitions_de": ["von niemandem bestritten, angefochten oder in Frage gestellt; ohne Widerspruch oder Opposition in Wettbewerb oder Argumentation akzeptiert"],
+    "examples_de": [["Sie gewann die **unumstrittene** Wahl ohne Gegenkandidaten", "Der Sieg der Mannschaft blieb nach ihrer dominanten Leistung **unangefochten**"]]
+  },
+  {
+    "lemma": "uncontrollable",
+    "meanings_de": ["unmöglich zu kontrollieren"],
+    "definitions_de": ["nicht fähig, durch Willen oder Anstrengung kontrolliert, zurückgehalten oder in Schach gehalten zu werden; sich jeder Beherrschung entziehend"],
+    "examples_de": [["Das Kind brach während der Vorstellung in **unkontrollierbares** Gelächter aus", "Das Waldfeuer wurde bei starkem Wind **unkontrollierbar**"]]
+  },
+  {
+    "lemma": "uncontrolled",
+    "meanings_de": ["nicht reguliert oder eingeschränkt"],
+    "definitions_de": ["nicht kontrolliert, reguliert oder eingeschränkt; ohne bewusste Steuerung oder Beschränkung ablaufend oder sich entwickelnd"],
+    "examples_de": [["Das **unkontrollierte** Wachstum von Unkraut ruinierte den Garten", "Seine **unkontrollierte** Wut verursachte Probleme am Arbeitsplatz"]]
+  },
+  {
+    "lemma": "uncontroversial",
+    "meanings_de": ["keine Meinungsverschiedenheiten verursachend"],
+    "definitions_de": ["keine öffentliche Meinungsverschiedenheit, Debatte oder Streit hervorrufend; allgemein akzeptiert und ohne Widerspruch hingenommen"],
+    "examples_de": [["Das Komitee traf eine **unumstrittene** Entscheidung über das Budget", "Ihre Ernennung war unter den Vorstandsmitgliedern **unumstritten**"]]
+  },
+  {
+    "lemma": "unconventional",
+    "meanings_de": ["nicht der Tradition folgend"],
+    "definitions_de": ["nicht auf dem basierend oder dem entsprechend, was allgemein getan oder geglaubt wird; von üblichen Praktiken und Konventionen abweichend"],
+    "examples_de": [["Sie wählte einen **unkonventionellen** Ansatz zur Lösung des Problems", "Der **unkonventionelle** Stil des Künstlers zog viele Bewunderer an"]]
+  },
+  {
+    "lemma": "unconvinced",
+    "meanings_de": ["nicht überzeugt oder zufrieden"],
+    "definitions_de": ["nicht überzeugt, etwas zu glauben; zweifelnd oder skeptisch gegenüber einer Behauptung bleibend trotz Überzeugungsversuchen"],
+    "examples_de": [["Die Geschworenen blieben von der Aussage des Angeklagten **unüberzeugt**", "Sie war **nicht überzeugt**, dass der Plan funktionieren würde"]]
+  },
+  {
+    "lemma": "unconvincing",
+    "meanings_de": ["nicht überzeugend"],
+    "definitions_de": ["nicht imstande, jemanden glauben zu machen, dass etwas wahr oder gültig ist; nicht überzeugungskräftig in Argumentation oder Darstellung"],
+    "examples_de": [["Seine Entschuldigung für die Verspätung war **wenig überzeugend**", "Der Schauspieler gab eine **unüberzeugende** Vorstellung in der Rolle"]]
+  },
+  {
+    "lemma": "uncooked",
+    "meanings_de": ["nicht zum Essen erhitzt"],
+    "definitions_de": ["nicht gekocht; in rohem Zustand ohne Erhitzung oder Zubereitung belassen für den Verzehr"],
+    "examples_de": [["Das Sushi enthält **rohen** Fisch und Gemüse", "Der Verzehr von **ungekochtem** Fleisch kann gesundheitsgefährdend sein"]]
+  },
+  {
+    "lemma": "uncooperative",
+    "meanings_de": ["nicht hilfsbereit"],
+    "definitions_de": ["nicht bereit, anderen zu helfen oder das zu tun, was sie verlangen; nicht kooperativ zusammenarbeitend"],
+    "examples_de": [["Der Zeuge war während der polizeilichen Ermittlung **unkooperativ**", "Ihre **unkooperative** Haltung erschwerte das Projekt erheblich"]]
+  },
+  {
+    "lemma": "uncoordinated",
+    "meanings_de": ["körperlich ungeschickt", "nicht gemeinsam organisiert"],
+    "definitions_de": ["die Fähigkeit fehlend, verschiedene Körperteile glatt und effizient zusammen zu bewegen; motorisch unbeholfen", "nicht organisiert oder arrangiert, um effektiv als einheitliches System zusammenzuarbeiten"],
+    "examples_de": [["Die **unkoordinierten** Bewegungen des Welpen brachten alle zum Lachen", "Seine **unbeholfenen** Tanzversuche waren liebenswert"], ["Die Rettungsaktion war zwischen den verschiedenen Behörden **unkoordiniert**", "Ihre **unabgestimmten** Marketingkampagnen verwirrten die Kunden"]]
+  },
+  {
+    "lemma": "uncorrelated",
+    "meanings_de": ["ohne statistische Beziehung"],
+    "definitions_de": ["keine Korrelation oder statistische Beziehung zwischen zwei oder mehr Variablen oder Datensätzen aufweisend"],
+    "examples_de": [["Die Studie fand heraus, dass Glück und Reichtum **unkorreliert** waren", "Diese beiden Markttrends scheinen völlig **unkorreliert** zu sein"]]
+  },
+  {
+    "lemma": "uncouth",
+    "meanings_de": ["ohne verfeinerte Manieren"],
+    "definitions_de": ["gute Manieren, Verfeinerung oder Anmut vermissen lassend; unbeholfen und unkultiviert in Erscheinung oder Verhalten"],
+    "examples_de": [["Sein **unghobeltes** Benehmen beim Abendessen brachte seine Begleitung in Verlegenheit", "Die Touristen machten **taktlose** Bemerkungen über lokale Bräuche"]]
+  },
+  {
+    "lemma": "uncovered",
+    "meanings_de": ["nicht bedeckt oder geschützt", "entdeckt oder enthüllt"],
+    "definitions_de": ["nicht von Kleidung, einem Dach oder einer anderen Bedeckung verhüllt; der Sicht ausgesetzt", "entdeckt oder enthüllt nach dem Verborgen- oder Unbekanntsein; ans Licht gebracht"],
+    "examples_de": [["Sie ließ das Essen **unbedeckt** auf der Theke stehen", "Der **unbedeckte** Pool sammelte den ganzen Herbst über Blätter"], ["Die Untersuchung deckte Beweise für Betrug **auf**", "Archäologen legten antike Ruinen unter der Stadt **frei**"]]
+  },
+  {
+    "lemma": "uncritical",
+    "meanings_de": ["ohne Urteil akzeptierend"],
+    "definitions_de": ["keine Kritik oder sorgfältiges Urteil äußernd; ohne Analyse oder skeptische Bewertung akzeptierend"],
+    "examples_de": [["Die Zeitung berichtete **unkritisch** über den Politiker", "Ihre **unkritische** Akzeptanz der Theorie erwies sich als problematisch"]]
+  },
+  {
+    "lemma": "uncultivated",
+    "meanings_de": ["nicht bebaut oder entwickelt", "ohne Verfeinerung"],
+    "definitions_de": ["nicht vorbereitet und für den Anbau von Feldfrüchten genutzt; in natürlichem wildem Zustand belassen", "Bildung, Kultur oder Verfeinerung in Verhalten und Geschmack vermissen lassend; ungeschliffen"],
+    "examples_de": [["Das **unkultivierte** Land war mit wilden Gräsern bedeckt", "Sie kauften **unbebautes** Land, um ihre Farm zu errichten"], ["Seine **unkultivierten** Manieren schockierten die Dinnergesellschaft", "Sie hatte natürliches Talent, aber einen **ungeschliffenen** künstlerischen Sinn"]]
+  },
+  {
+    "lemma": "uncut",
+    "meanings_de": ["nicht geschnitten oder gestutzt", "vollständig ohne Bearbeitung"],
+    "definitions_de": ["nicht mit einer Klinge oder einem Werkzeug geschnitten; in seiner ganzen ursprünglichen Form belassen", "nicht gekürzt oder bearbeitet; in vollständiger Originalversion ohne Zensur präsentiert"],
+    "examples_de": [["Der Juwelier zeigte ihnen **ungeschliffene** Diamanten aus der Mine", "Das Gras blieb den ganzen Sommer über **ungemäht**"], ["Der Regisseur veröffentlichte eine **ungekürzte** Version des Films", "Sie veröffentlichten das **ungekürzte** Interview-Transkript online"]]
+  },
+  {
+    "lemma": "undamaged",
+    "meanings_de": ["nicht beschädigt oder zerbrochen"],
+    "definitions_de": ["nicht beschädigt oder verletzt; in perfektem Zustand ohne jeglichen Schaden verbleibend trotz möglicher Gefährdung"],
+    "examples_de": [["Das Paket kam trotz grober Behandlung völlig **unbeschädigt** an", "Das Auto blieb nach dem kleinen Unfall **unbeschädigt**"]]
+  },
+  {
+    "lemma": "undated",
+    "meanings_de": ["ohne Datum"],
+    "definitions_de": ["kein Datum darauf geschrieben oder gedruckt habend; ohne chronologische Identifikation, wodurch zeitliche Einordnung erschwert wird"],
+    "examples_de": [["Sie fand einen **undatierten** Brief auf dem Dachboden", "Das **undatierte** Foto könnte aus jedem Jahrzehnt stammen"]]
+  },
+  {
+    "lemma": "undaunted",
+    "meanings_de": ["nicht durch Schwierigkeiten entmutigt"],
+    "definitions_de": ["nicht eingeschüchtert oder entmutigt durch Schwierigkeit, Gefahr oder Enttäuschung; mutig entschlossen trotz Hindernissen"],
+    "examples_de": [["Sie blieb **unerschrocken** angesichts des herausfordernden Aufstiegs", "Das Team war nach dem frühen Rückschlag **unbeeindruckt**"]]
+  },
+  {
+    "lemma": "undecided",
+    "meanings_de": ["keine Entscheidung getroffen", "noch nicht geklärt"],
+    "definitions_de": ["keine Entscheidung getroffen habend; unfähig, sich über etwas zu entscheiden oder festzulegen", "noch nicht geklärt oder gelöst; noch offen für verschiedene Ergebnisse oder Möglichkeiten"],
+    "examples_de": [["Viele Wähler sind bezüglich der Kandidaten noch **unentschlossen**", "Sie ist **unentschieden** zwischen einem Medizin- oder Jurastudium"], ["Der Ausgang des Spiels ist immer noch **unentschieden**", "Der Gerichtsfall bleibt nach Monaten **ungeklärt**"]]
+  },
+  {
+    "lemma": "undeclared",
+    "meanings_de": ["nicht offiziell angekündigt", "nicht den Behörden gemeldet"],
+    "definitions_de": ["nicht öffentlich angekündigt, zugegeben oder offiziell bekannt gemacht; geheim gehalten aus verschiedenen Gründen", "nicht beim Zoll oder den Steuerbehörden deklariert, wie gesetzlich oder regulatorisch vorgeschrieben"],
+    "examples_de": [["Das Land führte jahrelang einen **unerklärten** Krieg", "Sie hegte **uneingestandene** Gefühle für ihren Kollegen"], ["Reisende wurden für **nicht deklarierte** Waren am Zoll mit Geldstrafen belegt", "Das Unternehmen verbarg **unversteuerte** Einnahmen vor den Prüfern"]]
+  },
+  {
+    "lemma": "undecorated",
+    "meanings_de": ["schlicht ohne Verzierung"],
+    "definitions_de": ["nicht dekoriert; schlicht und einfach ohne ornamentale Zusätze oder Verschönerungen gehalten"],
+    "examples_de": [["Die **schmucklosen** Wände des Raumes verliehen ihm ein minimalistisches Gefühl", "Sie bevorzugte **unverzierte** Keramik gegenüber bemalten Stücken"]]
+  },
+  {
+    "lemma": "undefeated",
+    "meanings_de": ["nie verloren habend"],
+    "definitions_de": ["in keinem Wettkampf oder Kampf besiegt; eine Bilanz nur von Siegen aufweisend ohne Niederlage"],
+    "examples_de": [["Das Team beendete die Saison völlig **unbesiegt**", "Die Boxerin blieb während ihrer gesamten Karriere **ungeschlagen**"]]
+  },
+  {
+    "lemma": "undefended",
+    "meanings_de": ["nicht beschützt oder bewacht"],
+    "definitions_de": ["nicht gegen Angriff verteidigt oder geschützt; verwundbar gelassen ohne Wachen oder Barrieren"],
+    "examples_de": [["Die **unbewachte** Grenze war leicht illegal zu überqueren", "Ihr **unverteidigtes** Tor ermöglichte dem Gegner ein Tor"]]
+  },
+  {
+    "lemma": "undefined",
+    "meanings_de": ["nicht klar beschrieben", "ohne präzise Grenzen"],
+    "definitions_de": ["nicht klar oder präzise beschrieben, dargelegt oder erklärt; vage in der Bedeutung", "klare oder präzise Grenzen, Limits oder Unterscheidungen vermissen lassend; unbestimmt im Umfang"],
+    "examples_de": [["Die Projektziele blieben **undefiniert** und verwirrend", "Ihre Rolle im Unternehmen war weitgehend **unklar**"], ["Die Grenze zwischen den Ländern ist immer noch **undefiniert**", "Das Gemälde hatte **verschwommene** Ränder, die ineinander übergingen"]]
+  },
+  {
+    "lemma": "undemocratic",
+    "meanings_de": ["nicht demokratischen Prinzipien folgend"],
+    "definitions_de": ["nicht mit Demokratie oder ihren Prinzipien von Gleichheit und fairer Repräsentation verbunden oder diese unterstützend"],
+    "examples_de": [["Die **undemokratische** Entscheidung des Komitees verärgerte viele Mitglieder", "Kritiker nannten die neuen Wahlregeln **undemokratisch**"]]
+  },
+  {
+    "lemma": "undeniable",
+    "meanings_de": ["nicht zu leugnen"],
+    "definitions_de": ["unfähig geleugnet oder bestritten zu werden; klar wahr und unmöglich zu widersprechen aufgrund der Beweislage"],
+    "examples_de": [["Die Beweise für den Klimawandel sind jetzt **unleugbar**", "Ihr Talent als Musikerin war absolut **unbestreitbar**"]]
+  },
+  {
+    "lemma": "underage",
+    "meanings_de": ["unter dem gesetzlichen Alter"],
+    "definitions_de": ["unter dem gesetzlich vorgeschriebenen Alter für eine bestimmte Tätigkeit oder Verantwortung"],
+    "examples_de": [["Die Bar verweigerte **minderjährigen** Kunden den Eintritt", "Die Polizei erwischte mehrere **minderjährige** Fahrer ohne Führerschein"]]
+  },
+  {
+    "lemma": "underarm",
+    "meanings_de": ["die Achselhöhle betreffend", "von unterhalb der Schulter geworfen"],
+    "definitions_de": ["sich auf den Bereich unter dem Arm beziehend oder dort befindlich, wo er sich mit dem Körper verbindet", "mit der Hand unterhalb der Schulterhöhe geworfen oder gerollt im Sport"],
+    "examples_de": [["Sie trug **Achsel**deodorant auf, bevor sie das Haus verließ", "Der Arzt untersuchte die **achselständigen** Lymphknoten"], ["Das Kind warf einen **Unterhandwurf** beim Softball", "**Unterhandwerfen** wurde bei Cricket-Spielen verboten"]]
+  },
+  {
+    "lemma": "undercover",
+    "meanings_de": ["verdeckt arbeitend"],
+    "definitions_de": ["heimlich mit einer getarnten Identität arbeitend, besonders für polizeiliche Ermittlungszwecke"],
+    "examples_de": [["Der **verdeckte** Ermittler infiltrierte die kriminelle Organisation", "Sie arbeitete monatelang **undercover** und sammelte Beweise"]]
+  },
+  {
+    "lemma": "underdeveloped",
+    "meanings_de": ["nicht vollständig entwickelt", "wirtschaftlich rückständig"],
+    "definitions_de": ["nicht vollständig gewachsen oder entwickelt; unreif oder unzureichend körperlich ausgebildet", "ein niedriges Niveau wirtschaftlicher Entwicklung und Industrialisierung im Vergleich zu anderen Regionen aufweisend"],
+    "examples_de": [["Das Röntgenbild zeigte **unterentwickelte** Knochen beim Kind", "Seine **unterentwickelten** Muskeln benötigten Physiotherapie"], ["Viele **unterentwickelte** Nationen kämpfen mit Armut", "Die **unterentwickelte** Region verfügte über keine grundlegende Infrastruktur"]]
+  },
+  {
+    "lemma": "underground",
+    "meanings_de": ["unter der Erde", "geheim und inoffiziell"],
+    "definitions_de": ["gelegen, stattfindend oder betrieben unterhalb der Erdoberfläche", "im Geheimen operierend, besonders als Alternative zu offiziellen oder Mainstream-Aktivitäten"],
+    "examples_de": [["Die Stadt baute eine **unterirdische** Parkgarage", "Bergleute arbeiten unter gefährlichen **unterirdischen** Bedingungen"], ["Die **Untergrund**widerstandsbewegung kämpfte gegen das Regime", "**Underground**künstler schufen Werke außerhalb der etablierten Galerien"]]
+  },
+  {
+    "lemma": "underhand",
+    "meanings_de": ["unehrlich handelnd"],
+    "definitions_de": ["auf geheime oder unehrliche Weise handelnd oder getan; unfaire Methoden verwendend"],
+    "examples_de": [["Seine **hinterhältigen** Taktiken, den Vertrag zu gewinnen, verärgerten die Konkurrenten", "Sie entdeckten **zwielichtige** Geschäfte in der Firmenbuchhaltung"]]
+  },
+  {
+    "lemma": "underhanded",
+    "meanings_de": ["heimlich und unehrlich"],
+    "definitions_de": ["auf heimliche und unehrliche Weise getan; betrügerisch und nicht geradlinig in der Vorgehensweise"],
+    "examples_de": [["Der Politiker benutzte **hinterhältige** Methoden, um Gegner zu diskreditieren", "Ihr **hinterhältiger** Plan kam schließlich ans Licht"]]
+  },
+  {
+    "lemma": "underprivileged",
+    "meanings_de": ["grundlegende Vorteile vermissend"],
+    "definitions_de": ["nicht denselben Lebensstandard oder dieselben Rechte wie die Mehrheit genießend aufgrund von Armut"],
+    "examples_de": [["Die Wohltätigkeitsorganisation bietet Bildung für **benachteiligte** Kinder", "**Unterprivilegierte** Gemeinden haben oft keinen Zugang zur Gesundheitsversorgung"]]
+  },
+  {
+    "lemma": "undersea",
+    "meanings_de": ["unter der Meeresoberfläche"],
+    "definitions_de": ["gelegen, stattfindend oder verwendet unterhalb der Oberfläche des Meeres oder Ozeans"],
+    "examples_de": [["Wissenschaftler entdeckten neue **unterseeische** vulkanische Aktivität", "Das **Unterseekabel** überträgt Internetdaten zwischen Kontinenten"]]
+  },
+  {
+    "lemma": "undersized",
+    "meanings_de": ["kleiner als normal"],
+    "definitions_de": ["kleiner als die übliche, standardmäßige oder erwartete Größe für etwas"],
+    "examples_de": [["Die **zu kleine** Wohnung konnte kaum ihre Möbel aufnehmen", "**Untermaßige** Fische müssen ins Wasser zurückgeworfen werden"]]
+  },
+  {
+    "lemma": "understaffed",
+    "meanings_de": ["zu wenige Angestellte habend"],
+    "definitions_de": ["weniger Personal habend als notwendig, um effektiv zu arbeiten oder die Nachfrage zu erfüllen"],
+    "examples_de": [["Das **unterbesetzte** Krankenhaus kämpfte während des Notfalls", "Viele Restaurants sind **personell unterbesetzt** und der Service leidet"]]
+  },
+  {
+    "lemma": "understandable",
+    "meanings_de": ["verstehbar", "nachvollziehbar"],
+    "definitions_de": ["fähig verstanden zu werden; klar genug in der Bedeutung, um leicht zu begreifen", "natürlich, vernünftig oder verzeihlich unter den Umständen; leicht nachzuempfinden"],
+    "examples_de": [["Die Anweisungen waren klar und leicht **verständlich**", "Sie sprach in einfacher, **verständlicher** Sprache"], ["Ihre Wut über die Situation ist völlig **nachvollziehbar**", "Es ist **verständlich**, dass er Zeit zum Trauern braucht"]]
+  },
+  {
+    "lemma": "understated",
+    "meanings_de": ["ohne Betonung präsentiert"],
+    "definitions_de": ["auf subtile und wirkungsvolle Weise präsentiert oder ausgedrückt ohne Prunk oder Übertreibung"],
+    "examples_de": [["Ihre **dezente** Eleganz beeindruckte alle bei der Gala", "Das **zurückhaltende** Dekor des Raumes schuf eine beruhigende Atmosphäre"]]
+  },
+  {
+    "lemma": "understood",
+    "meanings_de": ["begriffen oder erfasst", "stillschweigend vereinbart"],
+    "definitions_de": ["die Bedeutung wahrgenommen; mental begriffen oder erfasst, was kommuniziert wurde", "vereinbart oder akzeptiert ohne offen ausgedrückt zu werden; impliziert oder angenommen"],
+    "examples_de": [["Die komplexe Theorie wurde endlich von den Studenten **verstanden**", "Sie **verstand** die Anweisungen nach sorgfältigem Lesen"], ["Es gab eine **stillschweigende** Übereinkunft zwischen alten Freunden", "Die **unausgesprochenen** Verhaltensregeln hielten Ordnung"]]
+  },
+  {
+    "lemma": "underwater",
+    "meanings_de": ["unter der Wasseroberfläche", "finanziell in Schwierigkeiten"],
+    "definitions_de": ["gelegen, stattfindend oder getan unter der Wasseroberfläche", "negatives Eigenkapital habend; mehr auf etwas schuldend als sein aktueller Marktwert"],
+    "examples_de": [["Taucher erkundeten das **Unterwasser**höhlensystem vorsichtig", "Die **Unterwasser**kamera fing erstaunliches Meeresleben ein"], ["Viele Hausbesitzer fanden sich nach dem Crash finanziell **unter Wasser**", "Das Geschäft ist mit steigenden Schulden **unter Wasser**"]]
+  },
+  {
+    "lemma": "underway",
+    "meanings_de": ["begonnen habend"],
+    "definitions_de": ["begonnen habend und derzeit im Gange; jetzt geschehend oder getan werdend"],
+    "examples_de": [["Der Bau der neuen Brücke ist bereits **im Gange**", "Die Pläne für das Festival sind gut **vorangekommen**"]]
+  },
+  {
+    "lemma": "underweight",
+    "meanings_de": ["unter gesundem Gewicht"],
+    "definitions_de": ["weniger wiegend als normal, gesund oder erforderlich für das Alter und die Größe"],
+    "examples_de": [["Der Arzt sagte, das Kind sei leicht **untergewichtig**", "**Untergewichtige** Models riskieren Gesundheitsprobleme durch extremes Diäten"]]
+  },
+  {
+    "lemma": "undesirable",
+    "meanings_de": ["nicht erwünscht oder angenehm"],
+    "definitions_de": ["nicht erwünscht oder gewünscht; wahrscheinlich Schaden verursachend oder schlechte Auswirkungen habend"],
+    "examples_de": [["Das Medikament hatte **unerwünschte** Nebenwirkungen für Patienten", "Sie entfernten **unerwünschte** Elemente aus der Nachbarschaft"]]
+  },
+  {
+    "lemma": "undesired",
+    "meanings_de": ["nicht gewollt oder gewünscht"],
+    "definitions_de": ["nicht gewollt oder gewünscht; geschehend ohne beabsichtigt oder gesucht zu sein"],
+    "examples_de": [["Das Experiment produzierte **unerwünschte** Ergebnisse, die eine Überarbeitung erforderten", "Seine **unerwünschten** Annäherungsversuche machten sie unbehaglich"]]
+  },
+  {
+    "lemma": "undetectable",
+    "meanings_de": ["unmöglich zu entdecken"],
+    "definitions_de": ["nicht fähig entdeckt oder bemerkt zu werden; unmöglich mit verfügbaren Methoden zu detektieren"],
+    "examples_de": [["Das Virus blieb in frühen Bluttests **nicht nachweisbar**", "Moderne Tarnkappenflugzeuge sind vom Radar fast **nicht erfassbar**"]]
+  },
+  {
+    "lemma": "undetected",
+    "meanings_de": ["nicht entdeckt oder bemerkt"],
+    "definitions_de": ["nicht entdeckt oder bemerkt; der Beobachtung oder Identifikation entgangen trotz des Vorhandenseins"],
+    "examples_de": [["Der Fehler blieb mehrere Monate lang **unentdeckt**", "Der Spion blieb während der gesamten Mission **unbemerkt**"]]
+  }
+]

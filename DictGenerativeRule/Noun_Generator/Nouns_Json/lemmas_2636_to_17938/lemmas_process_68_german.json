@@ -1,0 +1,284 @@
+[
+  {
+    "lemma": "exercising",
+    "meanings_de": ["körperliche Betätigung"],
+    "definitions_de": ["regelmäßige körperliche oder geistige Aktivität zur Erhaltung oder Verbesserung der Gesundheit und Fitness"],
+    "examples_de": [["Regelmäßiges **Trainieren** hilft, die Herz-Kreislauf-Gesundheit zu erhalten", "Sie verbringt täglich eine Stunde mit **Sport** im Fitnessstudio"]]
+  },
+  {
+    "lemma": "exertion",
+    "meanings_de": ["körperliche Anstrengung"],
+    "definitions_de": ["körperliche oder geistige Kraft, die aufgewendet wird, um etwas Schwieriges oder Ermüdendes zu tun"],
+    "examples_de": [["Die **Anstrengung** beim Klettern ließ ihn außer Atem kommen", "Geistige **Anstrengung** während der Prüfungen kann erschöpfend sein"]]
+  },
+  {
+    "lemma": "exhalation",
+    "meanings_de": ["Ausatmung"],
+    "definitions_de": ["das Ausstoßen von Luft aus den Lungen durch Nase oder Mund"],
+    "examples_de": [["Tiefes **Ausatmen** hilft, Stress und Angst zu reduzieren", "Der Arzt hörte ihre **Ausatmung** durch das Stethoskop ab"]]
+  },
+  {
+    "lemma": "exhaust",
+    "meanings_de": ["Abgasanlage", "vollständige Erschöpfung"],
+    "definitions_de": ["System, das Abgase aus einem Motor oder Gebäude ableitet", "Zustand der vollständigen Verausgabung oder des Energiemangels"],
+    "examples_de": [["Das **Auspuffrohr** des Autos muss sofort ersetzt werden", "Rauch quoll aus der **Abgasanlage** der Fabrik"], ["Die Überstunden führten zu völliger körperlicher **Erschöpfung**", "Das Team spielte bis zur totalen **Erschöpfung**"]]
+  },
+  {
+    "lemma": "exhaustion",
+    "meanings_de": ["extreme Müdigkeit"],
+    "definitions_de": ["Zustand extremer körperlicher oder geistiger Ermüdung infolge übermäßiger Anstrengung"],
+    "examples_de": [["**Hitzeerschöpfung** betraf gestern mehrere Marathonläufer", "Geistige **Erschöpfung** vom Lernen erfordert angemessene Ruhe"]]
+  },
+  {
+    "lemma": "exhibitor",
+    "meanings_de": ["Aussteller"],
+    "definitions_de": ["Person oder Unternehmen, die bzw. das Produkte oder Dienstleistungen auf einer Messe oder Ausstellung präsentiert"],
+    "examples_de": [["Jeder **Aussteller** erhielt einen Stand auf der Messe", "Der Kunst**aussteller** präsentierte Gemälde lokaler Künstler"]]
+  },
+  {
+    "lemma": "exhortation",
+    "meanings_de": ["eindringliche Ermahnung"],
+    "definitions_de": ["nachdrückliche Aufforderung oder eindringlicher Appell an jemanden, etwas durch Rede oder Schrift zu tun"],
+    "examples_de": [["Die **Ermahnung** des Trainers motivierte das Team zum Sieg", "Ihre **Aufforderung** zur Wahl erreichte Tausende von Bürgern"]]
+  },
+  {
+    "lemma": "exile",
+    "meanings_de": ["erzwungene Verbannung", "verbannte Person"],
+    "definitions_de": ["Zustand des Ausschlusses aus dem Heimatland, typischerweise aus politischen Gründen", "Person, die fern ihrer Heimat lebt, entweder freiwillig oder gezwungenermaßen"],
+    "examples_de": [["Das politische **Exil** dauerte zwanzig Jahre bis zu seiner Rückkehr", "Viele Schriftsteller schufen große Werke während ihres **Exils**"], ["Der **Exilant** schrieb Memoiren über seine Heimaterfahrungen", "Politische **Exilanten** versammelten sich regelmäßig im Nachbarland"]]
+  },
+  {
+    "lemma": "existentialism",
+    "meanings_de": ["philosophische Bewegung"],
+    "definitions_de": ["philosophische Theorie, die individuelle Existenz, Freiheit und Wahl als grundlegend für die menschliche Erfahrung betont"],
+    "examples_de": [["Der **Existentialismus** beeinflusste die Literatur und Kunst des zwanzigsten Jahrhunderts tiefgreifend", "Sie studierte den **Existentialismus** durch Sartres philosophische Werke"]]
+  },
+  {
+    "lemma": "exoneration",
+    "meanings_de": ["Entlastung von Schuld"],
+    "definitions_de": ["offizielle Freisprechung von Schuld oder Fehlverhalten, insbesondere durch Beweise, die die Unschuld belegen"],
+    "examples_de": [["DNA-Beweise führten nach Jahren zu seiner vollständigen **Entlastung**", "Die **Rehabilitierung** durch das Komitee klärte ihren beruflichen Ruf vollständig"]]
+  },
+  {
+    "lemma": "exoplanet",
+    "meanings_de": ["Planet außerhalb Sonnensystem"],
+    "definitions_de": ["Planet, der einen Stern außerhalb unseres Sonnensystems im fernen Weltraum umkreist"],
+    "examples_de": [["Wissenschaftler entdeckten letzten Monat einen möglicherweise bewohnbaren **Exoplaneten**", "Das Teleskop kann **Exoplaneten** aufspüren, die ferne Sterne umkreisen"]]
+  },
+  {
+    "lemma": "exorcism",
+    "meanings_de": ["Teufelsaustreibung"],
+    "definitions_de": ["religiöse oder spirituelle Praxis der Vertreibung von Dämonen oder bösen Geistern aus einer Person oder einem Ort"],
+    "examples_de": [["Der Priester führte einen **Exorzismus** im verwunschenen Haus durch", "Alte Kulturen praktizierten **Teufelsaustreibungen** mit verschiedenen rituellen Methoden"]]
+  },
+  {
+    "lemma": "exorcist",
+    "meanings_de": ["Teufelsaustreiber"],
+    "definitions_de": ["Person, die religiöse Zeremonien durchführt, um böse Geister aus Menschen oder Orten zu vertreiben"],
+    "examples_de": [["Der **Exorzist** kam mit Weihwasser und Gebeten", "Nur ausgebildete **Exorzisten** dürfen das heilige Ritual durchführen"]]
+  },
+  {
+    "lemma": "exoskeleton",
+    "meanings_de": ["äußere Körperpanzerung", "robotisches Stützgestell"],
+    "definitions_de": ["starre äußere Hülle, die bestimmten Tieren wie Insekten und Krebstieren Schutz und Halt bietet", "tragbare mobile Maschine mit Motorantrieb, die menschlichen Gliedmaßen Unterstützung und Kraft verleiht"],
+    "examples_de": [["Das **Außenskelett** des Krebses schützt seine weichen inneren Organe", "Insekten häuten ihr **Exoskelett**, wenn sie größer werden"], ["Medizinische **Exoskelette** helfen gelähmten Patienten wieder erfolgreich zu gehen", "Arbeiter nutzen **Exoskelette**, um schwere Gegenstände sicher zu heben"]]
+  },
+  {
+    "lemma": "expanse",
+    "meanings_de": ["weite offene Fläche"],
+    "definitions_de": ["weites zusammenhängendes Gebiet von etwas, insbesondere Land, Himmel oder Wasser"],
+    "examples_de": [["Die gewaltige **Weite** der Wüste erstreckte sich meilenweit", "Sterne füllten die nächtliche **Weite** über den Bergen"]]
+  },
+  {
+    "lemma": "expansionism",
+    "meanings_de": ["Expansionspolitik"],
+    "definitions_de": ["Politik der territorialen oder wirtschaftlichen Expansion, die von einer Nation oder einem Imperium praktiziert wird"],
+    "examples_de": [["Der **Expansionismus** des neunzehnten Jahrhunderts prägte viele moderne Landesgrenzen", "Wirtschaftlicher **Expansionismus** treibt manche Konzerne in neue Märkte"]]
+  },
+  {
+    "lemma": "expat",
+    "meanings_de": ["im Ausland lebende Person"],
+    "definitions_de": ["Person, die außerhalb ihres Heimatlandes lebt, entweder vorübergehend oder dauerhaft"],
+    "examples_de": [["Die **Expat**-Community trifft sich monatlich zu gesellschaftlichen Veranstaltungen", "Viele **Expats** arbeiten im internationalen Geschäft oder Bildungswesen"]]
+  },
+  {
+    "lemma": "expatriate",
+    "meanings_de": ["Auslandsansässiger"],
+    "definitions_de": ["Person, die außerhalb ihres Heimatlandes lebt, besonders für längere Zeiträume, oft aus beruflichen Gründen"],
+    "examples_de": [["Der **Auslandsansässige** gewöhnte sich schnell an das Leben in Japan", "Viele **Expatriates** pflegen starke Bindungen zu ihrer Heimat"]]
+  },
+  {
+    "lemma": "expectancy",
+    "meanings_de": ["erwartungsvolle Haltung"],
+    "definitions_de": ["Zustand des Denkens oder Hoffens, dass etwas, besonders etwas Angenehmes, geschehen wird"],
+    "examples_de": [["Die **Lebenserwartung** ist in den letzten Jahrzehnten dramatisch gestiegen", "Die Menge wartete mit gespannter **Erwartung** auf die Ergebnisse"]]
+  },
+  {
+    "lemma": "expediency",
+    "meanings_de": ["zweckmäßige Praktikabilität"],
+    "definitions_de": ["Eigenschaft, bequem und praktisch zu sein, obwohl möglicherweise unpassend oder unmoralisch"],
+    "examples_de": [["Politische **Zweckmäßigkeit** setzt sich bei Entscheidungen oft über ethische Überlegungen hinweg", "Sie wählten **Zweckmäßigkeit** statt Gründlichkeit, um Fristen einzuhalten"]]
+  },
+  {
+    "lemma": "expedition",
+    "meanings_de": ["organisierte Forschungsreise"],
+    "definitions_de": ["Reise oder Fahrt, die von einer Gruppe mit einem bestimmten Zweck unternommen wird, insbesondere zur Erforschung oder Forschung"],
+    "examples_de": [["Die Arktis**expedition** dauerte insgesamt sechs Monate", "Wissenschaftler planten eine **Expedition** zur Erforschung des Meereslebens"]]
+  },
+  {
+    "lemma": "expenditure",
+    "meanings_de": ["ausgegebener Geldbetrag"],
+    "definitions_de": ["Handlung des Ausgebens von Mitteln oder der Geldbetrag, der für etwas ausgegeben wird"],
+    "examples_de": [["Die Regierungs**ausgaben** für das Gesundheitswesen stiegen dieses Jahr erheblich", "Das Unternehmen prüfte seine jährlichen **Ausgaben**berichte sorgfältig"]]
+  },
+  {
+    "lemma": "experimentation",
+    "meanings_de": ["Versuchsdurchführung"],
+    "definitions_de": ["Prozess der Durchführung wissenschaftlicher Verfahren zur Entdeckung von etwas oder zur Überprüfung einer Hypothese"],
+    "examples_de": [["Medizinische **Experimente** erfordern strenge ethische Richtlinien und Aufsicht", "Jahre der **Versuchsreihen** führten zur bahnbrechenden Entdeckung"]]
+  },
+  {
+    "lemma": "experimenter",
+    "meanings_de": ["Versuchsdurchführender"],
+    "definitions_de": ["Person, die wissenschaftliche Experimente oder Tests durchführt, um etwas zu entdecken oder zu beweisen"],
+    "examples_de": [["Der **Experimentator** hielt alle Beobachtungen in detaillierten Notizen fest", "Jeder **Versuchsleiter** befolgte dasselbe Protokoll für Konsistenz"]]
+  },
+  {
+    "lemma": "expiration",
+    "meanings_de": ["Ablaufdatum", "Ausatmungsvorgang"],
+    "definitions_de": ["Beendigung der Gültigkeitsdauer, insbesondere für Dokumente, Lizenzen oder verderbliche Waren", "Vorgang des Ausatmens oder die Abgabe von Atem aus den Lungen"],
+    "examples_de": [["Prüfen Sie das **Verfallsdatum**, bevor Sie Medikamente einnehmen", "Der **Ablauf** ihres Reisepasses verhinderte internationale Reisepläne"], ["Der Arzt überwachte sowohl Einatmungs- als auch **Ausatmungsraten**", "Forcierte **Exspiration** hilft, die Atemwege bei Atemtests zu reinigen"]]
+  },
+  {
+    "lemma": "expiry",
+    "meanings_de": ["Ablauftermin"],
+    "definitions_de": ["Ende des Zeitraums, für den etwas gültig oder aktiv ist"],
+    "examples_de": [["Das **Ablaufdatum** der Kreditkarte ist auf der Vorderseite aufgedruckt", "Verhandlungen zum **Vertragsablauf** beginnen drei Monate im Voraus"]]
+  },
+  {
+    "lemma": "expletive",
+    "meanings_de": ["Kraftausdruck"],
+    "definitions_de": ["Schimpfwort oder obszöner Ausdruck, der typischerweise verwendet wird, um starke Emotionen auszudrücken"],
+    "examples_de": [["Er murmelte einen **Fluch**, als er sich den Zeh stieß", "Der Film enthielt mehrere **Kraftausdrücke**, die elterliche Begleitung erforderten"]]
+  },
+  {
+    "lemma": "exploitation",
+    "meanings_de": ["unfaire Ausnutzung"],
+    "definitions_de": ["Handlung, jemanden unfair zu behandeln, um von seiner Arbeit oder seinen Ressourcen zu profitieren"],
+    "examples_de": [["Die **Ausbeutung** von Arbeitern bleibt ein ernstes globales Menschenrechtsproblem", "Die Dokumentation deckte **Ausbeutung** in der Modeindustrie auf"]]
+  },
+  {
+    "lemma": "explorer",
+    "meanings_de": ["Entdeckungsreisender"],
+    "definitions_de": ["Person, die zu neuen oder unbekannten Orten reist, um sie zu entdecken und über sie zu lernen"],
+    "examples_de": [["Der **Entdecker** kartografierte unerforschte Gebiete im Amazonas", "Weltraum**forscher** trainieren jahrelang vor ihren Missionen"]]
+  },
+  {
+    "lemma": "explosive",
+    "meanings_de": ["Sprengstoff"],
+    "definitions_de": ["Substanz oder Vorrichtung, die explodieren kann und durch schnelle Gasausdehnung Schäden verursacht"],
+    "examples_de": [["Baumannschaften verwenden **Sprengstoff**, um alte Gebäude abzureißen", "Die Flughafensicherheit überprüft alle Gepäckstücke auf **Sprengstoffe**"]]
+  },
+  {
+    "lemma": "expo",
+    "meanings_de": ["Ausstellungsveranstaltung"],
+    "definitions_de": ["große öffentliche Ausstellung oder Messe, die Produkte, Dienstleistungen oder Errungenschaften präsentiert"],
+    "examples_de": [["Die Technologie-**Expo** zog Tausende von Fachleuten an", "Sie präsentierte ihr Startup auf der Business-**Expo**"]]
+  },
+  {
+    "lemma": "exponent",
+    "meanings_de": ["mathematische Hochzahl", "Verfechter"],
+    "definitions_de": ["Zahl, die angibt, wie oft eine Basiszahl mit sich selbst multipliziert wird", "Person, die eine bestimmte Idee, Theorie oder Sache öffentlich fördert oder vertritt"],
+    "examples_de": [["In der Gleichung bestimmt der **Exponent** den Endwert", "Schüler lernten, Ausdrücke mit negativen **Exponenten** zu berechnen"], ["Sie wurde zu einer führenden **Verfechterin** von Umweltschutzpolitiken", "Der Professor war ein **Verfechter** progressiver Bildungsmethoden"]]
+  },
+  {
+    "lemma": "exportation",
+    "meanings_de": ["Warenausfuhr"],
+    "definitions_de": ["Handlung oder Prozess des Sendens von Waren oder Dienstleistungen in ein anderes Land zum Verkauf oder Handel"],
+    "examples_de": [["Der landwirtschaftliche **Export** trägt erheblich zur Volkswirtschaft bei", "Neue Vorschriften betreffen die **Ausfuhr** von Technologieprodukten"]]
+  },
+  {
+    "lemma": "exporter",
+    "meanings_de": ["Exporteur"],
+    "definitions_de": ["Person, Unternehmen oder Land, das Waren oder Dienstleistungen zum Verkauf in andere Länder sendet"],
+    "examples_de": [["China bleibt der weltweit größte **Exporteur** von Industriegütern", "Der Kaffee-**Exporteur** liefert in über dreißig Länder"]]
+  },
+  {
+    "lemma": "exporting",
+    "meanings_de": ["Exporttätigkeit"],
+    "definitions_de": ["Geschäftstätigkeit des Sendens von Waren oder Dienstleistungen in ein anderes Land zum Verkauf"],
+    "examples_de": [["Das Unternehmen ist auf den weltweiten **Export** von Bio-Produkten spezialisiert", "**Export**vorschriften unterscheiden sich erheblich zwischen verschiedenen Ländern"]]
+  },
+  {
+    "lemma": "exposition",
+    "meanings_de": ["erklärende Darlegung", "große öffentliche Ausstellung"],
+    "definitions_de": ["umfassende Beschreibung und Erklärung einer Idee oder Theorie in Schrift oder Rede", "große öffentliche Ausstellung oder Schau, insbesondere von Kunst oder Handelsgütern"],
+    "examples_de": [["Die **Darlegung** der Quantentheorie durch den Professor klärte komplexe Konzepte", "Ihre **Ausführung** zum Klimawandel dauerte vierzig Minuten"], ["Die Welt**ausstellung** präsentierte Innovationen aus fünfzig Ländern", "Künstler reichten Werke für die jährliche **Ausstellung** in der Innenstadt ein"]]
+  },
+  {
+    "lemma": "expressionism",
+    "meanings_de": ["künstlerische Bewegung"],
+    "definitions_de": ["Kunststil, der den Ausdruck emotionaler Erfahrung betont statt physischer Realität, populär im frühen zwanzigsten Jahrhundert"],
+    "examples_de": [["Der deutsche **Expressionismus** beeinflusste später die Film-Noir-Kinematografie erheblich", "Das Museum zeigt eine umfangreiche **Expressionismus**-Sammlung im Untergeschoss"]]
+  },
+  {
+    "lemma": "expressway",
+    "meanings_de": ["Schnellstraße"],
+    "definitions_de": ["geteilte Autobahn für Hochgeschwindigkeitsverkehr mit kontrolliertem Zugang und ohne Ampeln"],
+    "examples_de": [["Die neue **Schnellstraße** reduzierte die Pendelzeiten um die Hälfte", "Der Verkehr auf der **Autobahn** fließt mit siebzig Meilen pro Stunde"]]
+  },
+  {
+    "lemma": "expulsion",
+    "meanings_de": ["erzwungene Entfernung"],
+    "definitions_de": ["Handlung, jemanden zu zwingen, einen Ort, eine Organisation oder Institution zu verlassen, normalerweise als Strafe"],
+    "examples_de": [["Sein **Schulverweis** folgte auf wiederholte Disziplinarverstöße", "Der Diplomat stand nach dem Spionageskandal vor der **Ausweisung**"]]
+  },
+  {
+    "lemma": "exterior",
+    "meanings_de": ["Außenfläche"],
+    "definitions_de": ["äußere Oberfläche oder Struktur von etwas, insbesondere eines Gebäudes oder Fahrzeugs"],
+    "examples_de": [["Die **Außenfassade** des Gebäudes muss vor dem Winter neu gestrichen werden", "Sie wählten Stein für die **Außenwand** des Hauses wegen der Haltbarkeit"]]
+  },
+  {
+    "lemma": "dea",
+    "meanings_de": ["Drogenbekämpfungsbehörde"],
+    "definitions_de": ["Bundesstrafverfolgungsbehörde, die für die Bekämpfung von Drogenhandel und -vertrieb in den Vereinigten Staaten verantwortlich ist"],
+    "examples_de": [["**DEA**-Agenten führten gleichzeitig Razzien in drei Bundesstaaten durch", "Die **DEA** arbeitet eng mit internationalen Strafverfolgungspartnern zusammen"]]
+  },
+  {
+    "lemma": "dink",
+    "meanings_de": ["sanfter Tennisschlag", "kleine Delle"],
+    "definitions_de": ["sanfter Schlag im Tennis oder Volleyball, der knapp über das Netz fällt", "kleine Delle, Vertiefung oder geringfügiger Schaden in einer Oberfläche"],
+    "examples_de": [["Ihr perfekt platzierter **Stoppball** überraschte den Gegner", "Die Volleyballspielerin führte einen **Lob** aus, um zu punkten"], ["Die Autotür hatte eine kleine **Delle** vom Parkplatz", "Mehrere **Dellen** verunzierten die Oberfläche des antiken Tisches"]]
+  },
+  {
+    "lemma": "dmd",
+    "meanings_de": ["zahnärztliche Qualifikation"],
+    "definitions_de": ["Doktor der Zahnmedizin, Abschluss, der Zahnärzten nach Abschluss der Zahnmedizinschule verliehen wird"],
+    "examples_de": [["Sie erwarb ihren **DMD** an einer renommierten Zahnmedizinschule", "Das **DMD**-Diplom des Zahnarztes hing prominent im Büro"]]
+  },
+  {
+    "lemma": "dmz",
+    "meanings_de": ["entmilitarisierte Zone"],
+    "definitions_de": ["Gebiet zwischen zwei feindlichen Kräften, in dem militärische Aktivitäten durch Vereinbarung oder Vertrag verboten sind"],
+    "examples_de": [["Die **DMZ** zwischen den beiden Ländern erstreckt sich über mehrere Meilen", "Zivilisten können die **entmilitarisierte Zone** nicht ohne Sondergenehmigung betreten"]]
+  },
+  {
+    "lemma": "doe",
+    "meanings_de": ["weibliches Reh"],
+    "definitions_de": ["erwachsenes weibliches Reh, besonders bei Arten, bei denen Männchen Böcke genannt werden"],
+    "examples_de": [["Die **Ricke** graste friedlich am Waldrand", "Eine **Hirschkuh** und ihr Kitz erschienen bei Morgengrauen"]]
+  },
+  {
+    "lemma": "dprk",
+    "meanings_de": ["Nordkorea"],
+    "definitions_de": ["Demokratische Volksrepublik Korea, der offizielle Name des Landes, das allgemein als Nordkorea bekannt ist"],
+    "examples_de": [["Die **DVRK**-Delegation nahm am internationalen Gipfeltreffen teil", "Die diplomatischen Beziehungen zur **DVRK** bleiben äußerst komplex"]]
+  },
+  {
+    "lemma": "dphil",
+    "meanings_de": ["Doktorgrad"],
+    "definitions_de": ["Doktor der Philosophie, Abschluss, der von einigen Universitäten, insbesondere Oxford, verliehen wird, gleichwertig mit PhD"],
+    "examples_de": [["Er schloss seinen **DPhil** in mittelalterlicher Geschichte in Oxford ab", "Die **DPhil**-Dissertation erforderte vier Jahre intensiver Forschung"]]
+  }
+]

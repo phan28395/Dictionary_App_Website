@@ -1,0 +1,302 @@
+[
+  {
+    "lemma": "nocturnal",
+    "meanings_de": ["nachts aktiv", "zur Nachtzeit gehörend"],
+    "definitions_de": ["beschreibt Tiere, Pflanzen oder Aktivitäten, die während der Nacht statt am Tag aktiv sind oder stattfinden, wobei diese Lebensweise oft mit besonderen Anpassungen verbunden ist", "sich auf die Nachtstunden beziehend oder während dieser Zeit geschehend, wenn die meisten Menschen schlafen und Ruhe herrscht"],
+    "examples_de": [["Die **nachtaktive** Eule jagte im Schutz der Dunkelheit nach Mäusen", "Fledermäuse sind **nachtaktive** Geschöpfe, die tagsüber in Höhlen schlafen"], ["Wir hörten **nächtliche** Geräusche aus dem nahen Wald", "Das Krankenhaus verfügt über eine **nächtliche** Notaufnahme für Patienten"]]
+  },
+  {
+    "lemma": "nodding",
+    "meanings_de": ["mit dem Kopf nickend", "sich neigend oder beugend"],
+    "definitions_de": ["eine Bewegung mit dem Kopf auf und ab machend, typischerweise um Zustimmung oder Begrüßung auszudrücken", "sich sanft nach unten beugend oder neigend in einer schwankenden Bewegung, besonders bei Blumen oder Pflanzen"],
+    "examples_de": [["Das **nickende** Publikum zeigte, dass es den Vortrag verstanden hatte", "Sie gab ihrer Kollegin eine **nickende** Bestätigung"], ["Die **nickenden** Blumen wiegten sich sanft im Sommerwind", "Wir spazierten durch Felder mit **nickenden** Getreideähren"]]
+  },
+  {
+    "lemma": "noisy",
+    "meanings_de": ["viel Lärm machend"],
+    "definitions_de": ["viele laute, unangenehme oder störende Geräusche erzeugend oder durch solche gekennzeichnet, sodass eine ruhige Atmosphäre gestört wird"],
+    "examples_de": [["Die **laute** Baustelle störte die gesamte Nachbarschaft erheblich", "Kinder können beim gemeinsamen Spielen sehr **laut** sein"], ["Wir mieden das **lärmende** Restaurant und suchten einen ruhigeren Ort", "Der **geräuschvolle** Motor musste dringend repariert werden"]]
+  },
+  {
+    "lemma": "nomadic",
+    "meanings_de": ["von Ort zu Ort ziehend"],
+    "definitions_de": ["sich auf Menschen oder Tiere beziehend, die von einem Ort zum anderen ziehen, anstatt dauerhaft an einem Ort zu leben, oft der Nahrung oder den Jahreszeiten folgend"],
+    "examples_de": [["Die **nomadischen** Stämme folgten ihren Herden über die weiten Steppen", "Sie führte ein **nomadisches** Leben und reiste zwischen verschiedenen Ländern"], ["**Nomadische** Kulturen haben einzigartige Traditionen für das Leben in Bewegung entwickelt", "Die **umherziehende** Karriere des Fotografen führte ihn um die ganze Welt"]]
+  },
+  {
+    "lemma": "nominal",
+    "meanings_de": ["nur dem Namen nach", "sehr geringe Menge"],
+    "definitions_de": ["nur in Name oder Form existierend, aber nicht in Wirklichkeit oder Substanz vorhanden", "einen so kleinen Betrag darstellend, dass er kaum echte Bedeutung oder Wert hat"],
+    "examples_de": [["Er war der **nominelle** Anführer, hatte aber keine wirkliche Macht", "Das Unternehmen behielt die **nominelle** Kontrolle über seine Tochtergesellschaften"], ["Sie verlangen eine **symbolische** Gebühr für die Mitgliedschaft", "Der Schaden am Auto war **minimal** und leicht zu beheben"]]
+  },
+  {
+    "lemma": "nominated",
+    "meanings_de": ["für Position vorgeschlagen"],
+    "definitions_de": ["formell für ein Amt, eine Pflicht, eine Ehre oder eine Auszeichnung vorgeschlagen oder benannt worden"],
+    "examples_de": [["Die **nominierten** Kandidaten hielten Reden vor der Wahl", "Sie wurde für drei verschiedene Filmpreise **nominiert**"], ["Die **nominierten** Ausschussmitglieder werden zwei Jahre lang tätig sein", "Alle **nominierten** Bücher werden in der Bibliothek ausgestellt"]]
+  },
+  {
+    "lemma": "nominative",
+    "meanings_de": ["Subjektfall in Grammatik"],
+    "definitions_de": ["sich auf den grammatikalischen Fall beziehend, der in bestimmten Sprachen für das Subjekt eines Verbs verwendet wird"],
+    "examples_de": [["Der **nominativische** Fall zeigt an, wer die Handlung ausführt", "Die Schüler lernten die **nominativischen** Formen lateinischer Substantive"], ["Im Deutschen ändern sich **nominativische** Artikel je nach Geschlecht", "Das **nominativische** Pronomen 'ich' kann nicht als Objekt verwendet werden"]]
+  },
+  {
+    "lemma": "noncommercial",
+    "meanings_de": ["nicht für Geschäftsgewinn"],
+    "definitions_de": ["nicht dazu bestimmt oder daran beteiligt, Geld oder kommerziellen Gewinn aus Aktivitäten zu erzielen"],
+    "examples_de": [["Der **nichtkommerzielle** Radiosender ist auf Spenden der Hörer angewiesen", "Sie organisierten ein **nichtkommerzielles** Gemeindefest für Familien"], ["Die **nichtkommerzielle** Nutzung der Software ist völlig kostenlos", "Der Park ist für **nichtgewerbliche** Freizeitaktivitäten reserviert"]]
+  },
+  {
+    "lemma": "noncommissioned",
+    "meanings_de": ["ohne Offizierspatent"],
+    "definitions_de": ["sich auf Militärpersonal beziehend, das kein Offizierspatent erhalten hat, aber Führungspositionen innehat"],
+    "examples_de": [["Die **Unteroffiziere** bildeten täglich die neuen Rekruten aus", "Er diente fünf Jahre lang als **Unteroffizier** im Rang eines Feldwebels"], ["**Unteroffizierspersonal** bildet das Rückgrat militärischer Einheiten", "Die Auszeichnung würdigte herausragende **Unteroffiziere**"]]
+  },
+  {
+    "lemma": "nonconforming",
+    "meanings_de": ["Standards nicht folgend"],
+    "definitions_de": ["vorherrschenden Standards, Regeln oder Praktiken in Verhalten oder Erscheinung nicht entsprechend oder sich weigernd, diesen zu folgen"],
+    "examples_de": [["Der **nonkonforme** Künstler stellte traditionelle Malstile in Frage", "**Nichtkonformen** Produkte wurden aus der Produktionslinie entfernt"], ["Ihr **unangepasster** Lebensstil zog sowohl Kritik als auch Bewunderung auf sich", "Das **nicht normgerechte** Gebäudedesign verstieß gegen Bauvorschriften"]]
+  },
+  {
+    "lemma": "nonconformist",
+    "meanings_de": ["konventionelles Verhalten ablehnend"],
+    "definitions_de": ["gekennzeichnet durch oder zeigend von Verhalten oder Ansichten, die nicht mit vorherrschenden Ideen oder Praktiken übereinstimmen"],
+    "examples_de": [["Ihr **nonkonformistischer** Unterrichtsansatz regte zum kreativen Denken an", "Die **nonkonformistische** Bewegung forderte viktorianische Gesellschaftsnormen heraus"], ["**Nonkonformistische** Kirchen arbeiteten unabhängig von Staatsreligionen", "Sein **unangepasster** Stil ließ ihn aus der Masse hervorstechen"]]
+  },
+  {
+    "lemma": "nondescript",
+    "meanings_de": ["ohne besondere Merkmale"],
+    "definitions_de": ["keine interessanten, besonderen oder charakteristischen Merkmale oder Eigenschaften aufweisend, die etwas auffällig machen würden"],
+    "examples_de": [["Der Verdächtige trug **unauffällige** Kleidung, um keine Aufmerksamkeit zu erregen", "Sie lebten in einem **unscheinbaren** Vorstadthaus"], ["Die **nichtssagende** Verpackung verriet nichts über den teuren Inhalt", "Sein **unauffälliges** Aussehen half ihm, in Menschenmengen unterzutauchen"]]
+  },
+  {
+    "lemma": "nonexistent",
+    "meanings_de": ["überhaupt nicht existierend"],
+    "definitions_de": ["in keiner Form existierend oder kein wirkliches Sein oder keine Präsenz irgendwo habend"],
+    "examples_de": [["Der Kundenservice in diesem Unternehmen ist praktisch **nicht existent**", "Der Zaun zwischen den Grundstücken war **nicht vorhanden**"], ["Seine Geduld mit Verzögerungen war völlig **verschwunden**", "Aufzeichnungen aus dieser Zeit sind praktisch **nicht existent**"]]
+  },
+  {
+    "lemma": "nonhuman",
+    "meanings_de": ["nicht der menschlichen Spezies"],
+    "definitions_de": ["sich auf Wesen, Entitäten oder Dinge beziehend oder diese bezeichnend, die nicht menschlicher Natur sind"],
+    "examples_de": [["Wissenschaftler untersuchen das Verhalten **nichtmenschlicher** Primaten für evolutionäre Erkenntnisse", "Die Geschichte erforschte Beziehungen zwischen menschlichen und **nichtmenschlichen** Charakteren"], ["**Nichtmenschliche** Tiere zeigen komplexe emotionale Reaktionen", "Die **nichtmenschliche** Effizienz des Roboters übertraf die Arbeiterproduktivität"]]
+  },
+  {
+    "lemma": "noninvasive",
+    "meanings_de": ["nicht in Körper eindringend"],
+    "definitions_de": ["medizinische Verfahren beschreibend, die kein Einführen von Instrumenten oder Schneiden in den Körper erfordern"],
+    "examples_de": [["Der Arzt empfahl zunächst **nichtinvasive** Behandlungsmöglichkeiten", "**Nichtinvasive** Bildgebungsverfahren haben die medizinische Diagnose revolutioniert"], ["Sie entwickelten **nichtinvasive** Methoden zur Überwachung der Herzfunktion", "Die Ergebnisse der **nichtinvasiven** Untersuchung waren völlig normal"]]
+  },
+  {
+    "lemma": "nonlinear",
+    "meanings_de": ["nicht in gerader Folge"],
+    "definitions_de": ["nicht in einer geraden Linie angeordnet oder sich erstreckend oder keine direkte proportionale Beziehung aufweisend"],
+    "examples_de": [["Die **nichtlineare** Erzählung sprang zwischen verschiedenen Zeitebenen", "Wissenschaftler entdeckten **nichtlineare** Muster in den Daten"], ["**Nichtlineare** Gleichungen erfordern spezielle mathematische Techniken zur Lösung", "Die **nichtlineare** Struktur des Films verwirrte einige Zuschauer"]]
+  },
+  {
+    "lemma": "nonpartisan",
+    "meanings_de": ["keine Partei bevorzugend"],
+    "definitions_de": ["nicht voreingenommen oder parteiisch gegenüber einer bestimmten politischen Gruppe oder Partei in Aktivitäten oder Ansichten"],
+    "examples_de": [["Das **überparteiliche** Komitee bewertete Kandidaten fair", "Sie suchten eine **unparteiische** Analyse der vorgeschlagenen Gesetzgebung"], ["Die Organisation bewahrt eine strikt **überparteiliche** Haltung", "**Unabhängige** Wähler entscheiden oft Wahlergebnisse"]]
+  },
+  {
+    "lemma": "nonsectarian",
+    "meanings_de": ["nicht auf Religion beschränkt"],
+    "definitions_de": ["nicht mit einer bestimmten religiösen Gruppe oder Konfession verbunden oder auf diese beschränkt"],
+    "examples_de": [["Die **überkonfessionelle** Schule hieß Schüler aller Glaubensrichtungen willkommen", "Sie gründeten eine **konfessionslose** Wohltätigkeitsorganisation für alle"], ["Das Krankenhaus bietet **überkonfessionelle** Seelsorgedienste für Patienten", "Ihr **konfessionsloser** Ansatz zog vielfältige Gemeinschaftsunterstützung an"]]
+  },
+  {
+    "lemma": "nonsensical",
+    "meanings_de": ["ohne Bedeutung"],
+    "definitions_de": ["keine Bedeutung habend oder absurde, unlogische oder lächerliche Ideen vermittelnd, die keinen Sinn ergeben"],
+    "examples_de": [["Seine **unsinnige** Erklärung verwirrte uns nur noch mehr", "Die Anweisungen waren völlig **sinnlos** und unmöglich zu befolgen"], ["Kinder genießen oft **unsinnige** Reime und alberne Wortspiele", "Der Vorschlag enthielt mehrere **widersinnige** Budgetprognosen"]]
+  },
+  {
+    "lemma": "nonspecific",
+    "meanings_de": ["nicht klar definiert"],
+    "definitions_de": ["nicht spezifisch oder besonders in der Natur, ohne klare Definition oder präzise Details"],
+    "examples_de": [["Die Patientin klagte über **unspezifische** Schmerzen im ganzen Körper", "Seine **unbestimmten** Antworten frustrierten das Interviewgremium"], ["Der Test zeigte **unspezifische** Anomalien, die weitere Untersuchungen erforderten", "Sie gaben **allgemeine** Warnungen vor möglichen Bedrohungen heraus"]]
+  },
+  {
+    "lemma": "nonstandard",
+    "meanings_de": ["von üblicher Norm abweichend"],
+    "definitions_de": ["nicht den üblichen Regeln, Mustern oder akzeptierten Standards der Praxis oder Verwendung entsprechend"],
+    "examples_de": [["Der Mechaniker musste **Sonderteile** für die Reparatur bestellen", "Ihre **nichtstandardisierte** Aussprache verriet ihre regionale Herkunft"], ["**Ungewöhnliche** Arbeitszeiten erschwerten die Terminplanung", "Die Software verwendet **nicht standardmäßige** Dateiformate"]]
+  },
+  {
+    "lemma": "nonsteroidal",
+    "meanings_de": ["keine Steroide enthaltend"],
+    "definitions_de": ["sich auf Medikamente oder Arzneimittel beziehend, die keine Steroide als Wirkstoffe enthalten"],
+    "examples_de": [["Der Arzt verschrieb **nichtsteroidale** Medikamente gegen Entzündungen", "**Nichtsteroidale** Behandlungen haben oft weniger Nebenwirkungen"], ["Viele Sportler bevorzugen **steroidfreie** Erholungsmethoden", "Die **nichtsteroidale** Creme reduzierte effektiv Gelenkschmerzen"]]
+  },
+  {
+    "lemma": "nonstop",
+    "meanings_de": ["ohne Pause fortgesetzt"],
+    "definitions_de": ["ohne Halt oder Pause zur Ruhe fortgesetzt, ständig ohne Unterbrechung voranschreitend"],
+    "examples_de": [["Wir nahmen einen **Nonstop**-Flug von Frankfurt nach New York", "Der Regen fiel **ununterbrochen** drei Tage lang"], ["Sie arbeitete **pausenlos**, um die Projektfrist einzuhalten", "Die **durchgehende** Musik hielt die Nachbarn die ganze Nacht wach"]]
+  },
+  {
+    "lemma": "nontraditional",
+    "meanings_de": ["von konventionellen Wegen abweichend"],
+    "definitions_de": ["nicht traditionellen, konventionellen oder etablierten Mustern, Bräuchen oder Werten folgend oder entsprechend"],
+    "examples_de": [["Viele **nichttraditionelle** Studenten kehren nach Berufserfahrung ans College zurück", "Sie wählten eine **unkonventionelle** Hochzeitszeremonie im Freien"], ["Ihr **untypischer** Karriereweg führte zu unerwartetem Erfolg", "Das Restaurant serviert **nichttraditionelle** Fusionsküche"]]
+  },
+  {
+    "lemma": "nonverbal",
+    "meanings_de": ["ohne gesprochene Worte"],
+    "definitions_de": ["keine Worte oder Sprache verwendend oder einbeziehend, aber Bedeutung durch andere Mittel vermittelnd"],
+    "examples_de": [["Ein Großteil der Kommunikation zwischen Menschen ist tatsächlich **nonverbal**", "Die Lehrerin nutzte **nonverbale** Signale zur Klassenführung"], ["**Nichtsprechende** Kinder können über Gebärdensprache kommunizieren", "Seine **wortlose** Reaktion zeigte deutlich seine Enttäuschung"]]
+  },
+  {
+    "lemma": "nonviolent",
+    "meanings_de": ["körperliche Gewalt vermeidend"],
+    "definitions_de": ["friedliche Mittel statt Gewalt oder Zwang verwendend, um Ziele zu erreichen oder Konflikte zu lösen"],
+    "examples_de": [["Die Demonstranten verpflichteten sich zu **gewaltfreien** Widerstandsmethoden", "Sie lehrt **gewaltfreie** Kommunikationstechniken für Paare"], ["Die **gewaltlose** Bewegung erreichte bedeutende gesellschaftliche Veränderungen", "Sie suchten **friedliche** Lösungen für den Konflikt"]]
+  },
+  {
+    "lemma": "nordic",
+    "meanings_de": ["Nordeuropa betreffend"],
+    "definitions_de": ["sich auf die Länder Nordeuropas, insbesondere Skandinavien, oder deren Völker und Kulturen beziehend"],
+    "examples_de": [["**Nordisches** Design betont Einfachheit und Funktionalität", "Die Athleten trainierten mit **nordischen** Skitechniken"], ["Sie studierten **nordische** Mythologie und alte Volkssagen", "Das Restaurant spezialisierte sich auf traditionelle **skandinavische** Küche"]]
+  },
+  {
+    "lemma": "normative",
+    "meanings_de": ["einen Standard festlegend"],
+    "definitions_de": ["einen Standard oder eine Norm für Verhalten oder Werte festlegend, darauf bezogen oder darauf basierend"],
+    "examples_de": [["Die Studie untersuchte **normatives** Verhalten in verschiedenen Kulturen", "Philosophie befasst sich oft mit **normativen** Fragen zur Ethik"], ["Der **normative** Rahmen leitet organisatorische Entscheidungsfindung", "Sie stellten **normative** Annahmen über Geschlechterrollen in Frage"]]
+  },
+  {
+    "lemma": "northbound",
+    "meanings_de": ["nach Norden fahrend"],
+    "definitions_de": ["sich bewegend, führend oder in eine Richtung nach Norden gehend"],
+    "examples_de": [["Der **nordwärts fahrende** Zug kommt auf Gleis drei an", "Starker Verkehr verzögerte heute Morgen **nordwärts fahrende** Pendler"], ["Wir nahmen die **nach Norden führende** Autobahn Richtung Berge", "**Nordwärts ziehende** Zugvögel füllten den Herbsthimmel"]]
+  },
+  {
+    "lemma": "northeasterly",
+    "meanings_de": ["nach Nordosten gerichtet"],
+    "definitions_de": ["im Nordosten gelegen, sich dorthin bewegend oder von dort kommend, zwischen Norden und Osten"],
+    "examples_de": [["Starke **nordöstliche** Winde brachten kalte Luftmassen", "Das Schiff segelte in **nordöstlicher** Richtung"], ["Ein **nordöstliches** Sturmsystem näherte sich der Küste", "Sie folgten einer **nordöstlichen** Route durch die Berge"]]
+  },
+  {
+    "lemma": "northeastern",
+    "meanings_de": ["der Nordostregion angehörend"],
+    "definitions_de": ["sich auf den nordöstlichen Teil eines Ortes oder einer Region beziehend, dort gelegen oder dafür charakteristisch"],
+    "examples_de": [["Die **nordöstlichen** Bundesländer erlebten letzten Winter starke Schneefälle", "Sie studierte den **nordöstlichen** Dialekt der Sprache"], ["Die **nordöstliche** Ecke des Parks hat Picknickbereiche", "Sie erkundeten **nordöstliche** Küstenstädte während des Urlaubs"]]
+  },
+  {
+    "lemma": "northeastward",
+    "meanings_de": ["nach Nordosten"],
+    "definitions_de": ["sich in Richtung Nordosten bewegend oder dorthin gerichtet, zwischen Norden und Osten"],
+    "examples_de": [["Der Hurrikan zog **nordostwärts** entlang der Küste", "Vögel flogen **nordostwärts**, als der Winter nahte"], ["Der Fluss fließt **nordostwärts** zum Meer", "Sie erweiterten ihr Geschäft **nordostwärts** in neue Märkte"]]
+  },
+  {
+    "lemma": "northerly",
+    "meanings_de": ["nördlich oder nach Norden"],
+    "definitions_de": ["im Norden gelegen, nach Norden gerichtet oder von Norden kommend"],
+    "examples_de": [["Kalte **nördliche** Winde ließen die Temperaturen unter den Gefrierpunkt fallen", "Das Haus hat eine **nördliche** Lage mit Blick auf Felder"], ["Schiffe nahmen einen **nördlichen** Kurs, um Stürmen auszuweichen", "Der **nördlichste** Punkt bietet spektakuläre Aussichten"]]
+  },
+  {
+    "lemma": "northernmost",
+    "meanings_de": ["am weitesten nördlich"],
+    "definitions_de": ["an dem Punkt gelegen, der von allen anderen am weitesten nach Norden liegt"],
+    "examples_de": [["Alaska enthält den **nördlichsten** Punkt der Vereinigten Staaten", "Das **nördlichste** Dorf sieht selten Sommertouristen"], ["Sie erreichten den **nördlichsten** Rand des Waldes", "Die **nördlichsten** Inseln erleben polare Nächte"]]
+  },
+  {
+    "lemma": "northward",
+    "meanings_de": ["nach Norden"],
+    "definitions_de": ["sich von einem bestimmten Punkt aus nach Norden bewegend, darauf ausgerichtet oder dorthin gerichtet"],
+    "examples_de": [["Die Gänse begannen ihre **nordwärts** gerichtete Wanderung im Frühling", "Wir fuhren **nordwärts** durch zunehmend ländliche Landschaften"], ["Der Weg führt noch zehn Meilen **nordwärts** weiter", "Die Temperaturen steigen, wenn man von der Antarktis **nordwärts** reist"]]
+  },
+  {
+    "lemma": "northwesterly",
+    "meanings_de": ["nach Nordwesten gerichtet"],
+    "definitions_de": ["im Nordwesten gelegen, sich dorthin bewegend oder von dort kommend, zwischen Norden und Westen"],
+    "examples_de": [["**Nordwestliche** Winde brachten Regen in die Region", "Sie segelten einen **nordwestlichen** Kurs über den See"], ["Der Sturm bewegte sich in **nordwestlicher** Richtung", "Eine **nordwestliche** Brise kühlte den Sommerabend"]]
+  },
+  {
+    "lemma": "northwestern",
+    "meanings_de": ["der Nordwestregion angehörend"],
+    "definitions_de": ["sich auf den nordwestlichen Teil eines Ortes oder einer Region beziehend, dort gelegen oder dafür charakteristisch"],
+    "examples_de": [["Die **nordwestlichen** Gebiete erlebten schwere Dürrebedingungen", "Sie besuchte eine renommierte **nordwestliche** Universität"], ["Die **nordwestlichen** Provinzen haben ausgeprägte kulturelle Traditionen", "Sie erkundeten die **nordwestliche** Küstenlinie per Boot"]]
+  },
+  {
+    "lemma": "northwestward",
+    "meanings_de": ["nach Nordwesten"],
+    "definitions_de": ["sich in Richtung Nordwesten bewegend oder dorthin gerichtet, zwischen Norden und Westen"],
+    "examples_de": [["Die Expedition reiste **nordwestwärts** durch unerforschtes Gebiet", "Sturmsysteme bewegen sich in dieser Region typischerweise **nordwestwärts**"], ["Das Tal erstreckt sich **nordwestwärts** vom Gebirgszug", "Migrationsmuster verschoben sich im Laufe der Zeit **nordwestwärts**"]]
+  },
+  {
+    "lemma": "nosed",
+    "meanings_de": ["mit bestimmter Nase"],
+    "definitions_de": ["eine Nase bestimmter Art habend, oft in Kombination mit beschreibenden Begriffen verwendet"],
+    "examples_de": [["Das **spitznasige** Düsenflugzeug durchschnitt die Luft", "Ein **langnasiger** Hund schnüffelte im Garten herum"], ["Die **großnasigen** Delfine spielten in der Nähe des Bootes", "**Römisch-nasige** Pferde haben ein charakteristisches Profil"]]
+  },
+  {
+    "lemma": "nostalgic",
+    "meanings_de": ["sich nach Vergangenheit sehnend"],
+    "definitions_de": ["eine sentimentale Sehnsucht nach einer Zeit oder einem Ort mit glücklichen Assoziationen erlebend oder zeigend"],
+    "examples_de": [["Die alten Fotografien machten sie zutiefst **nostalgisch**", "Er wurde **wehmütig**, als er sein Elternhaus besuchte"], ["Der **nostalgische** Film erinnerte Zuschauer an einfachere Zeiten", "**Nostalgische** Musik spielte beim Klassentreffen"]]
+  },
+  {
+    "lemma": "nosy",
+    "meanings_de": ["übermäßig neugierig auf andere"],
+    "definitions_de": ["zu viel Neugier auf die privaten Angelegenheiten anderer Menschen auf aufdringliche Weise zeigend"],
+    "examples_de": [["Die **neugierige** Nachbarin stellte immer persönliche Fragen", "Hör auf, so **neugierig** über ihre Beziehung zu sein"], ["Ihre **schnüffelnden** Kollegen tratschten über alle Angelegenheiten", "Der **aufdringliche** Reporter verfolgte die Geschichte aggressiv"]]
+  },
+  {
+    "lemma": "notable",
+    "meanings_de": ["beachtenswert"],
+    "definitions_de": ["Aufmerksamkeit oder Beachtung verdienend, weil es wichtig, interessant oder außergewöhnlich ist"],
+    "examples_de": [["Das Museum zeigt Werke **namhafter** zeitgenössischer Künstler", "Sie leistete **bemerkenswerte** Beiträge zur medizinischen Forschung"], ["Mehrere **beachtliche** Änderungen traten in der Unternehmenspolitik auf", "Die Konferenz zog viele **bedeutende** Redner an"]]
+  },
+  {
+    "lemma": "notched",
+    "meanings_de": ["mit V-förmigen Einschnitten"],
+    "definitions_de": ["mit einer Kerbe oder einer Reihe von Kerben markiert oder geschnitten, V-förmige Einkerbungen habend"],
+    "examples_de": [["Der **gekerbte** Pfeil passte perfekt auf die Bogensehne", "Er schnitzte ein **eingekerbtes** Muster ins Holz"], ["Die **gezackten** Blätter halfen bei der Pflanzenbestimmung", "Alte Völker verwendeten **gekerbte** Stöcke zum Zählen"]]
+  },
+  {
+    "lemma": "noted",
+    "meanings_de": ["bekannt und angesehen"],
+    "definitions_de": ["bekannt, angesehen oder berühmt für eine bestimmte Eigenschaft, Leistung oder Fähigkeit"],
+    "examples_de": [["Der **renommierte** Wissenschaftler erhielt zahlreiche Auszeichnungen für seine Forschung", "Sie ist eine **anerkannte** Expertin im Umweltrecht"], ["Das Restaurant ist **bekannt** für seine ausgezeichneten Meeresfrüchte", "Ein **namhafter** Autor wird in der Bibliothek sprechen"]]
+  },
+  {
+    "lemma": "noteworthy",
+    "meanings_de": ["Aufmerksamkeit verdienend"],
+    "definitions_de": ["interessant, bedeutsam oder ungewöhnlich genug, um Aufmerksamkeit zu verdienen oder aufgezeichnet zu werden"],
+    "examples_de": [["Das Team erzielte diese Saison mehrere **bemerkenswerte** Siege", "Ihre **beachtenswerte** Leistung erhielt kritische Anerkennung"], ["Der Bericht enthielt **nennenswerte** Erkenntnisse zum Klimawandel", "Während der Sitzung geschah nichts **Erwähnenswertes**"]]
+  },
+  {
+    "lemma": "noticeable",
+    "meanings_de": ["leicht zu sehen oder bemerken"],
+    "definitions_de": ["leicht zu sehen, zu beobachten oder zu erkennen, weil es klar, deutlich oder bedeutsam ist"],
+    "examples_de": [["Es gab eine **merkliche** Verbesserung ihrer Noten", "Der Temperaturabfall war sofort **spürbar**"], ["Er ging nach dem Unfall mit einem **deutlichen** Hinken", "Die neue Farbe machte einen **sichtbaren** Unterschied"]]
+  },
+  {
+    "lemma": "noticed",
+    "meanings_de": ["beobachtet oder wahrgenommen"],
+    "definitions_de": ["gesehen, beobachtet oder sich etwas oder jemandem bewusst geworden"],
+    "examples_de": [["Die **bemerkten** Verhaltensänderungen beunruhigten ihre Eltern", "Seine **bemerkte** Abwesenheit von Sitzungen warf Fragen auf"], ["Das **erkannte** Muster half, das Rätsel zu lösen", "Zuvor **bemerkte** Symptome kehrten nach Behandlungsende zurück"]]
+  },
+  {
+    "lemma": "notional",
+    "meanings_de": ["nur in Theorie existierend"],
+    "definitions_de": ["nur in der Theorie oder als Vorschlag oder Idee existierend und nicht in der Realität"],
+    "examples_de": [["Der **fiktive** Wert von Derivaten überstieg die tatsächlichen Vermögenswerte", "Sie diskutierten **theoretische** Konzepte ohne praktische Anwendung"], ["Das Budget enthielt **geschätzte** Zahlen für zukünftige Projekte", "Ihr **theoretisches** Verständnis fehlte echter Welterfahrung"]]
+  },
+  {
+    "lemma": "notorious",
+    "meanings_de": ["berühmt für etwas Schlechtes"],
+    "definitions_de": ["berühmt oder bekannt für eine schlechte Eigenschaft, Tat oder negative Charakteristik"],
+    "examples_de": [["Der **berüchtigte** Verbrecher stand endlich vor Gericht", "Diese Kreuzung ist **berüchtigt** für Verkehrsunfälle"], ["Er wurde **berüchtigt** dafür, immer zu spät zu kommen", "Die **notorische** Klatschbase verbreitete Gerüchte in der ganzen Stadt"]]
+  },
+  {
+    "lemma": "nourished",
+    "meanings_de": ["mit benötigter Nahrung versorgt"],
+    "definitions_de": ["mit der Nahrung oder anderen Substanzen versorgt worden, die für Wachstum und Gesundheit notwendig sind"],
+    "examples_de": [["Die gut **genährten** Pflanzen wuchsen hoch und kräftig", "Richtig **ernährte** Kinder erbringen bessere Schulleistungen"], ["Ihre **gepflegte** Haut strahlte vor Gesundheit und Vitalität", "Der **nährstoffreiche** Boden produzierte reichliche Ernten"]]
+  }
+]
