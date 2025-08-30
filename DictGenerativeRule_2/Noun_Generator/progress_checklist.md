@@ -6,7 +6,7 @@ Total files: 348
 
 Mark each file with [x] when fully populated with data:
 
-- [ ] `lemmas_Noun_1_to_50.jsonl` (lemmas 1 to 50)
+- [x] `lemmas_Noun_1_to_50.jsonl` (lemmas 1 to 50)
 - [x] `lemmas_Noun_51_to_100.jsonl` (lemmas 51 to 100)
 - [x] `lemmas_Noun_101_to_150.jsonl` (lemmas 101 to 150)
 - [x] `lemmas_Noun_151_to_200.jsonl` (lemmas 151 to 200)
@@ -98,12 +98,12 @@ Mark each file with [x] when fully populated with data:
 - [x] `lemmas_Noun_4451_to_4500.jsonl` (lemmas 4451 to 4500)
 - [x] `lemmas_Noun_4501_to_4550.jsonl` (lemmas 4501 to 4550)
 - [x] `lemmas_Noun_4551_to_4600.jsonl` (lemmas 4551 to 4600)
-- [ ] `lemmas_Noun_4601_to_4650.jsonl` (lemmas 4601 to 4650)
+- [x] `lemmas_Noun_4601_to_4650.jsonl` (lemmas 4601 to 4650)
 - [x] `lemmas_Noun_4651_to_4700.jsonl` (lemmas 4651 to 4700)
 - [x] `lemmas_Noun_4701_to_4750.jsonl` (lemmas 4701 to 4750)
 - [x] `lemmas_Noun_4751_to_4800.jsonl` (lemmas 4751 to 4800)
 - [x] `lemmas_Noun_4801_to_4850.jsonl` (lemmas 4801 to 4850)
-- [ ] `lemmas_Noun_4851_to_4900.jsonl` (lemmas 4851 to 4900)
+- [x] `lemmas_Noun_4851_to_4900.jsonl` (lemmas 4851 to 4900)
 - [x] `lemmas_Noun_4901_to_4950.jsonl` (lemmas 4901 to 4950)
 - [x] `lemmas_Noun_4951_to_5000.jsonl` (lemmas 4951 to 5000)
 - [x] `lemmas_Noun_5001_to_5050.jsonl` (lemmas 5001 to 5050)
