@@ -1,0 +1,15 @@
+{
+  "id": "history",
+  "name": "Search History",
+  "version": "1.0.0",
+  "main": "plugin.py",
+  "author": "Dictionary App",
+  "description": "Track and manage search history",
+  "homepage": "https://dictionary-app.com",
+  "permissions": [
+    "storage-write",
+    "search-intercept"
+  ],
+  "dependencies": [],
+  "min_app_version": "1.0.0"
+}

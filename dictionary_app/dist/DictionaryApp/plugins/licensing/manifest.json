@@ -1,0 +1,27 @@
+{
+    "id": "licensing",
+    "name": "Licensing System",
+    "version": "1.0.0",
+    "description": "Manages free tier limits, premium licenses, and payment processing",
+    "author": "Dictionary App",
+    "main": "plugin.py",
+    "requires": ["auth", "history"],
+    "permissions": [
+        "search.intercept",
+        "config.write",
+        "storage.write",
+        "ui.modal",
+        "network"
+    ],
+    "config": {
+        "free_tier_limit": 50,
+        "stripe_publishable_key": "",
+        "stripe_price_id": "",
+        "stripe_success_url": "http://localhost:8000/success",
+        "stripe_cancel_url": "http://localhost:8000/cancel",
+        "license_check_interval": 604800,
+        "max_devices": 3,
+        "offline_grace_period": 2592000,
+        "enforce_limit": true
+    }
+}

@@ -1,0 +1,19 @@
+# UI Dependencies for Core UI Plugin
+
+# System tray support
+pystray==0.19.5
+Pillow==10.1.0
+
+# GUI framework (using tkinter which is built-in, but we'll use customtkinter for modern look)
+customtkinter==5.2.1
+
+# Global hotkey support
+pynput==1.7.6
+
+# Clipboard access
+pyperclip==1.8.2
+
+# For text selection detection
+python-xlib==0.33; sys_platform == 'linux'
+pywin32==306; sys_platform == 'win32'
+pyobjc-framework-Cocoa==10.0; sys_platform == 'darwin'

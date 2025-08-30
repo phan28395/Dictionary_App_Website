@@ -1,0 +1,21 @@
+{
+  "id": "extension-store",
+  "name": "Extension Store",
+  "description": "Browse, install, and manage dictionary extensions",
+  "version": "1.0.0",
+  "author": "Dictionary App Team",
+  "main": "plugin.py",
+  "permissions": [
+    "network",
+    "filesystem",
+    "plugin-management"
+  ],
+  "dependencies": [],
+  "replaces": [],
+  "ui": {
+    "settings": true,
+    "main_window": true
+  },
+  "categories": ["core", "marketplace"],
+  "tags": ["extensions", "plugins", "store", "marketplace"]
+}

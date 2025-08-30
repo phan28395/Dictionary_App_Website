@@ -1,0 +1,24 @@
+{
+  "id": "auth",
+  "name": "Authentication",
+  "version": "1.0.0",
+  "description": "User authentication and account management via Supabase",
+  "author": "Dictionary App",
+  "main": "plugin.py",
+  "permissions": [
+    "network",
+    "storage",
+    "config"
+  ],
+  "dependencies": [],
+  "category": "core",
+  "settings": {
+    "configurable": true,
+    "defaults": {
+      "enable_guest_mode": true,
+      "guest_search_limit": 50,
+      "remember_login": true,
+      "auto_login": true
+    }
+  }
+}

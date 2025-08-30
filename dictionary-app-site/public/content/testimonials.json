@@ -1,0 +1,52 @@
+{
+  "testimonials": [
+    {
+      "id": "1",
+      "name": "Sarah Chen",
+      "role": "Graduate Student",
+      "company": "MIT",
+      "text": "The best dictionary app I've ever used! The inflection recognition saves me so much time when reading academic papers.",
+      "rating": 5,
+      "avatar": "/images/avatars/sarah.jpg",
+      "date": "2024-03-15"
+    },
+    {
+      "id": "2",
+      "name": "Marcus Johnson",
+      "role": "Content Writer",
+      "text": "As a professional writer, having instant definitions at my fingertips has transformed my workflow. The offline mode is a lifesaver!",
+      "rating": 5,
+      "avatar": "/images/avatars/marcus.jpg",
+      "date": "2024-03-10"
+    },
+    {
+      "id": "3",
+      "name": "Elena Rodriguez",
+      "role": "Language Teacher",
+      "company": "International School",
+      "text": "My students love it! The extension marketplace lets me customize it perfectly for different language levels.",
+      "rating": 5,
+      "avatar": "/images/avatars/elena.jpg",
+      "date": "2024-03-05"
+    },
+    {
+      "id": "4",
+      "name": "David Kim",
+      "role": "Software Developer",
+      "text": "Finally, a dictionary that just works. No ads, no distractions, just pure functionality. Worth every penny!",
+      "rating": 5,
+      "avatar": "/images/avatars/david.jpg",
+      "date": "2024-02-28"
+    },
+    {
+      "id": "5",
+      "name": "Amanda Foster",
+      "role": "Translator",
+      "company": "Freelance",
+      "text": "The extension system is genius! I've installed specialized dictionaries for medical and legal terms. Game changer!",
+      "rating": 5,
+      "avatar": "/images/avatars/amanda.jpg",
+      "date": "2024-02-20"
+    }
+  ]
+}

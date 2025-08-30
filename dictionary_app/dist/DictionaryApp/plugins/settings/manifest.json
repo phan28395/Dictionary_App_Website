@@ -1,0 +1,15 @@
+{
+  "id": "settings",
+  "name": "Settings Manager",
+  "version": "1.0.0",
+  "main": "plugin.py",
+  "author": "Dictionary App",
+  "description": "Settings and configuration management plugin",
+  "homepage": "https://dictionary-app.com",
+  "permissions": [
+    "config-write",
+    "plugin-management"
+  ],
+  "dependencies": ["core-ui"],
+  "min_app_version": "1.0.0"
+}

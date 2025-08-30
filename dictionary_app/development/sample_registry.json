@@ -1,0 +1,147 @@
+{
+  "version": "1.0",
+  "last_updated": "2025-08-28T22:00:00Z",
+  "extensions": [
+    {
+      "id": "dark-theme",
+      "name": "Dark Theme",
+      "description": "A beautiful dark theme for the dictionary interface with customizable colors",
+      "version": "1.2.0",
+      "author": "ThemeStudio",
+      "homepage": "https://github.com/dictionary-app/dark-theme",
+      "repository": "https://github.com/dictionary-app/dark-theme",
+      "download_url": "https://github.com/dictionary-app/dark-theme/archive/v1.2.0.zip",
+      "created_date": "2025-08-01",
+      "updated_date": "2025-08-25",
+      "categories": ["theme", "ui"],
+      "tags": ["dark", "theme", "ui", "customization"],
+      "downloads": 1250,
+      "rating": 4.7,
+      "price": 0,
+      "screenshots": [
+        "https://example.com/screenshots/dark-theme-1.png",
+        "https://example.com/screenshots/dark-theme-2.png"
+      ],
+      "requirements": {
+        "dictionary_app": ">=1.0.0"
+      }
+    },
+    {
+      "id": "etymology-lookup",
+      "name": "Etymology Lookup",
+      "description": "Adds etymology information and word origins to dictionary entries",
+      "version": "2.1.0",
+      "author": "LanguageTools",
+      "homepage": "https://github.com/dictionary-app/etymology-lookup",
+      "repository": "https://github.com/dictionary-app/etymology-lookup",
+      "download_url": "https://github.com/dictionary-app/etymology-lookup/archive/v2.1.0.zip",
+      "created_date": "2025-07-15",
+      "updated_date": "2025-08-20",
+      "categories": ["language", "tools"],
+      "tags": ["etymology", "history", "languages", "research"],
+      "downloads": 890,
+      "rating": 4.5,
+      "price": 2.99,
+      "screenshots": [
+        "https://example.com/screenshots/etymology-1.png"
+      ],
+      "requirements": {
+        "dictionary_app": ">=1.0.0"
+      }
+    },
+    {
+      "id": "pronunciation-trainer",
+      "name": "Pronunciation Trainer",
+      "description": "Interactive pronunciation practice with audio playback and speech recognition",
+      "version": "1.0.5",
+      "author": "SpeechLab",
+      "homepage": "https://github.com/dictionary-app/pronunciation-trainer",
+      "repository": "https://github.com/dictionary-app/pronunciation-trainer",
+      "download_url": "https://github.com/dictionary-app/pronunciation-trainer/archive/v1.0.5.zip",
+      "created_date": "2025-08-10",
+      "updated_date": "2025-08-22",
+      "categories": ["audio", "learning", "tools"],
+      "tags": ["pronunciation", "audio", "speech", "training"],
+      "downloads": 654,
+      "rating": 4.2,
+      "price": 1.99,
+      "screenshots": [
+        "https://example.com/screenshots/pronunciation-1.png",
+        "https://example.com/screenshots/pronunciation-2.png"
+      ],
+      "requirements": {
+        "dictionary_app": ">=1.0.0"
+      }
+    },
+    {
+      "id": "synonym-finder",
+      "name": "Advanced Synonym Finder",
+      "description": "Enhanced synonym and antonym lookup with semantic similarity scoring",
+      "version": "1.4.2",
+      "author": "WordNet Inc",
+      "homepage": "https://github.com/dictionary-app/synonym-finder",
+      "repository": "https://github.com/dictionary-app/synonym-finder",
+      "download_url": "https://github.com/dictionary-app/synonym-finder/archive/v1.4.2.zip",
+      "created_date": "2025-06-20",
+      "updated_date": "2025-08-18",
+      "categories": ["language", "tools"],
+      "tags": ["synonyms", "antonyms", "semantic", "wordnet"],
+      "downloads": 2100,
+      "rating": 4.8,
+      "price": 0,
+      "screenshots": [
+        "https://example.com/screenshots/synonym-finder-1.png"
+      ],
+      "requirements": {
+        "dictionary_app": ">=1.0.0"
+      }
+    },
+    {
+      "id": "compact-theme",
+      "name": "Compact UI Theme",
+      "description": "Space-efficient compact theme perfect for small screens and productivity",
+      "version": "1.1.0",
+      "author": "MinimalUI",
+      "homepage": "https://github.com/dictionary-app/compact-theme",
+      "repository": "https://github.com/dictionary-app/compact-theme",
+      "download_url": "https://github.com/dictionary-app/compact-theme/archive/v1.1.0.zip",
+      "created_date": "2025-08-05",
+      "updated_date": "2025-08-15",
+      "categories": ["theme", "ui"],
+      "tags": ["compact", "minimal", "productivity", "small-screen"],
+      "downloads": 445,
+      "rating": 4.1,
+      "price": 0.99,
+      "screenshots": [
+        "https://example.com/screenshots/compact-theme-1.png"
+      ],
+      "requirements": {
+        "dictionary_app": ">=1.0.0"
+      }
+    },
+    {
+      "id": "flashcard-maker",
+      "name": "Flashcard Study Tool",
+      "description": "Create and study flashcards from your favorite words with spaced repetition",
+      "version": "2.0.1",
+      "author": "StudyTools",
+      "homepage": "https://github.com/dictionary-app/flashcard-maker",
+      "repository": "https://github.com/dictionary-app/flashcard-maker",
+      "download_url": "https://github.com/dictionary-app/flashcard-maker/archive/v2.0.1.zip",
+      "created_date": "2025-07-01",
+      "updated_date": "2025-08-28",
+      "categories": ["learning", "tools"],
+      "tags": ["flashcards", "study", "spaced-repetition", "learning"],
+      "downloads": 1680,
+      "rating": 4.6,
+      "price": 3.99,
+      "screenshots": [
+        "https://example.com/screenshots/flashcard-1.png",
+        "https://example.com/screenshots/flashcard-2.png"
+      ],
+      "requirements": {
+        "dictionary_app": ">=1.0.0"
+      }
+    }
+  ]
+}

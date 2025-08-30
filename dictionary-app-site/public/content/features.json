@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "id": "smart-search",
+      "icon": "🔍",
+      "title": "Smart Search",
+      "description": "Handles inflected forms like \"went\" → \"go\" automatically",
+      "details": "Our advanced linguistic engine understands word variations, plurals, past tenses, and conjugations across multiple languages."
+    },
+    {
+      "id": "offline",
+      "icon": "📡",
+      "title": "Works Offline",
+      "description": "Full functionality without internet connection",
+      "details": "Download once and use forever. All definitions, examples, and features work completely offline."
+    },
+    {
+      "id": "fast",
+      "icon": "⚡",
+      "title": "Lightning Fast",
+      "description": "Get definitions in milliseconds, not seconds",
+      "details": "Optimized database and smart caching means instant results every time."
+    },
+    {
+      "id": "extensions",
+      "icon": "🧩",
+      "title": "Extension Marketplace",
+      "description": "Customize with themes, language packs, and tools",
+      "details": "Browse hundreds of extensions to personalize your dictionary experience."
+    },
+    {
+      "id": "global-hotkey",
+      "icon": "⌨️",
+      "title": "Global Hotkey",
+      "description": "Double-tap Ctrl to search selected text anywhere",
+      "details": "Works in any application - browsers, documents, emails, anywhere you can select text."
+    },
+    {
+      "id": "privacy",
+      "icon": "🔒",
+      "title": "Privacy First",
+      "description": "Your searches stay on your device",
+      "details": "No tracking, no ads, no data collection. Your vocabulary is your business."
+    }
+  ]
+}

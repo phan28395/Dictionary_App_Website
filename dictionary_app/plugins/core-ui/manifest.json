@@ -1,0 +1,19 @@
+{
+  "id": "core-ui",
+  "name": "Core UI",
+  "version": "1.0.0",
+  "main": "plugin_simple.py",
+  "author": "Dictionary App",
+  "description": "Default UI provider for Dictionary App with system tray and hotkey support",
+  "homepage": "https://dictionary-app.com",
+  "permissions": [
+    "system-tray",
+    "global-hotkeys",
+    "window-management",
+    "clipboard-access"
+  ],
+  "dependencies": [],
+  "replaces": null,
+  "min_app_version": "1.0.0",
+  "max_app_version": null
+}

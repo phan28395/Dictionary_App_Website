@@ -1,0 +1,67 @@
+# Windows-like testing environment with Wine + VNC
+FROM ubuntu:22.04
+
+# Install base dependencies
+RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get install -y \
+    wget \
+    curl \
+    gnupg2 \
+    software-properties-common \
+    xvfb \
+    x11vnc \
+    fluxbox \
+    python3 \
+    python3-pip \
+    python3-venv \
+    python3-tk \
+    git \
+    nano \
+    && rm -rf /var/lib/apt/lists/*
+
+# Install Wine
+RUN dpkg --add-architecture i386 && \
+    mkdir -pm755 /etc/apt/keyrings && \
+    wget -O /etc/apt/keyrings/winehq-archive.key https://dl.winehq.org/wine-builds/winehq.key && \
+    wget -NP /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/ubuntu/dists/jammy/winehq-jammy.sources && \
+    apt-get update && \
+    DEBIAN_FRONTEND=noninteractive apt-get install -y --install-recommends winehq-stable && \
+    rm -rf /var/lib/apt/lists/*
+
+# Set up Wine environment
+ENV WINEPREFIX=/wine
+ENV DISPLAY=:0
+ENV WINEDLLPATH=/wine/drive_c/windows/system32
+
+# Create wine prefix
+RUN wine --version && wineboot --init
+
+# Install Python in Wine
+WORKDIR /tmp
+RUN wget -q https://www.python.org/ftp/python/3.11.9/python-3.11.9-amd64.exe && \
+    xvfb-run -a wine python-3.11.9-amd64.exe /quiet InstallAllUsers=1 PrependPath=1 && \
+    rm python-3.11.9-amd64.exe
+
+# Set up working directory
+WORKDIR /app
+
+# Create start script
+RUN echo '#!/bin/bash\n\
+echo "Starting Windows test environment..."\n\
+Xvfb :0 -screen 0 1280x1024x24 &\n\
+sleep 2\n\
+fluxbox &\n\
+sleep 1\n\
+x11vnc -display :0 -nopw -listen localhost -xkb -ncache 10 -ncache_cr -forever -bg\n\
+echo "VNC server started on :5900"\n\
+echo "Testing Python in Wine..."\n\
+wine python --version\n\
+echo "Installing app dependencies..."\n\
+wine python -m pip install -q -r requirements.txt\n\
+wine python -m pip install -q pynput pystray customtkinter pyperclip pillow\n\
+echo "Environment ready for testing!"\n\
+echo "Connect with VNC client to localhost:5900"\n\
+echo "Run: wine python run_app.py"\n\
+exec "$@"' > /start.sh && chmod +x /start.sh
+
+EXPOSE 5900
+CMD ["/start.sh", "bash"]

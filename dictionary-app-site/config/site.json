@@ -1,0 +1,41 @@
+{
+  "site_name": "Dictionary App",
+  "tagline": "Your intelligent dictionary with extensions",
+  "description": "A powerful, extensible dictionary application with smart search, offline functionality, and a thriving extension marketplace.",
+  "current_version": "1.0.0",
+  "download_links": {
+    "windows": "/downloads/dictionary-setup.exe",
+    "mac": "/downloads/dictionary.dmg",
+    "linux": "/downloads/dictionary.AppImage"
+  },
+  "social": {
+    "twitter": "https://twitter.com/dictionaryapp",
+    "github": "https://github.com/dictionaryapp",
+    "discord": "https://discord.gg/dictionaryapp"
+  },
+  "support_email": "support@dictionaryapp.com",
+  "pricing": {
+    "free": {
+      "price": 0,
+      "searches": 50,
+      "features": [
+        "Basic dictionary search",
+        "50 searches per month",
+        "Core features",
+        "Community support"
+      ]
+    },
+    "pro": {
+      "price": 20,
+      "searches": "unlimited",
+      "features": [
+        "Unlimited searches",
+        "All features unlocked",
+        "Extension marketplace access",
+        "Priority support",
+        "Lifetime updates",
+        "Transfer between devices"
+      ]
+    }
+  }
+}

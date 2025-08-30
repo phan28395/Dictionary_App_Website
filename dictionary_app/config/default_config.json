@@ -1,0 +1,76 @@
+{
+  "app": {
+    "name": "Dictionary App",
+    "version": "1.0.0",
+    "build": "1",
+    "platform": "cross-platform"
+  },
+  "database": {
+    "path": "data/dictionary.db",
+    "encryption": {
+      "enabled": true,
+      "key_derivation_rounds": 100000,
+      "algorithm": "AES-256"
+    },
+    "connection": {
+      "pool_size": 5,
+      "timeout": 30,
+      "check_same_thread": false
+    }
+  },
+  "plugins": {
+    "directory": "plugins",
+    "dev_directory": "plugins-dev",
+    "hot_reload": true,
+    "safe_mode": false,
+    "load_order": [
+      "core-ui",
+      "settings",
+      "auth",
+      "licensing",
+      "favorites",
+      "history",
+      "extension-store"
+    ]
+  },
+  "search": {
+    "cache": {
+      "enabled": true,
+      "size_mb": 100,
+      "ttl_seconds": 3600
+    },
+    "limits": {
+      "max_results": 100,
+      "fuzzy_threshold": 0.7
+    },
+    "guest_limit": 50
+  },
+  "marketplace": {
+    "registry_url": "https://raw.githubusercontent.com/dictionary-app/extensions/main/registry.json",
+    "api_url": "https://api.dictionary-app.com/v1/store",
+    "update_check_interval": 86400,
+    "commission_rate": 0.30
+  },
+  "licensing": {
+    "validation_url": "https://api.dictionary-app.com/v1/license/validate",
+    "offline_grace_period_days": 7,
+    "hardware_id_components": ["mac_address", "cpu_id", "disk_serial"],
+    "price_tiers": {
+      "core_app": 20.00,
+      "extension_min": 0.99,
+      "extension_max": 4.99
+    }
+  },
+  "logging": {
+    "level": "INFO",
+    "file": "logs/dictionary-app.log",
+    "rotate": true,
+    "max_size_mb": 10,
+    "backup_count": 5
+  },
+  "performance": {
+    "plugin_memory_limit_mb": 50,
+    "startup_delay_ms": 100,
+    "animation_fps": 60
+  }
+}

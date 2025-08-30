@@ -1,0 +1,2 @@
+# Licensing plugin dependencies
+stripe>=5.0.0  # For payment processing (optional - falls back to demo if not installed)

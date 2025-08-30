@@ -1,0 +1,17 @@
+# Core dependencies only - NO UI libraries here
+# UI libraries go in the UI plugin's requirements
+
+# Database encryption
+pysqlcipher3==1.2.0
+
+# Plugin hot-reload system
+watchdog==4.0.0
+
+# Configuration management
+python-dotenv==1.0.1
+
+# For secure key storage
+keyring==24.3.0
+
+# JSON handling with better performance
+orjson==3.9.10
