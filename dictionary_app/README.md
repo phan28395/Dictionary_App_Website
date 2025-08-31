@@ -145,3 +145,4 @@ print(f'Found {len(results)} results')
 ---
 
 **Happy Testing!** 🎉 This dictionary app is built for power users who want fast, offline dictionary access with unlimited extensibility.
+

@@ -60,7 +60,8 @@ class ExtensionStorePlugin(Plugin):
             try:
                 self.update_registry()
             except Exception as e:
-                logger.warning(f"Failed to update registry: {e}")
+                logger.info(f"Extension registry not available (offline mode): {e}")
+                # Continue without registry - extension store will work with local extensions only
                 
     def on_disable(self):
         """Disable extension store"""

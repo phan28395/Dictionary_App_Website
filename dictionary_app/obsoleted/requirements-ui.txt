@@ -1,0 +1,18 @@
+# UI Plugin Requirements for Windows
+# Install these for full GUI experience
+
+# Modern tkinter UI framework
+customtkinter>=5.2.0
+
+# System tray functionality  
+pystray>=0.19.0
+Pillow>=10.0.0
+
+# Global hotkey capture
+pynput>=1.7.6
+
+# Clipboard access for selected text
+pyperclip>=1.8.2
+
+# Cross-platform UI utilities
+plyer>=2.1.0

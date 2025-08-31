@@ -6,6 +6,7 @@ Provides system tray, global hotkeys, and search popup functionality.
 import sys
 import logging
 import threading
+import queue
 from pathlib import Path
 
 # Add parent to path for core imports
@@ -69,6 +70,16 @@ class CoreUIPlugin(Plugin):
         # Threading
         self.ui_thread = None
         self.tray_thread = None
+        self.ui_queue = queue.Queue()
+        self.main_thread_id = threading.get_ident()
+        
+        # Tkinter root for main loop
+        self.root = None
+        
+        # Performance optimization
+        self.ui_queue_active = False
+        self.poll_interval = 100  # Start with 100ms
+        self.max_poll_interval = 500  # Max 500ms when idle
         
         # Settings
         self.hotkey_combo = "ctrl+ctrl"
@@ -90,11 +101,19 @@ class CoreUIPlugin(Plugin):
                 ctk.set_default_color_theme("blue")
             except:
                 pass
+        
+        # Initialize Tkinter root in main thread
+        if TKINTER_AVAILABLE and threading.current_thread() is threading.main_thread():
+            self._init_tkinter_root()
     
     def on_enable(self):
         """Called when plugin is enabled."""
         super().on_enable()
         logger.info("Core UI plugin enabled")
+        
+        # Initialize Tkinter if not already done
+        if TKINTER_AVAILABLE and not self.root:
+            self._init_tkinter_root()
         
         # Start system tray
         if self.show_in_tray and PYSTRAY_AVAILABLE:
@@ -103,6 +122,10 @@ class CoreUIPlugin(Plugin):
         # Start global hotkey listener
         if PYNPUT_AVAILABLE:
             self._start_hotkey_listener()
+        
+        # Start UI processing
+        if self.root:
+            self._process_ui_queue()
         
         # Subscribe to search events
         self.app.events.on(CoreEvents.SEARCH_COMPLETE, self._on_search_complete)
@@ -126,6 +149,11 @@ class CoreUIPlugin(Plugin):
         if self.search_window:
             self.search_window.destroy()
             self.search_window = None
+        
+        # Stop tkinter root
+        if self.root:
+            self.root.quit()
+            self.root = None
     
     def _create_tray_icon(self):
         """Create system tray icon image."""
@@ -144,6 +172,62 @@ class CoreUIPlugin(Plugin):
         
         return image
     
+    def _init_tkinter_root(self):
+        """Initialize Tkinter root window."""
+        if not TKINTER_AVAILABLE:
+            return
+        
+        self.root = tk.Tk()
+        self.root.withdraw()  # Hide root window
+        self.root.title("Dictionary App")
+        
+        logger.info("Tkinter root initialized")
+    
+    def _process_ui_queue(self):
+        """Process UI operations from queue in main thread."""
+        if not self.root:
+            return
+        
+        operations_processed = 0
+        
+        try:
+            # Process all queued UI operations
+            while True:
+                try:
+                    operation = self.ui_queue.get_nowait()
+                    operation()
+                    operations_processed += 1
+                except queue.Empty:
+                    break
+        except Exception as e:
+            logger.error(f"Error processing UI queue: {e}")
+        
+        # Adaptive polling: reduce interval when idle, increase when active
+        if operations_processed > 0:
+            self.ui_queue_active = True
+            self.poll_interval = 50  # Fast polling when active
+        else:
+            if self.ui_queue_active:
+                # Just became idle, start backing off
+                self.ui_queue_active = False
+                self.poll_interval = 100
+            else:
+                # Stay idle, increase interval up to max
+                self.poll_interval = min(self.poll_interval * 1.5, self.max_poll_interval)
+        
+        # Schedule next check with adaptive interval
+        self.root.after(int(self.poll_interval), self._process_ui_queue)
+    
+    def _queue_ui_operation(self, operation):
+        """Queue a UI operation to be executed in main thread."""
+        self.ui_queue.put(operation)
+    
+    def run_main_loop(self):
+        """Run the main Tkinter event loop."""
+        if self.root:
+            logger.info("Starting Tkinter main loop")
+            self.root.mainloop()
+    
     def _start_system_tray(self):
         """Start system tray icon."""
         if not PYSTRAY_AVAILABLE:
@@ -160,11 +244,11 @@ class CoreUIPlugin(Plugin):
         
         def on_search(icon, item):
             """Show search window."""
-            self.show_search_window()
+            self._queue_ui_operation(lambda: self.show_search_window())
         
         def on_settings(icon, item):
-            """Show settings (emit event for settings plugin)."""
-            self.app.events.emit('settings.show')
+            """Show settings window."""
+            self._queue_ui_operation(lambda: self._show_settings_window())
         
         # Create menu
         menu = pystray.Menu(
@@ -236,11 +320,11 @@ class CoreUIPlugin(Plugin):
         # Try to get selected text
         selected_text = self._get_selected_text()
         
-        # Show search window
+        # Queue UI operation for main thread
         if selected_text:
-            self.show_search_window(selected_text)
+            self._queue_ui_operation(lambda: self.show_search_window(selected_text))
         else:
-            self.show_search_window()
+            self._queue_ui_operation(lambda: self.show_search_window())
     
     def _get_selected_text(self):
         """Get currently selected text from any application."""
@@ -280,7 +364,7 @@ class CoreUIPlugin(Plugin):
     
     def show_search_window(self, initial_text=None):
         """Show the search popup window."""
-        if not TKINTER_AVAILABLE:
+        if not TKINTER_AVAILABLE or not self.root:
             logger.error("tkinter not available, cannot show search window")
             return
         
@@ -496,16 +580,56 @@ class CoreUIPlugin(Plugin):
                 meaning_frame = ctk.CTkFrame(card, fg_color="transparent")
                 meaning_frame.pack(fill=tk.X, padx=10, pady=2)
                 
-                # Definition
-                definition_text = f"{i}. {meaning.get('definition', 'No definition')}"
-                definition_label = ctk.CTkLabel(
-                    meaning_frame,
-                    text=definition_text,
-                    font=("Arial", 12),
+                # Short meaning (bold) with frequency indicator
+                short_meaning = meaning.get('meaning', 'No meaning')
+                frequency = meaning.get('frequency_meaning', 0)
+                
+                # Create frequency indicator (dots)
+                if frequency > 0.4:
+                    freq_indicator = "●●●"  # Very common
+                elif frequency > 0.2:
+                    freq_indicator = "●●○"  # Common  
+                elif frequency > 0.1:
+                    freq_indicator = "●○○"  # Less common
+                else:
+                    freq_indicator = "○○○"  # Rare
+                
+                meaning_text = f"{i}. {short_meaning}"
+                
+                # Create header frame for meaning and frequency
+                meaning_header = ctk.CTkFrame(meaning_frame, fg_color="transparent")
+                meaning_header.pack(fill=tk.X)
+                
+                meaning_label = ctk.CTkLabel(
+                    meaning_header,
+                    text=meaning_text,
+                    font=("Arial", 12, "bold"),
                     justify=tk.LEFT,
-                    wraplength=450
+                    wraplength=380
                 )
-                definition_label.pack(anchor=tk.W)
+                meaning_label.pack(side=tk.LEFT, anchor=tk.W)
+                
+                # Frequency indicator
+                freq_label = ctk.CTkLabel(
+                    meaning_header,
+                    text=freq_indicator,
+                    font=("Arial", 10),
+                    text_color=("orange", "yellow")
+                )
+                freq_label.pack(side=tk.RIGHT, anchor=tk.E, padx=5)
+                
+                # Full definition (regular text, slightly smaller)
+                definition = meaning.get('definition', '')
+                if definition and definition != short_meaning:  # Only show if different from meaning
+                    definition_label = ctk.CTkLabel(
+                        meaning_frame,
+                        text=f"   {definition}",
+                        font=("Arial", 11),
+                        justify=tk.LEFT,
+                        wraplength=430,
+                        text_color=("gray60", "gray40")  # Slightly muted color
+                    )
+                    definition_label.pack(anchor=tk.W, pady=(2, 0))
                 
                 # Examples (first 2)
                 examples = meaning.get('examples', [])
@@ -538,6 +662,67 @@ class CoreUIPlugin(Plugin):
     def _on_search_complete(self, term, results):
         """Handle search complete event."""
         logger.debug(f"Search complete for '{term}': {len(results)} results")
+    def _show_settings_window(self):
+        """Show simple settings window."""
+        if not TKINTER_AVAILABLE or not self.root:
+            logger.error("tkinter not available, cannot show settings window")
+            return
+        
+        # Create settings window
+        settings_win = ctk.CTkToplevel(self.root)
+        settings_win.title("Settings")
+        settings_win.geometry("400x300")
+        settings_win.attributes('-topmost', True)
+        
+        # Create main frame
+        main_frame = ctk.CTkFrame(settings_win)
+        main_frame.pack(fill=tk.BOTH, expand=True, padx=20, pady=20)
+        
+        # Title
+        title_label = ctk.CTkLabel(main_frame, text="Dictionary App Settings", font=("Arial", 16, "bold"))
+        title_label.pack(pady=10)
+        
+        # Hotkey setting
+        hotkey_frame = ctk.CTkFrame(main_frame)
+        hotkey_frame.pack(fill=tk.X, pady=10)
+        
+        ctk.CTkLabel(hotkey_frame, text="Hotkey:").pack(side=tk.LEFT, padx=10, pady=10)
+        hotkey_var = tk.StringVar(value=self.hotkey_combo)
+        hotkey_entry = ctk.CTkEntry(hotkey_frame, textvariable=hotkey_var)
+        hotkey_entry.pack(side=tk.RIGHT, padx=10, pady=10)
+        
+        # Tray setting
+        tray_frame = ctk.CTkFrame(main_frame)
+        tray_frame.pack(fill=tk.X, pady=10)
+        
+        ctk.CTkLabel(tray_frame, text="Show in system tray:").pack(side=tk.LEFT, padx=10, pady=10)
+        tray_var = tk.BooleanVar(value=self.show_in_tray)
+        tray_check = ctk.CTkCheckBox(tray_frame, text="", variable=tray_var)
+        tray_check.pack(side=tk.RIGHT, padx=10, pady=10)
+        
+        # Buttons
+        button_frame = ctk.CTkFrame(main_frame)
+        button_frame.pack(fill=tk.X, pady=20)
+        
+        def save_settings():
+            self.hotkey_combo = hotkey_var.get()
+            self.show_in_tray = tray_var.get()
+            logger.info(f"Settings saved: hotkey={self.hotkey_combo}, tray={self.show_in_tray}")
+            settings_win.destroy()
+        
+        save_btn = ctk.CTkButton(button_frame, text="Save", command=save_settings)
+        save_btn.pack(side=tk.RIGHT, padx=5)
+        
+        cancel_btn = ctk.CTkButton(button_frame, text="Cancel", command=settings_win.destroy)
+        cancel_btn.pack(side=tk.RIGHT, padx=5)
+        
+        # Center window
+        settings_win.update_idletasks()
+        x = (settings_win.winfo_screenwidth() - settings_win.winfo_width()) // 2
+        y = (settings_win.winfo_screenheight() - settings_win.winfo_height()) // 2
+        settings_win.geometry(f"+{x}+{y}")
+        
+        logger.info("Settings window opened")
 
 
 # Required for plugin loader

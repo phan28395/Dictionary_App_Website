@@ -1,0 +1,17 @@
+# Windows-specific dependencies
+# Use regular sqlite3 (built-in) instead of pysqlcipher3 on Windows
+
+# Plugin hot-reload system
+watchdog==4.0.0
+
+# Configuration management
+python-dotenv==1.0.1
+
+# For secure key storage
+keyring==24.3.0
+
+# JSON handling with better performance
+orjson==3.9.10
+
+# Windows-specific crypto for database encryption (alternative to SQLCipher)
+cryptography>=41.0.0

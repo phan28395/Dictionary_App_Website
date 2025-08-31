@@ -277,9 +277,9 @@ class SearchEngine:
         Returns:
             SearchResult or None
         """
-        # Query main entry
+        # Query main entry with all data fields
         query = """
-            SELECT id, lemma, meanings
+            SELECT id, lemma, meanings, definitions, examples, frequency_meaning
             FROM dictionary_entries
             WHERE lemma = ? AND pos = ?
         """
@@ -289,33 +289,54 @@ class SearchEngine:
         if not row:
             return None
         
-        entry_id, lemma, meanings_json = row
+        entry_id, lemma, meanings_json, definitions_json, examples_json, frequency_json = row
         frequency_rank = None  # Not available in current schema
         
-        # Parse meanings
+        # Parse all JSON fields
         try:
-            meanings = json.loads(meanings_json) if meanings_json else []
+            meanings_list = json.loads(meanings_json) if meanings_json else []
+            definitions_list = json.loads(definitions_json) if definitions_json else []
+            examples_list = json.loads(examples_json) if examples_json else []
+            frequency_list = json.loads(frequency_json) if frequency_json else []
         except json.JSONDecodeError:
-            logger.error(f"Invalid JSON in meanings for {lemma}")
-            meanings = []
+            logger.error(f"Invalid JSON in data for {lemma}")
+            meanings_list = definitions_list = examples_list = frequency_list = []
         
-        # Convert simple string meanings to complex format if needed
-        if meanings and isinstance(meanings[0], str):
-            # Simple format: ["definition1", "definition2"]
-            # Convert to: [{"definition": "definition1", "frequency_meaning": 1.0}, ...]
-            total = len(meanings)
-            meanings = [
-                {
-                    "definition": meaning,
-                    "frequency_meaning": 1.0 / total,  # Equal weight for simple format
-                    "examples": []
-                }
-                for meaning in meanings
-            ]
+        # Combine all data into structured meanings format
+        meanings = []
+        num_meanings = max(len(meanings_list), len(definitions_list), len(examples_list), len(frequency_list))
         
-        # Sort meanings by frequency (complex format has this, simple format gets equal weight)
-        if meanings and isinstance(meanings[0], dict):
-            meanings.sort(key=lambda m: m.get('frequency_meaning', 0), reverse=True)
+        for i in range(num_meanings):
+            meaning_entry = {}
+            
+            # Get meaning (short phrase)
+            if i < len(meanings_list):
+                meaning_entry['meaning'] = meanings_list[i]
+            else:
+                meaning_entry['meaning'] = 'No meaning available'
+            
+            # Get definition (detailed explanation)
+            if i < len(definitions_list):
+                meaning_entry['definition'] = definitions_list[i]
+            else:
+                meaning_entry['definition'] = meaning_entry['meaning']  # Fallback to meaning
+            
+            # Get examples
+            if i < len(examples_list) and examples_list[i]:
+                meaning_entry['examples'] = examples_list[i] if isinstance(examples_list[i], list) else [examples_list[i]]
+            else:
+                meaning_entry['examples'] = []
+            
+            # Get frequency weight
+            if i < len(frequency_list):
+                meaning_entry['frequency_meaning'] = frequency_list[i]
+            else:
+                meaning_entry['frequency_meaning'] = 1.0 / num_meanings  # Equal weight fallback
+            
+            meanings.append(meaning_entry)
+        
+        # Sort meanings by frequency (highest first)
+        meanings.sort(key=lambda m: m.get('frequency_meaning', 0), reverse=True)
         
         # Create result
         result = SearchResult(

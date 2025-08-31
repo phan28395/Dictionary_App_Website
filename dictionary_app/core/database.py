@@ -176,7 +176,7 @@ class Database:
         )
         
         # Initialize database if needed
-        if not self.database_path.exists() or self.database_path.stat().st_size == 0:
+        if not self.database_path.exists() or self.database_path.stat().st_size == 0 or not self._check_tables_exist():
             self._initialize_database()
     
     def _derive_encryption_key(self) -> str:
@@ -258,6 +258,27 @@ class Database:
             conn.commit()
         
         logger.info("Database initialized successfully")
+    
+    def _check_tables_exist(self) -> bool:
+        """Check if required tables exist in database."""
+        if not self.database_path.exists():
+            return False
+        
+        try:
+            with self.get_connection() as conn:
+                cursor = conn.cursor()
+                
+                # Check for main table
+                cursor.execute("""
+                    SELECT COUNT(*) FROM sqlite_master 
+                    WHERE type='table' AND name='dictionary_entries'
+                """)
+                
+                count = cursor.fetchone()[0]
+                return count > 0
+        except Exception as e:
+            logger.warning(f"Error checking tables exist: {e}")
+            return False
     
     def execute(self, query: str, params: Optional[Tuple] = None) -> List[Tuple]:
         """

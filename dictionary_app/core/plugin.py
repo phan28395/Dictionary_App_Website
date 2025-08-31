@@ -410,28 +410,7 @@ class PluginLoader:
             True if successful
         """
         with self._lock:
-            if plugin_id not in self.plugins:
-                return False
-            
-            plugin = self.plugins[plugin_id]
-            
-            try:
-                # Disable first if enabled
-                if plugin.enabled:
-                    plugin.on_disable()
-                
-                # Call unload lifecycle
-                plugin.on_unload()
-                
-                # Remove from registry
-                del self.plugins[plugin_id]
-                
-                logger.info(f"Unloaded plugin: {plugin_id}")
-                return True
-                
-            except Exception as e:
-                logger.error(f"Failed to unload plugin {plugin_id}: {e}")
-                return False
+            return self._unload_plugin_internal(plugin_id)
     
     def reload_plugin(self, plugin_id: str) -> bool:
         """
@@ -494,4 +473,29 @@ class PluginLoader:
             # Unload in reverse order
             for plugin_id in reversed(self.load_order):
                 if plugin_id in self.plugins:
-                    self.unload_plugin(plugin_id)
+                    self._unload_plugin_internal(plugin_id)
+    
+    def _unload_plugin_internal(self, plugin_id: str) -> bool:
+        """Internal unload method that doesn't acquire lock."""
+        if plugin_id not in self.plugins:
+            return False
+        
+        plugin = self.plugins[plugin_id]
+        
+        try:
+            # Disable first if enabled
+            if plugin.enabled:
+                plugin.on_disable()
+            
+            # Call unload lifecycle
+            plugin.on_unload()
+            
+            # Remove from registry
+            del self.plugins[plugin_id]
+            
+            logger.info(f"Unloaded plugin: {plugin_id}")
+            return True
+            
+        except Exception as e:
+            logger.error(f"Failed to unload plugin {plugin_id}: {e}")
+            return False

@@ -50,12 +50,20 @@ def main():
         logger.info("Dictionary App is running. Press Ctrl+C to stop.")
         logger.info("Double-tap Ctrl to open search (if UI plugin is active)")
         
-        # Keep app running
-        while app.running:
-            time.sleep(1)
+        # If UI plugin is available and enabled, run Tkinter main loop
+        if ui_plugin and ui_plugin.enabled and hasattr(ui_plugin, 'root') and ui_plugin.root:
+            logger.info("Starting Tkinter main loop")
+            ui_plugin.run_main_loop()
+        else:
+            # Fallback: Keep app running with simple loop
+            logger.info("Running in headless mode")
+            while app.running:
+                time.sleep(1)
     
     except KeyboardInterrupt:
         logger.info("Received interrupt signal")
+    except Exception as e:
+        logger.error(f"Unexpected error: {e}")
     
     finally:
         app.shutdown()
