@@ -67,6 +67,12 @@ class CoreUIPlugin(Plugin):
         self.last_hotkey_time = 0
         self.ctrl_pressed_count = 0
         
+        # Enhanced hotkey detection
+        self.ctrl_is_pressed = False
+        self.ctrl_was_released = True
+        self.first_ctrl_time = 0
+        self.last_trigger_time = 0  # Prevent rapid re-triggers
+        
         # Threading
         self.ui_thread = None
         self.tray_thread = None
@@ -215,20 +221,34 @@ class CoreUIPlugin(Plugin):
             """Handle key press."""
             current_time = time.time()
             
-            # Check for Ctrl+Ctrl (double tap)
+            # Check for Ctrl+Ctrl (double tap) - Enhanced version
             if self.hotkey_combo == "ctrl+ctrl":
                 if key == keyboard.Key.ctrl_l or key == keyboard.Key.ctrl_r:
-                    if current_time - self.last_hotkey_time < 0.5:  # Within 500ms
-                        # Double Ctrl pressed
-                        logger.info("Double Ctrl detected - triggering search")
-                        self.ctrl_pressed_count = 0
-                        self.last_hotkey_time = 0
+                    # Prevent rapid re-triggers (cooldown period)
+                    if current_time - self.last_trigger_time < 1.0:
+                        return
+                    
+                    if not self.ctrl_is_pressed:  # Ctrl not currently held
+                        if self.ctrl_was_released and self.first_ctrl_time > 0:
+                            # This is the second Ctrl press
+                            time_diff = current_time - self.first_ctrl_time
+                            if 0.1 <= time_diff <= 0.3:  # Between 100-300ms
+                                # Valid double tap detected!
+                                logger.info("Enhanced Double Ctrl detected - triggering search")
+                                self.last_trigger_time = current_time
+                                self._reset_hotkey_state()
+                                self._handle_hotkey_triggered()
+                                return
                         
-                        # Get selected text and search
-                        self._handle_hotkey_triggered()
-                    else:
-                        self.ctrl_pressed_count = 1
-                        self.last_hotkey_time = current_time
+                        # First Ctrl press or invalid timing
+                        self.first_ctrl_time = current_time
+                        self.ctrl_was_released = False
+                    
+                    self.ctrl_is_pressed = True
+                
+                # Reset state if any other key is pressed during Ctrl+Ctrl sequence
+                elif self.first_ctrl_time > 0:
+                    self._reset_hotkey_state()
             
             # Check for Super+Super (double tap)
             elif self.hotkey_combo == "super+super":
@@ -262,8 +282,11 @@ class CoreUIPlugin(Plugin):
                         self.last_hotkey_time = current_time
         
         def on_release(key):
-            """Handle key release."""
-            pass
+            """Handle key release to track Ctrl state properly."""
+            if self.hotkey_combo == "ctrl+ctrl":
+                if key == keyboard.Key.ctrl_l or key == keyboard.Key.ctrl_r:
+                    self.ctrl_is_pressed = False
+                    self.ctrl_was_released = True
         
         # Start listener
         self.hotkey_listener = keyboard.Listener(
@@ -274,6 +297,12 @@ class CoreUIPlugin(Plugin):
         self.hotkey_listener.start()
         
         logger.info(f"Global hotkey listener started for {self.hotkey_combo}")
+    
+    def _reset_hotkey_state(self):
+        """Reset hotkey detection state."""
+        self.ctrl_is_pressed = False
+        self.ctrl_was_released = True
+        self.first_ctrl_time = 0
     
     def _handle_hotkey_triggered(self):
         """Handle when hotkey is triggered."""
@@ -341,8 +370,8 @@ class CoreUIPlugin(Plugin):
         if initial_text and hasattr(self, 'search_entry'):
             self.search_entry.delete(0, tk.END)
             self.search_entry.insert(0, initial_text)
-            # Trigger search
-            self._on_search_changed()
+            # Trigger full search immediately when text is populated via hotkey
+            self._on_search_submit()
         
         # Show and focus window
         self.search_window.deiconify()
