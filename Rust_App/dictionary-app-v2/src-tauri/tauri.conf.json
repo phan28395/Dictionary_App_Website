@@ -1,0 +1,36 @@
+{
+  "$schema": "https://schema.tauri.app/config/2.0.0",
+  "productName": "Dictionary App",
+  "version": "0.0.0",
+  "identifier": "com.dictionary.app",
+  "build": {
+    "beforeBuildCommand": "npm run build",
+    "beforeDevCommand": "npm run dev -- --port 3001",
+    "devUrl": "http://localhost:3001",
+    "frontendDist": "../dist"
+  },
+  "app": {
+    "windows": [
+      {
+        "title": "Dictionary App",
+        "width": 800,
+        "height": 600,
+        "visible": false,
+        "center": false,
+        "skipTaskbar": true,
+        "alwaysOnTop": true,
+        "decorations": true,
+        "resizable": true
+      }
+    ],
+    "security": {
+      "csp": null
+    }
+  },
+  "bundle": {
+    "resources": [
+      "../data/*",
+      "../plugins/**/*"
+    ]
+  }
+}

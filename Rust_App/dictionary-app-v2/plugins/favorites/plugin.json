@@ -1,0 +1,11 @@
+{
+  "id": "favorites",
+  "name": "Favorites Plugin",
+  "version": "1.0.0",
+  "description": "Bookmark and manage favorite dictionary words",
+  "author": "Dictionary App Team",
+  "main": "index.js",
+  "permissions": ["storage"],
+  "dependencies": {},
+  "enabled": true
+}

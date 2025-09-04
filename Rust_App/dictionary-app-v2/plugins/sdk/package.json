@@ -1,0 +1,28 @@
+{
+  "name": "@dictionary-app/plugin-sdk",
+  "version": "1.0.0",
+  "description": "TypeScript SDK for Dictionary App plugins",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "keywords": ["dictionary", "plugin", "sdk", "typescript"],
+  "author": "Dictionary App",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "files": [
+    "dist/",
+    "src/"
+  ],
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "require": "./dist/index.js"
+    }
+  }
+}

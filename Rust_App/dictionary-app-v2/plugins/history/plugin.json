@@ -1,0 +1,11 @@
+{
+  "id": "history",
+  "name": "Search History Plugin",
+  "version": "1.0.0",
+  "description": "Track and manage search history",
+  "author": "Dictionary App Team",
+  "main": "index.js",
+  "permissions": ["storage"],
+  "dependencies": {},
+  "enabled": true
+}
