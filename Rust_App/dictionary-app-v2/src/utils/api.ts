@@ -15,17 +15,35 @@ import type {
 // API wrapper functions for Tauri commands
 export class DictionaryAPI {
   private static isInitialized = false;
+  private static initializationPromise: Promise<ApiResponse<void>> | null = null;
 
   /**
    * Initialize the search engine with database paths
    */
   static async initialize(): Promise<ApiResponse<void>> {
+    // Prevent duplicate initialization
+    if (this.isInitialized) {
+      return { success: true, data: undefined };
+    }
+    
+    // If already initializing, return the same promise
+    if (this.initializationPromise) {
+      return this.initializationPromise;
+    }
+
+    this.initializationPromise = this.performInitialization();
+    return this.initializationPromise;
+  }
+
+  private static async performInitialization(): Promise<ApiResponse<void>> {
     try {
       await invoke('initialize_search_engine');
       await invoke('initialize_plugin_manager');
       this.isInitialized = true;
+      this.initializationPromise = null; // Reset for future use
       return { success: true, data: undefined };
     } catch (error) {
+      this.initializationPromise = null; // Reset on error
       console.error('Failed to initialize:', error);
       return {
         success: false,
@@ -42,10 +60,6 @@ export class DictionaryAPI {
    */
   static async searchDictionary(term: string): Promise<ApiResponse<SearchResponse>> {
     try {
-      if (!this.isInitialized) {
-        await this.initialize();
-      }
-
       const startTime = Date.now();
       const results: SearchResult[] = await invoke('search_dictionary', { term });
       const searchTime = Date.now() - startTime;
@@ -75,10 +89,6 @@ export class DictionaryAPI {
    */
   static async getSuggestions(prefix: string, limit = 10): Promise<ApiResponse<SuggestionsResponse>> {
     try {
-      if (!this.isInitialized) {
-        await this.initialize();
-      }
-
       const suggestions: Suggestion[] = await invoke('get_suggestions', { prefix, limit });
 
       const response: SuggestionsResponse = {
@@ -104,10 +114,6 @@ export class DictionaryAPI {
    */
   static async getInflections(word: string): Promise<ApiResponse<InflectionsResponse>> {
     try {
-      if (!this.isInitialized) {
-        await this.initialize();
-      }
-
       const inflections: InflectionInfo[] = await invoke('get_inflections', { word });
 
       const response: InflectionsResponse = {
@@ -133,10 +139,6 @@ export class DictionaryAPI {
    */
   static async getSearchStats(): Promise<ApiResponse<SearchStats>> {
     try {
-      if (!this.isInitialized) {
-        await this.initialize();
-      }
-
       const stats: SearchStats = await invoke('get_search_stats');
       return { success: true, data: stats };
     } catch (error) {
@@ -184,6 +186,63 @@ export class DictionaryAPI {
         error: {
           message: error instanceof Error ? error.message : 'Failed to hide window',
           code: 'WINDOW_ERROR'
+        }
+      };
+    }
+  }
+
+  /**
+   * Quit the application with proper cleanup
+   */
+  static async quitApp(): Promise<ApiResponse<void>> {
+    try {
+      await invoke('quit_app');
+      return { success: true, data: undefined };
+    } catch (error) {
+      console.error('Failed to quit app:', error);
+      return {
+        success: false,
+        error: {
+          message: error instanceof Error ? error.message : 'Failed to quit application',
+          code: 'QUIT_ERROR'
+        }
+      };
+    }
+  }
+
+  /**
+   * Get logs directory path
+   */
+  static async getLogsDirectory(): Promise<ApiResponse<string>> {
+    try {
+      const directory: string = await invoke('get_logs_directory');
+      return { success: true, data: directory };
+    } catch (error) {
+      console.error('Failed to get logs directory:', error);
+      return {
+        success: false,
+        error: {
+          message: error instanceof Error ? error.message : 'Failed to get logs directory',
+          code: 'LOGS_ERROR'
+        }
+      };
+    }
+  }
+
+  /**
+   * Get current logs information
+   */
+  static async getLogsInfo(): Promise<ApiResponse<string[]>> {
+    try {
+      const info: string[] = await invoke('get_logs_info');
+      return { success: true, data: info };
+    } catch (error) {
+      console.error('Failed to get logs info:', error);
+      return {
+        success: false,
+        error: {
+          message: error instanceof Error ? error.message : 'Failed to get logs information',
+          code: 'LOGS_ERROR'
         }
       };
     }

@@ -32,11 +32,6 @@ const SuggestionItem: React.FC<SuggestionItemProps> = ({
     aria-selected={isSelected}
   >
     <span className="font-medium">{suggestion.word}</span>
-    {suggestion.frequency && (
-      <span className="text-xs text-gray-500 ml-2">
-        {suggestion.frequency.toLocaleString()}
-      </span>
-    )}
   </button>
 );
 

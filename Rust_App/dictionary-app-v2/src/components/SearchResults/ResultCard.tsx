@@ -39,18 +39,27 @@ export const ResultCard: React.FC<ResultCardProps> = ({
 
   const formatPartOfSpeech = (pos: string): string => {
     const posMap: Record<string, string> = {
-      'n': 'noun',
-      'v': 'verb',
-      'adj': 'adjective',
-      'adv': 'adverb',
-      'prep': 'preposition',
-      'conj': 'conjunction',
-      'int': 'interjection',
-      'pron': 'pronoun',
-      'det': 'determiner'
+      'noun': 'noun',
+      'verb': 'verb', 
+      'adjective': 'adjective',
+      'adverb': 'adverb'
     };
     return posMap[pos.toLowerCase()] || pos;
   };
+
+  // Helper functions to parse JSON data
+  const parseJsonArray = (jsonString: string): string[] => {
+    try {
+      return JSON.parse(jsonString) || [];
+    } catch {
+      return [];
+    }
+  };
+
+  const meanings = parseJsonArray(result.meanings);
+  const definitions = parseJsonArray(result.definitions);
+  const examples = parseJsonArray(result.examples);
+  const frequencyWeights = parseJsonArray(result.frequency_meaning);
 
   // const truncateText = (text: string, maxLength: number): string => {
   //   if (text.length <= maxLength) return text;
@@ -86,19 +95,12 @@ export const ResultCard: React.FC<ResultCardProps> = ({
                 </span>
               )}
 
-              {result.frequency && (
+              {frequencyWeights.length > 0 && (
                 <span className="text-xs text-gray-500">
-                  freq: {result.frequency.toLocaleString()}
+                  freq: {frequencyWeights[0]}
                 </span>
               )}
             </div>
-
-            {/* Pronunciation */}
-            {result.pronunciation && (
-              <div className="mt-1 text-sm text-gray-600">
-                /{result.pronunciation}/
-              </div>
-            )}
           </div>
 
           {/* Actions */}
@@ -144,106 +146,46 @@ export const ResultCard: React.FC<ResultCardProps> = ({
           </div>
         </div>
 
-        {/* Definition */}
-        <div className="text-gray-700">
-          <p className={clsx({
-            'line-clamp-2': !isExpanded
-          })}>
-            {result.definition}
-          </p>
+        {/* Meanings and Definitions */}
+        <div className="text-gray-700 space-y-2">
+          {meanings.map((meaning, index) => (
+            <div key={index}>
+              <p className="font-medium">{meaning}</p>
+              {definitions[index] && (
+                <p className={clsx("text-sm text-gray-600 ml-2", {
+                  'line-clamp-2': !isExpanded
+                })}>
+                  {definitions[index]}
+                </p>
+              )}
+            </div>
+          ))}
         </div>
 
         {/* Expanded Content */}
         {isExpanded && (
           <div className="space-y-3 pt-2 border-t border-gray-100 animate-slide-up">
-            {/* Example */}
-            {result.example && (
+            {/* Examples */}
+            {examples.length > 0 && (
               <div>
-                <h4 className="text-sm font-medium text-gray-700 mb-1">Example</h4>
-                <p className="text-sm text-gray-600 italic">
-                  "{result.example}"
-                </p>
+                <h4 className="text-sm font-medium text-gray-700 mb-1">Examples</h4>
+                <div className="space-y-1">
+                  {examples.map((exampleArray, index) => {
+                    // Each example can be an array of example sentences
+                    const exampleSentences = Array.isArray(exampleArray) ? exampleArray : [exampleArray];
+                    return (
+                      <div key={index} className="text-sm text-gray-600">
+                        {exampleSentences.map((sentence, sentenceIndex) => (
+                          <p key={sentenceIndex} className="italic">
+                            "{sentence}"
+                          </p>
+                        ))}
+                      </div>
+                    );
+                  })}
+                </div>
               </div>
             )}
-
-            {/* Etymology */}
-            {result.etymology && (
-              <div>
-                <h4 className="text-sm font-medium text-gray-700 mb-1">Etymology</h4>
-                <p className="text-sm text-gray-600">
-                  {result.etymology}
-                </p>
-              </div>
-            )}
-
-            {/* Usage Notes */}
-            {result.usage_notes && (
-              <div>
-                <h4 className="text-sm font-medium text-gray-700 mb-1">Usage</h4>
-                <p className="text-sm text-gray-600">
-                  {result.usage_notes}
-                </p>
-              </div>
-            )}
-
-            {/* Related Words */}
-            <div className="space-y-2">
-              {result.synonyms && result.synonyms.length > 0 && (
-                <div>
-                  <h4 className="text-sm font-medium text-gray-700 mb-1">Synonyms</h4>
-                  <div className="flex flex-wrap gap-1">
-                    {result.synonyms.map((synonym, index) => (
-                      <span
-                        key={index}
-                        className="inline-flex items-center px-2 py-1 rounded-md text-xs bg-green-50 text-green-700 hover:bg-green-100 cursor-pointer transition-colors"
-                        onClick={(e) => {
-                          e.stopPropagation();
-                          // Could trigger new search for synonym
-                        }}
-                      >
-                        {synonym}
-                      </span>
-                    ))}
-                  </div>
-                </div>
-              )}
-
-              {result.antonyms && result.antonyms.length > 0 && (
-                <div>
-                  <h4 className="text-sm font-medium text-gray-700 mb-1">Antonyms</h4>
-                  <div className="flex flex-wrap gap-1">
-                    {result.antonyms.map((antonym, index) => (
-                      <span
-                        key={index}
-                        className="inline-flex items-center px-2 py-1 rounded-md text-xs bg-red-50 text-red-700 hover:bg-red-100 cursor-pointer transition-colors"
-                        onClick={(e) => {
-                          e.stopPropagation();
-                          // Could trigger new search for antonym
-                        }}
-                      >
-                        {antonym}
-                      </span>
-                    ))}
-                  </div>
-                </div>
-              )}
-
-              {result.inflections && result.inflections.length > 0 && (
-                <div>
-                  <h4 className="text-sm font-medium text-gray-700 mb-1">Word Forms</h4>
-                  <div className="flex flex-wrap gap-1">
-                    {result.inflections.map((inflection, index) => (
-                      <span
-                        key={index}
-                        className="inline-flex items-center px-2 py-1 rounded-md text-xs bg-blue-50 text-blue-700 hover:bg-blue-100 cursor-pointer transition-colors"
-                      >
-                        {inflection}
-                      </span>
-                    ))}
-                  </div>
-                </div>
-              )}
-            </div>
           </div>
         )}
       </div>

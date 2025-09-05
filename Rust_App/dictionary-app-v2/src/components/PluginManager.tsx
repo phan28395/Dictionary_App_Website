@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { PluginInfo } from '../types';
-import DictionaryAPI from '../utils/api';
+import { DictionaryAPI } from '../utils/api';
 
 interface PluginManagerProps {
   className?: string;
@@ -46,6 +46,29 @@ export function PluginManager({ className = '' }: PluginManagerProps) {
     }
   };
 
+  const handleQuit = async () => {
+    if (confirm('Are you sure you want to quit the Dictionary App?')) {
+      try {
+        await DictionaryAPI.quitApp();
+      } catch (err) {
+        setError(err instanceof Error ? err.message : 'Failed to quit app');
+      }
+    }
+  };
+
+  const handleViewLogs = async () => {
+    try {
+      const logsResponse = await DictionaryAPI.getLogsDirectory();
+      if (logsResponse.success) {
+        alert(`Current session logs:\n${logsResponse.data}\n\n📋 Logs persist after exit for debugging\n🔄 Cleaned up automatically on next app startup`);
+      } else {
+        alert(`Failed to get logs directory: ${logsResponse.error.message}`);
+      }
+    } catch (err) {
+      setError(err instanceof Error ? err.message : 'Failed to get logs directory');
+    }
+  };
+
   if (loading) {
     return (
       <div className={`plugin-manager ${className}`}>
@@ -86,6 +109,27 @@ export function PluginManager({ className = '' }: PluginManagerProps) {
     padding: '4px 12px',
     borderRadius: '4px',
     cursor: 'pointer',
+    marginLeft: '8px',
+  };
+
+  const quitButtonStyle: React.CSSProperties = {
+    background: '#dc3545',
+    color: 'white',
+    border: 'none',
+    padding: '4px 12px',
+    borderRadius: '4px',
+    cursor: 'pointer',
+    marginLeft: '8px',
+  };
+
+  const logsButtonStyle: React.CSSProperties = {
+    background: '#6c757d',
+    color: 'white',
+    border: 'none',
+    padding: '4px 12px',
+    borderRadius: '4px',
+    cursor: 'pointer',
+    marginLeft: '8px',
   };
 
   const pluginItemStyle: React.CSSProperties = {
@@ -115,9 +159,17 @@ export function PluginManager({ className = '' }: PluginManagerProps) {
     <div className={className} style={pluginManagerStyle}>
       <div style={pluginHeaderStyle}>
         <h3 style={{ margin: 0, color: '#343a40' }}>Plugin Manager</h3>
-        <button onClick={loadPlugins} style={buttonStyle}>
-          Refresh
-        </button>
+        <div>
+          <button onClick={loadPlugins} style={buttonStyle}>
+            Refresh
+          </button>
+          <button onClick={handleViewLogs} style={logsButtonStyle}>
+            View Logs
+          </button>
+          <button onClick={handleQuit} style={quitButtonStyle}>
+            Quit App
+          </button>
+        </div>
       </div>
       
       {plugins.length === 0 ? (

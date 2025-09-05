@@ -131,13 +131,8 @@ impl SearchEngine {
             stats.direct_lookups += 1;
         }
         
-        // Sort by frequency (highest first) and remove duplicates
-        all_entries.sort_by(|a, b| {
-            b.frequency
-                .unwrap_or(0.0)
-                .partial_cmp(&a.frequency.unwrap_or(0.0))
-                .unwrap_or(std::cmp::Ordering::Equal)
-        });
+        // Remove duplicates by ID (no frequency sorting since we don't have frequency column)
+        all_entries.sort_by(|a, b| a.id.cmp(&b.id));
         
         // Remove duplicates by ID
         all_entries.dedup_by(|a, b| a.id == b.id);
@@ -220,6 +215,29 @@ impl SearchEngine {
             total_dictionary_entries: db_stats.total_entries,
             unique_lemmas: db_stats.unique_lemmas,
         }
+    }
+    
+    pub fn cleanup_and_shutdown(&self) -> Result<(), Box<dyn std::error::Error>> {
+        info!("Shutting down search engine...");
+        
+        // Clean up database connections
+        self.database.cleanup_and_close()?;
+        
+        // Clear in-memory data structures
+        {
+            let mut inflections = self.inflection_map.lock().unwrap();
+            inflections.clear();
+            info!("Inflection map cleared");
+        }
+        
+        {
+            let stats = self.stats.lock().unwrap();
+            info!("Final search stats - Total searches: {}, Cache hits: {}, Inflection lookups: {}, Direct lookups: {}", 
+                  stats.total_searches, stats.cache_hits, stats.inflection_lookups, stats.direct_lookups);
+        }
+        
+        info!("Search engine shutdown completed");
+        Ok(())
     }
 }
 

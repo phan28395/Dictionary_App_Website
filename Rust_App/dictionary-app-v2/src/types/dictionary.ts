@@ -4,16 +4,10 @@ export interface SearchResult {
   id: number;
   lemma: string;
   pos: string; // part of speech
-  definition: string;
-  etymology?: string;
-  example?: string;
-  frequency?: number;
-  inflections?: string[];
-  synonyms?: string[];
-  antonyms?: string[];
-  related_words?: string[];
-  pronunciation?: string;
-  usage_notes?: string;
+  meanings: string; // JSON array
+  definitions: string; // JSON array
+  examples: string; // JSON array
+  frequency_meaning: string; // JSON array of decimal weights
 }
 
 export interface SearchResponse {
@@ -25,7 +19,6 @@ export interface SearchResponse {
 
 export interface Suggestion {
   word: string;
-  frequency: number;
 }
 
 export interface SuggestionsResponse {

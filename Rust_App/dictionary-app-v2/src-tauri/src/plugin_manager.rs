@@ -180,6 +180,7 @@ impl PluginManager {
     }
 
     /// Install a plugin from a directory
+    #[allow(dead_code)]
     pub fn install_plugin(&mut self, source_path: &Path) -> Result<String, String> {
         // Load manifest from source
         let manifest = self.load_plugin_manifest(source_path)?;
@@ -221,6 +222,7 @@ impl PluginManager {
     }
 
     /// Recursively copy directory
+    #[allow(dead_code)]
     fn copy_dir_all(&self, src: &Path, dst: &Path) -> std::io::Result<()> {
         fs::create_dir_all(dst)?;
         
